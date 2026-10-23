@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/101000000/2260622606.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/908-2011-2729391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ac39be7218a6dcb3fe5348402c43fcf84c75e6f9a7e85256cf7a35602f3d7e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99425a31fad4541511702f90959defae312d4ebb36523f4a67f7e2a328a0e9bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:223426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345539:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 908/2011
+# Declaração de rectificação n.º 908/2011
 
 Nos termos do disposto no n.º 2 do artigo 21.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, na redacção dada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, aplicada à administração local pelo [Decreto-Lei n.º 93/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2004-223426), de 20 de Abril, na redacção dada pelo [Decreto-Lei n.º 104/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2006-345539), de 7 de Junho, faz-se público, que por meu despacho de 20 de Abril de 2011 foi determinada a rectificação ao aviso n.º 7490/2001, publicitado no Diário da República, 2.ª série, n.º 59, de 24 de Março de 2011, quanto à composição do júri do procedimento concursal para provimento do cargo de direcção intermédia de 2.º grau, chefe da Divisão Jurídica, revogando-se a tramitação posterior entretanto ocorrida.
 
@@ -90,3 +106,5 @@ Em face desta rectificação, é concedido novo prazo de 10 dias úteis ao abrig
 Quanto às já apresentadas os interessados devem manifestar o interesse na candidatura, remetendo para os documentos já por si apresentados, podendo introduzir as alterações que entenderem.
 
 13 de Maio de 2011. - A Presidente da Câmara, Maria do Céu Albuquerque.
+
+304682216

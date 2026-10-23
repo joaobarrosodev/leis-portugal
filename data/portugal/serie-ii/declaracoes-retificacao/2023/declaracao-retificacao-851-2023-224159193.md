@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/219000000/0006800068.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/851-2023-224159193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53b9dd3687ccff708d0dfc8d4057f8f3fa11adbcc8881f66b845a942917f8bb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58b46c761a6cdc3cea261d780e82dec2d2e5bdf56cf76be405d61fae0568874b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:137719562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202229513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223651827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:3598938:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:23Z'
   warnings: []
   errors: []
 ---
@@ -106,3 +122,5 @@ b) Quatro vagas cativas ao abrigo do protocolo celebrado entre o Ministério da 
 c) Uma vaga cativa ao abrigo do protocolo celebrado entre o Ministério da Saúde e o Ministério da Defesa Nacional, conforme publicado no anexo ao [Aviso n.º 10394/2020](https://diariodarepublica.pt/dr/detalhe/aviso/10394-2020-137719562), de 14 de julho, bem como ao anexo ao [Despacho n.º 12044/2022](https://diariodarepublica.pt/dr/detalhe/despacho/12044-2022-202229513), de 14 de outubro.»
 
 2 de novembro de 2023. - O Vogal do Conselho Diretivo, Tiago Jorge Gonçalves.
+
+317021756

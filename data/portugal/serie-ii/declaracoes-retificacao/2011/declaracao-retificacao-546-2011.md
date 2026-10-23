@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/053000000/1252312524.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/546-2011-2108018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3da4407d644a5bee845ac83764551a1382ed20373c9c242360b3ce3fcb5ffa5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0515ba8b22a08af691aceb804210dfb091d1faeeb84c499e8e00502d06855e3a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,18 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:19Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 546/2011
+# Declaração de rectificação n.º 546/2011
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 181, de 8 de Novembro de 2010, a p. 55 151, o aviso n.º 22645/2010, rectifica-se que onde se lê «Professor Doutor Henrique Lecour, professor catedrático jubilado da Faculdade de Medicina, Universidade do Porto» deve ler-se «Prof. Doutor Henrique Lecour, professor catedrático convidado do Instituto das Ciências da Saúde da Universidade Católica Portuguesa».
 
@@ -101,3 +101,5 @@ Prof. Doutor Virgílio Estólio do Rosário, professor catedrático do Instituto
 Doutora Maria Teresa d'Avillez Paixão, investigadora-coordenadora do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P.»
 
 2 de Março de 2011. - O Presidente, José Pereira Miguel.
+
+204438399

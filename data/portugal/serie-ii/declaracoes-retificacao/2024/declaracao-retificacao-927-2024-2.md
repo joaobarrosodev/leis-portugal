@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/214000000/0014100141.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/927-2024-895376637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee9b11d1a423b6457aa65664fb758561d3b902f322a17e8b9bc17c2a37202dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 059304df158e1ef1c126d9eb770d659b666214ba40cb70c1198f377bcb745f25
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:45Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Para os devidos efeitos, retifica-se o sumário do Aviso n.º 23705/2024/2, publicado no Diário da República, 2.ª série, n.º 207, de 24 de outubro de 2024, deste Município, pelo que onde se lê: "Abertura de procedimento concursal comum para contratação por tempo indeterminado de um assistente operacional - proteção civil" deve ler-se "Abertura de procedimento concursal comum para contratação por tempo indeterminado de dois assistentes operacionais - proteção civil".
 
 25 de outubro de 2024. - A Vice-Presidente da Câmara, Filomena Pascoal Sintra.
+
+318279177

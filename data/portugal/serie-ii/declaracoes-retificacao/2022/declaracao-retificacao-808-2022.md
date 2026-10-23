@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/185000000/0008700087.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/808-2022-201394438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d7bfd6bc8c802d2a8a29df035437fab52954eafac0db660edd7793bf8b27e76
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c80ebac8d0a5c9d83164eb5adbcbce32710efe642a6ce865af5adc251cf781cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:200201706:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:47Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Por ter saído com inexatidão o [Aviso n.º 16510/2022](https://diariodarepublica.pt/dr/detalhe/aviso/16510-2022-200201706), publicado no Diário da República, 2.ª série, n.º 163, de 24 de agosto de 2022, na disposição final, onde se lê «O presente despacho produz efeitos a partir do dia seguinte à data da tomada de posse do diretor, 1 de junho de 2022» deve ler-se «O presente despacho produz efeitos, a partir de 6 de junho, de acordo com o despacho de nomeação para os cargos da Direção».
 
 15 de setembro de 2022. - O Diretor, Telmo Eduardo da Costa Marreiros Soares.
+
+315693073

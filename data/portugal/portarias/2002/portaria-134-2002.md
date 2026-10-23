@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/134/2002/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/134-2002-273667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba37709a995e8aa81d40b028ece38105036283cccba9ab13fd9b43a91d456e38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b5fa5469a26b289eac33b0d9ce851169c8b6606e46fa255ccd51c2c4308b86e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Exploração Pecuária
+- Agricultura
 - Apoio ao Investimento
 - Exploração Agrícola
-- Ruris
+- Exploração Pecuária
+- Financiamento
+- Pecuária
 - Política Agrícola
 - Região Agrária
 - Região Desfavorecida
-- Pecuária
-- Agricultura
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:683668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187502:por
+  label: "Alterado os arts. 5.º, 6.º, 7.º, 13.º e o anexo I do Regulamento constante da Port 46-A/2001, de 25-Jan DR.IS-B\
+    \ [21]Supl, pela PORT.193/2003.2003.02.22.MADRP DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-2003-187502
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:596288:por
+  label: "Alterado o art. 12º e os anexos II e III do Regulamento aprovado pela Port 46-A/2001 de 25-Jan, com a redacção do\
+    \ presente diploma, pela PORT.177/2005.14.02.2005.MAPF, DR.IS-B [31] de 14.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2005-596288
+  date: '2005-02-14'
+- type: amended_by
+  target: pt:dre:683668:por
+  label: "Cessada a admissão de novas candidaturas às ajudas previstas no Regulamento aprovado pela Port 46-A/2001 de 25-Jan,\
+    \ com a redacção do presente diploma, e permitida a prorrogação, por mais um ano, das candidaturas cujo termo tenha ocorrido\
+    \ em 2005, aos beneficiários com candidaturas às ajudas previstas no mesmo Regulamento, pela PORT.135/2006.16.02.2006.MADRP,\
+    \ DR.IS-B [34] de 16.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2006-683668
+  date: '2006-02-16'
 - type: cites
   target: celex:32001R2419
   label: null
@@ -89,16 +109,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
+- type: corrected_by
+  target: pt:dre:657469:por
+  label: "Rectificada pela DECL-RECT.8-M/2002.2002.02.28.PCM, DR.IS-B [50]3ºSupl de 28/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-m-2002-657469
+  date: '2002-02-28'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:06Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +162,9 @@ ii) 2 CN por hectare de superfície forrageira, no caso de se tratar de explora�
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - O montante das ajudas é determinado em função da SAU situada em zona desfavorecida, até ao limite máximo de 500 ha, e consta do anexo III a este Regulamento, do qual faz parte integrante.
 
@@ -149,7 +176,9 @@ ii) 2 CN por hectare de superfície forrageira, no caso de se tratar de explora�
 
 5 - No caso da exploração abranger zona de montanha e outra zona desfavorecida, os valores unitários a considerar para efeitos da atribuição da ajuda serão os correspondentes à zona onde se localiza a maior área de SAU.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - A apresentação de candidaturas é efectuada anualmente junto das organizações de agricultores com as quais o INGA celebre protocolos.
 
@@ -157,7 +186,9 @@ ii) 2 CN por hectare de superfície forrageira, no caso de se tratar de explora�
 
 3 - As normas relativas a formalização, tramitação, procedimentos e calendarização de candidaturas são objecto de diploma próprio, tendo em conta o Sistema Integrado de Gestão e Controlo previsto no Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), da Comissão, de 11 de Dezembro.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Sem prejuízo do disposto no Decreto-Lei n.º 8/2001, de 22 de Janeiro, com as alterações introduzidas pelo Decreto-Lei n.º 202/2001, de 13 de Julho, ao presente regime de ajudas aplicam-se as penalizações previstas:
 
@@ -185,7 +216,9 @@ b) No caso das alíneas a), b), c) e d), à redução do valor da ajuda de, resp
 
 4 - Sem prejuízo do disposto na alínea b) do número anterior, uma nova reincidência nos anos subsequentes em qualquer das situações previstas nas alíneas a) a d) do n.º 2 dá origem à rescisão do contrato e consequente devolução das ajudas, nos termos no n.º 1 do artigo 15.º do Decreto-Lei n.º 8/2001, para além da aplicação de outras sanções legalmente previstas.
 
-## ANEXO II — [...]
+ANEXO II
+
+[...]
 
 Sem prejuízo do cumprimento das normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar animal, os beneficiários das indemnizações compensatórias devem cumprir as seguintes normas:
 
@@ -221,7 +254,9 @@ iii) A instalação de novas culturas arbóreas e arbustivas é permitida nas si
 
 (nota 1) ...
 
-## ANEXO III — (a que se refere o n.º 1 do artigo 8.º)
+ANEXO III
+
+(a que se refere o n.º 1 do artigo 8.º)
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10621064.pdf)
 

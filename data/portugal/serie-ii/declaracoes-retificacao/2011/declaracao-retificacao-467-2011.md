@@ -47,54 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/467-2011-1043501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 110dd9e068f86db11a7a9a2a85c9bd930b064392aa24ccfbab99f02cff83418d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f20b0dd95d7b1e81b8023be32a0e599838e37535ecc63cef84295ff2a31058e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Igespar
+- Imóvel Classificado
+- Interesse Público
+- Licenciamento
+- Património Arqueológico
+- Património Cultural
+- Prorrogação de Prazo
+- Protecção do Património
+- Zona de Proteção
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:52Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 467/2011
+# Declaração de rectificação n.º 467/2011
 
 Por terem sido publicadas com inexactidão no Diário da República, 2.ª série, n.º 252, de 30 de Dezembro de 2010, as listas anexas ao despacho n.º 19338/2010, devem ser acrescentados às mesmas os seguintes imóveis:
 
 Direcção Regional de Cultura do Alentejo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf))](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf)
 
 Direcção Regional de Cultura do Algarve
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf))](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf)
 
 Direcção Regional de Cultura do Norte
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf))](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/039000000/0959909599.pdf)
 
 17 de Fevereiro de 2011. - O Director do IGESPAR, I. P., Gonçalo Couceiro.
+
+204371565

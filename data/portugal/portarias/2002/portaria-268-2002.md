@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/268/2002/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/268-2002-265299
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf6439006b6a509a5f7c481bec44d2dd582477b88ad3cc06e41058b85d83b7b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64624c808d2013ffba17a079646201526069899f445f0b85c37db301b3f0e300
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ subjects:
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
+- Ensino Superior
 - Escola de Enfermagem
 - Regulamento
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:214724288:por
@@ -88,13 +88,13 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:10Z'
   warnings: []
   errors: []
 ---

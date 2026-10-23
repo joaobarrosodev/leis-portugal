@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/503/2003/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/503-2003-693792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: baa03123bbf4cfaf4eb421d95f064288ff5d60a5c8b63dd67c8f8a64d8ed6004
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10501068bf09e6b141e42f581364b1abeaf26a68a12602a0daeca6954f052e34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/497/2001/05/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/497/2001/05/14/p/dre
+- type: cites
+  target: pt:dre:344773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:36Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +117,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, que o qu
 
 Em 2 de Janeiro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde.
 
 MAPA ANEXO
 

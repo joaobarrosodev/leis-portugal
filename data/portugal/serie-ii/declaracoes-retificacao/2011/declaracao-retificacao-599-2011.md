@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/059000000/1376713767.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/599-2011-3352656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b31563f1296fb1d87bacfbb810b2e46379e6ef7cb443dda9d7f6d5d676e5ef51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b3bf6f5cfad643715752598235e263be29aa8d450e38fcc5cbd5b404638a0fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:491437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643086:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:38Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 599/2011
+# Declaração de rectificação n.º 599/2011
 
 Por ter saído com inexactidão o despacho (extracto) n.º 17223/2010, publicado no Diário da República, 2.ª série, n.º 222, de 16 de Novembro de 2010, a p. 56306, se republica o referido despacho, na parte que interessa:
 
 «Por despacho do director nacional, de 27 de Setembro de 2010, foram nomeados na categoria de chefe, ao abrigo das disposições conjugadas previstas na alínea a) do artigo 25.º e no n.º 1 do artigo 35.º, ambos do [Decreto-Lei n.º 511/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/511-1999-643086), de 24 de Novembro, aplicáveis por força do n.º 1 do artigo 116.º do [Decreto-Lei n.º 299/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-2009-491437), de 14 de Outubro, com efeitos a 31 de Dezembro de 2009, ficando posicionados no primeiro escalão, índice 230, dessa categoria, os 107 subchefes a seguir indicados:»
 
 18 de Março de 2011. - O Director do Departamento de Recursos Humanos, Miguel Mendes, superintendente.
+
+204478826

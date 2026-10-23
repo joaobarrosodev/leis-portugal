@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/058000000/0036800368.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/204-2024-856476547
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9e725ae49c12e27f9bf9c86388a3b4858191e16bd94a1bd9ec7ea6e77b31db8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b83e8f31633004159eb56835a6f6884c66ceefdbd90b484c279ae10665ff3d41
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:24Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +96,5 @@ deve ler-se:
 "3 - Âmbito do Recrutamento - O recrutamento efetua-se de entre trabalhadores com relação jurídica de emprego público por tempo indeterminado previamente estabelecida e, ainda, de entre trabalhadores com vínculo de emprego público a termo resolutivo, certo ou incerto, ou sem relação jurídica de emprego público, de acordo com o disposto na alínea h) do n.º 3 do artigo 11.º da Portaria n.º 233/2022, de 09 de setembro, conjugado com o disposto no 22.º da Lei n.º 83/2023, de 29 de dezembro, que aprova o Orçamento de Estado para 2024 e com o artigo 30.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20/6."
 
 4 de março de 2024. - O Presidente do Instituto Politécnico de Santarém, Prof. Doutor João Miguel Raimundo Peres Moutão.
+
+317427842

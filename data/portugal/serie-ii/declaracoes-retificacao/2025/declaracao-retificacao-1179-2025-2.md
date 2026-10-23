@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/12/250000000/0005500056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1179-2025-993031471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c96ee16a6a06eb8343c18aacb89b9258c2b2a3be737193480989b159c126dcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: be9689f25203c96cb26a7a8ac50ffbf237000ea7495a2c2f23271d758ab10c02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:17Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,8 @@ Esquema de selagem:
 
 Flange no topo do tubo de sondagem
 
-![](https://files.diariodarepublica.pt/images/993031471/993052507.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031471/993052507.png) |
+| --- |
 
 deve ler-se:
 
@@ -106,6 +107,9 @@ Esquema de selagem:
 
 Flange no topo do tubo de sondagem
 
-![](https://files.diariodarepublica.pt/images/993031471/993052508.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/993031471/993052508.png) |
+| --- |
 
 11 de dezembro de 2025. - O Presidente do Conselho Diretivo, João Pimentel.
+
+319878433

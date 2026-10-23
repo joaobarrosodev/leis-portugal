@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/022000000/0026100265.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/73-2024-839799402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4fb96f68f94e1ea8d1be5a0c80c9035b954f5ea36caa30317da1b8ae47b0851
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b72537e2bc8da4f254d5cfa1749228a8cef82cca6d61ad0bb9d76568a694dc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221225376:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:35Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +100,11 @@ Ramo em Projeto Final
 
 QUADRO N.º 3
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade curricular | Área<br>científica<br>(1) | Ano<br>curricular | Organização do ano curricular | Horas de trabalho | Créditos |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular | Área científica (1) | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos |
-| Unidade curricular | Área científica (1) | Ano curricular | Organização do ano curricular | Total | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Créditos |
-| Unidade curricular | Área científica (1) | Ano curricular | Organização do ano curricular | Total | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos |
+| Total | Contacto (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais<br>de contacto |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Laboratório de Matéria, Forma e Cor... | DP | 1.º | 1.º Semestre... | 243,0 |  |  | 100,0 |  |  |  |  |  | 100,0 | 9,0 |
 | Pensamento Criativo... | ECD | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |
 | Desenho... | DES | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |
@@ -136,11 +140,11 @@ Ramo em Projeto Integrado em Empresa
 
 QUADRO N.º 5
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade curricular | Área<br>científica<br>(1) | Ano<br>curricular | Organização do ano curricular | Horas de trabalho | Créditos |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular | Área científica (1) | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos |
-| Unidade curricular | Área científica (1) | Ano curricular | Organização do ano curricular | Total | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Contacto (2) | Créditos |
-| Unidade curricular | Área científica (1) | Ano curricular | Organização do ano curricular | Total | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos |
+| Total | Contacto (2) |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais<br>de contacto |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Laboratório de Matéria, Forma e Cor... | DP | 1.º | 1.º Semestre... | 243,0 |  |  | 100,0 |  |  |  |  |  | 100,0 | 9,0 |
 | Pensamento Criativo... | ECD | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |
 | Desenho... | DES | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |
@@ -180,11 +184,11 @@ Ramo em Projeto Final
 
 QUADRO N.º 3
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade curricular<br>(1) | Área<br>científica<br>(2) | Ano<br>curricular<br>(3) | Organização do ano curricular<br>(4) | Horas de trabalho | Créditos<br>(7) | Observações<br>(8) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos (7) | Observações (8) |
-| Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos (7) | Observações (8) |
-| Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos (7) | Observações (8) |
+| Total<br>(5) | Contacto (6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais<br>de contacto |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Laboratório de Matéria, Forma e Cor... | DP | 1.º | 1.º Semestre... | 243,0 |  |  | 100,0 |  |  |  |  |  | 100,0 | 9,0 |  |
 | Pensamento Criativo... | ECD | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |  |
 | Desenho... | DES | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |  |
@@ -220,11 +224,11 @@ Ramo em Projeto Integrado em Empresa
 
 QUADRO N.º 5
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade curricular<br>(1) | Área<br>científica<br>(2) | Ano<br>curricular<br>(3) | Organização do ano curricular<br>(4) | Horas de trabalho | Créditos<br>(7) | Observações<br>(8) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos (7) | Observações (8) |
-| Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos (7) | Observações (8) |
-| Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos (7) | Observações (8) |
+| Total<br>(5) | Contacto (6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais de contacto |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Laboratório de Matéria, Forma e Cor... | DP | 1.º | 1.º Semestre... | 243,0 |  |  | 100,0 |  |  |  |  |  | 100,0 | 9,0 |  |
 | Pensamento Criativo... | ECD | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |  |
 | Desenho... | DES | 1.º | 1.º Semestre... | 162,0 |  | 60,0 |  |  |  |  |  |  | 60,0 | 6,0 |  |
@@ -253,3 +257,5 @@ QUADRO N.º 5
 | Projeto Integrado em Empresa... | DP | 3.º | 2.º Semestre... | 810,0 |  |  |  |  |  |  |  |  | 0,0 | 30,0 |  |
 
 19 de janeiro de 2024. - A Vice-Presidente, em suplência, Maria da Graça Lopes da Silva Mouga Poças Santos.
+
+317279953

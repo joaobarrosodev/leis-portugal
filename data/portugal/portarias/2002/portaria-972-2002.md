@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972/2002/08/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-2002-175490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46460da755bd936da328b934dd2b6da00a0f5e95e448287f4b2b83a5c15b9aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dfcffb429e851a3807edb49482301f8d340febf0f8de7c0a455c1b86dd57a81d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:439870:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:248254:por
+  label: "Anexado um prédio rústico à Zona de Caça concessionada pela Port 1190/90 de 10-Dez, renovada pelo presente diploma,\
+    \ pela PORT.756/2005.31.08.2005.MADRP, DR.IS-B [167] de 31.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-2005-248254
+  date: '2005-08-31'
+- type: amended_by
+  target: pt:dre:439870:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça concessionada pela Port 1190/90 de 10-Dez, renovada\
+    \ pelo presente diploma, pela PORT.1309/2008.12.11.2008.MAOTDR, DR.IS [220] de 12.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1309-2008-439870
+  date: '2008-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/610/2002/06/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/610/2002/06/07/p/dre
+- type: cites
+  target: pt:dre:145820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:38Z'
   warnings: []
   errors: []
 ---

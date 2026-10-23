@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/145000000/0008300083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/544-2024-873755178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddf7775881a6b5b1293e815de4a148540a2c0338c6c83102ce42d349152cf9db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b88e7dfd7fdc088609dad47e7cf474e89badd4b973e9707a62419802b5be155a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836147191:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:29Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +106,5 @@ Assim, republica-se integralmente a referida tabela, na sua versão corrigida, e
 | Atividades de investigação aplicada, ou baseada na prática, desenvolvidas nos últimos cinco anos e consideradas de maior impacto pelo candidato e relevante para o posto de trabalho | 5 |
 | Atividades de extensão e de disseminação do conhecimento desenvolvidas nos últimos cinco anos, designadamente no contexto da promoção da cultura e das práticas científicas, consideradas de maior relevância pelo candidato e relevante para o posto de trabalho | 6 |
 | Atividades de gestão de programas de ciência, tecnologia e inovação, ou da experiência na observação e monitorização do sistema científico e tecnológico ou do ensino superior, em Portugal ou no estrangeiro | 3 |
+
+317950308

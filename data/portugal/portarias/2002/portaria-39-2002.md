@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/39/2002/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/39-2002-585181
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c7bd60d56aa1ca8ac847406e8b0ec75916d5effc9c39b196628d45fa12a462e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4001ffcedf6e767083f6b6901681c37d82f6a1ccde2b7e70e56ef4720667125a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,18 +68,24 @@ subjects:
 - Ajuda Comunitária
 - Financiamento
 - Fiscalização
+- Ifadap
+- Intervenção Operacional Pescas
 - Pesca
 - QCA III
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento
-- Ifadap
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:540047:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540047:por
+  label: "Alterado com efeitos a 01.07.2006 o art. 12º do Regulamento pela PORT.939/2006.08.09.2006.MADRP, DR.IS [174] de\
+    \ 08.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/939-2006-540047
+  date: '2006-09-08'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -87,13 +93,13 @@ relationships:
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:56Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +122,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 11 de Dezembro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 11 de Dezembro de 2001.
 
 REGULAMENTO DO REGIME DE APOIO DA MEDIDA «ACÇÕES PILOTO E PROJECTOS INOVADORES»
 

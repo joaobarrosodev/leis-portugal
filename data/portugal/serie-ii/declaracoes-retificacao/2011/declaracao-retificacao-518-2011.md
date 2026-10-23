@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/046000000/1105811058.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/518-2011-1762601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 807a7d0432ea7c560ad9ec57a80384dfebab7494479f071f6701635cdf44645a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8943dd22b656b67d410fae90d0b1ddfa254d7a07c3da195e48f3483b6be65bda
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:09Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Torna-se público que o aviso n.º 5768/2011, publicado no Diário da República
 Assim, onde se lê «tendo em visto o preenchimento de um posto de trabalho correspondente à carreira e categoria de Assistente Operacional, para desempenhar funções na recepção das Piscinas Municipais» deve ler-se «tendo em vista o preenchimento de um posto de trabalho correspondente à carreira e categoria de técnico superior com licenciatura em Serviço Social».
 
 25 de Fevereiro de 2011. - O Presidente da Câmara, Jaime Manuel Gonçalves Ramos.
+
+304399973

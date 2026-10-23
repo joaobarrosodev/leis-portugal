@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/153/2002/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/153-2002-277577
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85653b603326acf3254566bb6848fc38da3cf2fd2ab8a70b46e6f6489c62a834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 131433c93dcea54bb24a3a22ebd577e69d174ffb1cccfabee61bcbcc3268b41b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto Superior de Ciências da Saúde
 - Ciências da Saúde
-- Plano de Estudos
-- Ensino Superior Politécnico
-- Licenciatura
 - Ensino Superior
+- Ensino Superior Politécnico
+- Instituto Superior de Ciências da Saúde
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:241783:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241783:por
+  label: "Determinado pela PORT.648/2005.10.08.2005.MCTES, DR.IS-B [153] de 10.08.2005, que o plano de estudos fixado pela\
+    \ Port 56/93, de 13-jan, na alteração do presente diploma passe a ser o constante do anexo á referida portaria\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/648-2005-241783
+  date: '2005-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -101,16 +107,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/906/1993/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/906/1993/09/20/p/dre
+- type: cites
+  target: pt:dre:145669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:588256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655121:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:13Z'
   warnings: []
   errors: []
 ---
@@ -165,28 +207,28 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
 
 QUADRO N.º 5
 
 5.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14061408.pdf)

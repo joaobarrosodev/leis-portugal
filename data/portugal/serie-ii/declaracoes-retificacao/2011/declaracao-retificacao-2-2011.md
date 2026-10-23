@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/001000000/0008100082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2011-1949582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a1a3ba8a9d2b11cae9ff23aa86a0aab112bc04495e5afaf44a43262ce4ca766
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2cb940c595ef8d121c73b8f0936ea4217ff94122c4681929cc8e63662e81cc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3606169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:983460:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:18Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 2/2011
+# Declaração de rectificação n.º 2/2011
 
 Por ter saído com inexactidão a publicação inserta no despacho n.º 12723/2010, publicado no Diário da República, 2.ª série, n.º 152, de 6 de Agosto de 2010, referente ao curso de mestrado em Gerontologia, rectifica-se que onde se lê «Sob proposta da Comissão Científica do Departamento de Economia, Gestão e Engenharia Industrial, foi aprovado pelo Conselho Científico, em reunião de 3 de Fevereiro de 2010 e ao abrigo do artigo 77.º do [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), publicado no Diário da República n.º 121, 1.ª série, de 25 de Junho de 2008, a correcção e alteração ao Plano de Estudos do Curso de Mestrado em Gerontologia, registado na DGES sob o n.º R/B-AD-923/2007, publicado através do Despacho n.º 26266-E/2009, inserto no D.R. n.º 220, 2.ª série, de 15 de Novembro de 2007, alterado pelo [Despacho n.º 20575/2009](https://diariodarepublica.pt/dr/detalhe/despacho/20575-2009-983460), publicado no D.R. n.º 177, 2.ª série, de 11 de Setembro de 2009 e pelo [Despacho n.º 3744/2010](https://diariodarepublica.pt/dr/detalhe/despacho/3744-2010-3606169), publicado no D.R. n.º 41, 2.ª série, de 01 de Março de 2010,» deve ler-se «Sob proposta da comissão directiva da Secção Autónoma de Ciências da Saúde, foi aprovado pelo conselho científico, em reunião de 21 de Julho de 2010 e ao abrigo do artigo 77.º do [Decreto-Lei n.º 107/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), publicado no Diário da República, 1.ª série, n.º 121, de 25 de Junho de 2008, a correcção e alteração ao plano de estudos do curso de mestrado em Gerontologia, registado na DGES sob o número R/B-AD-923/2007, publicado através do despacho n.º 26 266-E/2009, inserto no Diário da República, 2.ª série, n.º 220, de 15 de Novembro de 2007, alterado pelo despacho n.º 20 575/2009, publicado no Diário da República, 2.ª série, n.º 177, de 11 de Setembro de 2009 e pelo despacho n.º 3744/2010, publicado no Diário da República, 2.ª série, n.º 41, de 1 de Março de 2010,».
 
 14 de Dezembro de 2010. - A Administradora, Dr.ª Maria de Fátima Duarte.
+
+204106808

@@ -20,15 +20,13 @@ publication:
   reference: Diário da República n.º 177/2001, 2º Suplemento, Série I-B de 2001-08-01
   number: '177'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4698-(4) a 4698-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/946-b/2001/08/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/946-b-2001-289609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae4a2aad9392c088e0640faaa2ccb746e1d7e16079f7e1021c571ef7ce10f104
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce108a1050b7e2f173b04ad98d87bab86d768978d8757e86f95dda18fbc3f924
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +67,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Gestão Financeira
+- Certificado de Qualidade
+- Comércio
 - Controlo de Qualidade
 - Direcção Regional de Agricultura
-- Certificado de Qualidade
+- Financiamento
+- Gestão Financeira
+- Ifadap
+- Medida Agris
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - QCA III
 - Qualidade do Produto
 - Regulamento
-- Medida Agris
-- Ifadap
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:494066:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494066:por
+  label: "Alterada a redacção dada a al. j) do n.º 1 do art. 7.º do Regulamento constante da Port 1109-D/2000, de 27-Nov DR.IS-.B\
+    \ [274]Supl, pela PORT.1051/2003.2003.09.24.MADRP DR.IS-B [221]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1051-2003-494066
+  date: '2003-09-24'
 - type: cites
   target: celex:31991R2092
   label: null
@@ -102,16 +106,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1109-d/2000/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1109-d/2000/11/27/p/dre
+- type: corrected_by
+  target: pt:dre:437859:por
+  label: "Rectificada pela DECL-RECT.15-N/2001.2001.08.31.PCM, DR.IS-B [202]4ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-n-2001-437859
+  date: '2001-08-31'
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:39Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +167,9 @@ j) ...
 
 3 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -184,13 +195,17 @@ j) Esteja assegurado o financiamento de, pelo menos, 20% do custo total do inves
 
 2 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - Ao abrigo do presente capítulo, o mesmo beneficiário poderá apresentar, no máximo, três projectos de investimento, não podendo as despesas elegíveis exceder, no seu conjunto, (euro) 750000.
 
 2 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 As acções previstas neste capítulo visam:
 
@@ -204,7 +219,9 @@ d) O melhoramento dos circuitos e sistemas de comercialização dos produtos em 
 
 e) O incentivo e apoio à concepção e implementação do sistema de análise de riscos e controlo dos pontos críticos.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -212,11 +229,15 @@ e) O incentivo e apoio à concepção e implementação do sistema de análise d
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 Ao abrigo do presente capítulo, o mesmo beneficiário poderá apresentar, no máximo, dois projectos, não podendo a ajuda total atribuída, por produtor de produto de qualidade e por cada período de três anos, exceder (euro) 100000.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -230,7 +251,9 @@ Ao abrigo do presente capítulo, o mesmo beneficiário poderá apresentar, no m�
 
 6 - (Anterior n.º 7.)
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - Os prazos máximos para os beneficiários das ajudas previstas no capítulo II iniciarem e concluírem a execução dos investimentos são, respectivamente, de um e dois anos contados a partir da data de assinatura do contrato de atribuição das ajudas.
 
@@ -246,7 +269,9 @@ Em 25 de Agosto de 2001.
 
 Pela Ministra do Planeamento, António Ricardo Rocha de Magalhães, Secretário de Estado Adjunto da Ministra do Planeamento. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
-## ANEXO — ANEXO I
+## ANEXO
+
+## ANEXO I
 
 [...]
 
@@ -292,7 +317,7 @@ III - [...]
 
 ## ANEXO II — [...]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf)](https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf)
 
 ## ANEXO III — [...]
 
@@ -324,7 +349,7 @@ iv) Realização de ensaios de aplicação do sistema.
 
 2 - Os montantes máximos elegíveis por grupo de despesa, em cada período de três anos e por beneficiário, são os seguintes:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf)](https://files.diariodarepublica.pt/1s/2001/08/177b02/00040006.pdf)
 
 3 - ...
 

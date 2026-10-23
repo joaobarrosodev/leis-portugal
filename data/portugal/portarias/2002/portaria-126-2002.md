@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/126/2002/02/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/126-2002-273674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c4cef22e2f8858cd7638de4656362d078c441d5d4b40b5de879230fd7c1bd8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee64d4430f084b7ce9c2ff56cdc6ace0e6e3d1bc08349800449fd253314b74c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,31 @@ relationships:
   target: pt:dre:66761449:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:66761449:por
+  label: Mantido transitoriamente em vigor o atual modelo de cartões de identificação, aprovado pelo presente diploma, pelo(a)
+    Decreto-Lei n.º 39/2015 - Diário da República n.º 52/2015, Série I de 2015-03-16, até à publicação do regulamento interno
+    previsto no n.º 3 do art. 44.º dos Estatutos da ANACOM que lhe estão anexos.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2015-66761449
+  date: '2015-03-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/309/2001/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/309/2001/12/07/p/dre
+- type: cites
+  target: pt:dre:576886:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:30Z'
   warnings: []
   errors: []
 ---
@@ -128,11 +139,11 @@ Pelo Ministro do Equipamento Social, Rui António Ferreira Cunha, Secretário de
 
 ## ANEXO — Anverso
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10471047.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10471047.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10471047.pdf)
 
 Verso
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10471047.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10471047.pdf)](https://files.diariodarepublica.pt/1s/2002/02/034b00/10471047.pdf)
 
 Legenda
 

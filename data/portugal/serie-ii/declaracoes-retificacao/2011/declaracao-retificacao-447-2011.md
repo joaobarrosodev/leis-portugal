@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0884108841.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/447-2011-1673702
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80d3fd191fc18cea37bcc5c0c1d1b8ee4f88b1287e195aa74a05f772ee3f89d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 724125f1098fc24ba75ff5329ed3957aa2a7fec0bdbe8c78248dcc1fd713b71c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:44Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 447/2011
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 13, de 19 de Janeiro de 2011, o aviso (extracto) n.º 1919/2011, referente ao procedimento concursal comum de recrutamento para a ocupação de dois postos de trabalho, um de quatro horas diárias e um de três horas diárias (até 8 de Abril), em regime de contrato de trabalho em funções públicas a termo resolutivo certo a tempo parcial, rectifica-se que onde se lê «(até 08 de Abril)» deve ler-se «(até 28 de Fevereiro)».
 
 14 de Fevereiro de 2011. - A Directora, Carla Isabel Morgado Félix Ferro Rodrigues.
+
+204347979

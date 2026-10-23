@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/231000000/0011800118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/998-2022-204118963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fcf9435640a36e4b77594aacc1780f1df509dcc4b69095766ff6c9442afe941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af8aaf7906e730c8cbd6485800012d25f55e75456e01562bd153716e97866edd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:122202602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153519418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:202432846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:55Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +110,5 @@ deve ler-se:
 «1 - Nos termos dos n.os 1 a 3 do artigo 30.º, 33.º a 38.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e do disposto no n.º 1 do artigo 11.º da Portaria n.º 233/2022, de 9 de setembro, torna-se público que por meu despacho de 03 de outubro de 2022, é aberto o procedimento concursal comum para preenchimento de um posto de trabalho para a carreira e categoria de Técnico Superior para área da Contratação Pública da Direção-Geral da Saúde, por contrato de trabalho em funções públicas por tempo indeterminado, pelo prazo de 10 dias úteis a contar da data da publicação do presente procedimento na Bolsa de Emprego Público.»
 
 24 de outubro de 2022. - A Diretora-Geral da Saúde, Maria da Graça Gregório de Freitas.
+
+315894642

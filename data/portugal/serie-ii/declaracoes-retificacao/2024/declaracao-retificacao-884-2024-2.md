@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:893800887:por
 title: Declaração de Retificação n.º 884/2024/2
 short_title: null
-summary: Retifica a alínea a) do n.º 4 do Aviso (extrato) n.º 22280/2024/2, publicado no <em>Diário da República,</em> 2.ª
-  série, n.º 195, de 8 de outubro de 2024.
+summary: Retifica a alínea a) do n.º 4 do Aviso (extrato) n.º 22280/2024/2, publicado no  Diário da República, 2.ª série,
+  n.º 195, de 8 de outubro de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/209000000/0012500125.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/884-2024-893800887
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 42dd32b3fd19f441c9a37ea7f25f761beab4984056083a4a820ac366bcc7c608
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b13bffd6a9cbc1188f209ce9764ce7f2a77ce86edea5e4cca21f9e1c4ed26bee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:890219434:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:30Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +102,5 @@ deve ler-se:
 a) Habilitação legal para o exercício da profissão de Psicólogo (Área CNAEF 311) na área Clínica e da Saúde, nos termos estabelecidos no Estatuto da Ordem dos Psicólogos Portugueses, sem possibilidade de substituição do nível habilitacional por formação ou experiência profissional;"
 
 9 de outubro de 2024. - A Diretora dos Serviços de Recursos Humanos, Maria Carlos Ferreira.
+
+318259226

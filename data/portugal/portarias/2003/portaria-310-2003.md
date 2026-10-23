@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/310/2003/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/310-2003-226056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fb9e20e30fd7c24072c84a7bbc37ce2b98505886e551cfbbf0fecff33b98de7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10cde7f47b5013a4a3118eccb71fbcb6457e5784e2464904c397bdd6bec03784
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
-- Formação de Professores
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Educação
 - Escola Superior de Educação de Santa Maria
+- Formação de Professores
+- Formação Profissional
 - Licenciatura
 - Pessoal Docente
+- Plano de Estudos
 - Qualificação Profissional
-- Ensino Superior
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -101,16 +101,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760-a/1998/09/14/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:30Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +183,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2003-2004, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 25 de Março de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 25 de Março de 2003.
 
 ## ANEXO — ([Portaria n.º 231/2001](https://diariodarepublica.pt/dr/detalhe/portaria/231-2001-388624), de 19 de Março - Alteração)
 

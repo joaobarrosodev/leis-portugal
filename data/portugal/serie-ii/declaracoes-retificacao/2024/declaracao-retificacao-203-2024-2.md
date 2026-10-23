@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/058000000/0024400246.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/203-2024-856476488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d425e2c2d789f17f4ebf0d4a48c4918a078a5598ff625b4f4d2806f323b9f1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cc661b96d4707a67ba8d04e2d6ba05f061ed0eb2e4f9a3c5fa88d5c2bbd8b2d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:863638718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:628859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853247354:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:24Z'
   warnings: []
   errors: []
 ---
@@ -106,23 +114,23 @@ QUADRO II
 
 Prazos de inscrição para provas e exames do ensino secundário - 2024
 
-| Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Prazos de inscrição para a 1.ª fase (com caráter obrigatório para todos os alunos) (a) | Prazos de inscrição para a 2.ª fase |
+| Condições de admissão a exames finais nacionais, exames a nível de escola de línguas estrangeiras equivalentes a exames finais nacionais, provas de equivalência à frequência e provas a nível de escola | Prazos de inscrição para a 1.ª fase (com caráter obrigatório para todos os alunos) (a) | Prazos de inscrição para a 2.ª fase |  |
 | --- | --- | --- | --- |
 | Alunos internos | 1 - Alunos do 11.º ano que pretendam obter aprovação em disciplinas cuja classificação final da disciplina (CFD) depende da realização de exame final nacional dos CCH. | De 26 de fevereiro a 8 de março. | De 15 a 16 de julho |
-| Alunos internos | 2 - Alunos do 11.º ano que pretendam melhorar a classificação de disciplinas dos CCH, que dependem da realização de exame final nacional para o cálculo da CFD, concluídas no presente ano letivo. | Não aplicável. |  |
+| 2 - Alunos do 11.º ano que pretendam melhorar a classificação de disciplinas dos CCH, que dependem da realização de exame final nacional para o cálculo da CFD, concluídas no presente ano letivo. | Não aplicável. |  |  |
 | Alunos autopropostos | 3 - Alunos do 11.º ano e do 12.º ano que pretendam realizar exames finais nacionais exclusivamente como provas de ingresso para efeitos de acesso ao ensino superior. | De 26 de fevereiro a 8 de março. |  |
 |  | 4 - Pretendam obter aprovação em disciplinas que frequentaram até ao final do ano letivo, realizam provas de equivalência à frequência, as quais são substituídas por exames finais nacionais quando existe essa oferta. | Nos dois dias úteis seguintes ao da afixação das pautas de avaliação sumativa final do 3.º período letivo. |  |
 |  | 5 - Tenham estado matriculados no ano terminal da disciplina a que respeita o exame ou prova e anulado a matrícula até ao final da penúltima semana do 3.º período letivo, para aprovação e, caso pretendam, para prova de ingresso. | De 26 de fevereiro a 8 de março ou, após 8 de março, nos dois dias úteis seguintes ao da anulação da matrícula. |  |
 |  | 6 - Pretendam obter aprovação em disciplinas do mesmo curso ou de curso diferente do frequentado, nas quais não estejam matriculados, desde que estejam ou tenham estado matriculados no ano curricular em que essas disciplinas são terminais, para prova de ingresso e/ou complemento de currículo. | De 26 de fevereiro a 8 de março. |  |
 |  | 7 - Estejam fora da escolaridade obrigatória, sejam detentores do 3.º ciclo do ensino básico ou de habilitação equivalente, não se encontrem matriculados ou tenham anulado a matrícula em todas as disciplinas, até ao final da penúltima semana do 3.º período. | De 26 de fevereiro a 8 de março ou, após 8 de março, nos dois dias úteis seguintes ao da anulação da matrícula. |  |
 |  | 8 - Estejam matriculados no ensino individual ou no ensino doméstico, realizam, nos anos terminais das disciplinas, os exames finais nacionais e provas de equivalência à frequência, obedecendo às normas de transição e aprovação dos cursos científico-humanísticos (CCH). | De 26 de fevereiro a 8 de março. |  |
-|  | 9 - Estejam matriculados nos CCH do ensino recorrente e pretendam obter aprovação, independentemente do número de módulos capitalizados e do regime de frequência da disciplina. | De 26 de fevereiro a 8 de março. |  |
-|  | 10 - Estejam matriculados no 11.º ano dos CCH do ensino recorrente e pretendam realizar exames finais nacionais para efeitos de prosseguimento de estudos (CFCEPE). | De 26 de fevereiro a 8 de março. |  |
+|  | 9 - Estejam matriculados nos CCH do ensino recorrente e pretendam obter aprovação, independentemente do número de módulos capitalizados e do regime de frequência da disciplina. |  |  |
+|  | 10 - Estejam matriculados no 11.º ano dos CCH do ensino recorrente e pretendam realizar exames finais nacionais para efeitos de prosseguimento de estudos (CFCEPE). |  |  |
 |  | 11 - Tenham ficado excluídos por faltas no ano terminal da disciplina, pela aplicação do previsto na alínea b) do n.º 4 do artigo 21.º do Estatuto do Aluno e Ética Escolar e pretendam realizar provas na 2.ª fase desse mesmo ano escolar. | Não aplicável. |  |
 |  | 12 - Frequentem o 12.º ano de escolaridade e tenham solicitado mudança de curso, até ao 5.º dia útil do 3.º período. | Nos dois dias úteis seguintes ao deferimento do pedido de mudança de curso. |  |
 |  | 13 - Sejam dos CCH, incluindo os do ensino recorrente, dos CAE, dos cursos profissionais, dos cursos científico-tecnológicos com planos próprios, dos cursos com planos próprios, dos cursos com planos próprios da via científica e da via tecnológica, dos cursos vocacionais, ou outros cursos de nível secundário, que estejam a desenvolver ou tenham concluído um processo RVCC, um curso EFA, ou que tenham concluído o ensino secundário ao abrigo do [Decreto-Lei n.º 357/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-2007-628859), de 29 de outubro, e pretendam realizar exames, exclusivamente, para provas de ingresso. | De 26 de fevereiro a 8 de março. |  |
-|  | 14 - Pretendam terminar os seus percursos formativos, nos termos estabelecidos no [Decreto-Lei n.º 357/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-2007-628859), de 29 de outubro. | De 26 de fevereiro a 8 de março. |  |
-|  | 15 - Pretendam realizar melhorias de classificação final de disciplina concluídas em anos letivos anteriores, apenas para efeitos de acesso ao ensino superior. | De 26 de fevereiro a 8 de março. |  |
+|  | 14 - Pretendam terminar os seus percursos formativos, nos termos estabelecidos no [Decreto-Lei n.º 357/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-2007-628859), de 29 de outubro. |  |  |
+|  | 15 - Pretendam realizar melhorias de classificação final de disciplina concluídas em anos letivos anteriores, apenas para efeitos de acesso ao ensino superior. |  |  |
 |  | 16 - Alunos do 12.º ano que pretendam realizar melhorias de classificação final de disciplina concluídas no presente ano letivo e ou da classificação já obtida em prova de ingresso, apenas para efeitos de acesso ao ensino superior. | Não aplicável. |  |
 
 (a) A inscrição na 1.ª fase é obrigatória para todos os alunos, à exceção das situações previstas nas alíneas b) e c) do n.º 13 do artigo 17.º
@@ -146,3 +154,5 @@ Tipo de prova e respetiva duração
 | Português (85) - 8.º ano | E | 90 |
 
 (a) A prova de aferição de Português Língua Segunda (82) destina-se apenas a situações de surdez severa a profunda.
+
+317450262

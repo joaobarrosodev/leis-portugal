@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/956/2001/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/956-2001-522213
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82868fed29d1ca5023b93f2de71b6685228e1fe53312af9ed80e4fd403d19bab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd6be2b193dd9526ab51387f2dd2295bb0d79c063c07adc2e4ac504b8040dcb5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Exploração Pecuária
+- Agricultura
 - Apoio ao Investimento
 - Exploração Agrícola
-- Ruris
-- Região Agrária
+- Exploração Pecuária
+- Financiamento
 - Pecuária
-- Agricultura
+- Região Agrária
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:683668:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273667:por
+  label: "Alterado o art. 4.º do Regulamento aprovado pela Portaria 46-A/2001, de 25-Jan, na redacção do presente diploma,\
+    \ pela PORT.134/2002.2002.02.09.MADRP DR.IS-B 34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-2002-273667
+  date: '2002-02-09'
+- type: amended_by
+  target: pt:dre:187502:por
+  label: "Alterado o art. 4.º (na redacção da134/2001, de 09-Fev) os arts. 8.º, 9.º, 12.º e o anexo I do Regulamento constante\
+    \ da Port 46-A/2001, de 25-Jan DR.IS-B [21]Supl, pela PORT.193/2003.2003.02.22.MADRP DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/193-2003-187502
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:683668:por
+  label: "Cessada a admissão de novas candidaturas às ajudas previstas no Regulamento aprovado pela Port 46-A/2001 de 25-Jan,\
+    \ com a redacção do presente diploma, e permitida a prorrogação, por mais um ano, das candidaturas cujo termo tenha ocorrido\
+    \ em 2005, aos beneficiários com candidaturas às ajudas previstas no mesmo Regulamento, pela PORT.135/2006.16.02.2006.MADRP,\
+    \ DR.IS-B [34] de 16.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2006-683668
+  date: '2006-02-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/8/2001/01/22/p/dre
   label: null
@@ -87,16 +107,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
+- type: cites
+  target: pt:dre:220163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344458:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:42Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +169,9 @@ h) ...
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -159,7 +189,9 @@ ii) 2 CN por ha de superfície forrageira, no caso de se tratar de explorações
 
 3 - ...
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - A decisão das candidaturas compete ao gestor do RURIS, sem prejuízo da faculdade de delegação desta competência, nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 8/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2001-344458), de 22 de Janeiro.
 

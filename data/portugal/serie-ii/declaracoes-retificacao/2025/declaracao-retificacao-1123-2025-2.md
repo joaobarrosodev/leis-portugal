@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/12/236000000/0027000270.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1123-2025-967509726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 333233f7db10fd22b5ab28380551d6488136de497da68fae81135f8e22442efd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cafc903c55d04045bdbf5f1672db703663c2757c78e8196823cfe7491b0d0c9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:00Z'
   warnings: []
   errors: []
 ---
@@ -100,3 +104,5 @@ deve ler-se:
 «Nos termos do disposto no artigo 33.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho (LTFP), conjugado com o artigo 11.º da Portaria n.º 233/2022, de 9 de setembro, torna-se público que, por despacho do presidente do Instituto Politécnico de Lisboa de 29 de agosto de 2025, se encontra aberto, pelo prazo de 10 dias úteis, contados a partir de publicação do presente Aviso no Diário da República, o procedimento concursal comum para constituição de relação jurídica de emprego público por tempo indeterminado tendo em vista o preenchimento de dois postos de trabalho da carreira e categoria de técnico superior para a área de relações internacionais e mobilidade académica do Instituto Politécnico de Lisboa, previstos e não ocupados no mapa de pessoal do IPL.»
 
 3 de dezembro de 2025. - A Administradora do IPL, Dr.ª Sílvia Sousa Alves.
+
+319848917

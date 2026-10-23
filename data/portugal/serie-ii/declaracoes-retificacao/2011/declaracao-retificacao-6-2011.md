@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-2011-1949876
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3285da734b9e53ee2fba18e72a313c6a1f322652142a5dcc346fcd3e2a41ece1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb428d161e85c13009fc024d2094c2138a455b4859b02dd79b104988a1f47be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:38Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Assim, onde se lê:
 
 Utilizadores domésticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf))](https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf)
 
 deverá ler-se:
 
@@ -105,6 +105,8 @@ deverá ler-se:
 
 Utilizadores domésticos
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf))](https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/01/001000000/0014300144.pdf)
 
 20 de Dezembro de 2010. - O Presidente do Conselho de Administração, David Jorge Mascarenhas dos Santos.
+
+304100879

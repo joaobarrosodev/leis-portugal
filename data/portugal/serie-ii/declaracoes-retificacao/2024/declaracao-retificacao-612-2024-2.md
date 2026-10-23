@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/156000000/0016400164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/612-2024-876627328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9202cef06549162c81b283aac6e0e25863affdbd624a862ed214b5389ede5277
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18a2fa75e330023b03dbd61bc69712bb35853feadd62a90e41eb3880196925a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:54Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 612/2024/2
 
-Nos termos do artigo 174.º do Código do Procedimento Administrativo e dos n.<sup>os</sup>2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 5736/2024, publicado no Diário da República, 2.ª série, n.º 99, de 22 de maio de 2024, que designa para exercer as funções de técnica especialista no Gabinete do Ministro da Agricultura e Pescas Inês Veloso Durães, saiu com a seguinte inexatidão, que a seguir se retifica:
+Nos termos do artigo 174.º do Código do Procedimento Administrativo e dos n.os2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 5736/2024, publicado no Diário da República, 2.ª série, n.º 99, de 22 de maio de 2024, que designa para exercer as funções de técnica especialista no Gabinete do Ministro da Agricultura e Pescas Inês Veloso Durães, saiu com a seguinte inexatidão, que a seguir se retifica:
 
 No n.º 2, onde se lê:
 
@@ -93,3 +97,5 @@ deve ler-se:
 "2 - Para efeitos do disposto no n.º 6 do artigo 13.º do referido decreto-lei, a remuneração da designada é equiparada à de adjunto."
 
 26 de julho de 2024. - O Ministro da Agricultura e Pescas, José Manuel Ferreira Fernandes.
+
+317965431

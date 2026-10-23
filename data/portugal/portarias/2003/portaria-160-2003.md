@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/160/2003/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-2003-190588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d624435b1e971170a6134e4610dfa56c22587913dcf30d4c5d2458dd2056422b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 40467adc1bd30ed25217a7d89a2758c9f9f5c8706cca45bd1be6dd5e0fa9006a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Comercial
+- Aquisição de Títulos
 - Capital Social
+- CMVM
 - Código das Sociedades Comerciais
 - Lucro
 - Mercado de Capitais
 - Mercado de Valores
-- CMVM
-- Aquisição de Títulos
+- Sociedade Comercial
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:30Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +104,4 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, ao abr
 
 Em 12 de Fevereiro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.

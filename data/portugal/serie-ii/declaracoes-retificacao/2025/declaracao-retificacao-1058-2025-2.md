@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/225000000/0008300083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1058-2025-947237287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e274b2814fac2a02e2537afa529b9b9b9a42ef49d00c4b72af1ed1a378f6b1c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 656bfb1042c2f3d835696d8df485b459b3678d5bad6f5f65174951dbd3c5bae8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:939754171:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:36Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +91,12 @@ Por ter saído com inexatidão o [Despacho (extrato) n.º 12133/2025](https://di
 
 Onde se lê:
 
-«por despacho de Sua Ex.<sup>a</sup> o Diretor Nacional da PSP, datado de 17 de janeiro de 2025, foram nomeados nas carreiras de agente de polícia, na categoria de agente, os polícias abaixo indicados, ficando posicionados na 1.ª posição remuneratória, 7.º nível remuneratório, de acordo com o Anexo II, da tabela remuneratória do referido estatuto.»
+«por despacho de Sua Ex.a o Diretor Nacional da PSP, datado de 17 de janeiro de 2025, foram nomeados nas carreiras de agente de polícia, na categoria de agente, os polícias abaixo indicados, ficando posicionados na 1.ª posição remuneratória, 7.º nível remuneratório, de acordo com o Anexo II, da tabela remuneratória do referido estatuto.»
 
 deve ler-se:
 
-«por despacho de Sua Ex.<sup>a</sup> o Diretor Nacional da PSP, foram nomeados nas carreiras de agente de polícia, na categoria de agente, os polícias abaixo indicados, ficando posicionados na 1.ª posição remuneratória, 7.º nível remuneratório, de acordo com o Anexo II, da tabela remuneratória do referido estatuto, com efeitos a 29 de julho de 2025.»
+«por despacho de Sua Ex.a o Diretor Nacional da PSP, foram nomeados nas carreiras de agente de polícia, na categoria de agente, os polícias abaixo indicados, ficando posicionados na 1.ª posição remuneratória, 7.º nível remuneratório, de acordo com o Anexo II, da tabela remuneratória do referido estatuto, com efeitos a 29 de julho de 2025.»
 
 14 de novembro de 2025. - O Diretor do DRH, Luís Guerra, superintendente.
+
+319773343

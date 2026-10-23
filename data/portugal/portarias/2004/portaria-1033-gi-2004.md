@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 187/2004, 2º Suplemento, Série I-B de 2004-08-10
   number: '187'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 5166-(93) a 5166-(93)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/187b02/00930093.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-gi/2004/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-gi-2004-284317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa3429c00b67ad7f99e6a7004b9bdab5789d3444e1e834221d1bfa78ac9a1974
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b8e0e44736ba65f626c9b7e8f8103c053d670e812a27c18531bf4fac0d8231c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:540593:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:142150:por
+  label: "Renovada por doze anos a concessão de zona de caça atribuída pela Port 786/95 de 12-Jul, com a redacção do presente\
+    \ diploma, pela PORT.799/2005.05.09.2005.MADRP, DR.IS-B [170] de 05.09.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/799-2005-142150
+  date: '2005-09-05'
+- type: amended_by
+  target: pt:dre:540593:por
+  label: "Anexados, vários prédios rústicos à zona de caça associativa atribuída pela Portaria 786/95 de 12 de Julho, na redacção\
+    \ do presente diploma pela Port.848/2006.22.08.2006.MADRP, DR.IS [161] de 22.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/848-2006-540593
+  date: '2006-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -102,16 +114,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/786/1995/07/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/786/1995/07/12/p/dre
+- type: cites
+  target: pt:dre:211234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:38Z'
   warnings: []
   errors: []
 ---

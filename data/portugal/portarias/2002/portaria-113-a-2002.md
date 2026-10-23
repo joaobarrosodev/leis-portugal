@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 32/2002, 1º Suplemento, Série I-B de 2002-02-07
   number: '32'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 970-(2) a 970-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113-a/2002/02/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-a-2002-402706
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62104470546791853bf07da1b7a94eb3ac72dc127e27006d445eb3a0e077ad61
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 765787a071b845d0dac03927d74615dadb560ebe2ca55ef9f0a7b71030ab4bd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Renovação Urbana
 - Apoio ao Investimento
+- Comércio
 - Prestação de Serviços
+- Programa Operacional da Economia
 - QCA III
 - Reconversão de Empresas
 - Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (urbcom)
-- Programa Operacional da Economia
-- Comércio
+- Renovação Urbana
 - Urbcom
 relationships:
 - type: amended_by
   target: pt:dre:568899:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568899:por
+  label: "Mantido o regime constante da Port 317-B/2000 de 31-Mai, com a redacção da presente, pela PORT.188/2004.26.02.2004.MF,\
+    \ DR.IS-B [48] de 26.02.2004, para as candidaturas individuais das empresas, decorrentes de projectos qualificados antes\
+    \ da entrada em vigor daquele diploma, relativamente às quais esteja a decorrer o prazo para a sua apresentação. \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/188-2004-568899
+  date: '2004-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/317-b/2000/05/31/p/dre
   label: null
@@ -89,15 +96,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
 article_structure:
-  article_count: 23
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:45Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +167,9 @@ d) ...
 
 5 - ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -186,7 +195,9 @@ d) ...
 
 12 - A qualificação dos projectos globais de urbanismo comercial seleccionados é homologada pelo Ministro da Economia, sob proposta da unidade de gestão competente.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - ...
 
@@ -202,7 +213,9 @@ d) ...
 
 7 - Posteriormente à aprovação das Normas referidas no número anterior, o estudo global é objecto de apresentação pública.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - As empresas devem apresentar as respectivas candidaturas individuais, no período estabelecido nas normas específicas do estudo global com base nas medidas e acções nele contidas para a respectiva área de intervenção, reforçadas com outras que entendam realizar para melhorar a competitividade das empresas, não devendo ser desvirtuado o projecto de urbanismo comercial.
 
@@ -210,7 +223,9 @@ d) ...
 
 3 - As candidaturas das câmaras municipais são elaboradas e apresentadas nos termos constantes do anexo IV a este Regulamento.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - As candidaturas das empresas serão apresentadas nos postos de atendimento competentes do Ministério da Economia, que as recepcionarão e verificarão se contêm as informações e documentos exigidos, encaminhando-as de seguida para as entidades gestoras.
 
@@ -218,17 +233,23 @@ d) ...
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - As candidaturas das empresas formuladas ao abrigo do presente Regulamento e recepcionadas nos serviços competentes do Ministério da Economia, de acordo com o referido nos n.os 1 e 2 do artigo anterior, devem ser remetidas no prazo máximo de cinco dias úteis ao IAPMEI.
 
 2 - ...
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 Quando exista investimento no domínio da formação profissional apresentado pela estrutura associativa e dirigida aos recursos humanos das empresas, compete ao IAPMEI proceder à respectiva análise e submeter à apreciação da unidade de gestão.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -250,7 +271,9 @@ f) Comprometer-se a afectar o projecto à localização geográfica e à respect
 
 4 - Caso as condições previstas no n.º 1, por razões imputáveis aos promotores, não sejam cumpridas no prazo indicado no n.º 2, ou no n.º 3, consoante os casos, a decisão de aprovação da candidatura caduca automaticamente.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -272,7 +295,9 @@ e) ...
 
 5 - (Anterior n.º 6.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -290,7 +315,9 @@ e) [Anterior alínea d).]
 
 3 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 ...
 
@@ -302,7 +329,9 @@ c) Não incluir despesas anteriores à data da candidatura à excepção das des
 
 d) [Anterior alínea c).]
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - A câmara municipal deve satisfazer, cumulativamente, os seguintes requisitos:
 
@@ -316,11 +345,15 @@ d) O investimento não deverá estar concluído à data de apresentação da can
 
 2 - Para efeitos do disposto nas alíneas c) e d) do n.º 1 considera-se, respectivamente, como início do investimento a data da factura mais antiga imputada ao mesmo e como conclusão a data da última factura paga imputada ao investimento.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 As candidaturas das empresas serão avaliadas através do indicador «qualidade do projecto» (QP), definido nos termos do anexo III ao presente Regulamento.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - Constituem despesas elegíveis as realizadas em investimento corpóreo e incorpóreo, com:
 
@@ -356,7 +389,9 @@ k) Custos com garantias bancárias suportados pelo promotor, exigidas nos termos
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O incentivo é concedido segundo a classificação obtida pela «qualidade do projecto» (QP), a qual é apurada através dos critérios constantes do anexo III ao presente Regulamento, nos termos seguintes:
 
@@ -368,7 +403,9 @@ b) Quando QP for média, o apoio financeiro traduz-se na concessão de um incent
 
 3 - ...
 
-###### Artigo 24.º — [...]
+Artigo 24.º
+
+[...]
 
 1 - ...
 
@@ -382,7 +419,9 @@ b) Quando QP for média, o apoio financeiro traduz-se na concessão de um incent
 
 6 - O limite referido no n.º 3 terá uma redução de 30% se a taxa de adesão dos estabelecimentos for inferior a 50%.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -394,7 +433,9 @@ b) Quando QP for média, o apoio financeiro traduz-se na concessão de um incent
 
 5 - O limite referido no n.º 1 terá uma redução de 30% se a taxa de adesão dos estabelecimentos for inferior a 50%.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - As entidades responsáveis pela gestão do URBCOM são o IAPMEI, para os projectos das empresas e para as intervenções no domínio da formação profissional dirigida aos recursos humanos das empresas, e a DGCC, para os projectos das estruturas associativas e das câmaras municipais.
 
@@ -402,7 +443,9 @@ b) Quando QP for média, o apoio financeiro traduz-se na concessão de um incent
 
 3 - ...
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 ...
 
@@ -424,11 +467,15 @@ h) [Anterior alínea i).]
 
 i) Propor à unidade de gestão os projectos de investimento previstos no n.º 3 do artigo 3.º
 
-###### Artigo 35.º — Pagamento
+Artigo 35.º
+
+Pagamento
 
 O pagamento do incentivo financeiro é processado nos termos definidos na norma de pagamentos homologada pelo Ministro da Economia.
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -446,7 +493,9 @@ f) Manter na empresa, devidamente organizados em dossiê, todos os documentos su
 
 2 - Todos os apoios financeiros concedidos ficam sujeitos à verificação da sua utilização em conformidade com o projecto de investimento, não podendo ser desviados para outros fins, nem podendo o promotor ceder, locar, alienar ou por qualquer modo onerar ou deslocalizar, no todo ou em parte, o investimento e os bens com eles adquiridos, sem autorização prévia do organismo gestor até cinco anos contados após a notificação da aprovação do incentivo.
 
-###### Artigo 38.º — [...]
+Artigo 38.º
+
+[...]
 
 1 - ...
 
@@ -460,13 +509,17 @@ ii) ...
 
 2 - A intervenção das estruturas associativas, para os efeitos do disposto na alínea b) do número anterior, será objecto de regulamentação específica no âmbito das parcerias e iniciativas públicas.
 
-###### Artigo 39.º — Verificação dos projectos
+Artigo 39.º
+
+Verificação dos projectos
 
 1 - A verificação dos projectos, por parte dos organismos responsáveis no âmbito do URBCOM, será promovida por amostragem ou sempre que se identifique, em qualquer fase do processo - recepção, análise, contratação, acompanhamento e encerramento - um incidente de verificação obrigatória, ou quando ao gestor assistam dúvidas razoáveis quanto ao objectivo ou à estrutura do investimento.
 
 2 - Relativamente à componente da formação profissional, o IAPMEI concretizará, em conformidade com os normativos que regulamentem a aplicação do Fundo Social Europeu, no quadro normativo nacional, mecanismos de acompanhamento, controlo e fiscalização da execução da componente, incluindo, nomeadamente, o recurso a auditorias.
 
-###### Artigo 40.º — [...]
+Artigo 40.º
+
+[...]
 
 1 - ...
 
@@ -500,7 +553,7 @@ CPp = capitais próprios do projecto.»
 
 Percentagem máxima da despesa elegível no URBCOM
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
 
 5.º O anexo III do Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial, anexo à Portaria n.º 317-B/2000, de 31 de Maio, passa a ter seguinte redacção:
 
@@ -552,7 +605,7 @@ Projecto de forte reestruturação funcional - investimentos em a. i. que visem 
 
 Consoante a distribuição dos investimentos nas referidas áreas de impacte, poderão ocorrer as seguintes situações:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)](https://files.diariodarepublica.pt/1s/2002/02/032b01/00020007.pdf)
 
 A QP será forte quando o valor do investimento elegível afecto às áreas de impacte consideradas de forte atractividade e ou forte reestruturação funcional (indicadores I(índice AF) e I(índice BF), respectivamente) for superior a 40% do IET, sendo necessário que o valor do investimento elegível, repartido pelas áreas de impacte do outro critério (indicadores I(índice A) e I(índice B)), seja representativo de, pelo menos, 10% do IET.
 
@@ -640,4 +693,4 @@ Normas de candidatura das câmaras municipais, nos termos do n.º 3 do artigo 8.
 
 Em 5 de Fevereiro de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Economia, Luís Garcia Braga da Cruz. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Economia, Luís Garcia Braga da Cruz. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.

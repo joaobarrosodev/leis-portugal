@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/120/2003/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-2003-167378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4da054353f9292d48d792b494938cffaed341e55bcd14666e1fc3b50dc1914f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f03bc8ce4df0c845a87445024897a2961e2880486a7449c95c066329bc03d3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:440320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148418:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.866/2005.21.09.2005.MADRP, DR.IS-B [182] de 21.09.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/866-2005-148418
+  date: '2005-09-21'
+- type: amended_by
+  target: pt:dre:440320:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa concessionada pelo presente diploma, alterado pela Port\
+    \ 866/2005 de 21-Set, pela PORT.1345/2008.26.11.2008.MADRP, DR.IS [230] de 26.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1345-2008-440320
+  date: '2008-11-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1391/2002/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1391/2002/10/25/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:04Z'
   warnings: []
   errors: []
 ---

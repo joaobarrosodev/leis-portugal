@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 187/2004, 1º Suplemento, Série I-B de 2004-08-10
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5166-(22) a 5166-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/187b01/00220023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-bc/2004/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-bc-2004-284084
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc95841fef84f52954e274b43a22943d85a7d7470ba29ed867d564894538e110
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23a97c81f530c78fa1fbcae270bb81959ca805bd23a3d97a3fabf0e090a61c74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,14 @@ relationships:
   target: pt:dre:489980:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489980:por
+  label: "Extinta, a partir de 14.09.2009, a zona de caça municipal de São Pedro, criada pelo presente diploma, ora revogado,\
+    \ criada a zona de caça municipal do Vale do Lena, por um período de seis anos, e transferida a sua gestão para o Clube\
+    \ de Caça e Pesca de Vale do Lena no município de Porto Mós, pela PORT.1012/2009.09.09.2009.MAOTDR, DR.IS [175] de 09.09.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-2009-489980
+  date: '2009-09-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -89,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:58Z'
   warnings: []
   errors: []
 ---

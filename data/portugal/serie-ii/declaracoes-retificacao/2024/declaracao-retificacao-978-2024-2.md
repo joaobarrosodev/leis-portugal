@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/224000000/0028300283.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/978-2024-897060375
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57cb3d9549f5bb6d2189469d230b19b0546e377c71ba004faf052345bd0df6b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27a43ed90cb63c68e16d0e8aaf93799efeaf89cc86d787ef28668dd76ef76398
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:892307120:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:06Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +101,5 @@ A posição de investigador principal deverá ser financiada pelo Laboratório A
 O investigador principal deverá executar funções de diretor executivo do Laboratório Associado CHANGE, sendo as suas principais tarefas o apoio ao conselho diretivo do CHANGE, a coordenação de atividades de interação e desenvolvimento de iniciativas interdisciplinares com relevância estratégica para o CHANGE, envolvendo investigadores das diversas unidades de pesquisa e desenvolvimento que constituem o CHANGE. Responsabilidades adicionais incluem o desenvolvimento de atividades de transferência de conhecimento, o desenvolvimento e manutenção de colaborações duradouras com parceiros externos, em particular, com a Administração Pública a nível local, regional e nacional, assim como com empresas públicas e privadas e outras organizações do setor privado nacionais e internacionais, no âmbito do CHANGE. O diretor executivo representará o CHANGE em diversas atividades externas, eventos técnicos e científicos, apoiará o posicionamento no que respeita a políticas públicas em temas tais como a ciência, a agricultura e o ambiente. As responsabilidades incluirão atividades de angariação de financiamento, através da negociação e desenvolvimento de protocolos, assim como contratos de prestação de serviços e apoio para a captação de financiamento através de candidaturas a financiamentos competitivos nacionais e internacionais.»
 
 7 de novembro de 2024. - A Administradora da Universidade de Évora, Ana Cristina Centeno.
+
+318325995

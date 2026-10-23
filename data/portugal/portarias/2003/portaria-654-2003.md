@@ -26,9 +26,7 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes:
-- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
-  2026-10-22).'
+notes: []
 language: por
 version:
   kind: original
@@ -49,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/654/2003/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/654-2003-651733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63e851fd1f6a4e633cb33b2e83b8f1c2ca507ab7193fac7bb4ba92282066f262
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 783d287b5432cd4b4c03d81bc99f130a3b38f7849bb12c18f97332e033ffc85e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Coimbra
 - Conservatória do Registo Predial
 - Criação de Serviços
-- Coimbra
 - Quadro de Pessoal
 relationships:
 - type: amended_by
@@ -85,16 +83,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/87/2001/03/17/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/87/2001/03/17/p/dre
+- type: cites
+  target: pt:dre:185918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355950:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388183:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:179481:por
+  label: "Rectificada pela DECL-RECT.11-D/2003.2003.08.25.PCM, DR.IS-B [200]6ºSupl de 30/Ago/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-d-2003-179481
+  date: '2003-08-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:29Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +124,7 @@ Manda o Governo, pela Ministra da Justiça, ao abrigo do disposto nos artigos 36
 
 2.º O quadro de pessoal é o seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44784478.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44784478.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44784478.pdf)
 
 3.º A área de competência territorial passa a ser:
 
@@ -119,7 +134,7 @@ Manda o Governo, pela Ministra da Justiça, ao abrigo do disposto nos artigos 36
 
 4.º Com a entrada em funcionamento da 2.ª Conservatória do Registo Predial de Coimbra a 1.ª Conservatória do Registo Predial do mesmo concelho passa a ter o seguinte quadro de pessoal:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44784478.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44784478.pdf)](https://files.diariodarepublica.pt/1s/2003/07/174b00/44784478.pdf)
 
 5.º A data da entrada em funcionamento da nova conservatória é fixada por despacho do director-geral dos Registos e do Notariado.
 

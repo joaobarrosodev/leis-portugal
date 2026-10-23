@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/972/2001/08/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/972-2001-524595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3165d15da73bc747bae299e192c1ed8fc1fdf1df57b420909014683251649c8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97cecc69e7c8803bb7e7aba9f31f0f4ec065230f15aa37d9d91b62defbf6c8d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,30 @@ relationships:
   target: pt:dre:490261:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:148416:por
+  label: "Anexado um prédio rústico à zona de caça atribuída pela Port 1018/97 de 24-Set, renovada pelo presente diploma,\
+    \ pela PORT.864/2005.21.09.2005.MADRP, DR.IS-B [182] de 21.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/864-2005-148416
+  date: '2005-09-21'
+- type: amended_by
+  target: pt:dre:520775:por
+  label: "Renovada por doze anos a concessão da zona de caça atribuída pela Port 1018/97 de 24-Set, posteriormente renovada\
+    \ no presente diploma, pela PORT.607/2007.21.05.2007.MADRP, DR.IS [97] de 21.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/607-2007-520775
+  date: '2007-05-21'
+- type: amended_by
+  target: pt:dre:490261:por
+  label: "Anexados vários prédios rústicos, sitos na freguesia de Zebreira, à zona de caça associativa da Herdade do Souto,\
+    \ concessionada pela Port 1018/97 de 24-Set, renovada pelo presente diploma, pela PORT.1070/2009.18.09.2009.MADRP, DR.IS\
+    \ [182] de 18.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1070-2009-490261
+  date: '2009-09-18'
+- type: amends
+  target: pt:dre:659754:por
+  label: "Renova, por um período de seis anos, a concessão atribuída pela port 1018/97, de 24-Set DR.IS-B [221]\0\0"
+  source: null
+  date: '1997-09-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -82,16 +106,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1018/1997/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1018/1997/09/24/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659754:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:49Z'
   warnings: []
   errors: []
 ---

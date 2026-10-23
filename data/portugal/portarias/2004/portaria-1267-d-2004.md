@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 232/2004, 1º Suplemento, Série I-B de 2004-10-01
   number: '232'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6198-(4) a 6198-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/10/232b01/00040005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1267-d/2004/10/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1267-d-2004-689410
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c7419e924c284f204d88c368bd98d7ac8541059f32df5488adf72d0bd0c8b6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d76797a49c3b0a5e966b65d9cf708091fbe0557e7dc87aa52fe3db8707718b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:637434:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:637434:por
+  label: "Anexados vários prédios rústicos e renovada por um período de 12 anos, com efeitos a partir de 15 de Julho de 2007,\
+    \ a concessão da zona de caça criada pela Portaria 874/95, de 14 de Julho, na redacção do presente diploma, pela PORT.890/2007.10.08.2007.MAOTDR,\
+    \ DR.IS [154] de 10.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/890-2007-637434
+  date: '2007-08-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -106,16 +113,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/874/1995/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/874/1995/07/14/p/dre
+- type: cites
+  target: pt:dre:241659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:54Z'
   warnings: []
   errors: []
 ---

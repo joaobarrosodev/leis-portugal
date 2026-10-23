@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/341-2022-182431743
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f398ba4e48f3f73faf1dc8292a26f20d8fb90b0e335281755a406374d523080b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 706f812fcaa67316af7a3b25fb248ce9875b92a6ef06cdb9fbdc47faed40d6cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Administração Regional de Saúde
+- Carreira de Técnico Superior de Saúde
+- Estabelecimento Hospitalar
+- Política de Saúde
+- Posto de Trabalho
+- Quadro de Pessoal
+- Recursos Humanos
+- Regulamentação de Atos Legislativos
+- Saúde Pública
+- Serviço de Saúde
+- Serviço Nacional de Saúde
+relationships:
+- type: cites
+  target: pt:dre:148443695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157563898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173960821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181754982:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:16Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +117,12 @@ Tendo-se verificado que o Anexo I àquele despacho, que respeita à categoria de
 
 Onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf))](https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf))](https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/079000000/0019600198.pdf)
 
 13 de abril de 2022. - A Secretária-Geral, Ana Pedroso.
+
+315229786

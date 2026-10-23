@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/278/2003/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/278-2003-232952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c40daee4b5f0246bcba5326d89d2ff7a9a81247186f1ffc7cea9b96ec30e52a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93c642dbbee86617e5805944d8809cf02201869f63a99a69e5eee7b39258e321
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Ministério da Segurança Social e do Trabalho
 - Livre Trânsito
+- Ministério da Segurança Social e do Trabalho
 - Secretário Geral
 relationships:
 - type: amended_by
@@ -83,16 +83,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/257/2001/03/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/257/2001/03/27/p/dre
+- type: cites
+  target: pt:dre:218524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345319:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:591084:por
+  label: "Revogada pela PORT.1272/2004.06.10.2004.MSSFC, DR.IS-B [235] de 06.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1272-2004-591084
+  date: '2004-10-06'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:16Z'
   warnings: []
   errors: []
 ---
@@ -133,8 +146,8 @@ b) Cartão de identificação de cor branca, com escudo e letras de cor preta, t
 
 10.º São revogadas as Portarias n.os [139/98](https://diariodarepublica.pt/dr/detalhe/portaria/139-1998-218524), de 4 de Março, e [257/2001](https://diariodarepublica.pt/dr/detalhe/portaria/257-2001-345319), de 27 de Março.
 
-**O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix, em 7 de Fevereiro de 2003.**
+O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix, em 7 de Fevereiro de 2003.
 
-## ANEXO N.º 1 — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf)
+## ANEXO N.º 1 — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf)
 
-## ANEXO N.º 2 — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf)
+## ANEXO N.º 2 — [[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf)](https://files.diariodarepublica.pt/1s/2003/03/072b00/19931994.pdf)

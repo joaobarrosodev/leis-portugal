@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/048b00/10231023.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/189/2004/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/189-2004-568898
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28181a4fe11ef3062118a9e130f801818ce0cc9315f1954985c4fab5d255024c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 943433ca515608fb55eb927e34a20ada52b699015cedeb2dc0a11ccd9d4b894f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
-- Processo Penal
-- Vila Franca de Xira
+- Amadora
 - Barcelos
 - Barreiro
 - Braga
+- Cascais
 - Espinho
 - Esposende
 - FAFE
 - Felgueiras
-- Lisboa
 - Gondomar
 - Guimarães
+- Lisboa
 - Loures
 - Lousada
 - Mafra
@@ -87,25 +87,25 @@ subjects:
 - Medidas Preventivas
 - Moita
 - Montijo
-- Prisão Domiciliaria
+- Oeiras
 - Ovar
 - Paços de Ferreira
 - Paredes
 - Penafiel
-- Setúbal
-- VILA do Conde
+- Porto
 - Póvoa de Varzim
-- Vigilância Electrónica
+- Prisão Domiciliaria
+- Processo Penal
 - Santa Maria da Feira
 - Santo Tirso
 - Seixal
 - Sesimbra
-- Amadora
-- Cascais
-- Oeiras
+- Setúbal
 - Sintra
-- Porto
 - Valongo
+- Vigilância Electrónica
+- VILA do Conde
+- Vila Franca de Xira
 - VILA NOVA de Famalicão
 - VILA NOVA de GAIA
 relationships:
@@ -133,16 +133,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/87/2003/07/05/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/87/2003/07/05/p/dre
+- type: cites
+  target: pt:dre:166782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433999:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666706:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:218302:por
+  label: "Rectificada pela DECL-RECT.32/2004.23.03.2004.PCM, DR.IS-B [81] de 05.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/32-2004-218302
+  date: '2004-03-23'
+- type: repealed_by
+  target: pt:dre:624234:por
+  label: "Revogada pela PORT.109/2005.27.01.2005.MJ, DR.IS-B [19] de 27.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/109-2005-624234
+  date: '2005-01-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:45Z'
   warnings: []
   errors: []
 ---
@@ -189,4 +219,4 @@ Entrada em vigor
 
 A presente portaria produz efeitos no dia seguinte ao da sua publicação.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 6 de Fevereiro de 2004.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 6 de Fevereiro de 2004.

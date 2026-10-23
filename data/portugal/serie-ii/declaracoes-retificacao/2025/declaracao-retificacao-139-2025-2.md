@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/027000000/0029600296.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/139-2025-906543164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5246306897f6cde04f8efa409727cc769c286a047bb0774f826177f84bac2d66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44e7c85e4d88811f2e68864da2c1bc303aa9ca2a39e77f844df94282fa784cb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:27Z'
   warnings: []
   errors: []
 ---
@@ -101,3 +101,5 @@ deve ler-se:
 g) Projeto científico e pedagógico em Marketing. Este projeto deverá evidenciar as áreas de interesse de investigação do candidato bem como os planos do candidato na vertente de investigação para os próximos 5 anos e a forma como espera relacionar essa investigação com as atividades de ensino. Este projeto não pode exceder as 2000 palavras, ficando ao critério do candidato o seu formato e organização.»
 
 31 de janeiro de 2025. - O Vice-Presidente do Instituto Politécnico de Coimbra, Doutor Daniel Jorge Roque Martins Gomes.
+
+318645223

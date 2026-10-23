@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/273/2002/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/273-2002-264941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1322c6d6910de0131b54b8294d60dad4a6499baeb90828a6304b544a17713705
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2394438ba2907dd801b87c179038cd5b456c2d2223b8bc29edc3d7e5573ab0ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,16 +99,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/895/1992/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/895/1992/09/16/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:11Z'
   warnings: []
   errors: []
 ---
@@ -181,19 +217,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
 
 Ramo de técnico
 
@@ -205,13 +241,13 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
 
 QUADRO N.º 5
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
 
 Ramo de realização
 
@@ -223,10 +259,10 @@ QUADRO N.º 6
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
 
 QUADRO N.º 7
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)
+[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)](https://files.diariodarepublica.pt/1s/2002/03/062b00/23402342.pdf)

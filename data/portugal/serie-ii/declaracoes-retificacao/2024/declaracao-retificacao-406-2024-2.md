@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/111000000/0043600436.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/406-2024-868418061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e549545ac4585f794c135798a602a1e6ffc7f48f9b7c866fb898fe252e2ade34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fce3f4067225ee6f0f2f06781496f8b5b3aa261705d61646ce292de0737cbc91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:121461764:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:39Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +99,5 @@ deve ler-se:
 "[...] deliberação da Câmara Municipal da Chamusca do dia 7 de novembro de 2023 e da Assembleia Municipal de 20 de dezembro de 2023, se encontra aberto, pelo prazo de 10 dias úteis a contar do dia da publicitação do presente aviso [...] Regulamento de Organização dos Serviços Municipais do Município da Chamusca, alterado pelo [Aviso n.º 5201/2019](https://diariodarepublica.pt/dr/detalhe/aviso/5201-2019-121461764), publicitado no Diário da República, 2.ª série, n.º 59, de 25 de março de 2019 [...]"
 
 16 de maio de 2024. - O Presidente da Câmara Municipal, Paulo Jorge Mira Lucas Cegonho Queimado.
+
+317708312

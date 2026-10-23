@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/151/2003/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/151-2003-198335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 843d9bad824daf78f1aaad33a32f5163b8b4d65b6f802c3da684dbd61a87382e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e74c3d7e2c95a203ebdb732239287eda1bb54bf83839d9c410789e3933c8b119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
 - Licenciatura
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
@@ -90,16 +90,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1205/1997/11/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1205/1997/11/28/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406366:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:28Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +200,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2002-2003, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 14 de Janeiro de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 14 de Janeiro de 2003.
 
 ## ANEXO — ([Portaria n.º 1205/97](https://diariodarepublica.pt/dr/detalhe/portaria/1205-1997-406366), de 28 de Novembro - alteração)
 
@@ -194,19 +214,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 Ramo de Cristianismo
 
@@ -214,7 +234,7 @@ QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 Ramo de Judaísmo
 
@@ -222,7 +242,7 @@ QUADRO N.º 5
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 Ramo de Islamismo
 
@@ -230,7 +250,7 @@ QUADRO N.º 6
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 Ramo de Religiões Orientais
 
@@ -238,7 +258,7 @@ QUADRO N.º 7
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
 
 Ramo de Religiões Africanas
 
@@ -246,4 +266,4 @@ QUADRO N.º 8
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)
+[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)](https://files.diariodarepublica.pt/1s/2003/02/037b00/09610964.pdf)

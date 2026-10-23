@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/238000000/0006100061.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1056-2024-899357333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af1ef5fa0719bd3d3239eb0b61aa9000e6771d24122df846acee3a103f657abb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dea47705885ca4d552e949129183d1e4ecdf698c83749090c68b65f1160978aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:27Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 121, de 25 de junho de 2024, o Despacho n.º 7044/2024, retifica-se que onde se lê «39626689, Coronel de Infantaria, Jesus Manuel de Jesus Carvalho. Estado-Maior-General das Forças Armadas de 07 de março de 2024.» deve ler-se «39626689, Coronel de Infantaria, João Manuel de Jesus Carvalho. Estado-Maior-General das Forças Armadas de 07 de março de 2024.».
 
 21 de outubro de 2024. - O Chefe do Estado-Maior-General das Forças Armadas, José Nunes da Fonseca, General.
+
+318253604

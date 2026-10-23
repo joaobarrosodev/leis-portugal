@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/332/2003/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/332-2003-240782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae2b57a417624bc19c2ac89e6386c1b31e9eaee5a9c6c05726863ce8b82cdf5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d87e81d20b82c4fd990b74240204e6f937d01ca49b4452441f90fdf15e374a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,15 @@ subjects:
 - Curso de Especialização
 - Enfermagem
 - Ensino Particular
-- Escola Superior de Saúde da Cruz Vermelha Portuguesa
 - Ensino Superior
+- Escola Superior de Saúde da Cruz Vermelha Portuguesa
 relationships:
+- type: amended_by
+  target: pt:dre:127369106:por
+  label: Alterada para, pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica, a denominação do curso
+    aprovado pelo presente diploma, pelo(a) Portaria n.º 405/2019 - Diário da República n.º 244/2019, Série I de 2019-12-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/405-2019-127369106
+  date: '2019-12-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -100,16 +106,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/557/1993/05/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/557/1993/05/31/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215079:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283692:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:35Z'
   warnings: []
   errors: []
 ---
@@ -180,7 +218,7 @@ Condicionamento
 
 A autorização e o reconhecimento operados pelo presente diploma não prejudicam, sob pena de revogação do mesmo, a obrigação dos órgãos responsáveis da entidade instituidora e do estabelecimento de ensino do cumprimento de eventuais adaptações, ou correcções, que sejam determinadas pelo Ministério da Ciência e do Ensino Superior, quer por não cumprimento dos pressupostos de autorização e reconhecimento, quer em consequência das acções previstas no artigo 75.º do Estatuto do Ensino Superior Particular e Cooperativo.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 4 de Abril de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 4 de Abril de 2003.
 
 ## ANEXO — Escola Superior de Saúde da Cruz Vermelha Portuguesa
 

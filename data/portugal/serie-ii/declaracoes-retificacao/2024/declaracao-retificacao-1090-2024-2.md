@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/245000000/0003800038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1090-2024-900538668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb8890500a2da0902e643af1e83a2f493cbe09efe9d20d0d1b71aace71d7e689
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eb15221288eb58314b6742bc3548d480aa36421c19d67209ff395108039a276
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:38Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Por ter sido publicado com inexatidão o Despacho n.º 14752/2024, no Diário da
 Assim, onde se lê «Susana Alexandra de Almeida Martins, como dirigente intermédio de 1.º grau, no cargo de Diretora de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais, do Instituto Nacional de Administração, I. P. pelo período de 3 anos, atendendo aos desempenhos e aos resultados obtidos, evidenciados, designadamente, nos relatórios de demonstração das atividades prosseguidas, com efeitos reportados a 1 de janeiro de 2024.» deve ler-se «Susana Alexandra de Almeida Martins, como dirigente intermédio de 1.º grau, no cargo de Diretora de Serviços de Gestão de Recursos Humanos, Financeiros e Patrimoniais, do Instituto Nacional de Administração, I. P., pelo período de 3 anos, atendendo aos desempenhos e aos resultados obtidos, evidenciados, designadamente, nos relatórios de demonstração das atividades prosseguidas, com efeitos reportados a 1 de janeiro de 2025.».
 
 13 de dezembro de 2024. - A Presidente do Conselho Diretivo, Luísa Neto.
+
+318466765

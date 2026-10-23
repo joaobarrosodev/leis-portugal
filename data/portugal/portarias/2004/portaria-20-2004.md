@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/2004/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-2004-241002
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bcd81cce542803b53919948ac03710f08fefa3b5718ebee6bab1ab432e9f7efa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae09c2aa32060792caf4411775d74ff8d1d0450458760efceb569e65073b0526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Concurso
+- Juiz de Paz
 - Julgado de Paz
 - Lisboa
-- Recrutamento de Pessoal
-- Juiz de Paz
 - Oliveira do Bairro
 - Prorrogação de Prazo
+- Recrutamento de Pessoal
 - Seixal
 - VILA NOVA de GAIA
 relationships:
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/280/2003/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/280/2003/03/29/p/dre
+- type: cites
+  target: pt:dre:233537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583651:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:50Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +144,4 @@ Manda o Governo, pelas Ministras de Estado e das Finanças e da Justiça, o segu
 
 Em 17 de Dezembro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.

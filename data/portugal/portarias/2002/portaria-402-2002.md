@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/091b00/38513851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/402/2002/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788e331d94e7ef51d911a6cf1d7f4e0d441f9c111a786b62d193dd72edada0f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173ed3d12a8415113becc11bbb461538a30519f6db74275ea64ab4416470b815
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,33 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Crustáceo
-- Pesca
-- Peixe
 - Espécie Protegida
+- Peixe
+- Pesca
 - Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:279828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:279828:por
+  label: "Alterado o anexo à Port 27/2001, de 15-Jan, na redacção do presente diploma, pela PORT.82/2011.22.02.2011.MADRP,\
+    \ DR.IS [37] de 22.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/82-2011-279828
+  date: '2011-02-22'
+- type: amended_by
+  target: pt:dre:56304799:por
+  label: Alterado o anexo à Portaria 27/2001 de 15-jan, na redação do presente diploma, pelo(a) Portaria n.º 170/2014 - Diário
+    da República n.º 161/2014, Série I de 2014-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/170-2014-56304799
+  date: '2014-08-22'
+- type: amended_by
+  target: pt:dre:129793722:por
+  label: Alterado o anexo da Port 27/2001 de 15-jan, com a redação dada pelo presente diploma, pelo(a) Portaria n.º 56/2020
+    - Diário da República n.º 44/2020, Série I de 2020-03-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/56-2020-129793722
+  date: '2020-03-03'
 - type: cites
   target: celex:31998R0850
   label: null
@@ -91,13 +109,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:01Z'
   warnings: []
   errors: []
 ---

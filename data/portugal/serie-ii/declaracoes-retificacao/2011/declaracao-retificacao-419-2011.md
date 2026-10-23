@@ -46,44 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/419-2011-3476421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9e6f5d52051c0f87aa2a79f2f14a76d952f009462da5f1d1b1a6b32fb30091e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a86cb303a0104bbd0cccf0366e0a78f3a88351f221620bc54c4025d940e0e217
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Eurocontrol
+- Navegação Aérea
+- Segurança da Navegação
+- TAXA de Câmbio
+- Taxa de rota
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:1116545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:1142925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:34Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 419/2011
+# Declaração de rectificação n.º 419/2011
 
 Ao abrigo do disposto no artigo 9.º do Regulamento de Publicação de Actos no Diário da República, aprovado pelo [Despacho Normativo n.º 35-A/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-a-2008-1116545), de 28 de Julho, e alterado pelo [Despacho Normativo n.º 13/2009](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2009-1142925), de 19 de Março, declara-se que, por conter uma inexactidão, se rectifica o anexo do despacho n.º 967/2011, de 31 de Dezembro, publicado no Diário da República, 2.ª série, n.º 8, de 12 de Janeiro de 2011.
 
 Assim, no campo respeitante ao valor da taxa unitária global do Estado da Finlândia, onde se lê «140,38» deve ler-se «40,38».
 
 9 de Fevereiro de 2011. - A Secretária-Geral, Isabel Maria Marques de Carvalho Pimentel da Silva.
+
+204336443

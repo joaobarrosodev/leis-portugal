@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/340/2003/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/340-2003-240813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4ef9afd4b546e53c52bc6728bfe4c427255307705322ad5aeb73ee80fb9c917
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5756c62c1d933145ff256ca12ea06eebc9e0a1a6f836c0922ffba5dbb2adb420
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,13 @@ relationships:
   target: pt:dre:541264:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541264:por
+  label: "Renovada, por um periodo de 12 anos e com efeitos a partir de 17.04.2006, a concessão da zona de caça, concessionada\
+    \ pela Port 996/97 de 24-Set, alterada pelo presente diploma, e anexados vários prédios rústicos à citada zona de caça,\
+    \ pela PORT.1078/2006.06.10.2006.MAOTDR, DR.IS [193] de 06.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-2006-541264
+  date: '2006-10-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -95,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/996/1997/09/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/996/1997/09/24/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659763:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:40Z'
   warnings: []
   errors: []
 ---

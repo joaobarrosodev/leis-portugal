@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 301/2002, 6º Suplemento, Série I-B de 2002-12-30
   number: '301'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 8186-(662) a 8186-(665)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/12/301b06/06620665.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1557-b/2002/12/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1557-b-2002-694189
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbe242301566377fa9aaf2501781f90426c85ed785c3036547df3f06a8f9ed0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81a47644f8a4a5aa7b8b3d38e6e2c07032ca1776581b2e691daa3cc7d93d7296
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/375/2000/06/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/375/2000/06/26/p/dre
+- type: cites
+  target: pt:dre:303250:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692274:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:590479:por
+  label: "Revogada pela PORT.1273/2004.07.10.2004.MF, DR.IS-B [236] de 07.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1273-2004-590479
+  date: '2004-10-07'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:29Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +143,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Segurança Socia
 
 Em 20 de Dezembro de 2002.
 
-**O Secretário de Estado do Tesouro e Finanças, Miguel Jorge Reis Antunes Frasquilho. - A Secretária de Estado da Segurança Social, Maria Margarida Corrêa de Aguiar.**
+O Secretário de Estado do Tesouro e Finanças, Miguel Jorge Reis Antunes Frasquilho. - A Secretária de Estado da Segurança Social, Maria Margarida Corrêa de Aguiar.
 
 REGULAMENTO DE GESTÃO DO FUNDO DE ESTABILIZAÇÃO FINANCEIRA DA SEGURANÇA SOCIAL
 

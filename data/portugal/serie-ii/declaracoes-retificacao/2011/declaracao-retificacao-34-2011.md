@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/005000000/0103401035.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/34-2011-1796863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f880d404ed000b93e695ce501c775c2ebf24c3346431f525949d9d278dadd3d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 003cdbb1d8e453313781c0c03a36e37b71d89712e0a6eb47beb9d1cf5578bb5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,22 +69,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:08Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 34/2011
+# Declaração de rectificação n.º 34/2011
 
 Por ter saído com inexactidão a publicação do aviso n.º 25790/2010, publicado no Diário da República, 2.ª série, n.º 238, de 10 de Dezembro de 2010, referente à abertura do procedimento concursal comum para a constituição de relação jurídica de emprego público, por tempo indeterminado, tendo em vista a ocupação de um posto de trabalho, previsto e não ocupado, do mapa de pessoal do Instituto Politécnico do Porto, da carreira de técnico superior, para o Centro de Organização Académica e Apoio ao Estudante - Gabinete de Organização Académica, rectifica-se que onde se lê:
 
@@ -195,3 +203,5 @@ c) Aplicação do método facultativo, entrevista profissional de selecção, ao
 As candidaturas entretanto entregues são consideradas no presente procedimento concursal, reiniciando-se um novo prazo de 10 dia úteis a partir da data de publicação desta declaração de rectificação, para apresentação de candidaturas ou junção de qualquer documentos à candidatura que se encontra nos serviços da Presidência do IPP.
 
 23 de Dezembro de 2010. - A Presidente, Rosário Gambôa.
+
+204123883

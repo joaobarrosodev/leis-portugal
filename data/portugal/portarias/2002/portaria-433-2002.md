@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/433/2002/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/433-2002-288401
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a369044d9a0352813a566eb69d198acbf3e5e4e570e95903389b35372f7bd21f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5d5f1b17ad3a55e0423b913f6bdc51d0a7451a0573a35bd015e8135eb9d9f52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1061/1992/11/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1061/1992/11/13/p/dre
+- type: cites
+  target: pt:dre:226416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585023:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:11Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +198,7 @@ d) Resolução de problemas - utilizar o raciocínio matemático, a lógica e os
 
 8.1 - Em termos genéricos, a estrutura curricular dos cursos de aprendizagem de níveis 1, 2 e 3 tem a seguinte configuração:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 8.2 - A organização do percurso formativo para cada curso de aprendizagem de nível 1, 2 ou 3, em conformidade com a estrutura curricular descrita no n.º 8.1, baseia-se na selecção de um conjunto coerente de módulos, no quadro dos previstos para os respectivos graus de aprofundamento, de acordo com o estipulado no n.º 4 deste anexo, numa lógica de adequação ao grupo de formandos, ao contexto formativo e à realidade local.
 
@@ -298,7 +306,7 @@ Viver em português
 
 Grau de base
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: geral
 
@@ -344,7 +352,7 @@ Viver em português
 
 Grau geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: complementar
 
@@ -390,7 +398,7 @@ Viver em português
 
 Grau complementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Domínio: comunicar em francês
 
@@ -420,7 +428,7 @@ Comunicar em francês
 
 Grau elementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: geral
 
@@ -444,7 +452,7 @@ Comunicar em francês
 
 Grau geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: complementar
 
@@ -472,7 +480,7 @@ Comunicar em francês
 
 Grau complementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Domínio: Comunicar em inglês
 
@@ -508,7 +516,7 @@ Comunicar em inglês
 
 Grau elementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: geral
 
@@ -538,7 +546,7 @@ Comunicar em inglês
 
 Grau geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: complementar
 
@@ -568,7 +576,7 @@ Comunicar em inglês
 
 Grau complementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Domínio: comunicar em alemão
 
@@ -606,7 +614,7 @@ Comunicar em alemão
 
 Grau elementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: geral
 
@@ -640,7 +648,7 @@ Comunicar em alemão
 
 Grau geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: complementar
 
@@ -672,7 +680,7 @@ Comunicar em alemão
 
 Grau complementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Área de competência: cidadania e sociedade
 
@@ -712,7 +720,7 @@ Mundo actual
 
 Grau de base
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: geral
 
@@ -736,7 +744,7 @@ Mundo actual
 
 Grau geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: complementar
 
@@ -762,7 +770,7 @@ Mundo actual
 
 Grau complementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Domínio: desenvolvimento pessoal e social
 
@@ -772,7 +780,7 @@ Assim, no que se refere ao desenvolvimento de capacidades de natureza pessoal, s
 
 O núcleo de competências a desenvolver é flexível, dada a natureza deste domínio, bem como a diversidade de públicos alvo, contextos formativos e realidades locais, integrando os seguintes módulos e respectivas unidades temáticas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Componente de formação científico-tecnológica
 
@@ -810,7 +818,7 @@ Matemática e realidade
 
 Grau de base
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: geral
 
@@ -838,7 +846,7 @@ Matemática e realidade
 
 Grau geral
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Grau: complementar
 
@@ -874,6 +882,6 @@ Matemática e realidade
 
 Grau complementar
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)](https://files.diariodarepublica.pt/1s/2002/04/092b00/39403951.pdf)
 
 Os restantes domínios da componente científico-tecnológica, tanto no que respeita às ciências básicas como à área de competência das tecnologias, são especificados nos diplomas reguladores dos respectivos cursos.

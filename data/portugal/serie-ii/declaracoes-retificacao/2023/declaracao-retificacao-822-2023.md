@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/209000000/0004900049.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/822-2023-223414290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea3fc9afb91d7171913c178657d7922ec7f8ba0cfd2e59a3d488eca474eed179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ed9363007ffe5dd9642df33369df8c0da5015c3818c4e541bbac9a7381f033a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:117629745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:117629746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220341154:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:13Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +97,5 @@ validation:
 Tendo sido publicado com inexatidão no Diário da República, 2.ª série, n.º 166, de 28 de agosto de 2023, o [Despacho n.º 8683/2023](https://diariodarepublica.pt/dr/detalhe/despacho/8683-2023-220341154), que atualiza a representação de Portugal no Bologna Follow-up Group, declara-se que, no n.º 5 do despacho, onde se lê «É revogado o [Despacho n.º 326/2019](https://diariodarepublica.pt/dr/detalhe/despacho/326-2019-117629745), publicado no Diário da República, 2.ª série, de 8 de janeiro.», deve ler-se «É revogado o [Despacho n.º 327/2019](https://diariodarepublica.pt/dr/detalhe/despacho/327-2019-117629746), publicado no Diário da República, 2.ª série, de 8 de janeiro.».
 
 13 de outubro de 2023. - A Chefe do Gabinete, Dina Chaves.
+
+316954916

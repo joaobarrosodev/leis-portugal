@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/198b00/56965696.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/899/2003/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-2003-633284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0a4438f466fdd7d7fdc399adee1346f2bb5d40bae97d3d73f2624c552317972
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28bf7c4a90c51a1fbf8f33cd83fc5d0eabe0d0b8a0a7d68f0089aeb1ca29fdaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,18 +69,24 @@ reuse:
 subjects:
 - Animal Doméstico
 - Boletim de Saúde
-- Doença Animal
-- Direção Geral de Veterinária
-- Programa Nacional de LUTA e Vigilância Epidemiológica da Raiva Animal e outras Zoonoses
-- Edição de Publicações
 - CÃO
-- Raiva
+- Direção Geral de Veterinária
+- Doença Animal
+- Edição de Publicações
 - Gato
+- Programa Nacional de LUTA e Vigilância Epidemiológica da Raiva Animal e outras Zoonoses
+- Raiva
 relationships:
 - type: amended_by
   target: pt:dre:499226:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432863:por
+  label: "Mantida em vigor a Port 81/2002, de 24-Jan, com a alteração que lhe foi introduzida pelo presente diploma, pelo\
+    \ DEC LEI.314/2003.17.12.2003.MADRP, DR.IS-A [290] de 17.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/314-2003-432863
+  date: '2003-12-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/91/2001/03/23/p/dre
   label: null
@@ -89,16 +95,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/81/2002/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/81/2002/01/24/p/dre
+- type: cites
+  target: pt:dre:239217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347950:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:499226:por
+  label: "Revogada a Port. 81/2002, de 24-jan, na redação da presente portaria, pela PORT.264/2013.16.08.2013.MF, DR.IS [157]\
+    \ de 16.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-2013-499226
+  date: '2013-08-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:55Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/006000000/0092800993.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2025-902793530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c33e7d6d71d40c4e748e9addf1ed787fbcb5886afb0da9ea22a18737644aa88d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c77b04db2f49dd4e0627986a0ad6789fbf1aa7ed856c3a0fbebb9d97eda1096
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:121748966:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 32
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:45Z'
   warnings: []
   errors: []
 ---
@@ -515,9 +527,13 @@ c) Coordenar com a Coordenação de Energia e Frota e com a Coordenação de Obr
 
 8 - O SMPC é dirigido por um Coordenador Municipal de Proteção Civil (CMPC), nomeado ao abrigo do artigo 14.º-A do [Decreto-Lei n.º 44/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2019-121748966), de 1 de abril, equiparado a chefe de divisão para efeitos remuneratórios.
 
-### CAPÍTULO II — DIVISÃO ADMINISTRATIVA E FINANCEIRA
+### CAPÍTULO II
 
-###### Artigo 6.º — Divisão Administrativa e Financeira
+##### DIVISÃO ADMINISTRATIVA E FINANCEIRA
+
+###### Artigo 6.º
+
+##### Divisão Administrativa e Financeira
 
 1 - À Divisão Administrativa e Financeira (DAF), a cargo de um dirigente intermédio de 2.º grau, compete garantir o bom funcionamento dos serviços e a eficaz gestão dos recursos ao serviço da Câmara Municipal, assegurando as tarefas que se inserem nos domínios da administração e gestão financeira, receção, expediente, arquivo, modernização administrativa e organização e desenvolvimento de processos administrativos de interesse para os munícipes.
 
@@ -701,7 +717,9 @@ g) Acompanhar, sob o ponto de vista administrativo, os processos de obras em cur
 
 7 - Além das competências previstas nos números anteriores, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-###### Artigo 8.º — Secção de Contabilidade
+###### Artigo 8.º
+
+#### Secção de Contabilidade
 
 1 - À Secção de Contabilidade compete designadamente:
 
@@ -747,7 +765,9 @@ t) Conferir e registar todos os seguros da Câmara Municipal, com exceção dos 
 
 2 - Além das competências previstas no número anterior, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-###### Artigo 9.º — Secção de Tesouraria
+###### Artigo 9.º
+
+#### Secção de Tesouraria
 
 1 - À Secção de Tesouraria compete designadamente:
 
@@ -935,7 +955,9 @@ c) Propor medidas corretivas e apresentar sugestões para melhorar o funcionamen
 
 6 - Além das competências previstas nos números anteriores, compete-lhe ainda as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores;
 
-###### Artigo 12.º — Secção do Balcão do Munícipe
+###### Artigo 12.º
+
+#### Secção do Balcão do Munícipe
 
 1 - À Secção do Balcão do Munícipe compete designadamente:
 
@@ -1131,9 +1153,13 @@ q) Coordenar inspeções internas de segurança sobre o grau de controlo e sobre
 
 5 - Além das competências previstas nos números anteriores, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-### CAPÍTULO IV — DIVISÃO JURÍDICA
+### CAPÍTULO IV
 
-###### Artigo 14.º — Divisão Jurídica
+##### DIVISÃO JURÍDICA
+
+###### Artigo 14.º
+
+##### Divisão Jurídica
 
 1 - À Divisão Jurídica (DJ), a cargo de um dirigente intermédio de 2.º grau, compete garantir o bom funcionamento dos serviços e a eficaz gestão dos recursos ao serviço da Câmara Municipal, assegurando todas as tarefas que se inserem nos domínios de apoio aos órgãos, organização e desenvolvimento de processos administrativos de interesse para os cidadãos e serviços municipais.
 
@@ -1305,9 +1331,13 @@ i) Minutar e elaborar as atas da Assembleia Municipal promovendo o seu adequado 
 
 6 - Além das competências previstas nos números anteriores, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-### CAPÍTULO V — DIVISÃO DE EDUCAÇÃO
+### CAPÍTULO V
 
-###### Artigo 16.º — Divisão de Educação
+##### DIVISÃO DE EDUCAÇÃO
+
+###### Artigo 16.º
+
+##### Divisão de Educação
 
 1 - À Divisão de Educação, adiante designada por DE, a cargo de um dirigente intermédio de 2.º grau, compete garantir a igualdade de acesso à educação e ensino de todas crianças e jovens do Município em idade escolar, bem como o acesso a formas de educação formal e/ou informal, a todos os munícipes.
 
@@ -1621,9 +1651,13 @@ o) Desenvolver uma rede local entre as escolas e o tecido empresarial do Municí
 
 7 - Além das competências previstas nos números anteriores, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-### CAPÍTULO VII — DIVISÃO DE ORDENAMENTO DO TERRITÓRIO, URBANISMO
+### CAPÍTULO VII
 
-###### Artigo 18.º — Divisão de Ordenamento do Território, Urbanismo
+##### DIVISÃO DE ORDENAMENTO DO TERRITÓRIO, URBANISMO
+
+###### Artigo 18.º
+
+##### Divisão de Ordenamento do Território, Urbanismo
 
 1 - A Divisão de Ordenamento do Território e Urbanismo, adiante designada por DOTU, a cargo de um dirigente intermédio de 2.º grau, agrega um conjunto de valências relacionadas com o ordenamento do território e a gestão urbanística, em termos de planeamento urbanístico, bem como o estudo de soluções técnicas adequadas, visando o enquadramento das bases de política municipal nesta matéria.
 
@@ -1917,7 +1951,9 @@ g) Analisar reclamações de particulares.
 
 11 - Além das competências previstas nos números anteriores, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-###### Artigo 20.º — Secção Administrativa de Apoio
+###### Artigo 20.º
+
+#### Secção Administrativa de Apoio
 
 1 - À Secção Administrativa de Apoio compete:
 
@@ -2085,9 +2121,13 @@ h) Angariar e gerir programas de financiamento externo de habitação.
 
 7 - Além das competências previstas nos números anteriores, compete-lhe ainda exercer as demais funções, procedimentos, tarefas ou atribuições que lhe forem cometidos por lei, norma, regulamento, deliberação, despacho ou determinação superiores.
 
-### CAPÍTULO IX — DIVISÃO DE CULTURA E CIDADANIA
+### CAPÍTULO IX
 
-###### Artigo 22.º — Divisão de Cultura e Cidadania
+##### DIVISÃO DE CULTURA E CIDADANIA
+
+###### Artigo 22.º
+
+##### Divisão de Cultura e Cidadania
 
 1 - À Divisão de Cultura e Cidadania, adiante designada DCC, a cargo de um dirigente intermédio de 2.º grau, compete proceder ao planeamento, execução e avaliação de ações, projetos e estudos, parcerias e protocolos referentes às áreas da cultura, biblioteca municipal, desporto, associativismo, juventude, cidadania participativa e cooperação e migrações, bem como gerir, eficaz e eficientemente, os recursos humanos e financeiros afetos às mesmas, assegurando, ainda, a realização das demais tarefas que consubstanciem os objetivos definidos pela autarquia para esta unidade orgânica.
 
@@ -2281,9 +2321,13 @@ f) Promover e realizar atividades numa perspetiva de acolhimento de todas as pes
 
 g) Garantir a participação e colaboração das pessoas migrantes, refugiadas, ciganas e de outras identidades culturais diversas.
 
-### CAPÍTULO X — DIVISÃO DE ÁGUA E AMBIENTE
+### CAPÍTULO X
 
-###### Artigo 23.º — Divisão de Água e Ambiente
+##### DIVISÃO DE ÁGUA E AMBIENTE
+
+###### Artigo 23.º
+
+##### Divisão de Água e Ambiente
 
 1 - À Divisão de Água e Ambiente, adiante designada DAA, a cargo de um dirigente intermédio de 2.º grau, compete desenvolver os processos e procedimentos necessários ao regular funcionamento dos sistemas de abastecimento de água, saneamento, e resíduos urbanos, através da implementação de medidas de manutenção e monitorização das respetivas redes, reportando os comportamentos dos diferentes intervenientes nos sistemas, e zelando pela sustentabilidade destes face ao desenvolvimento do território.
 
@@ -2739,9 +2783,13 @@ c) Coordenar com a Coordenação de Energia e Frota, a utilização e manutenç�
 
 d) Proceder à deslocação e transporte de bens móveis municipais, sempre que solicitado por outras unidades orgânicas do município.
 
-### CAPÍTULO XII — DIVISÃO DE CONTRATAÇÃO PÚBLICA E PROJETOS
+### CAPÍTULO XII
 
-###### Artigo 27.º — Divisão de Contratação Pública e Projetos
+##### DIVISÃO DE CONTRATAÇÃO PÚBLICA E PROJETOS
+
+###### Artigo 27.º
+
+##### Divisão de Contratação Pública e Projetos
 
 1 - A Divisão de Contratação Pública e Projetos, adiante designada DCPP, a cargo de um dirigente intermédio de 2.º grau, agrega um conjunto de valências relacionadas com a conceção, gestão e fiscalização de obras realizadas por empreitada, respeitantes a obras municipais de construção e conservação de edifícios e preservação de monumentos. À DCPP, compete, também, efetuar o lançamento dos procedimentos tendentes à aquisição de bens e serviços do Município sob proposta dos serviços, organizando os procedimentos contratuais de acordo com a legislação aplicável.
 
@@ -3043,4 +3091,7 @@ b) Manter em boa ordem e asseio as instalações, máquinas e ferramentas.
 
 ## ANEXO II — Organograma
 
-![](https://files.diariodarepublica.pt/images/902793530/902793619.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/902793530/902793619.png) |
+| --- |
+
+318503424

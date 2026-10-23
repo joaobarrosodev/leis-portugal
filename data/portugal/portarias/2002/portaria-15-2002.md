@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/15/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-2002-584849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 495fdde97c3057078ea9426b32133e838bfc3a9c8f54401e7031e39c76cfa1ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 222b892f0cf7355f9ccb7b06d5023e24938c3490eb911ddb4cd062f3bec8d72c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Escola Superior de Música e das Artes do Espectáculo
 - Instituto Politécnico
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -97,16 +97,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-c/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665112:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:01Z'
   warnings: []
   errors: []
 ---
@@ -165,19 +201,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Ramo de Estudos Teatrais
 
@@ -189,7 +225,7 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Opção de Técnica e Produção Teatral - Design de Luz e Som
 
@@ -201,19 +237,19 @@ QUADRO N.º 5
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 6
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 7
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Ramo de Design e Produção Teatral - Luz e Som
 
@@ -225,7 +261,7 @@ QUADRO N.º 8
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Opção de Técnica e Produção Teatral - Direcção de Cena e Produção Teatral
 
@@ -237,19 +273,19 @@ QUADRO N.º 9
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 10
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 11
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Ramo de Design e Produção Teatral - Direcção de Cena e Produção Teatral
 
@@ -261,7 +297,7 @@ QUADRO N.º 12
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Opção de Técnica e Produção Teatral - Design de Cenografia
 
@@ -273,19 +309,19 @@ QUADRO N.º 13
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 14
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 15
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Ramo de Design e Produção Teatral - Design de Cenografia
 
@@ -297,7 +333,7 @@ QUADRO N.º 16
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Opção de Técnica e Produção Teatral - Design de Figurino
 
@@ -309,19 +345,19 @@ QUADRO N.º 17
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 18
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 QUADRO N.º 19
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
 
 Ramo de Design e Produção Teatral - Design de Figurino
 
@@ -333,4 +369,4 @@ QUADRO N.º 20
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)
+[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00630070.pdf)

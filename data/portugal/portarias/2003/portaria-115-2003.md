@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/026b00/06320649.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/115/2003/01/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/115-2003-167386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-06-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f58963396f14e23231b3c89a045343ed660daf4da3b4c5b3b63d5268314edbd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 594ccc6ae048157874aa1718f7a9875b2cbf3b481f7d3854e6392a6aa9dce04c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,12 +68,12 @@ reuse:
 subjects:
 - Aproximação das Legislações
 - Certificado de Conformidade
+- Comércio
 - Equipamento Marítimo
 - Fabrico Industrial
 - Fiscalização
 - Normas de Segurança
 - Segurança Marítima
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:107495710:por
@@ -95,16 +95,27 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/381/2000/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/381/2000/06/28/p/dre
+- type: repealed_by
+  target: pt:dre:608907:por
+  label: "Revogada pelo DEC LEI.24/2004.23.01.2004.MOPTH, DR.IS-A [19] de 23.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2004-608907
+  date: '2004-01-23'
+- type: repealed_by
+  target: pt:dre:107495710:por
+  label: Revogada a Port 381/2000, de 28-jun, na redação do presente diploma pelo(a) Decreto-Lei n.º 63/2017 - Diário da República
+    n.º 112/2017, Série I de 2017-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/63-2017-107495710
+  date: '2017-06-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:41Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +140,9 @@ Em 10 de Janeiro de 2003.
 
 Pelo Ministro da Economia, Maria do Rosário Mayoral Robles Machado Simões Ventura, Secretária de Estado da Indústria, Comércio e Serviços. - Pelo Ministro das Obras Públicas, Transportes e Habitação, José Luís Campos Vieira de Castro, Secretário de Estado das Obras Públicas.
 
-## ANEXO — ANEXO A
+## ANEXO
+
+## ANEXO A
 
 Equipamentos para os quais já existem normas de ensaio pormenorizadas em instrumentos internacionais
 

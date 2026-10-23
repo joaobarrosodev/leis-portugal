@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/113/2002/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/113-2002-272424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa771563a1617a11101bfe0bd538fde2520839b6712a8c84f8ace2d27d2b630d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 553cec8fb50292460d034e3ac4080a8e3d27f52009aa2a110b3d243b17a1b315
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Transporte Marítimo
 - Fiscalização
 - Ministério do Equipamento Social
 - Polícia Marítima
 - Transporte Fluvial
 - Transporte Gratuito
+- Transporte Marítimo
 - Transporte Público
 relationships:
 - type: cites
@@ -83,16 +83,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/588/1993/06/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/588/1993/06/12/p/dre
+- type: cites
+  target: pt:dre:234340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662361:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:45Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +157,7 @@ Manda o Governo, pelos Ministros da Defesa Nacional e do Equipamento Social, o s
 
 Em 8 de Janeiro de 2002.
 
-**O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - Pelo Ministro do Equipamento Social, Rui António Ferreira Cunha, Secretário de Estado Adjunto e dos Transportes.**
+O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - Pelo Ministro do Equipamento Social, Rui António Ferreira Cunha, Secretário de Estado Adjunto e dos Transportes.
 
 ## ANEXO — (modelo a que se refere o n.º 2.º)
 

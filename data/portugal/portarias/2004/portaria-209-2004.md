@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/053b00/11881206.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2004-551652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2016-11-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94b6dada1095eaf3aa5cf988d9d71a09a3d2caffdd4383c3e97c52f1acf4cbba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1cde018e2460eb9c460b83db7ae7e86a6aa70ed8b2b9ff71f992fce27870b37
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Gestão de Resíduos
-- Resíduo
 - Instituto dos Resíduos
 - Lista Europeia de Resíduos
+- Resíduo
 - Substância Perigosa
 relationships:
 - type: amended_by
@@ -120,16 +120,21 @@ relationships:
   target: celex:32001D0573
   label: null
   source: http://data.europa.eu/eli/dec/2001/573/oj
+- type: repealed_by
+  target: pt:dre:75662181:por
+  label: Revogada pelo(a) Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-2016-75662181
+  date: '2016-11-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:53Z'
   warnings: []
   errors: []
 ---
@@ -216,7 +221,7 @@ Uma substância mutagénica da categoria 3 da classe R40, numa concentração (i
 
 Em 4 de Fevereiro de 2004.
 
-**O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro da Saúde, Luís Filipe Pereira. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro da Saúde, Luís Filipe Pereira. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
 
 ## ANEXO I — Introdução
 

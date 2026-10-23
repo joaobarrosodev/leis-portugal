@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 228/2003, 1º Suplemento, Série I-B de 2003-10-02
   number: '228'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6484-(5) a 6484-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/10/228b01/00050006.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1173-g/2003/10/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1173-g-2003-646490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 046d2231ffa5f037230afb1ae4d3540b5c51e7c6c7541be8240d8e00a20bde9d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 480fbf94e83910ee7d56823a1c5ce8fbddbc062005a14edf55942f3cf1e40cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:343636:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545782:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 900/2000 de 28-Set, com a redacção conferida\
+    \ no presente diploma, pela PORT.1128/2006.25.10.2006.MAOTDR, DR.IS [206] de 25.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1128-2006-545782
+  date: '2006-10-25'
+- type: amended_by
+  target: pt:dre:343636:por
+  label: "Desanexados da zona de caça turística de Donas Marias parte do prédio denominado Herdade das Donas Marias, concessionada\
+    \ pela Port 900/2000 de 28-Set, alterada pelo presente diploma, pela PORT.751/2010.19.08.2010.MADRP, DR.IS [161] de 19.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/751-2010-343636
+  date: '2010-08-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/900/2000/09/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/900/2000/09/28/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:52Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/155000000/0024800248.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/610-2024-876155612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea457d80b94b07616aea2028c6ba776ad0bbe138573af4b0b3b06c908159035c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a1edee3aa9e5c72e095142fe6d40ea8da4355fec9b0de3f5a2a6b07855cd31c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:868418039:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:52Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +101,5 @@ deve ler-se:
 Faço saber que tendo por base o despacho de 14 de junho de 2023 do Vice-Reitor, Prof. Doutor José de Castro Lopes, no uso de competência delegada no artigo 3.º do Despacho n.º 9493/2022, publicado no Diário da República, 2.ª série, n.º 148, de 2 de agosto de 2022, pelo prazo de 30 dias úteis a contar do dia imediato ao da publicação do presente edital no Diário da República, se abre concurso documental interno de promoção para um professor catedrático para a área disciplinar de Alimentação Coletiva, Segurança e Qualidade Alimentar da Faculdade de Ciências da Nutrição e Alimentação desta Universidade."
 
 8 de julho de 2024. - O Reitor, António de Sousa Pereira.
+
+317889787

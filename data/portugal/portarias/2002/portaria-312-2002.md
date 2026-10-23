@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/312/2002/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/312-2002-262644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee435d4e19f3ec3115019269d0416a26c997f4284222218834ed2324777b1c63
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1dbf158e1d45695bd392798b82da78f2be2da46944928bf5d2e3285d5627159
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,11 +65,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Gastronomia
-- Direcção Geral do Turismo
-- Património Cultural
-- Comissão Nacional de Gastronomia
 - Base de Dados
+- Comissão Nacional de Gastronomia
+- Direcção Geral do Turismo
+- Gastronomia
+- Património Cultural
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/resolconsmin/169/2001/12/19/p/dre
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/96/2000/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/96/2000/07/26/p/dre
+- type: cites
+  target: pt:dre:314179:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539007:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:26Z'
   warnings: []
   errors: []
 ---
@@ -131,4 +139,4 @@ b) Pelas comparticipações, dotações, transferências e subsídios provenient
 
 Em 8 de Fevereiro de 2002.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Cultura, Augusto Ernesto Santos Silva.**
+O Ministro da Economia, Luís Garcia Braga da Cruz. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Cultura, Augusto Ernesto Santos Silva.

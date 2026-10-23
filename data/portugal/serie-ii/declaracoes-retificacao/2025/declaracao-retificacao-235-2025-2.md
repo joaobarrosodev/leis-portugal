@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/046000000/0027800280.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/235-2025-909730594
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f07c68cebe9e9dced00b0d8cc362786962237192b13ea839110e5363afa53025
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e94e40d9b558934d9a328a33e33021fd098a2baf5196eb80e50c3a0ca8411396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:871217172:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:02Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +106,9 @@ e) Gestão de Pessoas.
 
 [...]
 
-###### Artigo 14.º — Unidade de Apoio ao/às Estudante
+Artigo 14.º
+
+Unidade de Apoio ao/às Estudante
 
 1 - A Unidade de Apoio ao/às Estudante (UAE) desenvolve a sua atuação no âmbito do apoio ao/às estudante, suportada nos seguintes serviços:
 
@@ -116,7 +122,9 @@ e) Gestão de Pessoas.
 
 [...]
 
-###### Artigo 15.º — Apoios Diretos
+Artigo 15.º
+
+Apoios Diretos
 
 1 - O Serviço de Apoios Diretos (SAD)desenvolve a sua atuação no âmbito da prestação de apoios sociais diretos aos estudantes em situação de maior vulnerabilidade económica e financeira, designadamente através da atribuição de Bolsas de Estudo e de Auxílios de Emergência.
 
@@ -124,7 +132,9 @@ e) Gestão de Pessoas.
 
 [...]
 
-###### Artigo 16.º — Serviço de Alojamento e Hotelaria
+Artigo 16.º
+
+Serviço de Alojamento e Hotelaria
 
 [...]
 
@@ -134,15 +144,21 @@ e) Gestão de Pessoas.
 
 d) Prestar apoio técnico, elaborar informações, emitir pareceres de apoio à gestão, apresentar sugestões de melhoria do funcionamento e tratamento estatístico da informação relativa aos serviços de alojamento dos SAS/IPS.
 
-###### Artigo 17.º — Serviço de Saúde e Bem-estar
+Artigo 17.º
+
+Serviço de Saúde e Bem-estar
 
 [...]
 
-###### Artigo 18.º — Serviço de Cultura e Desporto
+Artigo 18.º
+
+Serviço de Cultura e Desporto
 
 [...]
 
-###### Artigo 22.º — Coordenação
+Artigo 22.º
+
+Coordenação
 
 Os/As Coordenadores/as das Unidades referidas no Artigo 12.º correspondem a cargos de direção intermédia de 3.º grau ou 4.º grau, obedecendo o seu recrutamento ao disposto na lei.»
 
@@ -168,7 +184,9 @@ f) Gestão de Pessoas.
 
 [...]
 
-###### Artigo 14.º — Unidade de Apoio ao/à Estudante
+Artigo 14.º
+
+Unidade de Apoio ao/à Estudante
 
 1 - A Unidade de Apoio ao/à Estudante (UAE) desenvolve a sua atuação no âmbito do apoio ao/ à estudante, suportada nos seguintes serviços:
 
@@ -182,7 +200,9 @@ f) Gestão de Pessoas.
 
 [...]
 
-###### Artigo 15.º — Apoios Sociais Diretos
+Artigo 15.º
+
+Apoios Sociais Diretos
 
 1 - O Serviço de Apoios Sociais Diretos (SASD) desenvolve a sua atuação no âmbito da prestação de apoios sociais diretos aos estudantes em situação de maior vulnerabilidade económica e financeira, designadamente através da atribuição de Bolsas de Estudo e de Auxílios de Emergência.
 
@@ -190,7 +210,9 @@ f) Gestão de Pessoas.
 
 [...]
 
-###### Artigo 16.º — Alojamento e Hotelaria
+Artigo 16.º
+
+Alojamento e Hotelaria
 
 [...]
 
@@ -200,16 +222,24 @@ f) Gestão de Pessoas.
 
 d) Prestar apoio técnico, elaborar informações, emitir pareceres de apoio à gestão, apresentar sugestões de melhoria do funcionamento e tratamento estatístico da informação relativa aos serviços de alojamento e hotelaria dos SAS/IPS.
 
-###### Artigo 17.º — Saúde e Bem-estar
+Artigo 17.º
+
+Saúde e Bem-estar
 
 [...]
 
-###### Artigo 18.º — Cultura e Desporto
+Artigo 18.º
+
+Cultura e Desporto
 
 [...]
 
-###### Artigo 22.º — Coordenação
+Artigo 22.º
+
+Coordenação
 
 As Unidades referidas no Artigo 12.º, do presente regulamento podem ser coordenadas por Coordenadores/as, correspondendo a cargos de direção intermédia de 3.º grau ou 4.º grau, obedecendo o seu recrutamento ao disposto na lei.»
 
 27 de fevereiro de 2025. - A Presidente do IPS, Prof.ª Doutora Ângela Cremon de Lemos.
+
+318748848

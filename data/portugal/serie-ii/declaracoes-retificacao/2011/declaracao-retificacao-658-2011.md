@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/067000000/1569715697.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/658-2011-964971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ec7be208818a35339ac608316ab7840f6804fab3b80e8680366e9990824b32e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb24d0d80d811ea34b685d1f54c17e2f2e49ca80fd0896e565ea0364357a2942
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:58Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Exclui-se por existência de duplicação o nome de Maria Alexandra Machado Gon�
 Exclui-se por já existir despacho de subdelegação o nome de Maria Graciete Abrantes da Silva, técnica superior, conforme publicação no Diário da República, 2.ª série, n.º 47, de 9 de Março de 2010.
 
 25 de Março de 2011. - A Directora da Unidade de Prestações e Atendimento, Maria Manuela Barreto de Sousa Correia Veloso.
+
+204523715

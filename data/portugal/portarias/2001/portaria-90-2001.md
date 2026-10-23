@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/90/2001/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/90-2001-319911
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d73ce309e105adb67b4b0db8d85838a9ab736e963640c75951a51cbb63563752
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb4fed73d57b5e1aff5e77fecdb979f277e363dc522be912add9d57fc6cfd144
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:352956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651701:por
+  label: null
+  source: null
 article_structure:
   article_count: 19
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:21Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +108,7 @@ Sendo necessário definir as regras de funcionamento do Centro Regional de Saúd
 
 Manda o Governo, pela Ministra da Saúde, que seja aprovado o Regulamento do Centro Regional de Saúde Pública da Zona Norte, anexo à presente portaria, da qual faz parte integrante.
 
-**A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 17 de Novembro de 2000.**
+A Ministra da Saúde, Maria Manuela de Brito Arcanjo Marques da Costa, em 17 de Novembro de 2000.
 
 REGULAMENTO DO CENTRO REGIONAL DE SAÚDE PÚBLICA DA ZONA NORTE
 
@@ -400,8 +408,8 @@ As quatro áreas funcionais do Centro Regional de Saúde Pública do Norte dever
 
 Organograma n.º 1 - Relação entre o Centro Regional de Saúde Pública da Zona Norte e outros serviços do Ministério da Saúde.
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033b00/07100715.pdf)
+[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033b00/07100715.pdf)](https://files.diariodarepublica.pt/1s/2001/02/033b00/07100715.pdf)
 
 Organograma n.º 2 - Organização interna do Centro Regional de Saúde Pública do Norte
 
-[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033b00/07100715.pdf)
+[[(ver gráfico no documento original)](https://files.diariodarepublica.pt/1s/2001/02/033b00/07100715.pdf)](https://files.diariodarepublica.pt/1s/2001/02/033b00/07100715.pdf)

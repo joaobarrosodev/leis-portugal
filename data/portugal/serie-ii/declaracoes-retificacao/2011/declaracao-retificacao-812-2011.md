@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/090000000/2013720138.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/812-2011-3544008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a071e0f4cf7cf4364329edd0a6e743a7f44f106f16617b1bb0d3eed17f8f872
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 557480bd65b7e95c26d6679a5fe6b9e9edc2b1f3712b26236b1326f61dd4690d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:325092:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576960:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:58Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 812/2011
+# Declaração de rectificação n.º 812/2011
 
 Ao abrigo do artigo 9.º do despacho normativo n.º 35-A/2008, publicado no Diário da República, 2.ª série, n.º 145, suplemento, de 29 de Julho de 2008, alterado pelo despacho normativo n.º 13/2009, publicado no Diário da República, 2.ª série, n.º 64, de 1 de Abril de 2009, e em consonância com a declaração da entidade emitente, declara-se que a portaria n.º 234/2011, publicada no Diário da República, 2.ª série, n.º 14, de 20 de Janeiro de 2011, respeitante à nomeação do tenente-coronel de transmissões Rui Manuel Pimenta Couto, como identificado no sumário, foi incorrectamente publicada com o texto da portaria n.º 233/2011, publicada no mesmo Diário da República, o que assim se rectifica:
 
@@ -110,3 +134,5 @@ A presente portaria produz efeitos a partir de 4 de Setembro de 2010. (Isenta de
 20 de Dezembro de 2010. - O Ministro de Estado e dos Negócios Estrangeiros, Luís Filipe Marques Amado. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.»
 
 19 de Abril de 2011. - A Secretária-Geral, Maria Isabel Lopes Afonso Pereira Leitão.
+
+204641173

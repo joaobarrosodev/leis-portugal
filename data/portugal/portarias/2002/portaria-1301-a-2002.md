@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 225/2002, 1º Suplemento, Série I-B de 2002-09-28
   number: '225'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6636-(2) a 6636-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/225b01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1301-a/2002/09/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1301-a-2002-241977
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-05-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eaa73c5d3b09cd881472d1d980f35d3bb41f00749ceb163437e3e243d48f64c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ddecb7798abd616237fb6864a687fc974a84c0fff7ee5af5ccc1a02d0a659c09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- PSP
+- Administração Regional de Saúde
 - Alvará
 - Ambulância
+- Bombeiro
+- Cruz Vermelha Portuguesa
+- Cuidados Médicos
+- Diploma
+- Equipamento de Veículo
+- Fardamento
 - Formação Profissional
 - INEM
-- Cruz Vermelha Portuguesa
-- Diploma
-- Administração Regional de Saúde
-- Bombeiro
-- Equipamento de Veículo
-- Cuidados Médicos
 - Ministério da Saúde
+- PSP
 - Transporte de Doentes
-- Fardamento
 relationships:
 - type: amended_by
   target: pt:dre:572590:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519979:por
+  label: Rectificados os n.ºs 1.4 e 3.6, alterados os n.ºs 10, 10.1, 10.2, 25.1 e 25.3, bem como os quadros n.ºs 2, 6 e 10
+    do nº 11, e aditado ao n.º 11 o nº 11.8, todos do Regulamento do Transporte de Doentes, aprovado pela Port 1147/2001 de
+    28-Set, alterada pelo presente diploma, pelo(a) Portaria n.º 402/2007 - Diário da República n.º 70/2007, Série I de 2007-04-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/402-2007-519979
+  date: '2007-04-10'
+- type: amended_by
+  target: pt:dre:572590:por
+  label: "Alterado o nº 3.6 do Regulamento do Transporte de Doentes aprovado pela Port 1147/2001, de 28-set, na redacção do\
+    \ presente diploma, pela PORT.142-A/2012.15.05.2012.MAI, DR.IS [94-Supl] de 15.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-a-2012-572590
+  date: '2012-05-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/1992/03/28/p/dre
   label: null
@@ -96,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/439/1993/04/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/439/1993/04/27/p/dre
+- type: cites
+  target: pt:dre:187932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665973:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:46Z'
   warnings: []
   errors: []
 ---
@@ -162,17 +187,23 @@ f) Revalidação do alvará - (euro) 100.
 
 3.7 - As taxas acima referidas são cobradas no acto de entrega dos requerimentos.
 
-### CAPÍTULO II — Das ambulâncias
+CAPÍTULO II
+
+Das ambulâncias
 
 10 - Licenciamento e vistorias:
 
 10.2 - Para efeitos de emissão de alvará, a vistoria das ambulâncias cabe ao INEM, podendo ser por este delegada nas ARS.
 
-#### SECÇÃO II — Características gerais
+SECÇÃO II
+
+Características gerais
 
 11.1 - As ambulâncias pertencentes a empresas privadas de transportes de doentes devem ser de cor branca.
 
-### CAPÍTULO III — SECÇÃO II
+CAPÍTULO III
+
+SECÇÃO II
 
 Formação
 
@@ -204,7 +235,9 @@ d) Estejam habilitados com exame de capacidade profissional relativa a transport
 
 3.8.2 - O INEM deve decidir o pedido de revalidação no prazo de 30 dias, sob pena de este ser considerado tacitamente deferido.
 
-### CAPÍTULO IV — Da fiscalização
+CAPÍTULO IV
+
+Da fiscalização
 
 31 - Compete ao INEM a fiscalização da actividade privada de transporte de doentes, bem como a instrução dos procedimentos conducentes à eventual aplicação de sanções.
 
@@ -246,7 +279,9 @@ c) Se o titular deixar de possuir os recursos humanos e técnicos adequados.
 
 35.1 - Caso o incumprimento persista, deve o INEM cancelar a licença e interditar o exercício da actividade por um período até dois anos.
 
-### CAPÍTULO V — Norma transitória
+CAPÍTULO V
+
+Norma transitória
 
 36 - As normas relativas à instrução dos procedimentos de concessão de alvará previstas neste Regulamento não se aplicam aos procedimentos pendentes à entrada em vigor desta portaria, os quais continuam a reger-se pelas disposições do regulamento aprovado pela [Portaria n.º 439/93](https://diariodarepublica.pt/dr/detalhe/portaria/439-1993-665973), de 27 de Abril.»
 

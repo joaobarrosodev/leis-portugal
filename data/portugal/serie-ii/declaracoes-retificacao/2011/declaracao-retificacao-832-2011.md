@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/092000000/2061320613.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/832-2011-3495115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eab5292b89061605e38022209244774443b17b0f347e4611448e31d8741b3e12
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f434dec180499adea7fb684ffd400784e3fda9dbd7f6f125c100139740b2750
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:04Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 832/2011
 Por ter saído com inexactidão a publicação do aviso n.º 27288/2010 no Diário da República, 2.ª série, n.º 249, de 27 de Dezembro de 2010, a lista de trabalhadores que cessaram funções, por denúncia de contrato, rectifica-se que onde se lê «cessaram funções, por denúncia de contrato Diana Alexandra Pereira Brigo desde 10/10/2010» deve-se ler «autorizada a mobilidade Diana Alexandra Pereira Brigo a partir de 11 de Outubro de 2010.»
 
 6 de Abril de 2011. - A Directora da Administração do Património e Recursos Humanos, Valentina Matoso.
+
+204649403

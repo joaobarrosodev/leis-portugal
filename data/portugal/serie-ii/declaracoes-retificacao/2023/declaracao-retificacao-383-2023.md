@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/092000000/0025800259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/383-2023-212986631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b1d2f833fe07ef7593be37d299c5468a0d74e4737b8043bdb5b4d895e751f3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d608f3b1586d8d8277afaa1b185441e0e491ad668cbcc8b736e216288d04deb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:108074437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:108074438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174614565:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174614567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181754983:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:36Z'
   warnings: []
   errors: []
 ---
@@ -133,3 +153,5 @@ Presidente: Maria de Lurdes Gonçalves Fernandes Santos, Farmacêutica Assessora
 Tendo presente a retificação acima efetuada, informa-se que se consideram válidas as candidaturas já apresentadas e que se concede um novo prazo de 10 dias úteis, a contar da publicação da presente Declaração de Retificação no Diário da República, para apresentação de candidaturas.
 
 20 de abril de 2023. - O Presidente do Conselho de Administração, Joaquim Filomeno Duarte Araújo.
+
+316404203

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/027b00/09100915.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/106/2002/02/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/106-2002-276455
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a1a1f01b350bfcdda4be8525226441ea1527b8223bf4c934ef696fa2e6f3c2d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3f372491eb30e1dc0b5e1ca364d1a5d27649cbdc2786765d82b75fbe65c6a7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Exame AD HOC
 - Avaliação de Conhecimentos
-- Regulamento
 - Ensino Superior
+- Exame AD HOC
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:667773:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457193:por
+  label: "Alterados os arts. 15.º e 17.º e aditado um art. 15.º-A ao Regulamento do Exame Extraordinário de Avaliação de Capacidade\
+    \ para Acesso ao Ensino Superior aprovado pelo presente diploma, pela PORT.1/2005.03.01.2005.MCIES, DR.IS-B [1] de 03.01.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1-2005-457193
+  date: '2005-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
   label: null
@@ -114,16 +121,84 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/854-a/1999/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/854-a/1999/10/04/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521985:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:657470:por
+  label: "Rectificada pela DECL-RECT.8-N/2002.2002.02.28.PCM, DR.IS-B [50]3ºSupl de 28/Fev/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-n-2002-657470
+  date: '2002-02-28'
+- type: repealed_by
+  target: pt:dre:667773:por
+  label: "Revogado o Regulamento do Exame Extraordinário de Avaliação de Capacidade para Acesso ao Ensino Superior, aprovado\
+    \ pelo presente diploma, rectificado pela Decl-Rect 8-N/2002 de 28-Fev e alterada pela Port 1/2005 de 03-Jan, pelo DEC\
+    \ LEI.64/2006.21.03.2006.MCTES, DR.IS-A [57] de 21.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-2006-667773
+  date: '2006-03-21'
 article_structure:
   article_count: 25
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:19Z'
   warnings: []
   errors: []
 ---

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/443-2011-1673679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7c667a3f8d034c7f6d769128901206f5de71f1eecdd8a6194b02f88ef8056d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43050d3294824577892a15c72f4cdd402d3fa2b159b402bf7e436ff20122f9e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:43Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 443/2011
+# Declaração de rectificação n.º 443/2011
 
 Relação dos funcionários que mudaram de posição remuneratória no ano de 2010
 
@@ -88,12 +92,14 @@ Por ter saído com inexactidão o aviso n.º 2872/2011, publicado no Diário da 
 
 Tendo em atenção o ponto 6 do artigo 47.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663) de 27 de Fevereiro, torna-se público a lista nominativa da Assistente Operacional a seguir mencionada que reúne os requisitos necessários para transitarem à posição remuneratória seguinte, com efeitos a 1 de Janeiro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf)
 
 deve ler-se:
 
 Tendo em atenção o artigo 46.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e por meu despacho autorizador de 23 de Dezembro de 2010, torna-se pública a lista nominativa da assistente operacional a seguir mencionada que reúne os requisitos necessários para transitar à posição remuneratória seguinte, por opção gestionária, com efeitos a 1 de Janeiro de 2010.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883608837.pdf)
 
 14 de Fevereiro de 2011. - O Director, Manuel Soares Amorim.
+
+204346585

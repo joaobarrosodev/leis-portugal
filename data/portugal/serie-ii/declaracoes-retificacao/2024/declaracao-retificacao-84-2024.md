@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/024000000/0034900351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/84-2024-840061902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 041f1ca5fc275f178e2b5dd1ac3ee681dae832af4701383597cfdb895729fdf6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b19e673d0511f5c0e8f3f5635647d10b2466c351831cec0f845eded43ccab3ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:835640669:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:14Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Luísa Maria Neves Salgueiro, presidente da Câmara Municipal de Matosinhos, tor
 
 No artigo 2.º da alteração regulamentar - Alteração ao Anexo I (Tabela de Taxas e Outras Receitas Municipais) do Regulamento de Taxas e Outras Receitas do Município de Matosinhos, onde se lê:
 
-|  |  |  |  |
+| Área | Código<br>da taxa | Descrição | Taxa |
 | --- | --- | --- | --- |
-| Área | Código da taxa | Descrição | Taxa |
+|  |  |  |  |
 | Atividades Económicas... |  | Mercados Municipais |  |
 |  | TX001 | ... | ... |
 |  |  | Taxas devidas pela cedência de espaços no Mercado de Angeiras |  |
@@ -114,9 +118,9 @@ No artigo 2.º da alteração regulamentar - Alteração ao Anexo I (Tabela de T
 
 deve ler-se:
 
-|  |  |  |  |
+| Área | Código<br>da taxa | Descrição | Taxa |
 | --- | --- | --- | --- |
-| Área | Código da taxa | Descrição | Taxa |
+|  |  |  |  |
 | Atividades Económicas... |  | Mercados Municipais |  |
 |  | TX001 | ... | ... |
 |  |  | Taxas devidas pela cedência de espaços no Mercado de Angeiras |  |
@@ -139,9 +143,9 @@ deve ler-se:
 
 Na republicação da Tabela de Taxas e Outras Receitas Municipais que constitui o Anexo I do Regulamento de Taxas e Outras Receitas Municipais, onde se lê:
 
-|  |  |  |  |
+| Área | Código<br>da taxa | Descrição | Valor |
 | --- | --- | --- | --- |
-| Área | Código da taxa | Descrição | Valor |
+|  |  |  |  |
 | Ambiente... |  | Recolha de resíduos sólidos industriais e comerciais (por ano) |  |
 |  |  | Recolha por cada dia de semana: |  |
 |  | TX109 | ... | ... |
@@ -153,9 +157,9 @@ Na republicação da Tabela de Taxas e Outras Receitas Municipais que constitui 
 
 deve ler-se:
 
-|  |  |  |  |
+| Área | Código<br>da taxa | Descrição | Valor |
 | --- | --- | --- | --- |
-| Área | Código da taxa | Descrição | Valor |
+|  |  |  |  |
 | Ambiente... |  | Recolha de resíduos sólidos industriais e comerciais (por ano) |  |
 |  |  | Recolha por cada dia de semana: |  |
 |  | TX109 | ... | ... |
@@ -167,9 +171,9 @@ deve ler-se:
 
 Onde se lê:
 
-|  |  |  |  |
+| Área | Código<br>da taxa | Descrição | Valor |
 | --- | --- | --- | --- |
-| Área | Código da taxa | Descrição | Valor |
+|  |  |  |  |
 | Mobilidade... |  | ... |  |
 |  | TX223 | ... | ... |
 |  |  | (***) ... |  |
@@ -184,9 +188,9 @@ Onde se lê:
 
 deve ler-se:
 
-|  |  |  |  |
+| Área | Código<br>da taxa | Descrição | Valor |
 | --- | --- | --- | --- |
-| Área | Código da taxa | Descrição | Valor |
+|  |  |  |  |
 | Mobilidade... |  | ... |  |
 |  | TX223 | ... | ... |
 |  |  | (***) |  |
@@ -206,3 +210,5 @@ A presente retificação poderá igualmente ser consultada no site institucional
 E eu, Ana Cristina Freitas Moreira, diretora do Departamento Jurídico, subscrevi o presente edital.
 
 19 de janeiro de 2024. - A Presidente da Câmara, Dr.ª Luísa Salgueiro.
+
+317270978

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/16/2003/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-2003-481738
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2d4442e253cdb424836e60b5245d42c2369e2a40c228d90081293d0fb8a4dda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a842a3f8d3f2cff97e2c1cae132ad31d6b1c9e29e38e7a50de25dcb55c5f30d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Investigação Científica e Tecnológica
-- Sistema Científico e Tecnológico Nacional
-- Mudança Tecnológica
-- Projeto de Investimento
-- Intervenção Operacional da Ciência Tecnologia Inovação
 - Desenvolvimento Económico
+- Financiamento
+- Intervenção Operacional da Ciência Tecnologia Inovação
+- Investigação Científica e Tecnológica
+- Mudança Tecnológica
 - Política de Investigação e Desenvolvimento
 - Programa Ideia
-- Projecto de Investigação
-- Regulamento
 - Programa Operacional da Economia
+- Projecto de Investigação
+- Projeto de Investimento
+- Regulamento
+- Sistema Científico e Tecnológico Nacional
 relationships:
 - type: amended_by
   target: pt:dre:496958:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545178:por
+  label: "Alterado o anexo A do Programa Ideia pela PORT.437/2003.2003.05.27.MF DR.IS-B [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/437-2003-545178
+  date: '2003-05-27'
+- type: amended_by
+  target: pt:dre:496958:por
+  label: "Alterados os arts. 2º, 7º, 12º, 14º e 15º do Regulamento do Programa Ideia, com a redacção introduzida pela Port\
+    \ 437/2003 de 27-Mai, e remetidas para o PRIME (aprovado pela Res 101/2003 de 10-Jul) todas as referências feitas neste\
+    \ diploma ao Programa Operacional da Economia (POE), pela PORT.1008/2003.2003.09.18.MF DR.IS-B [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1008-2003-496958
+  date: '2003-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/54-a/2000/04/07/p/dre
   label: null
@@ -94,16 +106,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579479:por
+  label: null
+  source: null
 article_structure:
   article_count: 23
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:30Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +156,7 @@ Manda o Governo, pela Ministra de Estado e das Finanças, pelo Ministro da Econo
 
 Em 9 de Dezembro de 2002.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.
 
 ## ANEXO A — Regulamento do programa IDEIA - Apoio à Investigação e Desenvolvimento Empresarial Aplicado
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/091000000/0002500025.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/423-2022-183230572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71d2169312ea4b7a12524d0e4123efc7f1a9f2e4d45fd32d3f3b8358b6d90bc8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3584ff0ddc2ee772011caadef16f4e9fb3dfc3a75085410c1b1f137ff68c565
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179595642:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:41Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão o [Despacho (extrato) n.º 2423/2022](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/2423-2022-179595642), publicado no Diário da República, 2.ª série, n.º 39, de 24 de fevereiro de 2022, a p. 95, retifica-se que onde se lê «Chefe da Divisão de Trânsito e Prevenção Rodoviária do Departamento de Operações» deve ler-se «Chefe da Divisão de Trânsito e Segurança Rodoviária do Departamento de Operações».
 
 1 de abril de 2022. - O Diretor do DRH, Dr. Manuel João, técnico superior.
+
+315270082

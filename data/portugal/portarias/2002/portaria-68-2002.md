@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/015b00/04390441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/68/2002/01/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/68-2002-234683
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e1a0141371b718b0a1d6b5a82de488d962b5dc454d235f0842beb5d9f0daecc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77abc131ab94f671cda53db450fee98ae1a2f4d81ccb7065fa07d217a8a0596f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Região Autónoma
 - Árvore
 - Batata
 - Biotecnologia
 - Citrinos
+- Comércio
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
+- Fruticultura
 - Materiais de Viveiro
+- Plantula
+- Produção Agrícola
+- Produção Vegetal
 - Produto Hortícola
 - Produtor
-- Produção Agrícola
-- Plantula
-- Produção Vegetal
-- Fruticultura
+- Região Autónoma
 - Taxa
 - TAXA de Prestação de Serviços
-- Comércio
 - Vinha
 relationships:
 - type: amended_by
   target: pt:dre:453500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541592:por
+  label: "Mantido em vigor o regime de taxas fixado nas als A) e B) e no nº 1 da al C) da tabela anexa ao presente diploma,\
+    \ pelo DEC LEI.194/2006.27.09.2006.MADRP, DR.IS [187] de 27.09.2006, nos termos do nº 2 do art. 35º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-2006-541592
+  date: '2006-09-27'
+- type: amended_by
+  target: pt:dre:641704:por
+  label: "Mantido em vigor nos termos do nº 2 do art. 37º, o regime de taxas fixado nas als A), nos nºs 2 e 4 da al C) e na\
+    \ al D) da tabela anexa à presente portaria, pelo DEC LEI.329/2007.08.10.2007.MADRP, DR.IS [193] de 08.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-2007-641704
+  date: '2007-10-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/216/2001/08/03/p/dre
   label: null
@@ -129,16 +141,85 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/521/1998/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/521/1998/08/14/p/dre
+- type: cites
+  target: pt:dre:331872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618527:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692664:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:635861:por
+  label: "Revogados, a partir de 26.06.2007, a al. b) e o n.º 1 da al. c) da tabela anexa ao presente diploma, pela Port 744/2007.\
+    \ 25.06.2007.MADRP, DR.IS [120] de 25.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/744-2007-635861
+  date: '2007-06-25'
+- type: repealed_by
+  target: pt:dre:629121:por
+  label: "Revogados os nºs 2 e 4 da al. c) da tabela anexa, pela PORT.1367/2007.18.10.2007.MADRP, DR.IS [201] de 18.10.2007\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1367-2007-629121
+  date: '2007-10-18'
+- type: repealed_by
+  target: pt:dre:453500:por
+  label: "Revogada a partir de 01.01.2009 pela PORT.984/2008.02.09.2008.MADRP, DR.IS [169] de 02.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-2008-453500
+  date: '2008-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:47Z'
   warnings: []
   errors: []
 ---

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/072000000/1698816988.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/706-2011-1413719
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a3b10e9c5857632dfa1cae1e1aa5d750d8d6a8cf49d6ff91896396643a7216a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63622a8d4225d397d2592d0e25408e88ae6e6bedc5097d4e87c084d5905a0f5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:14Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Para os devidos efeitos se torna público que no aviso n.º 8049/2011, publicado
 Mais se informa que o prazo de 30 dias para a presente discussão pública, em conformidade e para os efeitos do disposto nos n.os 3 e 4 do artigo 77.º e no n.º 4 do artigo 148.º do RJIGT, deverá ser contado da data da publicação do presente aviso no Diário da República.
 
 1 de Abril de 2011. - A vereadora do Pelouro do Urbanismo e Infra-Estruturas da Câmara, Teresa Correia.
+
+204552202

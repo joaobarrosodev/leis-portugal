@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/2003/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2003-187502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b65717a271a49ab0343ed1038a695aee4346511dad16fcb3e3ad954efdc97abf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aae71a6d00cd599e29d96b894c1f20e24a71bae411baa5d409bb7f03632561ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Exploração Pecuária
+- Agricultura
 - Apoio ao Investimento
 - Exploração Agrícola
-- Ruris
+- Exploração Pecuária
+- Financiamento
+- Pecuária
 - Região Agrária
 - Região Desfavorecida
-- Pecuária
-- Agricultura
+- Ruris
 relationships:
 - type: amended_by
   target: pt:dre:448957:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:596288:por
+  label: "Alterados os arts. 7º e 12º e o anexo II do Regulamento aprovado pela Port 46-A/2001 de 25-Jan, com a redacção e\
+    \ republicação do presente diploma, pela PORT.177/2005.14.02.2005.MAPF, DR.IS-B [31] de 14.02.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2005-596288
+  date: '2005-02-14'
+- type: amended_by
+  target: pt:dre:683668:por
+  label: "Cessada a admissão de novas candidaturas às ajudas previstas no Regulamento aprovado pela Port 46-A/2001 de 25-Jan,\
+    \ com a redacção do presente diploma, e permitida a prorrogação, por mais um ano, das candidaturas cujo termo tenha ocorrido\
+    \ em 2005, aos beneficiários com candidaturas às ajudas previstas no mesmo Regulamento, pela PORT.135/2006.16.02.2006.MADRP,\
+    \ DR.IS-B [34] de 16.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/135-2006-683668
+  date: '2006-02-16'
+- type: amended_by
+  target: pt:dre:448957:por
+  label: "Determinadas as consequências da falta de confirmação ou de rectificação anual das candidaturas, prevista no n.º\
+    \ 2 do artigo 5.º do Regulamento de Aplicação da Intervenção Indemnizações Compensatórias, aprovado pela Portaria n.º\
+    \ 46-A/2001, de 26-Jan, republicado pelo presente diploma, pela PORT.391/2008.02.06.2008.MADRP, DR.IS [105] de 02.06.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/391-2008-448957
+  date: '2008-06-02'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -93,15 +115,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
 article_structure:
-  article_count: 22
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:43Z'
   warnings: []
   errors: []
 ---
@@ -152,7 +174,9 @@ m) 'Residência habitual' - o domicílio fiscal.
 
 2 - ...
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -170,7 +194,9 @@ ii) 2 CN/ha de superfície forrageira para efeitos de encabeçamento, no caso de
 
 3 - Para efeitos da alínea c) do n.º 1, a tabela de conversão dos bovinos, equídeos, ovinos, caprinos e suínos em cabeças normais consta do anexo I a este Regulamento, do qual faz parte integrante.
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - ...
 
@@ -188,11 +214,15 @@ a) Cessem a actividade agrícola, desde que tenham decorrido três ou mais anos 
 
 b) ...
 
-###### Artigo 6.º — Transmissão da exploração
+Artigo 6.º
+
+Transmissão da exploração
 
 Se durante o período de concessão da ajuda o beneficiário transmitir a exploração objecto de ajuda, não haverá lugar à devolução das ajudas se o novo titular reunir as condições de acesso e assumir os compromissos pelo período remanescente.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -208,7 +238,9 @@ e) ...
 
 2 - ...
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -220,7 +252,9 @@ e) ...
 
 5 - ...
 
-###### Artigo 9.º — Apresentação da candidatura
+Artigo 9.º
+
+Apresentação da candidatura
 
 1 - A apresentação da candidatura a incluir no pedido de 'ajuda superfícies' é efectuada anualmente junto das organizações de agricultores com as quais o INGA celebre protocolos.
 
@@ -228,7 +262,9 @@ e) ...
 
 3 - As normas relativas à formalização, tramitação, procedimentos e calendarização das candidaturas são objecto de diploma próprio, tendo em conta o sistema integrado de gestão e controlo previsto no Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), da Comissão, de 11 de Dezembro.
 
-###### Artigo 10.º — Hierarquização das candidaturas
+Artigo 10.º
+
+Hierarquização das candidaturas
 
 1 - As candidaturas são hierarquizadas de acordo com as seguintes regras:
 
@@ -240,7 +276,9 @@ c) Restantes candidaturas - por ordem crescente de área da exploração.
 
 2 - As candidaturas são aprovadas em função da dotação orçamental do presente regime de ajudas.
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -274,17 +312,21 @@ b) ...
 
 4 - Sem prejuízo do disposto na alínea b) do número anterior, uma nova reincidência nos anos subsequentes em qualquer das situações previstas nas alíneas a) a d) do n.º 2 dá origem à devolução das ajudas, aplicando-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 8/2001, de 22 de Janeiro, quanto ao reembolso, para além da aplicação de outras sanções legalmente previstas.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 Os beneficiários do presente regime de ajudas que deixem de reunir a condição de acesso prevista na alínea c) do artigo 4.º em virtude da alteração do anexo I ficam desvinculados dos compromissos assumidos no âmbito deste Regulamento.
 
-## ANEXO I — Tabela de conversão em cabeças normais
+ANEXO I
+
+Tabela de conversão em cabeças normais
 
 (a que se refere o n.º 3 do artigo 4.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12201226.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12201226.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12201226.pdf)
 
-## ANEXO II
+ANEXO II
 
 ...
 
@@ -320,7 +362,7 @@ iii) ...
 
 2.º O Regulamento de Aplicação da Intervenção Indemnizações Compensatórias, aprovado pela Portaria n.º 46-A/2001, de 25 de Janeiro, com as alterações introduzidas pela Portaria n.º 956/2001, de 10 de Agosto, e pela Portaria n.º 134/2002, de 9 de Fevereiro, rectificada pelas Declarações de Rectificação n.os 8-M/2002 e 15-H/2002, publicadas no Diário da República, 1.ª série-B, n.os 50, de 28 de Fevereiro de 2002, e 75, de 30 de Março de 2002, respectivamente, é republicado na íntegra, com as alterações resultantes do presente diploma, constituindo o anexo.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2003.
 
 ## ANEXO — REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO INDEMNIZAÇÕES COMPENSATÓRIAS
 
@@ -504,7 +546,7 @@ Os beneficiários do presente regime de ajudas que deixem de reunir a condição
 
 (a que se refere o n.º 3 do artigo 4.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12201226.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12201226.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12201226.pdf)
 
 ## ANEXO II — [a que se refere a alínea c) do n.º 1 do artigo 5.º]
 

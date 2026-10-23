@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/192/2003/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-2003-187501
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 456a2f9fdb92c8a5ab35f5afbf8ca20c9eee0a2a3732b7ad0bfbc1befcda8e43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83bf96b894c13ceef0dac639be564578a77ac83a8d03c3dee7e839b3820b044d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ruris
 - Agricultor
+- Agricultura
 - Regulamento
 - Regulamento CE
 - Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
-- Agricultura
+- Ruris
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:476278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632727:por
+  label: "Alterados os arts. 11º, 13º, 15º, 17º, 19º, 21º, 23º, 25º, 36º, 52º, 55º, 58º, 67º, 79º, 80º, 87º, 88º, a nota de\
+    \ rodapé (1) do anexo V e o anexo VII todos do Regulamento aprovado pela Port 475/2001 de 10-Mai, com a redacção dada\
+    \ pelo presente diploma, pela PORT.893/2003.2003.08.26.MADRP DR.IS-B [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/893-2003-632727
+  date: '2003-08-26'
 - type: cites
   target: celex:31992R2078
   label: null
@@ -98,16 +105,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/475/2001/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/475/2001/05/10/p/dre
+- type: repealed_by
+  target: pt:dre:476278:por
+  label: "Revogada a Port 475/2001, de 10-Maio, com as alterações introduzidas pelo presente diploma, pela PORT.1212/2003.16.10.2003.MADRP,\
+    \ DR.IS-B [240] de 16.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1212-2003-476278
+  date: '2003-10-16'
 article_structure:
-  article_count: 26
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:43Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +189,9 @@ t) Dimensão económica de uma exploração - obtém-se dividindo a margem bruta
 
 2 - Para efeito das alíneas s) e t) do número anterior, são utilizadas as margens brutas padrão de referência divulgadas pelo Gabinete de Planeamento e Política Agro-Alimentar, agregadas para efeitos de aplicação das medidas agro-ambientais.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -188,7 +203,9 @@ c) Tenham frequentado uma acção de sensibilização em luta química aconselha
 
 2 - Os beneficiários que se candidataram nos anos de 2001 e 2002 e que ainda não frequentaram a acção referida na alínea c) do número anterior devem, obrigatoriamente, fazê-lo e entregar o respectivo certificado, no INGA, até 31 de Maio de 2003.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -218,7 +235,9 @@ e) ...
 
 4 - Os beneficiários que se candidataram nos anos de 2001 e 2002 e que ainda não frequentaram a acção referida na alínea d) do n.º 1 devem, obrigatoriamente, fazê-lo e entregar o respectivo certificado, no INGA, até 31 de Maio de 2003.
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -248,7 +267,9 @@ ii) ...
 
 3 - Os beneficiários que se candidataram nos anos de 2001 e 2002 e que ainda não frequentaram a acção referida na alínea d) do n.º 1 devem, obrigatoriamente, fazê-lo e entregar o respectivo certificado, no INGA, até 31 de Maio de 2003.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 ...
 
@@ -274,7 +295,9 @@ j) Vinha - 1000 cepas/ha;
 
 l) [Anterior alínea j).]
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -334,7 +357,9 @@ iii) ...
 
 6 - ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -350,7 +375,9 @@ a) ...
 
 b) ...
 
-###### Artigo 37.º — [...]
+Artigo 37.º
+
+[...]
 
 1 - ...
 
@@ -376,7 +403,9 @@ j) ...
 
 2 - ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - Podem beneficiar das ajudas previstas nesta secção os beneficiários cuja unidade de produção reúna as seguintes condições:
 
@@ -398,7 +427,9 @@ f) Estar situada na totalidade ou em parte na área geográfica de aplicação d
 
 2 - Sem prejuízo do disposto no número anterior o beneficiário deve candidatar a SAU elegível da respectiva unidade de produção relativamente à qual assegure a sua manutenção durante o período de atribuição das ajudas.
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -432,7 +463,9 @@ b) ...
 
 c) ...
 
-###### Artigo 54.º — [...]
+Artigo 54.º
+
+[...]
 
 1 - ...
 
@@ -444,7 +477,9 @@ c) ...
 
 2 - Os valores referidos no número anterior são majorados em 10% relativamente às parcelas em que mais de 50% da sua área seja suportada por muros ou beneficiada por um sistema tradicional de rega.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - ...
 
@@ -464,7 +499,9 @@ g) ...
 
 2 - Os beneficiários que se candidataram nos anos de 2001 e 2002 e que ainda não frequentaram a acção de sensibilização referida na alínea b) do número anterior devem, obrigatoriamente, fazê-lo e entregar o respectivo certificado, no INGA, até 31 de Maio de 2003.
 
-###### Artigo 63.º — [...]
+Artigo 63.º
+
+[...]
 
 1 - ...
 
@@ -476,7 +513,9 @@ c) ...
 
 2 - Os valores referidos no número anterior são majorados em 20% relativamente às parcelas em que mais de 50% da sua área seja suportada por muros ou em 10% relativamente às parcelas com muros de divisória em mais de 50% do perímetro da parcela.
 
-###### Artigo 66.º — [...]
+Artigo 66.º
+
+[...]
 
 1 - ...
 
@@ -488,7 +527,9 @@ c) ...
 
 2 - Os valores referidos no número anterior são majorados em 20% relativamente às parcelas em que mais de 50% da sua área seja suportada por muros ou em 10% relativamente às parcelas com muros de divisória em mais de 50% do perímetro da parcela.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -506,21 +547,29 @@ b) ...
 
 c) ...
 
-###### Artigo 72.º — [...]
+Artigo 72.º
+
+[...]
 
 Para efeitos de concessão das ajudas à medida prevista nesta secção são elegíveis as parcelas de bosquetes ou maciços arbustivo-arbóreos com interesse ecológico-paisagístico com uma área mínima de 0,1 ha e máxima de 5 ha, contíguas de parcelas agrícolas, não podendo as mesmas exceder 20% da SAU elegível da unidade de produção.
 
-###### Artigo 82.º — [...]
+Artigo 82.º
+
+[...]
 
 1 - As candidaturas a incluir no «pedido de ajuda superfícies» e ou «pedido de ajuda animais» são formalizadas anualmente junto das organizações de agricultores com as quais o INGA celebre protocolos.
 
 2 - As normas relativas à formalização, tramitação, procedimentos e calendarização das candidaturas são objecto de diploma próprio, tendo em conta o Sistema Integrado de Gestão e Controlo, previsto no Regulamento (CEE) n.º [3508/92](http://data.europa.eu/eli/reg/1992/3508/oj?locale=pt), do Conselho, de 27 de Novembro, aplicando-se para o efeito o disposto no Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), da Comissão, de 11 de Dezembro.
 
-###### Artigo 83.º — Prazo de candidatura
+Artigo 83.º
+
+Prazo de candidatura
 
 (Eliminado.)
 
-###### Artigo 84.º — Hierarquização das candidaturas
+Artigo 84.º
+
+Hierarquização das candidaturas
 
 1 - As candidaturas são hierarquizadas de acordo com as seguintes regras:
 
@@ -552,13 +601,17 @@ ii) Animais de raças ameaçadas, âmbito da medida «Manutenção de raças aut
 
 4 - As candidaturas são aprovadas em função da dotação orçamental do presente regime de ajudas.
 
-###### Artigo 85.º — Pagamento das ajudas
+Artigo 85.º
+
+Pagamento das ajudas
 
 1 - Compete ao IFADAP proceder ao pagamento anual das ajudas.
 
 2 - No caso das culturas anuais objecto de ajuda no âmbito das medidas «Luta química aconselhada», «Protecção integrada», com excepção das zonas piloto, «Agricultura biológica», e submedidas «Sementeira directa» e «Mobilização mínima» o pagamento das ajudas é efectuado em função da área anualmente semeada.
 
-###### Artigo 86.º — Obrigações dos beneficiários
+Artigo 86.º
+
+Obrigações dos beneficiários
 
 Sem prejuízo do cumprimento dos compromissos respeitantes a cada uma das medidas os beneficiários ficam obrigados, durante o período de atribuição das ajudas, a:
 
@@ -568,7 +621,9 @@ b) Cumprir em toda a área da unidade de produção as boas práticas agrícolas
 
 c) Em cada um dos quatro anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes da mesma mediante a apresentação do «pedido de ajuda superfícies» e ou «pedido de ajuda animais».
 
-###### Artigo 87.º — Modificação da candidatura
+Artigo 87.º
+
+Modificação da candidatura
 
 1 - Os beneficiários podem, durante o período de atribuição da ajuda, requerer a alteração da sua candidatura por forma a respeitar a uma nova medida, de entre as previstas neste Regulamento, ou à intervenção Florestação de Terras Agrícolas prevista na Portaria n.º 94-A/2001, de 9 de Fevereiro.
 
@@ -602,7 +657,9 @@ b) Morte de um animal na sequência de acidente cuja responsabilidade não possa
 
 11 - Sem prejuízo do disposto nos números anteriores os beneficiários devem comunicar ao INGA, no prazo máximo de 10 dias úteis, a ocorrência de quaisquer alterações à situação da unidade de produção e ou do efectivo pecuário.
 
-###### Artigo 88.º — Extinção dos compromissos
+Artigo 88.º
+
+Extinção dos compromissos
 
 1 - Os beneficiários podem, durante o período de concessão da ajuda, deixar de cumprir os seus compromissos e obrigações, sem devolução das ajudas, nos seguintes casos:
 
@@ -628,7 +685,9 @@ d) Catástrofe natural grave que afecte a superfície agrícola da unidade de pr
 
 4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos de força maior referidos no n.º 2 ou às circunstâncias naturais previstas no n.º 9 do artigo 87.º conservará o seu direito à totalidade da ajuda no ano em que o facto ocorreu.
 
-###### Artigo 89.º — Sanções
+Artigo 89.º
+
+Sanções
 
 1 - Sem prejuízo do disposto no Decreto-Lei n.º 8/2001, de 22 de Janeiro, quando em consequência de controlos administrativos ou no local se verificar divergência entre as áreas ou os animais declarados e as áreas determinadas ou os animais verificados, aplica-se o disposto no Regulamento (CE) n.º [2419/2001](http://data.europa.eu/eli/reg/2001/2419/oj?locale=pt), de 21 de Dezembro.
 
@@ -664,13 +723,17 @@ b) No caso das alíneas e) e f) do número anterior dá origem à devolução da
 
 5 - O incumprimento pelos beneficiários de um dos compromissos classificados como A no anexo IX a este Regulamento ou de vários compromissos classificados como B desde que o somatório do valor da redução referido na alínea e) do n.º 2 ultrapasse 100% determina a devolução das ajudas, aplicando-se, com as necessárias adaptações, o disposto no artigo 15.º do Decreto-Lei n.º 8/2001, de 22 de Janeiro, quanto ao reembolso das ajudas, para além da aplicação de outras sanções legalmente previstas.
 
-###### Artigo 90.º — Transmissão da unidade de produção
+Artigo 90.º
+
+Transmissão da unidade de produção
 
 1 - Se durante o período de concessão da ajuda o beneficiário transmitir a totalidade da área ou animais objecto da candidatura, não haverá lugar a devolução de ajudas, desde que o novo titular reúna as condições de concessão das mesmas, nomeadamente no que se refere à titularidade do efectivo pecuário, a comprovar por declaração da entidade gestora dos livros genealógicos ou dos registos zootécnicos, e assuma os compromissos pelo período remanescente.
 
 2 - A transmissão de parte da área ou animais objecto da candidatura importa a correspondente alteração da mesma, devendo o novo titular apresentar candidatura relativamente à parte transmitida e pelo período remanescente, caso em que não haverá lugar à devolução de ajudas.
 
-###### Artigo 91.º — Incompatibilidades de acumulação das ajudas
+Artigo 91.º
+
+Incompatibilidades de acumulação das ajudas
 
 1 - As ajudas a conceder às medidas previstas no presente Regulamento quando respeitem à mesma parcela agrícola não são cumuláveis, excepto nos seguintes casos:
 
@@ -714,7 +777,9 @@ ii) As medidas «Sistemas policulturais tradicionais», «Plano zonal de Castro 
 
 2 - Sem prejuízo do disposto no número anterior as acumulações só são possíveis até ao limite de (euro) 600/ha/ano no caso de culturas anuais e (euro) 900/ha/ano no caso de culturas permanentes.
 
-###### Artigo 93.º — Regime de transição
+Artigo 93.º
+
+Regime de transição
 
 1 - Podem transitar para o presente regime de ajudas os beneficiários do programa medidas agro-ambientais aprovado ao abrigo do Regulamento (CEE) n.º [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), que reúnam as respectivas condições de acesso e vejam aprovada a sua candidatura no âmbito deste Regulamento.
 
@@ -722,13 +787,17 @@ ii) As medidas «Sistemas policulturais tradicionais», «Plano zonal de Castro 
 
 3 - O disposto nos números anteriores aplica-se, ainda, às situações em que os beneficiários do programa medidas agro-ambientais com contratos em vigor apresentem uma candidatura para uma nova área ao abrigo de presente Regulamento para uma medida similar ou para a mesma área objecto daquele contrato.
 
-## ANEXO IV — [...]
+ANEXO IV
+
+[...]
 
 Tabela de conversão em cabeças normais (CN)
 
 [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
 
-## ANEXO VII — [...]
+ANEXO VII
+
+[...]
 
 A) ...
 
@@ -776,32 +845,42 @@ c) ...
 
 B) ...
 
-## ANEXO VIII — (a que se refere o n.º 2 do artigo 87.º)
+ANEXO VIII
+
+(a que se refere o n.º 2 do artigo 87.º)
 
 Transferência entre medidas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
 
 2.º No anexo I do Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 475/2001, de 10 de Maio, com as alterações introduzidas pela Portaria n.º 757-A/2001, de 20 de Julho, e pela Portaria n.º 534/2002, de 24 de Maio, a coluna referente ao âmbito geográfico de aplicação das medidas «Protecção integrada» no que se refere à zona piloto para a produção de tomate, «Vinhas em socalcos do Douro» no que respeita à área geográfica do Cima Corgo e «Lameiros e outros prados e pastagens de elevado interesse florístico» no que respeita a outros prados e pastagens no âmbito da Direcção Regional de Agricultura de Trás-os-Montes passa a ter a seguinte redacção:
 
-## ANEXO I — [...]
+ANEXO I
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
+[...]
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
 
 3.º O anexo IX do Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 475/2001, de 10 de Maio, com as alterações introduzidas pela Portaria n.º 757-A/2001, de 20 de Julho, e pela Portaria n.º 534/2002, de 24 de Maio, no que respeita às medidas «Protecção integrada», «Produção integrada» e «Sistemas forrageiros extensivos» passa a ter a seguinte redacção:
 
-## ANEXO IX — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
+ANEXO IX
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
 
 4.º São aditados ao Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 475/2001, de 10 de Maio, os anexos VI-A e X, com a seguinte redacção:
 
-## ANEXO VI-A — (a que se refere o n.º 2 do artigo 84.º)
+ANEXO VI-A
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
+(a que se refere o n.º 2 do artigo 84.º)
 
-## ANEXO X — (a que se refere o n.º 2 do artigo 93.º)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
+ANEXO X
+
+(a que se refere o n.º 2 do artigo 93.º)
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12101220.pdf)
 
 5.º Aos beneficiários da intervenção Medidas Agro-Ambientais com candidaturas em vigor aplica-se o disposto no presente diploma pelo período remanescente, devendo para o efeito os beneficiários apresentarem no corrente ano uma candidatura a incluir no «pedido de ajuda superfícies» e ou «pedido de ajuda animais».
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2003.

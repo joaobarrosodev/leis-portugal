@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/049000000/1148611486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/531-2011-2541217
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aef2f672436cde84ebb2318d6bd4af567aed0592fedad5438eb9599f56ee0fc2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b790f463c8f61c2311c1a586823ecc7509018d3c66606bb0f0817e31ccafa00c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:14Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 531/2011
 Para os devidos efeitos, rectifica-se o aviso n.º 5621/2011, publicado no Diário da República, 2.ª série, n.º 39, de 24 de Fevereiro de 2011, pelo que onde se lê «nomeei em regime de substituição, por urgente conveniência de serviço os seguintes dirigentes intermédios, com efeitos a 30 de Dezembro de 2011:» deve ler-se «nomeei em regime de substituição, por urgente conveniência de serviço, os seguintes dirigentes intermédios, com efeitos a 30 de Dezembro de 2010:» e onde se lê «determinei pelos despachos de 30 de Dezembro de 2011, e com efeitos a essa data,» deve ler-se «determinei pelos despachos de 30 de Dezembro de 2010, e com efeitos a essa data,».
 
 24 de Fevereiro de 2011. - O Presidente da Câmara, Mário João Ferreira da Silva Oliveira.
+
+304396302

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/086000000/1945919460.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/782-2011-2339343
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12305443bc2be504eabab7f0825bccbc454a22cc9f506ad488cf79cb3ba35111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7d6051974313a9296b5e330a2868534d211a9a8950fa47e07e0a8968db4523
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 782/2011
+# Declaração de rectificação n.º 782/2011
 
 Nos termos do artigo 148.º do Código do Procedimento Administrativo, rectificam-se os n.os 10, 10.1, 11, 15.1, 15.2 e 19 do aviso referente ao procedimento concursal comum - recrutamento excepcional para 13 postos de trabalho, publicitado no Diário da República, 2.ª série, n.º 49, de 10 de Março de 2011 - aviso n.º 6541/2011.
 
@@ -202,3 +206,5 @@ Esta rectificação implica novo prazo de candidatura pelo período de 10 dias �
 Os candidatos que já formalizaram a candidatura não necessitam de voltar a fazê-lo, excepto se entenderem anexar novos documentos.
 
 18 de Abril de 2011. - O Presidente da Câmara Municipal, António Fernando Nogueira Cerqueira Vilela.
+
+304599751

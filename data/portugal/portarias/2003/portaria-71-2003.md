@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/71/2003/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-2003-172725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 247058b36c580c999d121e10d7314f1104ddcc5c735931afeae52be5afb45653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9ed5af4424217b45fff8decd712e31e0f77a4e4b58f89baa97ff917c03b1185
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Instituto do Ambiente
-- Registo Nacional das Organizações não Governamentais do Ambiente
 - Organização não Governamental do Ambiente
+- Registo Nacional das Organizações não Governamentais do Ambiente
 - Regulamento
 relationships:
 - type: amended_by
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/478/1999/06/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/478/1999/06/29/p/dre
+- type: cites
+  target: pt:dre:392582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585216:por
+  label: null
+  source: null
 article_structure:
-  article_count: 10
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:49Z'
   warnings: []
   errors: []
 ---
@@ -163,11 +179,15 @@ b) ...
 
 10 - (Anterior n.º 9.)
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 A inscrição no Registo das ONGA e equiparadas é feita por decisão do presidente do Instituto do Ambiente.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 (Mantém-se corpo do artigo.)
 
@@ -193,7 +213,9 @@ j) ...
 
 l) Fotocópia da declaração de IRC entregue na repartição de finanças.
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -205,7 +227,9 @@ l) Fotocópia da declaração de IRC entregue na repartição de finanças.
 
 5 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -213,13 +237,17 @@ l) Fotocópia da declaração de IRC entregue na repartição de finanças.
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - O Instituto do Ambiente procede anualmente à publicação no Diário da República de um extracto dos actos que determinam a inscrição, modificação, suspensão ou anulação do registo.
 
 2 - (Anterior n.º 3.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -235,13 +263,17 @@ d) ...
 
 3 - Das auditorias pode resultar, por decisão fundamentada do presidente do Instituto do Ambiente, a suspensão ou a anulação da inscrição no Registo.
 
-###### Artigo 20.º — Realização de auditorias
+Artigo 20.º
+
+Realização de auditorias
 
 1 - As auditorias às ONGA e equiparadas realizam-se na respectiva sede social e são efectuadas pelo Instituto do Ambiente.
 
 2 - Para a realização das auditorias o Instituto do Ambiente pode recorrer a entidades externas que são sempre acompanhadas por um representante do Instituto.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -249,13 +281,17 @@ d) ...
 
 3 - A ONGA ou equiparada objecto de auditoria é notificada da decisão do presidente do Instituto do Ambiente que conclui a auditoria.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - O presidente do Instituto do Ambiente fixa anualmente o número de ONGA e equiparadas objecto de auditoria regular.
 
 2 - As ONGA e equiparadas objecto de auditoria são definidas por sorteio, a realizar pelo Instituto do Ambiente.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - As auditorias extraordinárias são desencadeadas por decisão do presidente do Instituto do Ambiente, quando existam indícios que a ONGA ou equiparada:
 
@@ -275,4 +311,4 @@ a) Não envie ao Instituto do Ambiente os elementos a que está obrigada, nos te
 
 b) Não apresente, no prazo fixado, os relatórios relativos à execução de acções financiadas pelo Instituto do Ambiente.»
 
-**O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais, em 9 de Janeiro de 2003.**
+O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais, em 9 de Janeiro de 2003.

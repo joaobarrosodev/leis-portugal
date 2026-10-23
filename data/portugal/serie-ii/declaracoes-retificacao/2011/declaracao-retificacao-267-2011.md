@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/024000000/0649006490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/267-2011-3589049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92c4a292d1fa3b673fe63610e5993a07a058f386676e8f2592d4c659a563852f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74ed4163c868eb8f366e69fe4b94f09ab1c50abbe6109d0fb5608276e1e20c83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:43Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 267/2011
 Tendo sido publicado com inexactidão o aviso n.º 2884/2011, de 20 de Janeiro, no Diário da República, 2.ª série, n.º 19, de 27 de Janeiro de 2011, rectifica-se que onde se lê «remuneração situada entre a 1.ª e 2.ª posição remuneratória da categoria e nível remuneratório entre o 1.º e 2.º da tabela remuneratória única» deve ler-se «remuneração posicionada na 1.ª posição remuneratória da tabela única da carreira de assistente operacional».
 
 27 de Janeiro de 2011. - O Director, Albino Martins Nogueira Pereira.
+
+204275742

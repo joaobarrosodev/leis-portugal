@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/139000000/0011800118.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/638-2022-186361734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e4ff8cbe972c2e658a47da55ab1d3533ed0821068bde18ad47318eef2af8cd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9be0f32ad7bad99065dff6365aee7eae90660456a4f19b263ced5c24ffe20252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184233756:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249537:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249866:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:51Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +97,5 @@ validation:
 Para os devidos efeitos se torna público que por ter saído com incorreção o [Aviso n.º 11099/2022](https://diariodarepublica.pt/dr/detalhe/aviso/11099-2022-184233756), publicado no Diário da República, 2.ª série, n.º 106, parte C, de 1 de junho de 2022, retifica-se que onde se lê «[Decreto-Lei n.º 78/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2008-249537), de 22 de abril» deve ler-se «[Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril».
 
 12 de julho de 2022. - O Presidente do Conselho Geral, Luís Miguel da Silva Gonçalves.
+
+315510628

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/285/2002/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-2002-264677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 228833e733a1f2e5708d190ddddc087637aacb319a90eec99718cafd67d9135d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 145c8484c61e8cb10b816f9e4b135880c5d776504ff29c68849ce2d83c22bcd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Cooperativo
 - Ensino Particular
-- Universidade Atlântica
-- Licenciatura
 - Ensino Superior
+- Licenciatura
+- Plano de Estudos
+- Universidade Atlântica
 relationships:
 - type: amended_by
   target: pt:dre:667478:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667478:por
+  label: "Alterada para curso de Gestão de Sistemas e Computação a denominação do curso de licenciatura em Gestão de Sistemas\
+    \ e Tecnologias de Informação, autorizado pela Port 667/96, de 14-Nov ,com as alterações do presente diploma, pela PORT.261/2006.14.03.2006.MCTES,\
+    \ DR.IS-B [52] de 14.03.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/261-2006-667478
+  date: '2006-03-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/108/1996/07/31/p/dre
   label: null
@@ -105,16 +112,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/994/1998/11/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/994/1998/11/25/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:16Z'
   warnings: []
   errors: []
 ---
@@ -167,22 +202,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)](https://files.diariodarepublica.pt/1s/2002/03/063b00/24172419.pdf)

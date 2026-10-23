@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/217000001/0000200005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1032-a-2025-945460847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cdf2fd885aa774d996c3921f4702a69f2a8b31e799f0bf33d23e8b2d93669b0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c614f9ad8a351a9923fbab87c706504cd698bf64972f8ce89e66982caf9396b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:935913495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:941852920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:942710381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:945116939:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:26Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,9 @@ Assim, onde se lê:
 
 «PARTE I
 
-# PARTE GERAL — I - Calendário de abertura
+PARTE GERAL
+
+I - Calendário de abertura
 
 1 - O prazo para apresentação da candidatura é de catorze dias úteis e tem início no dia útil seguinte ao da publicação do presente aviso e decorre até às 23:59 horas do dia catorze de novembro de 2025.
 
@@ -111,7 +129,9 @@ As vagas de quadro de zona pedagógica carenciados a preencher pelo concurso ext
 
 [...]
 
-# PARTE II — CONCURSO EXTERNO EXTRAORDINÁRIO
+PARTE II
+
+CONCURSO EXTERNO EXTRAORDINÁRIO
 
 I - Concurso externo extraordinário
 
@@ -131,7 +151,9 @@ II - Número e local de vagas a prover e horários
 
 [...]
 
-# PARTE III — PROCEDIMENTOS
+PARTE III
+
+PROCEDIMENTOS
 
 [...]
 
@@ -141,11 +163,15 @@ II - Número e local de vagas a prover e horários
 
 [...]
 
-# PARTE V — DISPOSIÇÕES FINAIS
+PARTE V
+
+DISPOSIÇÕES FINAIS
 
 [...]
 
-# PARTE VI — CALENDÁRIO
+PARTE VI
+
+CALENDÁRIO
 
 | Fases de processo concursal | Calendário |  |
 | --- | --- | --- |
@@ -185,7 +211,9 @@ As vagas de quadro de zona pedagógica carenciados a preencher pelo concurso ext
 
 [...]
 
-# PARTE II — CONCURSO EXTERNO EXTRAORDINÁRIO
+PARTE II
+
+CONCURSO EXTERNO EXTRAORDINÁRIO
 
 I - Concurso externo extraordinário
 
@@ -203,7 +231,9 @@ II - Número e local de vagas a prover e horários
 
 1.1 - Para efeitos de concurso externo extraordinário são consideradas as vagas constantes do anexo à [Portaria n.º 365-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/365-a-2025-941852920), de 23 de outubro, na redação dada pela [Portaria n.º 379-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2025-945116939), de 7 de novembro.
 
-# PARTE III — PROCEDIMENTOS
+PARTE III
+
+PROCEDIMENTOS
 
 [...]
 
@@ -213,7 +243,9 @@ II - Número e local de vagas a prover e horários
 
 [...]
 
-# PARTE V — DISPOSIÇÕES FINAIS
+PARTE V
+
+DISPOSIÇÕES FINAIS
 
 [...]
 
@@ -223,7 +255,9 @@ II - Número e local de vagas a prover e horários
 
 6 - Considerando a presente retificação ao [Aviso n.º 26971-A/2025/2](https://diariodarepublica.pt/dr/detalhe/aviso/26971-a-2025-942710381), publicado no Diário da República, 2.ª série, n.º 207, suplemento, de 27 de outubro de 2025, poderão os candidatos, que tenham já submetido a sua candidatura, proceder a alterações à mesma, tendo presente as vagas publicadas no anexo à [Portaria n.º 365-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/365-a-2025-941852920), de 23 de outubro, alterada pela [Portaria n.º 379-A/2025/1](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2025-945116939), de 7 de novembro.
 
-# PARTE VI — CALENDÁRIO
+PARTE VI
+
+CALENDÁRIO
 
 | Fases de processo concursal | Calendário |  |
 | --- | --- | --- |
@@ -240,3 +274,7 @@ II - Número e local de vagas a prover e horários
 | Recurso Hierárquico | 2.ª quinzena de janeiro | » |
 
 10 de novembro de 2025. - O Presidente do Conselho Diretivo da AGSE, I. P., Raul Capaz Coelho.
+
+319753336
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { min-height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

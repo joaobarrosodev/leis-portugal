@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 187/2004, 1º Suplemento, Série I-B de 2004-08-10
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5166-(27) a 5166-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/187b01/00270027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-bn/2004/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-bn-2004-284094
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 968fe2e7a26e818c893d380a7ee96eb67405977feb32630d584389cc07c90484
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac350face95d77d24c79662d009ba112daf9d792edb3af1bc20ec2b1fab8facd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:641406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:641406:por
+  label: "Extinta a zona de caça criada pela Port 718/2001 de 14-Jul, na redacção do presente diploma, e revogada a partir\
+    \ de 17.10.2007, pela PORT.1347/2007.12.10.2007.MAOTDR, DR.IS [197] de 12.10.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1347-2007-641406
+  date: '2007-10-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +100,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/718/2001/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/718/2001/07/14/p/dre
+- type: cites
+  target: pt:dre:395563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:02Z'
   warnings: []
   errors: []
 ---

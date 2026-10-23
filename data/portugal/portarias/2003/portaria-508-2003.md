@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/508/2003/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/508-2003-693178
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18bba7ab212c2203161ba3e55399ce640bb3bac48237bcaf6d053a1a10ac5b9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e87a6f83b86682f82756f618a6d93fb1032b4ebfde6a6f848a99bb84d575cbdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Criação de Lugares
-- Quadro de Pessoal
 - Estabelecimento Hospitalar
+- Quadro de Pessoal
 - Viseu
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/641/1996/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/641/1996/11/08/p/dre
+- type: cites
+  target: pt:dre:177382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:39Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +108,7 @@ Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https
 
 Manda o Governo, pelos Secretários de Estado do Orçamento, da Administração Pública e Adjunto do Ministro da Saúde, que o quadro de pessoal do Hospital de São Teotónio - Viseu, aprovado pela [Portaria n.º 641/96](https://diariodarepublica.pt/dr/detalhe/portaria/641-1996-177382), de 8 de Novembro, seja alterado pelo quadro anexo à presente portaria, da qual faz parte integrante.
 
-**O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa, em 27 de Março de 2003. - A Secretária de Estado da Administração Pública, Suzana Maria de Moura Alves da Silva Toscano, em 25 de Março de 2003. - O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva, em 28 de Janeiro de 2003.**
+O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa, em 27 de Março de 2003. - A Secretária de Estado da Administração Pública, Suzana Maria de Moura Alves da Silva Toscano, em 25 de Março de 2003. - O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva, em 28 de Janeiro de 2003.
 
 MAPA ANEXO
 

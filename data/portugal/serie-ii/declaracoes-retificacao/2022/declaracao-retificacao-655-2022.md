@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/144000000/0020300203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/655-2022-186724467
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe350718335e5941b425f926ef044baeb525c42aacfd2949461c3558dab5cb15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2877a7bb19b2e50b2d0b05772567d2097afedeed3c247017269d8c74a3f3157
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:230097787:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:181886269:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:56Z'
   warnings: []
   errors: []
 ---
@@ -97,3 +101,5 @@ deve ler-se:
 «iii) No que diz respeito aos trabalhadores não docentes da estrutura central da FCTUC, aprovar o plano anual de férias, autorizar o seu gozo e as suas eventuais alterações, bem como autorizar o gozo de metade do período de férias vencido no ano anterior com o vencido no ano em causa.»
 
 15 de julho de 2022. - O Diretor da Faculdade de Ciências e Tecnologia da Universidade de Coimbra, Prof. Doutor Paulo Eduardo Aragão Aleixo e Neves de Oliveira.
+
+315534329

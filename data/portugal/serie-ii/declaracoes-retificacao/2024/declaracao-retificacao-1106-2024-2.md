@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/248000000/0018700187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1106-2024-901016885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9293415312e281fe7a0286d46c9426d21975c0426f58d667b841e520787c6788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5691ce1e8d2748ba594f8336caca0be9d4bff9be13d7de5fb45cad7040f07098
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:899377647:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:44Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +99,5 @@ deve ler-se:
 «O presente concurso internacional rege-se pelas disposições constantes nos artigos 9.º, 10.º e 15.º do [Decreto-Lei n.º 124/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1999-534996), de 20 de abril, que aprovou o Estatuto da Carreira de Investigação Científica, adiante designado por ECIC, inserindo-se no Contrato Programa de Financiamento de Contratação por Tempo Indeterminado de Doutorados para a Carreira de Investigação Científica (Programa Aliança), assinado em 25/03/2024 entre a Direção-Geral do Ensino Superior (DGES), Instituto de Gestão Financeira da Educação, I. P. (IGeFE) e Universidade de Évora (UÉ), no Financiamento Plurianual da FCT MARE para 2025-2029, no Financiamento do Laboratório Associado ARNET-Rede de Investigação Aquática e, eventualmente, no Programa FCT-Tenure.»
 
 11/12/2024. - A Administradora da Universidade de Évora, Ana Cristina Centeno.
+
+318455773

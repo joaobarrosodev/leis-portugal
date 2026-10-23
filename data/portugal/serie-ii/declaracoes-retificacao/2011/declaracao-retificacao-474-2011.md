@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/474-2011-1764663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1b8972823f15adbb7d19e5b93006be27b5a92d8d1f3ee2db9e03f9b960305c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 914a0af9f68e82bf2c1f0c5432d10b8029547f82aaeb1ec35a327c15a6b2ac40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,33 +65,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:54Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 474/2011
+# Declaração de rectificação n.º 474/2011
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 20, de 28 de Janeiro de 2011, o aviso n.º 3076/2011, rectifica-se que onde se lê:
 
 Nos termos do disposto nos n.os 1 e 7 do artigo 47.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro e Ofício - Circular n.º 11/GEF/2010, de 16 de Novembro, torna-se público a lista nominativa do pessoal não docente, que altera a sua posição remuneratória por opção gestionária, com efeitos a 1 de Janeiro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf))](https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf)
 
 deve ler-se:
 
 Por meu despacho autorizador de 16 de Dezembro de 2010 e nos termos do disposto nos n.os 1 e 7 do artigo 47.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e ofício circular n.º 11/GEF/2010, de 16 de Novembro, torna-se pública a lista nominativa do pessoal não docente, que altera a sua posição remuneratória por opção gestionária, com efeitos a 1 de Janeiro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf))](https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/040000000/0986309863.pdf)
 
 16 de Fevereiro de 2011. - O Presidente da Comissão Administrativa Provisória, Hermínio Alexandre Ribeiro da Cunha Marques.
+
+204376806

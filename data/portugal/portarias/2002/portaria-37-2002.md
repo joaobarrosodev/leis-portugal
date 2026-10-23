@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/37/2002/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-2002-585182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e469991432042dadd4860563a326ced596d5e30f02d71adecfb3d859b2c7c0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c92030a49bc0498225622fa81f67be93a106f17a6b1ba1a460e2207039af069a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
 - Desenvolvimento Económico
+- Empresa
+- Financiamento
 - Política Económica
 - Regulamento
 relationships:
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:519978:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633169:por
+  label: "Alterados os arts. 2º, 3º, 5º, 8º, 9º e 11º do Regulamento pela PORT.901/2003.2003.08.28.MF DR.IS-B [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/901-2003-633169
+  date: '2003-08-28'
+- type: amended_by
+  target: pt:dre:519978:por
+  label: "Alterados a al. a) do nº 1 do art. 2º, o nº 2 do art. 3º e a al. a) do art. 5º do Regulamento de Execução da Medida\
+    \ \"Inovação Financeira\" anexo ao presente diploma, com a redacção dada na Port 901/2003 de 28-Ago, pela PORT.403/2007.10.04.2007.MFAP,\
+    \ DR.IS [70] de 10.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-2007-519978
+  date: '2007-04-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/229/1998/07/22/p/dre
   label: null
@@ -88,16 +100,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-a/2000/08/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-a/2000/08/29/p/dre
+- type: cites
+  target: pt:dre:300821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
 article_structure:
   article_count: 17
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:46Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +140,7 @@ Assim, ao abrigo do disposto na alínea d) do artigo 7.º e no artigo 20.º do [
 
 Em 30 de Novembro de 2001.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Economia, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Indústria, Comércio e Serviços.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Economia, Fernando Lopes Ribeiro Mendes, Secretário de Estado da Indústria, Comércio e Serviços.
 
 ## ANEXO
 

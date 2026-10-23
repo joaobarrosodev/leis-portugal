@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/106000000/0014900149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/502-2022-184233774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ed3f07ab783c610da6fb8a9e1a4c7c02de78333724da503fef78c74671fd5b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca5bb985895c6d8f0657d00aff957d4e931e9dacf8d4358bf9cfc8fb17c6cf0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Adjunto de Gabinete
+- Chefe de Gabinete
+- Delegação de Competências
+- Gabinete Governamental
+- Governo XXIII
+- Ministro da Agricultura e da Alimentação
+- Substituição de Funções
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183961876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:06Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +112,5 @@ deve ler-se:
 «O presente despacho produz efeitos desde o dia 31 de março de 2022, ficando por esta forma ratificados os atos praticados até à data da publicação do presente despacho no âmbito das competências ora delegadas, em conformidade com o disposto no n.º 3 do artigo 164.º do Código do Procedimento Administrativo.»
 
 27 de maio de 2022. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.
+
+315373617

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/114000000/2538425386.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/997-2011-3337921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b5cc01a05cab514e23ef3b8aba058c12d4d524e3cc2f39a521da0f0ff2ea1e24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb39050fe7a31435174fe2a137161ab7d064634d84757a8dea935a91f8e31abc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667773:por
+  label: null
+  source: null
 article_structure:
   article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:00Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 997/2011
+# Declaração de rectificação n.º 997/2011
 
 Para os devidos efeitos se declara que o regulamento n.º 325/2011, publicado no Diário da República, 2.ª série, n.º 95, de 17 de Maio de 2011, de p. 21 343 a p. 21 345, saiu com inexactidões no anexo, que correspondem a erros materiais, que se rectificam através da republicação integral do referido regulamento.
 
@@ -293,10 +301,12 @@ Calendário de realização das provas de exame para maiores de 23 anos 2011-201
 
 2 - Para o ano lectivo de 2011-2012, realizam-se duas épocas de candidatura, de acordo com o seguinte calendário:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/06/114000000/2538425386.pdf))](https://files.diariodarepublica.pt/2s/2011/06/114000000/2538425386.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/06/114000000/2538425386.pdf)
 
 3 - As provas realizam-se às 11 horas.
 
 4 - Em cada época poder-se-ão realizar mais chamadas de acordo com número de candidatos.
 
 16 de Março de 2011. - O Reitor, Fernando Santos Neves. - O Administrador, Manuel de Almeida Damásio.
+
+204769381

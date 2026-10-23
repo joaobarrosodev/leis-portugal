@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/225000000/0024800266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1059-2025-947237585
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e8d7ea9403414ef13e2bd3c956200d7de8648a30e267eb509679250b75e87104
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28ceffb979eb8cf5ff8e1221cae065c6eafeb308078860ab6f761b91126c0b39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:165201923:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480516:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671600:por
+  label: null
+  source: null
 article_structure:
-  article_count: 49
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:36Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +107,7 @@ a) No artigo 27.º, n.º 1, onde se lê «17h» deve ler-se «18h»;
 
 b) No artigo 44.º, n.º 3, onde se lê «realizadas programação, atividades [...]»; deve ler-se «realizadas atividades [...]».
 
-**Publique-se no Diário da República.**
+Publique-se no Diário da República.
 
 31 de outubro de 2025. - O Reitor, Prof. Doutor Rui Manuel Costa Vieira de Castro.
 
@@ -121,25 +137,35 @@ Volvidos mais de 15 anos sobre a respetiva aprovação e tendo em consideração
 
 Assim, após parecer da Comissão de Trabalhadores e promovida a consulta pública do respetivo projeto, conforme estabelecido no n.º 3 do artigo 110.º da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, em harmonia com os normativos consagrados sobre esta matéria no Código do Procedimento Administrativo, em especial nos artigos 100.º, n.º 3, alínea c), e 101.º, é, nos termos dos Estatutos da Universidade do Minho, aprovado pelo Reitor(a) da Universidade do Minho, o Regulamento do Museu Nogueira da Silva da Universidade do Minho.
 
-### CAPÍTULO I — DISPOSIÇÕES GERAIS
+CAPÍTULO I
 
-###### Artigo 1.º — Leis habilitantes
+DISPOSIÇÕES GERAIS
+
+Artigo 1.º
+
+Leis habilitantes
 
 O presente Regulamento do Museu Nogueira da Silva da Universidade do Minho (RMNS) é elaborado ao abrigo do disposto no artigo 73.º da Constituição da República Portuguesa, nos Estatutos da Universidade do Minho, e na Lei-Quadro dos Museus Portugueses, bem como ainda, no Código de Ética para Museus do ICOM (“International Council of Museums”).
 
-###### Artigo 2.º — Objeto e âmbito de aplicação
+Artigo 2.º
+
+Objeto e âmbito de aplicação
 
 1 - O RMNS estabelece, em cumprimento do regime jurídico mencionado no artigo anterior, as regras aplicáveis ao MNS relativas à missão e vocação, ao enquadramento orgânico, às funções museológicas, ao horário e regime de acesso público e à gestão de recursos humanos e financeiros, aplicáveis ao Museu Nogueira da Silva, doravante também designado pela sigla «MNS» ou «Museu».
 
 2 - O RMNS aplica-se ao Museu Nogueira da Silva, aos seus órgãos, recursos humanos, visitantes, amigos do Museu, voluntários e outros que com o Museu se relacionem.
 
-###### Artigo 3.º — Natureza e enquadramento orgânico
+Artigo 3.º
+
+Natureza e enquadramento orgânico
 
 1 - O Museu Nogueira da Silva decorre do legado feito à Universidade do Minho por Testamento de António Augusto Nogueira da Silva, datado de 22 de setembro de 1975, cuja aceitação foi autorizada em 13 de março de 1977, por despacho ministerial, e entregue à Universidade do Minho em 13 de setembro de 1977.
 
 2 - O MNS integra-se na orgânica da Universidade do Minho constituindo uma Unidade Cultural da Universidade, nos termos previstos nos respetivos Estatutos, com caráter permanente, sem fins lucrativos, ao serviço da Universidade do Minho e da sociedade, aberta ao público e dotada de uma estrutura organizacional que lhe permite adquirir, conservar, estudar e valorizar um conjunto de bens culturais com objetivos museológicos, científicos, pedagógicos, artísticos, lúdicos e patrimoniais.
 
-###### Artigo 4.º — Identificação, localização e contactos
+Artigo 4.º
+
+Identificação, localização e contactos
 
 1 - O Museu denomina-se Museu Nogueira da Silva, também designado pela sigla «MNS».
 
@@ -151,13 +177,19 @@ O presente Regulamento do Museu Nogueira da Silva da Universidade do Minho (RMNS
 
 5 - O telefone do MNS é +351 253 601275/76/77/78.
 
-###### Artigo 5.º — Logótipo
+Artigo 5.º
+
+Logótipo
 
 O Museu Nogueira da Silva tem um logótipo próprio, aprovado por despacho Reitoral, que o identifica em qualquer local e em qualquer suporte em que seja aplicado.
 
-### CAPÍTULO II — MISSÃO, VOCAÇÃO E ATRIBUIÇÕES DO MNS
+CAPÍTULO II
 
-###### Artigo 6.º — Missão e Vocação
+MISSÃO, VOCAÇÃO E ATRIBUIÇÕES DO MNS
+
+Artigo 6.º
+
+Missão e Vocação
 
 1 - O MNS tem como missão contribuir para realização do direito à cultura e da política cultural da Universidade do Minho, bem como para a formação e experiências culturais da comunidade académica e do público em geral, para o ensino, aprendizagem e investigação, realizando atividades no âmbito das várias expressões artísticas que reúne.
 
@@ -165,7 +197,9 @@ O Museu Nogueira da Silva tem um logótipo próprio, aprovado por despacho Reito
 
 3 - Os testemunhos materiais que o MNS guarda, as suas temáticas e áreas de ação relacionam-se com as suas coleções de pintura, escultura, mobiliário, cerâmica, ourivesaria, vidros, tapeçaria, vestuário, gravura, desenho, fotografia, documentos, biblioteca e objetos diversos.
 
-###### Artigo 7.º — Atribuições
+Artigo 7.º
+
+Atribuições
 
 1 - São atribuições fundamentais do MNS:
 
@@ -213,13 +247,19 @@ o) Colaborar com o Conselho Cultural no desenvolvimento da política cultural da
 
 p) Estabelecer protocolos de cooperação cultural a aprovar pelo(a) Reitor(a).
 
-### CAPÍTULO III — FUNÇÕES MUSEOLÓGICAS
+CAPÍTULO III
 
-###### Artigo 8.º — Estudo, investigação e cooperação
+FUNÇÕES MUSEOLÓGICAS
+
+Artigo 8.º
+
+Estudo, investigação e cooperação
 
 O MNS deve desenvolver e fomentar o estudo e investigação dos seus bens culturais através dos(as) técnicos(as) ao seu serviço, de professores e investigadores da UMinho e de outras Instituições de Ensino, promovendo parcerias e protocolos e incentivando e facilitando o desenvolvimento de estágios curriculares nas suas áreas de atividade, nos termos da Lei-Quadro dos Museus Portugueses.
 
-###### Artigo 9.º — Incorporação
+Artigo 9.º
+
+Incorporação
 
 1 - A incorporação corresponde à integração formal de um bem cultural no acervo do MNS.
 
@@ -227,7 +267,9 @@ O MNS deve desenvolver e fomentar o estudo e investigação dos seus bens cultur
 
 3 - Além das coleções existentes podem ser incorporadas novas coleções ou objetos museológicos, de acordo com a política prevista no número anterior.
 
-###### Artigo 10.º — Inventariação e documentação
+Artigo 10.º
+
+Inventariação e documentação
 
 1 - O MNS procede ao inventário e marcação dos bens culturais incorporados, permitindo a respetiva identificação, localização e individualização, de acordo com as normas e técnicas mais adequadas a cada peça museológica, obedecendo ao disposto na Lei-Quadro dos Museus Portugueses.
 
@@ -241,7 +283,9 @@ O MNS deve desenvolver e fomentar o estudo e investigação dos seus bens cultur
 
 6 - O inventário museológico deve ser complementado por registos documentais subsequentes que possibilitem aprofundar e disponibilizar informação sobre os bens culturais, bem como acompanhar e historiar o respetivo processamento e a atividade do Museu.
 
-###### Artigo 11.º — Conservação
+Artigo 11.º
+
+Conservação
 
 1 - O MNS conserva todos os bens culturais nele incorporados, dando cumprimento à Lei-Quadro dos Museus Portugueses.
 
@@ -255,13 +299,17 @@ O MNS deve desenvolver e fomentar o estudo e investigação dos seus bens cultur
 
 6 - As normas e procedimentos de conservação devem observar o que está estipulado no Plano de Conservação Preventiva do Museu Nogueira da Silva, conforme estabelecido na Lei-Quadro dos Museus Portugueses.
 
-###### Artigo 12.º — Segurança
+Artigo 12.º
+
+Segurança
 
 1 - O MNS, através de meios humanos, mecânicos ou eletrónicos, deve assegurar as condições de segurança dos bens culturais, dos visitantes, do pessoal do Museu e das instalações.
 
 2 - O MNS tem um Plano de Segurança, conforme estipulado na Lei-Quadro dos Museus Portugueses, que é testado e revisto periodicamente.
 
-###### Artigo 13.º — Interpretação, exposição, reproduções e atividade comercial
+Artigo 13.º
+
+Interpretação, exposição, reproduções e atividade comercial
 
 1 - O MNS promove o conhecimento, a divulgação e o acesso aos seus bens culturais através da interpretação e exposição, elaborando e realizando planos para a exposição permanente, temporária e itinerante.
 
@@ -275,7 +323,9 @@ O MNS deve desenvolver e fomentar o estudo e investigação dos seus bens cultur
 
 6 - O MNS assinala qualquer réplica produzida como tal, para que não se confunda com o original.
 
-###### Artigo 14.º — Educação
+Artigo 14.º
+
+Educação
 
 1 - O Museu elabora e promove programas de mediação cultural e atividades educativas que visem o acesso ao património cultural e desenvolve estratégias pedagógicas inovadoras e lúdicas, com a finalidade de transmitir conhecimento e captar o interesse das várias faixas etárias para o património cultural.
 
@@ -285,9 +335,13 @@ O MNS deve desenvolver e fomentar o estudo e investigação dos seus bens cultur
 
 4 - O Museu colabora com o sistema de ensino.
 
-### CAPÍTULO IV — ÓRGÃOS PRÓPRIOS DO MNS
+CAPÍTULO IV
 
-###### Artigo 15.º — Diretor(a)
+ÓRGÃOS PRÓPRIOS DO MNS
+
+Artigo 15.º
+
+Diretor(a)
 
 1 - O/A Diretor(a) é o órgão de gestão permanente e representa tecnicamente o MNS, sem prejuízo dos poderes da UMinho, na qual o MNS se integra.
 
@@ -305,7 +359,9 @@ c) Após caducar o seu mandato, o(a) Diretor(a) mantém-se em gestão corrente p
 
 d) À remuneração correspondente à da categoria de origem acresce o suplemento remuneratório previsto para o exercício de cargos de gestão, nos termos legais.
 
-###### Artigo 16.º — Competências do(a) Diretor(a)
+Artigo 16.º
+
+Competências do(a) Diretor(a)
 
 Compete ao/à Diretor(a):
 
@@ -335,7 +391,9 @@ l) Preparar, implementar testar e rever periodicamente o plano de prevenção e 
 
 m) Exercer as funções que lhe sejam delegadas pelo(a) Reitor(a) ou pelo Conselho de Gestão.
 
-###### Artigo 17.º — Conselho Consultivo
+Artigo 17.º
+
+Conselho Consultivo
 
 1 - O Conselho Consultivo é um órgão de aconselhamento da atividade MNS, onde têm assento o/a Diretor(a) e, ainda, em número não inferior a quatro, personalidades ou especialistas de reconhecido mérito, indicadas pelo(a) Diretor(a), que possam dar um contributo para a melhoria e inovação da atividade do Museu.
 
@@ -349,9 +407,13 @@ m) Exercer as funções que lhe sejam delegadas pelo(a) Reitor(a) ou pelo Consel
 
 6 - Em caso de empate nas votações, o/a Presidente tem voto de qualidade.
 
-### CAPÍTULO V — SERVIÇOS DO MNS
+CAPÍTULO V
 
-###### Artigo 18.º — Serviço de Museologia
+SERVIÇOS DO MNS
+
+Artigo 18.º
+
+Serviço de Museologia
 
 1 - Ao Serviço de Museologia compete, designadamente:
 
@@ -419,7 +481,9 @@ a) Serviço de Conservação e Restauro, ao qual compete garantir as condições
 
 b) Serviço de Gestão das Coleções, ao qual compete a correta salvaguarda das coleções através da gestão, inventariação e estudo das peças.
 
-###### Artigo 19.º — Serviço de Educação
+Artigo 19.º
+
+Serviço de Educação
 
 Ao Serviço de Educação compete, designadamente:
 
@@ -429,7 +493,9 @@ b) Participar, juntamente com outras Unidades Culturais e Unidades de Ensino e d
 
 c) Executar as diferentes atividades para todos os públicos, atuais e potenciais, seguindo a política educativa do Museu.
 
-###### Artigo 20.º — Serviço de Comunicação, Promoção e Eventos
+Artigo 20.º
+
+Serviço de Comunicação, Promoção e Eventos
 
 Ao Serviço de Comunicação, Promoção e Eventos compete, designadamente:
 
@@ -447,7 +513,9 @@ f) Criar as condições necessárias, funcionais e técnicas, para a realizaçã
 
 g) Organizar e gerir funcionalmente os eventos do Museu, bem como as cedências de espaços.
 
-###### Artigo 21.º — Serviço de apoio administrativo e financeiro
+Artigo 21.º
+
+Serviço de apoio administrativo e financeiro
 
 Ao Serviço Administrativo e Financeiro compete:
 
@@ -461,7 +529,9 @@ d) Fazer, com a periocidade a definir pelo/a Diretor(a), o ponto de situação n
 
 e) Zelar para que a gestão do MNS se faça de acordo com os princípios de eficiência, eficácia e de transparência administrativas e pelo regime aplicável na UMinho.
 
-###### Artigo 22.º — Serviço Técnico
+Artigo 22.º
+
+Serviço Técnico
 
 1 - Ao Serviço Técnico compete, designadamente:
 
@@ -479,11 +549,15 @@ f) Gerir as instalações e verificar as boas condições do seu funcionamento e
 
 2 - O Serviço Técnico é coordenado por um Coordenador Técnico.
 
-###### Artigo 23.º — Centro de Documentação
+Artigo 23.º
+
+Centro de Documentação
 
 O Centro de Documentação do MNS, especializado em arte, está associado à Unidade de Serviço de Documentação e Bibliotecas da Universidade do Minho (www.sdum.uminho.pt), funcionando segundo as suas regras, previstas no respetivo regulamento, no horário do Museu.
 
-###### Artigo 24.º — Serviço de reprodução de documentos
+Artigo 24.º
+
+Serviço de reprodução de documentos
 
 1 - A reprodução de documentos pode ser efetuada a pedido do(a) utilizador(a), através de fotocópia e de cópia digital, pagas de acordo com tabela própria, revista anualmente.
 
@@ -493,13 +567,17 @@ O Centro de Documentação do MNS, especializado em arte, está associado à Uni
 
 4 - O MNS não efetua a reprodução de documentos sempre que se considere que a mesma poderá representar riscos para a conservação e preservação dos mesmos.
 
-###### Artigo 25.º — Cafetaria
+Artigo 25.º
+
+Cafetaria
 
 1 - A cafetaria do Museu pode ser concessionada a entidades externas à UMinho, nos termos legais.
 
 2 - A entidade responsável pelo funcionamento da cafetaria fica obrigada a permitir a realização dos eventos que o MNS decida promover, no âmbito da sua missão, designadamente, eventos culturais, exposições, ateliers e/ou workshops.
 
-###### Artigo 26.º — Loja do Museu
+Artigo 26.º
+
+Loja do Museu
 
 1 - O MNS possui uma loja onde vende publicações do Museu, bem como outros produtos/recordações alusivos ao Museu e/ou à UMinho.
 
@@ -507,9 +585,13 @@ O Centro de Documentação do MNS, especializado em arte, está associado à Uni
 
 3 - Caberá aos trabalhadores do Museu assistir e assegurar a venda dos objetos expostos.
 
-### CAPÍTULO VI — HORÁRIO E REGIME DE ACESSO AO MNS
+CAPÍTULO VI
 
-###### Artigo 27.º — Horário de abertura ao público
+HORÁRIO E REGIME DE ACESSO AO MNS
+
+Artigo 27.º
+
+Horário de abertura ao público
 
 1 - O Horário de abertura ao público do Museu é o seguinte:
 
@@ -527,7 +609,9 @@ b) Ao sábado: das 14h às 19h.
 
 6 - O(s) horário(s) e alterações aos mesmos devem ser afixados obrigatoriamente no exterior do Museu e divulgados no site do MNS.
 
-###### Artigo 28.º — Ingresso
+Artigo 28.º
+
+Ingresso
 
 1 - Pelo ingresso no Museu é devido o pagamento de uma taxa.
 
@@ -561,7 +645,9 @@ j) Ex-combatentes, mediante a apresentação de cartão.
 
 6 - O disposto no número anterior não inclui programas específicos organizados pelo Museu.
 
-###### Artigo 29.º — Acolhimento ao público
+Artigo 29.º
+
+Acolhimento ao público
 
 1 - As visitas de grupo devem ser previamente marcadas.
 
@@ -569,7 +655,9 @@ j) Ex-combatentes, mediante a apresentação de cartão.
 
 3 - Por motivos imprevistos ou relacionados com a prossecução das atribuições do MNS, este pode encerrar temporariamente exposições ou outras áreas públicas.
 
-###### Artigo 30.º — Livros de honra e de sugestões e reclamações
+Artigo 30.º
+
+Livros de honra e de sugestões e reclamações
 
 1 - Na receção do Museu existem em permanência o livro de honra e de sugestões e um livro de reclamações.
 
@@ -579,7 +667,9 @@ j) Ex-combatentes, mediante a apresentação de cartão.
 
 4 - No caso de ser necessária a intervenção superior, deve estar presente, se possível, o/a Diretor(a).
 
-###### Artigo 31.º — Públicos com diversidade funcional
+Artigo 31.º
+
+Públicos com diversidade funcional
 
 1 - O Museu deve promover ativamente os meios necessários para trabalhar com os mais diversos tipos de público, tendo especial atenção aos que apresentam diversidade funcional.
 
@@ -587,7 +677,9 @@ j) Ex-combatentes, mediante a apresentação de cartão.
 
 3 - O MNS desenvolve atividades direcionadas para estes(as) visitantes.
 
-###### Artigo 32.º — Normas e restrições à entrada
+Artigo 32.º
+
+Normas e restrições à entrada
 
 1 - Os/As visitantes têm acesso apenas às áreas públicas do Museu.
 
@@ -609,7 +701,9 @@ b) De espaço localizado no jardim, onde existe um cinzeiro adequado a prevenir 
 
 8 - Os/As visitantes que não cumpram as regras do MNS ou que perturbem o normal funcionamento dos serviços serão advertidos(as) pelos(as) trabalhadores(as) e, em caso de desobediência, serão convidados a sair.
 
-###### Artigo 33.º — Acesso às coleções e às reservas
+Artigo 33.º
+
+Acesso às coleções e às reservas
 
 1 - O Museu pode facultar o acesso às peças expostas ou guardadas em reserva a todos(as) os(as) que o solicitarem, por escrito, explicando o motivo.
 
@@ -627,7 +721,9 @@ d) Ocorra mau estado de conservação das peças;
 
 e) Outros fatores que possam ser considerados relevantes pelo(a) Diretor(a) ou pelos(as) técnicos(as) da gestão das coleções.
 
-###### Artigo 34.º — Acesso à informação e documentação
+Artigo 34.º
+
+Acesso à informação e documentação
 
 1 - O Museu Nogueira da Silva facultará, sempre que possível, a informação (fotográfica ou documental) aos investigadores(as) e instituições que o solicitarem por escrito.
 
@@ -643,7 +739,9 @@ e) Outros fatores que possam ser considerados relevantes pelo(a) Diretor(a) ou p
 
 7 - A divulgação ou publicação dos trabalhos de investigação resultantes de parcerias carecem da prévia autorização do MNS.
 
-###### Artigo 35.º — Fotografias
+Artigo 35.º
+
+Fotografias
 
 1 - Os/As visitantes do Museu estão proibidos de fotografar no Museu e Galeria, à exceção de espaços em que tal é autorizado, como a cafetaria, o jardim e outros espaços que o Diretor defina.
 
@@ -663,7 +761,9 @@ e) Outros fatores que possam ser considerados relevantes pelo(a) Diretor(a) ou p
 
 9 - A cedência de imagens do arquivo fotográfico/fototeca, rege-se pelas mesmas normas referidas nos números 3, 5, 6 e 7 do presente artigo.
 
-###### Artigo 36.º — Filmagens
+Artigo 36.º
+
+Filmagens
 
 1 - Os/As visitantes do Museu estão, em regra, proibidos(as) de filmar no Museu, à exceção de espaços em que tal é autorizado, como a cafetaria, o jardim e outros espaços que o Diretor defina.
 
@@ -683,7 +783,9 @@ e) Outros fatores que possam ser considerados relevantes pelo(a) Diretor(a) ou p
 
 9 - Os limites máximos de iluminação, admitidos para a realização de filmagens, devem ser definidos com o(a) Diretor(a) do MNS, sempre salvaguardando a integridade e conservação do espólio do MNS.
 
-###### Artigo 37.º — Registo de visitantes
+Artigo 37.º
+
+Registo de visitantes
 
 1 - O MNS deve registar a afluência dos(as) visitantes aos espaços museológicos: espaços expositivos, centro de documentação e reservas.
 
@@ -691,15 +793,23 @@ e) Outros fatores que possam ser considerados relevantes pelo(a) Diretor(a) ou p
 
 3 - Devem ser efetuados, regularmente, estudos dos públicos do Museu, com a finalidade de melhorar os serviços prestados.
 
-### CAPÍTULO VII — COLABORAÇÕES
+CAPÍTULO VII
 
-###### Artigo 38.º — Nós e o Museu, associação dos amigos do Museu
+COLABORAÇÕES
+
+Artigo 38.º
+
+Nós e o Museu, associação dos amigos do Museu
 
 O Museu possui uma Associação dos Amigos Nós e o Museu, com estatutos e regulamento próprios.
 
-### CAPÍTULO VIII — RECURSOS HUMANOS, PATRIMONIAIS E FINANCEIROS
+CAPÍTULO VIII
 
-###### Artigo 39.º — Recursos Humanos
+RECURSOS HUMANOS, PATRIMONIAIS E FINANCEIROS
+
+Artigo 39.º
+
+Recursos Humanos
 
 1 - O MNS dispõe de recursos humanos próprios, pertencentes ao mapa de pessoal da Universidade do Minho, necessários ao seu funcionamento e concretização dos seus objetivos, podendo ainda ser-lhe afetadas outras colaborações temporárias, consideradas imprescindíveis ao cumprimento da sua missão.
 
@@ -707,7 +817,9 @@ O Museu possui uma Associação dos Amigos Nós e o Museu, com estatutos e regul
 
 3 - O MNS acolhe, sempre que se justifique, colaboradores(as), nacionais ou estrangeiros, nomeadamente estudantes de mestrado, de doutoramento ou de pós-doutoramento em Museologia, História, Arte, Conservação e Restauro ou áreas afins, bem como professores(as) e investigadores(as) que se encontrem ligados a projetos de investigação desenvolvidos pela UMinho e por outras Instituições de Ensino, ou com a sua colaboração, pelo período de vigência dos mesmos.
 
-###### Artigo 40.º — Património e Receitas
+Artigo 40.º
+
+Património e Receitas
 
 1 - Constituem recursos patrimoniais afetos ao MNS:
 
@@ -729,7 +841,9 @@ c) As receitas provenientes de contratos de financiamento celebrados com o Estad
 
 4 - A gestão financeira e patrimonial da Unidade deverá seguir as normas e diretrizes aplicáveis às restantes Unidades da Universidade do Minho.
 
-###### Artigo 41.º — Coleções
+Artigo 41.º
+
+Coleções
 
 O Museu Nogueira da Silva incorpora, na atualidade, as seguintes coleções:
 
@@ -767,17 +881,23 @@ p) Coleção Medalhística e Numismática;
 
 q) Fototeca.
 
-###### Artigo 42.º — Bens Classificados
+Artigo 42.º
+
+Bens Classificados
 
 1 - O MNS possui um objeto classificado no [Decreto-Lei n.º 38906](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38906-1952-671600), de 10 de setembro de 1952, conforme nota publicada no Diário do Governo, n.º 108, 2.ª série, de 5 de maio de 1956.
 
 2 - O bem classificado designa-se “Cassone” e consiste numa arca florentina, dourada, com patas de leão e dois dragões em aresta, possivelmente com pinturas do século XV representando a história de Sansão e Dalila na tábua central e duas figuras femininas nas tábuas laterais, com as seguintes medidas 80,5cm x 195cm x 97cm, inventário n.º 4341-MB-79.
 
-###### Artigo 43.º — Protocolos
+Artigo 43.º
+
+Protocolos
 
 O MNS pode propor ao(à) Reitor(a) a celebração de protocolos com instituições públicas ou privadas, com vista ao enriquecimento dos seus fundos, à otimização dos seus serviços e/ou à valorização técnica dos(as) seus(suas) trabalhadores(as).
 
-###### Artigo 44.º — Gestão integrada
+Artigo 44.º
+
+Gestão integrada
 
 1 - Por decisão do(a) Reitor(a), ouvido o Conselho Cultural, pode ser determinada a gestão integrada da Casa Museu de Monção e do Museu Nogueira da Silva.
 
@@ -785,7 +905,9 @@ O MNS pode propor ao(à) Reitor(a) a celebração de protocolos com instituiçõ
 
 3 - Sem prejuízo das atribuições, património e receitas próprias de cada Unidade, no âmbito da gestão integrada, deve ser promovida a otimização dos recursos afetos às duas Unidades Culturais, podendo ser partilhados recursos humanos, bem como ser realizadas atividades, projetos e produção cultural conjuntas.
 
-###### Artigo 45.º — Cedência de espaços
+Artigo 45.º
+
+Cedência de espaços
 
 1 - Salvo situações excecionais, devidamente fundamentadas, a cedência de espaços do Museu a outros serviços da Universidade do Minho, bem como a outras entidades, deve ser solicitada com a antecedência mínima de duas semanas e aprovada pelo(a) Diretor(a) do Museu.
 
@@ -801,20 +923,32 @@ c) O Jardim para cerca de 150 pessoas sentadas.
 
 4 - As atividades a realizar fora de horas da abertura ao público terão sempre que ser acompanhadas por trabalhador(a) do Museu, por razões de segurança e de responsabilização do serviço.
 
-### CAPÍTULO IX — DISPOSIÇÕES FINAIS
+CAPÍTULO IX
 
-###### Artigo 46.º — Dúvidas e casos omissos
+DISPOSIÇÕES FINAIS
+
+Artigo 46.º
+
+Dúvidas e casos omissos
 
 As dúvidas e casos omissos que possam surgir na aplicação do presente regulamento são resolvidas por despacho do(a) Reitor(a), ouvido o(a) Diretor(a).
 
-###### Artigo 47.º — Norma revogatória
+Artigo 47.º
+
+Norma revogatória
 
 É revogado o Regulamento Interno do Museu Nogueira da Silva, aprovado por Despacho RT-67/2006, de 25 de setembro.
 
-###### Artigo 48.º — Revisão do Regulamento
+Artigo 48.º
+
+Revisão do Regulamento
 
 O presente Regulamento deverá ser revisto e atualizado sempre que existam fundamentos que o justifiquem.
 
-###### Artigo 49.º — Entrada em vigor
+Artigo 49.º
+
+Entrada em vigor
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+319722986

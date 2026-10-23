@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/028000000/0006500092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/144-2025-906559929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8dfbcde42143e20de3580cbe3c066285ec9c21808d8d46aeacda5232c83fb903
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af727e7d9a86d831b9c4281159a4bffbc8f10fac03470b38d2cc840280d08a58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:909442689:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:122446601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:906179347:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:31Z'
   warnings: []
   errors: []
 ---
@@ -1062,3 +1070,5 @@ deve ler-se:
 a) A nomeação na categoria de Chefe Principal encontra-se suspensa nos termos do n.º 1 do artigo 75.º do Regulamento Disciplinar da PSP, aprovado pela [Lei n.º 37/2019](https://diariodarepublica.pt/dr/detalhe/lei/37-2019-122446601), de 30 de maio.
 
 5 de fevereiro de 2025. - O Diretor de Recursos Humanos, Superintendente Luís Filipe Jorge de Almeida Guerra.
+
+318656361

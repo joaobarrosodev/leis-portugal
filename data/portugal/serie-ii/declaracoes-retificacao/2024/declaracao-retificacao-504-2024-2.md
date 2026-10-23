@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/136000000/0025300253.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/504-2024-872108083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37bab2e35650ef645b1304f486ab5abf5cebce33dd3cc5305d5177058deea307
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2d1101e4f35bf16ad110fe6f23f7c3bfbf4c1fdaa321c14bab69b745c1438694
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:14Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 175, de 8 de setembro de 2023, o Despacho (extrato) n.º 9277/2023, retifica-se que onde se lê «pelo período de três anos» deve ler-se "pelo período de 90 dias ou enquanto o Procedimento Concursal decorrer".
 
 7 de junho de 2024. – O Vice-Presidente do IPL, Prof. Doutor Manuel Matos.
+
+317830144

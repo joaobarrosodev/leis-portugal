@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/699/2003/07/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-2003-652287
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dadfb2be9d4fdd496d0e1f014c58317b4edff030094be51da6c57dcd3336daba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67ede27dc39eb0dc68e9a2773ae1fb0d731c1dec97db11ade2b5fbc762437ffe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,57 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Denominação de Origem
-- Marca
 - Instituto Nacional da Propriedade Industrial
+- Invenção
+- Marca
+- Marca Registada
 - Patente
 - Propriedade Industrial
-- Marca Registada
-- Invenção
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:452175:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3190447:por
+  label: "Actualizada a Port. pelo DESP-EXT.13031/2004(2ªSérie).14.06.2004.INPI-MECO, DR.IIS [154] de 02.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/13031-2004-3190447
+  date: '2004-06-14'
+- type: amended_by
+  target: pt:dre:1837365:por
+  label: "Actualizada a Port. pelo DESP-EXT.14809/2005(2ªSérie).21.06.2005.INPI-MEI, DR.IIS [128] de 06.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-extracto/14809-2005-1837365
+  date: '2005-06-21'
+- type: amended_by
+  target: pt:dre:1199886:por
+  label: "Actualizado o presente diploma, pelo DESP.12326/2006(2ªSérie).11.05.2006.INPI-MEI, DR.IIS [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/12326-2006-1199886
+  date: '2006-05-11'
+- type: amended_by
+  target: pt:dre:275778:por
+  label: "Alterados os nºs 2º e 3º do presente diploma pela PORT.1430-A/2006.22.12.2006.MFAP, DR.IS [245-Supl] de 22.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1430-a-2006-275778
+  date: '2006-12-22'
+- type: amended_by
+  target: pt:dre:3630235:por
+  label: "Actualizadas as taxas constantes do anexo do presente acto, pela DELIB.1099/2007.18.05.2007.INPI-MEI, DR.IIS [117]\
+    \ de 20.06.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao/1099-2007-3630235
+  date: '2007-05-18'
+- type: amended_by
+  target: pt:dre:642550:por
+  label: "Alterado o nº 2 e aditado um novo item à tabela II anexa ao presente diploma, alterada pela Port 1430-A/2006 de\
+    \ 22-Dez, pela PORT.1298/2007.02.10.2007.MFAP, DR.IS [190] de 02.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1298-2007-642550
+  date: '2007-10-02'
+- type: amended_by
+  target: pt:dre:3397106:por
+  label: "Actualizadas as taxas de propriedade industrial constantes do anexo do presente acto, pela DELIB-EXT.1738/2008.26.06.2008.INIPI-MJ,\
+    \ DR.IIS [122] de 26.06.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/deliberacao-extracto/1738-2008-3397106
+  date: '2008-06-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/36/2003/03/05/p/dre
   label: null
@@ -87,16 +126,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/418/1998/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/418/1998/07/21/p/dre
+- type: cites
+  target: pt:dre:220563:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424107:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:452175:por
+  label: "Revogado o presente diploma, alterado pelas Ports. 1430-A/2006 de 22-Dez e 1298/2007 de 02-Out, pela PORT.1098/2008.30.09.2008.MFAP,\
+    \ DR.IS [189] de 30.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1098-2008-452175
+  date: '2008-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:45Z'
   warnings: []
   errors: []
 ---
@@ -139,22 +192,22 @@ TABELA I
 
 Marcas, nomes ou insígnias de estabelecimento, logótipos, recompensas, denominações de origem ou indicações geográficas
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
 
 TABELA II
 
 Patentes de invenção, certificados complementares de protecção, modelos de utilidade, topografias dos produtos e produtos semicondutores
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
 
 TABELA III
 
 Desenhos ou modelos
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
 
 TABELA IV
 
 Taxas comuns
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)](https://files.diariodarepublica.pt/1s/2003/07/175b00/45204526.pdf)

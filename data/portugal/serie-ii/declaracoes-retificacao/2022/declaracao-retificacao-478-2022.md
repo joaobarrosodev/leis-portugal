@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/101000000/0048700487.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/478-2022-183962224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5f271ba439c130a7a528dd71d8abb0079e560c2fcbe900af0c8fc2c6ffbfdda
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29562197b3586c7a5a520f24c4efa19354c28c8561d3bb1e76c9afe99a272bcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:00Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por ter sido publicado com uma inexatidão, no ponto 1.3, onde se lê «Autorizar, considerando o disposto no n.º 2 do artigo 109 do Código dos Contratos Públicos (CCP)» deve ler-se «Autorizar, considerando o disposto no n.º 1 do artigo 109.º do Código dos Contratos Públicos (CCP)».
 
 24 de março de 2022. - O Conselho de Administração: Ana Maria Franco Simões, presidente - Teresa Paula Vigia Bento Múrias, vogal - Luís Manuel Belmonte Azinheira, vogal - Mário Pereira Gonçalves, vogal.
+
+315322668

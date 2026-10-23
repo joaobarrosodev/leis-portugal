@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/937/2003/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/937-2003-510437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c56ec7caa64d35e2d7b9744e95152cd1ed4302051090653f988322496c0037c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de849c85c8bd72a6cff384037e5cd198b1e273af432a383c8951a2da157bfb1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,16 +69,22 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Financiamento
+- Ifadap
+- Medida Agris
+- Programa AGRO
 - Projeto de Investimento
 - QCA III
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:583065:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251625:por
+  label: "Tornado extensivo o presente regime aos casos de suspensão de candidaturas previsto na Port 331/2004 de 31-Mar,\
+    \ pela PORT.562/2004.26.05.2004.MADRP, DR.IS-B [123] de 26.05.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/562-2004-251625
+  date: '2004-05-26'
 - type: cites
   target: celex:31999R1260
   label: null
@@ -90,13 +96,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:12Z'
   warnings: []
   errors: []
 ---
@@ -121,4 +127,4 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 3.º Os investimentos a que se refere o presente diploma são iniciados por conta e risco dos promotores, ficando a respectiva elegibilidade sujeita ao disposto na regulamentação específica das medidas e acções em causa em vigor à data do levantamento da suspensão.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Agosto de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Agosto de 2003.

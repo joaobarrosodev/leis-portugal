@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/223000000/0021500215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/853-2023-224429795
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ecf0bbdcc9569495648c238b06068fe2b4bad54a95a9fde7f7a1656795d4455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b4cf8180133ec38080319cd221fc6a8bf304dd749ecd377de50817d8cc877d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:213069333:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:23Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +94,11 @@ Onde se lê:
 
 QUADRO N.º 3
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade<br>curricular<br>opcional n.º<br>(0) | Unidade curricular<br>(1) | Área<br>científica<br>(2) | Ano<br>curricular<br>(3) | Organização<br>do ano curricular<br>(4) | Horas de trabalho | Créditos<br>(7) | Observações<br>(8) |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular opcional n.º (0) | Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos (7) | Observações (8) | Observações (8) |
-| Unidade curricular opcional n.º (0) | Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos (7) | Observações (8) | Observações (8) |
-| Unidade curricular opcional n.º (0) | Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos (7) | Observações (8) | Observações (8) |
+| Total<br>(5) | Contacto<br>(6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais de contacto |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Opção 1... | Sociologia e Políticas Ambientais... | CS | 1.º | 1.º semestre... | 135,0 |  | 27,0 |  |  |  |  | 18,0 |  | 45,0 | 5,0 |  | » |
 
 deve ler-se:
@@ -103,12 +107,14 @@ deve ler-se:
 
 QUADRO N.º 3
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade<br>curricular<br>opcional n.º<br>(0) | Unidade curricular<br>(1) | Área<br>científica<br>(2) | Ano<br>curricular<br>(3) | Organização<br>do ano curricular<br>(4) | Horas de trabalho | Créditos<br>(7) | Observações<br>(8) |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular opcional n.º (0) | Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos (7) | Observações (8) | Observações (8) |
-| Unidade curricular opcional n.º (0) | Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Contacto (6) | Créditos (7) | Observações (8) | Observações (8) |
-| Unidade curricular opcional n.º (0) | Unidade curricular (1) | Área científica (2) | Ano curricular (3) | Organização do ano curricular (4) | Total (5) | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos (7) | Observações (8) | Observações (8) |
+| Total<br>(5) | Contacto<br>(6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais de contacto |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Opção 1... | Sociologia e Políticas Ambientais... | CS | 1.º | 1.º semestre... | 135,0 |  | 27,0 |  |  |  |  | 18,0 |  | 45,0 | 5,0 |  |  |
 | Opção 1... | Metodologias e Estratégias de Intervenção em Educação Ambiental. | CE | 1.º | 1.º semestre... | 135,0 |  | 27,0 |  |  |  |  | 18,0 |  | 45,0 | 5,0 |  | » |
 
 27 de outubro de 2023. - O Presidente, Orlando Isidoro Afonso Rodrigues.
+
+317007305

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/119000000/0048100481.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/429-2024-869609409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0562af122229a08e942aa716ea7d2bc8d6862da85194af38d61effce74ca4d4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e7690d6845178fc3947202e58cc074dc3aec5988f1e44717bbb9a3abbc3c63f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:863194159:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:48Z'
   warnings: []
   errors: []
 ---
@@ -106,3 +110,5 @@ Referência B - Planeamento e/ou Proteção Civil, código 581 - Arquitetura e u
 3 - Assim, em exclusivo para esta referência B - Planeamento e Proteção Civil, código 581 - Arquitetura e urbanismo e/ou código 861 - Proteção de Pessoas e Bens, por referência à Classificação Nacional de Áreas de Educação e Formação (CNAEF), prorroga-se o prazo por mais 10 dias úteis para apresentação de candidaturas, contados a partir do dia seguinte à data da republicação integral desta declaração de retificação na BEP e na página eletrónica do Município de Mira.
 
 27 de maio de 2024. - A Vereadora, Madalena Isabel Colaço dos Santos, Dr.ª
+
+317747469

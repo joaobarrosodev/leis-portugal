@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 230/2004, 1º Suplemento, Série I-B de 2004-09-29
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6174-(10) a 6174-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/230b01/00100010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1264-h/2004/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1264-h-2004-616057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7f3783b06247ed6f220dee4ec0aef41ec16f79d776553471ab320119dcc14a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8cbe7537f9aa29d6eade4d79672970e1ccf6383e82364c889ac4dac1d5653c65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:608231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455671:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 454/2002, de 23-Abr, alterada pelo presente\
+    \ diploma, pela PORT.847/2008.12.08.2008.MADRP, DR.IS [155] de 12.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/847-2008-455671
+  date: '2008-08-12'
+- type: amended_by
+  target: pt:dre:608231:por
+  label: "Corrigido o 1º parágrafo da Port 847/2008, de 12-Ago, que anexa vários prédios rústicos à zona de caça concessionada\
+    \ pela Port 454/2002, de 23-Abr, alterada pelo presente diploma, pela PORT.496/2009.11.05.2009.MADRP, DR.IS [90] de 11.05.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/496-2009-608231
+  date: '2009-05-11'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/454/2002/04/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/454/2002/04/23/p/dre
+- type: cites
+  target: pt:dre:288777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:48Z'
   warnings: []
   errors: []
 ---

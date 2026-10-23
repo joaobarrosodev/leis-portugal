@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 230/2004, 1º Suplemento, Série I-B de 2004-09-29
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6174-(36) a 6174-(37)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/230b01/00360037.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1264-bo/2004/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1264-bo-2004-616021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-10-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e1dc91fcf0462ee1a7e41799aad98bc6b5f33f9b3f1ced29c6c02f9b76fed9f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03135d15b4b86d496e574ac26a3acc7bf850103f678a3ed3cf5a3b7d6c2e7535
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:307661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:386835:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pelo presente diploma, pela PORT.19/2008.10.01.2008.MAOTDR,\
+    \ DR.IS [7] de 10.01.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2008-386835
+  date: '2008-01-10'
+- type: amended_by
+  target: pt:dre:492220:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterado pela Port 19/2008,\
+    \ de 10-Jan, pela PORT.712/2009.07.07.2009.MADRP, DR.IS [129] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/712-2009-492220
+  date: '2009-07-07'
+- type: amended_by
+  target: pt:dre:307661:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa dos Fitos, concessionada pelo presente diploma, alterado\
+    \ pelas Ports 19/2008, de 10-Jan e 712/2009 de 07-Jul, pela PORT.1109/2010.27.10.2010.MADRP, DR.IS [209] de 27.10.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1109-2010-307661
+  date: '2010-10-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +113,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
+- type: cites
+  target: pt:dre:275635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:33Z'
   warnings: []
   errors: []
 ---

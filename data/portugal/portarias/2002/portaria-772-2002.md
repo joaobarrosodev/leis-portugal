@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/772/2002/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/772-2002-142714
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bcbe04561acf3b61f07d36853696ce390f75ebcdd043d8d804f7567aeb9cd6f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 576a98a890835c79e0563db60756c848987ced0d7d1b4c06ddd3759f9dd08778
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,19 @@ relationships:
   target: pt:dre:520391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187506:por
+  label: "Alterada a redacção dada ao art. 3.º da Port 705-A/2000, de 31-Ago DR.IS-B [201]Supl, pela PORT.191/2003.2003.02.22.MF\
+    \ DR.IS-B [45]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/191-2003-187506
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:626048:por
+  label: "Alterados os arts 3º e 5º-A do Regulamento Orgânico e de Funcionamento da Direcção-Geral das Alfândegas e dos Impostos\
+    \ Especiais sobre o Consumo, aprovado pela Port 705-A/2000 de 31-Ago, na redacção do presente diploma, pela PORT.1067/2004.26.08.2004.MF,\
+    \ DR.IS-B [201] de 26.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2004-626048
+  date: '2004-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/315/2001/12/10/p/dre
   label: null
@@ -87,16 +100,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/705-a/2000/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/705-a/2000/08/31/p/dre
+- type: cites
+  target: pt:dre:570293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576276:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586390:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520391:por
+  label: "Revogada a Portaria 705-A/2000, de 31 de Agosto, na redacção do presente diploma, pela PORT.349/2007.30.03.2007.MFAP,\
+    \ DR.IS [64] com excepcção do disposto no seu artigo 29.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2007-520391
+  date: '2007-03-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:17Z'
   warnings: []
   errors: []
 ---
@@ -165,4 +196,4 @@ c) Alimentar a base de dados relativa ao licenciamento do comércio externo de p
 
 d) Definir procedimentos e elaborar instruções para a aplicação da legislação relativa ao licenciamento.»
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 7 de Junho de 2002.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 7 de Junho de 2002.

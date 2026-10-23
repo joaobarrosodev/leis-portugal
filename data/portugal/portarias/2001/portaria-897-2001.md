@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/897/2001/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/897-2001-378941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e29bebdc8112a8d24b122cd18308d82b9c032b45aaee60170850f2e9a4ab02cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7db7fe8885a5dbf267a73ef894f6a43abe75831fa7b411930b85fa71170ead42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:604797:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271261:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça atribuída pela Port 561/92, de\
+    \ 24-Jun, alterada pelo presente diploma, pela PORT.718/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/718-2004-271261
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:284112:por
+  label: "Renovada, por um período de dez anos, a concessão da zona de caça turística atribuída Port 561/92 de 24-Jun, na\
+    \ redacção do presente diploma, pela PORT.1033-L/2004.10.08.2004.MECO, DR.IS-B [187-Supl] de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-l-2004-284112
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:604797:por
+  label: "Desanexados vários prédios rústicos da zona de caça concessionada pela Port 561/92, de 24-Jun, alterada pelo presente\
+    \ diploma, pela PORT.239/2009.05.03.2009.MAOTDR, DR.IS [45] de 05.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/239-2009-604797
+  date: '2009-03-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -94,16 +112,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/561/1992/06/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/561/1992/06/24/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:19Z'
   warnings: []
   errors: []
 ---

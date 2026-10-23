@@ -3,7 +3,8 @@ schema_version: '1.0'
 id: pt:dre:890505026:por
 title: Declaração de Retificação n.º 845-A/2024/2
 short_title: null
-summary: Retifica o Despacho n.º 6594/2024, publicado no Diário da República, 2.ª série, n.º 112, de 12 de junho de 2024.
+summary: Retifica o Despacho n.º 6594/2024, publicado no  Diário   da   República,  2.ª série, n.º 112, de 12 de junho de
+  2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -24,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/196000001/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/845-a-2024-890505026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 113f2ab873f6391aaa90c90e6108183ea7c3b8bbf542a750b9fad93259970415
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 840b95e317d94a391fe35344fcaede0dce117ff4b18880ce1d9e4fe6baacf95f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:15Z'
   warnings: []
   errors: []
 ---
@@ -143,3 +144,5 @@ c) Em 2026 - €2.000.000,00;
 A presente retificação será publicada no Diário da República.
 
 8 de outubro de 2024. - O Reitor, Prof. Doutor Paulo Jorge dos Santos Gonçalves Ferreira.
+
+318205369

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/544/2002/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/544-2002-153124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 823e154d2146a0851d0142d80210d24d02764416405931dcb83e5554cc236d29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a796729686f922caada3e252fde7b1f188d4ca76c0165a0f2ac5d004d6022a99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,31 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cartão de Identificação
-- Pessoal Dirigente
-- Secretaria Geral
+- Funcionário Público
 - Membros do Governo
 - Ministério das Obras Públicas Transportes e Habitação
 - Pessoal de Gabinete
-- Funcionário Público
+- Pessoal Dirigente
+- Secretaria Geral
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/120/2002/05/03/p/dre
+- type: cites
+  target: pt:dre:371035:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:51Z'
   warnings: []
   errors: []
 ---
@@ -126,6 +130,6 @@ Modelo 2 - para uso do restante pessoal dos serviços e organismos do Ministéri
 
 10.º Em caso de extravio, destruição ou deterioração dos cartões, pode ser emitida uma segunda via, de que se fará indicação expressa.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira, em 13 de Maio de 2002.**
+O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira, em 13 de Maio de 2002.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2002/05/124b00/47614762.pdf)

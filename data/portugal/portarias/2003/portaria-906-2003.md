@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/906/2003/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/906-2003-633163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 906278f543a84fa781acc0bd63c0ec39c7040d4d93602abe3de8da2b45bc64aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b678218026da3c37c517c81a6a928a5dd3566193ad9ec1966a5444aee931c602
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura
 - Exploração Agrícola
+- Financiamento
 - Política Agrícola Comum
-- Regulamento de Aplicação da Medida Nº5-prevenção e Restabelecimento do Potencial de Produção Agrícola
 - Produção Agrícola
 - Programa AGRO
-- Agricultura
+- Regulamento de Aplicação da Medida Nº5-prevenção e Restabelecimento do Potencial de Produção Agrícola
 - Subsídio não Reembolsável
 relationships:
 - type: cites
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/84/2001/02/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/84/2001/02/08/p/dre
+- type: cites
+  target: pt:dre:146964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:319913:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:57Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +152,9 @@ Ao abrigo do disposto no n.º 2 do artigo 22.º do [Decreto-Lei n.º 163-A/2000]
 
 4 - A execução dos projectos poderá ter início antes da data de confirmação a que se refere a alínea c) do número anterior.
 
-###### Artigo 4.º — [...]
+Artigo 4.º
+
+[...]
 
 1 - ...
 
@@ -152,8 +170,10 @@ b) ...
 
 c) ...
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 As candidaturas são formalizadas junto do IFADAP, em formulário próprio, devidamente preenchido, e acompanhadas dos elementos indicados nas respectivas instruções.»
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 11 de Agosto de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 11 de Agosto de 2003.

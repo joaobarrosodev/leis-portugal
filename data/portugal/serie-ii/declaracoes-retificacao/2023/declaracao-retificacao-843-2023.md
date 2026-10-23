@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/214000000/0032900361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/843-2023-223826422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28816d21007a0588a9df2111bc468d71e3ba4d7555bb9d2d494f3e2d5e6c9e86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 006aa6248323f9044c406b25af15446439d88ab6cd4ada89b8da520b714ac644
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247037:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
 article_structure:
-  article_count: 43
+  article_count: 47
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:22Z'
   warnings: []
   errors: []
 ---
@@ -234,7 +274,9 @@ b) Tipo 2 - trânsito local, a restante malha urbana.
 
 ### CAPÍTULO II — Procedimento para a realização de intervenções no espaço público
 
-#### SECÇÃO I — Artigo 5.º
+#### SECÇÃO I
+
+###### Artigo 5.º
 
 Licença
 
@@ -334,7 +376,9 @@ c) Se as obras estiverem suspensas ou abandonadas por período superior a 15 dia
 
 2 - Em caso de caducidade poderá o interessado requerer novo licenciamento, que seguirá a tramitação prevista no Regulamento.
 
-#### SECÇÃO II — Artigo 13.º
+#### SECÇÃO II
+
+###### Artigo 13.º
 
 Obras de escassa relevância em passeio
 
@@ -396,7 +440,9 @@ k) Termo de responsabilidade do técnico autor do projeto.
 
 2 - Dependendo das características do local, nomeadamente trabalhos que se realizem em zona de intensa circulação de peões, de passeios de largura reduzida ou com volume de trânsito automóvel acentuado, poderão ser exigidas medidas de garantia de adequada proteção à circulação de peões, nas condições a definir pelo DOMH.
 
-#### SECÇÃO III — Artigo 15.º
+#### SECÇÃO III
+
+###### Artigo 15.º
 
 Obrigações do requerente
 
@@ -508,7 +554,9 @@ d) Coletores com secção retangular em alvenaria (vulgo cascões);
 
 ### CAPÍTULO IV — Execução das obras e trabalhos
 
-#### SECÇÃO I — Artigo 24.º
+#### SECÇÃO I
+
+###### Artigo 24.º
 
 Identificação dos intervenientes
 
@@ -966,7 +1014,8 @@ d) As plantas de localização deverão ser emitidas à escala 1:2000.
 
 1.1 - Salvo indicação expressa em contrário, a abertura, aterro e compactação de vala deverá obedecer ao seguinte esquema:
 
-![](https://files.diariodarepublica.pt/images/223826422/223826342.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826342.png) |
+| --- |
 
 1.2 - Os solos de má qualidade deverão ser substituídos até ao fundo da vala e na faixa de rodagem ou estacionamento, até à profundidade mínima de 1,20 m quando a cota do fundo da vala seja superior;
 
@@ -990,15 +1039,18 @@ b) Compactação: será efetuado por processo mecânico com equipamento compatí
 
 2.1 - Nas entradas de garagens que atravessem passeios, a reposição dos pavimentos, respetivas bases e altimetrias deverá garantir a necessária adequação ao tipo de circulação previsto, nomeadamente pedonal, podendo a estrutura, revestimento e a respetiva estereotomia ser indicados pela CMO em substituição dos existentes.
 
-![](https://files.diariodarepublica.pt/images/223826422/223826343.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826343.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223826422/223826344.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826344.png) |
+| --- |
 
 2.2 - Os tubos de queda de águas pluviais exteriores ao edifício deverão ser ligados à rede de drenagem, conforme o n.º 1.3 do artigo 14.º e na impossibilidade referida na alínea i), a sua instalação deverá obedecer ao esquema seguinte:
 
 3 - Pavimentos betuminosos - normas específicas de execução e materiais a utilizar:
 
-![](https://files.diariodarepublica.pt/images/223826422/223826345.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826345.png) |
+| --- |
 
 3.1 - Salvo indicação em contrário, são aplicados os seguintes materiais na reconstrução de pavimentos:
 
@@ -1014,13 +1066,16 @@ c) Nas misturas betuminosas da camada de desgaste/revestimento não é admitida 
 
 Planta tipo vala longitudinal ao eixo da via
 
-![](https://files.diariodarepublica.pt/images/223826422/223826346.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826346.png) |
+| --- |
 
 Planta tipo vala transversal ao eixo da via
 
-![](https://files.diariodarepublica.pt/images/223826422/223826347.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826347.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/223826422/223826348.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826348.png) |
+| --- |
 
 3.4 - O esquema tipo para reconstrução do perfil é constituído por:
 
@@ -1226,11 +1281,12 @@ g) Com a conclusão dos trabalhos é retirada a placa referida no artigo 24.º d
 
 9.2 - Na impossibilidade de serem garantidos os afastamentos preconizados, deverá atempadamente informada a CMO e articulada posição com as concessionárias das restantes infraestruturas.
 
-![](https://files.diariodarepublica.pt/images/223826422/223826349.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826349.png) |
+| --- |
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Largura dos passeios(m) | 0,6 | 0,7 | 0,8 | 0,9 | 1,0 | 1,1 | 1,2 | 1,3 | 1,4 | 1,5 | 1,6 | 1,7 | 1,8 | 1,9 | 2,0 | 2,1 | 2,2 | 2,3 | 2,4 |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Largura dos passeios(m) | Largura dos passeios(m) | 0,6 | 0,7 | 0,8 | 0,9 | 1,0 | 1,1 | 1,2 | 1,3 | 1,4 | 1,5 | 1,6 | 1,7 | 1,8 | 1,9 | 2,0 | 2,1 | 2,2 | 2,3 | 2,4 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Afastamento ... | A | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,4 | 0,5 | 0,5 | 0,5 | 0,5 | 0,5 | 0,5 |
 |  | B |  |  |  |  | 0,8 | 0,8 | 0,8 | 0,8 | 0,8 | 0,8 | 0,8 | 0,8 | 0,8 | 0,9 | 0,9 | 0,9 | 0,9 | 0,9 | 0,9 |
 |  | C |  |  |  |  |  |  |  | 1,1 | 1,1 | 1,1 | 1,1 | 1,1 | 1,1 | 1,3 | 1,3 | 1,3 | 1,4 | 1,4 | 1,4 |
@@ -1293,7 +1349,8 @@ d) O corredor pedonal não se localizar no passeio.
 
 Palas de proteção
 
-![](https://files.diariodarepublica.pt/images/223826422/223826350.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826350.png) |
+| --- |
 
 3.6 - Caraterísticas gerais das palas de proteção:
 
@@ -1337,10 +1394,13 @@ g) Ser mantido em bom estado de conservação.
 
 Planta
 
-![](https://files.diariodarepublica.pt/images/223826422/223826351.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223826422/223826351.png) |
+| --- |
 
 4 - Acesso a atividades dentro do edifício - nos casos em que a realização da obra, coexiste com o funcionamento de atividades como comércio, serviços ou habitação, não é permitida a colocação de tapumes. Nestes casos deverão adotar-se soluções que mantenham desimpedidos os acessos a essas atividades.
 
 5 - Vedação de andaimes - os andaimes devem ser vedados com rede de malha fina ou tela apropriada, devidamente fixadas e mantidas em bom estado de conservação e limpeza, de modo a impedir a saída para o exterior da obra de qualquer elemento suscetível de pôr em causa a higiene e segurança dos utentes da via pública.
 
 A rede ou tela referidas, devem ser de cor clara e uniforme, preferencialmente branca.
+
+316929296

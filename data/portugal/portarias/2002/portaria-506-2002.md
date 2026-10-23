@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/506/2002/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-2002-364365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ed93aaa9d52dd42c2f27854db6c7366d2857b16c52c80dde9eac416505c73e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12cef4929c9c9b463670d3bc1e52187f32d3e3e2e0f53973611e0b1d98bd729e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira de Investigação Científica
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
 - Quadro de Pessoal
 relationships:
 - type: cites
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667357:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:37Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +119,7 @@ Manda o Governo, pelos Ministros das Finanças, do Equipamento Social, da Ciênc
 
 Em 28 de Março de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
 ## ANEXO — Quadro do pessoal pertencente à carreira de investigação científica do Laboratório Nacional de Engenharia Civil
 

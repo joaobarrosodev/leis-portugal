@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/024000000/0013900142.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/80-2024-840061624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0658fc0c77bfe4f8d336a848ac2e3c10881e0c7903f8b452b5986d7f78747e3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3923bb1a13bc1384d4a6f1de5bce125fa55d2a5c8045fe5ad024ecfa43b99f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:166300890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442682884:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:00Z'
   warnings: []
   errors: []
 ---
@@ -129,17 +141,21 @@ deve ler-se:
 
 «Tabela 105 - Eficiência de referência dos sistemas para edifícios de comércio e serviços
 
-![](https://files.diariodarepublica.pt/images/840061624/839926267.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/840061624/839926267.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/840061624/839926268.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/840061624/839926268.png) |
+| --- |
 
 deve ler-se:
 
 «Tabela 105 - Eficiência de referência dos sistemas para edifícios de comércio e serviços
 
-![](https://files.diariodarepublica.pt/images/840061624/839926269.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/840061624/839926269.png) |
+| --- |
 
-![](https://files.diariodarepublica.pt/images/840061624/839926270.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/840061624/839926270.png) |
+| --- |
 
 7 - No n.º 23 do anexo do [Despacho n.º 12935-B/2023](https://diariodarepublica.pt/dr/detalhe/despacho/12935-b-2023-442682884), de 15 de dezembro, onde se lê:
 
@@ -158,3 +174,5 @@ deve ler-se:
 «Tabela 169 - Instalações de cuidados de saúde - salas de autópsia e morgues»
 
 22 de janeiro de 2024. - O Diretor-Geral, Jerónimo Viana Borges Meira da Cunha.
+
+317277547

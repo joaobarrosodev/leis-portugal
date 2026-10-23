@@ -3,8 +3,7 @@ schema_version: '1.0'
 id: pt:dre:859210582:por
 title: Declaração de Retificação n.º 245/2024/2
 short_title: null
-summary: Retifica o Aviso n.º 5543/2024/2, publicado no <em>Diário da República</em>, 2.ª série, n.º 53, de 14 de março de
-  2024.
+summary: Retifica o Aviso n.º 5543/2024/2, publicado no Diário da República, 2.ª série, n.º 53, de 14 de março de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/067000000/0032600326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/245-2024-859210582
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcbf1d5a328df153a9f515301a9191f7f206ee3cba61825859fec2389ad4cced
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 068f7e8e84ad175d7fd028184a0817cf2419e8a4add1f26b6ba6d9863b848a0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:42Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +85,5 @@ validation:
 No Aviso n.º 5543/2024/2, publicado no Diário da República, 2.ª série, n.º 53, de 14 de março de 2024, onde se lê "9 de junho de 2023" deve ler-se "20 de fevereiro de 2024".
 
 14 de março de 2024. - O Chefe da Divisão de Gestão Administrativa e Recursos Humanos, Joaquim José Lopes Cadeirinhas.
+
+317482947

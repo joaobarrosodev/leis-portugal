@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/692/2002/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/692-2002-139209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b2a903a512af5fc29b28e47973ce32e3b74689a692e6798fe725eb0f2068744b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 646df7500c13ac5002b97d754e49ea1877d8ce686ce7791985051c3a0f126bb8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
-- Escola Superior de Tecnologia e Gestão
 - Beja
+- Escola Superior de Tecnologia e Gestão
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:203782:por
@@ -91,16 +91,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/466-g/2000/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/466-g/2000/07/21/p/dre
+- type: cites
+  target: pt:dre:203474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:203782:por
+  label: "Revogada, findo o processo de transição referido nos termos do nº. 1, pela PORT.34/2006.05.01.2006.MCTES, DR.IS-B\
+    \ [4] de 05.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/34-2006-203782
+  date: '2006-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:51Z'
   warnings: []
   errors: []
 ---
@@ -173,16 +207,16 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)](https://files.diariodarepublica.pt/1s/2002/06/141b00/49124913.pdf)

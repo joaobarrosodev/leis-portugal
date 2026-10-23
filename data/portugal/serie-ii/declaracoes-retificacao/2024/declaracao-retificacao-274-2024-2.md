@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/072000000/0066800668.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/274-2024-860143539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ec15cfdc896930eb340d5d66f461d315b1d408a435ffa490bb10990319dd97e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b30050f43f9f7dc684a5c31b793496ba7270c69257b849d085aa7313a536f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:54Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Torna-se público, para os devidos efeitos que no Aviso n.º 6584/2024/2, public
 No n.º 1, onde se lê "na modalidade de contrato de trabalho em funções públicas a termo resolutivo certo, por 1 ano, renovável, ao abrigo do disposto no artigo 60.º do mesmo diploma legal" deve ler-se "na modalidade de contrato de trabalho em funções públicas a termo resolutivo certo, pelo prazo de 27 meses".
 
 2 de abril de 2024. - O Presidente da Câmara, Frederico de Oliveira Castro.
+
+317556568

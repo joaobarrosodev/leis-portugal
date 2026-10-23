@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/065b00/25082509.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/288/2002/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-2002-264144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1eca898bc1974f813b18b152ab3b193f6b906e5dfb0a63361bb78c2b89cd43f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4a278c11b2366bfe3eb64d89126bb1815c5d99d61133c73f83bc11bff86924
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:453500:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:517474:por
+  label: "Determinada a manutenção em vigor das taxas aprovadas pelo presente diploma, pelo DEC LEI.154/2004.30.06.2004.MADRP,\
+    \ DR.IS-A [152] de 30.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2004-517474
+  date: '2004-06-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/268/2000/10/24/p/dre
   label: null
@@ -91,16 +97,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/798/1998/09/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/798/1998/09/22/p/dre
+- type: cites
+  target: pt:dre:241664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497438:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531450:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:453500:por
+  label: "Revogada a partir de 01.01.2009 pela PORT.984/2008.02.09.2008.MADRP, DR.IS [169] de 02.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-2008-453500
+  date: '2008-09-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:16Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +168,7 @@ c) [Portaria n.º 798/98](https://diariodarepublica.pt/dr/detalhe/portaria/798-1
 
 Em 18 de Dezembro de 2001.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Agricultura.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado da Agricultura.
 
 ## ANEXO
 

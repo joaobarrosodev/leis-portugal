@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118/2004/02/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2004-591329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7753784f340e90c5f3e7d410513e4a84e5af0363b40368f62a7c8036a45d46ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1661838ab61bcf8545016b1e0c5e71fc022691fe4dcaa0b371c055c0bbe3234
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,16 @@ reuse:
 subjects:
 - Comissão de Protecção de Crianças e Jovens
 - Criação de Serviços
+- Porto
 - Proteção à Infância
 - Protecção à Juventude
-- Porto
 relationships:
+- type: amended_by
+  target: pt:dre:106966937:por
+  label: Alterada a competência territorial da Comissão de Proteção de Crianças e Jovens do Porto Ocidental criada pelo presente
+    diploma pelo(a) Portaria n.º 156/2017 - Diário da República n.º 87/2017, Série I de 2017-05-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/156-2017-106966937
+  date: '2017-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/332-b/2000/12/30/p/dre
   label: null
@@ -84,16 +90,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/147/1999/09/01/p/dre
+- type: cites
+  target: pt:dre:315502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581619:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:51Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +172,4 @@ m) Os técnicos que venham a ser cooptados pela Comissão.
 
 Em 5 de Janeiro de 2004.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/068000000/0019700198.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/250-2024-859507383
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15391cde162b07a7f2d0a95397578b6dc46be6961c7b54252878f977f2a70524
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1baf4f39b517209b05a0d39c37e5f94ad42da197326c18f14674e6419ac1668
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:44Z'
   warnings: []
   errors: []
 ---
@@ -86,36 +86,38 @@ Para os devidos efeitos, declara-se que o Despacho RT/C-123/2023, de 19 de dezem
 
 No quadro 1, estrutura curricular, onde se lê:
 
-| Área científica | Sigla | Créditos | Créditos |
+| Área científica | Sigla | Créditos |  |
 | --- | --- | --- | --- |
-| Área científica | Sigla | Obrigatórios | Opcionais |
+| Obrigatórios | Opcionais |  |  |
 | Sistemas de Informação | SI | 6 |  |
 
 deve ler-se:
 
-| Área científica | Sigla | Créditos | Créditos |
+| Área científica | Sigla | Créditos |  |
 | --- | --- | --- | --- |
-| Área científica | Sigla | Obrigatórios | Opcionais |
+| Obrigatórios | Opcionais |  |  |
 | Tecnologias e Sistemas de Informação | TSI | 6 |  |
 
 E no quadro 2, plano de estudos, onde se lê:
 
-| Unidades Curriculares | Área científica | Duração | ECTS | Total | T | TP | PL | TC | S | E | OT | O | Síncrono | Autónomo | Assíncrono | Prático |
+| Unidades Curriculares | Área<br>científica | Duração | ECTS | Componente Presencial | Componente em e-learning |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidades Curriculares | Área científica | Duração | ECTS | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente Presencial | Componente em e-learning | Componente em e-learning | Componente em e-learning | Componente em e-learning |
-| Unidades Curriculares | Área científica | Duração | ECTS | Total | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho |
+| Total | Horas de trabalho | Horas de trabalho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Síncrono | Autónomo | Assíncrono | Prático |  |  |  |  |  |
 | Governação Digital na Administração Pública | SI | 1.º Semestre | 6 | 168 | 6 |  |  |  |  |  |  | 60 | 18 | 84 |  |  |
 | Trabalho em Grupo e Tutoria | AP | 2.º Semestre | 6 | 168 | 6 |  |  |  |  |  | 8 |  | 18 | 136 |  |  |
 
 deve ler-se:
 
-| Unidades curriculares | Área científica | Duração | ECTS | Total | T | TP | PL | TC | S | E | OT | O | Síncrono | Autónomo | Assíncrono | Prático |
+| Unidades curriculares | Área<br>científica | Duração | ECTS | Componente presencial | Componente em e-learning |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidades curriculares | Área científica | Duração | ECTS | Componente presencial | Componente presencial | Componente presencial | Componente presencial | Componente presencial | Componente presencial | Componente presencial | Componente presencial | Componente presencial | Componente em e-learning | Componente em e-learning | Componente em e-learning | Componente em e-learning |
-| Unidades curriculares | Área científica | Duração | ECTS | Total | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho |
+| Total | Horas de trabalho | Horas de trabalho |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Síncrono | Autónomo | Assíncrono | Prático |  |  |  |  |  |
 | Governação Digital na Administração Pública | TSI | 1.º Semestre | 6 | 168 | 6 |  |  |  |  |  |  | 60 | 18 | 84 |  |  |
 | Trabalho em Grupo e Tutoria | AP | 2.º Semestre | 6 | 168 | 10 |  |  |  |  |  | 8 |  | 18 | 132 |  |  |
 
 A presente declaração de retificação produz efeitos à data da publicação do referido despacho.
 
 11 de março de 2024. - O Reitor, Rui Vieira de Castro.
+
+317483781

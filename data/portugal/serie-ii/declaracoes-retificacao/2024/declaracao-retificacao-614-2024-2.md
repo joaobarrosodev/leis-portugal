@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/156000000/0016600166.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/614-2024-876627330
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c48b0c0fff80116eb83eea580e99a5a121462953d1f0be2935e084cab3fc6aaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17667d4486f83644931a33ff785d7b1e774037d238aba5f0a5bba1c537bf0bc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:54Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 614/2024/2
 
-Nos termos do artigo 174.º do Código do Procedimento Administrativo, dos n.<sup>os</sup>2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 6226/2024, publicado no Diário da República, 2.ª série, n.º 106, de 3 de junho de 2024, que designa para exercer as funções de secretária pessoal do Gabinete do Secretário de Estado da Agricultura a licenciada Ana Isabel Mateiro Matias Borrego, saiu com a seguinte inexatidão, que a seguir se retifica:
+Nos termos do artigo 174.º do Código do Procedimento Administrativo, dos n.os2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 6226/2024, publicado no Diário da República, 2.ª série, n.º 106, de 3 de junho de 2024, que designa para exercer as funções de secretária pessoal do Gabinete do Secretário de Estado da Agricultura a licenciada Ana Isabel Mateiro Matias Borrego, saiu com a seguinte inexatidão, que a seguir se retifica:
 
 No n.º 1, onde se lê:
 
-"1 - Ao abrigo do disposto na alínea d) do n.º 1 do artigo 3.º, nos n.<sup>os</sup>1, 2 e 3 do artigo 11.º e no artigo 12.º do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo, para exercer as funções de secretária pessoal no meu Gabinete, a licenciada Ana Isabel Mateiro Matias Borrego, com efeitos a 24 de abril de 2024."
+"1 - Ao abrigo do disposto na alínea d) do n.º 1 do artigo 3.º, nos n.os1, 2 e 3 do artigo 11.º e no artigo 12.º do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo, para exercer as funções de secretária pessoal no meu Gabinete, a licenciada Ana Isabel Mateiro Matias Borrego, com efeitos a 24 de abril de 2024."
 
 deve ler-se:
 
-"1 - Ao abrigo do disposto na alínea d) do n.º 1 do artigo 3.º, nos n.<sup>os</sup>1, 2 e 3 do artigo 11.º e no artigo 12.º do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo, para exercer as funções de secretária pessoal no meu Gabinete, a licenciada Ana Isabel Mateiro Matias Borrego, com efeitos a 22 de abril de 2024."
+"1 - Ao abrigo do disposto na alínea d) do n.º 1 do artigo 3.º, nos n.os1, 2 e 3 do artigo 11.º e no artigo 12.º do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo, para exercer as funções de secretária pessoal no meu Gabinete, a licenciada Ana Isabel Mateiro Matias Borrego, com efeitos a 22 de abril de 2024."
 
 25 de julho de 2024. - O Secretário de Estado da Agricultura, João Manuel Moura Rodrigues.
+
+317957201

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/020000000/0571805718.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/218-2011-3668788
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2991571b563bcd722416a38719d2d55a6890f1068f03771809ec4e3355e44fe9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22e144f65175cfd3fd32dc78765536f7cf9ee152af6ead550d7f4e9500e5deb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:24Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Insolvente: Estruturas Silva & Casado, Lda., titular do número de identificaç�
 Por ter sido publicado por inexactidão o número de processo no anúncio n.º 12487/2010, publicado no Diário da República, 2.ªsérie, n.º 247, de 23 de Dezembro de 2010, rectifica-se que onde se lê «3801/09.9TBBRG-C» deve ler-se «7703/09.2TBBRG-C».
 
 21 de Janeiro de 2011. - O Juiz de Direito, Dr. Pedro Miguel Silva Rodrigues. - O Oficial de Justiça, Liliana M. A. S. S. Fernandes.
+
+304248307

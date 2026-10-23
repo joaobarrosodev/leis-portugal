@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/235000000/0016600171.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1043-2024-898867044
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b990a005e0a41e74fb1754284d09dcc34b49d5d32cf5b3b30bcaa55cec771f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cc40795a0587bcbe30f872112bffb656d088e68811c880b69be5d07bc76fb68
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:867249400:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:22Z'
   warnings: []
   errors: []
 ---
@@ -258,17 +262,17 @@ Totais - 100 %»
 
 deve ler-se:
 
-| Critérios | Critérios | Ponderação | Pontos |
+| Critérios | Ponderação | Pontos |  |
 | --- | --- | --- | --- |
-| 1 - Desempenho técnico-científico e profissional com relevância na área disciplinar | 1 - Desempenho técnico-científico e profissional com relevância na área disciplinar | 40 % |  |
-| 1.1 - Projetos de investigação e desenvolvimento (máx. 100 pontos) | 1.1 - Projetos de investigação e desenvolvimento (máx. 100 pontos) | 10 % |  |
+| 1 - Desempenho técnico-científico e profissional com relevância na área disciplinar | 40 % |  |  |
+| 1.1 - Projetos de investigação e desenvolvimento (máx. 100 pontos) | 10 % |  |  |
 | a) | Responsável de projetos com avaliação e com financiamento externo (ex.: FCT, projetos europeus) |  | Até 10 cada |
 | b) | Responsável de outros projetos com financiamento competitivo |  | Até 6 cada |
 | c) | Responsável de outros projetos |  | Até 4 cada |
 | d) | Colaborador de projetos com avaliação e com financiamento externo (ex.: FCT, projetos europeus) |  | Até 5 cada |
 | e) | Colaborador de outros projetos com financiamento competitivo |  | Até 3 cada |
 | f) | Colaborador de outros projetos |  | Até 2 cada |
-| 1.2 - Publicações de caráter científico e patentes (máx. 100 pontos) | 1.2 - Publicações de caráter científico e patentes (máx. 100 pontos) | 12 % |  |
+| 1.2 - Publicações de caráter científico e patentes (máx. 100 pontos) | 12 % |  |  |
 | a) | Autor ou coautor de livro técnico-científico |  | Até 10 cada |
 | b) | Edição de livro ou special issue de revistas científicas |  | Até 6 cada |
 | c) | Edição de atas de eventos científicos |  | Até 4 cada |
@@ -280,11 +284,11 @@ deve ler-se:
 | i) | Publicação de artigos técnico-científicos em atas de congressos internacionais com indexação em categoria Core B ou equivalente |  | Até 5 cada |
 | j) | Outros artigos técnico-científicos em atas de congressos e workshops |  | Até 3 cada |
 | k) | Patentes registadas |  | Até 10 cada |
-| 1.3 - Comunicações em eventos científicos (máx. 100 pontos) | 1.3 - Comunicações em eventos científicos (máx. 100 pontos) | 2 % |  |
+| 1.3 - Comunicações em eventos científicos (máx. 100 pontos) | 2 % |  |  |
 | a) | Comunicações (painéis, keynote speaker) em eventos científicos internacionais |  | Até 4 cada |
 | b) | Comunicações (painéis, keynote speaker) em eventos científicos nacionais |  | Até 2 cada |
 | c) | Outras comunicações |  | Até 2 cada |
-| 1.4 - Organização técnico-científica (máx. 100 pontos) | 1.4 - Organização técnico-científica (máx. 100 pontos) | 4 % |  |
+| 1.4 - Organização técnico-científica (máx. 100 pontos) | 4 % |  |  |
 | a) | Membro de unidades/grupos científicos financiados pela FCT |  | Até 2 por ano |
 | b) | Membro de outras Unidades/Centros de Investigação |  | Até 1 por ano |
 | c) | Revisão de artigos em revistas ou capítulos de livros internacionais ou nacionais |  | Até 1 por cada |
@@ -297,28 +301,28 @@ deve ler-se:
 | j) | Membro de comité editorial de revistas científicas indexadas no SCOPUS ou WOS |  | Até 3 por cada |
 | k) | Membro de comité editorial de outras revistas científicas |  | Até 2 por cada |
 | l) | Outras atividades de organização técnico-científica |  | Até 2 por cada |
-| 1.5 - Orientação/coorientação de teses/dissertações/relatórios conducentes a grau académico (máx. 100 pontos) | 1.5 - Orientação/coorientação de teses/dissertações/relatórios conducentes a grau académico (máx. 100 pontos) | 5 % |  |
+| 1.5 - Orientação/coorientação de teses/dissertações/relatórios conducentes a grau académico (máx. 100 pontos) | 5 % |  |  |
 | a) | Orientação e coorientação de Teses de Doutoramento (concluída) |  | Até 8 cada |
 | b) | Orientação e coorientação de Teses de Doutoramento (em curso) |  | Até 2 cada |
 | c) | Orientação e coorientação de Dissertações/Projeto/Estágio de Mestrado (concluída) |  | Até 2 cada |
-| 1.6 - Participação em júris de provas académicas (máx. 100 pontos) | 1.6 - Participação em júris de provas académicas (máx. 100 pontos) | 3 % |  |
+| 1.6 - Participação em júris de provas académicas (máx. 100 pontos) | 3 % |  |  |
 | a) | Membro do Júri (não presidente e não orientador) de Doutoramento |  | Até 4 cada |
 | b) | Membro do Júri (não presidente e não orientador) de Dissertação/Projeto/Estágio de Mestrado |  | Até 1 cada |
 | c) | Membro do Júri de Provas de Especialista (não presidente) |  | Até 2 cada |
-| 1.7 - Atividades de natureza profissional com relevância na área disciplinar (máx. 100 pontos) | 1.7 - Atividades de natureza profissional com relevância na área disciplinar (máx. 100 pontos) | 4 % |  |
+| 1.7 - Atividades de natureza profissional com relevância na área disciplinar (máx. 100 pontos) | 4 % |  |  |
 | a) | Prestação contratualizada de serviços ao exterior |  | Até 6 cada |
 | b) | Experiência Profissional em atividade de relevância na área fora do meio académico |  | Até 1 por ano |
 | c) | Outras atividades consideradas relevantes |  | Até 3 cada |
-| 2 - Capacidade pedagógica | 2 - Capacidade pedagógica | 40 % |  |
-| 2.1 - Docência (máx. 100 pontos) | 2.1 - Docência (máx. 100 pontos) | 18 % |  |
+| 2 - Capacidade pedagógica | 40 % |  |  |
+| 2.1 - Docência (máx. 100 pontos) | 18 % |  |  |
 | a) | Experiência docente efetiva no ensino superior |  | Até 1 por ano |
 | b) | Lecionação de Unidades Curriculares distintas (em pelo menos 50 % dos conteúdos da UC) |  | Até 3 cada |
 | c) | Responsável de Unidades Curriculares |  | Até 2 cada |
-| 2.2 - Material pedagógico (máx. 100 pontos) | 2.2 - Material pedagógico (máx. 100 pontos) | 12 % |  |
+| 2.2 - Material pedagógico (máx. 100 pontos) | 12 % |  |  |
 | a) | Elaboração de sebenta/manual/vídeos de apoio à docência que cubra pelo menos 75 % da matéria da UC |  | Até 7 por UC |
 | b) | Elaboração de outro material pedagógico de apoio à docência |  | Até 3 por UC |
 | c) | Desenvolvimento de atividades de b/e-learning e outras inovações pedagógicas |  | Até 4 por UC |
-| 2.3 - Outras atividades pedagógicas (máx. 100 pontos) | 2.3 - Outras atividades pedagógicas (máx. 100 pontos) | 10 % |  |
+| 2.3 - Outras atividades pedagógicas (máx. 100 pontos) | 10 % |  |  |
 | a) | Orientação e acompanhamento de estudantes em Projeto/Estágio de licenciatura |  | Até 2 cada |
 | b) | Orientação e acompanhamento de estudantes em Estágio de CTeSP |  | Até 1 cada |
 | c) | Membro do Júri (não orientador e não presidente) de Projeto/Estágio de Licenciatura |  | Até 1 cada |
@@ -327,8 +331,8 @@ deve ler-se:
 | f) | Formando de Cursos de Formação Pedagógica |  | Até 1 cada |
 | g) | Organização de eventos de caráter pedagógico |  | Até 2 cada |
 | h) | Outras atividades pedagógicas |  | Até 1 cada |
-| 3 - Outras atividades relevantes para a missão da instituição | 3 - Outras atividades relevantes para a missão da instituição | 20 % |  |
-| 3.1 - Gestão administrativa e participação em órgãos colegiais (máx. 100 pontos) | 3.1 - Gestão administrativa e participação em órgãos colegiais (máx. 100 pontos) | 10 % |  |
+| 3 - Outras atividades relevantes para a missão da instituição | 20 % |  |  |
+| 3.1 - Gestão administrativa e participação em órgãos colegiais (máx. 100 pontos) | 10 % |  |  |
 | a) | Presidência de órgão de gestão estatutário |  | Até 5 por semestre |
 | b) | Coordenação de departamento ou coordenação de curso |  | Até 3 por semestre |
 | c) | Participação em órgão de gestão, na coordenação do departamento, na coordenação de curso e em comissões de índole técnico-científica ou pedagógica designados pelos órgãos |  | Até 2 por semestre |
@@ -337,14 +341,16 @@ deve ler-se:
 | f) | Participação em júris de concursos locais de acesso, creditações, reconhecimento de competências, provas M23 |  | Até 2 por cada |
 | g) | Participação em Comissão de Avaliação/Reestruturação/Proposta de Cursos (CET, CTeSP, Licenciatura, Mestrado, Pós-Graduação) |  | Até 2 por cada |
 | h) | Outras atividades consideradas relevantes |  | Até 2 por cada |
-| 3.2 - Participação em atividades de relação com a comunidade (máx. 100 pontos) | 3.2 - Participação em atividades de relação com a comunidade (máx. 100 pontos) | 10 % |  |
+| 3.2 - Participação em atividades de relação com a comunidade (máx. 100 pontos) | 10 % |  |  |
 | a) | Coordenação de atividades de relação com a comunidade |  | Até 2 por cada |
 | b) | Participação em atividades de relação com a comunidade ou de divulgação dos cursos/instituição |  | Até 1 por cada |
 | c) | Participação em programas de Mobilidade Internacional (ex: Erasmus) |  | Até 2 por cada |
 | d) | Membro eleito de órgãos institucionais, ordens profissionais e associações técnico-científicas |  | Até 1 por cada |
 | e) | Outras participações |  | Até 1 por cada |
-| Totais | Totais | 100 % |  |
+| Totais | 100 % |  |  |
 
 Nota. - Considerando que o período de candidaturas se encontra terminado, e tendo em conta a natureza da presente retificação, todas as candidaturas recebidas e já tramitadas no âmbito deste procedimento mantêm-se válidas, desde que cumpram os requisitos legais, não havendo lugar à abertura de um novo período de candidaturas.
 
 5 de novembro de 2024. - A Administradora, Doutora Lurdes Pedro.
+
+318400595

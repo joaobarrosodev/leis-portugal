@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/045000000/1080310803.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/503-2011-2708326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba426c4f6a2d6d88195fd435f69132e90049f31ea2d699f46345f4bec5a35d3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d8f744ee2494f60bd1760a66f05445eb327c8452feb5f2f4a75196b007d8d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:138777:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:04Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 503/2011
+# Declaração de rectificação n.º 503/2011
 
 Por ter sido publicado com inexactidão o aviso n.º 5879/2011, inserto no Diário da República, 2.ª série, n.º 41, de 28 de Fevereiro de 2011, procede-se à rectificação. Assim, onde se lê:
 
@@ -95,3 +99,5 @@ deve-se ler:
 Da referida lista cabe reclamação no prazo de 30 dias, a contar da data da publicação deste aviso, no Diário da República, a apresentar ao dirigente máximo do serviço.»
 
 16 de Fevereiro de 2011. - A Presidente da CAP, Maria Conceição B. R. Morgado Bernardes.
+
+204403454

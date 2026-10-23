@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/191/2003/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/191-2003-187506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 178839de9060c1d3e9ee3fd1639bc63e410e7513e88279a2dae59f30bace46fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb363effe346094d9337b8988fe5fb98e4872a5f3b67aaa04f454c76e9661401
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Direcção Regional de Contencioso e Controlo Aduaneiro
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Direcção Regional de Contencioso e Controlo Aduaneiro
 - Orgânica
 - Política Aduaneira
-- Regulamento
 - Porto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:520391:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626048:por
+  label: "Alterados os arts 2º a 24º e 26º a 29º e revogados os arts 19º-A e 19º-B,todos do Regulamento Orgânico e de Funcionamento\
+    \ da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, aprovado pela Port 705-A/2000 de 31-Ago,\
+    \ na redacção do presente diploma, pela PORT.1067/2004.26.08.2004.MF, DR.IS-B [201] de 26.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2004-626048
+  date: '2004-08-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/262/2002/11/25/p/dre
   label: null
@@ -97,16 +104,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/772/2002/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/772/2002/07/02/p/dre
+- type: cites
+  target: pt:dre:142714:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586390:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:684448:por
+  label: "Rectificada pela DECL-RECT.2-F/2003.2003.03.12.PCM DR.IS-B [76]3º Supl de 31/Mar/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-f-2003-684448
+  date: '2003-03-12'
+- type: repealed_by
+  target: pt:dre:520391:por
+  label: "Revogada a Portaria 705-A/2000, de 31 de Agosto, na redacção do presente diploma, pela PORT.349/2007.30.03.2007.MFAP,\
+    \ DR.IS [64], com excepcção do disposto no seu artigo 29.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2007-520391
+  date: '2007-03-30'
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:43Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +173,9 @@ Serviços centrais
 
 4 - Os núcleos previstos nos n.os 1 e 2 são criados por despacho do director-geral e ficam na dependência do respectivo director de serviços ou do chefe de divisão.
 
-###### Artigo 3.º — Área de gestão aduaneira
+Artigo 3.º
+
+Área de gestão aduaneira
 
 1 - A área de gestão aduaneira é prosseguida pelos seguintes serviços:
 
@@ -149,7 +189,9 @@ c) Direcção de Serviços de Licenciamento.
 
 3 - ...
 
-###### Artigo 6.º — Área de gestão dos impostos especiais sobre o consumo
+Artigo 6.º
+
+Área de gestão dos impostos especiais sobre o consumo
 
 1 - A área de gestão dos impostos especiais sobre o consumo é prosseguida pelos seguintes serviços:
 
@@ -161,13 +203,17 @@ b) Direcção de Serviços sobre os Veículos Automóveis e o Valor Acrescentado
 
 3 - ...
 
-###### Artigo 9.º — Área de inspecção e fiscalização aduaneira
+Artigo 9.º
+
+Área de inspecção e fiscalização aduaneira
 
 1 - A área de inspecção e fiscalização aduaneira é prosseguida pela Direcção de Serviços Antifraude.
 
 2 - ...
 
-###### Artigo 11.º — Unidades de apoio
+Artigo 11.º
+
+Unidades de apoio
 
 São unidades de apoio:
 
@@ -187,7 +233,9 @@ g) Na área da auditoria interna, o Núcleo de Auditoria Interna;
 
 h) Na área dos estudos aduaneiros, o Núcleo de Estudos Aduaneiros.
 
-###### Artigo 12.º — Direcção de Serviços de Gestão de Recursos Humanos
+Artigo 12.º
+
+Direcção de Serviços de Gestão de Recursos Humanos
 
 1 - A Direcção de Serviços de Gestão de Recursos Humanos coordena e executa a política de gestão e de formação e aperfeiçoamento profissional do pessoal da DGAIEC, dispondo para o exercício das suas competências dos seguintes serviços:
 
@@ -221,7 +269,9 @@ l) Promover a formação de formadores.
 
 3 - ...
 
-###### Artigo 13.º — Direcção de Serviços de Gestão de Recursos Financeiros e Materiais
+Artigo 13.º
+
+Direcção de Serviços de Gestão de Recursos Financeiros e Materiais
 
 1 - A Direcção de Serviços de Gestão de Recursos Financeiros e Materiais assegura e coordena a gestão dos meios financeiros e do património e a conservação e segurança das instalações, dispondo para o exercício das suas competências da Divisão de Gestão Financeira e, transitoriamente, da Repartição de Aprovisionamento, Património e Instalações.
 
@@ -229,7 +279,9 @@ l) Promover a formação de formadores.
 
 3 - ...
 
-###### Artigo 14.º — Direcção de Serviços da Receita Nacional e dos Recursos Próprios e Comunitários
+Artigo 14.º
+
+Direcção de Serviços da Receita Nacional e dos Recursos Próprios e Comunitários
 
 1 - A Direcção de Serviços da Receita Nacional e dos Recursos Próprios e Comunitários assegura e coordena a gestão do processo de centralização das receitas, do tratamento da respectiva informação e a aplicação da regulamentação comunitária em matéria de dívida aduaneira e de recursos próprios comunitários, competindo-lhe:
 
@@ -261,7 +313,9 @@ n) ...
 
 2 - ...
 
-###### Artigo 19.º — Núcleos
+Artigo 19.º
+
+Núcleos
 
 1 - Sem prejuízo do disposto nos n.os 1, 2 e 4 do artigo 2.º do presente Regulamento, quando a natureza das matérias ou as necessidades dos serviços o determinem, poderão ser criados núcleos, enquanto estruturas informais, transitórias, flexíveis e de composição variável.
 
@@ -287,7 +341,9 @@ d) Cooperar com os serviços comunitários na realização de auditorias e acomp
 
 e) Recolher e preparar informações, propondo medidas tendentes à eliminação das eventuais disfunções ou incorrecções detectadas.
 
-###### Artigo 19.º-B — Núcleo de Estudos Aduaneiros
+Artigo 19.º-B
+
+Núcleo de Estudos Aduaneiros
 
 1 - O Núcleo de Estudos Aduaneiros realiza, de acordo com o que lhe for superiormente determinado, trabalhos de investigação e de estudo comparado de legislação aduaneira internacional, bem como de legislação nacional, nomeadamente relativa aos impostos especiais sobre o consumo geridos pela DGAIEC.
 
@@ -309,4 +365,4 @@ f) Tratar estatisticamente o comércio internacional do País, seriando-o por su
 
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 6 de Fevereiro de 2003.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 6 de Fevereiro de 2003.

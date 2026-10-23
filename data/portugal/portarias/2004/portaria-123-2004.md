@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/123/2004/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-2004-582231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd0dbf6cf14c6641a3e1b75e2074e1a06c7e1929890bf2a5027e34396d10cc3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95232e83c87ff842771353d7e60926fc18c3e91539f360a949c6cb7652a7bd32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,42 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/288/2001/03/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/288/2001/03/29/p/dre
+- type: cites
+  target: pt:dre:345143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:247677:por
+  label: "Revogada a concessão atribuída pela Port 288/2001, de 29-Março, alterada pelo presente diploma, pela PORT.203/2008.22.02.2008.MADRP,\
+    \ DR.IS [38] de 22.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/203-2008-247677
+  date: '2008-02-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:08Z'
   warnings: []
   errors: []
 ---

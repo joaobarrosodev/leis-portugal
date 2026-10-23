@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/095000000/2118221182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/851-2011-2230300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac251aff7691e30072062b4f1155c5cf6fef3aa51eea6d312083384e3a9a4348
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc7f85d6bee2010569016b8dd402ba169058b9e4ce7ac96aafd447d9017cfc18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:10Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 851/2011
 Por ter saído com inexactidão o aviso (extracto) n.º 8459/2011, publicado no Diário da República, 2.ª série, n.º 68, de 6 de Abril de 2011, a p. 15 911, referente à celebração de contrato por tempo indeterminado para o exercício de funções públicas com Helena Maria Silva Ferreira, para ocupação de um posto de trabalho na categoria e carreira de assistente técnico, posição remuneratória 11, no mapa de pessoal deste Instituto - Centro Distrital de Leiria, rectifica-se que onde se lê «posição remuneratória 11» deve ler-se «na posição remuneratória 6, nível 11».
 
 18 de Abril de 2011. - O Vogal do Conselho Directivo Responsável pelo Pelouro dos Recursos Humanos, António Nogueira de Lemos.
+
+204666795

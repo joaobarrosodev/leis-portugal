@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/822/2003/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/822-2003-660132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b416f09bfdea4fe44fc392984df1db86aca5188b3e2c41d15fed0d86f88cad96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e9a41951878a7f84c8157b5aaeb2962e3ad5c9c3f77616590fa9e10d4fab060
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Saúde JEAN Piaget-algarve
 - Licenciatura
 - Numerus Clausus
-- Ensino Superior
+- Plano de Estudos
 - Silves
 relationships:
 - type: cites
@@ -107,16 +107,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:28Z'
   warnings: []
   errors: []
 ---
@@ -205,7 +237,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 30 de Julho de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 30 de Julho de 2003.
 
 ## ANEXO — Escola Superior de Saúde Jean Piaget - Algarve
 
@@ -219,19 +251,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
 
 Grau de licenciado
 
@@ -241,4 +273,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49754977.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/197000000/0022400224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/866-2022-202125889
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d04f0c9a0d969991b3af420acdf039cae389da2af0f1a6644560b8e84af4949
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3205c81965d92967ab130e39c768582d32287747890050a0b5f835b0b1f6b156
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:201089873:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:11Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +92,5 @@ Procedimento concursal comum - Contrato de trabalho em funções públicas por t
 Para os devidos efeitos, torna-se público que o [Aviso (extrato) n.º 17897/2022](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/17897-2022-201089873), publicado no Diário da República, 2.ª série, n.º 179, de 15 de setembro de 2022, foi publicado com inexatidão, que assim se retifica, pelo que, onde se lê «Referência C - 1 posto de trabalho da carreira/categoria de Assistente Técnico (Tráfego Aeródromo).» deve ler-se «Referência C - 2 postos de trabalho da carreira/categoria de assistente técnico (tráfego de aeródromo).»
 
 19 de setembro de 2022. - O Presidente da Câmara Municipal de Coimbra, José Manuel Monteiro de Carvalho e Silva.
+
+315702444

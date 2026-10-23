@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/075000000/1735817358.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/728-2011-1933828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ef655b32b70a9798ad03de6b043b3f42bbe97aa24ecb2a7c04ff8a9cf2f5d1c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d852fc5c2d42517893e677ef85a4a1c8e851f3a9cca280ff1310c148c8aaa332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,35 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:245335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:23Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 728/2011
+# Declaração de rectificação n.º 728/2011
 
 Por ter saído com inexactidão o despacho n.º 4408/2011, no Diário da República, 2.ª série, n.º 50, de 11 de Março de 2011, torna-se pública a seguinte rectificação:
 
 Onde se lê «Assim, ao abrigo do disposto no artigo 27.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, alterada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, verificando-se todos os requisitos legais exigidos, nomeio, em regime de substituição, no cargo de directora do Departamento de Gestão e Administração (DGA), a licenciada Paula Fernanda Lopes Ferreira de Oliveira, com efeitos a partir de 1 de Março de 2011.» deve ler-se «Assim, ao abrigo do disposto no artigo 27.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, alterada pela [Lei n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/lei/51-2005-245335), de 30 de Agosto, verificando-se todos os requisitos legais exigidos, nomeio, em regime de substituição, no cargo de directora do Departamento de Gestão e Administração (DGA), a licenciada Paula Fernanda Lopes Ferreira de Oliveira, com efeitos a partir de 1 de Março de 2011, autorizando a opção da nomeada pelo seu vencimento da categoria de origem, nos termos do n.º 3 do artigo 31.º do citado diploma legal.»
 
 6 de Abril de 2011. - A Directora-Geral, Carolina Maria Gomes Ferra.
+
+204567561

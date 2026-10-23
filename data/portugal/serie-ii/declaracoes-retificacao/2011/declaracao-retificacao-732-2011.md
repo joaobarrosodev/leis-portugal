@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/076000000/1759317593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/732-2011-2167436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae08084d611d8f4e76b49a1657966c7743898935f56c69965dee066ba7fcd075
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1773af04b9bfa4a620271235d2e4e6448a6fb1e1c3ff42475a40034839b79023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:899743:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:24Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 732/2011
+# Declaração de rectificação n.º 732/2011
 
 Por ter sido publicado com inexactidão o aviso n.º 8845/2011, inserto no Diário da República, 2.ª série, n.º 72, de 12 de Abril de 2011, rectifica-se que onde se lê:
 
@@ -91,3 +95,5 @@ deve ler-se:
 «e afixada no placard das instalações do Agrupamento de Centros de Saúde Pinhal Litoral II, sitas na Avenida dos Heróis de Angola, 59, Leiria, a lista dos candidatos admitidos e excluídos, no âmbito do procedimento concursal comum para preenchimento de um posto de trabalho de assistente operacional, para o ACES Pinhal Litoral II, aberto pelo aviso n.º 26152/2010, publicado no Diário da República, 2.ª série, n.º 241, de 15 de Dezembro de 2010»
 
 12 de Abril de 2011. - O Presidente do Conselho Directivo, João Pedro Pimentel.
+
+204574779

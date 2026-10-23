@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/816-2011-3544037
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45cd4a010463949133012371737e32c8687c5f469f3f4ce2ff23dba1f948e460
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8e7678ab27dc3e5904129fb82050ad03a2cfac376dc8f0d7613bf98f87c8f4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Curso de Especialização Tecnológica
+- Formação Profissional
+- Madeira.região Autónoma
+- Plano de Estudos
+- Qualificação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:3400322:por
+  label: "Alterado o nº 7 do Anexo ao Desp. 17936/2010, de 30-Nov, na redacção da presente declaração, pelo DESP.15395/2011.14.11.2011.DGES-MECI,\
+    \ DR.IIS [218] de 14.11.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/15395-2011-3400322
+  date: '2011-11-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:59Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +99,5 @@ Declaração de rectificação n.º 816/2011
 Tendo-se verificado uma incorrecção no despacho n.º 17 936/2010, publicado no Diário da República, 2.ª série, n.º 232, de 30 de Novembro de 2010, rectifica-se que, no n.º 7 do anexo, onde se lê «Para o ingresso no CET é necessário ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente. Caso não sejam cumpridos estes requisitos o candidato terá de realizar o seguinte conjunto de unidades de formação, de acordo com o estipulado no ponto 2 do artigo 16.º do Decreto -Lei n.º 88/2006, a saber: Ciências Experimentais; Matemática Elementar e Informática.» deve ler-se «Para o ingresso no CET é necessário ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente. Caso não sejam cumpridos estes requisitos, o candidato terá de realizar o seguinte conjunto de unidades de formação: Ciências Experimentais; Matemática Elementar e Informática.».
 
 9 de Fevereiro de 2011. - O Director-Geral, António Morão Dias.
+
+204637204

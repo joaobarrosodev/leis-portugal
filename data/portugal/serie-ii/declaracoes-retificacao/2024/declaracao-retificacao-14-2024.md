@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/009000000/0049100491.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2024-836494495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00852882288a3b365b8f99e32356455fc607d27954c752dfe61e5bd1c492b93f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 640200b930b6a3e49ffbd11efebfb97b3f2f7c8fa53f27008e1ddf19c8295a9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224017674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:03Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +93,5 @@ validation:
 Por delegação de competências da presidente da Câmara, conferida pelos despachos n.º 31/GP/2021 e n.º 49/P/2021, ambos de 2 de novembro, publicados na separata n.º 34 do Boletim Municipal, de 18 de novembro de 2021, ao abrigo do artigo 24.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, e por ter sido publicado com inexatidão o [Aviso n.º 21599/2023](https://diariodarepublica.pt/dr/detalhe/aviso/21599-2023-224017674) no Diário da República, 2.ª série, n.º 217, de 9 de novembro de 2023, relativo à renovação da comissão de serviço do diretor do Departamento de Educação e Desenvolvimento Sociocultual, retifica-se que onde se lê «com efeitos a 17.10.2022» deve ler-se «com efeitos a 18.10.2023».
 
 28 de novembro de 2023. - A Vereadora Responsável pela Área dos Recursos Humanos, Susana Santos Nogueira.
+
+317196539

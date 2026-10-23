@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/159000000/0021400215.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/727-2022-187587784
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc6a5484afc21283632d16fa0159de64bc8071df68ae7c2929ed0fd7ddaf1bc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39423c8f209a9dcb9ff57bb1228c6efd657fc0c325b16c4f1c01cd58cec7ff8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183961948:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:22Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +108,7 @@ No anexo ii - Republicação do Regulamento de Organização dos Serviços Munic
 
 «Artigo 3.º-A
 
-##### Divisão de Urbanismo
+Divisão de Urbanismo
 
 [...]
 
@@ -114,7 +118,7 @@ deve ler-se:
 
 «Artigo 3.º-A
 
-##### Divisão de Urbanismo
+Divisão de Urbanismo
 
 [...]
 
@@ -137,3 +141,5 @@ Gabinete de Proteção de Dados
 1 - Ao Gabinete de Proteção de Dados (GPD) compete controlar a conformidade do tratamento de dados pessoais face à legislação em vigor e a interlocução com os titulares dos dados e com a autoridade de controlo.»
 
 28 de julho de 2022. - O Vereador do Pelouro dos Recursos Humanos, Fernando Sardinha.
+
+315592269

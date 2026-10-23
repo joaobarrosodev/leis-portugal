@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/576/2003/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/576-2003-671224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddc6724ffab539e94996af62bef84923d60694286a73e1a3bbee5790e0a9f7b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6412f5860957a844e568ef836bba0153e3466da059dcedb68c1b0e7348680336
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Subsídio de Alimentação
-- Diuturnidades
 - Administração de Portos
+- Diuturnidades
 - Junta Autónoma dos Portos
 - Pessoal Técnico de Pilotagem
 - Remuneração
+- Subsídio de Alimentação
 - Trabalhador Portuário
 relationships:
 - type: amended_by
   target: pt:dre:538609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632732:por
+  label: "Alterado o nº 1º deste diploma, na redacção que conferiu à Port 193/90 de 17-Mar (com as alterações posteriormente\
+    \ introduzidas) pela PORT.898/2003.2003.08.26.MOPTH DR.IS-B [196]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/898-2003-632732
+  date: '2003-08-26'
+- type: amended_by
+  target: pt:dre:538609:por
+  label: "Actualizado o subsídio de alimentação previsto no n.º 2.º, pela Port.779/2006.09.08.2006.MOPTC, DR.IS [153] de 09.08.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/779-2006-538609
+  date: '2006-08-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/257/2002/11/22/p/dre
   label: null
@@ -117,16 +129,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/863/1991/08/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/863/1991/08/20/p/dre
+- type: cites
+  target: pt:dre:223011:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:223022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448755:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667362:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:01Z'
   warnings: []
   errors: []
 ---

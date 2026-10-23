@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/824/2002/07/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/824-2002-199172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 637a5f58a7327cf4fe9e5b6b6591e5cfd11ee65e6759425c22d04de96dc7f1c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a49a8549c88e5b0f4d79889d4cb5c29e377eb86ae972b089c3aca91da976bb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:490269:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:437643:por
+  label: "Alterado o n.º 2.º do presente diploma, pela PORT.1320/2003.28.11.2003.MADRP, DR.IS-B [276] de 28.11.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1320-2003-437643
+  date: '2003-11-28'
+- type: amended_by
+  target: pt:dre:455597:por
+  label: "Renovada, por um período de seis anos, a concessão e a transferência de gestão da zona de caça atribuída pelo presente\
+    \ diploma, na redacção da Portaria 1320/2003, de 28 de Novembro, pela PORT.866/2008.13.08.2008.MADRP, DR.IS [156] de 13.08.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/866-2008-455597
+  date: '2008-08-13'
+- type: amended_by
+  target: pt:dre:490269:por
+  label: "Extinta a zona de caça criada neste diploma, com as alterações constantes da Port 1320/2003 de 28-Nov e a renovação\
+    \ efectuada pela Port 866/2008 de 13-Ago, pela PORT.1080/2009.18.09.2009.MADRP, DR.IS [182] de 18.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1080-2009-490269
+  date: '2009-09-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +104,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:37Z'
   warnings: []
   errors: []
 ---

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/342/2002/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/342-2002-300855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2153a6c601052539f37962511d51b74ead3bdc43eba1c3fea787e671ed937bfa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fe0af0802a6b8eb74fd0d7ce443fd8c86837ae496e350072c19494e899a935e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/8/2002/01/09/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/8/2002/01/09/p/dre
+- type: cites
+  target: pt:dre:300841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585216:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:36Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +118,7 @@ Manda o Governo, pelo Ministro do Ambiente e do Ordenamento do Território, o se
 
 4.º A interdição abrange todos os símbolos ou logótipos que, de algum modo, possam induzir em erro ou suscitar confusão com o símbolo/logótipo constante da presente portaria.
 
-**O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 28 de Fevereiro de 2002.**
+O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 28 de Fevereiro de 2002.
 
 ## ANEXO
 

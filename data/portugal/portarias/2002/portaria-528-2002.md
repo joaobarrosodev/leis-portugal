@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/528/2002/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/528-2002-370409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c3b371f30c5973140cbfa7832552239153679039e466a0e37c27a96394cc5df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 623c33bc8997e4ce7a98eba34e9bb470e37cb80cacdcbd3478031dba8f8cadfb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Estudos Industriais e de Gestão
 - Instituto Politécnico
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -107,16 +107,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/694/2001/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/694/2001/07/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273780:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273991:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:42Z'
   warnings: []
   errors: []
 ---
@@ -175,7 +219,7 @@ QUADRO N.º 5
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42884290.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42884290.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42884290.pdf)
 
 2.º ciclo
 
@@ -189,4 +233,4 @@ QUADRO N.º 7
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42884290.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42884290.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42884290.pdf)

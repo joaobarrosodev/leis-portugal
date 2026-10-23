@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/148/2003/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/148-2003-198336
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fec3c1c1cc6697996f67ac2d3526b707d01bf3e039c7136c2668a74412422dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2853dd0abb6b3132a7866f8f68e3efe0b807e1692a708e1820cc2b3c343c2786
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Aposentação
-- Cálculo de Pensões
 - Caixa Geral de Aposentações
+- Cálculo de Pensões
 - Pensão de Aposentação
 - Pensão de Invalidez
 - Pensão de Reforma
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-c/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575937:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:28Z'
   warnings: []
   errors: []
 ---

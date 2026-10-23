@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/854/2003/08/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/854-2003-661693
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b1187c3863b830146c47f2323653310827fa71a1c0f257729952d3ce0f64660
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d0e82d4ba114090f5c0401fa8dad3124832bd7b8e2e2623bad28c8f978a6f7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:541794:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:284101:por
+  label: "Renovada, por um período de 12 anos, a concessão de zona de caça associativa concessionada pela Port 640-T1/94,\
+    \ de 15-Jul, alterada pela presente portaria, pela PORT.1033-BU/2004.10.08.2004.MADRP, DR.IS-B [187]Supl de 10.08.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-bu-2004-284101
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:541794:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída na Port 640-T1/94, de 15-Jul, com as alterações constantes\
+    \ do presente diploma, pela PORT.1073/2006.03.10.2006.MAOTDR, DR.IS [191] de 03.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1073-2006-541794
+  date: '2006-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -110,16 +123,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/866/1997/09/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/866/1997/09/10/p/dre
+- type: cites
+  target: pt:dre:243878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:40Z'
   warnings: []
   errors: []
 ---

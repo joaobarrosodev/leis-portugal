@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/2002/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2002-277576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d6e1fc2c21e78574c79af19289cacda6a14174f7c768793f5806b8f9f8884b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d11d430c81022a7d23383cc2353bf04b9d3d80155d04818e08b47f47b7c34d0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Cenjor
-- Instituto do Emprego e Formação Profissional
-- Formação Profissional
-- Jornalista
 - Direcção Geral da Comunicação Social
-relationships: []
+- Formação Profissional
+- Instituto do Emprego e Formação Profissional
+- Jornalista
+relationships:
+- type: amended_by
+  target: pt:dre:115561642:por
+  label: Homologadas as alterações ao protocolo que criou o Centro Protocolar de Formação Profissional para Jornalistas, na
+    redação do presente diploma, publicado em anexo à Port 667/86, de 07-nov, pelo(a) Portaria n.º 183/2018 - Diário da República
+    n.º 119/2018, Série I de 2018-06-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/183-2018-115561642
+  date: '2018-06-22'
+- type: cites
+  target: pt:dre:221137:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:29Z'
   warnings: []
   errors: []
 ---

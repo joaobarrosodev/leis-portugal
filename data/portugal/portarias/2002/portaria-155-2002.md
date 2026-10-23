@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/2002/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-2002-277373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce13a7b4a601d199e1589511950de1af014fc3113cb938285446d908cf408694
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f40714ce4f318a4536e0b02f2345bf3da9b88087cfbe47c6e716ecb2d5b54a51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,21 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Almada
-- Plano de Estudos
 - Ensino Particular
+- Ensino Superior
 - Escola Superior de Educação JEAN Piaget
 - Licenciatura
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:186477:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186477:por
+  label: "Alterados os quadros nºs 2 e 3 do anexo, pela PORT.199/2003.2003.02.26.MCES DR.IS-B [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/199-2003-186477
+  date: '2003-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -93,16 +98,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1115/1994/12/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1115/1994/12/14/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563616:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:25Z'
   warnings: []
   errors: []
 ---
@@ -161,22 +190,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)](https://files.diariodarepublica.pt/1s/2002/02/043b00/14091411.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/601/2003/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/601-2003-670350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d3e0c5f010bf74a43f52c8832fa319e9f411eaa0c661010bcaad2e50f4a4392
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 380808ddd9c4be0d509d496a1352549caa59a198ff8e7ac9e9bdde05c9d43731
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,37 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Beja
+- Bragança
+- Castelo Branco
+- Coimbra
 - Ensino Superior Politécnico
+- Guarda
 - Instituto Politécnico
 - Leiria
 - Licenciatura
-- Setúbal
-- Beja
-- Castelo Branco
-- Coimbra
 - Portalegre
-- Bragança
-- Guarda
+- Setúbal
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:481701:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445523:por
+  label: "Desdobrado em vários o 2.º ciclo do curso bietápico de licenciatura em Animação Sociocultural da Escola Superior\
+    \ de Educação do Instituto Politécnico da Guarda, criado pelo presente diploma, pela PORT.1305/2003.20.11.2003.MCES, DR.IS-B\
+    \ [269] de 20.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1305-2003-445523
+  date: '2003-11-20'
+- type: amended_by
+  target: pt:dre:437011:por
+  label: "Alterada a denominação do curso bietápico de licenciatura em Design de Interiores da Escola Superior de Artes Aplicadas\
+    \ do Instituto Politécnico de Castelo Branco criado pelo presente diploma e aprova o plano de estudos, pela PORT.1309/2003.25.11.2003.MCES,\
+    \ DR.IS-B [273] de 25.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1309-2003-437011
+  date: '2003-11-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/20/1992/08/14/p/dre
   label: null
@@ -104,16 +118,51 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481701:por
+  label: "Revogada na parte em que autorizou o Instituto Politécnico de Portalegre, através da sua Escola Superior de Tecnologia\
+    \ e Gestão, a conferir o grau de bacharel em Engenharia Informática, pela PORT.1200/2005.25.11.2005.MCTES, DR.IS-B [227]\
+    \ de 25.11.2005, nos termos do disposto na al. a) do nº 2 do art. 3º \0º \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1200-2005-481701
+  date: '2005-11-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:11Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +225,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 7 de Julho de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 7 de Julho de 2003.
 
 ## ANEXO
 

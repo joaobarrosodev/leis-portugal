@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/100000000/0016500182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/366-2024-865809670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a26dbdd58bbe57d60bf2e5ea539e0bab192a5b9d7bb6a2c4782811b74565ac47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8b86ff5ca94735f6bb82a8b780782d6da2da8a951416fa5a968cb2603a837fbc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:75623824:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:836027623:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:26Z'
   warnings: []
   errors: []
 ---
@@ -172,7 +180,7 @@ b) Projetos de investigação de caráter exploratório (PEx), dirigidos ao apoi
 
 c) Programas de atividades conjuntas (PAC), temáticos e de caráter multidisciplinar destinados a consórcios de entidades não empresariais do sistema de Investigação e Inovação (I&I), estabelecidos com o objetivo de apresentar propostas que contribuam para responder a grandes desafios societais, ou quando adequado a colmatar lacunas identificadas no tecido científico e tecnológico, podendo ser enquadráveis atividades de desenvolvimento experimental;
 
-d) Projetos de provas de conceito (PdC), visando a valorização de conhecimento já produzido em projetos de investigação anteriores, incluindo a produção de protótipos laboratoriais, ou quando relevante pré-séries semi-industriais, representativos de potenciais aplicações futuras para demonstração inicial do potencial da descoberta e sua disseminação junto do tecido económico a partir das entidades não empresariais do sistema de I&I;
+d) Projetos de provas de conceito (PdC), visando a valorização de conhecimento já produzido em projetos de investigação anteriores, incluindo a produção de protótipos laboratoriais, ou quando relevante pré-séries semi-industriais, representativos de potenciais aplicações futuras para demonstração inicial do potencial da descoberta e sua disseminação junto do tecido económico a partir das entidades não empresariais do sistema de I&I
 
 e) Projetos de desenvolvimento e implementação de infraestruturas de investigação, inseridas no roteiro nacional de infraestruturas de investigação (RNIIE);
 
@@ -184,7 +192,7 @@ f) Projetos de cooperação transnacional que requeiram cofinanciamento nacional
 
 a) Entidades não empresariais do sistema de I&I, nomeadamente:
 
-i) Instituições do ensino superior, seus institutos e unidades de I&D;
+i) Instituições do ensino superior, seus institutos e unidades de I&D
 
 ii) Laboratórios do Estado, Laboratórios Associados ou internacionais com sede em Portugal;
 
@@ -710,6 +718,8 @@ A implementação funcional das disposições do presente regulamento é concret
 
 O presente Regulamento aplica-se aos concursos que venham a ser abertos a partir da data da sua aprovação.”
 
-**Publique-se no Diário da República.**
+Publique-se no Diário da República.
 
 24 de abril de 2024. - A Presidente do Conselho Diretivo da FCT, I. P., Maria Madalena dos Santos Alves.
+
+317639333

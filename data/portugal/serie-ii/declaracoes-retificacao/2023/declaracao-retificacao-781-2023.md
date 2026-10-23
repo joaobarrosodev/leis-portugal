@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/198000000/0005400054.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/781-2023-222693686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33e6f68b9295e183a3370b944358d0c17bac4b72f4b065ef2c4eb339ab0f64b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da28537eb3073bd19934a327e0ae994b5d43db3b463a473d9fe16d5fcbae0206
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:213132358:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:58Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +97,5 @@ deve ler-se:
 «[...] por despacho da vice-presidente da Autoridade Nacional de Segurança Rodoviária, Eng.ª Ana Tomaz, de 29 de setembro de 2023, foi autorizada a consolidação definitiva da mobilidade na categoria da técnica superior Lina Paula Rodrigues Marques Afonso, no mapa de pessoal da Autoridade Nacional de Segurança Rodoviária, com efeitos a 6 de março de 2023.»
 
 2 de outubro de 2023. - O Chefe da Divisão de Apoio e Desenvolvimento Organizacional, Nuno Miguel Cunha dos Santos.
+
+316917267

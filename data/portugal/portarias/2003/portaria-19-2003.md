@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/009b00/00940102.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/2003/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2003-482458
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de5dbd8b7d5b71e5957b96b047d5a4e65f321d70d870fc40628be9e041954a15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f9dded95c444ab39d1af98188669717af86322f178bc9bca381920e29226ca4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Embaixada
 - Consulado
+- Embaixada
 - Emolumento Consular
 - Ministério dos Negócios Estrangeiros
 relationships:
@@ -75,6 +75,34 @@ relationships:
   target: pt:dre:243736:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:572405:por
+  label: "Alterados os arts 21º, 24º, 28º, 60º, 67º e 90º da Tabela de Emolumentos, pela PORT.366/2003.2003.05.05.MNE, DR.IS-B\
+    \ [103]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-2003-572405
+  date: '2003-05-05'
+- type: amended_by
+  target: pt:dre:588830:por
+  label: "Alterados os arts. 67.º (na redacção da Port 366/2003, de 05-Mai) e 88.º da Tabela de Emolumentos Consulares, aprovada\
+    \ pelo presente diploma, pela PORT.242/2005.08.03.2005.MNE, DR.IS-B [47] de 08.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/242-2005-588830
+  date: '2005-03-08'
+- type: amended_by
+  target: pt:dre:639109:por
+  label: "Alterados os artigos 3.º, 4.º, 26.º, 27.º, 42.º, 67.º (na redacção da Portaria 366/2003, de 05 de Maio, e da Portaria\
+    \ 242/2005, de 08 de Maio), 86.º e 88.º (na redacção da Portaria 242/2005, de 08 de Março) da tabela aprovada pelo presente\
+    \ diploma, e republicada a tabela, pela PORT.710/2007.11.06.2007.MNE, DR.IS [111] de 11.06.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/710-2007-639109
+  date: '2007-06-11'
+- type: amended_by
+  target: pt:dre:386800:por
+  label: "Alterados os art.s 12º, 15º, 16º, 17º, 18º, 19º, 23º, 24º (na redacção da Port 366/2003, de 05-Maio), 26º (na redacção\
+    \ da Port 710/2007, de 11-Jun), 67º (na redacção da Port 366/2003, de 05-Maio, Port 242/2005, de 08-Mar, e Port 710/2007,\
+    \ de 11-Jun) e 90º (na redacção da Port 366/2003, de 05-Maio), aditado um art. 88º-A, revogados os art.s 11º, 13º, 14º\
+    \ e 63º da tabela de emolumentos consulares e republicado o presente diploma pela PORT.7/2008.03.01.2008.MNE, DR.IS [2]\
+    \ de 03.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/7-2008-386800
+  date: '2008-01-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/322-a/2001/12/14/p/dre
   label: null
@@ -95,16 +123,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/657/1999/08/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/657/1999/08/17/p/dre
+- type: cites
+  target: pt:dre:253436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330632:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434783:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:243736:por
+  label: "Revogada, a partir de 02.01.2012, pela PORT.320-C/2011.30.12.2011.MNE, DR.IS [250-2ºSupl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/320-c-2011-243736
+  date: '2011-12-30'
 article_structure:
   article_count: 91
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:40Z'
   warnings: []
   errors: []
 ---
@@ -131,7 +192,7 @@ Manda o Governo, pelo Ministro dos Negócios Estrangeiros e das Comunidades Port
 
 3.º A Tabela de Emolumentos Consulares entra em vigor um mês após a data da sua publicação.
 
-**O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz, em 23 de Dezembro de 2002.**
+O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz, em 23 de Dezembro de 2002.
 
 Tabela de Emolumentos Consulares
 

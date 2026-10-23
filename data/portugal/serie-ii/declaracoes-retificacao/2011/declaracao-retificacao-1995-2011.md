@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1995-2011-3478588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ee72c987c58c58e5eff6781cd214f60699f045ca2a3077a516572b4839dd701
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0707c66dcc7fe2a7b700add0f4734176aac2249842807fb68d0ee53f993a0f6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Regulamento Interno
+- Secção Regional do Tribunal de Contas
+- Tribunal de Contas
+relationships:
+- type: amended_by
+  target: pt:dre:2915740:por
+  label: "Constituida uma equipa de projeto e de auditoria no âmbito do Departamento de Apoio Técnico-Operativo da Secção\
+    \ Regional dos Açores do Tribunal de Contas, cujo Regulamento Interno foi aprovado pela Res 24/2011 de 21-dez TC , retificada\
+    \ pela presente Declaração de Retificação, pelo DESP.2095/2014.10.02.2014.TC, DR.IIS [28] de 10.02.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/2095-2014-2915740
+  date: '2014-02-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:18Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +101,5 @@ Rectifica-se a resolução do Tribunal de Contas n.º 24/2011, publicada no Diá
 Na epígrafe do artigo 34.º do Regulamento anexo à citada resolução, onde se lê «Relato de Relatório» deve ler-se «Relato de Auditoria».
 
 23 de Dezembro de 2011. - O Director-Geral, José F. F. Tavares.
+
+205513698

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/081000000/0029300294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/294-2024-862902867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 144f9b84d7602e17f3aeb448ecbcd13d5a3ee18b610258c88393919aef2a4cf3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a71b5a389f376d489902dc32056fa951755cbe290198065d3b7a767fb62f4f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220061096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:01Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +110,7 @@ Por ter sido publicado com inexatidão o anexo i do Regulamento das Taxas do Mun
 
 4 - Pedido autónomo de alteração de morada - 20 % da taxa de emissão - 3,00 €
 
-5 - Para os menores de 6 anos - as taxas aplicáveis de acordo com os n.<sup>os</sup>1 e 2 anteriores são reduzidas em 50 %."
+5 - Para os menores de 6 anos - as taxas aplicáveis de acordo com os n.os1 e 2 anteriores são reduzidas em 50 %."
 
 deve constar:
 
@@ -132,7 +144,7 @@ b) Para menores de 25 anos - 50,00 €
 
 2 - No anexo i do Regulamento das Taxas do Município de Alpiarça, no capítulo vii, secção x, artigo 81.º, onde consta:
 
-"1 - Fornecimento do livro de obra" e "4 - Fornecimento do modelo de aviso" são eliminados, e os n.<sup>os</sup> "2 - Autenticação, termos e numeração de livro de obra" e "3 - Emissão e conformação de segunda via do livro de obra" são renumerados respetivamente para 1 e 2, mantendo as mesmas designações e valores, sendo acrescentado um novo n.º 3. Deve constar a seguinte redação:
+"1 - Fornecimento do livro de obra" e "4 - Fornecimento do modelo de aviso" são eliminados, e os n.os "2 - Autenticação, termos e numeração de livro de obra" e "3 - Emissão e conformação de segunda via do livro de obra" são renumerados respetivamente para 1 e 2, mantendo as mesmas designações e valores, sendo acrescentado um novo n.º 3. Deve constar a seguinte redação:
 
 "1 - Autenticação, termos e numeração de livro de obra - 13,00 €
 
@@ -157,3 +169,5 @@ ALBUFEIRA DOS PATUDOS
 Para constar e devidos efeitos, será afixado edital nos Paços do Município, publicado na 2.ª série do Diário da República e no sítio da Internet em www.cm-alpiarca.pt.
 
 3 de abril de 2024. - A Presidente da Câmara, Sónia Isabel Fernandes Sanfona Cruz Mendes.
+
+317571909

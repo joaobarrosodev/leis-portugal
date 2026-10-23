@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/081000000/0032900329.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/354-2022-182605513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fc0b66d3187e6f7b1cfc390b7b340dcd96bf5526f1dbef542f51b08da681b72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d3bafd2f98b4f75193f7b82b30eb1d32b74b8bc1454d0b8606729c46dbb778
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180329613:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:21Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Retifica-se a [Deliberação (extrato) n.º 312/2022](https://diariodarepublica.pt/dr/detalhe/deliberacao-extrato/312-2022-180329613), publicada no Diário da República, 2.ª série, n.º 50, de 11 de março de 2022, onde se lê «Professor Associado Rui Lage Ferreira, IST/UL; Professora Associada Rita Maurício, FCT/UNL;» deve ler-se «Professor Associado Rui Miguel Lage Ferreira, IST/UL; Professora Associada Rita Maurício Rodrigues Rosa, FCT/UNL;».
 
 11 de abril de 2022. - A Diretora de Serviços de Recursos Humanos e Logística, Ana Paula Seixas Morais.
+
+315220161

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1026-2022-204502032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61cf606e1195e547ddd5bc474256c4a6d81fcdbdcd07a6532e019b6b708afea0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 58bb0380df8ef5409821562482d7a02902dfa44550a78d3c5cf063922b13978e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178149666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:11Z'
   warnings: []
   errors: []
 ---
@@ -89,36 +93,38 @@ Onde se lê:
 
 «QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf))](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
 
 deve ler-se:
 
 «QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf))](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
 
 No quadro n.º 2, onde se lê:
 
 «[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf))](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
 
 deve ler-se:
 
 «[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf))](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
 
 No quadro n.º 3, onde se lê:
 
 «[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf))](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
 
 deve ler-se:
 
 «[...]
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf))](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/236000000/0018100183.pdf)
 
 29 de novembro de 2022. - A Vice-Reitora, Prof.ª Doutora Sandra Cristina de Oliveira Soares.
+
+315936795

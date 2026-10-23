@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/226000000/0013900140.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/983-2022-203803291
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65e7605fcd0787d96b7c88804a3b69e726d4926831ba03c34d167eebd26e24aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0e9b36bf5827882f498c44eb67aa5fb6e3e0252c1d7e6622d798d59769d4012
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122202602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:153519418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179733994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203337529:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:50Z'
   warnings: []
   errors: []
 ---
@@ -104,3 +124,5 @@ deve ler-se:
 «Nos termos do disposto no n.º 5 do artigo 28.º da [Portaria n.º 125-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/125-a-2019-122202602), de 30 de abril, alterada e republicada pela [Portaria n.º 12-A/2021](https://diariodarepublica.pt/dr/detalhe/portaria/12-a-2021-153519418) de 11 de janeiro, torna-se público que, por meu despacho de 04 de outubro de 2022, foi homologada a lista unitária de ordenação final dos candidatos, referente ao procedimento concursal comum para o preenchimento de um posto de trabalho, na carreira de técnico superior, da categoria de técnico superior, do mapa de pessoal da ARSLVT, I. P.,/ Serviços Centrais - Departamento de Instalações e Equipamentos, Referência A - Arquitetura, na modalidade de relação jurídica de emprego público a termo resolutivo incerto, aberto pelo [Aviso (extrato) n.º 4263/2022](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/4263-2022-179733994), publicado no Diário da República, 2.ª série, n.º 41, de 28 de fevereiro.»
 
 11 de novembro de 2022. - O Vogal do Conselho Diretivo, Dr. Nuno Venade.
+
+315885724

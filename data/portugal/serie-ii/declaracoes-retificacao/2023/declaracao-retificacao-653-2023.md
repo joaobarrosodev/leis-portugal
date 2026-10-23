@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/169000000/0077200772.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/653-2023-221102256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 26713668d6ad126d0a70f3faf973f709a6e25ebf8ffe290c6de95d4509a40454
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc65223c005426ddbda2863518da208f63291cce6c3672a7a933c22753504d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:12Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 147, de 31 de julho de 2023, o Aviso (extrato) n.º 14412/2023, referente à celebração de contrato de trabalho em funções públicas por tempo indeterminado, na carreira geral de técnico superior (artes plásticas), com a trabalhadora Sandra Isabel Valente Antunes, retifica-se que onde se lê «com a remuneração de 1333,35 (euro) correspondente à 2.ª posição e nível 16.º remuneratório, de acordo com a Tabela Remuneratória Única» deve ler-se «com a remuneração de 1754,41 (euro), correspondente à 4.ª posição e nível 24.º remuneratório, de acordo com a tabela remuneratória única».
 
 7 de agosto de 2023. - A Vereadora, Dr.ª Célia Correia.
+
+316752123

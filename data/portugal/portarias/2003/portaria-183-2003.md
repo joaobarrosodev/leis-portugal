@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/2003/02/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-2003-187904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a5a8161de089c47461e815d6a4249ed2512c13099f3ee6089840924bebf9dd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2081af8e21f714f2db7a75937e629c4acd05bb29620b95eab9bbba9945e0bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Comissão de Estudo e Debate da Reforma do Sistema Prisional
 - Criação de Serviços
+- Estabelecimento Prisional
 - Execução de Penas
 - Ministério da Justiça
-- Estabelecimento Prisional
-- Comissão de Estudo e Debate da Reforma do Sistema Prisional
 relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:40Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +154,4 @@ f) Um secretário, sem direito de voto, escolhido pela Ministra da Justiça com 
 
 8.º A CEDERSP será apoiada, no plano administrativo, pela Secretaria-Geral do Ministério da Justiça.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 10 de Fevereiro de 2003.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 10 de Fevereiro de 2003.

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 170/2002, 1º Suplemento, Série I-B de 2002-07-25
   number: '170'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5498-(2) a 5498-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/170b01/00020004.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/879-a/2002/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/879-a-2002-682828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 945f2dc561b0a5cd3b83a6391ae084258b50adf50d621f17b60c3c5c5d7a7bf2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2003dd982e5d9e96447b1fad413614f0475540190b27001db8ba770faf466ab7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Contrato de Concessão
+- Financiamento
 - Política Económica
 - QCA III
 - Sipie
@@ -93,16 +93,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/865-a/2002/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/865-a/2002/07/22/p/dre
+- type: cites
+  target: pt:dre:347767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:06Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +257,9 @@ l) ...
 
 2 - ...
 
-## ANEXO A — Metodologia para a determinação da valia económica
+ANEXO A
+
+Metodologia para a determinação da valia económica
 
 1.º
 
@@ -289,7 +311,9 @@ c) Empresas declaradas em reestruturação, as empresas apoiadas pelo SIRME - Si
 
 ...
 
-## ANEXO C — Taxas de incentivo para projectos em sectores de actividade não abrangidos pelo regime de auxílios de minimis
+ANEXO C
+
+Taxas de incentivo para projectos em sectores de actividade não abrangidos pelo regime de auxílios de minimis
 
 [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b01/00020004.pdf)
 
@@ -317,4 +341,4 @@ AL(índice e) - activo líquido da empresa.»
 
 Em 24 de Julho de 2002.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva.

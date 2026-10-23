@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/06/112000000/0027600277.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/414-2024-868448029
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b46966a5093928be993370ffc5b56c0794086bad8133f526459f61bd8e6c2515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b3b13bdf54d0183ae8bda7241c34ad841a68899ac93de33e8c8607c5a2de7a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:864254134:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:43Z'
   warnings: []
   errors: []
 ---
@@ -84,11 +88,11 @@ validation:
 
 Por ter sido publicado com inexatidão no Diário da República, 2.ª série, n.º 90, de 9 de maio de 2024, o [Regulamento n.º 516/2024](https://diariodarepublica.pt/dr/detalhe/regulamento/516-2024-864254134), corrige-se o seguinte:
 
-No artigo 90.º, n.º 1, alínea a), onde se lê "1.º Escalão até 6 m<sup>3</sup>" deve ler-se "1.º Escalão: até 5 m<sup>3</sup>";
+No artigo 90.º, n.º 1, alínea a), onde se lê "1.º Escalão até 6 m3" deve ler-se "1.º Escalão: até 5 m3";
 
-No artigo 90.º, n.º 1, alínea b), onde se lê "2.º escalão: superior a 6 e até 15 m<sup>3</sup>" deve ler-se "2.º escalão: superior a 5 e até 15 m<sup>3</sup>";
+No artigo 90.º, n.º 1, alínea b), onde se lê "2.º escalão: superior a 6 e até 15 m3" deve ler-se "2.º escalão: superior a 5 e até 15 m3";
 
-No artigo 90.º, n.º 4, alínea b), onde se lê "2.º Escalão: superior a 6 e até 15 m<sup>3</sup>" deve ler-se "2.º Escalão: superior a 5 e até 15 m<sup>3</sup>";
+No artigo 90.º, n.º 4, alínea b), onde se lê "2.º Escalão: superior a 6 e até 15 m3" deve ler-se "2.º Escalão: superior a 5 e até 15 m3";
 
 No artigo 95.º, n.º 4, onde se lê:
 
@@ -143,3 +147,5 @@ Atendendo à publicação inicial e entrada em vigor do Regulamento, as presente
 Mais se informa que a versão final será disponibilizada no sítio do Município de Penacova (www.cm-penacova.pt).
 
 16 de maio de 2024. - O Presidente da Câmara Municipal, Álvaro Coimbra.
+
+317712905

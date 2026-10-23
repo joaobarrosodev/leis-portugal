@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/015000000/0085300855.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2024-838326027
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41c6067a5e9c5c41bcc0bb3355be83d8349e036c0976f522cfc3e33be5b17d62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3200bd04f17fe501d619e939042f64e7ddde088f56da91d69d3670ccd0063c3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:208013503:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:34Z'
   warnings: []
   errors: []
 ---
@@ -86,38 +90,40 @@ AMARSUL - Valorização e Tratamento de Resíduos Sólidos, S. A., vem, pelo pre
 
 Assim, onde se lê:
 
-|  |  |  |  |  |  |  |
+| Instalação/atividade | Localização | Contactos | Horário de funcionamento<br>e Atendimento ao público | Horário de deposição de resíduos | Resíduos Admissíveis |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Instalação/atividade | Localização | Contactos | Horário de funcionamento e Atendimento ao público | Horário de deposição de resíduos | Resíduos Admissíveis | Resíduos Admissíveis |
-| Instalação/atividade | Localização | Contactos | Horário de funcionamento e Atendimento ao público | Horário de deposição de resíduos | LER | Descritivo simplificado |
-| Ecocentro de Alcochete | Caminho Municipal 1004 Pinheiro Marco Batel, 2890 Alcochete | Tel.:932 073 921 Site: www.amarsul.pt | 2.ª a 6.ª feira das 9h às 18h Sábado das 9h às 12.30h | 2.ª a 6.ª feira das 9h às 18h Sábado das 9h às 12.30h | Lista de Resíduos Admissíveis (Ecocentros) 1 - Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; 2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; | Lista de Resíduos Admissíveis (Ecocentros) 1 - Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; 2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |
-| Ecocentro de Almada | Azinhaga Vale da Sobreda Qt.ª da Matosa, 2815 Sobreda | Tel.:932 173 935 Site: www.amarsul.pt |  |  | Lista de Resíduos Admissíveis (Ecocentros) 1 - Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; 2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; | Lista de Resíduos Admissíveis (Ecocentros) 1 - Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; 2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |
-| Ecocentro do Barreiro | Rua Mártires da Guerra Colonial, 2835-446 Lavradio | Tel.:932 073 920 Site: www.amarsul.pt |  |  | Lista de Resíduos Admissíveis (Ecocentros) 1 - Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; 2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; | Lista de Resíduos Admissíveis (Ecocentros) 1 - Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; 2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |
-| Ecocentro da Moita | Bairro João Silva Vinha das pedras, 2860-022 Alhos Vedros | Tel.:932 073 919 Site: www.amarsul.pt |  |  | 3 - Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. | 3 - Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. |
-| Ecocentro do Montijo | Estrada do Seixalinho 2870 Montijo | Tel.:932 073 918 Site: www.amarsul.pt |  |  | 3 - Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. | 3 - Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. |
-| Ecocentro do Seixal | Av. Fábrica da Pólvora - Vale Milhaços 2855-382 Corroios | Tel.:932 173 925 Site: www.amarsul.pt |  |  | 4 - Resíduos verdes provenientes de cortes de jardins; Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; | 4 - Resíduos verdes provenientes de cortes de jardins; Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; |
-|  |  |  |  |  | 5 - Monos domésticos (mobílias usadas, colchões, etc.); Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; | 5 - Monos domésticos (mobílias usadas, colchões, etc.); Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; |
-|  |  |  |  |  | 6 - Óleos minerais, nos ecocentros onde existam oleões(provenientes de privados, sempre em pequenas quantidades, e nunca provenientes de oficinas de reparação/manutenção automóvel) (; | 6 - Óleos minerais, nos ecocentros onde existam oleões(provenientes de privados, sempre em pequenas quantidades, e nunca provenientes de oficinas de reparação/manutenção automóvel) (; |
-|  |  |  |  |  | 7 - Óleos alimentares (provenientes de privados, sempre em pequenas quantidades); | 7 - Óleos alimentares (provenientes de privados, sempre em pequenas quantidades); |
-|  |  |  |  |  | 8 - Resíduos de Equipamentos Elétricos e Eletrónicos (REEE); | 8 - Resíduos de Equipamentos Elétricos e Eletrónicos (REEE); |
-|  |  |  |  |  | 9 - Pilhas (pilhas e acumuladores de uso doméstico); AVISO: Não serão aceites baterias de veículos automóveis e motas. | 9 - Pilhas (pilhas e acumuladores de uso doméstico); AVISO: Não serão aceites baterias de veículos automóveis e motas. |
+| LER | Descritivo simplificado |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Ecocentro de Alcochete | Caminho Municipal 1004<br>Pinheiro Marco Batel, 2890 Alcochete | Tel.:932 073 921<br>Site: www.amarsul.pt | 2.ª a 6.ª feira<br>das 9h às 18h<br>Sábado das 9h<br>às 12.30h | 2.ª a 6.ª feira<br>das 9h às 18h<br>Sábado das 9h<br>às 12.30h | Lista de Resíduos Admissíveis (Ecocentros)<br>1 - Vidro proveniente de embalagens (garrafas, frascos, etc.);<br>Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites;<br>2 - Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.);<br>AVISO: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |  |
+| Ecocentro de Almada | Azinhaga Vale da Sobreda<br>Qt.ª da Matosa, 2815 Sobreda | Tel.:932 173 935<br>Site: www.amarsul.pt |  |  |  |  |
+| Ecocentro do Barreiro | Rua Mártires da Guerra Colonial, 2835-446 Lavradio | Tel.:932 073 920<br>Site: www.amarsul.pt |  |  |  |  |
+| Ecocentro da Moita | Bairro João Silva<br>Vinha das pedras, 2860-022 Alhos Vedros | Tel.:932 073 919<br>Site: www.amarsul.pt |  |  | 3 - Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável;<br>Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. |  |
+| Ecocentro do Montijo | Estrada do Seixalinho<br>2870 Montijo | Tel.:932 073 918<br>Site: www.amarsul.pt |  |  |  |  |
+| Ecocentro do Seixal | Av. Fábrica da Pólvora - Vale Milhaços<br>2855-382 Corroios | Tel.:932 173 925<br>Site: www.amarsul.pt |  |  | 4 - Resíduos verdes provenientes de cortes de jardins;<br>Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; |  |
+|  |  |  |  |  | 5 - Monos domésticos (mobílias usadas, colchões, etc.);<br>Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; |  |
+|  |  |  |  |  | 6 - Óleos minerais, nos ecocentros onde existam oleões(provenientes de privados, sempre em pequenas quantidades, e nunca provenientes de oficinas de reparação/manutenção automóvel) (; |  |
+|  |  |  |  |  | 7 - Óleos alimentares (provenientes de privados, sempre em pequenas quantidades); |  |
+|  |  |  |  |  | 8 - Resíduos de Equipamentos Elétricos e Eletrónicos (REEE); |  |
+|  |  |  |  |  | 9 - Pilhas (pilhas e acumuladores de uso doméstico);<br>AVISO: Não serão aceites baterias de veículos automóveis e motas. |  |
 
 deve ler-se:
 
-|  |  |  |  |  |  |  |
+| Instalação/atividade | Localização | Contactos | Horário de funcionamento<br>e Atendimento ao público | Horário de deposição de resíduos | Resíduos Admissíveis |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Instalação/atividade | Localização | Contactos | Horário de funcionamento e Atendimento ao público | Horário de deposição de resíduos | Resíduos Admissíveis | Resíduos Admissíveis |
-| Instalação/atividade | Localização | Contactos | Horário de funcionamento e Atendimento ao público | Horário de deposição de resíduos | LER | Descritivo simplificado |
-| Ecocentro de Alcochete... | Caminho Municipal 1004, Pinheiro Marco Batel, 2890 Alcochete | Tel.:932 073 921 Site: www.amarsul.pt | 2.ª a 5.ª feira: 9:00-13:00 horas e das 14:00-18:00 horas | 2.ª a 5.ª feira: 9:00-13:00 horas 14:00-18:00 horas | Lista de Resíduos Admissíveis (Ecocentros) Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; | Lista de Resíduos Admissíveis (Ecocentros) Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |
-| Ecocentro de Almada | Azinhaga Vale da Sobreda Qt.ª da Matosa, 2815 Sobreda | Tel.:932 173 935 Site: www.amarsul.pt | 6.ª feira: 9:00-13:00 horas e das 14:00--17:00 horas | 6.ª feira: 9:00-13:00 horas 14:00-17:00 horas | Lista de Resíduos Admissíveis (Ecocentros) Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; | Lista de Resíduos Admissíveis (Ecocentros) Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |
-| Ecocentro do Barreiro... | Rua Mártires da Guerra Colonial, 2835-446 Lavradio | Tel.:932 073 920 Site: www.amarsul.pt | Sábado: 9:00-13:00 horas e das 14:00--18:00 horas | Sábado: 9:00-13:00 horas 14:00-18:00 horas | Lista de Resíduos Admissíveis (Ecocentros) Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; | Lista de Resíduos Admissíveis (Ecocentros) Vidro proveniente de embalagens (garrafas, frascos, etc.); Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites; Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.); Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |
-| Ecocentro da Moita ... | Bairro João Silva Vinha das pedras, 2860-022 Alhos Vedros | Tel.:932 073 919 Site: www.amarsul.pt |  |  | Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. | Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. |
-| Ecocentro do Montijo... | Estrada do Seixalinho, 2870 Montijo | Tel.:932 073 918 Site: www.amarsul.pt |  |  | Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. | Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável; Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. |
-| Ecocentro do Seixal ... | Av. Fábrica da Pólvora, Vale Milhaços, 2855-382 Corroios | Tel.:932 173 925 Site: www.amarsul.pt |  |  | Resíduos verdes provenientes de cortes de jardins; Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; Monos domésticos (mobílias usadas, colchões, etc.); Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; | Resíduos verdes provenientes de cortes de jardins; Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; Monos domésticos (mobílias usadas, colchões, etc.); Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; |
-|  |  |  |  |  | Resíduos verdes provenientes de cortes de jardins; Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; Monos domésticos (mobílias usadas, colchões, etc.); Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; | Resíduos verdes provenientes de cortes de jardins; Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário; Monos domésticos (mobílias usadas, colchões, etc.); Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; |
-|  |  |  |  |  | Óleos minerais, nos ecocentros onde existam oleões (provenientes de privados, sempre em pequenas quantidades, e nunca provenientes de oficinas de reparação/manutenção automóvel); | Óleos minerais, nos ecocentros onde existam oleões (provenientes de privados, sempre em pequenas quantidades, e nunca provenientes de oficinas de reparação/manutenção automóvel); |
-|  |  |  |  |  | Óleos alimentares (provenientes de privados, sempre em pequenas quantidades); | Óleos alimentares (provenientes de privados, sempre em pequenas quantidades); |
-|  |  |  |  |  | Resíduos de Equipamentos Elétricos e Eletrónicos (REEE); | Resíduos de Equipamentos Elétricos e Eletrónicos (REEE); |
-|  |  |  |  |  | Pilhas (pilhas e acumuladores de uso doméstico); Aviso: Não serão aceites baterias de veículos automóveis e motas. | Pilhas (pilhas e acumuladores de uso doméstico); Aviso: Não serão aceites baterias de veículos automóveis e motas. |
+| LER | Descritivo simplificado |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Ecocentro de Alcochete... | Caminho Municipal 1004, Pinheiro Marco Batel, 2890 Alcochete | Tel.:932 073 921<br>Site: www.amarsul.pt | 2.ª a 5.ª feira:<br>9:00-13:00 horas<br>e das<br>14:00-18:00 horas | 2.ª a 5.ª feira:<br>9:00-13:00 horas<br>14:00-18:00 horas | Lista de Resíduos Admissíveis (Ecocentros)<br>Vidro proveniente de embalagens (garrafas, frascos, etc.);<br>Aviso: Os tipos de vidro: pirex, espelho, vidro de janelas (vidro plano), vidro aramado, resíduos cerâmicos e porcelanas, não são aceites;<br>Embalagens plásticas e metálicas, de uso doméstico (pacotes de cartão complexo para bebidas - tetrapack, esferovite, garrafas de plástico de água, sumos, detergentes, latas de bebidas, conservas, sprays, etc.);<br>Aviso: Não poderão ser colocadas embalagens de uso industrial, latas de tinta, embalagens de óleo mineral; |  |
+| Ecocentro de Almada | Azinhaga Vale da Sobreda Qt.ª da Matosa, 2815 Sobreda | Tel.:932 173 935<br>Site: www.amarsul.pt | 6.ª feira: 9:00-13:00 horas e das 14:00--17:00 horas | 6.ª feira:<br>9:00-13:00 horas<br>14:00-17:00 horas |  |  |
+| Ecocentro do Barreiro... | Rua Mártires da Guerra Colonial, 2835-446 Lavradio | Tel.:932 073 920<br>Site: www.amarsul.pt | Sábado: 9:00-13:00 horas e das 14:00--18:00 horas | Sábado:<br>9:00-13:00 horas<br>14:00-18:00 horas |  |  |
+| Ecocentro da Moita ... | Bairro João Silva Vinha das pedras, 2860-022 Alhos Vedros | Tel.:932 073 919<br>Site: www.amarsul.pt |  |  | Papel e Cartão (caixas de cartão, jornais revistas, papel de fotocópias, papel de computador e outros tipos de papel reciclável;<br>Aviso: As caixas de cartão deverão ser espalmadas antes de serem introduzidas no contentor. Deverão ser retirados todos os contaminantes, plásticos, ferragens dos dossiers, cordas e outros resíduos que não sejam os indicados. |  |
+| Ecocentro do Montijo... | Estrada do Seixalinho, 2870 Montijo | Tel.:932 073 918<br>Site: www.amarsul.pt |  |  |  |  |
+| Ecocentro do Seixal ... | Av. Fábrica da Pólvora, Vale Milhaços, 2855-382 Corroios | Tel.:932 173 925<br>Site: www.amarsul.pt |  |  | Resíduos verdes provenientes de cortes de jardins;<br>Aviso: Entregues apenas por particulares, nunca por agricultores de grandes explorações ou empresas de manutenção de espaços verdes, estes deverão dirigir-se ao Aterro Sanitário;<br>Monos domésticos (mobílias usadas, colchões, etc.);<br>Aviso: Estes resíduos deverão ser sempre entregues por particulares, as unidades comerciais e industriais deverão dirigir-se ao Aterro Sanitário; |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  | Óleos minerais, nos ecocentros onde existam oleões (provenientes de privados, sempre em pequenas quantidades, e nunca provenientes de oficinas de reparação/manutenção automóvel); |  |
+|  |  |  |  |  | Óleos alimentares (provenientes de privados, sempre em pequenas quantidades); |  |
+|  |  |  |  |  | Resíduos de Equipamentos Elétricos e Eletrónicos (REEE); |  |
+|  |  |  |  |  | Pilhas (pilhas e acumuladores de uso doméstico);<br>Aviso: Não serão aceites baterias de veículos automóveis e motas. |  |
 
 12 de abril de 2023. - Pelo Conselho de Administração da AMARSUL - Valorização e Tratamento de Resíduos Sólidos, S. A., a Presidente da Comissão Executiva, Cristina Saraiva.
+
+317205959

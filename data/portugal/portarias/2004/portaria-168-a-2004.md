@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 2º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 912-(66) a 912-(66)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b02/00660066.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/168-a/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-a-2004-486283
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89e8651d3e6785381103a55382e1e77d68eee064782b43e1e165f26a9c2d77aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ebb5cb8b76caf07fdc97836e195d612bb52676b03ff1169b6e7e85833fb8696f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,24 @@ reuse:
 subjects:
 - Administração Regional de Saúde do Norte
 - Alfândega da FÉ
+- Bragança
 - Centro de Saúde
 - Quadro de Pessoal
-- Bragança
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:39Z'
   warnings: []
   errors: []
 ---
@@ -100,4 +104,4 @@ Manda o Governo, pelos Secretários de Estado do Orçamento, da Administração 
 
 Em 25 de Novembro de 2003.
 
-**O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - A Secretária de Estado da Administração Pública, Suzana Maria de Moura Alves da Silva Toscano. - O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva.**
+O Secretário de Estado do Orçamento, Norberto Emílio Sequeira da Rosa. - A Secretária de Estado da Administração Pública, Suzana Maria de Moura Alves da Silva Toscano. - O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva.

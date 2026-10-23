@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/021000000/0055300553.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/108-2025-905460286
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a1a467ce9758394a41800ad3faedf873ccf555d64f99e9cb69c27f2063c93745
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3359b4e7dcbef52542ce542099f3537a63683572a805dde3cd3b4cb03baf4cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:45Z'
   warnings: []
   errors: []
 ---
@@ -88,4 +88,7 @@ Assim, torna-se público o anexo iii - organograma - estrutura organizacional, e
 
 6 de janeiro de 2025. - A Vereadora do Pelouro do Ordenamento do Território, Urbanismo e Modernização Administrativa, Eng.ª Michele Alves.
 
-![](https://files.diariodarepublica.pt/images/905460286/905460236.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/905460286/905460236.png) |
+| --- |
+
+318534489

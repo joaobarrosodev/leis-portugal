@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/360/2002/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/360-2002-302938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ba1d703e40d1b0a9ed40cc9e1aaf9d3b06c009656aa9506be475fcb97aef4ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79941bf559dd6f8a2309878701ffdb983f02d1cd7bd7768ca4aa798169a5749d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituição de Crédito
 - Contabilidade
-- Zona Tributária Privilegiada
+- Instituição de Crédito
+- Instituição Financeira
 - IRC
 - Madeira.região Autónoma
-- Instituição Financeira
 - Sucursal Financeira
+- Zona Tributária Privilegiada
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/198/2001/07/03/p/dre
@@ -86,16 +86,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1446-c/2001/12/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1446-c/2001/12/21/p/dre
+- type: cites
+  target: pt:dre:319769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347542:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620928:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:45Z'
   warnings: []
   errors: []
 ---
@@ -162,4 +178,4 @@ b) Departamentos de logística - os que não realizam as operações e serviços
 
 13.º As instituições de crédito e sociedades financeiras poderão, quanto aos períodos de tributação que se iniciem após 31 de Dezembro de 2001 e até 31 de Maio de 2002, apresentar o requerimento referido nos n.os 9.º e 10.º até 30 de Junho de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins, em 13 de Março de 2002.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins, em 13 de Março de 2002.

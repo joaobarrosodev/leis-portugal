@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/2003/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2003-214963
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ca050c71de61e965340988648f78873f6d575d59ff3e42d7cb2947423c0e57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1f64017e65e2deb478e265e3f9455571044c68f92a5dcec07f2a1fb35ac6c397
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,21 @@ subjects:
 - Secretário de Estado Adjunto do Ministro da Economia
 - SELO Comemorativo
 - SELO Postal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:58Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +121,4 @@ Taxas, motivos e quantidades:
 
 Bloco com dois selos ((euro) 1/(euro) 1), 60000.
 
-**A Secretária de Estado Adjunta do Ministro da Economia, Maria Dulce Farinha Franco Vilhena de Carvalho, em 19 de Fevereiro de 2003.**
+A Secretária de Estado Adjunta do Ministro da Economia, Maria Dulce Farinha Franco Vilhena de Carvalho, em 19 de Fevereiro de 2003.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/490/2003/06/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-2003-684191
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fbccc134dacac78446ffe77d81fd4e24b967da2324765d9cb648ae4c6a27f20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fe11f4f0ac2bc693f63f01232c42342ec2861ee08803fdd410ab2229c321303
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -78,16 +78,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/893/2002/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/893/2002/07/27/p/dre
+- type: cites
+  target: pt:dre:180024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197533:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:31Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +112,7 @@ Assim:
 
 Manda o Governo, pelo Secretário de Estado Adjunto do Ministro da Saúde, que seja alterado o modelo de carteira profissional de odontologista, aprovado pela [Portaria n.º 893/2002](https://diariodarepublica.pt/dr/detalhe/portaria/893-2002-197533), de 27 de Julho, de acordo com o modelo anexo à presente portaria, que dela faz parte integrante.
 
-**O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva, em 21 de Maio de 2003.**
+O Secretário de Estado Adjunto do Ministro da Saúde, Adão José Fonseca Silva, em 21 de Maio de 2003.
 
 ## ANEXO — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/06/138b00/35693571.pdf)
 

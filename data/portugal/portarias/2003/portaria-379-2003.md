@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/379/2003/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/379-2003-580993
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53b5a1f500862e607c0d32476694265c873a605c7c9420d3b8ecd4413044b71b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 008f098e92207702a04b94677ecc7e02478b06b557967944c9a67dbde071319f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,22 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
 - Desenvolvimento Rural
-- Gestão Financeira
 - Direcção Geral de Protecção das Culturas
 - Direcção Regional de Agricultura
+- Financiamento
+- Gestão Financeira
+- Ifadap
 - Ministro da Agricultura do Desenvolvimento Rural e das Pescas
 - Modernização Tecnológica
-- Regulamento de Aplicação das Componentes NºS 1 2 e 3 da Acção Nº 8.2-redução do Risco e dos Impactes Ambientais na Aplicação
-  de Produtos Fitofarmacêuticos
-- QCA III
 - Política Agrícola
+- Produto Fitofarmacêutico
+- Programa AGRO
+- QCA III
 - Reembolso
 - Regulamento
-- Programa AGRO
-- Produto Fitofarmacêutico
-- Ifadap
+- Regulamento de Aplicação das Componentes NºS 1 2 e 3 da Acção Nº 8.2-redução do Risco e dos Impactes Ambientais na Aplicação
+  de Produtos Fitofarmacêuticos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
@@ -101,16 +101,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/94/2002/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/94/2002/01/30/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664893:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:52Z'
   warnings: []
   errors: []
 ---
@@ -135,7 +151,9 @@ Beneficiários e condições de acesso
 
 Podem beneficiar das ajudas previstas nesta componente os operadores económicos que estejam habilitados com formação de nível superior na área agrícola ou florestal ou que, relativamente a cada estabelecimento de comercialização de produtos fitofarmacêuticos, tenham ao seu serviço um técnico com igual habilitação académica.
 
-###### Artigo 6.º — Forma e valor das ajudas
+Artigo 6.º
+
+Forma e valor das ajudas
 
 ...
 
@@ -143,7 +161,9 @@ a) 70% da despesa elegível para as organizações de agricultores que actuem co
 
 b) ...
 
-###### Artigo 11.º — Beneficiários e condições de acesso
+Artigo 11.º
+
+Beneficiários e condições de acesso
 
 1 - ...
 
@@ -157,7 +177,9 @@ a) ...
 
 b) ...
 
-###### Artigo 12.º — Forma e valor das ajudas
+Artigo 12.º
+
+Forma e valor das ajudas
 
 ...
 
@@ -169,7 +191,9 @@ c) ...
 
 d) ...
 
-###### Artigo 13.º — Despesas elegíveis
+Artigo 13.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -189,7 +213,9 @@ b) (euro) 500000 por candidatura para as organizações de agricultores e associ
 
 c) [Anterior alínea b).]
 
-###### Artigo 17.º — Beneficiários e condições de acesso
+Artigo 17.º
+
+Beneficiários e condições de acesso
 
 1 - ...
 
@@ -199,7 +225,9 @@ b) As pessoas singulares ou colectivas que exerçam, ou cujos associados exerça
 
 2 - ...
 
-###### Artigo 18.º — Forma e valor das ajudas
+Artigo 18.º
+
+Forma e valor das ajudas
 
 ...
 
@@ -209,7 +237,9 @@ b) 50% da despesa elegível para os laboratórios das organizações de agricult
 
 c) ...
 
-###### Artigo 19.º — Despesas elegíveis
+Artigo 19.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -231,7 +261,9 @@ b) (euro) 50000 por candidatura para as organizações de agricultores e associa
 
 c) [Anterior alínea b).]
 
-###### Artigo 25.º — Despesas elegíveis
+Artigo 25.º
+
+Despesas elegíveis
 
 1 - ...
 
@@ -253,7 +285,9 @@ a) ...
 
 b) ...
 
-###### Artigo 30.º — Decisão das candidaturas
+Artigo 30.º
+
+Decisão das candidaturas
 
 1 - ...
 
@@ -285,4 +319,4 @@ b) Componente n.º 2:
 
 c) ...»
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 22 de Abril de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 22 de Abril de 2003.

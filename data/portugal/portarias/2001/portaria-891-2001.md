@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/891/2001/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/891-2001-378927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d40ffe5f4ee7ce984911e392a60750f57e9b06807ff1dee13d4983e1dcf223f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f896cdc4c73b0b27b371e298a1f29ca250b38c2e4e81d89bcdbd6474746f05f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Cheque
 - Cobrança
 - Dívida Aduaneira
-- Meios de Pagamento do Tesouro
 - Imposto Automóvel
+- Meios de Pagamento do Tesouro
 - Tesouraria da Fazenda Pública
 relationships:
 - type: cites
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/796/1999/09/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/796/1999/09/15/p/dre
+- type: cites
+  target: pt:dre:310379:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694244:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:19Z'
   warnings: []
   errors: []
 ---
@@ -113,4 +125,4 @@ Manda o Governo, pelo Ministro das Finanças, que à [Portaria n.º 796/99](http
 
 «3.º O disposto nos números anteriores não se aplica quando o montante a pagar por meio de cheque não for superior a 12500$00.»
 
-**O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 29 de Junho de 2001.**
+O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura, em 29 de Junho de 2001.

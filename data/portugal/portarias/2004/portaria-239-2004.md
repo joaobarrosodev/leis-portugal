@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/239/2004/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/239-2004-552498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d316e2a756ceabf8c518aff5fe3ea7c47788c35c552d2580e4e9a4165bfb8c42
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3eafcc3576589246b2acb7015862fe06ad2f10c667ece7c68130d276eedbfba6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,18 @@ relationships:
   target: pt:dre:609588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:642056:por
+  label: "Anexados vários prédios rústicos pela PORT.1256/2007.26.09.2007.MAOTDR, DR.IS [186] de 26.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1256-2007-642056
+  date: '2007-09-26'
+- type: amended_by
+  target: pt:dre:609588:por
+  label: "Renovada, por um período de seis anos, a zona de caça municipal de Cárcoda, criada pelo presente diploma, alterada\
+    \ pela Port 1256/2007, de 26-Set, bem como a respectiva transferência de gestão, por igual período, pela PORT.113/2010.25.02.2010.MADRP,\
+    \ DR.IS [39] de 25.02.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2010-609588
+  date: '2010-02-25'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1391/2002/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1391/2002/10/25/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:04Z'
   warnings: []
   errors: []
 ---

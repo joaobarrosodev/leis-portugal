@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/053b00/12071207.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/212/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/212-2004-551668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b833084846d6b199138e4f4223e58529ed18109219a9af079316c65bd15af477
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c58ec3d619c82ece6f7029bcf3fd59a70b256bef06dadd0fe4fd5652f23e0bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,25 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760/1997/08/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760/1997/08/28/p/dre
+- type: cites
+  target: pt:dre:194624:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:546249:por
+  label: "Revogada pela PORT.1399/2004.12.11.2004.MAPF, DR.IS-B [266] de 12.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1399-2004-546249
+  date: '2004-11-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:54Z'
   warnings: []
   errors: []
 ---
@@ -116,6 +125,6 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, a
 
 7.º A presente portaria entra imediatamente em vigor.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2004.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2004.
 
 ## ANEXO — [(ver logótipo no documento original)](https://files.diariodarepublica.pt/1s/2004/03/053b00/12071207.pdf)

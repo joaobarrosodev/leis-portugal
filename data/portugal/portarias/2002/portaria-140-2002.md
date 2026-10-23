@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/036b00/10841085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/140/2002/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/140-2002-284914
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74f1d84332d06fb24300a1657e38c552424a7817c96f05db798c68e1046735be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42ff60093fc3fa862e3a8f0ed3be14c6fd7b157689e7d214d513e9e8bbe410b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Acesso ao Direito
 - Ajuda Judicial
-- Impresso
 - Direito à Justiça
+- Impresso
 - Pessoa Coletiva
 - Pessoa Singular
 relationships:
@@ -84,16 +84,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1223-a/2000/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1223-a/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:315338:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:412063:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:216760:por
+  label: "Revogada pela PORT.1085-B/2004.31.08.2004.MJ, DR.IS-B [205-Supl] de 31.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1085-b-2004-216760
+  date: '2004-08-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:27Z'
   warnings: []
   errors: []
 ---

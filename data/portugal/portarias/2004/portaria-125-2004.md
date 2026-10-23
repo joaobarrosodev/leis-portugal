@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/031b00/07430743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/125/2004/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/125-2004-582226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 429b4756bbade1943287acc1b7b4e1bf4171f02c24224c720fc6401b594eab33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a62bc382516b79482063775f7bf99dddaead99f84ace236b0042145786cfa8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,19 +68,30 @@ reuse:
 subjects:
 - Batata
 - Certificado Fitossanitário
+- Circulação de Mercadorias
+- Comércio
 - Doença Vegetal
 - Egipto
+- Embalagem
 - Etiquetagem
 - Importação
-- Embalagem
-- Circulação de Mercadorias
 - Proteção Fitossanitária
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:469029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626224:por
+  label: "Alterado o nº 2º pela PORT.35/2005.17.01.2005.MAPF, DR.IS-B [11] de 17.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-2005-626224
+  date: '2005-01-17'
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantido em vigor o presente diploma, na redacção da Port 35/2005 de 17-Jan, pelo DEC LEI.154/2005.06.09.2005.MADRP,\
+    \ DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: celex:31996D0301
   label: null
@@ -89,16 +100,21 @@ relationships:
   target: celex:32004D0004
   label: null
   source: http://data.europa.eu/eli/dec/2004/4/oj
+- type: repealed_by
+  target: pt:dre:469029:por
+  label: "Revogada pela PORT.1332/2005.29.12.2005.MADRP, DR.IS-B [249] de 29.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1332-2005-469029
+  date: '2005-12-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:16Z'
   warnings: []
   errors: []
 ---

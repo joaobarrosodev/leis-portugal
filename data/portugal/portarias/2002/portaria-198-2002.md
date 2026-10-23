@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/198/2002/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-2002-253034
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c3b280689398af30be3a8194b83e86a85afa92c70c17571b2c2daedbec89836
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cffb6e7a7e96b986119c25c0a36394acbe95ef1f1e0e7927de0aaf19c0689bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,9 +69,9 @@ reuse:
 subjects:
 - Bacharelato
 - Escola Superior de Educação
+- Guarda
 - Instituto Politécnico
 - Licenciatura
-- Guarda
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
@@ -93,16 +93,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/692/2001/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/692/2001/07/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577773:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:43Z'
   warnings: []
   errors: []
 ---
@@ -155,10 +187,10 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18511852.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18511852.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18511852.pdf)
 
 QUADRO N.º 5
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18511852.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18511852.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18511852.pdf)

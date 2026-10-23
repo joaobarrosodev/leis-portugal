@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/137b00/34983498.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/480/2003/06/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/480-2003-684438
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf8c0f5c9b795620bdc6f6ce348db33b1101273373c3804c8499c5fb6bc4b98c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf423937c6de3d5b8db8095296eba40ba56927c9cb41b893a6c6f1cec89ad039
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Residência de Estrangeiros
+- Admissão de Estrangeiros
 - Cidadão Estrangeiro
 - Refugiado
 - Regulamento CE
-- Admissão de Estrangeiros
+- Residência de Estrangeiros
 relationships:
 - type: amended_by
   target: pt:dre:440528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:635814:por
+  label: "Mantida em vigor até revogação expressa, pela LEI.23/2007.04.07.2007.AR, DR.IS [127] de 04.07.2007, nos termos do\
+    \ nº 2 do art. 218º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/23-2007-635814
+  date: '2007-07-04'
+- type: amended_by
+  target: pt:dre:453981:por
+  label: "Estabelecidas novas tipologias e revogadas as als. 3) e 4) pela PORT.996/2008.04.09.2008.MAI, DR.IS [171] de 04.09.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/996-2008-453981
+  date: '2008-09-04'
 - type: cites
   target: celex:32002R1030
   label: null
   source: http://data.europa.eu/eli/reg/2002/1030/oj
+- type: repealed_by
+  target: pt:dre:440528:por
+  label: "Revogada, a partir de 15.12.2008, pela PORT.1432/2008.10.12.2008.MAI, DR.IS [238] de 10.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1432-2008-440528
+  date: '2008-12-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:29Z'
   warnings: []
   errors: []
 ---
@@ -117,6 +134,6 @@ Manda o Governo, pelo Ministro da Administração Interna, que, nos termos das d
 
 4) Razões humanitárias, ao abrigo do artigo 8.º da Lei n.º 15/98, de 26 de Março.
 
-**O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 23 de Maio de 2003.**
+O Ministro da Administração Interna, António Jorge de Figueiredo Lopes, em 23 de Maio de 2003.
 
 [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/06/137b00/34983498.pdf)

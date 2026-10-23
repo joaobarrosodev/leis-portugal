@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/024000000/0662506625.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/271-2011-3588713
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff0724017989b100b80c5f13ea05c160fa5f1508b45b64ad4a5e500bfeccfcd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 774ac8d23c0fb7b4daf6c61a9b1ad10a1d22e677617dbf49bc5827ce07045a1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,82 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:220753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:454014:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570504:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:604850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:43Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 271/2011
+# Declaração de rectificação n.º 271/2011
 
 Tendo-se verificado a existência de um lapso no aviso n.º 1592/2011, publicado no Diário da República, 2.ª série, n.º 10, de 14 de Janeiro de 2011, torna-se público que:
 
@@ -127,3 +187,5 @@ Diário da República, 2.ª série, n.º 37, de 13 de Fevereiro de 2003 - Regula
 [Decreto-Lei n.º 141/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551), de 16 de Junho - Regime Jurídico das Instalações Desportivas de Uso Público.»
 
 18 de Janeiro de 2011. - Por delegação do Presidente da Câmara, o Vereador, Hermínio Loureiro de Magalhães.
+
+304267359

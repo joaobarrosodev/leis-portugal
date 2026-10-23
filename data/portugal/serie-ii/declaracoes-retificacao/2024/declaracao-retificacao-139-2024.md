@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/039000000/0008300083.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/139-2024-853524372
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c14dc3b7932135b85056f1f699c25c16a7e9ced686d4edfd0641cf854cffe4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8011d7a800b8bb825af566cd51ffb5d79f96cc13f9c0751f494d75e1dd36b0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:855433566:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:836281201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840598885:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:59Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +97,5 @@ validation:
 Por ter sido publicado em duplicação do [Despacho n.º 144/2024](https://diariodarepublica.pt/dr/detalhe/despacho/144-2024-836281201), de 6 de fevereiro, é anulada a publicação do [Despacho n.º 1514/2024](https://diariodarepublica.pt/dr/detalhe/despacho/1514-2024-840598885), o qual foi publicado no Diário da República, 2.ª série, parte C, n.º 27, de 7 de fevereiro de 2024.
 
 8 de fevereiro de 2024. - O Chefe de Divisão, Manuel Silvares Pinheiro.
+
+317343918

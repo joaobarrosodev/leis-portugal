@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 83/2022, 3º Suplemento, Série II de 2022-04-29
   number: '83'
   series: II
-  supplement: 3º Suplemento
+  supplement: null
   pages: 441-(2) a 441-(18)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/083000003/0000200018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/369-a-2022-182727852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e81a16e4aad6bc41698e1b0ff1d2b2af4dd5bbd8a3eef5744b9550f5a0f9f718
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1381ab18de9f6aa30c21fbe1d187f56c743f5b95eb913407eeab3c2a600d48e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Combustível
+- Fiscalização
+- Prevenção de Incêndios
+- Proteção da Floresta
+- Rectificação de Entidade Emitente
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180830534:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:26Z'
   warnings: []
   errors: []
 ---
@@ -93,4 +106,6 @@ Ao abrigo do disposto nos n.os 2 e 3 do artigo 12.º do Regulamento de Publicaç
 
 Lista de freguesias prioritárias
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/083000003/0000200018.pdf))](https://files.diariodarepublica.pt/2s/2022/04/083000003/0000200018.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/083000003/0000200018.pdf)
+
+315276555

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/210000000/0014200146.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/891-2024-893763470
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 380657a359ed7adc0917b6c1f096e6ad026faa9b47f6b7e27a84de5f2ea019e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1646b0fee62f403562e2558eae4521e10035d42a4b68a46c539b7b4aa876ce01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:2013971:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:31Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +103,19 @@ Em anexo ao presente Despacho procede-se à republicação da Tabela de Emolumen
 
 ## ANEXO — Tabela de emolumentos do Instituto Politécnico de Coimbra
 
-| Atos | Valores (em euros) |
+| Atos | Valores<br>(em euros) |
 | --- | --- |
 | 1 - Candidaturas: |  |
-| 1.1 - Concursos especiais (maiores de 23 anos, titulares de outros cursos superiores, titulares de um diploma de CET, titulares de diploma de CTESP e Estudante Internacional) (<sup>1</sup>) | 50,00 € |
+| 1.1 - Concursos especiais (maiores de 23 anos, titulares de outros cursos superiores, titulares de um diploma de CET, titulares de diploma de CTESP e Estudante Internacional) (1) | 50,00 € |
 | 1.2 - Reingresso, mudança de par instituição/curso e retoma em cursos de mestrado | 50,00 € |
 | 1.3 - Mudança de regime de frequência (entre pós-laboral e diurno e vice-versa) | 50,00 € |
 | 1.4 - Cursos Técnicos Superiores Profissionais | 50,00 € |
-| 1.5 - Ciclo de estudos de Mestrado (<sup>1</sup>) (<sup>2</sup>) | 50,00 € |
+| 1.5 - Ciclo de estudos de Mestrado (1) (2) | 50,00 € |
 | 1.6 - Ciclo de estudos de Doutoramento | 50,00 € |
 | 1.7 - Concurso Local de Acesso | 50,00 € |
 | 1.8 - Curso não conferente de grau - Formação especializada e profissionalização em serviço | 50,00 € |
-| 1.9 - Curso não conferente de grau - Pós-graduação (<sup>3</sup>) | 50,00 € |
-| 1.10 - Cursos de Formação contínua, cursos de preparação para o acesso ao ensino superior (duração até 180 horas), Cursos Livres e outros Cursos de Formação (<sup>4</sup>) | 25,00 € |
+| 1.9 - Curso não conferente de grau - Pós-graduação (3) | 50,00 € |
+| 1.10 - Cursos de Formação contínua, cursos de preparação para o acesso ao ensino superior (duração até 180 horas), Cursos Livres e outros Cursos de Formação (4) | 25,00 € |
 | 1.11 - Cursos de Preparação para acesso ao ensino superior (duração superior a 180 horas) | 50,00 € |
 | 2 - Inscrições - Matrículas: |  |
 | 2.1 - Provas de avaliação de capacidade para maiores de 23 anos/Provas de avaliação de capacidade para ingresso nos CTESP | 50,00 € |
@@ -121,13 +125,13 @@ Em anexo ao presente Despacho procede-se à republicação da Tabela de Emolumen
 | 2.5 - Inscrição em Cursos de 2.º Ciclo | 125,00 € |
 | 2.6 - Inscrição em Cursos de 3.º Ciclo. | 125,00 € |
 | 2.7 - Inscrição em Curso não conferente de grau - Formação especializada e profissionalização em serviço | 50,00 € |
-| 2.8 - Inscrição em Cursos não conferente de grau - Pós-graduação (<sup>3</sup>) | 50,00 € |
+| 2.8 - Inscrição em Cursos não conferente de grau - Pós-graduação (3) | 50,00 € |
 | 2.9 - Inscrição em Cursos de Formação contínua, cursos de preparação para o acesso ao ensino superior (duração até 180 horas), Cursos Livres e outros Cursos de Formação | 25,00 € |
 | 2.10 - Inscrição em Cursos de Preparação para acesso ao ensino superior (duração superior a 180 horas) | 75,00 € |
 | 2.11 - Alteração da inscrição de unidade curricular por decisão do estudante | 20,00 € |
 | 2.12 - Alteração de ramo/percurso por decisão do estudante | 50,00 € |
-| 2.13 - Inscrição e frequência em unidade curricular isolada | 125,00 €/unidade curricular isolada |
-| 2.14 - Inscrição e frequência de estudante regular em unidade extracurricular adicional no IPC | 75,00 €/unidade extracurricular |
+| 2.13 - Inscrição e frequência em unidade curricular isolada | 125,00 €/unidade<br>curricular isolada |
+| 2.14 - Inscrição e frequência de estudante regular em unidade extracurricular adicional no IPC | 75,00 €/unidade<br>extracurricular |
 | 2.15 - Inscrição em exames por unidade curricular na época de recurso, especial e extraordinária | 3,00 € |
 | 2.16 - Inscrição em exames por unidade curricular para efeitos de melhoria de nota | 5,00 € |
 | 2.17 - Inscrição em provas do Concurso Local de Acesso (1.º ciclo) | 25,00 € |
@@ -148,12 +152,12 @@ Em anexo ao presente Despacho procede-se à republicação da Tabela de Emolumen
 | 3.4 - * Certidão de cargas horárias | 10,00 € |
 | 3.5 - * Certidão de aprovação explicitando a(s) unidade(s) curricular(es) | 15,00 € |
 | 3.6 - * Certificado de cursos de formação contínua, cursos livres ou outras ações de formação | 15,00 € |
-| 3.7 - (<sup>1</sup>) Certidão prevista no n.º 4 do artigo 11.º do Regulamento das provas de avaliação de capacidade para a frequência dos cursos superiores do IPC dos maiores de 23 anos | 20,00 € |
+| 3.7 - (1) Certidão prevista no n.º 4 do artigo 11.º do Regulamento das provas de avaliação de capacidade para a frequência dos cursos superiores do IPC dos maiores de 23 anos | 20,00 € |
 | 3.8 - Outras certidões: |  |
 | 3.8.1 - * Certidão de conclusão de curso pré-Bolonha (quando detentor de Carta de Curso) | 5,00 € |
 | 3.8.2 - * Certidão não especificada (por página) | 1,50 € |
-| 3.8.3 - * Certidão por fotocópia (por página) | 1,50 €0,06 €/palavra - até 100 palavras0,05 €/palavra - a partir de 100 palavras a 1000 palavras |
-| 3.8.4 - Certidão em língua estrangeira (que não inglês; valor a acrescer à certidão respetiva) | 0,04 €/palavra- mais de 1000 palavras (até ao máximo de 100,00 €) |
+| 3.8.3 - * Certidão por fotocópia (por página) | 1,50 €0,06 €/palavra - até<br>100 palavras0,05 €/palavra - a partir de 100 palavras<br>a 1000 palavras |
+| 3.8.4 - Certidão em língua estrangeira (que não inglês; valor a acrescer à certidão respetiva) | 0,04 €/palavra- mais de 1000 palavras<br>(até ao máximo<br>de 100,00 €) |
 | 3.9 - Declarações não especificadas | 15,00 € |
 | 4 - Cartas de Curso:(Para os estudantes inscritos em 2.4, 2.5, 2.6, que concluam os respetivos ciclos de estudo a partir do ano letivo de 2024/2025, inclusive, não se aplicam os emolumentos previstos neste ponto referente à emissão da Carta de Curso, aplicando-se à emissão das Certidão de Registo/Diploma o previsto no ponto 3 da presente tabela de emolumentos.) |  |
 | 4.1 - Grau de Licenciado: |  |
@@ -167,7 +171,7 @@ Em anexo ao presente Despacho procede-se à republicação da Tabela de Emolumen
 | 4.3.2 - Carta Doutoral + Certidão de Registo/Diploma | 320,00 € |
 | 5 - Reconhecimento de graus e diplomas estrangeiros: |  |
 | 5.1 - Reconhecimento de nível e reconhecimento específico (grau de licenciado, grau de mestre, grau de Doutor e de diploma de técnico superior profissional) | 750,00 € |
-| 5.1.1 - Realização de provas de avaliação de conhecimentos determinados para a atribuição de Reconhecimento Específico | 150,00 €/por prova a acrescer ao valor previsto em 5.1. |
+| 5.1.1 - Realização de provas de avaliação de conhecimentos determinados para a atribuição de Reconhecimento Específico | 150,00 €/por prova a acrescer ao valor<br>previsto em 5.1. |
 | 5.2 - Reconhecimento automático | 40,00 € |
 | 5.3 - Pedido de conversão de classificação final apresentado separadamente face ao pedido de reconhecimento de grau académico ou diploma | 75,00 € |
 | 5.4 - Emissão de 2.ª via de Certidão de Reconhecimento | 20,00 € |
@@ -187,7 +191,7 @@ Em anexo ao presente Despacho procede-se à republicação da Tabela de Emolumen
 | 8.1 - Revisão de prova de exame escrito final ou equiparado | 25,00 € |
 | 8.2 - Consulta das provas de avaliação de capacidade para maiores de 23 anos, e das provas de avaliação de capacidade para ingresso nos CTESP (por cada prova escrita) | 10,00 € |
 | 8.3 - Reapreciação das provas de avaliação de capacidade para maiores de 23 anos) | 50,00 € |
-| 9 - Atos de matrícula e inscrição fora do prazo (<sup>5</sup>): |  |
+| 9 - Atos de matrícula e inscrição fora do prazo (5): |  |
 | 9.1 - Nos primeiros 15 dias seguidos a contar do prazo fixado | 15,00 € |
 | 9.2 - Nos 15 dias subsequentes e até 30 dias seguidos a contar do prazo fixado | 50,00 € |
 | 9.3 - Após 30 dias seguidos, se autorizado o requerimento de matrícula/inscrição fora do prazo fixado | 100,00 € |
@@ -217,3 +221,5 @@ Candidatos ao abrigo da alínea d) do artigo 7.º do Regulamento Académico do 2
 * A certidão poderá ser emitida em língua portuguesa ou língua inglesa.
 
 ** A certidão é emitida em língua portuguesa e em língua inglesa.
+
+318268047

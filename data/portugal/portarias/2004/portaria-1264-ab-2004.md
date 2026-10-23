@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 230/2004, 1º Suplemento, Série I-B de 2004-09-29
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6174-(18) a 6174-(19)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/230b01/00180019.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1264-ab/2004/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1264-ab-2004-615985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf6c89f2b16bf33f906fac715e0bd488dfc69481b9d082d36148a4d3404e6a8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 734b9beb337d46b1d7c56d9945dfb8ba44cc0b9da764990c26bfe799cae6c27b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,25 @@ relationships:
   target: pt:dre:490966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:552361:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 1344/2002 de 11-Out, com a redacção constante do\
+    \ presente diploma, pela PORT.1400/2006.15.12.2006.MAOTDR, DR.IS [240] de 15.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1400-2006-552361
+  date: '2006-12-15'
+- type: amended_by
+  target: pt:dre:438425:por
+  label: "Renovada, por um período de seis anos, a zona de caça concessionada pela 1344/2002, de 11-Out, bem como a transferência\
+    \ de gestão por igual período, alterada pelo presente diploma e pela Port 1400/2006, de 15-Dez, pela PORT.1164/2008.15.10.2008.MAOTDR,\
+    \ DR.IS [200] de 15.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1164-2008-438425
+  date: '2008-10-15'
+- type: amended_by
+  target: pt:dre:490966:por
+  label: "Excluídos vários terrenos cinegéticos da zona de caça municipal de Montalegre criada pela Port 1344/2002, de 11-Out,\
+    \ alterada pelo presente diploma, pela PORT.1140/2009.01.10.2009.MADRP, DR.IS [191] de 01.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1140-2009-490966
+  date: '2009-10-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -99,16 +118,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
+- type: cites
+  target: pt:dre:275635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656436:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:23Z'
   warnings: []
   errors: []
 ---

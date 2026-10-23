@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 73/2002, 1º Suplemento, Série I-B de 2002-03-27
   number: '73'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2926-(2) a 2926-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/073b01/00020003.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/330-a/2002/03/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-a-2002-178564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-07-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04118ca664304172c3ff62d2de19da9dbc67ee0bf349d3ca40514bf9f0f916f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 05d248245d2b0dd0cabce40b5d479d2a4889bfa0ae4191edcbace68850f957f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,11 @@ relationships:
   target: pt:dre:537436:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2258203:por
+  label: "Alterado pela PORT.319/2004(2ªSérie).10.02.2004.MF, DR.IIS [66] de 18.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/319-2004-2258203
+  date: '2004-02-10'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/282/1997/05/02/p/dre
   label: null
@@ -86,16 +91,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/637/1999/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/637/1999/08/11/p/dre
+- type: cites
+  target: pt:dre:171362:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:360118:por
+  label: "Revogada a Port 277/87 de 06-Abr, na redacção do presente diploma e substituído o mapa de pessoal da Representação\
+    \ Permanente de Portugal pelo mapa anexo à PORT.640/2006.26.06.2006.MNE, DR.IS-B [121] de 26.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/640-2006-360118
+  date: '2006-06-26'
+- type: repealed_by
+  target: pt:dre:537436:por
+  label: "Revogada a Portaria 277/87 de 06 de Abril (já anteriormente revogada pela Portaria 640/2006, de 26 de Junho) na\
+    \ redacção do presente diploma, pela PORT.700/2006.13.07.2006.MNE, DR.IS [134] de 13.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/700-2006-537436
+  date: '2006-07-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:35Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +159,7 @@ Manda o Governo, pelos Ministros dos Negócios Estrangeiros, das Finanças, da D
 
 Em 15 de Março de 2002.
 
-**O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.**
+O Ministro dos Negócios Estrangeiros, Jaime José Matos da Gama. - O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.
 
 MAPA ANEXO
 

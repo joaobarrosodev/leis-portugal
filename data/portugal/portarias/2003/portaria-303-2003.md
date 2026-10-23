@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/303/2003/04/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/303-2003-226053
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4606e8056ba88dc5e70773733ce5e727381313281f7e83ec3eb2a3556a13108e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d25aeb12185d7d2f12af2096e810e199c8052b65a9c61840a36efc2506b250e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
+- Administração Local
+- Administração Pública
+- Administração Regional
 - ADSE
 - Ajudas de Custo
-- Pessoal Dirigente
+- Caixa Geral de Aposentações
 - Deslocação ao Estrangeiro
 - Deslocação em Serviço
-- Regulamentação de Atos Legislativos
-- Administração Pública
-- Caixa Geral de Aposentações
+- Função Pública
+- Funcionário Público
 - Gabinete Governamental
+- Gratificação
 - Membros do Governo
 - Missão no Estrangeiro
 - Missão Oficial
@@ -86,12 +88,10 @@ subjects:
 - Pensão de Preço de Sangue
 - Pensão de Reforma
 - Pessoal de Gabinete
+- Pessoal Dirigente
 - Política Salarial
-- Administração Local
-- Gratificação
+- Regulamentação de Atos Legislativos
 - Remuneração
-- Funcionário Público
-- Administração Regional
 - Subsídio de Refeição
 - Subsídio de Transporte
 - Subsídio de Viagem e Marcha
@@ -100,6 +100,12 @@ relationships:
   target: pt:dre:551775:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:551775:por
+  label: "Actualizado o montante do subs&#237;dio de refei&#231;&#227;o fixado pelo presente diploma, pela PORT.205/2004.03.03.2004.MF,\
+    \ DR.IS-B [53] de 03.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/205-2004-551775
+  date: '2004-03-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
   label: null
@@ -120,16 +126,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/88/2002/01/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/88/2002/01/28/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:26Z'
   warnings: []
   errors: []
 ---
@@ -260,4 +298,4 @@ b) Pensões de sobrevivência, de preço de sangue e outras de valor global até
 
 20.º A presente portaria produz efeitos desde 1 de Janeiro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 28 de Março de 2003.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 28 de Março de 2003.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/534/2002/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/534-2002-154232
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2dc22aef18c4d4b394551d5a67dac076213c6ab58544e876ac6338fe8016f252
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d8939506dd282fcfbad77994bc373c624ac5d8f9766ca4db34a7a2743b40423
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultor
+- Agricultura
 - Desenvolvimento Rural
 - Proteção do Ambiente
-- Ruris
-- Agricultor
 - Regulamento CE
 - Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
-- Agricultura
+- Ruris
 - Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:476278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:187501:por
+  label: "Alterados os arts. 3.º, 11.º, 15.º, 19.º, 23.º, 36.º, 53.º, 59.º, 67.º, 83.º, 85.º, 87.º, 88.º, 89.º, 93.º e o anexo\
+    \ VI do Regulamento, constante da Port 475/2001, de 10-Mai, pela PORT.192/2003.2003.02.22.MADRP DR.IS-B [45]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/192-2003-187501
+  date: '2003-02-22'
 - type: cites
   target: celex:31999R1257
   label: null
@@ -95,16 +101,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/475/2001/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/475/2001/05/10/p/dre
+- type: repealed_by
+  target: pt:dre:476278:por
+  label: "Revogada a Port 475/2001, de 10-Maio, com as alterações introduzidas pelo presente diploma, pela PORT.1212/2003.16.10.2003.MADRP,\
+    \ DR.IS-B [240] de 16.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1212-2003-476278
+  date: '2003-10-16'
 article_structure:
-  article_count: 26
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:46Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +179,9 @@ p) [Anterior alínea o).]
 
 q) [Anterior alínea p).]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - ...
 
@@ -179,7 +193,9 @@ c) ...
 
 2 - Excepcionalmente, os beneficiários podem frequentar a acção referida na alínea c) do número anterior até 31 de Dezembro de 2002.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -209,7 +225,9 @@ e) ...
 
 4 - Excepcionalmente, os beneficiários podem frequentar a acção referida na alínea d) do n.º 1 até 31 de Dezembro de 2002.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - ...
 
@@ -257,7 +275,9 @@ vii) Utilizar exclusivamente material certificado e de qualidade superior.
 
 3 - (Anterior n.º 2.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -287,7 +307,9 @@ ii) ...
 
 3 - Excepcionalmente, os beneficiários podem frequentar a acção referida na alínea d) do n.º 1 até 31 de Dezembro de 2002.
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 ...
 
@@ -305,7 +327,9 @@ f) ...
 
 g) Realizar as operações de instalação das culturas, no 1.º ano de atribuição da ajuda, no caso de culturas a instalar.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -365,7 +389,9 @@ iii) ...
 
 6 - ...
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 ...
 
@@ -377,7 +403,9 @@ c) ...
 
 d) Não aplicar herbicidas na entrelinha e usar apenas herbicidas recomendados pelas normas de protecção integrada na zona da linha.
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -393,7 +421,9 @@ a) ...
 
 b) ...
 
-###### Artigo 44.º — [...]
+Artigo 44.º
+
+[...]
 
 Podem beneficiar das ajudas previstas nesta subsecção os beneficiários cujas unidades de produção reúnam, cumulativamente, as seguintes condições:
 
@@ -401,7 +431,9 @@ a) Área mínima de horta de 0,10 ha, quando dispersa, e 1 ha para hortas tradic
 
 b) Hortas, com ou sem pomares ou árvores de fruto ou oliveiras, localizadas fora de lugares ou núcleos populacionais.
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 1 - Para efeitos de atribuição da ajuda, os beneficiários devem comprometer-se, durante o período de concessão da ajuda, a:
 
@@ -415,7 +447,9 @@ a) Manter as paliçadas em bom estado de conservação durante a época de produ
 
 b) Utilizar pontões como suporte das varas da videira durante a maturação da uva.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -435,7 +469,9 @@ e) Encabeçamento, em pastoreio, igual ou inferior a 2 CN por hectare de superf�
 
 2 - ...
 
-###### Artigo 53.º — [...]
+Artigo 53.º
+
+[...]
 
 1 - ...
 
@@ -469,7 +505,9 @@ b) No caso da medida 'Olival tradicional' dos compromissos referidos nas alínea
 
 c) No caso da medida 'Preservação de bosquetes ou maciços arbustivo-arbóreo com interesse ecológico-paisagístico' do compromisso referido na alínea c) do artigo 73.º
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -489,7 +527,9 @@ c) ...
 
 2 - O índice referido na alínea a) do número anterior é calculado de acordo com a seguinte fórmula: número de Quercus rotundifolia e ou Quercus pyrenaica da classe A x 2 + número de Quercus rotundifolia e ou Quercus pyrenaica da classe B x 3,33 + número de Quercus rotundifolia e ou Quercus pyrenaica da classe C x 5 + número de Quercus rotundifolia e ou Quercus pyrenaica da classe D x 10 por hectare.
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 ...
 
@@ -503,7 +543,9 @@ iii) ...
 
 b) Encabeçamento, em pastoreio, de acordo com a tabela de conversão constante do anexo IV, entre 0,6 CN/ha e 2 CN/ha de SF da unidade de produção, no caso de lameiros de regadio ou entre 0,5 CN/ha e 1,2 CN/ha de SF da unidade de produção, no caso de outros prados.
 
-###### Artigo 59.º — [...]
+Artigo 59.º
+
+[...]
 
 1 - Para efeitos de atribuição das ajudas, os beneficiários devem comprometer-se, durante o período de concessão das ajudas, a:
 
@@ -523,7 +565,9 @@ g) ...
 
 2 - Excepcionalmente, os beneficiários que apresentaram candidatura no ano de 2001 podem frequentar a acção de sensibilização referida na alínea b) do número anterior até 31 de Dezembro de 2002.
 
-###### Artigo 61.º — [...]
+Artigo 61.º
+
+[...]
 
 1 - ...
 
@@ -539,7 +583,9 @@ b) ...
 
 3 - ...
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - Podem beneficiar das ajudas previstas nesta secção os beneficiários que reúnam as seguintes condições:
 
@@ -557,7 +603,9 @@ b) ...
 
 c) ...
 
-###### Artigo 68.º — [...]
+Artigo 68.º
+
+[...]
 
 1 - Para efeitos de atribuição das ajudas, os beneficiários devem comprometer-se, durante o período de concessão das ajudas, a:
 
@@ -599,7 +647,9 @@ p) Não construir cercas com altura superior a 1,2 m, ou de que resulte uma áre
 
 3 - Os compromissos referidos nos números anteriores aplicam-se à totalidade ou parte da unidade de produção situada na área geográfica de aplicação da medida, com excepção da condição de acesso prevista na alínea c) do n.º 1 artigo 67.º, a qual diz respeito à totalidade da unidade de produção.
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 ...
 
@@ -611,7 +661,9 @@ c) Sejam titulares de uma unidade de produção com um encabeçamento, em pastor
 
 d) ...
 
-###### Artigo 81.º — [...]
+Artigo 81.º
+
+[...]
 
 1 - ...
 
@@ -635,13 +687,17 @@ c) ...
 
 5 - ...
 
-###### Artigo 83.º — [...]
+Artigo 83.º
+
+[...]
 
 1 - A apresentação de candidaturas é efectuada anualmente durante um período a determinar por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
 2 - Em cada um dos quatro anos seguintes ao da formalização da candidatura, o beneficiário deve confirmar ou rectificar as declarações constantes do formulário, bem como declarar a área anualmente semeada no caso das culturas anuais objecto de ajuda no âmbito das medidas 'Luta química aconselhada', 'Protecção integrada', 'Agricultura biológica', 'Sementeira directa' e 'Mobilização mínima'.
 
-###### Artigo 85.º — [...]
+Artigo 85.º
+
+[...]
 
 1 - ...
 
@@ -651,7 +707,9 @@ c) ...
 
 4 - No caso das culturas anuais, o pagamento das ajudas às medidas referidas no n.º 2 do artigo 83.º é efectuado em função da área anualmente semeada.
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -683,7 +741,9 @@ b) Morte de um animal na sequência de acidente cuja responsabilidade não possa
 
 10 - O contrato pode ainda ser modificado no caso de redução de área ou animais objecto de ajuda a pedido do beneficiário, aquando da confirmação anual, havendo neste caso a devolução das ajudas recebidas indevidamente nos termos do disposto no artigo 15.º do Decreto-Lei n.º 8/2001, de 22 de Janeiro.
 
-###### Artigo 88.º — Rescisão e modificação unilateral do contrato
+Artigo 88.º
+
+Rescisão e modificação unilateral do contrato
 
 1 - O IFADAP pode rescindir ou modificar unilateralmente o contrato quando em consequência de controlos administrativos ou no local se verificar divergência entre as áreas ou os animais declarados e as áreas determinadas ou os animais verificados, nos termos e condições a definir por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
 
@@ -719,7 +779,9 @@ b) No caso das alíneas e) e f), à rescisão do contrato e devolução das ajud
 
 5 - O incumprimento pelos beneficiários de um dos compromissos classificados como A no anexo IX a este Regulamento ou de vários compromissos classificados como B, desde que o somatório do valor da redução referido na alínea e) do n.º 2 ultrapasse 100%, determina rescisão do contrato e consequentemente a devolução das ajudas nos termos do n.º 1 do artigo 15.º do Decreto-Lei n.º 8/2001, de 22 de Janeiro, para além da aplicação de outras sanções legalmente previstas.
 
-###### Artigo 89.º — [...]
+Artigo 89.º
+
+[...]
 
 1 - ...
 
@@ -745,7 +807,9 @@ d) ...
 
 4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido a casos de força maior referidos no n.º 2 ou circunstâncias naturais previstas no n.º 9 do artigo 87.º, conservará o seu direito à totalidade da ajuda no ano em que o facto ocorreu.
 
-###### Artigo 93.º — Regime de transição
+Artigo 93.º
+
+Regime de transição
 
 1 - ...
 
@@ -753,15 +817,21 @@ d) ...
 
 3 - O disposto nos números anteriores aplica-se, ainda, às situações em que os beneficiários do Programa Medidas Agro-Ambientais com contratos em vigor apresentem uma candidatura para uma nova área ao abrigo do presente Regulamento para uma medida similar ou para a mesma área objecto daquele contrato.
 
-## ANEXO II — [...]
+ANEXO II
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
+[...]
 
-## ANEXO VI — [...]
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
+ANEXO VI
 
-## ANEXO VII — [a que se refere a alínea b) do artigo 86.º]
+[...]
+
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
+
+ANEXO VII
+
+[a que se refere a alínea b) do artigo 86.º]
 
 A) Boas práticas agrícolas para todas as zonas.
 
@@ -811,11 +881,13 @@ B) Boas práticas agrícolas específicas para as zonas vulneráveis.
 
 Para além das condições definidas para as restantes zonas, cumprir as normas dos programas de acção das zonas vulneráveis constantes das Portarias n.os 704/2001, 705/2001 e 706/2001, todas de 11 de Julho.
 
-## ANEXO VIII — [...]
+ANEXO VIII
+
+[...]
 
 Transferência entre medidas
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
 
 2.º No anexo I do Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 475/2001, de 10 de Maio, com as alterações introduzidas pela Portaria n.º 757-A/2001, de 20 de Julho, a coluna referente ao âmbito geográfico de aplicação das medidas «Protecção integrada» e «Arrozal» passa ter a seguinte redacção:
 
@@ -823,7 +895,7 @@ Transferência entre medidas
 
 [...]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
 
 3.º É aditado ao Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 475/2001, de 10 de Maio, um anexo IX com a seguinte redacção:
 
@@ -831,10 +903,10 @@ Transferência entre medidas
 
 [a que se refere a alínea e) do n.º 2 e o n.º 5 do artigo 88.º]
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)](https://files.diariodarepublica.pt/1s/2002/05/120b00/47024714.pdf)
 
 4.º No corrente ano o período de candidatura às medidas previstas no Regulamento de Aplicação da Intervenção Medidas Agro-Ambientais, aprovado pela Portaria n.º 475/2001, de 10 de Maio, decorre até 5 de Julho.
 
 5.º O presente diploma produz efeitos a partir do dia 3 de Maio de 2002.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 10 de Maio de 2002.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 10 de Maio de 2002.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/191000000/0022800228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/742-2023-222314013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 088b9434b37b278d81bf6484ee7fb068c10e3d7c396ca1e83dc85b090d74700f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a502dcaefabf2b3a68667412eda56de6b556d90299f52fd9c7418e79f00746e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:43Z'
   warnings: []
   errors: []
 ---
@@ -87,22 +87,24 @@ Declara-se retificação do Aviso n.º 11937/2023, de 23 de junho, referente à 
 
 Assim, onde se lê:
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| « | Ordenação | Nome | Nota final | Nota final |
-| 1 | 1 | Ângela Gabriela Almeida Cardoso Rodrigues ... | 17,10 | 17,10 |
-| 2 | 2 | Marina Ivone Lamego Silva Henriques ... | 14,48 | 14,48 |
-| 3 | 3 | Luís Ricardo Ribeiro Maia ... | 12,99 | » |
+| « | Ordenação | Nome | Nota final |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| 1 | Ângela Gabriela Almeida Cardoso Rodrigues ... | 17,10 |  |
+| 2 | Marina Ivone Lamego Silva Henriques ... | 14,48 |  |
+| 3 | Luís Ricardo Ribeiro Maia ... | 12,99 | » |
 
 deve ler-se:
 
-|  |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| « | Ordenação | Nome | Nota final | Nota final |
-| 1 | 1 | Ana Patrícia Santos Cardoso ... | 18,7 | 18,7 |
-| 2 | 2 | Gorete Maria Pereira Santos ... | 17,3 | 17,3 |
-| 3 | 3 | Pedro Miguel Martins Rego ... | 14,5 | 14,5 |
-| 4 | 4 | Isabel Regina Ribeiro Gonçalves ... | 13,7 | 13,7 |
-| 5 | 5 | Francisco José Dias Agostinho ... | 13,3 | » |
+| « | Ordenação | Nome | Nota final |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| 1 | Ana Patrícia Santos Cardoso ... | 18,7 |  |
+| 2 | Gorete Maria Pereira Santos ... | 17,3 |  |
+| 3 | Pedro Miguel Martins Rego ... | 14,5 |  |
+| 4 | Isabel Regina Ribeiro Gonçalves ... | 13,7 |  |
+| 5 | Francisco José Dias Agostinho ... | 13,3 | » |
 
 22 de setembro de 2023. - A Técnica Superior do Serviço de Gestão de Recursos Humanos, Aida Maria Marques Teixeira Valente Monteiro.
+
+316883093

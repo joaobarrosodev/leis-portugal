@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/118/2002/02/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/118-2002-272823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c0a76511bdb2f0be446a12b924c54359d30452f7a22324c2c9d2c2ef365da24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb7df65bdea790cf6a900d3a156d9c8a79259cc7b1f105d9c3b84194be617493
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,25 +67,37 @@ reuse:
 subjects:
 - Aveiro
 - Cartório Notarial de Competência Especializada
-- Serviços de Registo e Notariado
 - Criação de Serviços
 - Definição de Competências
 - Quadro de Pessoal
+- Serviços de Registo e Notariado
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/35/2000/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/35/2000/03/14/p/dre
+- type: cites
+  target: pt:dre:157050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411975:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462214:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:02Z'
   warnings: []
   errors: []
 ---

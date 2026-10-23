@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/111/2003/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-2003-167064
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aee2ecab9df9e89faee6968dbc3329bde656ee2f65aaae1df9f859a3d667b847
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 303dc11812443f96d7badc5faf1439c01b7143fc2104a0e24b28db6cf3604fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,12 +67,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Aditivo Alimentar
+- Alimento Industrial
+- Alimento para Animais
 - Controlo Sanitário
 - Fabrico Industrial
-- Alimento Industrial
 - Lista
-- Aditivo Alimentar
-- Alimento para Animais
 relationships:
 - type: amended_by
   target: pt:dre:589692:por
@@ -86,16 +86,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/272/2002/03/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/272/2002/03/14/p/dre
+- type: cites
+  target: pt:dre:264939:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309008:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:589692:por
+  label: "Revogada pela PORT.113/2004.29.01.2004.MADRP, DR.IS-B [24] de 29.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/113-2004-589692
+  date: '2004-01-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:29Z'
   warnings: []
   errors: []
 ---
@@ -124,20 +137,20 @@ Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Luís Filipe Vieir
 
 ## ANEXO I — Lista de fabricantes autorizados de pré-misturas
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
 
 ## ANEXO II — Lista de fabricantes autorizados de alimentos compostos
 
 A - Fabricantes que destinam a sua produção ao mercado consumidor
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
 
 B - Fabricantes que destinam a sua produção apenas às suas explorações pecuárias (autoprodutores)
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
 
 ## ANEXO III
 
 Lista de intermediários que requereram a aprovação da actividade de colocação e circulação no mercado de aditivos e ou pré-misturas para animais, ao abrigo dos artigos 7.º e 8.º do [Decreto-Lei n.º 216/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1999-309008), de 15 de Junho
 
-[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)
+[[[[(ver lista no documento original)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)](https://files.diariodarepublica.pt/1s/2003/01/024b00/05990609.pdf)

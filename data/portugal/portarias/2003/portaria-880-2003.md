@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/880/2003/08/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/880-2003-656170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e6c2ded2b803db9fb76950191f683dddd81906259d7cbb7bbdd5fbf1e08e971f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4070bffbf79a8748058e14666fc24ac19e6e791929c35666e4f1418e35bd07d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Academia da Força Aérea
+- Academia Militar
+- Ensino Superior
 - Escola do Serviço de Saúde Militar
 - Escola Naval
-- Academia Militar
 - Instituto Militar dos Pupilos do Exército
-- Numerus Clausus
-- Ensino Superior
 - Militar
+- Numerus Clausus
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
@@ -87,16 +87,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:48Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +123,7 @@ Manda o Governo, pelos Ministros de Estado e da Defesa Nacional e da Ciência e 
 
 Em 23 de Julho de 2003.
 
-**O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.**
+O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.
 
 ## ANEXO — Escola Naval
 
@@ -163,7 +175,7 @@ Piloto Aviador ... 30
 
 Instituto Militar dos Pupilos do Exército
 
-#### Secção do Ensino Superior
+Secção do Ensino Superior
 
 ... Vagas
 

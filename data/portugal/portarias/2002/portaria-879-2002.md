@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/879/2002/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/879-2002-197354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcd750a210ad6558756c6a960cf5324768049e14dfc5128b472fdca00f8cfab3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 809790a3c607b2904e4ca24557ab15b0529219fa0b00426b1731569bf37d7be7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior Agrária
 - Instituto Politécnico
 - Licenciatura
+- Plano de Estudos
 - Viseu
 relationships:
 - type: cites
@@ -97,16 +97,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:06Z'
   warnings: []
   errors: []
 ---
@@ -147,7 +183,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 28 de Junho de 2002.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 28 de Junho de 2002.
 
 ## ANEXO I — Instituto Politécnico de Viseu
 
@@ -161,19 +197,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
 
 ## ANEXO II — Instituto Politécnico de Viseu
 
@@ -187,10 +223,10 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)
+[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)](https://files.diariodarepublica.pt/1s/2002/07/170b00/54955497.pdf)

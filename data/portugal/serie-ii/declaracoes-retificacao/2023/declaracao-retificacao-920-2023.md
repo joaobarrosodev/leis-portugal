@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/236000000/0021800218.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/920-2023-225392150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 855df7261bc17c254f35adc81091c7476adb72a4e951a8db7360630e43af279f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd04466df7919d31a243d09371d37c45bf5a1ace144f740946272bbd0dbdd140
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:48Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +87,18 @@ Por ter saído com inexatidão o Aviso (extrato) n.º 12781/2023, publicado no D
 
 Onde se lê:
 
-|  |  |  |
-| --- | --- | --- |
 | Nome | Posição Remuneratória | Data de início |
+| --- | --- | --- |
+|  |  |  |
 | Patrícia Alexandra Aurindo Sampaio... | 16.ª | 01/06/2023 |
 
 deve ler-se:
 
-|  |  |  |
-| --- | --- | --- |
 | Nome | Posição Remuneratória | Data de início |
+| --- | --- | --- |
+|  |  |  |
 | Patrícia Alexandra Aurindo Sampaio... | Entre a 14.ª e 15.ª | 01/06/2023 |
 
 20 de novembro de 2023. - A Vice-Presidente do Conselho Diretivo, Catarina Marcelino.
+
+317112435

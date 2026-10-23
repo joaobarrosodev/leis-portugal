@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/934/2003/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/934-2003-510434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0041119bb77c5e5ec8a221c61cab01915efffd388011947aaa173499ec74a935
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: accb640860a75fac82886d4b8484905c35494d0ec8dd2b1dc7671b632112dcc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
+- Aquicultura
 - Equipamento de Pesca
 - Equipamento Portuário
-- Pesca
-- Aquicultura
-- Produtos de Pesca
-- QCA III
-- Programa para o Desenvolvimento Económico do Sector das Pescas
+- Financiamento
+- Ifadap
 - Intervenção Operacional Pescas
+- Pesca
+- Produtos de Pesca
+- Programa para o Desenvolvimento Económico do Sector das Pescas
+- QCA III
 - Regulamento
 - Regulamento CE
-- Ifadap
 - Subsídio não Reembolsável
 relationships:
 - type: cites
@@ -98,15 +98,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1271/2001/11/08/p/dre
 article_structure:
-  article_count: 36
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:10Z'
   warnings: []
   errors: []
 ---
@@ -135,11 +135,15 @@ a) À qualidade, normalização e promoção dos produtos da pesca;
 
 b) Aos equipamentos de portos de pesca e infra-estruturas e equipamentos colectivos de apoio ao desenvolvimento da aquicultura, nos termos do Regulamento (CE) n.º [2792/99](http://data.europa.eu/eli/reg/1999/2792/oj?locale=pt), do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, na redacção actual.
 
-###### Artigo 2.º — Objectivos
+Artigo 2.º
+
+Objectivos
 
 Este regime tem por objectivo apoiar financeiramente projectos que visem contribuir para o aumento do valor acrescentado dos produtos da pesca e da aquicultura e promover o seu consumo.
 
-###### Artigo 3.º — Promotores
+Artigo 3.º
+
+Promotores
 
 Podem apresentar candidaturas a este regime:
 
@@ -149,7 +153,9 @@ b) Organizações de produtores e outras associações do sector da pesca e da a
 
 ...
 
-###### Artigo 4.º — Tipos de projectos
+Artigo 4.º
+
+Tipos de projectos
 
 1 - No âmbito deste regime são enquadráveis os seguintes projectos, desde que de interesse colectivo:
 
@@ -165,7 +171,9 @@ e) Acções que visem promover operações de certificação de qualidade, de et
 
 ...
 
-###### Artigo 5.º — Condições de acesso
+Artigo 5.º
+
+Condições de acesso
 
 ...
 
@@ -177,7 +185,9 @@ e) O valor do investimento ser inferior a (euro) 375000, à excepção dos relat
 
 ...
 
-###### Artigo 6.º — Critérios de selecção
+Artigo 6.º
+
+Critérios de selecção
 
 1 - Constituem critérios de selecção de candidaturas:
 
@@ -197,7 +207,9 @@ h) A divulgação e a informação selectiva de acções vocacionadas para os op
 
 3 - Serão excluídas as candidaturas relativamente às quais se não verifique pelo menos um dos critérios previstos no n.º 1.
 
-###### Artigo 7.º — Despesas elegíveis
+Artigo 7.º
+
+Despesas elegíveis
 
 Para efeitos de concessão de apoio financeiro, são elegíveis as seguintes despesas com:
 
@@ -223,15 +235,21 @@ o) Despesas com agências de publicidade ou outros prestadores de serviços dire
 
 ...
 
-###### Artigo 9.º — Objectivos
+Artigo 9.º
+
+Objectivos
 
 Este regime tem por objectivo apoiar financeiramente projectos que visem contribuir para a melhoria das condições de funcionamento dos portos de pesca e respectivos equipamentos, e bem assim os que se destinem à criação de infra-estruturas colectivas de apoio ao desenvolvimento da aquicultura, incluindo equipamentos colectivos, reestruturação e ordenamento de áreas aquícolas e tratamento colectivo dos efluentes aquícolas.
 
-###### Artigo 10.º — Promotores
+Artigo 10.º
+
+Promotores
 
 Podem apresentar candidaturas ao presente regime quaisquer pessoas públicas ou sujeitas a controlo público, com atribuições e responsabilidades na área de pesca, bem como quaisquer pessoas privadas, singulares ou colectivas, cujo objecto social seja a pesca, aquicultura ou actividades conexas.
 
-###### Artigo 11.º — Tipos de projectos
+Artigo 11.º
+
+Tipos de projectos
 
 1 - No âmbito deste regime são enquadráveis os seguintes projectos, desde que de interesse colectivo:
 
@@ -247,7 +265,9 @@ g) Reestruturação ou ordenamento de áreas aquícolas.
 
 ...
 
-###### Artigo 12.º — Condições de acesso
+Artigo 12.º
+
+Condições de acesso
 
 ...
 
@@ -263,7 +283,9 @@ d) O valor do investimento ser inferior a (euro) 375000, à excepção dos relat
 
 ...
 
-###### Artigo 13.º — Critérios de selecção
+Artigo 13.º
+
+Critérios de selecção
 
 1 - Constituem critérios de selecção das candidaturas:
 
@@ -273,7 +295,9 @@ d) A melhoria de instalações e equipamentos de apoio à actividade, em áreas 
 
 ...
 
-###### Artigo 14.º — Despesas elegíveis
+Artigo 14.º
+
+Despesas elegíveis
 
 Para efeitos de concessão de apoio, são elegíveis as seguintes despesas com:
 
@@ -301,13 +325,17 @@ r) Equipamentos e infra-estruturas que visem a melhoria das condições de exerc
 
 s) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técnico-económicos e de impacte ambiental e os custos associados às garantias exigidas no âmbito da execução do projecto, até ao limite de 12% das despesas elegíveis.
 
-###### Artigo 18.º — Apreciação e decisão
+Artigo 18.º
+
+Apreciação e decisão
 
 ...
 
 4 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 19.º — Atribuição dos apoios
+Artigo 19.º
+
+Atribuição dos apoios
 
 ...
 
@@ -323,7 +351,7 @@ s) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técn
 
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 15 de Agosto de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 15 de Agosto de 2003.
 
 ## ANEXO — REGULAMENTO DA COMPONENTE PESCA DOS PROGRAMAS REGIONAIS DO CONTINENTE (MARIS)
 

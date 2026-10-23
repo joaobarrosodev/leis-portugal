@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/443/2003/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/443-2003-545975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a246436e8c1e40944d4c5c3b212a0484d4a832b60f0224f4ec9e878b4bfc9c84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fea830b9b0c8e08ec02fa26422bc4cd26f95d93d8683d234654acba108e555d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura
+- Catástrofe
 - Cereal
 - Decisão CE
-- Catástrofe
-- Projeto de Investimento
+- Financiamento
 - Leguminosas
-- Ruris
 - Produção Agrícola
+- Projeto de Investimento
 - Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
-- Agricultura
+- Ruris
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/202/2001/07/13/p/dre
@@ -102,16 +102,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/757-a/2001/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/757-a/2001/07/20/p/dre
+- type: cites
+  target: pt:dre:154232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313803:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655514:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:15Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +162,4 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 3.º O disposto no presente diploma aplica-se na campanha de 2002-2003.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 9 de Maio de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 9 de Maio de 2003.

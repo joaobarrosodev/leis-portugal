@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/148000000/0012700127.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/573-2023-216492411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 213ba53db7023d039d531b693bb6f1208209d64af3151f1ca8fbac2d4bb18c0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c733b4a1bbe18054f470131337a76f5d2b836af1e6040312bb394febb24672bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:215211491:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:46Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +97,5 @@ deve ler-se:
 «12.2 - De acordo com a RCM n.º 200/2021, de 31 de dezembro, alterada pela RCM n.º 68/2022, de 1 de agosto, os estagiários que tenham obtido aproveitamento no programa EstagiAP XXI e se candidatem, nos termos legais, ao procedimento concursal, publicitado no período de até dois anos após o termo do estágio, têm a sua classificação majorada em 2 valores na lista de ordenação final dos candidatos, desde que a atribuição desta majoração não resulte em classificação superior a 20 e têm preferência na mesma em caso de igualdade de classificação, sem prejuízo da aplicação de outras que a lei já preveja.»
 
 5 de julho de 2023. - A Administradora do Instituto Politécnico de Viseu, Carla Arminda Resende Coimbra.
+
+316643835

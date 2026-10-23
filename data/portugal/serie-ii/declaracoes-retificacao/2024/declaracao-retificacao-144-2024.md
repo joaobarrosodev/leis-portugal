@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/02/039000000/0035100352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/144-2024-853548003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e2ef85a945d91d2a4fa163eb46c20f8449ce1fd4d1e43dfbe90e8a5381c2557
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7b47868416bec588a4ab124c117133b22ef984190972c882dd203822253a332
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:839474331:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:03Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Proposta
 
 5 - Após o período de candidaturas, os pedidos que entrarem ficam sujeitos a desistências.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - [...]
 
@@ -112,7 +116,7 @@ Proposta
 
 6 - anulado
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - [...]
 
@@ -122,7 +126,7 @@ deve ler-se:
 
 «CAPÍTULO II
 
-###### Artigo 9.º
+Artigo 9.º
 
 1 - [...]
 
@@ -134,7 +138,7 @@ deve ler-se:
 
 5 - Após o período de candidaturas, os pedidos que entrarem ficam sujeitos a desistências.
 
-###### Artigo 10.º
+Artigo 10.º
 
 1 - [...]
 
@@ -146,7 +150,7 @@ deve ler-se:
 
 5 - O ocupante que desista da ocupação não tem direito à restituição dos 50 % pagos.
 
-###### Artigo 13.º
+Artigo 13.º
 
 1 - [...]
 
@@ -160,10 +164,12 @@ deve ler-se:
 
 6 - (Anulado.)
 
-###### Artigo 19.º
+Artigo 19.º
 
 1 - [...]
 
 2 - Será criada uma área para que os ocupantes possam estacionar as viaturas onde pernoitam, devendo os mesmos informar qual a área a ocupar.»
 
 16 de janeiro de 2024. - O Presidente da Câmara Municipal, José Alberto Freitas Soares Pinheiro e Silva.
+
+317348454

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/377/2003/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-2003-580992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 684ee2492317e225d66cb42dc9b5097e9cf9121981aec48977a536a5c26cd686
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad5d0dfa14d3bed8a83e57a8ee548c9e1e8fbba920b0dd5d1455961e8dedb792
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,8 +71,8 @@ subjects:
 - Cartão de Identificação
 - Contribuinte
 - Direcção Geral dos Impostos
-- Informatização
 - Documento Eletrónico
+- Informatização
 - Pessoa Coletiva
 - Pessoa Singular
 - Prazo
@@ -81,6 +81,11 @@ relationships:
   target: pt:dre:257001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:257001:por
+  label: "Mantida em vigor pelo DEC LEI.14/2013.28.01.2013.MF, DR.IS [19] de 28.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2013-257001
+  date: '2013-01-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/19/1997/01/21/p/dre
   label: null
@@ -89,16 +94,39 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/862/1999/10/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/862/1999/10/08/p/dre
+- type: cites
+  target: pt:dre:367228:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673791:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:258704:por
+  label: "Retificado o art. 43º (excluindo da manutenção em vigor a presente portaria, já revogada) do Dec Lei 14/2013 de\
+    \ 28-jan, pela DECL-RECT.7/2013.13.02.2013.PCM, DR.IS [31] de 13.02.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/7-2013-258704
+  date: '2013-02-13'
+- type: repealed_by
+  target: pt:dre:174565:por
+  label: "Revogada pela PORT.255/2012.27.08.2012.MF, DR.IS [165] de 27.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/255-2012-174565
+  date: '2012-08-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:51Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +167,7 @@ Pela Ministra de Estado e das Finanças, Vasco Jorge Valdez Ferreira Matias, Sec
 
 ## ANEXO I — Modelo do cartão de contribuinte - Pessoa singular
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
 
 Frente:
 
@@ -153,7 +181,7 @@ Barra horizontal de tom mais claro para identificação do contribuinte;
 
 Logótipo em cores verde e vermelha.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
 
 Verso:
 
@@ -173,7 +201,7 @@ Dimensões do cartão - 85 mm x 54 mm.
 
 ## ANEXO II — Modelo do cartão de contribuinte - Pessoa colectiva
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
 
 Frente:
 
@@ -187,7 +215,7 @@ Barra horizontal de tom mais claro para identificação do contribuinte;
 
 Logótipo em cores verde e vermelha.
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
+[[[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)](https://files.diariodarepublica.pt/1s/2003/05/108b00/29972999.pdf)
 
 Verso:
 

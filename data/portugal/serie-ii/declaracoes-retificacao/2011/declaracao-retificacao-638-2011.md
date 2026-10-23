@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/065000000/1537615376.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/638-2011-1146715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bc712da269dcb4a78d5a2c6b0cf22a6bbbac6ef9103872c7b2bb2f50c3bed3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 117eddc1511e2cbcf2c9967c3e1061833cd13248f7ac781f833056c45b0ec960
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:49Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 638/2011
+# Declaração de rectificação n.º 638/2011
 
 Por ter saído com inexactidão o despacho n.º 5136/2011, publicado no Diário da República, 2.ª série, n.º 59, de 24 de Março de 2011, republica-se o referido despacho, na parte que interessa:
 
 «Nos termos do disposto no artigo 41.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro (Orçamento de Estado para 2011), por despacho de 31 de Janeiro de 2011, com efeitos a 1 de Janeiro de 2011, do presidente da comissão administrativa provisória do Agrupamento de Escolas da Senhora da Hora n.º 2, foi prorrogada a situação de mobilidade interna intercategorias da assistente operacional Maria Fernanda Gomes da Rocha de Sousa, para o exercício de funções de encarregada operacional, até 31 de Agosto de 2011.»
 
 25 de Março de 2011. - O Presidente da Comissão Administrativa Provisória, José Guilherme Lopes Azevedo.
+
+204509435

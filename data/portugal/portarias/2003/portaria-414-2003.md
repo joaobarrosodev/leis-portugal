@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/118b00/31793179.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/414/2003/05/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/414-2003-541386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-09-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aae3ba98c7180de80e85b6d4d1cdede94bbf4c4aad947ffe9dd90ec7f8c00a3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75ba55bc09aedd0583daac356c7ff0f01dcd1b36a7cf6807738b15c83141e71c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Gestão Financeira
 - Controlo Orçamental
 - Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
 - Fiscalização
 - Fundo de Estabilização Aduaneiro
+- Gestão Financeira
 - Ministério das Finanças
 - Tutela
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:108113698:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489725:por
+  label: "Alterados, a partir de 01.10.2009, os arts. 4º, 6º e 11º da Port 824/91, de 14-Ago, na redacção do presente diploma,\
+    \ pela PORT.1033/2009.11.09.2009.MFAP, DR.IS [177] de 11.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-2009-489725
+  date: '2009-09-11'
 - type: cites
   target: celex:32000D0597
   label: null
@@ -86,16 +92,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/824/1991/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/824/1991/08/14/p/dre
+- type: repealed_by
+  target: pt:dre:108113698:por
+  label: Revogada pelo(a) Decreto-Lei n.º 113/2017 - Diário da República n.º 173/2017, Série I de 2017-09-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/113-2017-108113698
+  date: '2017-09-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:05Z'
   warnings: []
   errors: []
 ---
@@ -164,4 +175,4 @@ b) ...
 
 c) Depósitos e outras aplicações de capital nos termos do disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 191/99, de 5 de Junho.»
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 29 de Abril de 2003.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 29 de Abril de 2003.

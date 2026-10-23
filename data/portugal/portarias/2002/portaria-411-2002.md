@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/411/2002/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/411-2002-291813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2f2204ed083e25c243526a2de1538c8a71daa1c24a9b17c5adeb669939c0356
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 557f3da074935390d0ccbd4fbb3d05e79440daa587ed0a60a55b2c173c5f9728
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
 subjects:
 - Bacharelato
 - Ensino Particular
-- Licenciatura
 - Ensino Superior
+- Licenciatura
 - Universidade Fernando Pessoa
 relationships:
 - type: cites
@@ -92,16 +92,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/3/2000/01/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/3/2000/01/04/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:02Z'
   warnings: []
   errors: []
 ---
@@ -184,19 +204,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -204,4 +224,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)](https://files.diariodarepublica.pt/1s/2002/04/091b00/38573859.pdf)

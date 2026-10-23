@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/012000000/0026400264.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2024-836905754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3919531a70a0df9c505938a9383414a5f5a50a0dc5034a049e157acd942a5df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80e2c6d642a6866ea1487fec7f31bf424b9fce23d0604f6abbe70066ed43adf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221277733:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:53Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +115,5 @@ deve ler-se:
 A licenciatura em Matemática e Aplicações inclui um tronco comum com unidades curriculares obrigatórias das áreas: Matemática, Informática e Física. Para além disso, integra um leque de unidades curriculares optativas das seguintes áreas: Matemática, Economia, Informática, Gestão e Engenharia Eletrotécnica, que totalizam, no máximo, 48, 48, 42, 12 e 6 ECTS opcionais, respetivamente. A licenciatura em Matemática e Aplicações possibilita uma formação especializada, com Menor em Matemática, ou em Informática, ou em Economia, caso o estudante complete, no mínimo, 30 ECTS optativos na área respetiva. Permite também uma formação abrangente, sem especialização em qualquer uma das áreas.»
 
 15 de dezembro de 2023. - O Reitor, Mário Raposo.
+
+317190341

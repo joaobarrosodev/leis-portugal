@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/494/2002/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/494-2002-288214
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b163b5ba42e84f1022fb8274b15b679de5f6eda77d7b919c09dc7c957bee650
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c0d33996fdb001ffdd2b2c2f3efafed2e5148009baeb8af0a26f762c923a757d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/539/1999/12/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/539/1999/12/13/p/dre
+- type: cites
+  target: pt:dre:485049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632934:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:31Z'
   warnings: []
   errors: []
 ---
@@ -144,4 +156,4 @@ Embarcações estrangeiras de recreio - (euro) 2.
 
 Em 22 de Março de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena.

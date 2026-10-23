@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/589-2011-3418254
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 029cd45fa6c333a147eed5679e951568a58d4ba474065641dddd813b10a9bd0f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e420ba55f4d42a29ecb85de31edf44efc8b4daf4457b6470e921d4d8f99d86b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:34Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ Por ter saído com inexactidão a publicação inserta no Diário da República,
 
 No ponto 4, «Factores», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf))](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf))](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
 
 No n.º 5, onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf))](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf))](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
 
 2 - Referente ao artigo 12.º, n.º 1, alínea c): «Reconhecimento pela comunidade científica», na «Nota» e na legenda «Factores»:
 
@@ -114,14 +114,16 @@ deve ler-se:
 
 «Factores», onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf))](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf))](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/03/058000000/1359313593.pdf)
 
 Na legenda de «Factores», onde se lê «(a) Nh= n.º de horas semanal médio leccionado pelo docente na unidade curricular no semestre/ano.» deve ler-se «(a) Nh= n.º de horas semanal médio leccionado pelo docente no semestre/ano.»
 
 4 - Referente ao artigo 12.º, n.º 4, alínea a): «Cargos em órgãos da universidade e das unidades orgânicas», onde se lê «Pontuação base pontos/ano/tarefa» deve ler-se «Pontuação base».
 
 25 de Janeiro de 2011. - O Reitor, João António de Sampaio Rodrigues Queiroz.
+
+204466579

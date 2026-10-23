@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/243000000/0004700047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/940-2023-442682972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 913cc51c4c52b5994acc5f01956f4f12e8545026584cd70b09d07c731323ad8e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d650f4568947b63c95d0a3c78a4d077cd9ac9db78eeb09c3d4aab860fe6dfc15
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:225353950:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:53Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ Por meu despacho de 14 de novembro de 2023, proferido no uso da competência del
 Assim, relativamente ao [Despacho n.º 12537/2023](https://diariodarepublica.pt/dr/detalhe/despacho/12537-2023-225353950), publicado no Diário da República, 2.ª série, n.º 236, de 7 de dezembro de 2023, onde se lê «Sargento-ajudante de Infantaria (1970661) Mário Alexandre da Silva Galhoz» deve ler-se «Primeiro-Sargento de Infantaria (1970661) Mário Alexandre da Silva Galhoz».
 
 7 de dezembro de 2023. - O Comandante do Comando da Administração dos Recursos Internos, António Manuel de Oliveira Bogas, Major-General.
+
+317148708

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/204000000/0046200462.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/887-2022-202511608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e096dd1ffcb081dd9eb66f22a6c97e2f6c3074e405750e8522c84e0719fd804e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 239ccccdc21880e2670dcdc7542988c76ff4744ed1e56f641c3e1b7cd46284c3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:187213198:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:16Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 153, de 9 de agosto de 2022, o [Aviso (extrato) n.º 15790/2022](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/15790-2022-187213198), referente à homologação da lista unitária de ordenação final para reserva de recrutamento do agrupamento de Escolas de Soares dos Reis na carreira/categoria de assistente operacional, retifica-se que onde se lê «Homologação da lista unitária de ordenação final dos candidatos aprovados no procedimento concursal comum para constituição de vínculo de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, tendo em vista a constituição de reserva de recrutamento, para assegurar necessidades transitórias, para a careira/categoria geral de assistente operacional, para o exercício de funções no Agrupamento de Escolas de Soares dos Reis» deve ler-se «Homologação da lista unitária de ordenação final dos candidatos aprovados no procedimento concursal comum para constituição de vínculo de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, tendo em vista a constituição de reserva de recrutamento, para a careira/ categoria geral de assistente operacional, para o exercício de funções no Agrupamento de Escolas de Soares dos Reis».
 
 6 de outubro de 2022. - A Vereadora, Dr.ª Célia Correia.
+
+315757217

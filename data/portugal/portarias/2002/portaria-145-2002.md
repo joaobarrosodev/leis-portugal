@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/145/2002/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/145-2002-284678
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 586e4ac93742c5fa03bcba4c6985e87770e9e85a7e1253d5af4848a27e552cd3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e7b85be599b6781f831c378006b6ebd6b793b3782f44baf3f0a4dbaad93adaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro de Formação Militar e Técnica da Força Aérea
+- Curso de Formação de Sargentos
+- Estágio de Formação
 - Força Aérea
 - Plano de Estudos
-- Curso de Formação de Sargentos
 - Qualificação Profissional
-- Estágio de Formação
 - Sargento
 relationships:
 - type: amended_by
   target: pt:dre:209624:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494482:por
+  label: "Alterados os n.ºs 1.º a 3.º e 5.º a 9.º e os anexos I a XVIII, pela PORT.1044/2003.2003.09.23.MDN DR.IS-B [220]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1044-2003-494482
+  date: '2003-09-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
   label: null
@@ -110,16 +116,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/894/1993/09/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/894/1993/09/18/p/dre
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240467:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:338987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345920:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654757:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:45Z'
   warnings: []
   errors: []
 ---
@@ -300,7 +338,7 @@ Disposição revogatória
 
 Em 21 de Janeiro de 2002.
 
-**O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus.**
+O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus.
 
 ## ANEXO I — CFS
 
@@ -308,7 +346,7 @@ Especialidade OPCOM
 
 Código: 14311
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO II — CFS
 
@@ -316,7 +354,7 @@ Especialidade OPMET
 
 Código: 14312
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO III — CFS
 
@@ -324,7 +362,7 @@ Especialidade OPCART
 
 Código: 14313
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO IV — CFS
 
@@ -332,7 +370,7 @@ Especialidade OPRDET
 
 Código: 14314
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO V — CFS
 
@@ -340,7 +378,7 @@ Especialidade OPINF
 
 Código: 14319
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO VI — CFS
 
@@ -348,7 +386,7 @@ Especialidade OPSAS
 
 Código: 14365
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO VII — CFS
 
@@ -356,7 +394,7 @@ Especialidade MMA
 
 Código: 14321
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO VIII — CFS
 
@@ -364,7 +402,7 @@ Especialidade MMT
 
 Código: 14322
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO IX — CFS
 
@@ -372,7 +410,7 @@ Especialidade MELECT
 
 Código: 14331
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO X — CFS
 
@@ -380,7 +418,7 @@ Especialidade MELECA
 
 Código: 14332
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XI — CFS
 
@@ -388,7 +426,7 @@ Especialidade MELIAV
 
 Código: 14328
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XII — CFS
 
@@ -396,7 +434,7 @@ Especialidade MARME
 
 Código: 14326
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XIII — CFS
 
@@ -404,7 +442,7 @@ Especialidade ABST
 
 Código: 14329
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XIV — CFS
 
@@ -412,7 +450,7 @@ Especialidade CMI
 
 Código: 14363
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XV — CFS
 
@@ -420,7 +458,7 @@ Especialidade PA
 
 Código: 14351
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XVI — CFS
 
@@ -428,7 +466,7 @@ Especialidade SAS
 
 Código: 14341
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XVII — CFS
 
@@ -436,10 +474,10 @@ Especialidade MUS/CLAR
 
 Código: 14391
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
 
 ## ANEXO XVIII — Áreas de formação profissional, nos termos da [Portaria n.º 316/2001](https://diariodarepublica.pt/dr/detalhe/portaria/316-2001-345920), de 2 de Abril, para efeitos de equivalência civil
 
 Para além das equivalências escolares referidas na alínea a) do artigo 7.º, e sendo todas estas formações profissionalmente qualificantes de nível 3, conforme a alínea b) do mesmo artigo, estas permitem ainda a obtenção de uma equivalência por grandes grupos/áreas de formação, de acordo com o quadro seguinte:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)
+[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)](https://files.diariodarepublica.pt/1s/2002/02/039b00/12491265.pdf)

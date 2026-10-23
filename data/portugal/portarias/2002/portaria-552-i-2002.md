@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 126/2002, 2º Suplemento, Série I-B de 2002-06-01
   number: '126'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4780-(8) a 4780-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/126b02/00080008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/552-i/2002/06/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/552-i-2002-142095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b896e8a02aa1a839ea878dd98ceb5bebba073ece0e31dcef19c5aea5eb1ec0f8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2028070fa07edb966cafad6e36257459f4de916e29161d7d50ebac9247ff0efd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -94,16 +94,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/627/1992/07/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/627/1992/07/01/p/dre
+- type: cites
+  target: pt:dre:142967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:405513:por
+  label: "Revogada pela PORT.1528/2002.2002.12.21.MADRP DR.IS-B [295]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1528-2002-405513
+  date: '2002-12-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:02Z'
   warnings: []
   errors: []
 ---

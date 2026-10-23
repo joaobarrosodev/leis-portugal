@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/18/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18-2002-584835
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e54495b7bb60ce48081cfec4d0a3b05cc18beac5a22a6c8c1cd256a8e1ce20ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4fded48b16a7ee070b7a39128fd6ce44a0a2a80b65ac07f76d64a45d18afb1c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -88,16 +88,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/113/1994/02/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/113/1994/02/18/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:37Z'
   warnings: []
   errors: []
 ---
@@ -190,22 +210,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00740076.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/2003/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55beec2802624ea5dba7ef94d054cb5f12efcda1c34ba0c9c3961754e0b1087b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ee1b499d45bb8be391f75a310d018fbbe4e3ba8ea7602e157a25ef72653c5f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Agricultura
 - Ajuda Comunitária
-- Pesca
 - Apoio ao Investimento
+- Comércio
+- Embarcação de Pesca
+- Intervenção Operacional Pescas
+- Pesca
 - Produtos de Pesca
 - QCA III
 - Regime de Apoio
 - Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura
-- Intervenção Operacional Pescas
 - Regulamento
-- Agricultura
-- Embarcação de Pesca
-- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661552:por
+  label: "Alterado nº 3 do art. 13º do Regulamento do Regime de Apoio à Transformação e Comercialização dos Produtos de Pesca\
+    \ e da Aquicultura aprovado pela Port 1079/2000 de 08-Nov , com a redacção do presente diploma, pela PORT.393/2006.24.04.2006.MADRP,\
+    \ DR.IS-B [80] de 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/393-2006-661552
+  date: '2006-04-24'
+- type: amended_by
+  target: pt:dre:498528:por
+  label: "Dada nova redação ao art. 13º do Regulamento do Regime de Apoio à Transformação e Comercialização dos Produtos da\
+    \ Pesca e da Aquicultura, aprovado pela Port 1079/2000 de 08-nov, alterado pelo presente diploma, pela PORT.244/2013.02.08.2013.MAMAOT,\
+    \ DR.IS [148] de 02.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2013-498528
+  date: '2013-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/224/2000/09/09/p/dre
   label: null
@@ -95,16 +109,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-d/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-d/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:163805:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622096:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:30Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +163,9 @@ b) A melhoria das unidades industriais de transformação de pescado e dos entre
 
 ...
 
-###### Artigo 6.º — Condições específicas de acesso
+Artigo 6.º
+
+Condições específicas de acesso
 
 1 - São condições específicas de acesso para candidatura ao presente regime:
 
@@ -145,7 +173,9 @@ b) A melhoria das unidades industriais de transformação de pescado e dos entre
 
 d) A execução do projecto não ter sido iniciada antes da apresentação da candidatura, à excepção da construção de novas unidades que não se encontrem concluídas, das auditorias e dos estudos previstos nas alíneas o) e r), respectivamente, do artigo 11.º, desde que iniciados até 180 dias antes da data da apresentação da candidatura.
 
-###### Artigo 11.º — Despesas elegíveis
+Artigo 11.º
+
+Despesas elegíveis
 
 1 - Para efeitos de concessão de apoio financeiro, são elegíveis as seguintes despesas:
 
@@ -155,7 +185,9 @@ r) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técn
 
 2 - ...
 
-###### Artigo 12.º — Despesas não elegíveis
+Artigo 12.º
+
+Despesas não elegíveis
 
 Não são elegíveis para efeitos de concessão de apoio as seguintes despesas:
 
@@ -165,19 +197,25 @@ g) Aquisição de equipamentos móveis de comunicações, material e mobiliário
 
 ...
 
-###### Artigo 13.º — Natureza e montantes dos apoios
+Artigo 13.º
+
+Natureza e montantes dos apoios
 
 ...
 
 3 - O subsídio reembolsável assume a forma de empréstimo à taxa 0, amortizável no prazo máximo de cinco anos, sendo de dois anos o período de carência e de três anos o período de reembolso para os projectos de investimento de montante superior a (euro) 50000. Para os projectos de investimento de montante igual ou inferior a (euro) 50000 o prazo é de três anos, sendo de um ano o período de carência e de dois anos o período de reembolso.
 
-###### Artigo 15.º — Apreciação e decisão
+Artigo 15.º
+
+Apreciação e decisão
 
 ...
 
 4 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 16.º — Atribuição dos apoios
+Artigo 16.º
+
+Atribuição dos apoios
 
 ...
 
@@ -185,7 +223,9 @@ g) Aquisição de equipamentos móveis de comunicações, material e mobiliário
 
 ...
 
-## ANEXO I — (a que se refere o artigo 5.º)
+ANEXO I
+
+(a que se refere o artigo 5.º)
 
 Demonstração de situação financeira equilibrada
 
@@ -217,7 +257,9 @@ a) Para a alínea d) toma-se como base de cálculo dos 20% a totalidade das desp
 
 b) Para a alínea r) toma-se como base de cálculo dos 12% a totalidade das despesas elegíveis previstas nas demais alíneas, incluindo a despesa calculada nos termos da alínea anterior.
 
-###### Artigo 15.º — Apreciação e decisão
+Artigo 15.º
+
+Apreciação e decisão
 
 ...
 
@@ -227,4 +269,4 @@ b) Para a alínea r) toma-se como base de cálculo dos 12% a totalidade das desp
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.

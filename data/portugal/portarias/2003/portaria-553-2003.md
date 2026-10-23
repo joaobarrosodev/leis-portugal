@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/553/2003/07/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/553-2003-667560
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aae2933cf9586f73ad58ba9ead3b6572c4a6b5e5035d6ef6b13d4efaf57a3c74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ae803fb04f9ce727eb2867324eb7112063c7b85f5274de9f2b159766a49ebaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,10 +70,10 @@ reuse:
 subjects:
 - Batata
 - Certificado de Origem
-- Certificado Fitossanitário
-- Doença Vegetal
-- Controlo Sanitário
 - Certificado de Qualidade
+- Certificado Fitossanitário
+- Controlo Sanitário
+- Doença Vegetal
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1999/01/12/p/dre
@@ -103,16 +103,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/142/2003/02/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/142/2003/02/10/p/dre
+- type: cites
+  target: pt:dre:197359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621168:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627033:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:54Z'
   warnings: []
   errors: []
 ---

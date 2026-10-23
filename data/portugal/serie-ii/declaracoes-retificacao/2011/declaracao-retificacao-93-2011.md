@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/010000000/0295202953.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/93-2011-2148086
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6def630d3e8a5fcf6194713491123cabbb8d1c9d9c2d0a9e7568cdff1c066203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 624fcd100f92d507bd28594a8ab04184782e1a0dc6c0f7920a535837cd9f5a10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,30 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:39Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 93/2011
+# Declaração de rectificação n.º 93/2011
 
 Concurso interno para a categoria de técnico de informática de grau 2, nível 1, do mapa de pessoal da Secretaria-Geral do Ministério da Defesa Nacional
 
@@ -103,3 +111,5 @@ deve ler-se:
 «6 - Requisitos gerais e especiais de admissão: podem candidatar-se os trabalhadores que sejam detentores de relação jurídica de emprego público por tempo indeterminado ou encontrar-se em situação de mobilidade, reúnam os requisitos enunciados no artigo 29.º do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de Julho, e sejam detentores das habilitações enunciadas na alínea b) do artigo 2.º do [Decreto-Lei n.º 97/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2001-345277), de 26 de Março, conjugado com o artigo 9.º do mesmo diploma legal.»
 
 4 de Janeiro de 2011. - O Secretário-Geral-Adjunto, Mário do Carmo Durão.
+
+204176914

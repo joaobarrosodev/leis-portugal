@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 301/2003, 3º Suplemento, Série I-B de 2003-12-31
   number: '301'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 8778-(689) a 8778-(690)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/301b03/06890690.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1423-b/2003/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1423-b-2003-302512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59172fdbcfd79ce4ae448c7a69009a94aa926438e276df5dd4b51b1facfa625c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fd4ef616f4dfa72fa9603c6f5590fa9ecda59e8c5095aa601b6e7ee903a8c70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,51 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Caminha
-- Pesca
-- Licenciamento
 - Artes de Pesca
-- Figueira da Foz
-- Regulamento
-- Pesca por ARTE de Arrasto
-- Embarcação de Pesca
+- Caminha
 - Cascais
+- Embarcação de Pesca
+- Figueira da Foz
+- Licenciamento
+- Pesca
+- Pesca por ARTE de Arrasto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:484165:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538633:por
+  label: "Alterados os arts 8.º e 17.º do Regulamento aprovado pela Port 1102-E/2000, de 22-Nov, na redacção do presente diploma,\
+    \ pela Port.769/2006.07.08.2006.MADRP, DR.IS [151] de 07.08.2006 e republicado o Regulamento com as alterações que lhe\
+    \ foram introduzidas\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/769-2006-538633
+  date: '2006-08-07'
+- type: amended_by
+  target: pt:dre:541607:por
+  label: "Alterados os arts. 8º, 23º e o anexo do Regulamento da Pesca por Arte de Arrasto, aprovado pela Port 1102-/2000\
+    \ de 22-Nov, na redacção do presente diploma, pela PORT.1067/2006.28.09.2006.MADRP, DR.IS [188] de 28.09.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1067-2006-541607
+  date: '2006-09-28'
+- type: amended_by
+  target: pt:dre:246303:por
+  label: "Altera o art. 10º do Regulamento, na redacção do presente diploma, pela PORT.254/2008.07.04.2008.MADRP, DR.IS [68]\
+    \ de 07.04.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/254-2008-246303
+  date: '2008-04-07'
+- type: amended_by
+  target: pt:dre:287632:por
+  label: "Alterado o art. 10º do Regulamento da Pesca por Arte de Arrasto aprovado pela Port. n.º 1102-E/2000, de 22-Nov,\
+    \ na redacção do presente diploma, pela PORT.189/2011.10.05.2011.MADRP, DR.IS [90] de 10.05.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-2011-287632
+  date: '2011-05-10'
+- type: amended_by
+  target: pt:dre:484165:por
+  label: "Alterado o art. 17º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Port. 1102-E/2000, de 22-nov, na\
+    \ redação do presente diploma pela PORT.349/2013.29.11.2013.MAGM, DR.IS [232] de 29.11.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/349-2013-484165
+  date: '2013-11-29'
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
   label: null
@@ -99,16 +130,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/419-b/2001/04/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/419-b/2001/04/18/p/dre
+- type: cites
+  target: pt:dre:284922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:445525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694190:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:23Z'
   warnings: []
   errors: []
 ---
@@ -143,13 +198,17 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 3 - Às embarcações com arqueação inferior a 36 GT que, à data de entrada em vigor do presente Regulamento, se encontram registadas na Capitania de Cascais e licenciadas para arrasto de peixe não se aplica o disposto no número anterior até 31 de Dezembro de 2005, podendo operar por fora da linha de base recta entre os cabos Raso e Espichel, mas nunca a menos de 6 milhas de distância à costa.
 
-###### Artigo 10.º — Licenciamento
+Artigo 10.º
+
+Licenciamento
 
 1 - Sem prejuízo do disposto no número seguinte, as embarcações de arrasto só podem ser licenciadas para uma das classes de malhagem referidas no anexo ao presente Regulamento.
 
 2 - As embarcações de arrasto licenciadas para a classe de malhagem 55 mm-59 mm podem ser simultaneamente licenciadas para a classe de malhagem igual ou superior a 70 mm.
 
-###### Artigo 17.º — Características da ganchorra rebocada por embarcação
+Artigo 17.º
+
+Características da ganchorra rebocada por embarcação
 
 ...
 
@@ -161,7 +220,9 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 f) O espaçamento entre barras é de 27 mm para a captura dirigida à amêijola, de 12 mm para a captura dirigida à amêijoa-branca e pé-de-burrinho, 8 mm para a captura dirigida à conquilha e 9 mm para a captura dirigida à navalha e longueirão, com uma tolerância de (mais ou menos) 0,5 mm, desde que, em média, em cada uma das faces da grelha, não seja ultrapassado o valor aqui fixado para o espaçamento entre barras.
 
-###### Artigo 30.º — Disposições transitórias
+Artigo 30.º
+
+Disposições transitórias
 
 ...
 
@@ -171,7 +232,7 @@ f) O espaçamento entre barras é de 27 mm para a captura dirigida à amêijola,
 
 4 - O prazo referido no n.º 2 poderá ser antecipado, caso imperativos de conservação dos recursos assim o determinem.
 
-## ANEXO
+ANEXO
 
 ...
 

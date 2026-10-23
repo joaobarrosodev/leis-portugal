@@ -22,7 +22,7 @@ publication:
   reference: Diário da República n.º 3/2004, 1º Suplemento, Série I-B de 2004-01-05
   number: '3'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 54-(2) a 54-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/01/003b01/00020006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/2-a/2004/01/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/2-a-2004-486677
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcd255d748b12098641169d9769772b13d25cb397843f259fc2d41fcd8767a8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61be7fab465cd8d4b36b2b66f4189731404ec3cd20742a1bc8520a1636be67c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Procurador Geral da República
 - Contencioso Administrativo
 - Direito Administrativo
 - Direito Fiscal
-- Pessoal de Justiça
 - Juiz
 - Magistrado do Ministério Público
 - Magistrado Judicial
-- Procurador Geral Adjunto
-- Procurador da República
-- Quadro de Pessoal
 - Ministério Público
+- Pessoal de Justiça
+- Procurador da República
+- Procurador Geral Adjunto
+- Procurador Geral da República
+- Quadro de Pessoal
 - Supremo Tribunal Administrativo
 - Tribunal Administrativo
 - Tribunal Administrativo de Círculo
 - Tribunal Administrativo e Fiscal
+- Tribunal Central Administrativo
 - Tribunal Central Administrativo Norte
 - Tribunal Central Administrativo SUL
-- Tribunal Central Administrativo
 - Tribunal Fiscal
 - Tribunal Tributário
 relationships:
@@ -102,16 +102,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424313:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:455603:por
+  label: "Revogados, a partir de 20.08.2008, os artigos 3.º e 4.º do presente diploma, pela PORT.874/2008.14.08.2008.MFAP,\
+    \ DR.IS [157] de 14.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/874-2008-455603
+  date: '2008-08-14'
+- type: repealed_by
+  target: pt:dre:108228012:por
+  label: Revogados os arts. 1.º e 2.º do presente diploma, bem como os mapas I, II, e III que lhe estão anexos, pelo(a) Portaria
+    n.º 290/2017 - Diário da República n.º 188/2017, Série I de 2017-09-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2017-108228012
+  date: '2017-09-28'
 article_structure:
   article_count: 0
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:49Z'
   warnings: []
   errors: []
 ---
@@ -158,7 +178,7 @@ Os quadros dos funcionários de justiça dos tribunais administrativos e fiscais
 
 Em 29 de Dezembro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona.
 
 MAPA I
 
@@ -166,11 +186,11 @@ Quadro de juízes do Supremo Tribunal Administrativo
 
 Presidente - 1.
 
-#### Secção de Contencioso Administrativo
+Secção de Contencioso Administrativo
 
 Juízes - 27 (sendo 15 lugares a extinguir quando vagarem).
 
-#### Secção de Contencioso Tributário
+Secção de Contencioso Tributário
 
 Juízes - 11 (sendo 2 lugares a extinguir quando vagarem).
 
@@ -182,11 +202,11 @@ Tribunal Central Administrativo Norte
 
 Presidente - 1.
 
-#### Secção de Contencioso Administrativo
+Secção de Contencioso Administrativo
 
 Juízes - 10.
 
-#### Secção de Contencioso Tributário
+Secção de Contencioso Tributário
 
 Juízes - 6.
 
@@ -194,11 +214,11 @@ Tribunal Central Administrativo Sul
 
 Presidente - 1.
 
-#### Secção de Contencioso Administrativo
+Secção de Contencioso Administrativo
 
 Juízes - 10.
 
-#### Secção de Contencioso Tributário
+Secção de Contencioso Tributário
 
 Juízes - 8.
 
@@ -210,11 +230,11 @@ Tribunal Central Administrativo Norte
 
 Procurador-geral-adjunto-coordenador - 1.
 
-#### Secção de Contencioso Administrativo
+Secção de Contencioso Administrativo
 
 Procuradores-gerais-adjuntos - 5.
 
-#### Secção de Contencioso Tributário
+Secção de Contencioso Tributário
 
 Procuradores-gerais-adjuntos - 3.
 
@@ -222,11 +242,11 @@ Tribunal Central Administrativo Sul
 
 Procurador-geral-adjunto-coordenador - 1.
 
-#### Secção de Contencioso Administrativo
+Secção de Contencioso Administrativo
 
 Procuradores-gerais-adjuntos - 5.
 
-#### Secção de Contencioso Tributário
+Secção de Contencioso Tributário
 
 Procuradores-gerais-adjuntos - 4.
 
@@ -444,7 +464,7 @@ Quadros das secretarias e dos serviços de apoio dos tribunais administrativos e
 
 Tribunal de Almada
 
-#### Secção central e secção de processos
+Secção central e secção de processos
 
 Categorias de pessoal:
 
@@ -474,7 +494,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Beja
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -500,7 +520,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Braga
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -530,7 +550,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Castelo Branco
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -558,7 +578,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Coimbra
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -588,7 +608,7 @@ Auxiliar de segurança - 1.
 
 Tribunal do Funchal
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -614,7 +634,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Leiria
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -644,7 +664,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Lisboa
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -676,7 +696,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Loulé
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -706,7 +726,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Loures
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -738,7 +758,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Mirandela
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -764,7 +784,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Penafiel
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -794,7 +814,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Ponta Delgada
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -820,7 +840,7 @@ Auxiliar de segurança - 1.
 
 Tribunal do Porto
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -852,7 +872,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Sintra
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 
@@ -884,7 +904,7 @@ Auxiliar de segurança - 1.
 
 Tribunal de Viseu
 
-#### Secção central e uma secção de processos
+Secção central e uma secção de processos
 
 Categorias de pessoal:
 

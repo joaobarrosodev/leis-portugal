@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/064000000/0041500441.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/239-2024-858196460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c134a677de5b19287f41567dbec892580555c242794f46feb7b3bea2417a77f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6f31b5a98d5ce519a3f5a3e78a5639ceeb124686c37931ee7f25214d89eb57f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:122806499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:140087205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224017881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67344525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67477864:por
+  label: null
+  source: null
 article_structure:
   article_count: 69
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:41Z'
   warnings: []
   errors: []
 ---
@@ -480,7 +508,9 @@ De modo a potenciar a integração social dos cidadãos e famílias acompanhadas
 
 2 - Os indicadores de atividade são comunicados anualmente ao Conselho Local da Ação Social.
 
-###### Artigo 20.º — Livro de reclamações
+###### Artigo 20.º
+
+## Livro de reclamações
 
 1 - O SAAS dispõe de livro de reclamações próprio.
 
@@ -658,7 +688,7 @@ Despesas fixas do agregado familiar - são consideradas despesas fixas do agrega
 
 São ainda consideradas as despesas mensais com caráter permanente e indispensáveis para o agregado familiar, nomeadamente: despesas fixas com habitação permanente, devidamente comprovada (renda ou crédito bancário) até ao limite de 500 € (quinhentos euros), despesas de saúde não comparticipadas, despesas com transportes (valor do passe ou do título de transporte), despesas com educação, despesas com a frequência de equipamentos sociais, despesas de água, eletricidade, gás e comunicações, de acordo com a seguinte tabela:
 
-| Tipo de despesa | Valor de referência máximo | Número de pessoas do agregado familiar | Percentagem de afetação |
+| Tipo de despesa | Valor de referência máximo | Número de pessoas<br>do agregado familiar | Percentagem<br>de afetação |
 | --- | --- | --- | --- |
 | Água | 10 € | 1 | 100 % |
 |  |  | 2 | 75 % |
@@ -865,7 +895,7 @@ Os subsídios de férias e Natal são calculados em duodécimos.
 
 Despesas fixas do agregado familiar - são consideradas despesas fixas do agregado familiar a taxa social única e a retenção na fonte, bem como outras taxas e impostos decorrentes da atividade profissional. São ainda consideradas as despesas mensais com caráter permanente e indispensáveis para o agregado familiar, nomeadamente: despesas fixas com habitação permanente, devidamente comprovada (renda ou crédito bancário) até ao limite de 500 € (quinhentos euros), despesas de saúde não comparticipadas, despesas com transportes (valor do passe ou do título de transporte), despesas com educação, despesas com a frequência de equipamentos sociais e despesas de água, eletricidade, gás e comunicações, de acordo com a seguinte tabela:
 
-| Tipo de despesa | Valor de referência máximo | Número de pessoas do agregado familiar | Percentagem de afetação |
+| Tipo de despesa | Valor de referência máximo | Número de pessoas<br>do agregado familiar | Percentagem<br>de afetação |
 | --- | --- | --- | --- |
 | Água | 10 € | 123 ou mais | 100 %75 %50 % |
 | Eletricidade | 25 € | 123 ou mais | 100 %75 %50 % |
@@ -1033,3 +1063,5 @@ As omissões serão resolvidas por deliberação da Câmara Municipal de Cantanh
 O presente Regulamento foi aprovado em reunião camarária de 6 de setembro de 2023 e em sessão ordinária da Assembleia Municipal de 27 de setembro de 2023 e foram aprovadas as alterações aos anexos em reunião camarária de 6 de dezembro de 2023 e em sessão ordinária da Assembleia Municipal de 15 de dezembro de 2023.
 
 2 de outubro de 2023. - A Presidente da Câmara Municipal de Cantanhede, Maria Helena Rosa de Teodósio e Cruz Gomes de Oliveira.
+
+317472805

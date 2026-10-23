@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/197/2003/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/197-2003-186480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9600500ffd2207ced364a3f2c017249eb92fe5eb42652ce964a5bc6c78a99f28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36106284f28af605f7e3d77ba98ecce808acc60d3a3ceccb0159c06693bd55c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,20 +75,43 @@ relationships:
   target: pt:dre:517651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272619:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça associativa atribuída pela Port 780/95, de 12-Jul,\
+    \ na redacção do presente diploma, pela PORT.674/2004.19.06.2004.MADRP, DR.IS-B [143] de 19.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/674-2004-272619
+  date: '2004-06-19'
+- type: amended_by
+  target: pt:dre:596336:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 780/95 de 12-Jul, com a redacção conferida neste\
+    \ diploma, pela PORT.1103/2005.26.10.2005.MADRP, DR.IS-B [206] de 26.10.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1103-2005-596336
+  date: '2005-10-26'
+- type: amended_by
+  target: pt:dre:517651:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa das Herdades da Lameira, Barradas e anexas concessionada\
+    \ pela Port 780/95 de 12-Jul, alterada pelo presente diploma, pela PORT.200/2007.12.02.2007.MADRP, DR.IS [30] de 12.02.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/200-2007-517651
+  date: '2007-02-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/889/1998/10/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/889/1998/10/10/p/dre
+- type: cites
+  target: pt:dre:235572:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:45Z'
   warnings: []
   errors: []
 ---

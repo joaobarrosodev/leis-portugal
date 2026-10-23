@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/12/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/12-2002-584851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f3921f7847b495c69bf924890570499dd772c833fc3936e7bea4d8a32a81a36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 956b5d13555df82b55a5d133bd9bdb8265652fe05bd7001675903f04b2cd8bc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Pescador
-- Pesca
 - Apoio ao Investimento
-- QCA III
 - Armador
+- Ifadap
+- Intervenção Operacional Pescas
+- Pesca
+- Pescador
+- QCA III
 - Regime de Apoio
 - Regime de Apoio à Pequena Pesca Costeira
-- Intervenção Operacional Pescas
 - Regulamento
-- Ifadap
 - Subsídio
 relationships:
 - type: cites
@@ -85,13 +85,13 @@ relationships:
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:10Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +112,7 @@ Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pe
 
 2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 11 de Dezembro de 2001.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 11 de Dezembro de 2001.
 
 REGULAMENTO DO REGIME DE APOIO À PEQUENA PESCA COSTEIRA
 

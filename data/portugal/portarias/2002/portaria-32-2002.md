@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/007b00/01620163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/32/2002/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-2002-585218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98bce67298f5c5df79235647ceccdcf79472b01be9c000d44579a9f8b211c51f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2694719892e9181971f9c1e15f97897f7c0df77af67b86f14292240ff005d464
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Seguro
 - Associação Portuguesa de Seguradores
-- Seguro
+- Contrato de Seguro
+- Imoppi
 - Indemnização
 - Instituto de Seguros de Portugal
-- Imoppi
 - Mediação de Imóveis
 - Mercado Imobiliário
 - Responsabilidade Civil
+- Seguro
 - Seguro Obrigatório de Responsabilidade Civil
 relationships:
 - type: amended_by
@@ -89,16 +89,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/371/1993/04/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/371/1993/04/01/p/dre
+- type: cites
+  target: pt:dre:144988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:679813:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:623474:por
+  label: "Revogada pela PORT.66/2005.25.01.2005.PCM, DR.IS-B [17] de 25.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/66-2005-623474
+  date: '2005-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:29Z'
   warnings: []
   errors: []
 ---
@@ -169,4 +182,4 @@ e) Quando o contrato de mediação imobiliária for nulo por vício de forma.
 
 14.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins, em 19 de Novembro de 2001. - Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas, em 3 de Agosto de 2001. - O Ministro Adjunto do Primeiro-Ministro, António José Martins Seguro, em 5 de Dezembro de 2001.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins, em 19 de Novembro de 2001. - Pelo Ministro do Equipamento Social, José António Fonseca Vieira da Silva, Secretário de Estado das Obras Públicas, em 3 de Agosto de 2001. - O Ministro Adjunto do Primeiro-Ministro, António José Martins Seguro, em 5 de Dezembro de 2001.

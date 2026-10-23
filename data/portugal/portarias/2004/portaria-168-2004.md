@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b00/09040904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/168/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-2004-570498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7631b6bc27dc8cf9777f9a61a8f4d0ceab04631c6b922fb5f2885390a332367a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fc255dd77924da4db5c80349b8ff249b84aadb1f44ae1d814b3f3b4a08c0b4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Empresa
 - Caminhos de Ferro
 - Certificado de Conformidade
-- Transporte Ferroviário
+- Empresa
 - Fiscalização
 - Impresso
-- Seguro
 - Prestação de Serviços
+- Seguro
+- Transporte Ferroviário
 relationships:
 - type: amended_by
   target: pt:dre:117537589:por
@@ -87,16 +87,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/declrectif/26/2003/12/27/p/dre
   label: null
   source: http://data.dre.pt/eli/declrectif/26/2003/12/27/p/dre
+- type: cites
+  target: pt:dre:424104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70476205:por
+  label: Revogada (a partir de 08.10.2015) pelo(a) Decreto-Lei n.º 217/2015 - Diário da República n.º 196/2015, Série I de
+    2015-10-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-2015-70476205
+  date: '2015-10-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:39Z'
   warnings: []
   errors: []
 ---
@@ -121,6 +135,6 @@ No cumprimento do disposto no artigo 13.º, n.º 7, do [Decreto-Lei n.º 270/200
 
 4.º Os presentes modelos são válidos desde a data de publicação da presente portaria.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 6 de Fevereiro de 2004.**
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 6 de Fevereiro de 2004.
 
 [(ver modelos no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b00/09040904.pdf)

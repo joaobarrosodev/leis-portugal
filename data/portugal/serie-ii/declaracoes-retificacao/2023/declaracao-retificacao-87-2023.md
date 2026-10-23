@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/022000000/0016400164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/87-2023-206766839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3079130b41749113fb0f3de14083b680f8ce3b19b0ef23cc146c6b88689f7b46
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc7630ded830292513778f88c3bbba2abb577a0a681ab54892419f892e43a674
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185656708:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:32Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Por ter sido publicados, com inexatidão, no [Despacho n.º 8126/2022](https://diariodarepublica.pt/dr/detalhe/despacho/8126-2022-185656708), inserto no Diário da República, 2.ª série, n.º 128, de 5 de julho de 2022, dados referentes à homologação da classificação profissional da docente Rita Dias Mendes de Brito, na sequência da conclusão do Curso de Profissionalização em Serviço, retifica-se que onde se lê «ano escolar 2020/2021» deve ler-se «ano escolar 2019/2020», e onde se lê «A classificação profissional produz efeitos a 1 de setembro de 2021» deve ler-se «A classificação profissional produz efeitos a 1 de setembro de 2020».
 
 20 de janeiro de 2023. - A Diretora-Geral da Administração Escolar, Susana Maria Godinho Barreira Castanheira Lopes.
+
+316093748

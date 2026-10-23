@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/294/2003/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/294-2003-223665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e2a04cf6986f46b71c6e1c71352464d3b8cae062c741ca248a26f085b243daf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81b5a9272246884efb451b52e67c9c1c6f86aa585cda02c4985b0daadf71efd4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,20 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Atividade Agrícola
 - Ajuda Comunitária
+- Atividade Agrícola
 - Desenvolvimento Rural
-- Leite
-- Floricultura
-- Projeto de Investimento
-- Horticultura
-- Jovem Agricultor
 - Exploração Agrícola
+- Floricultura
+- Horticultura
+- Ifadap
+- Jovem Agricultor
+- Leite
+- Modernização do Sector Agrícola
+- Projeto de Investimento
 - QCA III
 - Reembolso
 - Regulamento
-- Modernização do Sector Agrícola
-- Ifadap
 - Viabilidade Económica
 - Vinha
 relationships:
@@ -87,6 +87,13 @@ relationships:
   target: pt:dre:251625:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251625:por
+  label: "Exceptuadas as candidaturas dos investimentos relativos às novas plantações de olival e à produção de carne de bovinos\
+    \ em regime extensivo (previstas na Port 533-B/2000 de 01-Ago, com a redacção do presente diploma) ao regime de suspensão\
+    \ constante da Port 331/2004 de 31-Mar, pela PORT.562/2004.26.05.2004.MADRP, DR.IS-B [123] de 26.05.2004\004\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/562-2004-251625
+  date: '2004-05-26'
 - type: cites
   target: celex:31998R1638
   label: null
@@ -100,15 +107,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/533-b/2000/08/01/p/dre
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:23Z'
   warnings: []
   errors: []
 ---
@@ -155,7 +162,9 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 10) Projectos estruturantes: projectos cujo investimento elegível seja superior a (euro) 750000 e que contribuam para a alteração da estrutura produtiva de um dado sector ou região, através do redimensionamento fundiário ou da introdução de novas formas organizativas ou de novas tecnologias, e que cumpram os critérios definidos no anexo IV.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -173,7 +182,9 @@ c) Incentivo não reembolsável e incentivo reembolsável, até ao limite de (eu
 
 5 - O incentivo reembolsável referido na alínea c) do n.º 1 pode converter-se em subsídio não reembolsável, desde que, no termo do período de reembolso, tenham sido integralmente cumpridos todos os objectivos quantificados no projecto.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - ...
 
@@ -183,7 +194,9 @@ c) Incentivo não reembolsável e incentivo reembolsável, até ao limite de (eu
 
 4 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - ...
 
@@ -195,7 +208,9 @@ b) (euro) 22500, nos restantes casos.
 
 3 - ...
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - ...
 
@@ -211,7 +226,9 @@ d) Os projectos estruturantes devem ainda demonstrar o cumprimento dos critério
 
 3 - ...
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -233,7 +250,9 @@ d) Restantes projectos.
 
 6 - (Anterior n.º 5.)
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -243,7 +262,9 @@ d) Restantes projectos.
 
 4 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - ...
 
@@ -251,7 +272,9 @@ d) Restantes projectos.
 
 3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos definidos nos números anteriores.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -281,7 +304,7 @@ O subsídio reembolsável é amortizado no prazo máximo de três anos a contar 
 
 5.º Ao Regulamento referido no n.º 1.º é aditado o anexo IV com a redacção constante do anexo II ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 20 de Março de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 20 de Março de 2003.
 
 ## ANEXO I — (a que se refere o n.º 3.º)
 

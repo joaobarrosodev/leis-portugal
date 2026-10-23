@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/388/2002/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-2002-303385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19b6b3dca53addb7745859d7546995d51ffb0baef23f1ec249c3089c99ffa4e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f916ad100cf401d0c6d5069d4ffd895151cbc511c519453e1f13958694bc16f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,52 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Silvicultura
-- Arborização
 - Apoio ao Investimento
+- Arborização
 - Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Financiamento
 - Política Agrícola
-- Regulamento
 - Programa AGRO
+- Regulamento
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:631650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:190589:por
+  label: "Alterados os arts. 6º, 9º e 16º e o anexo VI, e revogados a subal. iii) da al. b) do art. 3º e o nº 3 do art. 4º,\
+    \ todos do Regulamento, aprovado pela Port 448-A/2001 de 03-Mai, com a redacção dada pelo presente diploma, pela PORT.161/2003.2003.02.19.MADRP\
+    \ DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/161-2003-190589
+  date: '2003-02-19'
+- type: amended_by
+  target: pt:dre:511239:por
+  label: "Alterados os arts. 4º, 6º e 10º do Regulamento aprovado pela Port 1093/2000 de 16-Nov com a redacção deste diploma,\
+    \ pela PORT.947/2003.2003.09.06.MADRP DR.IS-B [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/947-2003-511239
+  date: '2003-09-06'
+- type: amended_by
+  target: pt:dre:445744:por
+  label: "Alterados os arts. 7º, 10º, 11º, 17º e 19º e os anexos VI e VII do Regulamento aprovado pela Port 448-A/2001, de\
+    \ 03-Mai, com a redacção dada pelo presente diploma e pela Port 161/2003, de 19-Fev, pela PORT.1291/2003.18.11.2003.MADRP,\
+    \ DR.IS-B [267] de 18.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1291-2003-445744
+  date: '2003-11-18'
+- type: amended_by
+  target: pt:dre:261879:por
+  label: "Alterado o art. 9.º do Regulamento aprovado pela Port 448-A/2001, de 03-Mai DR.IS-B [102]Supl, na redacção dada\
+    \ pelo presente diploma, pela PORT.590/2004.02.06.2004.MADRP, DR.IS-B [129] de 02.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/590-2004-261879
+  date: '2004-06-02'
+- type: amended_by
+  target: pt:dre:631650:por
+  label: "Alterado o art. 9º do Regulamento aprovado pela Port 448-A/2001 de 03-Mai, com a redacção constante do presente\
+    \ diploma, pela PORT.456/2006.16.05.2006.MADRP, DR.IS-B [94] de 16.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-2006-631650
+  date: '2006-05-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -96,16 +128,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/886/2001/07/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/886/2001/07/27/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615867:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:414662:por
+  label: "Rectificada pela DECL-RECT.19-M/2002.2002.04.26.PCM DR.IS-B [100]2ºSUPL DE 30/ABR/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-m-2002-414662
+  date: '2002-04-26'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:56Z'
   warnings: []
   errors: []
 ---
@@ -150,7 +203,9 @@ e) Projectos apresentados por empresárias florestais respeitantes a actividades
 
 7 - ...
 
-###### Artigo 20.º — [...]
+Artigo 20.º
+
+[...]
 
 1 - (Actual corpo do artigo.)
 
@@ -168,7 +223,9 @@ e) Projectos apresentados por empresárias florestais respeitantes a actividades
 
 3 - Compete à Direcção-Geral das Florestas emitir parecer prévio favorável quanto à integração dos projectos no SICOP referida no número anterior.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - ...
 

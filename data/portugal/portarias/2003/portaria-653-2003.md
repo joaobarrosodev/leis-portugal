@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/653/2003/07/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/653-2003-651160
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-08-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ada75953515f730516ef54fa11ec367566d421d221816fafed47b0ae6b11e5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85a21cf0f65c17abeef80d39297709217cb46c957052e95d1e73f882d0703ebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Código do Procedimento Administrativo
-- Produção Cinematográfica
-- ICAM
-- Regulamento
 - Cinema
+- Código do Procedimento Administrativo
+- Financiamento
+- ICAM
 - Indústria Cinematográfica
+- Produção Cinematográfica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:480711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:480711:por
+  label: "Mantida em vigor pela LEI.42/2004.18.08.2004.AR, DR.IS-A [194] de 18.08.2004, até à aprovação das normas de execução\
+    \ da mesma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2004-480711
+  date: '2004-08-18'
+- type: amends
+  target: pt:numero:portaria:317/2003
+  label: "Altera a redacção dos artigos 3.º, 8.º, 9.º, 11.º, 13.º, 14.º, 17.º, 21.º, 22.º, 23.º, 25.º, 27.º, 28.º, 30.º e\
+    \ 31.º adita o artigo 21.º-A e elimina o alínea f) do n.º 2 do artigo 7.º, as alíneas b) e c) do artigo 11.º e a alínea\
+    \ d) do n.º 20 do Regulamento de Apoio Financeiro à Produção Cinematográfica de Filmes de Longa Metragem de Ficção e de\
+    \ Curta Metragem de Ficção, aprovado pela Portaria n.º 317/2003, de 17 de Abril DR.IS-B [91] que republica em anexo\0\0"
+  source: null
+  date: '2003-04-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
   label: null
@@ -86,16 +100,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/317/2003/04/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/317/2003/04/17/p/dre
+- type: cites
+  target: pt:dre:239609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645305:por
+  label: null
+  source: null
 article_structure:
-  article_count: 46
+  article_count: 32
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:29Z'
   warnings: []
   errors: []
 ---
@@ -126,11 +148,15 @@ Requerentes e beneficiários
 
 2 - Podem ainda candidatar-se ao sistema de apoio financeiro selectivo, nas suas várias secções, os realizadores cinematográficos.
 
-###### Artigo 8.º — Prazo de apresentação de candidaturas
+Artigo 8.º
+
+Prazo de apresentação de candidaturas
 
 O prazo de apresentação das candidaturas não pode ser inferior a 30 dias úteis a contar desde a data da publicação do aviso do concurso respectivo, nos termos previstos no artigo anterior.
 
-###### Artigo 9.º — Instrução das candidaturas
+Artigo 9.º
+
+Instrução das candidaturas
 
 1 - ...
 
@@ -176,7 +202,9 @@ f) Documentos comprovativos do número de espectadores em sala, das duas última
 
 5 - No caso de o pedido de apoio financeiro ser requerido por um realizador, deverá este apresentar autorizações do argumentista e do autor da obra preexistente relativas à respectiva adaptação para cinema, se a elas houver lugar.
 
-###### Artigo 11.º — Condições de admissão das candidaturas
+Artigo 11.º
+
+Condições de admissão das candidaturas
 
 1 - ...
 
@@ -194,7 +222,9 @@ b) [Anterior alínea d).]
 
 6 - ...
 
-###### Artigo 13.º — Valorização dos critérios de selecção e ordenação das candidaturas
+Artigo 13.º
+
+Valorização dos critérios de selecção e ordenação das candidaturas
 
 1 - ...
 
@@ -222,7 +252,9 @@ CF = (3 x a + 2,5 x b + 2 x c + 1,5 x d + e)/10
 
 6 - ...
 
-###### Artigo 14.º — Decisão
+Artigo 14.º
+
+Decisão
 
 1 - Compete ao ICAM decidir sobre a atribuição dos apoios financeiros previstos no presente Regulamento, mediante proposta apresentada pelo júri e após audiência dos interessados, nos termos constantes do Código do Procedimento Administrativo.
 
@@ -232,13 +264,17 @@ CF = (3 x a + 2,5 x b + 2 x c + 1,5 x d + e)/10
 
 4 - Da decisão do ICAM cabe recurso para o Ministro da Cultura, a apresentar no prazo de cinco dias úteis contados a partir da data de recepção da notificação.
 
-###### Artigo 17.º — Alterações aos projectos
+Artigo 17.º
+
+Alterações aos projectos
 
 1 - ...
 
 2 - Sem prejuízo do disposto no número anterior, pode a direcção do ICAM, em casos excepcionais e devidamente fundamentados, autorizar a mudança de realizador ou de produtor, desde que o cessionário assuma os compromissos inerentes à atribuição do apoio.
 
-###### Artigo 21.º — Critérios de selecção
+Artigo 21.º
+
+Critérios de selecção
 
 ...
 
@@ -250,13 +286,17 @@ c) Currículo do realizador;
 
 d) Currículo do produtor.
 
-###### Artigo 22.º — Acordo de pré-produção
+Artigo 22.º
+
+Acordo de pré-produção
 
 1 - Os apoios financeiros atribuídos no âmbito do sistema de apoio financeiro selectivo são formalizados mediante a celebração de acordos de pré-produção entre o ICAM e os produtores.
 
 2 - O acordo de pré-produção deve ser celebrado no prazo máximo de 30 dias úteis a contar da notificação da decisão a que se refere o artigo 14.º ou do cumprimento do disposto nos n.os 1 e 2 do artigo 21.º-A.
 
-###### Artigo 23.º — Conteúdo do acordo de pré-produção
+Artigo 23.º
+
+Conteúdo do acordo de pré-produção
 
 1 - ...
 
@@ -274,7 +314,9 @@ c) ...
 
 5 - O pagamento do montante referido no número anterior é efectuado em duas prestações, de valor correspondente a 50% do total atribuído, a primeira aquando da celebração do acordo de pré-produção e o remanescente após a apresentação do primeiro relatório referido na alínea c) do n.º 1 do presente artigo.
 
-###### Artigo 25.º — Apresentação de documentos
+Artigo 25.º
+
+Apresentação de documentos
 
 ...
 
@@ -294,7 +336,9 @@ g) ...
 
 h) Confirmação das declarações previstas na alínea k) do n.º 2 do artigo 9.º
 
-###### Artigo 27.º — Acordo de produção
+Artigo 27.º
+
+Acordo de produção
 
 1 - ...
 
@@ -324,7 +368,9 @@ f) A data de entrega da cópia síncrona ou, no caso de filmes de curta metragem
 
 8 - As obras apoiadas não podem ter estreia comercial nem exibição pública sem prévia entrega no ICAM das cópias síncronas a que se refere a alínea a) do n.º 7 do presente artigo.
 
-###### Artigo 28.º — Critérios de selecção
+Artigo 28.º
+
+Critérios de selecção
 
 ...
 
@@ -338,7 +384,9 @@ d) Número de espectadores em sala das duas últimas obras do realizador, bem co
 
 e) Estratégias de distribuição.
 
-###### Artigo 30.º — Conteúdo do acordo de produção
+Artigo 30.º
+
+Conteúdo do acordo de produção
 
 1 - O acordo de produção deve conter os elementos enunciados nas alíneas a) a f) do n.º 3 do artigo 27.º do presente Regulamento.
 
@@ -350,7 +398,9 @@ e) Estratégias de distribuição.
 
 5 - O pagamento da última prestação referida no número anterior depende da apresentação dos elementos enunciados nas alíneas a) a g) do n.º 7 do artigo 27.º do presente Regulamento.
 
-###### Artigo 31.º — Legislação subsidiária
+Artigo 31.º
+
+Legislação subsidiária
 
 A tudo o que não esteja especialmente previsto no presente Regulamento aplica-se subsidiariamente o Código do Procedimento Administrativo.»
 

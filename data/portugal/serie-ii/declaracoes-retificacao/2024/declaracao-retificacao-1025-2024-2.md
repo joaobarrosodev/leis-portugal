@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/231000000/0013600189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,43 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1025-2024-898201769
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18df996b7921a115963040567df81cdc1d07484b64d5d5ab08f7f99f71b0a69d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b8fcaec301b3831f3c4e1f28e5921caaf239f813a9beda48fdb052cb8c1b1afd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atividade espacial
+- Autoridade Nacional de Comunicações
+- Exploração do Espaço
+- Licenciamento
+- Regulamento
+- Utilização do Espaço
+relationships:
+- type: cites
+  target: pt:dre:118275382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124448870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66761449:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:840060196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:892125850:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:1206-A/2024
+  label: Retifica o Regulamento n.º 1206-A/2024, de 21 de outubro, Diário da República n.º 204/2024, Suplemento, Série II
+  source: null
+  date: '2024-10-21'
 article_structure:
-  article_count: 162
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 73
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:17Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 1025/2024/2
 
-Ao abrigo do disposto nos n.<sup>os</sup>2, 3 e 4 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o [Regulamento n.º 1206-A/2024](https://diariodarepublica.pt/dr/detalhe/regulamento/1206-a-2024-892125850), de Alteração ao [Regulamento n.º 697/2019](https://diariodarepublica.pt/dr/detalhe/regulamento/697-2019-124448870), de 5 de setembro, relativo ao regime de acesso e exercício de atividades espaciais, publicado no Diário da República, 2.ª série, n.º 204, de 21 de outubro de 2024, saiu com as inexatidões identificadas que assim se retificam, republicando-se integralmente, na versão corrigida, em anexo à presente declaração de retificação.
+Ao abrigo do disposto nos n.os2, 3 e 4 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o [Regulamento n.º 1206-A/2024](https://diariodarepublica.pt/dr/detalhe/regulamento/1206-a-2024-892125850), de Alteração ao [Regulamento n.º 697/2019](https://diariodarepublica.pt/dr/detalhe/regulamento/697-2019-124448870), de 5 de setembro, relativo ao regime de acesso e exercício de atividades espaciais, publicado no Diário da República, 2.ª série, n.º 204, de 21 de outubro de 2024, saiu com as inexatidões identificadas que assim se retificam, republicando-se integralmente, na versão corrigida, em anexo à presente declaração de retificação.
 
 Na nota justificativa e no resumo das alterações ao regulamento, procedeu-se a correções editoriais de ordem gramatical.
 
@@ -151,87 +190,87 @@ Nota justificativa
 
 Resumo das alterações ao Regulamento:
 
-###### Artigo 1.º Objeto - Alteração do objeto do regulamento, com a criação do regime de atribuição de licenciamento de operações de centros de lançamento;
+Artigo 1.º Objeto - Alteração do objeto do regulamento, com a criação do regime de atribuição de licenciamento de operações de centros de lançamento;
 
-###### Artigo 2.º Definições - Alterações textuais;
+Artigo 2.º Definições - Alterações textuais;
 
-###### Artigo 3.º Meios Eletrónicos - Coordenação com o artigo 29.º-A do DLAE;
+Artigo 3.º Meios Eletrónicos - Coordenação com o artigo 29.º-A do DLAE;
 
-###### Artigo 5.º Elementos - Alterações textuais e de estrutura;
+Artigo 5.º Elementos - Alterações textuais e de estrutura;
 
-###### Artigo 6.º Dispensa de elementos por qualificação prévia - Introdução do tipo de licença conjunta múltipla e alterações textuais;
+Artigo 6.º Dispensa de elementos por qualificação prévia - Introdução do tipo de licença conjunta múltipla e alterações textuais;
 
-###### Artigo 7.º Operações fora do território nacional - Alterações textuais e coordenação com a inclusão destas operações no âmbito de aplicação do regime simplificado, previsto no n.º 7 do artigo 8.º do DLAE;
+Artigo 7.º Operações fora do território nacional - Alterações textuais e coordenação com a inclusão destas operações no âmbito de aplicação do regime simplificado, previsto no n.º 7 do artigo 8.º do DLAE;
 
-###### Artigo 8.º Regime Especial - Alteração do artigo do DLAE a que se refere;
+Artigo 8.º Regime Especial - Alteração do artigo do DLAE a que se refere;
 
-###### Artigo 9.º Tipo de licença - Inclusão de novos tipos de licenças (conjunta integrada ou múltipla) e regulamentação do procedimento único de atribuição de licença;
+Artigo 9.º Tipo de licença - Inclusão de novos tipos de licenças (conjunta integrada ou múltipla) e regulamentação do procedimento único de atribuição de licença;
 
-###### Artigo 10.º Identificação do requerente - Aditamento do objeto social e capital social e de outros elementos necessários para a identificação do requerente e do documento comprovativo de poderes para obrigar a sociedade, no caso de não titular de órgão social;
+Artigo 10.º Identificação do requerente - Aditamento do objeto social e capital social e de outros elementos necessários para a identificação do requerente e do documento comprovativo de poderes para obrigar a sociedade, no caso de não titular de órgão social;
 
-###### Artigo 11.º Capacidade técnica, económica e financeira - Densificação dos critérios para demonstração da capacidade técnica, económica e financeira;
+Artigo 11.º Capacidade técnica, económica e financeira - Densificação dos critérios para demonstração da capacidade técnica, económica e financeira;
 
-###### Artigo 12.º Descrição do lançador ou veículo de retorno e de atividade - Densificação dos elementos de descrição do lançador ou veículo e da atividade e clarificação dos requisitos a aplicar a operadores de lançadores ou veículos de retorno ou de carga útil;
+Artigo 12.º Descrição do lançador ou veículo de retorno e de atividade - Densificação dos elementos de descrição do lançador ou veículo e da atividade e clarificação dos requisitos a aplicar a operadores de lançadores ou veículos de retorno ou de carga útil;
 
-###### Artigo 12.º-A Sistemas e processos de controlo de missão - Previsão de elementos a apresentar pelo requerente de licença de operações de lançamento e/ou retorno quanto ao controlo de missão de lançamento ou retorno;
+Artigo 12.º-A Sistemas e processos de controlo de missão - Previsão de elementos a apresentar pelo requerente de licença de operações de lançamento e/ou retorno quanto ao controlo de missão de lançamento ou retorno;
 
-###### Artigo 13.º Descrição do objeto espacial no espaço e da atividade - Alterações textuais e densificação da informação a prestar pelo requerente da licença, coordenando com as restantes alterações do regulamento;
+Artigo 13.º Descrição do objeto espacial no espaço e da atividade - Alterações textuais e densificação da informação a prestar pelo requerente da licença, coordenando com as restantes alterações do regulamento;
 
-###### Artigo 14.º Plano de minimização de detritos espaciais - Alterações textuais;
+Artigo 14.º Plano de minimização de detritos espaciais - Alterações textuais;
 
-###### Artigo 15.º Planos de segurança - Remoção da referência às normas da FAA, e consequente definição de critérios de risco e atualização dos elementos a submeter no plano de segurança;
+Artigo 15.º Planos de segurança - Remoção da referência às normas da FAA, e consequente definição de critérios de risco e atualização dos elementos a submeter no plano de segurança;
 
-###### Artigo 16.º Plano de segurança de lançamento e/ou retorno - Alterações textuais e atualização dos elementos a submeter no plano de segurança;
+Artigo 16.º Plano de segurança de lançamento e/ou retorno - Alterações textuais e atualização dos elementos a submeter no plano de segurança;
 
-###### Artigo 17.º Plano de segurança de comando e controlo - Alterações textuais e atualização dos elementos a submeter no plano de segurança;
+Artigo 17.º Plano de segurança de comando e controlo - Alterações textuais e atualização dos elementos a submeter no plano de segurança;
 
-###### Artigo 18.º Sistemas e processos de comando e controlo - Alteração da epígrafe do artigo;
+Artigo 18.º Sistemas e processos de comando e controlo - Alteração da epígrafe do artigo;
 
-###### Artigo 19.º Sistemas e processos do centro de lançamento - Revogado;
+Artigo 19.º Sistemas e processos do centro de lançamento - Revogado;
 
-###### Artigo 20.º Manual do centro de lançamento - Revogado;
+Artigo 20.º Manual do centro de lançamento - Revogado;
 
-###### Artigo 21.º Seguro de responsabilidade civil - Alterações textuais;
+Artigo 21.º Seguro de responsabilidade civil - Alterações textuais;
 
-###### Artigo 22.º Outras autorizações e pareceres - Alterações textuais e coordenação com o DLAE;
+Artigo 22.º Outras autorizações e pareceres - Alterações textuais e coordenação com o DLAE;
 
-###### Artigo 23.º Procedimento - Inclusão de número relativo a assinatura eletrónica qualificada ou equivalente;
+Artigo 23.º Procedimento - Inclusão de número relativo a assinatura eletrónica qualificada ou equivalente;
 
-###### Artigo 25.º Atribuição - Alterações textuais e inclusão de referência relativa à data de início da produção de efeitos na licença emitida;
+Artigo 25.º Atribuição - Alterações textuais e inclusão de referência relativa à data de início da produção de efeitos na licença emitida;
 
-###### Artigo 26.º Direitos e Deveres do titular da licença - Alterações textuais e definição de prazos para a apresentação dos relatórios previstos;
+Artigo 26.º Direitos e Deveres do titular da licença - Alterações textuais e definição de prazos para a apresentação dos relatórios previstos;
 
-###### Artigo 27.º Alteração à licença - Alterações textuais e inclusão de referência a pareceres de entidades relevantes para a autorização da alteração da licença;
+Artigo 27.º Alteração à licença - Alterações textuais e inclusão de referência a pareceres de entidades relevantes para a autorização da alteração da licença;
 
-###### Artigo 28.º Duração da licença - Coordenação com o novo regime de licença conjunta e referência à data de início de produção de efeitos para contagem do prazo;
+Artigo 28.º Duração da licença - Coordenação com o novo regime de licença conjunta e referência à data de início de produção de efeitos para contagem do prazo;
 
-###### Artigo 30.º Procedimento - Previsão de notificação relativa à transmissão das licenças às Regiões Autónomas dos Açores e da Madeira no prazo de 15 dias e alterações textuais;
+Artigo 30.º Procedimento - Previsão de notificação relativa à transmissão das licenças às Regiões Autónomas dos Açores e da Madeira no prazo de 15 dias e alterações textuais;
 
 Artigos 32.º -A a 32.º -M Licenciamento de operações de centro de lançamento - Regime de atribuição de licenças a operações de centro de lançamento;
 
-###### Artigo 33.º Âmbito da qualificação prévia - Coordenação com o novo regime de licenciamento de centros de lançamento;
+Artigo 33.º Âmbito da qualificação prévia - Coordenação com o novo regime de licenciamento de centros de lançamento;
 
-###### Artigo 34.º Requerimento - Alterações textuais;
+Artigo 34.º Requerimento - Alterações textuais;
 
-###### Artigo 35.º Procedimento - Alterações textuais;
+Artigo 35.º Procedimento - Alterações textuais;
 
-###### Artigo 36.º Emissão do certificado de qualificação prévia - Alterações textuais;
+Artigo 36.º Emissão do certificado de qualificação prévia - Alterações textuais;
 
-###### Artigo 39.º Registo Nacional de objetos espaciais - Inclusão de alínea relativa a «outras informações que venham a ser consideradas necessárias ou úteis» e determinação da hora de registo apenas em UTC, entre outros elementos adicionados;
+Artigo 39.º Registo Nacional de objetos espaciais - Inclusão de alínea relativa a «outras informações que venham a ser consideradas necessárias ou úteis» e determinação da hora de registo apenas em UTC, entre outros elementos adicionados;
 
-###### Artigo 41.º Registo de acidentes e do fim da vida útil - Alterações textuais e determinação da hora de registo apenas em UTC;
+Artigo 41.º Registo de acidentes e do fim da vida útil - Alterações textuais e determinação da hora de registo apenas em UTC;
 
-###### Artigo 43.º Procedimento - Densificação do procedimento relativo ao registo dos objetos espaciais;
+Artigo 43.º Procedimento - Densificação do procedimento relativo ao registo dos objetos espaciais;
 
-###### Artigo 45.º Transferência - Alterações textuais;
+Artigo 45.º Transferência - Alterações textuais;
 
-###### Artigo 48.º Formulários - Alterações textuais;
+Artigo 48.º Formulários - Alterações textuais;
 
-###### Artigo 49.º Publicidade - Inclusão de referência à licença de operação de centro de lançamento;
+Artigo 49.º Publicidade - Inclusão de referência à licença de operação de centro de lançamento;
 
-###### Artigo 51.º Norma transitória - Alterações textuais;
+Artigo 51.º Norma transitória - Alterações textuais;
 
-###### Artigo 52.º Revisão - Alteração textual.
+Artigo 52.º Revisão - Alteração textual.
 
 ###### Artigo 1.º — Objeto
 
@@ -245,25 +284,31 @@ O presente regulamento procede à primeira alteração ao [Regulamento n.º 697/
 
 Licenciamento
 
-#### SECÇÃO I - Licenciamento de operações espaciais
+SECÇÃO I - Licenciamento de operações espaciais
 
-##### Subsecção I - Disposições comuns — Subsecção II - Requerimento
+Subsecção I - Disposições comuns
 
-##### Subsecção III - Atribuição de licença
+Subsecção II - Requerimento
 
-##### Subsecção IV - Transmissão da licença
+Subsecção III - Atribuição de licença
 
-##### Subsecção V - Extinção da licença
+Subsecção IV - Transmissão da licença
 
-#### SECÇÃO II - Licenciamento de centro de lançamento
+Subsecção V - Extinção da licença
 
-#### SECÇÃO III - Qualificação prévia — CAPÍTULO III - Registo e transferência de objetos espaciais
+SECÇÃO II - Licenciamento de centro de lançamento
 
-#### SECÇÃO I - Registo — SECÇÃO II - Transferência da titularidade dos objetos espaciais
+SECÇÃO III - Qualificação prévia
 
-### CAPÍTULO IV - Minutas e formulários
+CAPÍTULO III - Registo e transferência de objetos espaciais
 
-### CAPÍTULO V - Disposições finais»
+SECÇÃO I - Registo
+
+SECÇÃO II - Transferência da titularidade dos objetos espaciais
+
+CAPÍTULO IV - Minutas e formulários
+
+CAPÍTULO V - Disposições finais»
 
 2 - Os artigos 1.º a 3.º, 5.º a 18.º, 21.º a 23.º, 25.º a 29.º, 30.º, 33.º a 36.º, 39.º, 41.º, 43.º, 45.º, 48.º, 49.º, 51.º e 52.º do [Regulamento n.º 697/2019](https://diariodarepublica.pt/dr/detalhe/regulamento/697-2019-124448870), de 5 de setembro, passam a ter a seguinte redação:
 
@@ -283,13 +328,17 @@ d) [Anterior alínea c).]
 
 e) [Anterior alínea d).]
 
-###### Artigo 2.º — [...]
+Artigo 2.º
+
+[...]
 
 1 - [...]
 
 2 - Para efeitos do disposto no presente regulamento, entende-se por Autoridade Espacial (AE) a autoridade prevista no artigo 21.º do DLAE, cujas atribuições e competências são exercidas pela Autoridade Nacional de Comunicações - ANACOM, nos termos do artigo 30.º do mesmo diploma.
 
-###### Artigo 3.º — [...]
+Artigo 3.º
+
+[...]
 
 1 - Todas as comunicações e envio ou acesso a documentos, nomeadamente requerimentos e minutas, certificados e notificações, bem como as autorizações, os pareceres e outros atos, no âmbito da execução das competências da AE, devem ser preferencialmente realizados por meios eletrónicos, nomeadamente os previstos no n.º 2 do artigo 29.º-A do DLAE, e sem prejuízo do acesso aos serviços por outros meios adequados.
 
@@ -301,13 +350,17 @@ e) [Anterior alínea d).]
 
 [...]
 
-###### Artigo 5.º — [...]
+Artigo 5.º
+
+[...]
 
 1 - Para efeitos do disposto no artigo 6.º do DLAE, as pessoas singulares ou coletivas que pretendam obter licença para o exercício de operações espaciais devem apresentar à AE um requerimento, para esse fim, que inclua os elementos previstos na Subsecção II do presente Capítulo, consoante aplicável a cada caso.
 
 2 - Os elementos previstos na Subsecção II do presente Capítulo, podem ser desenvolvidos pela AE por via de regulamentos ou instruções, nos termos da alínea e) do n.º 1 do artigo 22.º do DLAE.
 
-###### Artigo 6.º — [...]
+Artigo 6.º
+
+[...]
 
 1 - A informação que conste de certificado de qualificação prévia, conferido nos termos previstos na Secção III do Capítulo II do presente regulamento, não necessita de ser novamente apresentada no procedimento de licenciamento.
 
@@ -315,13 +368,17 @@ e) [Anterior alínea d).]
 
 3 - A AE pode exigir do titular de uma licença global ou conjunta múltipla a submissão da informação constante de certificado de qualificação prévia extinto, nos termos do n.º 5 e do n.º 6 do artigo 5.º do DLAE, para a realização de operações espaciais ao abrigo da licença global ou conjunta múltipla, não podendo as referidas operações espaciais ser realizadas sem confirmação escrita, pela AE, da conformidade da referida informação com o disposto nesse diploma legal, a ser emitida no prazo de 30 dias a contar da submissão da informação completa pelo operador.
 
-###### Artigo 7.º — Operações fora do território nacional
+Artigo 7.º
+
+Operações fora do território nacional
 
 1 - Sem prejuízo da aplicação do regime especial previsto no artigo 8.º do presente regulamento, no licenciamento das operações espaciais prosseguidas fora do território nacional por operadores portugueses ou estabelecidos em território nacional, nos termos da alínea b) do n.º 1 e do n.º 3 do artigo 2.º do DLAE, pode ser dispensada a apresentação de informação ou documentação que não seja relevante para estes casos.
 
 2 - Caso o operador que desenvolva as operações espaciais referidas na alínea b) do n.º 1 do artigo 2.º do DLAE, não pretenda sujeitar-se a uma licença, conforme previsto no n.º 3 do artigo 4.º do DLAE, deve comprovar junto da AE que obteve as devidas autorizações e que cumpre o disposto na lei de um Estado com o qual a República Portuguesa concluiu um acordo que assegure o cumprimento das obrigações internacionais a que esta está sujeita.
 
-###### Artigo 8.º — [...]
+Artigo 8.º
+
+[...]
 
 1 - A AE pode determinar a redução de prazos ou a simplificação de procedimentos de licenciamento nos casos previstos no n.º 7 do artigo 8.º do DLAE, designadamente prescindindo dos elementos e documentação que não se justifique exigir ao requerente ou que não seja relevante para a apreciação do pedido.
 
@@ -329,7 +386,9 @@ e) [Anterior alínea d).]
 
 3 - [...]
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - [...]
 
@@ -347,7 +406,9 @@ c) Licença conjunta, integrada ou múltipla.
 
 5 - (Revogado.)
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 1 - [...]
 
@@ -383,7 +444,9 @@ iv) Documento comprovativo de poderes para obrigar a sociedade, no caso de não 
 
 4 - [...]
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - O requerente deve demonstrar junto da AE que tem capacidade técnica, económica e financeira para as operações espaciais que pretende realizar.
 
@@ -403,7 +466,9 @@ e) Qualificações e experiência profissional do pessoal técnico chave.
 
 4 - Para efeitos do número anterior, o requerente deverá apresentar os elementos comprovativos das relações contratuais ou outras existentes entre o requerente e as entidades identificadas.
 
-###### Artigo 12.º — Descrição dos objetos espaciais a lançar e/ou a retornar e da atividade
+Artigo 12.º
+
+Descrição dos objetos espaciais a lançar e/ou a retornar e da atividade
 
 1 - O requerente de uma licença para operações de lançamento e/ou retorno deve fornecer uma descrição dos objetos espaciais a lançar, assim como uma descrição da atividade que pretende desenvolver.
 
@@ -459,7 +524,9 @@ e) Data previsível do(s) lançamento(s) ou retorno(s);
 
 f) Voo nominal previsto e frequência de lançamentos, se aplicável.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - O requerente de uma licença para operações de comando e controlo deve fornecer uma descrição de cada objeto espacial, assim como uma descrição da atividade ou atividades que pretende desenvolver.
 
@@ -493,13 +560,17 @@ d) Identificação dos serviços a prestar e respetivas características, se apl
 
 e) (Revogada.)
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - Sem prejuízo do plano de segurança previsto no artigo seguinte do presente regulamento, o requerente de uma licença para operações espaciais deve apresentar um plano com elementos que demonstrem que a operação espacial em causa garante a minimização, na máxima extensão possível, de detritos espaciais.
 
 2 - [...]
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - Para efeitos das alíneas b) e d) do n.º 1 do artigo 7.º do DLAE, o requerente de uma licença deve comprovar que a operação espacial é compatível com as normas de segurança aplicáveis, incluindo as relativas à saúde pública, à segurança de pessoas e bens e à proteção ambiental, e acautela devidamente os danos na superfície da Terra, no espaço aéreo e no espaço ultraterrestre.
 
@@ -515,7 +586,9 @@ e) (Revogada.)
 
 7 - Para efeitos do n.º 1 do presente artigo, o requerente de uma licença para operações espaciais de lançamento e/ou retorno de um objeto que seja carga útil deve apresentar informação sobre os riscos de segurança do lançamento e/ou retorno da sua carga, bem como de medidas de segurança para mitigação dos riscos identificados.
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 1 - O plano a apresentar pelo requerente de uma licença para operações espaciais de lançamento e/ou retorno que opere um lançador ou veículo de retorno, para além do previsto no artigo15.º do presente regulamento, deve em particular contemplar:
 
@@ -545,7 +618,9 @@ j) Identificação dos processos de notificação, previamente ao lançamento, �
 
 4 - O requerente de uma licença para operações espaciais de lançamento e/ou retorno de um lançador ou veículo de retorno deve ainda apresentar um plano de investigação de acidentes que descreva os procedimentos adotados para reporte de incidentes e acidentes nos termos do artigo 20.º do DLAE.
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - O plano a apresentar pelo operador de comando e controlo, nos termos do artigo 15.º do presente regulamento, deve em particular contemplar:
 
@@ -567,11 +642,15 @@ c) [...]
 
 4 - O operador de comando e controlo deve, ainda, apresentar um plano de investigação de acidentes que descreva os procedimentos adotados para reporte de incidentes e acidentes, nos termos do artigo 20.º do DLAE.
 
-###### Artigo 18.º — Sistemas e processos de comando e controlo
+Artigo 18.º
+
+Sistemas e processos de comando e controlo
 
 [...]
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - Para os efeitos do disposto no artigo 19.º do DLAE, o requerente de uma licença de operações espaciais deve apresentar comprovativo de que possui seguro de responsabilidade civil válido, com o capital e condições mínimas exigidas.
 
@@ -583,7 +662,9 @@ c) [...]
 
 5 - A requerimento do interessado, a AE decide no prazo máximo de 10 dias e de acordo com os critérios fixados nos termos descritos no número anterior do presente artigo, se a operação espacial é ou não de risco reduzido, tendo o requerente 30 dias, após a decisão da AE, para apresentar o comprovativo do seguro de responsabilidade civil, se aplicável, sob pena da licença não poder ser atribuída.
 
-###### Artigo 22.º — [...]
+Artigo 22.º
+
+[...]
 
 1 - Sem prejuízo do disposto no n.º 4 do artigo 8.º e do n.º 4 do artigo 29.º-A do DLAE, o requerente deve apresentar os comprovativos de todas as autorizações necessárias para efeitos da operação espacial em causa, nomeadamente em matéria ambiental e de licenciamento radioelétrico.
 
@@ -597,7 +678,9 @@ c) [...]
 
 6 - Nos termos e para efeitos do n.º 6 do artigo 8.º do DLAE, a AE notifica as Regiões Autónomas dos Açores e da Madeira no prazo de 15 dias a contar da data da atribuição da respetiva licença.
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - O requerimento de licenciamento, incluindo os elementos previstos na Subsecção II do presente Capítulo ou os certificados de qualificação prévia correspondentes, deve ser assinado:
 
@@ -619,7 +702,9 @@ b) [...]
 
 [...]
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - A AE decide sobre a atribuição ou recusa de licença, no prazo de 90 dias após a receção do pedido.
 
@@ -647,7 +732,9 @@ h) Data de início de produção de efeitos, tendo em conta o requerido pelo int
 
 5 - A atribuição da licença é divulgada no sítio da AE na Internet.
 
-###### Artigo 26.º — [...]
+Artigo 26.º
+
+[...]
 
 1 - [...]
 
@@ -675,7 +762,9 @@ i) [...]
 
 4 - Previamente a cada operação, a AE pode dar indicações para o operador submeter a informação e documentação necessárias relativas a outras autorizações e pareceres, não podendo o operador proceder à operação espacial sem as referidas autorizações.
 
-###### Artigo 27.º — [...]
+Artigo 27.º
+
+[...]
 
 1 - [...]
 
@@ -683,7 +772,9 @@ i) [...]
 
 3 - A autorização da AE prevista no número anterior é precedida de parecer das entidades relevantes, caso tenha por objeto matérias da competência destas.
 
-###### Artigo 28.º — [...]
+Artigo 28.º
+
+[...]
 
 1 - As licenças unitárias e as licenças conjuntas integradas são atribuídas, em relação a cada uma das operações, pelo período de tempo correspondente às operações licenciadas, devendo estas ter início no prazo máximo de 5 anos após a emissão da licença.
 
@@ -701,7 +792,9 @@ b) Por um determinado período de tempo após a emissão da licença, prazo que 
 
 [...]
 
-###### Artigo 30.º — [...]
+Artigo 30.º
+
+[...]
 
 1 - [...]
 
@@ -719,9 +812,11 @@ b) Por um determinado período de tempo após a emissão da licença, prazo que 
 
 [...]
 
-###### Artigo 33.º — [...]
+Artigo 33.º
 
-1 - Nos termos do disposto nos n.<sup>os</sup>1 e 2 do artigo 5.º do DLAE, os operadores podem requerer a qualificação prévia, destinando-se a atestar para efeitos de licenciamento das operações espaciais:
+[...]
+
+1 - Nos termos do disposto nos n.os1 e 2 do artigo 5.º do DLAE, os operadores podem requerer a qualificação prévia, destinando-se a atestar para efeitos de licenciamento das operações espaciais:
 
 a) [...]
 
@@ -733,13 +828,17 @@ c) [Anterior alínea d).]
 
 3 - (Revogado.)
 
-###### Artigo 34.º — [...]
+Artigo 34.º
+
+[...]
 
 1 - O requerimento de qualificação prévia deve ser instruído com os elementos previstos na Subsecção II da Secção I do Capítulo II do presente regulamento, conforme aplicável.
 
 2 - [...]
 
-###### Artigo 35.º — [...]
+Artigo 35.º
+
+[...]
 
 1 - O requerimento de qualificação prévia, incluindo os elementos indicados na Subsecção II, da Secção I do Capítulo II do presente regulamento, conforme aplicável, deve ser preferencialmente apresentado por via eletrónica, através da plataforma referida no artigo 3.º do presente regulamento, e deve ser assinado:
 
@@ -755,7 +854,9 @@ b) [...]
 
 5 - [...]
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - A AE decide sobre a atribuição ou recusa do certificado de qualificação prévia no prazo de 60 dias após a receção do pedido completo, podendo ser prorrogável por mais 60 dias em casos de elevada complexidade, devidamente fundamentados.
 
@@ -769,7 +870,9 @@ b) [...]
 
 [...]
 
-###### Artigo 39.º — [...]
+Artigo 39.º
+
+[...]
 
 1 - [...]
 
@@ -811,7 +914,9 @@ d) Fim da vida útil do objeto espacial operado e controlado por um operador tit
 
 [...]
 
-###### Artigo 41.º — [...]
+Artigo 41.º
+
+[...]
 
 1 - […]
 
@@ -831,23 +936,31 @@ a) [...]
 
 b) Alterações ao estatuto da operação de comando e controlo (data e hora UTC) derivado, nomeadamente, da realização das últimas manobras de desorbitação e das atividades de passivação, da perda de controlo do objeto espacial e do início do retorno à Terra ou desintegração completa do objeto espacial na atmosfera.
 
-###### Artigo 43.º — [...]
+Artigo 43.º
+
+[...]
 
 1 - Para efeitos de registo na AE, o operador responsável submete a informação no prazo de 2 dias após o lançamento do objeto espacial, da ocorrência dos factos referidos nos artigos 40.º e 41.º do presente regulamento ou, ainda, de qualquer outro facto relevante para efeitos de inscrição, atualização ou alteração da informação constante do registo.
 
 2 - [...]
 
-###### Artigo 45.º — [...]
+Artigo 45.º
+
+[...]
 
 Para efeitos do disposto no n.º 1 do artigo 17.º do DLAE, a transferência da titularidade de objetos espaciais, entre o proprietário registado nos termos da alínea b) do n.º 1 do artigo 39.º do presente regulamento, e um novo proprietário, cujo lançamento, retorno ou comando e controlo tenha sido licenciado pela AE, deve ser comunicada à mesma, no prazo máximo de 30 dias.
 
 [...]
 
-###### Artigo 48.º — [...]
+Artigo 48.º
+
+[...]
 
 Para boa execução do presente regulamento, a AE pode aprovar formulários, designadamente os correspondentes aos modelos de requerimentos de licença, de certificado de qualificação prévia, de transmissão de licença e de registo de objetos espaciais, e disponibilizá-los na plataforma referida no artigo 3.º do presente regulamento
 
-###### Artigo 49.º — [...]
+Artigo 49.º
+
+[...]
 
 1 - […]
 
@@ -865,11 +978,15 @@ e) [Anterior alínea d).]
 
 [...]
 
-###### Artigo 51.º — [...]
+Artigo 51.º
+
+[...]
 
 Até à implementação da plataforma prevista no artigo 3.º do presente regulamento, as comunicações, envio ou acesso a documentos, nomeadamente requerimentos e minutas, certificados e notificações, bem como as autorizações, os pareceres e outros atos, processam-se pelos meios eletrónicos alternativos disponibilizados pela AE.
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 A AE procede a uma avaliação da aplicação do presente regulamento no prazo máximo de 2 anos, após a sua entrada em vigor, procedendo, se necessário, à respetiva revisão.»
 
@@ -893,13 +1010,17 @@ d) Análise sobre os sistemas implementados para que o lançador e/ou veículo d
 
 2 - No caso de sistemas descentralizados, a informação referida no número anterior deve abranger os sistemas e processos entre o centro de controlo de missão e os centros subordinados.
 
-###### Artigo 32.º-A — Requerimento
+Artigo 32.º-A
+
+Requerimento
 
 1 - As pessoas singulares ou coletivas que pretendam obter uma licença de operação de centro de lançamento, nos termos do artigo 9.º-A do DLAE, devem apresentar um requerimento à AE, para esse fim, que inclua os elementos previstos nos artigos seguintes da presente secção.
 
 2 - Os elementos previstos na Secção II do presente Capítulo podem ser desenvolvidos pela AE por via de regulamentos ou instruções, nos termos da alínea e) do n.º 1 do artigo 22.º do DLAE.
 
-###### Artigo 32.º-B — Identificação e capacidade do requerente
+Artigo 32.º-B
+
+Identificação e capacidade do requerente
 
 1 - A identificação do requerente e a demonstração da capacidade técnica, económica e financeira para a operação de centro de lançamento que pretende realizar, assim como a demonstração da sua idoneidade e credibilidade, é feita nos termos dos artigos 10.º e 11.º, do presente regulamento, com as devidas adaptações, devendo adicionalmente o requerente submeter:
 
@@ -911,7 +1032,9 @@ b) Programas de formação de pessoal técnico chave e sistemas de certificaçã
 
 3 - O requerimento deve indicar a designação do centro, a data pretendida para o início da produção de efeitos da licença e prazo pretendido para a mesma.
 
-###### Artigo 32.º-C — Elementos do centro de lançamento
+Artigo 32.º-C
+
+Elementos do centro de lançamento
 
 1 - O requerente deve submeter à AE os seguintes elementos relativos à localização pretendida para o centro de lançamento:
 
@@ -979,7 +1102,9 @@ h) Outra informação relevante sobre a exploração do centro, nomeadamente a i
 
 6 - O requerente deve, ainda, submeter informação relativa aos seguros que contrata no âmbito da atividade do centro de lançamento.
 
-###### Artigo 32.º-D — Requisitos de segurança do centro de lançamentos
+Artigo 32.º-D
+
+Requisitos de segurança do centro de lançamentos
 
 1 - O requerente deve identificar os potenciais riscos que podem surgir durante a operação do centro, incluindo no que respeita ao armazenamento e manuseamento de explosivos e outras substâncias perigosas e à realização de testes e de lançamentos, identificando a sua natureza e probabilidade, bem como as áreas geográficas mais afetadas e os seus impactos.
 
@@ -1023,13 +1148,17 @@ p) Ao registo de todas as ocorrências com impacto na segurança, nomeadamente d
 
 q) Às normas ou certificações que o requerente, o seu pessoal, o centro, as infraestruturas, os equipamentos e os componentes possuam ou que o requerente indique que irá obter, em matéria de qualidade, segurança e ambiente.
 
-###### Artigo 32.º-E — Outras autorizações e títulos
+Artigo 32.º-E
+
+Outras autorizações e títulos
 
 1 - Sem prejuízo do disposto no n.º 5 do artigo 9.º-C do DLAE, o requerente deve ainda submeter junto da AE, todas as autorizações e títulos necessários para efeitos da localização, instalação e operação do centro de lançamento emitidas pelas respetivas entidades competentes, conforme estabelecido na alínea c) do n.º 1 do artigo 9.º -B do DLAE.
 
 2 - Em alternativa, com o requerimento previsto no artigo 32.º-A do presente Regulamento, o requerente pode submeter à AE toda a informação e documentação necessárias para a obtenção de outras autorizações, procedendo a AE às necessárias diligências junto das entidades nacionais competentes, caso tal seja possível dentro dos prazos legais previstos para a obtenção dessas autorizações.
 
-###### Artigo 32.º-F — Procedimento de atribuição de licença de operação de centro de lançamento
+Artigo 32.º-F
+
+Procedimento de atribuição de licença de operação de centro de lançamento
 
 1 - Ao procedimento de atribuição de licença de operação de centro de lançamento aplica-se o disposto no artigo 23.º do presente regulamento, com as devidas adaptações.
 
@@ -1037,11 +1166,15 @@ q) Às normas ou certificações que o requerente, o seu pessoal, o centro, as i
 
 3 - A AE envia, no prazo de 80 dias, à Agência Espacial Portuguesa, o seu projeto de decisão, sem prejuízo das alterações que possam resultar da análise a efetuar por esta entidade da aprovação prévia do Governo, nos termos do n. º 4 do artigo 9.º -D do DLAE.
 
-###### Artigo 32.º-G — Critérios de avaliação
+Artigo 32.º-G
+
+Critérios de avaliação
 
 A atribuição da licença pela AE tem em consideração se o requerente cumpre os requisitos exigidos para efeitos de licenciamento no n.º 1 do artigo 9.º-B do DLAE, incluindo a apreciação de que a operação do centro de lançamento não coloca em risco a segurança interna e os interesses estratégicos da República Portuguesa, nem viola as suas obrigações internacionais.
 
-###### Artigo 32.º-H — Atribuição da licença de operação de centro de lançamento
+Artigo 32.º-H
+
+Atribuição da licença de operação de centro de lançamento
 
 1 - A AE decide sobre a atribuição da licença, no prazo de 240 dias após a receção do pedido, uma vez recebida a aprovação prévia do Governo nos termos do artigo 9.º-D do DLAE.
 
@@ -1065,7 +1198,9 @@ g) Data de início de produção de efeitos, tendo em conta o requerido pelo int
 
 4 - A atribuição da licença é divulgada no sítio da AE da Internet.
 
-###### Artigo 32.º-I — Direitos e deveres do titular da licença de operação de centro de lançamento
+Artigo 32.º-I
+
+Direitos e deveres do titular da licença de operação de centro de lançamento
 
 1 - A atribuição de uma licença confere ao seu titular o direito à operação do centro de lançamento correspondente, nos termos do DLAE, do presente regulamento e da respetiva licença.
 
@@ -1079,13 +1214,17 @@ c) Possuir um registo de todas as ocorrências da sua atividade, nomeadamente de
 
 3 - No que respeita à Região de Informação de Voo de Santa Maria ou à Região de Informação de Voo de Lisboa, o requerente deve promover, junto da Autoridade Nacional da Aviação Civil, a instrução do pedido de análise da volumetria do espaço aéreo a afetar às atividades que venham a ser desenvolvidas em função do previsto na licença de operação de centro de lançamento, tendo em vista a necessária coordenação nacional para a implementação da(s) estrutura(s) de espaço aéreo e a sua decorrente publicação no sistema nacional de informação aeronáutica.
 
-###### Artigo 32.º-J — Alteração à licença de operação de centro de lançamento
+Artigo 32.º-J
+
+Alteração à licença de operação de centro de lançamento
 
 1 - Qualquer alteração aos elementos respeitantes à identificação do operador deve ser comunicada à AE no prazo máximo de 20 dias.
 
 2 - Qualquer outra alteração aos elementos apresentados nos termos da Secção II do Capítulo II do presente regulamento, que impactem as condições determinantes da atribuição da licença, nomeadamente no que respeita aos elementos que constam do Registo Central de Beneficiário Efetivo, à capacidade técnica, económica ou financeira do operador, ou à operação de centro de lançamento conforme licenciada, estão sujeitas a autorização da AE, após aprovação prévia do Governo, aplicando-se os prazos e procedimentos previstos no artigo 32.º-F do presente regulamento, com as devidas adaptações, averbando-se à licença, se necessário, as alterações correspondentes.
 
-###### Artigo 32.º-K — Duração da licença de operação de centro de lançamento
+Artigo 32.º-K
+
+Duração da licença de operação de centro de lançamento
 
 1 - A licença de operação de centro de lançamento é atribuída pelo prazo máximo de 15 anos, após a data de início da produção de efeitos, tendo em conta o requerido pelo interessado, podendo ser renovada por prazos sucessivos máximos de 15 anos.
 
@@ -1093,7 +1232,9 @@ c) Possuir um registo de todas as ocorrências da sua atividade, nomeadamente de
 
 3 - A renovação da licença só pode ser concedida nos casos em que não tenha havido modificação legal, regulamentar, estratégica ou outra que afete as condições da mesma, nos termos do n.º 3 do artigo 10.º do DLAE.
 
-###### Artigo 32.º-L — Transmissibilidade da licença para operação de centro de lançamento
+Artigo 32.º-L
+
+Transmissibilidade da licença para operação de centro de lançamento
 
 1 - A transmissibilidade da licença para operação de centro de lançamento está sujeita ao disposto nos artigos 29.º a 31.º do presente regulamento, com as devidas adaptações.
 
@@ -1101,7 +1242,9 @@ c) Possuir um registo de todas as ocorrências da sua atividade, nomeadamente de
 
 3 - A AE decide, no prazo de 120 dias após a receção do requerimento, e uma vez recebida a aprovação prévia do Governo nos termos do n.º 4 do artigo 11.º do DLAE, sobre a autorização ou recusa da transmissão da licença de operação de centro de lançamento, e averba, em caso de deferimento, a identificação do transmissário na licença de operador.
 
-###### Artigo 32.º-M — Extinção da licença de operação de centro de lançamento
+Artigo 32.º-M
+
+Extinção da licença de operação de centro de lançamento
 
 A extinção da licença de operação de centro de lançamento está sujeita ao disposto no artigo 32.º do presente regulamento, com as devidas adaptações.»
 
@@ -1883,7 +2026,7 @@ A extinção da licença de operação de centro de lançamento está sujeita ao
 
 ###### Artigo 33.º — Âmbito da qualificação prévia
 
-1 - Nos termos do disposto nos n.<sup>os</sup>1 e 2 do artigo 5.º do DLAE, os operadores podem requerer a qualificação prévia, destinando-se a atestar para efeitos de licenciamento das operações espaciais:
+1 - Nos termos do disposto nos n.os1 e 2 do artigo 5.º do DLAE, os operadores podem requerer a qualificação prévia, destinando-se a atestar para efeitos de licenciamento das operações espaciais:
 
 a) Que o operador de centro de lançamento, o operador de lançamento e/ou retorno e o operador de comando e controlo têm capacidade técnica, económica e financeira para as operações espaciais que pretendem realizar;
 
@@ -2132,3 +2275,5 @@ A AE procede a uma avaliação da aplicação do presente regulamento no prazo m
 ###### Artigo 53.º — Entrada em vigor
 
 O presente regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República.
+
+318381999

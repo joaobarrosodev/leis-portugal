@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/440-2011-1673471
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce883ed794067bda3f6171555dc73c1e60b0360071e342e0af319f5a6f6f1c53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a780164986c53311de1125098a81e25ac4f4d147141efd87721f163aa3ebae52
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:43Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 440/2011
 
 Por terem sido publicados com inexactidão no Diário da República, 2.ª série, n.º 70, de 12 de Abril de 2010, despacho n.º 6410/2010, dados referentes à classificação profissional atribuída ao docente Luís Martins Fernandes Almeida, que realizou a profissionalização em serviço, no ensino público, nos termos do despacho n.º 7718/2007 (2.ª série), de 15 de Março, publicado no Diário da República, 2.ª série, n.º 81, de 26 de Abril de 2007, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf)
 
 9 de Fevereiro de 2011. - O Director-Geral, Mário Agostinho Alves Pereira.
+
+204348804

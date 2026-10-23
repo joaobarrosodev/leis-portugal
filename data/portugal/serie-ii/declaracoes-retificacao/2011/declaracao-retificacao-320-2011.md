@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/320-2011-2465198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d624630e9f8d3d069918288b7b8396fd64100504237995ad058eb5322e2d78a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8228f2d749927a620cacfeb7efded4a64cc668eaa2559ba532fe5eedf1470d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:01Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 320/2011
 
 Para os devidos efeitos se declara que a declaração de rectificação n.º 137/2011, publicada no Diário da República, 2.ª série, n.º 13, de 19 de Janeiro de 2011, saiu com inexactidão no nome dos seguintes assistentes técnicos da lista unitária de ordenação final do procedimento concursal para preenchimento de dois postos de trabalho na categoria de assistentes técnicos em regime de contracto de trabalho em funções públicas por tempo indeterminado, pelo que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf))](https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf))](https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/027000000/0707607077.pdf)
 
 1 de Fevereiro de 2011. - A Presidente da CAP, Olema Natércia Fernandes Gonçalves.
+
+204293384

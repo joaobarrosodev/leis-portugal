@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/204000000/0002900031.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,36 +48,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/806-2023-223077495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5a5feccce41ad3e44e9c2f5d9f102d37d0bf1bc97074ee506746c30075c6a3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db6c772c87ac627588dbf922f85ee644831c80db8ce0d43ac5394085163495fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Camões - Instituto da Cooperação e da Língua
+- Fundo Ambiental
+- Palop
+- Plano Nacional da Política de Ambiente
+- Política de Cooperação
+- Timor Leste
+relationships:
+- type: cites
+  target: pt:dre:204502329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221430489:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:despacho:9253/2023
+  label: Retifica e adita, com efeitos a 04 de agosto de 2023, o anexo, «Programa Plurianual Conjunto de Cooperação para o
+    Desenvolvimento nos Domínios do Ambiente e da Ação Climática» à publicação do Despacho n.º 9253/2023, de 8 de setembro,
+    Diário da República n.º 175/2023, Série II
+  source: null
+  date: '2023-09-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:08Z'
   warnings: []
   errors: []
 ---
@@ -149,3 +174,5 @@ A ação desenvolvida no âmbito do Programa será objeto de relatórios anuais 
 Os relatórios supramencionados deverão assentar no reporte da execução dos projetos apoiados no âmbito de cada um dos três tipos de financiamento.
 
 A avaliação do Programa e dos seus resultados será realizada a meio percurso e no final do período de vigência do Programa, de acordo com a abordagem mencionada, tendo presente os indicadores de desempenho a definir pelo grupo de trabalho.
+
+316961558

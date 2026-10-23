@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/045000000/0014500145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/158-2024-854052303
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98f53f2594c38c18cee8dc62a3653226eabec96263f76f7094c804ed022348d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64552222dd4c30825bd75d8998fbf0a549448f7c397d6a230266f2a2d8676cb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:08Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter saído com inexatidão o Aviso 2928/2024, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro de 2024, retifica-se que, a p. 270, no procedimento concursal comum para a contratação em funções públicas por tempo indeterminado, aberto por aviso publicado no Diário da República, 2.ª série, n.º 86, de 4 de maio de 2022, para a categoria de assistente técnico (na área de apoio administrativo - expediente geral), onde se lê "Albertina Helena Bongue Santiago Calimina Pedro com efeitos a 13 de novembro de 2023" deve ler-se "Ana Isabel Bárbara Rodrigues com efeitos a 6 de novembro de 2023".
 
 8 de fevereiro de 2024. - A Vereadora Responsável pela Área de Recursos Humanos, Susana Santos Nogueira.
+
+317360482

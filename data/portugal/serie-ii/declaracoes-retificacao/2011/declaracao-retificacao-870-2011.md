@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/097000000/2178321784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/870-2011-1472226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 222af0fa374746160162eeb83bda5e292dfe243e6e3dfc5b18d884116c25489e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ace53e4231064f6ce329121a85bf52dcaf9e04246609162283c5fc9a69dcfa23
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:18Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 870/2011
+# Declaração de rectificação n.º 870/2011
 
 Em virtude dos métodos de selecção a aplicar nos procedimentos concursais publicitados através do aviso n.º 8154/2011, publicado no Diário da República, 2.ª série, n.º 65, de 1 de Abril de 2011, não obedecerem ao legalmente previsto, procede-se, ao abrigo do disposto no artigo n.º 148.º do Código do Procedimento Administrativo, à sua rectificação.
 
@@ -117,3 +121,5 @@ OF = ordenação final; PC = prova de conhecimento; AC = avaliação curricular;
 Levando em linha de conta a alteração aos métodos de selecção a aplicar, concede-se um prazo suplementar de 10 dias úteis contados da data da publicação do presente aviso para os eventuais interessados poderem efectuar as suas candidaturas. As candidaturas apresentadas dentro do prazo inicialmente fixado consideram-se válidas.
 
 9 de Maio de 2011. - A Presidente da Câmara, Fermelinda Carvalho.
+
+304672164

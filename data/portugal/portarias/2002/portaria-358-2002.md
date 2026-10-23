@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/358/2002/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-2002-301068
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ee2a4f51ee4509929caf6b59144ae1349fa96649ed16cdd6df3ea7b2e712654
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e5266648fee04de21dc6e743374c182a6f047b0f2b44356a895f0240c315db57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Administração Pública
 - Carreira de Especialista de Informática
 - Carreira de Informática
 - Carreira de Técnico de Informática
-- Formação Profissional
-- Curso de Formação
-- Administração Pública
 - Carreira Profissional
-- Formação Complementar
-- Direcção Geral da Administração Pública
 - Centro de Estudos e Formação Autárquica
+- Curso de Formação
 - Descrição de Funções
+- Direcção Geral da Administração Pública
+- Formação Complementar
+- Formação Profissional
 - Pessoal de Informática
 - Qualificação Profissional
 relationships:
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/244/1997/04/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/244/1997/04/11/p/dre
+- type: cites
+  target: pt:dre:218952:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469015:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogados, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), os n.ºs 2.º\
+    \ e 8.º e anexo n.º 2 pela DEC LEI.121/2008.11.07.2008.MFAP, DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: repealed_by
+  target: pt:dre:222583134:por
+  label: Revogada, a partir de 01.11.2023, pelo(a) Decreto-Lei n.º 88/2023 - Diário da República n.º 196/2023, Série I de
+    2023-10-10 nos termos da al. b) do art. 24.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2023-222583134
+  date: '2023-10-10'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:41Z'
   warnings: []
   errors: []
 ---
@@ -326,16 +350,16 @@ Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre Ant�
 
 ## ANEXO N.º 1 — (a que se refere o n.º 2 do n.º 6.º)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)
 
 ## ANEXO N.º 2 — (a que se refere o n.º 1 do n.º 8.º)
 
 Cursos para a carreira de especialista de informática
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)
 
 ## ANEXO N.º 3 — (a que se refere o n.º 1 do n.º 9.º)
 
 Cursos para a carreira de técnico de informática
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)](https://files.diariodarepublica.pt/1s/2002/04/078b00/30153021.pdf)

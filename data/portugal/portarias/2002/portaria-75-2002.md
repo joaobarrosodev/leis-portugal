@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/75/2002/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/75-2002-235294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07f11be682a436d8e1dd6a7811c7dae4c00e9e4190ca302d51eb08191869f202
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1e1d8149a5b713e8d4149bdf211b6728ea33be5a5312549d23c2b2263da966c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
 - Conservação de Documentos
 - CTT
+- Serviço Postal
 - VALE de Correio
 relationships:
 - type: amended_by
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/536/1995/06/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/536/1995/06/03/p/dre
+- type: cites
+  target: pt:dre:374779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614346:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:11Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +134,9 @@ Vales perdidos, deteriorados ou destruídos
 
 3 - É aplicável às segundas emissões, com as necessárias adaptações, o disposto nos artigos 6.º, 7.º, 9.º, 11.º, 12.º, 14.º e 15.º, contando-se o prazo de caducidade a partir da data da emissão dos vales a que respeitam.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 1 - Os vales são transmissíveis por endosso.
 
@@ -130,7 +144,9 @@ Vales perdidos, deteriorados ou destruídos
 
 3 - ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - Os vales são pagos ao destinatário, remetente, endossado ou seus representantes legais ou voluntários.
 
@@ -140,7 +156,9 @@ Vales perdidos, deteriorados ou destruídos
 
 4 - O pagamento dos vales faz-se mediante recibo.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As pessoas a quem é feito o pagamento dos vales são identificadas mediante a apresentação do bilhete de identidade, passaporte ou outro documento que os CTT considerem idóneo para o efeito.
 
@@ -150,7 +168,9 @@ Vales perdidos, deteriorados ou destruídos
 
 4 - ...
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -164,7 +184,9 @@ c) Os vales que tenham excedido o prazo de validade.
 
 3 - ...
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -176,4 +198,4 @@ c) Os vales que tenham excedido o prazo de validade.
 
 Em 31 de Dezembro de 2001.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues.

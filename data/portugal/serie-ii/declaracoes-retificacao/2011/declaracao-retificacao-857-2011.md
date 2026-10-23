@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/096000000/2152621526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/857-2011-2400944
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8db1ad457d6eef6a7316c95bd5b571acdd8d53039560fd34be7e2438f3f68b7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 567d64bda9602b7c6d656e12d6a78122f1feacebd80d5f5a4a8a9683dbfab505
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,29 +66,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:227271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 857/2011
+# Declaração de rectificação n.º 857/2011
 
 Por ter saído com inexactidão a lista dos trabalhadores do CHAA que obtiveram menções qualitativas e quantitativas que fundamentam a alteração do posicionamento remuneratório, com efeitos a 1 de Janeiro de 2010, pela deliberação (extracto) n.º 641/2011, publicada no Diário da República, 2.ª série, n.º 47, de 8 de Março de 2011, novamente se publica:
 
 «Nos termos da deliberação do conselho de administração de 14 de Fevereiro de 2011, de acordo com o disposto nos n.os 6 e 7 do artigo 47.º, no n.º 7 do artigo 113.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, do n.º 1 do artigo 44.º e na alínea e) do n.º 1 do artigo 52.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, publicita-se a lista dos trabalhadores do CHAA que obtiveram menções qualitativas e quantitativas que fundamentam a alteração do posicionamento remuneratório, com efeitos a 1 de Janeiro de 2010:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/05/096000000/2152621526.pdf))](https://files.diariodarepublica.pt/2s/2011/05/096000000/2152621526.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/05/096000000/2152621526.pdf)
 
 (Isento de fiscalização prévia do Tribunal de Contas.)»
 
 11 de Maio de 2011. - O Presidente do Conselho de Administração, António Alberto Brandão Gomes Barbosa.
+
+204671808

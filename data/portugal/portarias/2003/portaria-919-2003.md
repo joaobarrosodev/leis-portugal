@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/919/2003/09/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/919-2003-509236
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 858c0adb06654dad3e225a199bf18c51aa037195f6a9643b3c1194f01ef8868a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1bf9cf6955bf2eaf7d341bdbd585255ce74a43258b5820a76ca0a4a54187bc43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,46 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Formação Profissional
 - Centro Tecnológico
-- Sistema Português da Qualidade
-- Mudança Tecnológica
-- Projeto de Investimento
+- Formação Profissional
 - Modernização Tecnológica
+- Mudança Tecnológica
 - Nova Tecnologia
+- Projeto de Investimento
 - Regime de Apoio
 - Regulamento
 - Regulamento de Execução da Medida de Apoio às Actuais Infra-estruturas Tecnológicas da Formação e da Qualidade
 - Setor Empresarial
+- Sistema Português da Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:545431:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:251634:por
+  label: "Alterado o anexo B pela PORT.559/2004.26.05.2004.MF, DR.IS-B [123] de 26.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/559-2004-251634
+  date: '2004-05-26'
+- type: amended_by
+  target: pt:dre:583980:por
+  label: "Alterada a denominação do Regulamento aprovado pelo presente diploma, com a redacção da Port 559/2004 de 26-Mai,\
+    \ - passa a designar-se \"Regulamento de Execução da Medida de Apoio à Criação de Novas Infra-Estruturas Tecnológicas\
+    \ e às Actuais Infra-Estruturas Tecnológicas, da Formação e da Qualidade\", assim como alterados os arts. 1º, 2º, 3º,\
+    \ 5º, 6º, 7º, 8º, 9º, 12º, 13º, 15º, 16º, 17º, 18º, 21º e 22º e ainda o anexo B; e aditados ao presente diploma os arts.\
+    \ 6º-A, 15º-A e 16º-A, pela PORT.230/2005.01.03.2005.MAET, DR.IS-B [42] de 01.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/230-2005-583980
+  date: '2005-03-01'
+- type: amended_by
+  target: pt:dre:545431:por
+  label: "Remetidas para o Ministro da Economia e da Inovação as referências feitas ao Ministro da Economia e ao Ministro\
+    \ de Estado, das Actividades Económicas e do Trabalho constantes do Regulamento aprovado pelo presente diploma, com as\
+    \ alterações introduzidas pelas Port 559/2004 de 26-Mai e 230/2005 de 01-Mar, e alterados os arts. 4º, 5º, 6º, 6º-A, 7º,\
+    \ 8º, 10º, 11º, 15º, 16º, 20º e 22º, bem como os anexos A, B, C e D do referido Regulamento, e aditado ainda o art. 23º\
+    \ ao mesmo Regulamento, que é republicado na íntegra com todas as alterações pela PORT.1358/2006.04.12.2006.MFAP, DR.IS\
+    \ [232] de 04.12.2006\0006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1358-2006-545431
+  date: '2006-12-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
   label: null
@@ -98,16 +122,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647110:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:344438:por
+  label: "Rectificada pela DECL-RECT.11-N/2003.30.09.2003.PCM, DR.IS-B [226]2ºSupl de 30.09.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-n-2003-344438
+  date: '2003-09-03'
 article_structure:
   article_count: 22
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:05Z'
   warnings: []
   errors: []
 ---
@@ -384,7 +429,7 @@ c) No caso da apresentação de um projecto, não se encontrando ainda concluíd
 
 1 - Os limites de incentivo a atribuir por projecto são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)
 
 2 - Sem prejuízo dos limites definidos no n.º 1, estabelecem-se os seguintes limites específicos ao incentivo:
 
@@ -518,7 +563,7 @@ ALe - activo líquido da entidade promotora.
 
 Os limites e condições específicas à aplicação das despesas elegíveis por acção e tipo de beneficiário são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)
 
 ## ANEXO C — Limites e condições específicas de aplicação das despesas elegíveis e limites específicos de incentivo por acção e tipo de beneficiário
 
@@ -526,7 +571,7 @@ Os limites e condições específicas à aplicação das despesas elegíveis por
 
 Os limites e condições específicas à aplicação das despesas elegíveis por tipo de beneficiário são os seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)](https://files.diariodarepublica.pt/1s/2003/09/203b00/58355844.pdf)
 
 ## ANEXO D — Limites para apuramento do incentivo
 

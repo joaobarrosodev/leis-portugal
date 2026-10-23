@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/296/2002/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/296-2002-263768
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54351aadb3138a23e779abb231a838e91b6f99223fa843edd923152582546e3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3c7306fcdf6f6c4d23a3f9617a6bbdf505a30625b7abd1859fbf065a2f0b46f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Licenciamento
 - FSE
-- QCA III
-- Política de Emprego
+- Licenciamento
 - Mercado do Trabalho
+- Política de Emprego
+- QCA III
 relationships:
 - type: amended_by
   target: pt:dre:426483:por
@@ -104,16 +104,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/799-b/2000/09/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/799-b/2000/09/20/p/dre
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:261891:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:562187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:426483:por
+  label: "Revogada a partir de 15.12.2007 pelo DR.84-A/2007.10.12.2007.MTSSO, DR.IS [237-Supl] de 10.12.2007 (Ver Notas)\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/84-a-2007-426483
+  date: '2007-12-10'
 article_structure:
   article_count: 3
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:21Z'
   warnings: []
   errors: []
 ---
@@ -656,4 +690,4 @@ Em tudo o que não se encontrar expressamente regulado no presente diploma aplic
 
 Em 26 de Fevereiro de 2002.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.

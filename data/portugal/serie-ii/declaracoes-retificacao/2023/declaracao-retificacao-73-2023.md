@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/019000000/0046700467.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/73-2023-206563354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db25fb06bf69936a5e626d6651e18c2a49452dede98fcab6a1e7a484c5c1f8f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 534d30e9bd4e15125c009055c9e12112f89817da5264c47b494c421c0a5ee1bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:38Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por ter sido publicado com inexatidão o aviso (extrato) n.º 952/2023, no Diário da República, 2.ª série, n.º 10, de 13 de janeiro de 2023, relativamente ao nome que consta na assinatura do presidente, retifica-se que onde se lê «Dr. Francisco Manuel de Oliveira Andrade» deve ler-se «João Paulo Simões de Moura Rebelo».
 
 16 de janeiro de 2023. - O Presidente da Freguesia de Murtosa, João Paulo Simões de Moura Rebelo.
+
+316073149

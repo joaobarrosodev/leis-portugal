@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/120000000/0010400104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/457-2023-214683917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d24671d856983c31b7d499965ad8420992c6f670d62c32e6968f08747727517
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ca45b500804f7f4b837c8b398a37eda9be88623a63c85cdc48c58a173289080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:213166193:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:01Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +98,5 @@ deve ler-se:
 «I.3 - Atividades a desempenhar: O/a candidato/a estudará a forma como a função e a morfologia da sinapse neuronal em mamíferos muda durante o processo de envelhecimento do cérebro. O projeto irá capitalizar em modelos de exocitose e endocitose defeituosa para explorar se processos seletivos, como exocitose, endocitose, reciclagem de vesículas sinápticas e enchimento de vesículas sinápticas, sofrem alterações com o aumento da idade. O projeto envolve uma abordagem multidisciplinar que combina neurónios primários e derivados de iPSC, biologia celular, electrofisiologia e "live microscopy" será utilizada simultaneamente. Considerando os objetivos do projeto, será dada preferência a candidatos com experiência anterior em biologia celular neuronal. Deveres: planeamento e execução de trabalho experimental, cogestão do projeto juntamente com a PI, manutenção e atualização de notas experimentais e resultados, supervisão de colegas de trabalho, divulgação dos resultados.»
 
 7 de junho de 2023. - O Reitor, Amílcar Falcão.
+
+316575058

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/157/2003/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-2003-197548
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ef25a9d3b5676819740f244321228b5243e5264bcdd50281b8d26e0024312ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 326bdc77a374ee51418fafd2d8fd7a89db030eab8ee25b384f2273913f9709a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,10 +68,10 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Apoio ao Investimento
+- Intervenção Operacional Pescas
 - QCA III
 - Regime de Apoio
 - Regime de Apoio à Constituição de Sociedades Mistas
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
 relationships:
@@ -88,15 +88,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/1081/2000/11/08/p/dre
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:30Z'
   warnings: []
   errors: []
 ---
@@ -133,13 +133,17 @@ c) [Anterior alínea b).]
 
 ...
 
-###### Artigo 9.º — Apreciação e decisão
+Artigo 9.º
+
+Apreciação e decisão
 
 ...
 
 3 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 13.º — Pagamento dos apoios
+Artigo 13.º
+
+Pagamento dos apoios
 
 1 - O pagamento dos apoios é efectuado em função da execução do projecto e, em conformidade com o disposto no artigo 11.º, processa-se em duas fases:
 
@@ -163,7 +167,9 @@ São condições especiais de acesso a este regime:
 
 d) Existir acordo das autoridades competentes do país terceiro interessado.
 
-###### Artigo 9.º — Apreciação e decisão
+Artigo 9.º
+
+Apreciação e decisão
 
 ...
 
@@ -175,4 +181,4 @@ d) Existir acordo das autoridades competentes do país terceiro interessado.
 
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.

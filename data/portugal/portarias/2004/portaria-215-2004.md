@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/215/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/215-2004-551777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-01-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 191e867a0acd11c1811a749072c561356721360e1a48e8dc3de9a56b52725462
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 08ffb4b4602e83f060eb20cf742c99811b277e6d30705d7f08ea3519a52b116a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,25 @@ relationships:
   target: pt:dre:616828:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545445:por
+  label: "Anexados vários prédios rústicos à zona de caça pela PORT.1372/2006.05.12.2006.MADRP, DR.IS [233] de 05.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1372-2006-545445
+  date: '2006-12-05'
+- type: amended_by
+  target: pt:dre:519623:por
+  label: "Dada nova redacção ao n.º 2.º do presente diploma, alterada pela Portaria 1372/2006, de 05 de Dezembro, e substituída\
+    \ a planta anexa a este último diploma, pela PORT.440/2007.16.04.2007.MADRP, DR.IS [74] de 16.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/440-2007-519623
+  date: '2007-04-16'
+- type: amended_by
+  target: pt:dre:616828:por
+  label: "Renovada por um período de seis anos, a concessão, bem como a transferência de gestão, da zona de caça municipal\
+    \ de Santo Estêvão, concessionada pelo presente diploma, alterada pelas Ports 1372/2006 de 05-Dez e 440/2007 de 16-Abr,\
+    \ pela PORT.44/2010.19.01.2010.MADRP, DR.IS [12] de 19.01.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/44-2010-616828
+  date: '2010-01-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +109,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/45/2004/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/45/2004/01/14/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:55Z'
   warnings: []
   errors: []
 ---

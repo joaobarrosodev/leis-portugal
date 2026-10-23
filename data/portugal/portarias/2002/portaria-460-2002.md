@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/460/2002/04/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/460-2002-288780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d176c170d57e8bd4c2c70286488b4451efaaf1cd426d842e4a5104dc09b2dba0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 229dac08ca3c21402308395249097048229057788d400a710c4113b92a4cbf19
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,26 @@ relationships:
   target: pt:dre:306884:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453838:por
+  label: "Renovada, por um período de seis anos, a zona de caça municipal criada pelo presente diploma, bem como a transferência\
+    \ de gestão, por igual período, e anexados vários prédios rústicos sitos nas freguesias de Monfortinho e Penha Garcia\
+    \ pela PORT.1047/2008.16.09.2008.MADRP, DR.IS [179] de 16.09.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1047-2008-453838
+  date: '2008-09-16'
+- type: amended_by
+  target: pt:dre:483134:por
+  label: "Excluídos vários terrenos cinegéticos da zona de caça atribuída pelo presente diploma, alterada pela Port 1047/2008,\
+    \ de 16-Set, pela PORT.1348/2009.26.10.2009.MADRP, DR.IS [207] de 26.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1348-2009-483134
+  date: '2009-10-26'
+- type: amended_by
+  target: pt:dre:306884:por
+  label: "Excluídos vários terrenos cingéticos da zona de caça municipal de Monfortinho, criada pelo presente diploma, renovada\
+    \ pela Port 1047/2008 de 16-Set e alterada pela Port 1348/2009 de 26-Out, pela PORT.1216/2010.02.12.2010.MADRP, DR.IS\
+    \ [233] de 02.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1216-2010-306884
+  date: '2010-12-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +106,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1103/2000/11/23/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:21Z'
   warnings: []
   errors: []
 ---

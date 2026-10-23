@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 41/2004, 2º Suplemento, Série I-B de 2004-02-18
   number: '41'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 912-(66) a 912-(67)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/041b02/00660067.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/168-b/2004/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/168-b-2004-486284
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d80b7c47ef34d8dc3956ed5651c708f2ece7d1bfeac33e6f8dd79833228617d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cb50125b1d62a6d766154220e7b21fca2b00a6eb108337cdf0a86fb06ec9023
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Infarmed
 - Concurso Público
 - Farmacêutico
+- Infarmed
 - Instalação de Serviços
 - Transferência de Serviços
 relationships:
@@ -77,6 +77,12 @@ relationships:
   target: pt:dre:629419:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:525202:por
+  label: "Alterados os n.ºs 4º, 5.º e 16.º da Port 936-A/99, de 22-Out , com a redacção conferida pelo presente diploma, pela\
+    \ PORT.865/2004.19.07.2004.MS, DR.IS-B [168] de 19.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/865-2004-525202
+  date: '2004-07-19'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1379/2002/10/22/p/dre
   label: null
@@ -85,16 +91,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/936-a/1999/10/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/936-a/1999/10/22/p/dre
+- type: cites
+  target: pt:dre:238264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451591:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:629419:por
+  label: "Revogada a partir de 07.11.2007 a Port 936-A/99 de 22-Out, com as alterações constantes do presente diploma, pela\
+    \ PORT.1430/2007.02.11.2007.MS, DR.IS [211] de 02.11.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1430-2007-629419
+  date: '2007-11-02'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:39Z'
   warnings: []
   errors: []
 ---
@@ -181,4 +209,4 @@ Manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
 
 2 - As demais disposições aplicar-se-ão na data da entrada em vigor da presente portaria.
 
-**O Secretário de Estado da Saúde, Carlos José das Neves Martins, em 16 de Janeiro de 2004.**
+O Secretário de Estado da Saúde, Carlos José das Neves Martins, em 16 de Janeiro de 2004.

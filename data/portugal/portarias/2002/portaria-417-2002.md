@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/417/2002/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/417-2002-288378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c6fb69ef84d357de9d51096b79285605b936195b05504f92fe56441df5bc8f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f6c2683e9cfaefc1764347b04160869307528c767afd59d2205a7bf6e687324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Marinha
-- Qualificação Profissional
-- Quadro Permanente da Armada
 - Militar
+- Quadro Permanente da Armada
+- Qualificação Profissional
 - Sargento
 relationships:
 - type: cites
@@ -88,16 +88,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/85/1993/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/85/1993/01/25/p/dre
+- type: cites
+  target: pt:dre:386786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515633:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602504:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124392066:por
+  label: Revogada, com efeitos a partir do início do ano letivo 2020/2021, pelo(a) Portaria n.º 288/2019 - Diário da República
+    n.º 168/2019, Série I de 2019-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2019-124392066
+  date: '2019-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:06Z'
   warnings: []
   errors: []
 ---
@@ -184,4 +206,4 @@ e) Obter aproveitamento no referido estágio técnico-militar.
 
 6.º São revogadas as Portarias n.os [85/93](https://diariodarepublica.pt/dr/detalhe/portaria/85-1993-602504), de 25 de Janeiro, e 458/97, de 11 de Julho, com excepção das condições especiais aplicáveis às praças em SEN, que se mantêm em vigor até à eliminação daquela forma de prestação de serviço.
 
-**O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 14 de Março de 2002.**
+O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 14 de Março de 2002.

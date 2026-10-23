@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/728/2002/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/728-2002-140120
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e42141f8ffcb171c5a3b89de5c0f1e1e73db448c1b97825673434d109271dcd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8948c17093ccb2be3d4d422b62f3e32f4eb1422521b51e0f48a759a4f7c5c788
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Castelo Branco
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Castelo Branco
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:527583:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:527583:por
+  label: "Alterada a denominação do curso bietápico de Licenciatura em Tradução e Secretariado cujo Plano de Estudos foi aprovado\
+    \ pelo presente diploma, pela PORT.842/2004.16.07.2004.MCES, DR.IS-B [166] de 16.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/842-2004-527583
+  date: '2004-07-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -111,16 +117,60 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/1999/07/22/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:203474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:02Z'
   warnings: []
   errors: []
 ---
@@ -175,19 +225,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
 
 ## ANEXO II — Instituto Politécnico de Castelo Branco
 
@@ -201,4 +251,4 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)](https://files.diariodarepublica.pt/1s/2002/06/146b00/50745076.pdf)

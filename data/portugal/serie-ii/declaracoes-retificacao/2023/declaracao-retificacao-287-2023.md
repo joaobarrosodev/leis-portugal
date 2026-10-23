@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/069000000/0003700037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/287-2023-211499024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05427832dd54b1663d09538ad54c8b7fc8598eaa714ab512dc30391c5e3f265e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99b6e729d4151931951a07c081eceda76fc559512729bcbcedef6c200020603a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:210542244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488485:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:00Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +110,5 @@ deve ler-se:
 «foi celebrado contrato de trabalho em funções públicas por tempo indeterminado, em regime de tempo integral, com um período experimental de cinco anos, nos termos da Lei Geral do Trabalho em Funções Públicas e do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de novembro, na redação dada pelo [Decreto-Lei n.º 205/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2009-488485), de 31 de agosto, e alterado pela [Lei n.º 8/2010](https://diariodarepublica.pt/dr/detalhe/lei/8-2010-615031), de 13 de maio, com o professor auxiliar Diogo Nuno Gouveia Torres Feio»
 
 23 de março de 2023. - O Chefe da Divisão de Pessoal Civil, António da Silva Cardoso, Coronel de Infantaria.
+
+316322937

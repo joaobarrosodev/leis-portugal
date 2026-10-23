@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/09/182000000/0026600266.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/774-2024-888217462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8d9df41b0eff4e652c683420a9701bac3a103ea4a78a2f61148a4313a4c53cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1c5aa0c01359895b63aa10ce28174646424402e1f68769a5083aff045329961
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:867833579:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:50Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +93,5 @@ Por ter sido publicado com inexatidão o [Aviso n.º 11808/2024/2](https://diari
 Onde se lê "remoção de lixos e equiparados, varredura e limpeza de ruas, limpeza de sarjetas, lavagem de vias públicas, limpeza de chafariz, remoção de lixeiras e extirpação de ervas, limpeza de WC público, pinturas, apoio à execução das demais tarefas indiferenciadas de apoio às atividades da Junta de Freguesia, que lhe sejam superiormente solicitadas" deve ler-se "no âmbito da manutenção de espaços verdes detém como principais funções a reparação dos espaços públicos, património e edificado da Freguesia; efetuar a manutenção de parques e espaços verdes da Freguesia, incluindo saber laborar com todos os tipos de programadores e bombas de rega existentes; assegurar a manutenção e limpeza do cemitério da Freguesia e zonas envolventes; condução de veículos da Freguesia; utilização e manutenção periódica dos equipamentos/ferramentas/utensílios; aplicação de fitofármacos na área da Freguesia para disseminação das pragas e infestantes; utilizar os Equipamentos de Proteção Individual (EPI) necessários à execução das tarefas de sua responsabilidade; prestar apoio aos Órgãos Autárquicos; prestar apoio nas atividades dinamizadas pela Freguesia; executar as tarefas enquadradas no conteúdo funcional da carreira/categoria em questão".
 
 10 de setembro de 2024. - O Presidente da Junta de Freguesia, Manuel Augusto Peixoto Bandarra.
+
+318109968

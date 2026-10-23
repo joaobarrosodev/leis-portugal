@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/160/2004/02/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/160-2004-580356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a01cd23f1e344dad1c734844e076de2f1560728eb9818eed3584643d85b4716
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d8c56a6c51dcbe080cf1d6a893d5bbe65598b3b0b94b8c6cc0552803a299619
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,26 +68,30 @@ reuse:
 subjects:
 - Assistência Mútua
 - CE Países
+- Cobrança de Dívidas
 - Comissão Interministerial
 - Ministério da Agricultura Desenvolvimento Rural e Pescas
 - Ministério das Finanças
-- Cobrança de Dívidas
 - Responsabilidade Civil
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296/2003/11/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/296/2003/11/21/p/dre
+- type: cites
+  target: pt:dre:438041:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:34Z'
   warnings: []
   errors: []
 ---
@@ -134,4 +138,4 @@ c) Em caso de empate, o presidente da comissão tem voto de qualidade.
 
 Em 26 de Janeiro de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/029000000/0760907609.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/358-2011-2707694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8bc997915b5ca28704cefacd8a79d8dd182ea8f2544ace24df526fc9af0a22ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f23e886ae23815e6a05242db96e245669c88f7066ffb29688b94fc97ab8edc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:14Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 358/2011
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 13, de 19 de Janeiro de 2011, p. 3946, o aviso (extracto) n.º 1934/2011, referente à manutenção do contrato de trabalho em funções públicas por tempo indeterminado da Doutora Ana Madalena Peres de Drummond Ludovice, rectifica-se que onde se lê «Ana Madalena Peres de Drummond Ludovice» deve ler-se «Ana Madalena Peres de Drummond Ludovice Mendes Gomes».
 
 25 de Janeiro de 2011. - O Administrador, Luís Filipe Gaspar.
+
+204308944

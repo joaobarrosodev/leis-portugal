@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/526/2002/05/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/526-2002-371031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69f76b7ead747597de473c75e90798c12e62f8361263674519a4a58b27ace36f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93eef9f11637d42e5aa55d6e716199d684b241307b6c25f3f32c047ca67e49a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,18 @@ relationships:
   target: pt:dre:520792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545428:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 535/89 de 12-Jul, com a renovação constante do\
+    \ presente diploma, pela PORT.1362/2006.04.12.2006.MADRP, DR.IS [232] de 04.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1362-2006-545428
+  date: '2006-12-04'
+- type: amended_by
+  target: pt:dre:520792:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça, criada pela Port 535/89 de 12-Jul, renovada\
+    \ pelo presente diploma, pela PORT.598/2007.18.05.2007.MADRP, DR.IS [96] de 18.05.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-2007-520792
+  date: '2007-05-18'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/760/2001/07/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/760/2001/07/21/p/dre
+- type: cites
+  target: pt:dre:393582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475567:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:42Z'
   warnings: []
   errors: []
 ---

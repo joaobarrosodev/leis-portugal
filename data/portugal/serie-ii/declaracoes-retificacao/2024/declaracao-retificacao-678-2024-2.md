@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/165000000/0018600187.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/678-2024-885807782
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ef93cbf31d5c0e2371fd44655f27554d08614ea3f99d8a2dd2c5fcc0af3e0e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dceec182e123c97c34b028a54c4d5fd74d31aeec5af546e951319536a90adb3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:15Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +88,7 @@ Por ter saído com inexatidão o Despacho n.º 7968/2024 publicado no Diário da
 
 Onde se lê:
 
-| Unidade curricular | Área científica | Duração | Horas de trabalho | Horas de contacto | ECTS | Opcional | Observações |
+| Unidade curricular | Área<br>científica | Duração | Horas<br>de trabalho | Horas de contacto | ECTS | Opcional | Observações |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Investigação | 723 | Semestral | 81 | T-10; TP-4; PL-8; S-10 | 3 |  |  |
 | Enfermagem Avançada | 723 | Semestral | 108 | T-10; TP-18; S-15 | 4 |  |  |
@@ -101,7 +101,7 @@ Onde se lê:
 
 deve ler-se:
 
-| Unidade curricular | Área científica | Duração | Horas de trabalho | Horas de contacto | ECTS | Opcional | Observações |
+| Unidade curricular | Área<br>científica | Duração | Horas<br>de trabalho | Horas de contacto | ECTS | Opcional | Observações |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Investigação | 723 | Semestral | 81 | T-10; TP-4; PL-8; S-10 | 3 |  |  |
 | Enfermagem Avançada | 723 | Semestral | 108 | T-10; TP-18; S-15 | 4 |  |  |
@@ -113,3 +113,5 @@ deve ler-se:
 | Enfermagem em situações de emergência, trauma e exceção | 723 | Semestral | 216 | T-10; TP-28; PL-43; S-5 | 8 |  |  |
 
 13 de agosto de 2024. - A Vice-Presidente da Escola Superior de Enfermagem de Lisboa, Odete Lemos e Sousa.
+
+318022349

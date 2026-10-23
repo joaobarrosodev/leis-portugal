@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/02/031b00/07420743.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/124/2004/02/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/124-2004-582222
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71cf44dfed8efefa598ae6cfc199dde34207fe133f38449a126a7c111e4a1a3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3b3259423e5751c7bd3dbd9682fbc4f19b5d37836c8ccb93baba48f7b446f72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,22 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Certificado Fitossanitário
-- Etiquetagem
 - Embalagem
-- Países Terceiros
+- Etiquetagem
 - Exportação
-- Proteção Fitossanitária
+- Países Terceiros
 - Produto em Madeira
+- Proteção Fitossanitária
 relationships:
 - type: amended_by
   target: pt:dre:388827:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141854:por
+  label: "Mantida em vigor pelo DEC LEI.154/2005.06.09.2005.MADRP, DR.IS-A [171] de 06.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/154-2005-141854
+  date: '2005-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/14/1999/01/12/p/dre
   label: null
@@ -91,16 +96,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1489/2002/11/27/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1489/2002/11/27/p/dre
+- type: cites
+  target: pt:dre:438391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627033:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:388827:por
+  label: "Revogada a partir de 21.11.2008 pela PORT.1339-A/2008.20.11.2008.MADRP, DR.IS [226-Supl] de 20.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1339-a-2008-388827
+  date: '2008-11-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:13Z'
   warnings: []
   errors: []
 ---

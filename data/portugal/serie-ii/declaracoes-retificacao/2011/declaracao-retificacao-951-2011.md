@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/107000000/2403224032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/951-2011-964718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5a82a225592f6b052ce505bcebff99e0c787ef24b8a00e3ef31cae68ec5c70f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae9847db6ac8c867532a2e8b3c1369a29d181df7531fc9851122003e08767efa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:45Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +95,7 @@ Vogais efectivos: Teresa de Jesus Fernandes Lisboa, Chefe de Divisão e Branca F
 
 Vogais suplentes: Eng.º José Manuel Aires, Vereador a Tempo Inteiro e Luísa Maria Pinto Ferreira, Técnica Superior.
 
-**O Presidente do júri será substituído nas suas faltas e impedimentos pela Vogal Efectiva Teresa de Jesus Fernandes Lisboa, Chefe de Divisão.»**
+O Presidente do júri será substituído nas suas faltas e impedimentos pela Vogal Efectiva Teresa de Jesus Fernandes Lisboa, Chefe de Divisão.»
 
 deve ler-se «O júri terá a seguinte constituição:
 
@@ -105,6 +105,8 @@ Vogais efectivos: Branca Flor Cardoso Lopes Ribeiro, chefe de divisão e Nuno Al
 
 Vogais suplentes: Manuel Fernando Camisa, coordenador técnico e Luísa Maria Pinto Ferreira, técnica superior.
 
-**O presidente do júri será substituído nas suas faltas e impedimentos pela vogal efectiva Branca Flor Cardoso Lopes Ribeiro, chefe de divisão.».**
+O presidente do júri será substituído nas suas faltas e impedimentos pela vogal efectiva Branca Flor Cardoso Lopes Ribeiro, chefe de divisão.».
 
 24 de Maio de 2011. - O Vereador a Tempo Inteiro, António Olímpio da Silva Moreira.
+
+304719493

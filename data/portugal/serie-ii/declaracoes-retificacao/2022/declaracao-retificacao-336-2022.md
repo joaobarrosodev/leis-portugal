@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/336-2022-182356072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59bb9d64df64bbdee251342be7bfb6710afd490a5698b7a26b9d2c4ee8b27b30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae0fa8b913b52a1369c352213df3f5b0bda583957680266adba1d266fb812993
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:174612825:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:15Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Onde se lê:
 
 3.º Ano/2.º Semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf))](https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf)
 
 deve ler-se:
 
@@ -98,6 +102,8 @@ deve ler-se:
 
 3.º Ano/2.º Semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf))](https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/04/078000000/0049700497.pdf)
 
 8 de abril de 2022. - O Presidente do Conselho de Administração da COFAC, Manuel de Almeida Damásio.
+
+315219036

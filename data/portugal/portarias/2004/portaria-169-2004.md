@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169/2004/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-2004-570110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce1d02c014b97ee807b0400a3c10cc6e7d08667e93e2898316d088925a3f64ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0da79da67987a80b441330ab86fe156d37a0f4b100b854d0040592caed4bd6d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,30 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pescador
-- Proteção dos Animais
-- Recursos Hídricos
+- Espécie Protegida
 - Pesca
-- Proteção do Ambiente
 - Pesca Desportiva
 - Pesca Fluvial
-- Espécie Protegida
+- Pescador
+- Proteção do Ambiente
+- Proteção dos Animais
+- Recursos Hídricos
 - ZONA de Pesca
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/port/1098/2000/11/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1098/2000/11/17/p/dre
+- type: cites
+  target: pt:dre:156660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616456:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:39Z'
   warnings: []
   errors: []
 ---

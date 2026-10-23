@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0881208812.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/434-2011-1673391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f3c9fd7dfc38c1440c50969a0e823ae2ecfbb8c26e91e4c0be1605e40cc970d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 509a9bcdc9778539b365b18671f1eee6879b2fdd78cea12ee83b6b1cfe4299b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:39Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Passagem à situação de reforma
 Por ter saído com inexactidão a portaria n.º 299/2011, no Diário da República, 2.ª série, n.º 25, de 4 de Fevereiro de 2011, a p. 6672, rectifica-se que onde se lê «MGEN COG NIM 04204863 Victor Manuel Pinto Pereira» deve ler-se «MGEN COG NIM 04204863, Victor Manuel Pinto Ferreira».
 
 10 de Fevereiro de 2011. - Por delegação do Director de Administração dos Recursos Humanos, após delegação do Comandante do Pessoal do Exército, após delegação do Chefe do Estado-Maior do Exército, o Chefe da Repartição de Reserva, Reforma e Disponibilidade, Jorge Ferreira de Brito, COR INF.
+
+204346999

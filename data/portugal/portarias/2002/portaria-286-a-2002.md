@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 63/2002, 1º Suplemento, Série I-B de 2002-03-15
   number: '63'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2498-(2) a 2498-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/063b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/286-a/2002/03/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-a-2002-625437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d597d8eac517f7985c8fcfe4624aa41a24b99e330ce3cb937e2a34921ba9416b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 746723ec1b39572bb152e2d3e19693fa968f2d155ad32643f16a3df03477ccb0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects:
 - Acreditação
 - Ajuda Comunitária
 - Anefa
-- Financiamento
 - Braga
 - Centro de Reconhecimento Validação e Certificação de Competências
-- Formação Profissional
 - Certificação Profissional
-- Prodep
 - Educação dos Adultos
-- Intervenção Operacional da Educação
 - Ensino Básico
+- Financiamento
+- Formação Profissional
+- Intervenção Operacional da Educação
+- Prodep
 - Regulamento
 - Sistema Nacional de Certificação Profissional
 - Sistema Nacional de Reconhecimento Validação e Certificação de Competências
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1082-a/2001/09/05/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1082-a/2001/09/05/p/dre
+- type: cites
+  target: pt:dre:307436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667972:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262373:por
+  label: "Revogado o regulamento constante do anexo I da Port 1082-A/2001 de 05-Set , com a redacção conferida no presente\
+    \ diploma, pela PORT.86/2007.12.01.2007.MTSSO, DR.IS [9] de 12.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/86-2007-262373
+  date: '2007-01-12'
+- type: repealed_by
+  target: pt:dre:249254:por
+  label: "Revogada, a partir de 26.05.2008, a Port 1082-A/2001 de 05-Set, na redacção do presente diploma, revogado na mesma\
+    \ data, pela PORT.370/2008.21.05.2008.MTSSO, DR.IS [98] de 21.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/370-2008-249254
+  date: '2008-05-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:16Z'
   warnings: []
   errors: []
 ---
@@ -169,7 +189,9 @@ r) Ter experiência comprovada na área do reconhecimento e validação de compe
 
 4 - ...
 
-###### Artigo 11.º — Critérios de ordenação das candidaturas
+Artigo 11.º
+
+Critérios de ordenação das candidaturas
 
 1 - Os critérios de ordenação, de natureza técnica, organizacional e pedagógica, a utilizar na análise das candidaturas constam do guião de candidatura, editado pela Agência Nacional de Educação e Formação de Adultos (ANEFA), e baseiam-se nos seguintes parâmetros e ponderações:
 

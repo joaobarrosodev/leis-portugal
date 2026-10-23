@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/436/2003/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/436-2003-545180
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff22f7bba2a088755b7bf36f486cd2c19ef82df6abcaa86aacc84050d63aec21
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7aba8f53458c8731c3c3398bfda443a5a9c7fa38abc5ad1169b40809befa824d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,26 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Inovação
-- Financiamento
-- Definição de Competências
-- Mudança Tecnológica
 - Apoio ao Investimento
+- Definição de Competências
+- Financiamento
+- Mudança Tecnológica
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:633278:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:633278:por
+  label: "Dada nova denominação ao Sistema de Incentivos à realização de Projectos Piloto Relativos a Produtos, Processos\
+    \ e Sistemas Tecnologicamente Inovadores, que passa a designar-se DEMTEC; remetidas para o PRIME(aprovado pela Res 101/2003\
+    \ de 10-Jul) todas as referências ao Programa Operacional da Economia constantes deste diploma; alterada a ordem dos anexos:\
+    \ a anexo A passa a anexo, o anexo B passa a anexo A, o anexo C passa a anexo B, o anexo D passa a anexo C e o anexo E\
+    \ passa a anexo D; bem como alterados os arts. 6º, 7º, 10º e 17º do Regulamento constante do anexo e o art. 1º do anexo\
+    \ C, todos desta Portaria, pela PORT.902/2003.2003.08.28.MF DR.IS-B [198]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-2003-633278
+  date: '2003-08-28'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
@@ -84,13 +94,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:11Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +119,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Economia, que se
 
 Em 7 de Maio de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.
 
 ## ANEXO A
 

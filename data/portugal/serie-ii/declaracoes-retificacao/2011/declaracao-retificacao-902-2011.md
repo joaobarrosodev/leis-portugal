@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/101000000/2260422604.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/902-2011-2729384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e3303a1473aef4216e59f1d3d21af4ae410125438b8f99da437868d839e73de0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a2372e60beb20a256feb66e6f1be2c34761287b5c6d96ee8b1ffdfa59b3004c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:29Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ Rectifica o aviso n.º 10336/2011, publicado no Diário da República, 2.ª sér
 Faz-se público que, na parte final do respectivo aviso, onde se lê «do Eng. Rui Manuel Nunes Pinto» deve ler-se «do técnico superior Rui Manuel Nunes Pinto, licenciado em Engenharia e Gestão Industrial - ramo de Electrotécnica».
 
 12 de Maio de 2011. - A Presidente do Conselho de Administração, Ana Cristina Carrilho Manteiga.
+
+304677868

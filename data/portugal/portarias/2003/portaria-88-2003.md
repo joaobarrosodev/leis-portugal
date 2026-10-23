@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/88/2003/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/88-2003-172932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc23c3e3470106ce99d628b02a6e31d9826f4b5881ac1c614bded55d30f3b72c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1927ab5a0d81c48b93f0ec89459aadb99b6753a0f884de6c5fd83fae00f27e29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia e Gestão
-- Licenciatura
 - Guarda
+- Licenciatura
+- Plano de Estudos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
@@ -97,16 +97,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/863-b/2002/07/20/p/dre
   label: null
   source: http://data.dre.pt/eli/port/863-b/2002/07/20/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645502:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:47Z'
   warnings: []
   errors: []
 ---
@@ -139,7 +175,7 @@ Aplicação
 
 O disposto no presente diploma aplica-se a partir do ano lectivo de 2002-2003, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 2 de Janeiro de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 2 de Janeiro de 2003.
 
 ## ANEXO — Instituto Politécnico da Guarda
 
@@ -153,37 +189,37 @@ QUADRO N.º 1
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 3
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 4
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 5
 
 5.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 6
 
 6.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -191,22 +227,22 @@ QUADRO N.º 7
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 8
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 9
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
 
 QUADRO N.º 10
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)
+[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)](https://files.diariodarepublica.pt/1s/2003/01/018b00/04020405.pdf)

@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 230/2004, 1º Suplemento, Série I-B de 2004-09-29
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6174-(7) a 6174-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/230b01/00070007.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1264-a/2004/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1264-a-2004-615983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 083184c8aa84e8d7d4c01a352666131ae0fe8ee869b9ba0e9ced2763d46f7dd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79760e3ee2e256ad4330cbb30fd5bcf227f3cf4e72dfcf6dded79ef2855523d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:344235:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:489981:por
+  label: "Excluídos vários terrenos cinegéticos sitos na freguesia de Montargil, da zona de caça municipal de Montargil I,\
+    \ concessionada pelo presente diploma, pela PORT.1013/2009.09.09.2009.MADRP, DR.IS [175] de 09.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1013-2009-489981
+  date: '2009-09-09'
+- type: amended_by
+  target: pt:dre:344235:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça municipal de Montargil I, criada pelo presente\
+    \ diploma, alterada pela Port 1013/2009, de 09-Set, e anexados terrenos cinegéticos à presente zona de caça, pela PORT.847/2010.06.09.2010.MADRP,\
+    \ DR.IS [173] de 06.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/847-2010-344235
+  date: '2010-09-06'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +107,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
+- type: cites
+  target: pt:dre:275635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:22Z'
   warnings: []
   errors: []
 ---

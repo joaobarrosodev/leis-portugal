@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/059000000/1396613966.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/600-2011-3353489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e6cd341a51f5601ecb482e582e69724031f5187c67f7ee1bb6a743a90787b3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54596e0af283613a44bfa8d966f6468fdacac456e5d7910c1376c55294a369d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:38Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 600/2011
 Para os devidos efeitos se torna público que no aviso desta Câmara Municipal com o n.º 3854/2011, publicado no Diário da República, 2.ª série, n.º 25, de 4 de Fevereiro de 2011, a p. 6760, onde se lê «1.º Joaquim Virgílio Magalhães Santos Lopes - 14,06 Valores (Quota de reserva para candidatos portadores de deficiência).» deve ler-se «1.º Joaquim Virgílio Moreira Santos Lopes - 14,06 valores (quota de reserva para candidatos portadores de deficiência).»
 
 2 de Março de 2011. - A Vereadora, com competências delegadas, Susana Paula Barbosa Oliveira.
+
+304474816

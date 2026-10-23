@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/196/2003/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-2003-187509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a14e43bad643953f611fc121b67747990a18b14df4f66667ba14be40f288f8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52827cff75795b07ebf8b3ebc184394b9aebf48d79ad5c2e8ee81b921f5c98e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Dinensino-ensino Desenvolvimento e Cooperação
 - Ensino Particular
-- Lisboa
-- Licenciatura
-- Numerus Clausus
 - Ensino Superior
+- Licenciatura
+- Lisboa
+- Numerus Clausus
+- Plano de Estudos
 - Universidade Moderna
 relationships:
 - type: cites
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/386/1995/05/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/386/1995/05/02/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513261:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574943:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:45Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +179,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2002-2003, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 6 de Fevereiro de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 6 de Fevereiro de 2003.
 
 ## ANEXO — ([Portaria n.º 386/95](https://diariodarepublica.pt/dr/detalhe/portaria/386-1995-513261), de 2 de Maio - alteração)
 
@@ -173,22 +193,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)](https://files.diariodarepublica.pt/1s/2003/02/045b00/12271228.pdf)

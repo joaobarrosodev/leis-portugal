@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/08/169000000/0048600486.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/650-2023-221101567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-08-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a510c3bdb95f711b7e9840c8f0a0cd9dd398f2e4c843c4a1525e3668092bcbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fb90848d9b136cd44e3eab2ec955ca9e092a397dc8e213928df876eb96073c8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216769634:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:12Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +89,9 @@ validation:
 
 Por ter sido publicado com inexatidão o [Despacho (extrato) n.º 8084/2023](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/8084-2023-216769634), publicado no Diário da República, 2.ª série, n.º 152, de 7 de agosto de 2023, retifica-se onde se lê:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Referência | Nome do Candidato | Avaliação | Observação |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | FPDRM-CP1/2023 | Ivo Chaves Fonseca Rodrigues... | Excluído... | a) |
 | FPDRM-CP2/2023 | Diogo Sousa Neves... | Excluído... | b) |
 | FPDRM-CP3/2023 | Filipa Calado Rodrigues... | Excluído... | b) |
@@ -95,12 +99,14 @@ Por ter sido publicado com inexatidão o [Despacho (extrato) n.º 8084/2023](htt
 
 deve ler-se:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Referência | Nome do Candidato | Avaliação | Observação |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | FPDRM-CP1/2023 | Ivo Chaves Fonseca Rodrigues... | Excluído... | a) |
 | FPDRM-CP2/2023 | Diogo Sousa Neves... | Excluído... | b) |
 | FPDRM-CP3/2023 | Filipa Calado Rodrigues... | Excluído... | b) |
 | FPDRM-CP4/2023 | Catarina Ovelheiro Carreiro... | Excluído... | a) |
 
 07.08.2023. - A Vice-Presidente do IPL, Prof.ª Doutora Maria João Escudeiro.
+
+316763667

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 8/2023, 2º Suplemento, Série II de 2023-01-11
   number: '8'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 510-(2) a 510-(2)
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/008000002/0000200002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-a-2023-206056792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd6647eafddfea7928ae42c8e987d3099f1a277ce9e4b2331b36981277791ca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ef0dfaeff62b0d431becc81e0a534dbe8f60949b001127f5ad3c16c5cbd5a14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Governo XXIII
+- Nomeação
+- Pessoal de Gabinete
+- Secretário de Estado do Tesouro
+- Técnico Especialista de Gabinete
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205991721:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:42Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +107,5 @@ deve ler-se:
 «27 de dezembro de 2022. - A Secretária de Estado do Tesouro, Alexandra Margarida Vieira Reis.»
 
 11 de janeiro de 2023. - O Diretor da Unidade de Publicações Oficiais da Imprensa Nacional-Casa da Moeda, S. A., Bruno Pereira.
+
+316059169

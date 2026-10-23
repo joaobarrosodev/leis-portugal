@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 187/2004, 1º Suplemento, Série I-B de 2004-08-10
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5166-(28) a 5166-(28)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/187b01/00280028.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-bo/2004/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-bo-2004-284095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29daf6346c460b8d31413d7b8309ea5c4a3e7eacbb7b754959848c2f5457d3b4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0861876f2832aee842c44ead95bd517e33e36964ff50b0934bd5cb22ba91b654
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,12 @@ relationships:
   target: pt:dre:453528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:453528:por
+  label: "Desanexados, vários prédios rústicos, da zona de caça concessionada pela Port 946/2001 de 31-Jul, alterada pelo\
+    \ presente diploma, pela PORT.942/2008.21.08.2008.MAOTDR, DR.IS [161] de 21.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/942-2008-453528
+  date: '2008-08-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -85,16 +91,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/946/2001/07/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/946/2001/07/31/p/dre
+- type: cites
+  target: pt:dre:379701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:02Z'
   warnings: []
   errors: []
 ---

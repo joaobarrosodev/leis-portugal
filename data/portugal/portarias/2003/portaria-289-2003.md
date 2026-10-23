@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/289/2003/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/289-2003-232879
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39c0924b5c1716a2020c69ab9e4f17cf1118fa16865a44c91b48cbfd2403908e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e57c6ceabf00936813d7475efffee0bdbc044280f9ba79b3a6ea4bd2c006cfd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Espetáculos e Divertimentos Públicos
-- Tauromaquia
 - Remuneração
+- Tauromaquia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/306/1991/08/17/p/dre
@@ -82,16 +82,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/932/1994/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/port/932/1994/10/21/p/dre
+- type: cites
+  target: pt:dre:523642:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674436:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:107039852:por
+  label: Revogados os números 1.º e 4.º pela Portaria n.º 122/2017 - Diário da República n.º 99/2017, Série II de 2017-05-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/122-2017-107039852
+  date: '2017-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:20Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +143,7 @@ b) Para novilhadas populares, festivais taurinos e variedades taurinas - (euro) 
 
 Em 29 de Novembro de 2002.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Cultura, Pedro Manuel da Cruz Roseta.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Cultura, Pedro Manuel da Cruz Roseta.
 
 TABELA ANEXA
 

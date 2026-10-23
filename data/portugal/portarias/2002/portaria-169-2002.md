@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169/2002/02/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-2002-261325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9137cf4dd7ddd708c8be8c8a1bc231497e81c10d4c767b4240acc905eb3f3da2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a99897ea78c015d6ae5b9dd890e7bb17d6ffb5702bf83e3999c6ae8e3a84bf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Convenção
-- União Europeia
+- Financiamento
 - Frota de Pesca
-- Pesca
 - Marrocos
-- Reconversão Profissional
+- Pesca
 - Reconversão de Empresas
+- Reconversão Profissional
 - Regime de Apoio
 - Regulamento
 - Regulamento CE
+- União Europeia
 relationships:
 - type: amended_by
   target: pt:dre:261301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:476279:por
+  label: "Alterado o art. 11º do Regulamento pela PORT.1213/2003.16.10.2003.MADRP, DR.IS-B [240] de 16.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1213-2003-476279
+  date: '2002-02-27'
+- type: amended_by
+  target: pt:dre:302516:por
+  label: "Prorrogado, até 31 de Maio de 2004, o prazo de apresentação de candidaturas referido na subal. i) da al. e) do art.\
+    \ 5º do Regulamento do Regime de Apoio à Reconversão da Frota que operava ao abrigo do Acordo de Pesca entre a Comunidade\
+    \ Europeia e o Reino de Marrocos, aprovado pelo presente diploma, pela PORT.503/2004.10.05.2004.MADRP, DR.IS-B [109] de\
+    \ 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-2004-302516
+  date: '2004-05-10'
+- type: amended_by
+  target: pt:dre:261301:por
+  label: "Alterado o art. 11º do Regulamento aprovado pelo presente diploma, com a redacção dada pela Port 1213/2003 de 16-Out,\
+    \ pela PORT.580/2004.28.05.2004.MADRP, DR.IS-B [125] de 28.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/580-2004-261301
+  date: '2004-05-28'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -91,15 +110,15 @@ relationships:
   label: null
   source: http://data.europa.eu/eli/reg/2001/2561/oj
 article_structure:
-  article_count: 17
+  article_count: 18
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:34Z'
   warnings: []
   errors: []
 ---
@@ -376,7 +395,9 @@ d) Despesas de constituição de fundos de maneio.
 
 6 - Caso o projecto a desenvolver envolva um trespasse, têm de ser dadas garantias de que o estabelecimento permanece na titularidade do seu adquirente pelo período mínimo de cinco anos.
 
-### CAPÍTULO IV — Artigo 18.º
+### CAPÍTULO IV
+
+###### Artigo 18.º
 
 Disposições finais
 
@@ -388,11 +409,11 @@ A apreciação económica e financeira dos projectos de investimentos será efec
 
 ## ANEXO II — QUADRO N.º 1
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/049b00/16371642.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/049b00/16371642.pdf)](https://files.diariodarepublica.pt/1s/2002/02/049b00/16371642.pdf)
 
 QUADRO N.º 2
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/049b00/16371642.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/02/049b00/16371642.pdf)](https://files.diariodarepublica.pt/1s/2002/02/049b00/16371642.pdf)
 
 Notas
 

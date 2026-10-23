@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:873447929:por
 title: Declaração de Retificação n.º 536/2024/2
 short_title: null
-summary: Retifica-se o Aviso (extrato) n.º 7164/2024/2, publicado no <em>Diário da República</em>, 2.ª série, n.º 66, de 3
-  de abril de 2024.
+summary: Retifica-se o Aviso (extrato) n.º 7164/2024/2, publicado no  Diário da República, 2.ª série, n.º 66, de 3 de abril
+  de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/143000000/0031300313.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/536-2024-873447929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 666f64811e4f51c0857bab40957276357d6747caa540ae7aa8ca53fe43cc277a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28e94d04466b12023a47bfa85e5d60e01f8fc55def3e1d7987ac78cf27b68c66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:25Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Por ter sido publicado com inexatidão o Aviso (extrato) n.º 7164/2024/2, referente à celebração de contrato de trabalho em funções públicas por tempo indeterminado e em regime de tenure do Doutor Filipe Pimentel Amarante dos Santos, como professor associado, no Diário da República, 2.ª série, n.º 66, de 3 de abril de 2024, retifica-se que onde se lê "com direito ao vencimento mensal de 3.867,03€, correspondente ao escalão 1, índice 220, do nível remuneratório entre 61 e 62 da tabela remuneratória única," deve ler-se "com direito ao vencimento mensal de 4042,79 €, correspondente ao escalão 2, índice 230, do nível remuneratório entre 64 e 65 da tabela remuneratória única".
 
 2 de julho de 2024. - O Diretor da Faculdade, Prof. Doutor José Júlio Alves Alferes.
+
+317864935

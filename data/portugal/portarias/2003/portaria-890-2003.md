@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/196b00/55445545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/890/2003/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/890-2003-632724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-09-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21040a29cf7cda476d36bece915b30a541abd52e59c109855175cc5d211a7278
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a97ea73738c7996bf0a444b971dd84f730cf99284522378eb25398919d82bd2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,26 @@ reuse:
 subjects:
 - Alvará
 - Carta de Condução
-- Direcção Geral de Viação
 - Centro de Exame
+- Direcção Geral de Viação
 - Escola de Condução
 - Exame
 - Homologação
 - Inspecção de Veículos
-- Veículo
 - Prestação de Serviços
 - TAXA de Prestação de Serviços
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:541466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:143684:por
+  label: "Alterado o nº 5 do nº II \"Veículos\" das tabelas das taxas da DGV pela PORT.1135-A/2005.31.10.2005.MAI, DR.IS-B\
+    \ [209-Supl] de 31.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1135-a-2005-143684
+  date: '2005-10-31'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/484/1999/11/10/p/dre
   label: null
@@ -90,16 +96,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/405/2000/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/405/2000/07/17/p/dre
+- type: cites
+  target: pt:dre:320301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:429401:por
+  label: "Revogado o nº VI-14 do anexo pelo DEC LEI.307/2003.10.12.2003.MAI, DR.IS-A [284] de 10.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/307-2003-429401
+  date: '2003-12-10'
+- type: repealed_by
+  target: pt:dre:541466:por
+  label: "Revogada pela PORT.1068/2006.29.09.2006.MAI, DR.IS [189] de 29.09.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1068-2006-541466
+  date: '2006-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:52Z'
   warnings: []
   errors: []
 ---

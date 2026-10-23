@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/077b00/29482948.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/344/2002/04/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/344-2002-301000
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00084cf90318695a4b444b94ffeec9c88a1c814788a9c8014655f81bd932736e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 001e45a7bedc44f321179290657d271dfc23864f46f2d9783b9550f2dadd9cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,18 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Acção de Formação
-- Certificado de Aptidão Profissional
+- Avaliação de Conhecimentos
 - Canteiro
-- Produto Mineiro
-- Formação Profissional
 - Certificação Profissional
-- Terras e Pedras
+- Certificado de Aptidão Profissional
+- Descrição de Funções
+- Formação Profissional
 - Homologação
 - Instituto Geológico e Mineiro
 - Norma
-- Descrição de Funções
+- Produto Mineiro
 - Qualificação Profissional
-- Avaliação de Conhecimentos
+- Terras e Pedras
 relationships:
 - type: amended_by
   target: pt:dre:669541:por
@@ -92,16 +92,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/607/2001/06/19/p/dre
   label: null
   source: http://data.dre.pt/eli/port/607/2001/06/19/p/dre
+- type: cites
+  target: pt:dre:358935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523412:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:669541:por
+  label: "Revogada, com produção de efeitos a 30.10.2011, a Port 607/2001, de 19-Jun, na redacção da presente portaria, pelo\
+    \ DEC LEI.92/2011.27.07.2011.MTSSO, DR.IS [143] de 27.07.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-2011-669541
+  date: '2011-07-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:36Z'
   warnings: []
   errors: []
 ---
@@ -138,4 +152,4 @@ Os cursos de formação referidos nos n.os 8.º, 9.º e 10.º enquadram-se no n�
 
 Em 5 de Março de 2002.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz. - Pelo Ministro do Trabalho e da Solidariedade, António Maria Bustorff Dornelas Cysneiros, Secretário de Estado do Trabalho e Formação.**
+O Ministro da Economia, Luís Garcia Braga da Cruz. - Pelo Ministro do Trabalho e da Solidariedade, António Maria Bustorff Dornelas Cysneiros, Secretário de Estado do Trabalho e Formação.

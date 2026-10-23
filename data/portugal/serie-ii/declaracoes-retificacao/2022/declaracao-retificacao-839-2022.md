@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/192000000/0030300303.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/839-2022-201838686
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04d9db5287d1b49f9a35d82242d45e8cf9c7f2055555c144e2bd56a272bc7894
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13fa185dcd986aeecfc1b8e3b1ec819cf05059ce1ae2c0b8b37f87f8fc8ce451
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:200691256:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:04Z'
   warnings: []
   errors: []
 ---
@@ -104,3 +108,5 @@ Referência B - Convento de Cristo - (euro) 670 633.»
 Concede-se o prazo suplementar de 10 dias úteis para apresentação de candidaturas findo o prazo previsto no [Aviso n.º 17457/2022](https://diariodarepublica.pt/dr/detalhe/aviso/17457-2022-200691256), isto é, até 3 de novembro de 2022, sendo que as candidaturas já entregues mantêm-se válidas, salvo se os candidatos optarem pela apresentação de nova candidatura.
 
 21 de setembro de 2022. - O Diretor-Geral do Património Cultural, João Carlos dos Santos.
+
+315723991

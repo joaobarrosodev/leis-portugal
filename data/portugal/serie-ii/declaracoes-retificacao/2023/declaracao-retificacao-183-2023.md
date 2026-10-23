@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/183-2023-208203703
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e594530a9d3ba89ccbd8cc7ec0ee0640ebe4ae632c817f3bd3b16b323dcd091b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43bd15cd85186fa3ebd979c76ca4287b4d7d7d2eeb3043ca4c3ff728ff0c34bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:200254318:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:25Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +106,7 @@ Onde se lê:
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 8 - Plano de Estudos:
 
@@ -110,31 +114,31 @@ QUADRO N.º 2
 
 1.º Ano - 1.º Trimestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 QUADRO N.º 3
 
 1.º Ano - 2.º Trimestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 QUADRO N.º 4
 
 1.º Ano - 3.º Trimestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 QUADRO N.º 5
 
 1.º Ano - 4.º Trimestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 QUADRO N.º 6
 
 2.º Ano - 1.º Semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 deve ler-se:
 
@@ -154,7 +158,7 @@ deve ler-se:
 
 QUADRO N.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 8 - Observações:
 
@@ -166,18 +170,20 @@ QUADRO N.º 2
 
 1.º ano/1.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 QUADRO N.º 3
 
 1.º ano/2.º semestre
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 QUADRO N.º 4
 
 2.º ano
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf))](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/03/046000000/0022400228.pdf)
 
 20 de fevereiro de 2023. - A Presidente, Prof.ª Ângela Lemos.
+
+316200472

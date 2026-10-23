@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/346/2003/04/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/346-2003-240818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54494bed204bd0083addd4c3d4200d71fbc96d3f2a967a87458fe0e9a6b44bd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6f3e7271bdaefa15b60824464236edfd4c1bc79ad864736fc71e896d9828aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Ensino Particular
 - Ensino Superior Politécnico
 - Escola Superior de Ciência e Tecnologia
 - Instituto Superior Politécnico GAYA
 - Licenciatura
 - Numerus Clausus
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:580624:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:580624:por
+  label: "Alterado o plano de estudos do curso de licenciatura em Informática de Gestão pela PORT.132/2004.09.02.2004.MCES,\
+    \ DR.IS-B [33] de 09.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/132-2004-580624
+  date: '2004-02-09'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -119,16 +125,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/680-a/1998/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/680-a/1998/08/31/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:40Z'
   warnings: []
   errors: []
 ---
@@ -179,7 +233,7 @@ Produção de efeitos
 
 O disposto na presente portaria produz efeitos a partir do ano lectivo 1998-1999, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 8 de Abril de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 8 de Abril de 2003.
 
 ## ANEXO — Instituto Superior Politécnico Gaya
 
@@ -193,19 +247,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -213,4 +267,4 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)](https://files.diariodarepublica.pt/1s/2003/04/099b00/27562758.pdf)

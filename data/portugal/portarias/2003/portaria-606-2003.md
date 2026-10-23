@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/606/2003/07/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/606-2003-670355
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cd1d8a85b81b91820220c5dec6156638d0b67b48f41abd2bcf0aa923850f14e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89061db0de08e76c746e99835a6a44f0a6b4b995c6ba1c626100e78b21722739
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,26 @@ reuse:
 subjects:
 - Concurso
 - Ensino Oficial
+- Ensino Superior
 - Ensino Superior Politécnico
 - Regulamento
-- Ensino Superior
 - Tabela de Conversão
 relationships:
 - type: amended_by
   target: pt:dre:241014:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651762:por
+  label: "Alterado o anexo I pela PORT.697/2003.2003.07.30.MCES, DR.IS-B [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/697-2003-651762
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:241014:por
+  label: "Aditado o art. 57.º-A ao Regulamento aprovado pelo presente diploma, na redacção da Port 697/2003, de 30-Jul, pela\
+    \ PORT.35/2004.12.01.2004.MCES, DR.IS-B [9] de 12.01.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/35-2004-241014
+  date: '2004-01-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
   label: null
@@ -98,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/302/2003/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/302/2003/04/12/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 64
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:11Z'
   warnings: []
   errors: []
 ---
@@ -146,7 +185,7 @@ Manda o Governo, pelo Ministro da Ciência e do Ensino Superior, o seguinte:
 
 4.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 7 de Julho de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 7 de Julho de 2003.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LECTIVO DE 2003-2004.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/007000000/0008600097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/8-2024-836371927
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f28109c9ddff5f65a94c7f73570c5a4e27ef9d513fad94c72b4a81a4d46475ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e728431c0a046c7002fe3938c437d2f683321704837b5a015fdcb9055e600f30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:59Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +85,9 @@ validation:
 
 Por ter saído com inexatidão a lista de promovidos na categoria de agente principal constante do Despacho (extrato) n.º 12062/2023, publicado no Diário da República, 2.ª série, n.º 230, de 28 de novembro de 2023, publica-se a referida lista retificada:
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 | Clas. | Matrícula | Nome | Colocação |
+| --- | --- | --- | --- |
+|  |  |  |  |
 | 1 | 152981 | Renato Alexandre Carneiro Santos Barqueira... | CM Porto |
 | 2 | 152540 | David Vasconcelos Sousa Oliveira... | CM Lisboa |
 | 3 | 152649 | Paulo Sérgio Oliveira Correia... | CM Lisboa |
@@ -818,3 +818,5 @@ Por ter saído com inexatidão a lista de promovidos na categoria de agente prin
 a) A promoção encontra-se suspensa, por força do disposto no n.º 1 do artigo 75.º do Estatuto Disciplinar da PSP, aprovado pela Lei n.º 37/2019, de 30 de maio.
 
 14-12-2023. - O Diretor do DRH, Dr. Manuel João, técnico superior.
+
+317166771

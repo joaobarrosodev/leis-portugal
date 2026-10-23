@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/476/2003/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/476-2003-683238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 302d00ce90e0efc758358a4f267f5c6d5eb000dd61689ccb49ce7994c07ee37f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d676a5aee8eed1db054259b03a40161bbe5213e57bc98fd4f1c1df619e6b63aa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/99/2001/03/28/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/99/2001/03/28/p/dre
+- type: cites
+  target: pt:dre:344966:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:26Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +108,4 @@ Escola Superior de Saúde de Faro
 
 A Escola Superior de Enfermagem de Faro, da Universidade do Algarve, é convertida em escola superior de saúde, com a denominação de Escola Superior de Saúde de Faro.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 22 de Maio de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 22 de Maio de 2003.

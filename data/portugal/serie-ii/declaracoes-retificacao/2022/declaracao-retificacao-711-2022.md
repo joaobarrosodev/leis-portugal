@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/155000000/0010700107.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/711-2022-187351697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15ea02fafd3522a29371705b62a6e0713d8c31a5c62653abc312bddc660280ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd0c551ee4161617485a04345cc6f6c2f3d29978e7a2dfa86647907c75f68b7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185836207:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:17Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 O [Aviso n.º 13558/2022](https://diariodarepublica.pt/dr/detalhe/aviso/13558-2022-185836207), publicado no Diário da República, 2.ª série, n.º 131, de 8 de julho de 2022, da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, saiu com inexatidões nos pontos 11.2 e 11.4, que, mediante declaração da entidade emitente, assim se retificam: no ponto 11.2. deve passar a ler-se «A Prova de Conhecimentos terá natureza teórica, revestirá a forma escrita, com consulta, efetuada em suporte de papel, de realização individual, com perguntas de escolha múltipla e com perguntas de desenvolvimento, tendo a duração de 45 minutos, com 15 minutos de tolerância» e, no ponto 11.4, deve passar a ler-se «11.4 - A Prova de Conhecimentos incidirá sobre as temáticas a seguir referenciadas: Temas: Redes de Comunicação de Dados, Fundamentos de Bases de Dados, Hardware, Sistemas Operativos. Bibliografia: Engenharia de redes informáticas, 10ª edição, Edmundo Monteiro, Fernando Boavida, FCA Fundamentos de Bases de Dados, Feliz Gouveia, FCACurso Técnico de Hardware, 7ª edição, José Gouveia, Alberto Magalhães, FCA Linux for Windows Administrators, Mark Minasi, Dan York, Sybex».
 
 4 de agosto de 2022. - O Vice-Presidente da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, Joaquim Sardinha.
+
+315592788

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/227000000/0016900172.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/879-2023-224683712
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 169fc38ea99acbb544224fdc0c02f127f5d348bff7047ac34e86369c2b17222d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bac72d332a62c895d795c3c495dc8a6a56237c365ee612af3957bbc08e89bce9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221611610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:33Z'
   warnings: []
   errors: []
 ---
@@ -93,24 +97,24 @@ Onde se lê:
 
 QUADRO N.º 4
 
-|  |  |  |  |
+| Áreas científicas | Sigla | Créditos |  |
 | --- | --- | --- | --- |
-| Áreas científicas | Sigla | Créditos | Créditos |
-| Áreas científicas | Sigla | Obrigatórios | Opcionais |
+| Obrigatórios | Opcionais |  |  |
+|  |  |  |  |
 | Enfermagem... | 87 | 115 |  |
 | Ciências da Saúde... | 3 | 80 |  |
 | Subtotal... |  | 90 |  |
-| Total... |  | 90 | 90 |
+| Total... |  | 90 |  |
 
 Área de Especialização em Enfermagem Médico-Cirúrgica na Área de Enfermagem à Pessoa em Situação Paliativa
 
 QUADRO N.º 11
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade curricular | Área<br>científica | Ano<br>curricular | Organização do ano curricular | Horas de trabalho | Créditos | Observações |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos | Observações |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Créditos | Observações |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos | Observações |
+| Total | Contacto (1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais<br>de contacto |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Políticas e Gestão em Saúde... | CSAU | 1.º | 1.º Semestre... | 81 | 15 | 12 |  |  |  |  |  |  | 27 | 3 |  |
 | Ética e Deontologia de Enfermagem... | ENF | 1.º | 1.º Semestre... | 54 | 14 | 4 |  |  |  |  |  |  | 18 | 2 |  |
 | Investigação em Enfermagem... | ENF | 1.º | 1.º Semestre... | 81 | 8 | 18 |  |  |  |  | 1 |  | 27 | 3 |  |
@@ -137,24 +141,24 @@ Todas as áreas de especialização têm parecer favorável da Ordem dos Enferme
 
 QUADRO N.º 4
 
-|  |  |  |  |
+| Áreas científicas | Sigla | Créditos |  |
 | --- | --- | --- | --- |
-| Áreas científicas | Sigla | Créditos | Créditos |
-| Áreas científicas | Sigla | Obrigatórios | Opcionais |
+| Obrigatórios | Opcionais |  |  |
+|  |  |  |  |
 | Enfermagem... | ENF | 87 |  |
 | Ciências da Saúde... | CSAU | 3 |  |
 | Subtotal... |  | 90 |  |
-| Total... |  | 90 | 90 |
+| Total... |  | 90 |  |
 
 Área de Especialização em Enfermagem Médico-Cirúrgica na Área de Enfermagem à Pessoa em Situação Paliativa
 
 QUADRO N.º 11
 
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unidade curricular | Área<br>científica | Ano<br>curricular | Organização do ano curricular | Horas de trabalho | Créditos | Observações |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos | Observações |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Contacto (1) | Créditos | Observações |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | T | TP | PL | TC | S | E | OT | O | Horas totais de contacto | Créditos | Observações |
+| Total | Contacto (1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totais<br>de contacto |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Políticas e Gestão em Saúde... | CSAU | 1.º | 1.º Semestre... | 81 | 15 | 12 |  |  |  |  |  |  | 27 | 3 |  |
 | Ética e Deontologia de Enfermagem... | ENF | 1.º | 1.º Semestre... | 54 | 14 | 4 |  |  |  |  |  |  | 18 | 2 |  |
 | Investigação em Enfermagem... | ENF | 1.º | 1.º Semestre... | 81 | 8 | 18 |  |  |  |  | 1 |  | 27 | 3 |  |
@@ -170,3 +174,5 @@ QUADRO N.º 11
 | Estágio em Enfermagem à Pessoa em Situa-ção Paliativa com Relatório. | ENF | 2.º | 1.º Semestre... | 810 |  |  |  |  | 16 | 378 | 20 | 36 | 450 | 30 | As horas totais deste estágio incluem 160 horas para Relatório. |
 
 27 de outubro de 2023. - A Diretora dos Serviços Académicos, Maria Alexandra Courinha Martins Lopes Fernandes.
+
+317020313

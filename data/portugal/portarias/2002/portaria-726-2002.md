@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/146b00/50725072.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/726/2002/06/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-2002-140124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41a8c15ba63b4876585ecd2eec09df90c7639389687fc2f13a6481412788310a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 922299ff11b7d7ab16ca9df0cd1aa8194be6dee32e558d2f5ecea90a2cb1ec47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,48 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- NATO
 - Chefe do Estado Maior General das Forças Armadas
 - Estatuto
+- Forças Armadas
+- Militar
 - Missão Humanitária
 - Missão Militar
 - Missão no Estrangeiro
-- Forças Armadas
+- NATO
 - Terrorismo
-- Militar
 relationships:
 - type: amended_by
   target: pt:dre:1743432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223662:por
+  label: "Alterado o n.º 7, pela PORT.292/2003.2003.04.08.MDN DR.IS-B [83]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/292-2003-223662
+  date: '2003-04-08'
+- type: amended_by
+  target: pt:dre:302519:por
+  label: "Alterado o nº 7º, com a redacção dada pela Port 292/2003 de 08-Abr, pela PORT.500/2004.10.05.2004.MDN, DR.IS-B [109]\
+    \ de 10.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-2004-302519
+  date: '2004-05-10'
+- type: amended_by
+  target: pt:dre:1493967:por
+  label: "Alterada a redacção do ponto 7º, pela PORT.778/2005(2ªSérie).22.07.2005.MDN, DR.IIS [152] de 09.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/778-2005-1493967
+  date: '2005-07-22'
+- type: amended_by
+  target: pt:dre:2132547:por
+  label: "Alterado o n.º 7 da presente portaria, na redacção das Port 292/2003, de 08-Abril, 500/2004, de 10-Mai e 778/2005(2.ªSèrie),\
+    \ de 09-Ago. pela PORT.384/2006(2ªSérie).02.02.2006.MDN, DR.IIS [34] de 16.02.2006 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/384-2006-2132547
+  date: '2006-02-02'
+- type: amended_by
+  target: pt:dre:3442349:por
+  label: "Alterado o nº7, na redacção das Ports. 292/2003, de 08-Abr, 500/2004, de 10-Maio, 778/2005 (2ªsérie), de 09-Ago\
+    \ e 384/2006 (2ªsérie), de 16-Fev, pela PORT.1201/2007.27.12.2007.MDN, DR.IIS [249] de 27.12.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1201-2007-3442349
+  date: '2007-12-27'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
   label: null
@@ -88,16 +116,35 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/348/1999/08/27/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/348/1999/08/27/p/dre
+- type: cites
+  target: pt:dre:187081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379327:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533780:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1743432:por
+  label: "Revogado o presente diploma, na redacção das Port 292/2003, de 08-Abr, Port 500/2004, de 10-Maio, Port 778/2005,\
+    \ de 09-Ago, Port 384/2006 (2ªSérie), de 16-Fev, e Port 1201/2007, de 27-Dez, pela PORT.228/2008.05.03.2008.MDN, DR.IIS\
+    \ [46] de 05.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/228-2008-1743432
+  date: '2008-03-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:02Z'
   warnings: []
   errors: []
 ---
@@ -130,4 +177,4 @@ Manda o Governo, pelo Ministro de Estado e da Defesa Nacional, o seguinte:
 
 7.º Os encargos são suportados pela verba atribuída à participação nacional na STANAVFORLANT em 2001 e 2002.
 
-**O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas, em 10 de Junho de 2002.**
+O Ministro de Estado e da Defesa Nacional, Paulo Sacadura Cabral Portas, em 10 de Junho de 2002.

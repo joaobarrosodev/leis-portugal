@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/229000000/0019700197.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1085-2025-953219114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eea253cee3a96c4e411204b4adabd498b0edb09688213d69ced3bd41ebd14120
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39e29bb44069a02e1abd6c41125c97df9113eff55f8cffb4b9206c768913ba18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:46Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +99,27 @@ deve ler-se:
 | Critérios | Ponderação | Parâmetros | Ponderação |
 | --- | --- | --- | --- |
 | Desempenho Científico (DC) | 55 % | DC1 - Produção científica (PC) | 50 % |
-| Desempenho Científico (DC) | 55 % | DC2 - Participação em projetos científicos (PPC) | 25 % |
-| Desempenho Científico (DC) | 55 % | DC3 - Reconhecimento pela Comunidade Científica (RCC) | 15 % |
-| Desempenho Científico (DC) | 55 % | DC4 - Relatório sobre o desempenho científico, pedagógico e outras atividades relevantes (REL) | 10 % |
+| DC2 - Participação em projetos científicos (PPC) | 25 % |  |  |
+| DC3 - Reconhecimento pela Comunidade Científica (RCC) | 15 % |  |  |
+| DC4 - Relatório sobre o desempenho científico, pedagógico e outras atividades relevantes (REL) | 10 % |  |  |
 | Subtotal A |  |  | 100 % |
 | Desempenho Pedagógico (DP) | 30 % | DP1 - Atividade de ensino (AE) | 55 % |
-| Desempenho Pedagógico (DP) | 30 % | DP2 - Produção de material pedagógico (PMP) | 5 % |
-| Desempenho Pedagógico (DP) | 30 % | DP3 - Inovação e valorização para a atividade de ensino (IVAE) | 10 % |
-| Desempenho Pedagógico (DP) | 30 % | DP4 - Acompanhamento e orientação de estudantes (AOE) | 15 % |
-| Desempenho Pedagógico (DP) | 30 % | DP5 - Participação em projetos pedagógicos noutras instituições (PPP) | 5 % |
-| Desempenho Pedagógico (DP) | 30 % | DP6 - Relatório sobre o desempenho científico, pedagógico e outras atividades relevantes (REL) | 10 % |
+| DP2 - Produção de material pedagógico (PMP) | 5 % |  |  |
+| DP3 - Inovação e valorização para a atividade de ensino (IVAE) | 10 % |  |  |
+| DP4 - Acompanhamento e orientação de estudantes (AOE) | 15 % |  |  |
+| DP5 - Participação em projetos pedagógicos noutras instituições (PPP) | 5 % |  |  |
+| DP6 - Relatório sobre o desempenho científico, pedagógico e outras atividades relevantes (REL) | 10 % |  |  |
 | Subtotal B |  |  | 100 % |
 | Outras Atividades Relevantes (OAR) | 15 % | OAR1 - Gestão Universitária (GU) | 40 % |
-| Outras Atividades Relevantes (OAR) | 15 % | OAR2 - Transferência de Conhecimento e Tecnologia (TCT) | 50 % |
-| Outras Atividades Relevantes (OAR) | 15 % | OAR3 - Relatório sobre o desempenho científico, pedagógico e outras atividades relevantes (REL) | 10 % |
+| OAR2 - Transferência de Conhecimento e Tecnologia (TCT) | 50 % |  |  |
+| OAR3 - Relatório sobre o desempenho científico, pedagógico e outras atividades relevantes (REL) | 10 % |  |  |
 | Subtotal C |  |  | 100 % |
 | Total | 100 % | Total Ponderado [(A × 0,55) + (B × 0,30) + (C × 0,15)] | 100 % |
 
 […]»
 
 14 de novembro de 2025. - A Reitora, Ana Paula Coelho Duarte.
+
+319777078
+
+.Tbl1 { border-collapse:collapse; border-width:0px; border-style:none; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:17px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl12 { min-height:28px; } .Tbl13 { min-height:20px; } .Tbl14 { min-height:26px; }

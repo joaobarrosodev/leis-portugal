@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/104000000/0021300213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/379-2024-867450424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4775703db0a6a942136f532f99b21156d6af6f3680d6c3fa93f360ee97745e15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab6f21fb11d73ad7eed2d45b53a6a837badbf2e0f4815b420c71efb76ba6031c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864088123:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864254126:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:30Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +98,5 @@ validation:
 Para os devidos efeitos, observado o disposto no n.º 5 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., de 13 de julho de 2023, e obtido parecer favorável da entidade emitente, declara-se sem efeito a publicação do [Aviso (extrato) n.º 9904/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/9904-2024-864254126) no Diário da República, 2.ª série, n.º 90, de 9 de maio de 2024, por corresponder, por lapso, à publicação em duplicado do teor do [Aviso n.º 9714/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/9714-2024-864088123) no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2024, referente à abertura de procedimento concursal comum para preenchimento de um posto de trabalho na carreira unicategorial de técnico superior de gestão de carreiras gerais e especiais com reserva de recrutamento interna.
 
 26 de maio de 2024. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, S. A., Bruno Pereira.
+
+317740842

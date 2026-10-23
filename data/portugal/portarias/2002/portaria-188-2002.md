@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/188/2002/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-2002-251442
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3942b9e7faa37446c120f591d46cba26d7f89a661238cfa0e577bd6ff4e7f59f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c861ad159e810f14df9edc1d945d3a7d6d3b71feca0812f2c65170f537c59681
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:640169:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640169:por
+  label: "Renovada por um período de 6 anos, a concessão da zona de caça criada pela Portaria 527/89, de 11 de Julho, na redacção\
+    \ do presente diploma, pela PORT.1153/2007.12.09.2007.MADRP, DR.IS [176] de 12.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1153-2007-640169
+  date: '2007-09-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/934/2001/07/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/934/2001/07/30/p/dre
+- type: cites
+  target: pt:dre:378919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:41Z'
   warnings: []
   errors: []
 ---

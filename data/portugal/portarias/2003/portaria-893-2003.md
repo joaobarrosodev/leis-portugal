@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/196b00/55485552.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/893/2003/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/893-2003-632727
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd32690fcb5edc8cb3e7c49d16efdea3006b0b1550ed56b66c3ac7b8a8a39e35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6b0ced4c5a71f525ebb199c142f31755af2a8fa85decb65cd788ef93f1db0f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Desenvolvimento Rural
-- Ruris
 - Agricultor
-- Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
 - Agricultura
+- Desenvolvimento Rural
+- Financiamento
+- Regulamento de Aplicação da Intervenção Medidas Agro-ambientais
+- Ruris
 - Subsídio
 relationships:
 - type: amended_by
@@ -86,16 +86,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/475/2001/05/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/475/2001/05/10/p/dre
+- type: repealed_by
+  target: pt:dre:476278:por
+  label: "Revogada a Port 475/2001, de 10-Maio, com as alterações introduzidas pelo presente diploma, pela PORT.1212/2003.16.10.2003.MADRP,\
+    \ DR.IS-B [240] de 16.10.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1212-2003-476278
+  date: '2003-10-16'
 article_structure:
-  article_count: 16
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:52Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +136,9 @@ c) Tenham frequentado uma acção de sensibilização em luta química aconselha
 
 2 - ...
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 1 - ...
 
@@ -150,7 +158,9 @@ ii) No caso dos agricultores que apresentam uma nova candidatura a esta medida, 
 
 b) O primeiro ano de atribuição de ajuda, no caso dos agricultores que apresentem uma nova candidatura a esta medida nos termos da alínea b) do n.º 1 do artigo 88.º e já tenham beneficiado da majoração durante um ano.
 
-###### Artigo 15.º — [...]
+Artigo 15.º
+
+[...]
 
 1 - ...
 
@@ -182,7 +192,9 @@ e) Apresentem um plano de exploração em relação à área candidata devidamen
 
 5 - (Anterior n.º 4.)
 
-###### Artigo 17.º — [...]
+Artigo 17.º
+
+[...]
 
 1 - ...
 
@@ -204,7 +216,9 @@ b) ...
 
 c) ...
 
-###### Artigo 19.º — [...]
+Artigo 19.º
+
+[...]
 
 1 - ...
 
@@ -236,7 +250,9 @@ ii) ...
 
 4 - (Anterior n.º 4.)
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 1 - ...
 
@@ -252,7 +268,9 @@ b) O primeiro ano de atribuição de ajuda, no caso dos agricultores que apresen
 
 3 - ...
 
-###### Artigo 23.º — [...]
+Artigo 23.º
+
+[...]
 
 1 - ...
 
@@ -316,7 +334,9 @@ iii) ...
 
 8 - Excepcionalmente no corrente ano, os beneficiários podem, até 31 de Julho de 2003, celebrar os contratos de assistência técnica referidos na alínea d) do n.º 1, devendo entregar no INGA, até àquela data, o duplicado dos mesmos e o plano de exploração previsto na alínea e) do mesmo número.
 
-###### Artigo 25.º — [...]
+Artigo 25.º
+
+[...]
 
 1 - ...
 
@@ -338,7 +358,9 @@ b) ...
 
 c) ...
 
-###### Artigo 36.º — [...]
+Artigo 36.º
+
+[...]
 
 1 - ...
 
@@ -354,7 +376,9 @@ a) ...
 
 b) ...
 
-###### Artigo 52.º — [...]
+Artigo 52.º
+
+[...]
 
 1 - ...
 
@@ -374,7 +398,9 @@ e) Encabeçamento, em pastoreio, igual ou inferior a 2 CN por hectare de superf�
 
 2 - ...
 
-###### Artigo 55.º — [...]
+Artigo 55.º
+
+[...]
 
 1 - ...
 
@@ -394,7 +420,9 @@ c) ...
 
 2 - ...
 
-###### Artigo 58.º — [...]
+Artigo 58.º
+
+[...]
 
 ...
 
@@ -408,7 +436,9 @@ iii) ...
 
 b) Encabeçamento, em pastoreio, de acordo com a tabela de conversão constante do anexo IV, entre 0,6 e 2 CN por hectare de superfície forrageira para efeitos de encabeçamento da unidade de produção, no caso de lameiros de regadio ou entre 0,5 e 1,2 CN por hectare de superfície forrageira para efeitos de encabeçamento da unidade de produção, no caso de outros prados.
 
-###### Artigo 67.º — [...]
+Artigo 67.º
+
+[...]
 
 1 - ...
 
@@ -426,7 +456,9 @@ b) ...
 
 c) ...
 
-###### Artigo 79.º — [...]
+Artigo 79.º
+
+[...]
 
 1 - ...
 
@@ -438,7 +470,9 @@ c) Sejam titulares de uma unidade de produção com um encabeçamento, em pastor
 
 d) ...
 
-###### Artigo 80.º — [...]
+Artigo 80.º
+
+[...]
 
 1 - ...
 
@@ -452,7 +486,9 @@ d) Manter na unidade de produção o número de CN inscritos para efeitos de atr
 
 e) ...
 
-###### Artigo 87.º — [...]
+Artigo 87.º
+
+[...]
 
 1 - ...
 
@@ -482,7 +518,9 @@ b) Morte de um animal na sequência de acidente cuja responsabilidade não possa
 
 12 - (Anterior n.º 10.)
 
-###### Artigo 88.º — [...]
+Artigo 88.º
+
+[...]
 
 1 - ...
 
@@ -508,7 +546,9 @@ d) ...
 
 4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos de força maior referidos no n.º 2, conservará o seu direito à totalidade da ajuda do ano em que o facto ocorreu.
 
-## ANEXO VII — [...]
+ANEXO VII
+
+[...]
 
 A) ...
 
@@ -562,4 +602,4 @@ B) ...»
 
 3.º O presente diploma aplica-se às candidaturas apresentadas no corrente ano.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 25 de Julho de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 25 de Julho de 2003.

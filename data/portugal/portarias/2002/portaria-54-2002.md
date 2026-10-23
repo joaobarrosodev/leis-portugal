@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/010b00/02910291.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/54/2002/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-2002-240976
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09e6daba952170f92f3fad9465b8adf5d75d0969a8b7c298a9eb76d262330877
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd5507cf1e4ee103e60cb7dcb5ea48f2cae38b21d3e928cf2d664ad76329afc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Conselho de Garantias Financeiras
 - Contrato de Seguro
 - Garantia
-- Conselho de Garantias Financeiras
 - Seguro de Créditos
 relationships:
 - type: amended_by
@@ -84,16 +84,34 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/214/1999/06/15/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/214/1999/06/15/p/dre
+- type: cites
+  target: pt:dre:309002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471963:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:667484:por
+  label: "Revogada pelo DEC LEI.51/2006.14.03.2006.MFAP, DR.IS-A [52] de 14.03.2006, nos termos do disposto no art. 10º do\
+    \ citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2006-667484
+  date: '2006-03-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:47Z'
   warnings: []
   errors: []
 ---
@@ -120,4 +138,4 @@ Manda o Governo, pelos Secretários de Estado do Tesouro e Finanças e da Indús
 
 Em 13 de Dezembro de 2001.
 
-**O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador. - O Secretário de Estado da Indústria, Comércio e Serviços, Fernando Lopes Ribeiro Mendes.**
+O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador. - O Secretário de Estado da Indústria, Comércio e Serviços, Fernando Lopes Ribeiro Mendes.

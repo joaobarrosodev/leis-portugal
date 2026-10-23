@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/127000000/0029100330.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/452-2024-870653513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3f8905a35d5967943e669b2fd0d16928c8d5f2d1b5880547adc1a063ac94ce28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea775c9e2803258ea64a5e386977a0c17891da56dbdfc8e0aeca2f0475a40185
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483152:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854546055:por
+  label: null
+  source: null
 article_structure:
   article_count: 87
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 14
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:55Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 452/2024/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., de 13 de julho de 2023, e obtido parecer favorável da entidade emitente, declara-se que a publicação do [Despacho n.º 2483/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2483-2024-854546055), de 7 de março, no Diário da República, 2.ª série, n.º 48, de 7 de março de 2024, que altera a estrutura organizacional do Município da Praia da Vitória, saiu com inexatidões, omitindo o organograma que deveria constar no anexo i. Assim, retifica-se o [Despacho n.º 2483/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2483-2024-854546055), de 7 de março, e procede-se à republicação integral do respetivo ato.
+Para os devidos efeitos, observado o disposto nos n.os2, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., de 13 de julho de 2023, e obtido parecer favorável da entidade emitente, declara-se que a publicação do [Despacho n.º 2483/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2483-2024-854546055), de 7 de março, no Diário da República, 2.ª série, n.º 48, de 7 de março de 2024, que altera a estrutura organizacional do Município da Praia da Vitória, saiu com inexatidões, omitindo o organograma que deveria constar no anexo i. Assim, retifica-se o [Despacho n.º 2483/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2483-2024-854546055), de 7 de março, e procede-se à republicação integral do respetivo ato.
 
 26 de junho de 2024. - O Diretor da Unidade do Diário da República da Imprensa Nacional-Casa da Moeda, S. A., Bruno Pereira.
 
@@ -299,7 +319,9 @@ g) Proceder à elaboração do Plano Municipal de Emergência;
 
 h) Estudar e divulgar formas adequadas de proteção dos edifícios em geral, de monumentos e de outros bens culturais, de instalações de serviços essenciais, bem como do ambiente e dos recursos naturais.
 
-###### Artigo 15.º — Divisão de Investimentos e Ordenamento do Território
+###### Artigo 15.º
+
+##### Divisão de Investimentos e Ordenamento do Território
 
 À Divisão de Investimentos e Ordenamento do Território compete:
 
@@ -445,7 +467,9 @@ h) Mandar executar os trabalhos topográficos necessários à execução das obr
 
 i) Assegurar a execução dos trabalhos solicitados pelos serviços municipais, de acordo com as orientações superiormente definidas.
 
-###### Artigo 20.º — Secção de Obras Particulares
+###### Artigo 20.º
+
+#### Secção de Obras Particulares
 
 A Secção de Obras Particulares compreende os seguintes setores, aos quais compete desempenhar as seguintes funções:
 
@@ -563,7 +587,9 @@ i) Coordenar ações de educação e informação pública com vista à conserva
 
 j) Colaborar com outras entidades na realização de estudos e execução de medidas que visem a defesa do meio ambiente.
 
-###### Artigo 24.º — Divisão de Gestão de Infraestruturas e Logística
+###### Artigo 24.º
+
+##### Divisão de Gestão de Infraestruturas e Logística
 
 À Divisão de Gestão de Infraestruturas e Logística compete:
 
@@ -819,7 +845,9 @@ b) Assegurar a segurança e saúde dos trabalhos realizados por administração 
 
 c) Assegurar a execução dos trabalhos solicitados pelos serviços municipais, de acordo com as orientações superiormente definidas.
 
-###### Artigo 38.º — Divisão de Recursos Humanos e Financeiros
+###### Artigo 38.º
+
+##### Divisão de Recursos Humanos e Financeiros
 
 À Divisão de Recursos Humanos e Financeiros compete:
 
@@ -909,7 +937,9 @@ e) Serviço de Aprovisionamento e Armazém;
 
 f) Gabinete de Ação Social.
 
-###### Artigo 41.º — Secção de Contabilidade
+###### Artigo 41.º
+
+#### Secção de Contabilidade
 
 À Secção de Contabilidade compete:
 
@@ -1139,7 +1169,9 @@ a) Secção de Compras de Bens e Serviços e
 
 b) Setor de Armazém.
 
-###### Artigo 49.º — Secção de Compras de Bens e Serviços
+###### Artigo 49.º
+
+#### Secção de Compras de Bens e Serviços
 
 À Secção de Compras de Bens e Serviços compete:
 
@@ -1207,7 +1239,9 @@ m) Elaboração e revisão anual da Carta Social do Município,
 
 n) Elaboração e revisão anual do Plano Municipal da Igualdade.
 
-###### Artigo 52.º — Divisão Administrativa e Jurídica
+###### Artigo 52.º
+
+##### Divisão Administrativa e Jurídica
 
 À Divisão Administrativa e Jurídica incumbe prestar apoio técnico-administrativo instrumental às atividades desenvolvidas pelos restantes órgãos e serviços do Município e, em especial:
 
@@ -1409,7 +1443,7 @@ w) Acompanhar e criar sinergias enquanto parceiros dos concessionários da Rede 
 
 x) Elaborar e acompanhar a implementação do Projeto Educativo e do Plano Anual de Atividades dos CATL’s cuja resposta esteja a cargo do município;
 
-y) Dinamização dos CATLs cuja resposta esteja a cargo do município;
+y) Dinamização dos CATLs cuja resposta esteja a cargo do município;
 
 z) Comemorar efemérides alusivas a problemáticas relacionadas com a infância, deficiência e desigualdades sociais e educativas;
 
@@ -1517,7 +1551,9 @@ c) Fiscalizar o cumprimento das condições impostas na concessão de licenças;
 
 d) Fiscalizar o cumprimento de todos os regulamentos, posturas.
 
-###### Artigo 65.º — Divisão de Planeamento Estratégico e Relações Externas
+###### Artigo 65.º
+
+##### Divisão de Planeamento Estratégico e Relações Externas
 
 À Divisão de Planeamento Estratégico e Relações Externas compete:
 
@@ -1779,7 +1815,9 @@ j) Desenvolver novos projetos que potenciem e valorizem a comunicação instituc
 
 k) Garantir a uniformização da imagem institucional em toda a documentação interna e para o exterior.
 
-###### Artigo 77.º — Secção Cultural
+###### Artigo 77.º
+
+#### Secção Cultural
 
 A Secção Cultural é composta pelos seguintes setores:
 
@@ -1919,4 +1957,7 @@ O presente Regulamento entra em vigor no dia imediato ao da sua publicação no 
 
 ## ANEXO I
 
-![](https://files.diariodarepublica.pt/images/870653513/870653610.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/870653513/870653610.png) |
+| --- |
+
+317848419

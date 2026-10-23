@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/222000000/0004100047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -49,43 +49,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/966-2024-896791645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5868ec6a347f77ad79d364eb4d359617fc3b89392c2c00999432c1c2715eea0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4371d562abd73594d36adb4a467174344c3ad2dff44b8cff69eba839b102a664
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Central do Sistema de Saúde
+- Contrato Programa
+- Despesas Públicas
+- Instituto da Segurança Social
+- Rede Nacional de Cuidados Continuados Integrados de Saúde Mental
+relationships:
+- type: amends
+  target: pt:numero:despacho:6837-A/2024
+  label: Retifica o Despacho n.º 6837-A/2024, de 19 de junho, DR.IIS[117]
+  source: null
+  date: '2024-06-19'
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:01Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 966/2024/2
 
-Nos termos do disposto nos n.º<sup>s</sup> 2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 6837-A/2024, que autoriza o Instituto da Segurança Social, I. P., e a Administração Central do Sistema de Saúde, I. P., a assumir os compromissos plurianuais decorrentes dos contratos-programa para o triénio de 2024-2026 com as unidades e equipas integradas da Rede Nacional de Cuidados Continuados Integrados, publicado no Diário da República, 2.ª série, n.º 117, de 19 de junho de 2024, foi publicado com uma inexatidão no anexo I, o qual se retifica republicando-se em anexo.
+Nos termos do disposto nos n.ºs 2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 6837-A/2024, que autoriza o Instituto da Segurança Social, I. P., e a Administração Central do Sistema de Saúde, I. P., a assumir os compromissos plurianuais decorrentes dos contratos-programa para o triénio de 2024-2026 com as unidades e equipas integradas da Rede Nacional de Cuidados Continuados Integrados, publicado no Diário da República, 2.ª série, n.º 117, de 19 de junho de 2024, foi publicado com uma inexatidão no anexo I, o qual se retifica republicando-se em anexo.
 
 7 de novembro de 2024. - O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento. - 6 de novembro de 2024. - A Ministra da Saúde, Ana Paula Martins. - 4 de novembro de 2024. - A Ministra do Trabalho, Solidariedade e Segurança Social, Rosário Palma Ramalho.
 
@@ -93,12 +107,12 @@ Nos termos do disposto nos n.º<sup>s</sup> 2 e 3 do artigo 11.º do Regulamento
 
 Lista de contratos-programa a celebrar no âmbito da RNCCI para o triénio de 2024-2026 em UC/UMDR/ULDM
 
-| Distrito | Concelho | Entidade | Tipologia | N.º camas/lugares | 2024 | 2025 | 2026 | 2024 | 2025 | 2026 |
+| Distrito | Concelho | Entidade | Tipologia | N.º camas/lugares | Instituto da Segurança Social, I. P. | Administração Central do Sistema de Saúde, I. P. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Distrito | Concelho | Entidade | Tipologia | N.º camas/lugares | Instituto da Segurança Social, I. P. | Instituto da Segurança Social, I. P. | Instituto da Segurança Social, I. P. | Administração Central do Sistema de Saúde, I. P. | Administração Central do Sistema de Saúde, I. P. | Administração Central do Sistema de Saúde, I. P. |
+| 2024 | 2025 | 2026 | 2024 | 2025 | 2026 |  |  |  |  |  |
 | Porto | Gondomar | Fundação Ensino e Cultura Fernando Pessoa - Hospital Fernando Pessoa | UC | 20 | - | - | - | 864 052,80 € | 861 692,00 € | 861 692,00 € |
 | Braga | Fafe | SCM Fafe | UC | 27 | - | - | - | 1 166 471,28 € | 1 163 284,20 € | 1 163 284,20 € |
-| Braga | Barcelos | PSHC - Portugal Sénior Health Care, L.<sup>da</sup> | UMDR | 20 | 171 214,80 € | 170 747,00 € | 170 747,00 € | 580 915,20 € | 579 328,00 € | 579 328,00 € |
+| Braga | Barcelos | PSHC - Portugal Sénior Health Care, L.da | UMDR | 20 | 171 214,80 € | 170 747,00 € | 170 747,00 € | 580 915,20 € | 579 328,00 € | 579 328,00 € |
 | Braga | Fafe | Centro Social da Paróquia de S. Martinho de Medelo | UMDR | 10 | 85 607,40 € | 85 373,50 € | 85 373,50 € | 290 457,60 € | 289 664,00 € | 289 664,00 € |
 | Porto | Vila Nova de Gaia | GERIAVI 01G1, S. A. | UMDR | 24 | 205 457,76 € | 204 896,40 € | 204 896,40 € | 697 098,24 € | 695 193,60 € | 695 193,60 € |
 | Porto | Póvoa do Varzim | HOSPOR - Hospitais Portugueses, S. A. - Hospital da Luz Póvoa do Varzim | UMDR | 34 | 291 065,16 € | 290 269,90 € | 290 269,90 € | 987 555,84 € | 984 857,60 € | 984 857,60 € |
@@ -125,9 +139,9 @@ Lista de contratos-programa a celebrar no âmbito da RNCCI para o triénio de 20
 | Aveiro | Sever do Vouga | Associação Pró-Cidadão Deficiente Integrado - Sever do Vouga | UMDR | 21 | 179 775,54 € | 179 284,35 € | 179 284,35 € | 609 960,96 € | 608 294,40 € | 608 294,40 € |
 | Coimbra | Coimbra | Fundação Sophia (Casa de Repouso de Coimbra) | UMDR | 25 | 214 018,50 € | 213 433,75 € | 213 433,75 € | 726 144,00 € | 724 160,00 € | 724 160,00 € |
 | Guarda | Vila Nova de Foz Côa | Centro Social e Paroquial de Freixo de Numão | UMDR | 10 | 85 607,40 € | 85 373,50 € | 85 373,50 € | 290 457,60 € | 289 664,00 € | 289 664,00 € |
-| Leiria | Pombal | CLASSINEUTRA, L.<sup>da</sup> | UMDR | 42 | 359 551,08 € | 358 568,70 € | 358 568,70 € | 1 219 921,92 € | 1 216 588,80 € | 1 216 588,80 € |
+| Leiria | Pombal | CLASSINEUTRA, L.da | UMDR | 42 | 359 551,08 € | 358 568,70 € | 358 568,70 € | 1 219 921,92 € | 1 216 588,80 € | 1 216 588,80 € |
 | Leiria | Porto de Mós | NATURIDADE Porto de Mós, S. A. | UMDR | 27 | 231 139,98 € | 230 508,45 € | 230 508,45 € | 784 235,52 € | 782 092,80 € | 782 092,80 € |
-| Coimbra | Coimbra | PROPRIARMONIA - Unipessoal, L.<sup>da</sup> | UMDR | 60 | 513 644,40 € | 512 241,00 € | 512 241,00 € | 1 742 745,60 € | 1 737 984,00 € | 1 737 984,00 € |
+| Coimbra | Coimbra | PROPRIARMONIA - Unipessoal, L.da | UMDR | 60 | 513 644,40 € | 512 241,00 € | 512 241,00 € | 1 742 745,60 € | 1 737 984,00 € | 1 737 984,00 € |
 | Aveiro | Águeda | SCM Águeda | UMDR | 24 | 205 457,76 € | 204 896,40 € | 204 896,40 € | 697 098,24 € | 695 193,60 € | 695 193,60 € |
 | Coimbra | Arganil | SCM Arganil | UMDR | 12 | 102 728,88 € | 102 448,20 € | 102 448,20 € | 348 549,12 € | 347 596,80 € | 347 596,80 € |
 | Leiria | Batalha | Irmandade da Santa Casa da Misericórdia da Batalha | UMDR | 35 | 299 625,90 € | 298 807,25 € | 298 807,25 € | 1 016 601,60 € | 1 013 824,00 € | 1 013 824,00 € |
@@ -141,14 +155,14 @@ Lista de contratos-programa a celebrar no âmbito da RNCCI para o triénio de 20
 | Coimbra | Tábua | SCM Tábua | UMDR | 23 | 196 897,02 € | 196 359,05 € | 196 359,05 € | 668 052,48 € | 666 227,20 € | 666 227,20 € |
 | Coimbra | Montemor-o-Velho | Irmandade da Santa Casa da Misericórdia de Vila Pereira | UMDR | 6 | 51 364,44 € | 51 224,10 € | 51 224,10 € | 174 274,56 € | 173 798,40 € | 173 798,40 € |
 | Viseu | Vouzela | Irmandade da Santa Casa da Misericórdia de Vouzela | UMDR | 11 | 94 168,14 € | 93 910,85 € | 93 910,85 € | 319 503,36 € | 318 630,40 € | 318 630,40 € |
-| Coimbra | Montemor-o-Velho | Detalhe Total - Unipessoal, L.<sup>da</sup> | UMDR | 30 | 256 822,20 € | 256 120,50 € | 256 120,50 € | 871 372,80 € | 868 992,00 € | 868 992,00 € |
+| Coimbra | Montemor-o-Velho | Detalhe Total - Unipessoal, L.da | UMDR | 30 | 256 822,20 € | 256 120,50 € | 256 120,50 € | 871 372,80 € | 868 992,00 € | 868 992,00 € |
 | Coimbra | Cantanhede | Centro Cívico Polivalente O Emigrante da Camarneira | ULDM | 42 | 692 969,76 € | 691 076,40 € | 691 076,40 € | 590 284,80 € | 588 672,00 € | 588 672,00 € |
 | Coimbra | Coimbra | Caritas Diocesana de Coimbra | ULDM | 37 | 610 473,36 € | 608 805,40 € | 608 805,40 € | 520 012,80 € | 518 592,00 € | 518 592,00 € |
 | Guarda | Vila Nova de Foz Côa | Centro Social e Paroquial de Freixo de Numão | ULDM | 15 | 247 489,20 € | 246 813,00 € | 246 813,00 € | 210 816,00 € | 210 240,00 € | 210 240,00 € |
 | Coimbra | Coimbra | Cáritas Diocesana de Coimbra - Farol | ULDM | 14 | 230 989,92 € | 230 358,80 € | 230 358,80 € | 196 761,60 € | 196 224,00 € | 196 224,00 € |
 | Coimbra | Miranda do Corvo | Fundação ADFP - Assistência, Desenvolvimento e Formação Profissional | ULDM | 36 | 593 974,08 € | 592 351,20 € | 592 351,20 € | 505 958,40 € | 504 576,00 € | 504 576,00 € |
 | Coimbra | Vila Nova de Poiares | Irmandade de Nossa Senhora das Necessidades da Santa Casa da Misericórdia de Vila Nova de Poiares | ULDM | 55 | 907 460,40 € | 904 981,00 € | 904 981,00 € | 772 992,00 € | 770 880,00 € | 770 880,00 € |
-| Coimbra | Coimbra | PROPRIARMONIA - Unipessoal, L.<sup>da</sup> | ULDM | 42 | 692 969,76 € | 691 076,40 € | 691 076,40 € | 590 284,80 € | 588 672,00 € | 588 672,00 € |
+| Coimbra | Coimbra | PROPRIARMONIA - Unipessoal, L.da | ULDM | 42 | 692 969,76 € | 691 076,40 € | 691 076,40 € | 590 284,80 € | 588 672,00 € | 588 672,00 € |
 | Guarda | Almeida | SCM Almeida | ULDM | 30 | 494 978,40 € | 493 626,00 € | 493 626,00 € | 421 632,00 € | 420 480,00 € | 420 480,00 € |
 | Coimbra | Arganil | SCM Arganil | ULDM | 12 | 197 991,36 € | 197 450,40 € | 197 450,40 € | 168 652,80 € | 168 192,00 € | 168 192,00 € |
 | Leiria | Batalha | Irmandade da Santa Casa da Misericórdia da Batalha | ULDM | 23 | 379 483,44 € | 378 446,60 € | 378 446,60 € | 323 251,20 € | 322 368,00 € | 322 368,00 € |
@@ -157,7 +171,7 @@ Lista de contratos-programa a celebrar no âmbito da RNCCI para o triénio de 20
 | Guarda | Guarda | SCM Guarda | ULDM | 10 | 164 992,80 € | 164 542,00 € | 164 542,00 € | 140 544,00 € | 140 160,00 € | 140 160,00 € |
 | Viseu | Mortágua | SCM Mortágua | ULDM | 12 | 197 991,36 € | 197 450,40 € | 197 450,40 € | 168 652,80 € | 168 192,00 € | 168 192,00 € |
 | Viseu | Oliveira de Frades | Misericórdia da Nossa Senhora dos Milagres de Oliveira de Frades | ULDM | 16 | 263 988,48 € | 263 267,20 € | 263 267,20 € | 224 870,40 € | 224 256,00 € | 224 256,00 € |
-| Coimbra | Montemor-o-Velho | Detalhe Total - Unipessoal, L.<sup>da</sup> | ULDM | 20 | 329 985,60 € | 329 084,00 € | 329 084,00 € | 281 088,00 € | 280 320,00 € | 280 320,00 € |
+| Coimbra | Montemor-o-Velho | Detalhe Total - Unipessoal, L.da | ULDM | 20 | 329 985,60 € | 329 084,00 € | 329 084,00 € | 281 088,00 € | 280 320,00 € | 280 320,00 € |
 | Lisboa | Oeiras | Instituto S. João de Deus - Carnaxide | UC | 32 | - | - | - | 1 382 484,48 € | 1 378 707,20 € | 1 378 707,20 € |
 | Lisboa | Oeiras | Instituto S. João de Deus - Carnaxide | UMDR | 30 | 256 822,20 € | 256 120,50 € | 256 120,50 € | 871 372,80 € | 868 992,00 € | 868 992,00 € |
 | Lisboa | Loures | Associação Profissionais HSM - Casa de Santa Maria | UMDR | 40 | 342 429,60 € | 341 494,00 € | 341 494,00 € | 1 161 830,40 € | 1 158 656,00 € | 1 158 656,00 € |
@@ -166,7 +180,7 @@ Lista de contratos-programa a celebrar no âmbito da RNCCI para o triénio de 20
 | Lisboa | Oeiras | NATURIDADE Porto Salvo, S. A. | UMDR | 20 | 171 214,80 € | 170 747,00 € | 170 747,00 € | 580 915,20 € | 579 328,00 € | 579 328,00 € |
 | Santarém | Coruche | SCM Coruche | UMDR | 16 | 136 971,84 € | 136 597,60 € | 136 597,60 € | 464 732,16 € | 463 462,40 € | 463 462,40 € |
 | Setúbal | Moita | SCM Alhos Vedros | UMDR | 30 | 256 822,20 € | 256 120,50 € | 256 120,50 € | 871 372,80 € | 868 992,00 € | 868 992,00 € |
-| Santarém | Ourém | TMG - Residência para Séniores, L.<sup>da</sup> | UMDR | 19 | 162 654,06 € | 162 209,65 € | 162 209,65 € | 551 869,44 € | 550 361,60 € | 550 361,60 € |
+| Santarém | Ourém | TMG - Residência para Séniores, L.da | UMDR | 19 | 162 654,06 € | 162 209,65 € | 162 209,65 € | 551 869,44 € | 550 361,60 € | 550 361,60 € |
 | Lisboa | Oeiras | Instituto S. João de Deus - Carnaxide | ULDM | 16 | 263 988,48 € | 263 267,20 € | 263 267,20 € | 224 870,40 € | 224 256,00 € | 224 256,00 € |
 | Lisboa | Vila Franca de Xira | ABEI - Associação para o Bem Estar Infantil da Freguesia de Vila Franca de Xira | ULDM | 30 | 494 978,40 € | 493 626,00 € | 493 626,00 € | 421 632,00 € | 420 480,00 € | 420 480,00 € |
 | Setúbal | Almada | Cooperativa Almadense Solidariedade Social CRL | ULDM | 80 | 1 319 942,40 € | 1 316 336,00 € | 1 316 336,00 € | 1 124 352,00 € | 1 121 280,00 € | 1 121 280,00 € |
@@ -189,9 +203,11 @@ Lista de contratos-programa a celebrar no âmbito da RNCCI para o triénio de 20
 | Faro | Silves | SCM Silves | ULDM | 20 | 329 985,60 € | 329 084,00 € | 329 084,00 € | 281 088,00 € | 280 320,00 € | 280 320,00 € |
 | Faro | Vila Real de Santo António | SCM Vila Real de Santo António | ULDM | 18 | 296 987,04 € | 296 175,60 € | 296 175,60 € | 252 979,20 € | 252 288,00 € | 252 288,00 € |
 
-| Distrito | Concelho | Entidade | Tipologia | N.º camas/lugares | Santa Casa da Misericórdia de Lisboa | Santa Casa da Misericórdia de Lisboa | Santa Casa da Misericórdia de Lisboa | Administração Central do Sistema de Saúde, I. P. | Administração Central do Sistema de Saúde, I. P. | Administração Central do Sistema de Saúde, I. P. |
+| Distrito | Concelho | Entidade | Tipologia | N.º camas/lugares | Santa Casa da Misericórdia de Lisboa | Administração Central do Sistema de Saúde, I. P. |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Distrito | Concelho | Entidade | Tipologia | N.º camas/lugares | 2024 | 2025 | 2026 | 2024 | 2025 | 2026 |
+| 2024 | 2025 | 2026 | 2024 | 2025 | 2026 |  |  |  |  |  |
 | Lisboa | Lisboa | SCM Lisboa - Hospital Pulido Valente (UCCI São Roque) | UC | 10 | - | - | - | 432 026,40 € | 430 846,00 € | 430 846,00 € |
 | Lisboa | Lisboa | SCM Lisboa - Hospital Pulido Valente (UCCI São Roque) | UMDR | 13 | 111 289,62 € | 110 985,55 € | 110 985,55 € | 377 594,88 € | 376 563,20 € | 376 563,20 € |
 | Lisboa | Lisboa | SCM Lisboa - Hospital Pulido Valente (UCCI São Roque) | ULDM | 21 | 346 484,88 € | 345 538,20 € | 345 538,20 € | 295 142,40 € | 294 336,00 € | 294 336,00 € |
+
+318328773

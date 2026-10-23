@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/242000000/0012800134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1078-2024-899911271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62a794389e9e7dbaecc1941c770c171d0454bf8795e386c2541f3a7152e0f2d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 519fc47cf425418eef134b3bc5c1a7c82cb26bcaeb03954db76edba53715a47c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:892306849:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:33Z'
   warnings: []
   errors: []
 ---
@@ -150,62 +170,62 @@ A lista provisória de ordenação final contém as classificações quantitativ
 
 10 - Grelha de avaliação:
 
-|  |  | Pont. máxima |
+|  | Pont. máxima |  |
 | --- | --- | --- |
-| I - Desempenho Técnico-Científico e Profissional do Candidato (ponderação 40 %)Análise dos trabalhos e atividades constantes do CV, designadamente: | I - Desempenho Técnico-Científico e Profissional do Candidato (ponderação 40 %)Análise dos trabalhos e atividades constantes do CV, designadamente: |  |
-| 1) Produção científica e divulgação [18] | 1) Produção científica e divulgação [18] |  |
+| I - Desempenho Técnico-Científico e Profissional do Candidato (ponderação 40 %)Análise dos trabalhos e atividades constantes do CV, designadamente: |  |  |
+| 1) Produção científica e divulgação [18] |  |  |
 | a. Publicações científicas | 1 ponto/cada artigo em revista indexada, Q1/Q2 | 3 |
-| a. Publicações científicas | 0,75 pontos artigo publicado em revista indexada, Q3/Q4 | 1,5 |
-| a. Publicações científicas | 0,5 pontos/artigos revistas indexadas com revisão | 1 |
-| a. Publicações científicas | 0,5 pontos/artigos em livros de atas de congressos internacionais ou nacionais com revisão | 1 |
-| a. Publicações científicas | 0,25 pontos/resumos em livros de atas de congressos internacionais ou nacionais com revisão | 0,5 |
-| a. Publicações científicas | 1,5 pontos/autoria de livro ou eBook | 1,5 |
-| a. Publicações científicas | 1 pontos/coautoria de livro | 1 |
-| a. Publicações científicas | 0,5 pontos/capítulo em obra coletiva com revisão | 1 |
-| a. Publicações científicas | 0,75 por coordenação/organização de livro/eBook | 1 |
+| 0,75 pontos artigo publicado em revista indexada, Q3/Q4 | 1,5 |  |
+| 0,5 pontos/artigos revistas indexadas com revisão | 1 |  |
+| 0,5 pontos/artigos em livros de atas de congressos internacionais ou nacionais com revisão | 1 |  |
+| 0,25 pontos/resumos em livros de atas de congressos internacionais ou nacionais com revisão | 0,5 |  |
+| 1,5 pontos/autoria de livro ou eBook | 1,5 |  |
+| 1 pontos/coautoria de livro | 1 |  |
+| 0,5 pontos/capítulo em obra coletiva com revisão | 1 |  |
+| 0,75 por coordenação/organização de livro/eBook | 1 |  |
 | b. Comunicações e conferências em congressos nacionais e internacionais | 0,3 pontos/cada por convite | 3 |
-| b. Comunicações e conferências em congressos nacionais e internacionais | 0,25 pontos/cada por submissão | 1 |
+| 0,25 pontos/cada por submissão | 1 |  |
 | c. Apresentação de posters | 0,25 pontos/cada | 1 |
 | d. Atividades de divulgação de ciência e tecnologia, incluindo nos media, sobre temáticas da área científica | 0,25 pontos/cada | 1,5 |
-| 2) Orientação de trabalhos académicos concluídos na área científica a concurso [5] | 2) Orientação de trabalhos académicos concluídos na área científica a concurso [5] |  |
+| 2) Orientação de trabalhos académicos concluídos na área científica a concurso [5] |  |  |
 | a. Orientação de monografias/projetos de curso/trabalhos de investigação | 0,25 pontos/cada | 2 |
 | b. Orientação de dissertação/estágio/projeto de mestrado | 0,5 pontos/cada | 2 |
 | c. Coorientação de dissertação/estágio/projeto de mestrado | 0,25 pontos/cada | 1 |
-| 3) Arbitragem técnico-científica [9] | 3) Arbitragem técnico-científica [9] |  |
+| 3) Arbitragem técnico-científica [9] |  |  |
 | a. Participação em júri de provas científicas e atribuição de título de especialista, como presidente ou vogal | 0,5 pontos/grau Mestre ou título de especialista | 2 |
 | b. Participação em júri de provas científicas e atribuição de título de especialista, como arguente | 1 pontos/grau Mestre ou título de especialista | 2 |
 | c. Participação em comissões como perito | 0,5 pontos/participação/ano | 1 |
 | d. Participação em comissão de evento técnico-científico, organizadora e/ou científica | 0,25 pontos/comissão/ano ou tarefa | 2 |
 | e. Participação em júri de evento técnico-científico | 0,25 pontos/comissão/ano ou tarefa | 1 |
 | f. Participação em revista indexada (conselho editorial, revisão) | 0,25 pontos/ano completo/revisão | 1 |
-| 4) Atividades I&D [6] | 4) Atividades I&D [6] |  |
+| 4) Atividades I&D [6] |  |  |
 | a. Coordenação e dinamização da atividade de investigação | 1 pontos/coordenação projeto concluído | 4 |
 | b. Participação em projetos de investigação ou de desenvolvimento | 0,75 pontos/cada participação | 1,5 |
 | c. Membro de unidade/centro de investigação | 0,5/participação integrado | 0,5 |
-| 5) Experiência profissional com relevância para a área [2] | 5) Experiência profissional com relevância para a área [2] |  |
+| 5) Experiência profissional com relevância para a área [2] |  |  |
 | a. Experiência clínica | 0,25 pontos/ano | 2 |
-| II - Capacidade Pedagógica dos Candidatos (ponderação 45 %)Análise da qualidade e extensão da sua prática pedagógica anterior, designadamente: | II - Capacidade Pedagógica dos Candidatos (ponderação 45 %)Análise da qualidade e extensão da sua prática pedagógica anterior, designadamente: |  |
-| 1) Atividade letiva e desempenho pedagógico [28] | 1) Atividade letiva e desempenho pedagógico [28] |  |
+| II - Capacidade Pedagógica dos Candidatos (ponderação 45 %)Análise da qualidade e extensão da sua prática pedagógica anterior, designadamente: |  |  |
+| 1) Atividade letiva e desempenho pedagógico [28] |  |  |
 | a. Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,2 pontos/UC | 2 |
-| a. Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/aulas teóricas | 2 |
-| a. Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/Problem-based learning, seminários | 2 |
-| a. Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,02 pontos/aulas OT | 2 |
-| a. Unidades curriculares lecionadas e as modalidades de aulas ministradas, nos diversos ciclos de estudo | 0,01 pontos/aulas TP e P | 2 |
+| 0,02 pontos/aulas teóricas | 2 |  |
+| 0,02 pontos/Problem-based learning, seminários | 2 |  |
+| 0,02 pontos/aulas OT | 2 |  |
+| 0,01 pontos/aulas TP e P | 2 |  |
 | b. Metodologias de ensino-aprendizagem e de avaliação utilizadas e avaliadas | Fundamentação da utilização/0,25 pontos cada | 3 |
-| b. Metodologias de ensino-aprendizagem e de avaliação utilizadas e avaliadas | Avaliação da utilização/0,25 pontos cada | 2 |
+| Avaliação da utilização/0,25 pontos cada | 2 |  |
 | c. Avaliação do ensino ministrado em Instituições de Ensino Superior e na área de de Enfermagem | 0,5 pontos/inquérito >4 (bom e superior)/ano/UC | 2 |
 | d. Responsabilidade de unidades curriculares | 0,25 pontos/UC ≤ 8 ECTS | 3 |
-| d. Responsabilidade de unidades curriculares | 0,5 pontos/UC> 8 ECTS/ano | 2 |
+| 0,5 pontos/UC> 8 ECTS/ano | 2 |  |
 | e. Supervisão e orientação de ensino clínico e estágios curriculares | 0,5 pontos cada UC de EC/Estágio | 4 |
 | f. Orientação de projetos de estudantes em contexto clínico, incluindo Nursing Journal Club | 0,2 pontos/projeto | 2 |
-| 2) Experiência na produção de material didático e de implementação de técnicas e métodos práticos inovadores de apoio ao ensino [5] | 2) Experiência na produção de material didático e de implementação de técnicas e métodos práticos inovadores de apoio ao ensino [5] |  |
+| 2) Experiência na produção de material didático e de implementação de técnicas e métodos práticos inovadores de apoio ao ensino [5] |  |  |
 | a. Publicação de material pedagógico relacionados com a lecionação na área de Enfermagem (em formato papel ou digital, e-book, audiobook e videobook, com ISBN ou doi) | 1 ponto/cada | 2 |
 | b. Construção de materiais pedagógicos (em formato papel ou digital, e-book, audiobook e videobook, com ISBN ou doi) | 0,5 pontos/fundamentação na UC | 1,5 |
 | c. Participação em atividades de inovação pedagógica | 0,5 pontos/inovação fundamentada | 1,5 |
-| 3) Formação/atualização pedagógica [5] | 3) Formação/atualização pedagógica [5] |  |
+| 3) Formação/atualização pedagógica [5] |  |  |
 | a. Atividades de valorização na área pedagógica | 0,25 pontos/atividade fundamentada | 2,5 |
 | b. Participação em eventos/atividades pedagógicas | 0,25 pontos/evento/atividade fundamentada | 2,5 |
-| 4) Programa para uma unidade curricular no âmbito da área disciplinar de Enfermagem [7] | 4) Programa para uma unidade curricular no âmbito da área disciplinar de Enfermagem [7] |  |
+| 4) Programa para uma unidade curricular no âmbito da área disciplinar de Enfermagem [7] |  |  |
 | a. Definição dos resultados esperados | 1,5 pontos/formulação dos objetivos de aprendizagem e relação com competências e conteúdos | 1,5 |
 | b. Estratégias pedagógicas | 1,5 pontos/definição das estratégias e adequação aos objetivos/resultados e competências | 1,5 |
 | c. Discriminação e justificação de conteúdos | 1 pontos/estruturação dos conteúdos e adequação aos objetivos/resultados | 1 |
@@ -213,17 +233,17 @@ A lista provisória de ordenação final contém as classificações quantitativ
 | e. Processo de avaliação | 1 pontos/definição das estratégias de avaliação contínua e em exame,adequação aos resultados esperados | 1 |
 | f. Referências bibliográficas | 0,25 pontos/pertinência, atualidade e relação com conteúdos | 0,25 |
 | g. Desenvolvimento de competências (incluindo investigação) pelos estudantes, no seu âmbito | 1 pontos/referência sistemática à adequação às competências e envolvimento dos estudantes em atividade científica | 1 |
-| III - Outras atividades relevantes para a missão do IPS que hajam sido desenvolvidas pelo candidato (ponderação 15 %) | III - Outras atividades relevantes para a missão do IPS que hajam sido desenvolvidas pelo candidato (ponderação 15 %) |  |
-| 1) Atividades de extensão comunitária [7] | 1) Atividades de extensão comunitária [7] |  |
+| III - Outras atividades relevantes para a missão do IPS que hajam sido desenvolvidas pelo candidato (ponderação 15 %) |  |  |
+| 1) Atividades de extensão comunitária [7] |  |  |
 | a. Participação em/dinamização de parcerias com organizações tendo como objetivo a transferência de conhecimento | 0,5 pontos/projeto com parceiros | 2 |
-| a. Participação em/dinamização de parcerias com organizações tendo como objetivo a transferência de conhecimento | 0,25 pontos/atividades com parceiros | 2 |
+| 0,25 pontos/atividades com parceiros |  |  |
 | b. Atividade de consultoria e prestação de serviços | 0,25 pontos/consultoria | 2 |
-| b. Atividade de consultoria e prestação de serviços | 0,2 pontos/por prestação serviços ≤ 20h; 0,5/PSE> 20h | 2 |
+| 0,2 pontos/por prestação serviços ≤ 20h; 0,5/PSE> 20h |  |  |
 | c. Participação em projetos internacionais, missões de ensino e formação | 0,5 pontos/Participação por projeto | 3 |
-| 2) Participação na estrutura e atividades de gestão de instituições do ensino superior [8] | 2) Participação na estrutura e atividades de gestão de instituições do ensino superior [8] |  |
+| 2) Participação na estrutura e atividades de gestão de instituições do ensino superior [8] |  |  |
 | a. Participação em órgãos de gestão de IES | 2 pontos/cargo/mandato | 2 |
 | b. Participação noutras estruturas de gestão (Direção de Departamento, Coordenação de Curso, Gestão de ano, Coordenação dos Laboratórios) | 2 pontos/ano Direção de Departamento | 5 |
-| b. Participação noutras estruturas de gestão (Direção de Departamento, Coordenação de Curso, Gestão de ano, Coordenação dos Laboratórios) | 2 pontos/ano/Coordenação de Curso; 1 ponto/ano/gestão de ano; 1 ponto/ano coordenação Labs | 5 |
+| 2 pontos/ano/Coordenação de Curso; 1 ponto/ano/gestão de ano; 1 ponto/ano coordenação Labs |  |  |
 | c. Participação em júris e em grupos de trabalho (nomeados por órgãos e no âmbito do ensino superior) | 0,5 pontos/júri, de acesso a cursos; de equivalências/creditações; 0,5/grupo de trabalho | 1 |
 
 11 - Informação complementar ao processo de Avaliação e Seleção:
@@ -267,3 +287,5 @@ d) No sítio da internet do IPS, em https://www.ips.pt nas línguas portuguesa e
 Nota. - Considerando a natureza desta retificação, será reaberto o período de candidaturas e notificados os candidatos que tenham submetido a sua candidatura, convidando-os a retificar, querendo, os respetivos CV´s e/ou a adicionar documentos comprovativos das atividades desenvolvidas.
 
 18 de novembro de 2024. - A Administradora, Doutora Lurdes Pedro.
+
+318402839

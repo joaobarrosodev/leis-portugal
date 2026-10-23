@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/224/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/224-2004-551657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c2c083bcdedf0454fa0237bc67231ed170efcffd12abce597992e3bd085a3b62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97b2e59d7c61829c20f3fd99fdd95e84c8448632fcabd1cba447f4f46ed34a86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,24 @@ relationships:
   target: pt:dre:485622:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:594162:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 111/98 de 26-Fev, renovada pelo presente\
+    \ diploma, pela PORT.1079/2005.21.10.2005.MADRP, DR.IS-B [203] de 21.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1079-2005-594162
+  date: '2005-10-21'
+- type: amended_by
+  target: pt:dre:485622:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 111/98 de 26-Fev, posteriormente renovada pelo\
+    \ presente diploma, pela PORT.19/2011.07.01.2011.MADRP, DR.IS [5] de 07.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2011-485622
+  date: '2011-01-07'
+- type: amends
+  target: pt:numero:portaria:663/2001
+  label: "Renova, por um período de 10 anos, a concessão da zona de caça associativa concessionada pela Portaria n.º 111/98,\
+    \ de 26 de Fevereiro DR.IS-B [48], alterada pela Portaria n.º 663/2001, de 28 de Junho\0\0"
+  source: null
+  date: '1998-02-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +112,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/663/2001/06/28/p/dre
   label: null
   source: http://data.dre.pt/eli/port/663/2001/06/28/p/dre
+- type: cites
+  target: pt:dre:211395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:59Z'
   warnings: []
   errors: []
 ---

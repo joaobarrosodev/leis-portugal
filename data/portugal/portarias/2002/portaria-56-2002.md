@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/56/2002/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/56-2002-240988
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af7a30aa575a3f0dddaf2e8a4ac784c5633288a877f240b802f239b1cb7436f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe78c15593f31421d13d5ebc8c760180c4a9d409801b8548965b0ab0377ba3cb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,15 +65,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Benefícios Fiscais
 - Crédito ao Investimento
 - Crédito Fiscal por Investimento
 - Desenvolvimento Regional
+- Desertificação
+- Financiamento
 - Investimento
 - IRC
-- Desertificação
 - Região Desfavorecida
-- Benefícios Fiscais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/310/2001/12/10/p/dre
@@ -91,16 +91,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/30-g/2000/12/29/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/30-g/2000/12/29/p/dre
+- type: cites
+  target: pt:dre:212013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576174:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:06Z'
   warnings: []
   errors: []
 ---
@@ -123,4 +139,4 @@ Manda o Governo, pelos Ministros das Finanças e do Planeamento, ao abrigo do n.
 
 Em 21 de Dezembro de 2001.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira.

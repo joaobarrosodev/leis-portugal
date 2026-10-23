@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/193000000/0020200202.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/750-2023-222421557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93cb18b7787c73226e3ba23c54f417603b6b79bef555175a534163b6f929c1e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a6140f4a3f78b4772245c731c01195456de6b3533b4940c50a9845a4878fb2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:134210147:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148599583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221386849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:73768871:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:48Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +114,5 @@ deve ler-se:
 «Pelo mesmo despacho, nos termos do disposto na alínea q) do n.º 1 do artigo 17. dos Estatutos da FEUP homologados pelo [Despacho n.º 3232/2016](https://diariodarepublica.pt/dr/detalhe/despacho/3232-2016-73768871), publicado no Diário da República, 2.ª série, n.º 43, de 2 de março de 2016, e no n.º 4 do artigo 22.º do Regulamento do Pessoal de Investigação, de Ciência e de Tecnologia da Universidade do Porto, aprovado pelo [Regulamento n.º 487/2020](https://diariodarepublica.pt/dr/detalhe/regulamento/487-2020-134210147), de 22 de maio, conjugados com o dos artigos 44.º a 50.º do Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, alterado pela [Lei n.º 72/2020](https://diariodarepublica.pt/dr/detalhe/lei/72-2020-148599583), de 16 de novembro, deleguei no Prof. Doutor Adélio Miguel Magalhães Mendes, investigador responsável pelo projeto que enquadra e financia a contratação a competência para presidir ao júri do presente procedimento concursal.»
 
 7 de setembro de 2023. - O Diretor da FEUP, Prof. Doutor Rui Artur Bártolo Calçada.
+
+316842309

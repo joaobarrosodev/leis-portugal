@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/196000000/0030700308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/771-2023-222586606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6588b1baf52f0a5962697031bbdcb0b6c2d25ca57d7c813d205c0c5094ac05f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e68a3d74e9abd7d1232494ad53161618c4ecc75cc05ba212963333bfce04d114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:213532907:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:53Z'
   warnings: []
   errors: []
 ---
@@ -109,3 +113,5 @@ Por despacho, de 25 de julho de 2023, do Presidente da Câmara Municipal de Oliv
 Por deliberação da Câmara Municipal tomada em reunião ordinária realizada no dia 31 de agosto de 2023 foi ratificado, por maioria, o despacho de retificação do prazo para a elaboração da alteração do Plano Diretor Municipal, datado de 25 de julho de 2023, do Presidente da Câmara Municipal, pelo que, onde se lê, «Prazos para a elaboração da alteração: Até 15 (quinze) dias após o processo formal de participação pública preventiva.», deve ler-se «3) Prazos para a elaboração da alteração: Até 150 (cento e cinquenta) dias após o processo formal de participação pública preventiva.»
 
 8 de setembro de 2023. - O Presidente da Câmara Municipal, Joaquim Jorge Ferreira, eng.º
+
+616877245

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/035000000/0870508705.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/429-2011-3477072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8f8d8f6db21abeded463132d7f05bcdc3aefa0a9f690146d2ad538515107ebb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c5ce934c33fab2b003be5db781e8d8579e89bb03c7559a766855d399284a24d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:38Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 429/2011
 Por ter saído com inexactidão a publicação inserta no Diário da República, 2.ª série, n.º 247, de 23 de Dezembro de 2010, deliberação (extracto) n.º 2413/2010, rectifica-se que onde se lê «celebrar contrato de trabalho em funções públicas, por tempo indeterminado, com a enfermeira graduada Maria Sofia Ferreira Veloso, como enfermeira especialista em saúde materna e obstetrícia» deve ler-se «celebrar contrato de trabalho em funções públicas, por tempo indeterminado, com a enfermeira graduada Maria Sofia Ferreira Veloso como enfermeira».
 
 10 de Fevereiro de 2011. - O Director da Área Estratégica de Recursos Humanos, António Delgado.
+
+204338728

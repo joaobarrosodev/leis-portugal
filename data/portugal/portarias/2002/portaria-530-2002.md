@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/530/2002/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/530-2002-370411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58ff8ea2fd35fd62dba297c3700cb57776f312fc94e5b31d836d7ec130cfed20
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0747c3277c3b1b995651d8a71d14bbd13f60c79bc5dd1f38bbce4526fcb89552
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Beja
+- Ensino Superior
 - Ensino Superior Politécnico
 - Escola Superior de Educação
 - Instituto Politécnico
 - Licenciatura
-- Beja
-- Ensino Superior
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:173173:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173173:por
+  label: "Alterado o anexo à Port 1137/2000, de 29-Nov, DR.IS-B [276], na redacção da Port 694/2001, de 10-Jul e do presente\
+    \ diploma, pela PORT.98/2003.2003.01.23.MCES DR.IS [19]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/98-2003-173173
+  date: '2003-01-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
   label: null
@@ -103,16 +109,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/694/2001/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/694/2001/07/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368775:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599697:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:46Z'
   warnings: []
   errors: []
 ---
@@ -169,19 +211,19 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
 
 2.º ciclo - Grau de licenciado
 
@@ -191,7 +233,7 @@ QUADRO N.º 4
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
 
 Ramo de Animação Sócio-Educativa
 
@@ -199,7 +241,7 @@ QUADRO N.º 5
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
 
 Ramo de Animação em Desenvolvimento Local e Regional
 
@@ -207,4 +249,4 @@ QUADRO N.º 6
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)
+[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)](https://files.diariodarepublica.pt/1s/2002/05/104b00/42924294.pdf)

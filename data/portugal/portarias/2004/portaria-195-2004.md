@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/195/2004/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/195-2004-545628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e3eaf1b63f6227de98803109619ca52fa9111f46e7d25b80ec56a2ff714c3de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e547d3ce162f39ccd0c63fffc6f59249847a166dc04bece25ffde8eee5cd3e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,14 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Julgado de Paz
+- Autarquia Local
 - Definição de Competências
 - Direcção Geral da Administração Extrajudicial
 - Instalação de Serviços
-- Serviço de Mediação
+- Julgado de Paz
 - Miranda do Corvo
 - Regulamento Interno
-- Autarquia Local
+- Serviço de Mediação
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/9/2004/01/09/p/dre
@@ -83,16 +83,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+- type: cites
+  target: pt:dre:241184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:48Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +117,7 @@ Manda o Governo, pela Ministra da Justiça, o seguinte:
 
 2.º É aprovado o respectivo Regulamento Interno, em anexo à presente portaria.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 13 de Fevereiro de 2004.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 13 de Fevereiro de 2004.
 
 ## ANEXO — REGULAMENTO INTERNO DO JULGADO DE PAZ DO CONCELHO DE MIRANDA DO CORVO
 
@@ -127,7 +135,9 @@ O período de funcionamento e de atendimento do Julgado de Paz é das 9 horas à
 
 2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção.
 
-###### Artigo 4.º — Secção
+###### Artigo 4.º
+
+#### Secção
 
 O Julgado de Paz dispõe de uma secção dirigida pelo juiz de paz a quem competir a respectiva coordenação nos termos do artigo anterior.
 

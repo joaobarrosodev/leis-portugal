@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/306-2023-211842808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4097eb49b9c378b3f4d793bd44f26f1efaf8b4f34d7c5e99d78a766d292b5a56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9d6604c8991a76cbbce14e5c70dcca1378e7bdf4a591ef06048b4c502ffe19fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:207113533:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:828522:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:07Z'
   warnings: []
   errors: []
 ---
@@ -231,12 +243,14 @@ Maria Madalena Belo da Silveira Baptista, Professora Coordenadora na Escola Supe
 
 ## ANEXO I — I - Componente técnico-científica (ponderação na pontuação final - 45 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf))](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf)
 
 II - Componente pedagógica (ponderação na pontuação final - 10 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf))](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf)
 
 III - Outras componentes (ponderação na pontuação final - 45 %)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf))](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/04/075000000/0016400169.pdf)
+
+316347715

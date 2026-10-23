@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0898408984.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/451-2011-1674371
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41e6ba3a94124424562d3a414b83c94920e678d42b3393a0e1b0a83320810b41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 995f95210a370c01d4f78c5b8b33e3a80a80107bb8d8120d0d0bda5238cd2806
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:46Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Recrutamento de chefe da Divisão de Desporto
 Por ter saído com inexactidão o aviso n.º 3556/2011, publicado no Diário da República, 2.ª série, n.º 23, de 2 de Fevereiro de 2011, rectifica-se que onde se lê «Pretende a Câmara Municipal da Amadora proceder ao provimento do cargo de Chefe da Divisão de Intervenção Social (equiparado a direcção intermédia de 2.º grau)» deve ler-se «Pretende a Câmara Municipal da Amadora proceder ao provimento do cargo de chefe da Divisão de Desporto (equiparado a direcção intermédia de 2.º grau)».
 
 2 de Fevereiro de 2011. - Por delegação de competências do Presidente da Câmara, a Vereadora da Área dos Recursos Humanos, Rita Madeira.
+
+304314224

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/496/2002/04/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/496-2002-288208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4da3939561c6e9172893868a8aff011a9df022f3bc11a2691935848eb5e20f9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 343d52b09e5af42edc1244cc6d740ccf9ada698bf323a78e49e6fa2a72e22b5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Pública
-- Sistema Retributivo
-- Remuneração Acessória
 - Instituto Nacional de Pilotagem dos Portos
 - Pessoal Técnico Superior
 - Remuneração
+- Remuneração Acessória
+- Sistema Retributivo
 - Tabela Salarial
 relationships:
 - type: cites
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1162/2001/10/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1162/2001/10/04/p/dre
+- type: cites
+  target: pt:dre:223012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429270:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621144:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:32Z'
   warnings: []
   errors: []
 ---

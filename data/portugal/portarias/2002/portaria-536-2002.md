@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/536/2002/05/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2002-152923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-05-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0849bcdbdd818f3cea2eca64392fad8861978aae1506227d0526e6d780376ca4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bb67fcabbf4a9c6118554be457e49e0bd7f8b16d60000dd9986bc348b59a4f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
 subjects:
 - Exército
 - Força Aérea
-- Marinha
-- Serviço Militar
 - Forças Armadas
+- Marinha
+- Militar
 - Pessoal Contratado
 - Prestação de Serviços
 - Recrutamento Militar
-- Militar
+- Serviço Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/289/2000/11/14/p/dre
@@ -107,16 +107,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/83/1993/01/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/83/1993/01/25/p/dre
+- type: cites
+  target: pt:dre:436421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626199:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692853:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:47Z'
   warnings: []
   errors: []
 ---
@@ -143,4 +175,4 @@ b) A satisfação dos requisitos específicos estabelecidos em função da categ
 
 3.º São revogadas as Portarias n.os [327/93](https://diariodarepublica.pt/dr/detalhe/portaria/327-1993-637904), de 20 de Março, [418/93](https://diariodarepublica.pt/dr/detalhe/portaria/418-1993-692853), de 21 de Abril, [83/93](https://diariodarepublica.pt/dr/detalhe/portaria/83-1993-602503), de 25 de Janeiro, e [204/96](https://diariodarepublica.pt/dr/detalhe/portaria/204-1996-436421), de 7 de Junho, bem como toda a legislação que contrarie o disposto no presente diploma.
 
-**O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 3 de Abril de 2002.**
+O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 3 de Abril de 2002.

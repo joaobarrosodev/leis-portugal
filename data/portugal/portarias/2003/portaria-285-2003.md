@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/285/2003/04/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/285-2003-232357
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f62b14638c3dd284c7c6a301b02bbf3912e35fdcc067e83c6b08b92af176c623
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ef421f752be9bbb864cf68958d9ff6d14843a3d155700aedb9ac6d464d2cc96
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Água Mineral
+- Câmara Municipal
 - Chaves
 - Recursos Hídricos
 - Zona de Proteção
-- Câmara Municipal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:121313004:por
+  label: Revogado, a partir de 21.03.2019, o presente diploma, pelo(a) Portaria n.º 81/2019 - Diário da República n.º 56/2019,
+    Série I de 2019-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-2019-121313004
+  date: '2019-03-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:20Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +116,15 @@ Manda o Governo, pelos Ministros da Economia, e das Cidades, Ordenamento do Terr
 
 Zona imediata - delimitada por dois círculos de 30 m de raio, com centro nas captações AC1 e AC2, cujas coordenadas são as seguintes:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)
 
 Zona intermédia - delimitada pelo polígono ABCD, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)
 
 Zona alargada - delimitada pelo polígono EFGHIJKL, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)](https://files.diariodarepublica.pt/1s/2003/04/077b00/21312132.pdf)
 
 Em 6 de Março de 2003.
 

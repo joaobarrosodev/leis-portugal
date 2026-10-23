@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/025000000/0669806698.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/276-2011-917164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 362b233905c2c043b18b7e2f942efa0f7be8c8b8efaa04abbf28919145782833
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a03d31d91e95c6b711505cf7ee0a5fcbcae9c40326c7891d7844ffd15b0b2c4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:44Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 276/2011
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 18, de 26 de Janeiro de 2011, o despacho n.º 1938/2011, rectifico que onde se lê «Mércia Maria Diogo Costa Carneiro assistente técnica do mapa de pessoal da Direcção Regional de Cultura do Algarve, autorizada a concessão da licença sem vencimento, com duração de 24 dias, repartido por dois períodos de 14 a 15 de Março de 2011 e de 17 a 27 de Maio de 2011» deve ler-se «Mércia Maria Diogo Costa Carneiro assistente técnica do mapa de pessoal da Direcção Regional de Cultura do Algarve, autorizada a concessão da licença sem vencimento, com duração de 24 dias, repartido por dois períodos de 14 a 25 de Março de 2011 e de 16 a 27 de Maio de 2011».
 
 31 de Janeiro de 2011. - A Directora Regional, Dália Paulo.
+
+204286515

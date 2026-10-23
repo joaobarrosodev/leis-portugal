@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/091b00/38503851.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/401/2002/04/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-2002-291815
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-09-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92e5da4d5a67d7c7ce23f56220b6a9b1cd72a04c76c6b3a1230a0ca3f21639fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ba8a9710f8814d1cfb85e718a756d05b3eb4708ebe5ab548353b4a47e665213d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -81,16 +81,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/897/1995/07/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/897/1995/07/17/p/dre
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621169:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:452218:por
+  label: "Revogada, a partir de 29.09.2008, pela PORT.1083/2008.24.09.2008.MAOTDR, DR.IS [185] de 24.09.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1083-2008-452218
+  date: '2008-09-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:00Z'
   warnings: []
   errors: []
 ---
@@ -123,7 +140,7 @@ c) Entidade que proferir o respectivo parecer: pareceres previstos no n.º 4 do 
 
 Em 11 de Março de 2002.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz. - Pelo Ministro do Ambiente e do Ordenamento do Território, Rui Nobre Gonçalves, Secretário de Estado do Ambiente.**
+O Ministro da Economia, Luís Garcia Braga da Cruz. - Pelo Ministro do Ambiente e do Ordenamento do Território, Rui Nobre Gonçalves, Secretário de Estado do Ambiente.
 
 ## ANEXO — Massas minerais - Pedreiras ([Decreto-Lei n.º 270/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-2001-621169), de 6 de Outubro)
 

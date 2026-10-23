@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/04/066000000/0003300036.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/274-2023-211312024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: deadd46413ffca1c6d4a960ce939b60e4711c8bdcddf29b7efc2df7fbd914c0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bc547f809e12060b8952ad04ffdf2dfae7384b120ea70e82efba6450835440f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177309293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:206678845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491439:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:69920317:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:56Z'
   warnings: []
   errors: []
 ---
@@ -279,3 +307,5 @@ Preenchem as vagas em aberto na especialidade PA transferidas transitoriamente d
 4 - As presentes promoções são efetuadas observando o efetivo autorizado pelo [Decreto-Lei n.º 6/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2022-177309293), de 7 de janeiro, e consequente distribuição, por categorias e postos, dos efetivos dos quadros especiais dos quadros permanentes da Força Aérea, conforme Despacho do CEMFA n.º 59/2022, de 6 de maio, e após obtido o despacho prévio favorável previsto no n.º 1 do artigo 152.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, do Ministro das Finanças, nos termos do Despacho n.º 127/2022/MF, de 28 de abril de 2022, e da subsequente concordância da Ministra da Defesa Nacional, comunicada através de ofício n.º 1852/CG, de 4 de maio de 2022, do Gabinete da Ministra da Defesa Nacional.
 
 3 de outubro de 2022. - O Chefe do Estado-Maior da Força Aérea, João Cartaxo Alves, General.
+
+316328112

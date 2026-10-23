@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/155/2003/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/155-2003-197549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9c1dc9493938c4dfb9fdf6cfc15b5fe5f1d2fe9fb8b10e3f317fd16e64c2b634
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9eca6cb6c500973ba8c664486c92cfa17534cb3bea09a026c10070b672cad826
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Apoio ao Investimento
 - Aquisição de Equipamento
 - Direcção Geral das Pescas e Aquicultura
-- Apoio ao Investimento
+- Intervenção Operacional Pescas
 - QCA III
 - Regime de Apoio
 - Regime de Apoio à Modernização dos Equipamentos dos Portos de Pesca
-- Intervenção Operacional Pescas
 - Regulamento
 relationships:
 - type: cites
@@ -88,16 +88,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-e/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-e/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:163806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622308:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:30Z'
   warnings: []
   errors: []
 ---
@@ -130,7 +142,9 @@ d) A execução do projecto não ter sido iniciada antes da apresentação da ca
 
 ...
 
-###### Artigo 11.º — Despesas elegíveis
+Artigo 11.º
+
+Despesas elegíveis
 
 Para efeitos de concessão de apoio financeiro, são elegíveis as seguintes despesas:
 
@@ -138,7 +152,9 @@ Para efeitos de concessão de apoio financeiro, são elegíveis as seguintes des
 
 q) Despesas gerais de investimento, nomeadamente com imprevistos, acréscimos de preços, estudos económicos e de impacte ambiental e os custos associados às garantias prestadas por bancos ou outras instituições financeiras exigidas no âmbito da execução do projecto, até ao limite máximo de 12% das despesas elegíveis previstas nas alíneas anteriores.
 
-###### Artigo 12.º — Despesas não elegíveis
+Artigo 12.º
+
+Despesas não elegíveis
 
 Não são elegíveis, para efeitos de concessão de apoio, as seguintes despesas:
 
@@ -148,19 +164,25 @@ g) Aquisição de equipamentos móveis de comunicações, material e mobiliário
 
 ...
 
-###### Artigo 13.º — Natureza e montantes dos apoios
+Artigo 13.º
+
+Natureza e montantes dos apoios
 
 ...
 
 4 - O subsídio reembolsável assume a forma de empréstimo à taxa de juro zero, amortizável no prazo máximo de cinco anos, sendo de dois anos o período de carência e de três anos o período de reembolso, para os projectos de investimento de montante superior a (euro) 50000. Para os projectos de investimento de montante igual ou inferior a (euro) 50000 o prazo é de três anos, sendo de um ano o período de carência e de dois anos o período de reembolso.
 
-###### Artigo 15.º — Apreciação e decisão
+Artigo 15.º
+
+Apreciação e decisão
 
 ...
 
 4 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 16.º — Atribuição dos apoios
+Artigo 16.º
+
+Atribuição dos apoios
 
 ...
 
@@ -168,7 +190,9 @@ g) Aquisição de equipamentos móveis de comunicações, material e mobiliário
 
 ...
 
-## ANEXO I — (a que se refere o artigo 5.º)
+ANEXO I
+
+(a que se refere o artigo 5.º)
 
 Demonstração de situação financeira equilibrada
 
@@ -200,4 +224,4 @@ Apreciação e decisão
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.

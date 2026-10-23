@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/147000000/0004100041.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/661-2022-186831444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b3a1986b433fbcc9e727a140b5d6ed89956abda11f785235ed2cb1308164d5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d1e6aa11a243f645f4e2bc5a0729bc61472cbd02be51a274c1c10e36d9bc3b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:56Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 No Aviso n.º 131288/2022, de 6 de julho, publicado no Diário da República, 2.ª série, n.º 129, de 6 de julho de 2022, nomeação do diretor do Agrupamento de Escolas D. Dinis, Lisboa, onde se lê «Diretor do Agrupamento de Escolas D. Dinis, Lisboa para o quadriénio de 2022/2026, com efeitos a partir da data da tomada de posse, 06 de junho de 2021» deve ler-se «Diretor do Agrupamento de Escolas D. Dinis, Lisboa, para o quadriénio de 2022/2026, com efeitos a partir da data da tomada de posse, 6 de junho de 2022».
 
 18-07-2022. - A Presidente do Conselho Geral, Maria de Lourdes Amaral de Matos Rosa.
+
+315555235

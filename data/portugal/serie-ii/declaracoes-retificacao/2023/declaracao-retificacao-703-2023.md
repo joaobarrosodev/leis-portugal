@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/09/182000000/0004800048.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/703-2023-221780131
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 14e536322db5334e390d7cbba0b659141359042a8e8962e917dd2f906186b41a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a650d6c1b1254a295aca2ed11734fca341e23fadc4499f512b7ce8c858fff460
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215527457:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:31Z'
   warnings: []
   errors: []
 ---
@@ -89,32 +97,34 @@ Onde se lê:
 
 «Comando Territorial de Évora
 
-|  |  |  |  |
+| Posto | Número<br>de matrícula | Nome |  |
 | --- | --- | --- | --- |
-| Posto | Número de matrícula | Nome | Nome |
-| Segundo-sargento... | 2120280 | Fábio André Tereso Salvador. | Fábio André Tereso Salvador. |
-| Guarda-Principal... | 2100914 | Filipe Alexandre Girão Lopes Vieira. | Filipe Alexandre Girão Lopes Vieira. |
-| Guarda-Principal... | 2120753 | Ricardo Miguel Ramirez Salvador. | Ricardo Miguel Ramirez Salvador. |
-| Guarda-Principal... | 2120774 | André Filipe Mocho Rocha. | André Filipe Mocho Rocha. |
-| Guarda-Principal... | 2120779 | Hugo José Roques Marono. | Hugo José Roques Marono. |
-| Guarda-Principal... | 2120815 | Joaquim Miguel Nobre da Rosa. | Joaquim Miguel Nobre da Rosa. |
-| Guarda-Principal... | 2120940 | Nuno Miguel Salsinha dos Reis. | Nuno Miguel Salsinha dos Reis. |
-| Guarda-Principal... | 2120977 | André Filipe Simões Serrador. | André Filipe Simões Serrador. |
+|  |  |  |  |
+| Segundo-sargento... | 2120280 | Fábio André Tereso Salvador. |  |
+| Guarda-Principal... | 2100914 | Filipe Alexandre Girão Lopes Vieira. |  |
+| Guarda-Principal... | 2120753 | Ricardo Miguel Ramirez Salvador. |  |
+| Guarda-Principal... | 2120774 | André Filipe Mocho Rocha. |  |
+| Guarda-Principal... | 2120779 | Hugo José Roques Marono. |  |
+| Guarda-Principal... | 2120815 | Joaquim Miguel Nobre da Rosa. |  |
+| Guarda-Principal... | 2120940 | Nuno Miguel Salsinha dos Reis. |  |
+| Guarda-Principal... | 2120977 | André Filipe Simões Serrador. |  |
 | Guarda... | 2120930 | Diogo Manuel Saramago do Rosário Carrajana Cartaxo. | » |
 
 deve ler-se:
 
 «Comando Territorial de Évora
 
-|  |  |  |  |
+| Posto | Número<br>de matrícula | Nome |  |
 | --- | --- | --- | --- |
-| Posto | Número de matrícula | Nome | Nome |
-| Guarda-Principal... | 2120753 | Ricardo Miguel Ramirez Salvador. | Ricardo Miguel Ramirez Salvador. |
-| Guarda-Principal... | 2120774 | André Filipe Mocho Rocha. | André Filipe Mocho Rocha. |
-| Guarda-Principal... | 2120779 | Hugo José Roques Marono. | Hugo José Roques Marono. |
-| Guarda-Principal... | 2120815 | Joaquim Miguel Nobre da Rosa. | Joaquim Miguel Nobre da Rosa. |
-| Guarda-Principal... | 2120940 | Nuno Miguel Salsinha dos Reis. | Nuno Miguel Salsinha dos Reis. |
-| Guarda-Principal... | 2120977 | André Filipe Simões Serrador. | André Filipe Simões Serrador. |
+|  |  |  |  |
+| Guarda-Principal... | 2120753 | Ricardo Miguel Ramirez Salvador. |  |
+| Guarda-Principal... | 2120774 | André Filipe Mocho Rocha. |  |
+| Guarda-Principal... | 2120779 | Hugo José Roques Marono. |  |
+| Guarda-Principal... | 2120815 | Joaquim Miguel Nobre da Rosa. |  |
+| Guarda-Principal... | 2120940 | Nuno Miguel Salsinha dos Reis. |  |
+| Guarda-Principal... | 2120977 | André Filipe Simões Serrador. |  |
 | Guarda... | 2120930 | Diogo Manuel Saramago do Rosário Carrajana Cartaxo. | » |
 
 4 de setembro de 2023. - O Diretor de Justiça e Disciplina, Manuel Augusto Silva Caldeira, Coronel.
+
+316825591

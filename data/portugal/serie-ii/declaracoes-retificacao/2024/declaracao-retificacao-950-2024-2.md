@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/220000000/0008000080.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/950-2024-896447278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e9fcbd065a4e496e27295e10e266760d1f376fc063caba35d51826baaa08421
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c3512131039474121249a08cf8633b15059e4d3a105601b5eaa405ad948ad3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,27 +69,29 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:51Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 950/2024/2
 
-Por ter sido publicado com inexatidão o Despacho n.º 9483/2024, no Diário da República, 2.ª série, n.º 160, de 20 de agosto de 2024, retifica-se o seguinte:
+Por ter sido publicado com inexatidão oDespacho n.º 9483/2024, no Diário da República, 2.ª série, n.º 160, de 20 de agosto de 2024, retifica-se oseguinte:
 
 Onde se lê:
 
-«2 - O presente despacho produz efeitos a 15 de setembro de 2024.»
+«2 - Opresente despacho produz efeitos a15 de setembro de 2024.»
 
 deve ler-se:
 
-«2 - O presente despacho produz efeitos a 17 de outubro de 2024.»
+«2 - Opresente despacho produz efeitos a17 de outubro de 2024.»
 
 7 de novembro de 2024. - O Secretário-Geral, Francisco Ribeiro Telles.
+
+318324658

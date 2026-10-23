@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/559/2003/07/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/559-2003-671220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 55425823a082778de9697b0309fa34f15075804869e0b72e66e35df0fa418b37
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e53f99c80bd58eeb82219cecf7c198bf2427d81be65604c70b3d55027a7cde0a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,16 +111,64 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/917/1994/10/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/917/1994/10/14/p/dre
+- type: cites
+  target: pt:dre:156389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233103:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521598:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618569:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694212:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:56Z'
   warnings: []
   errors: []
 ---
@@ -145,12 +193,12 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Saúde, o seguin
 
 2.º Ao quadro de pessoal do Hospital de São José, aprovado pelo anexo I da [Portaria n.º 598/93](https://diariodarepublica.pt/dr/detalhe/portaria/598-1993-267668), de 23 de Junho, posteriormente alterado pelas Portarias n.os [71/94](https://diariodarepublica.pt/dr/detalhe/portaria/71-1994-500197), de 2 de Fevereiro, [565/96](https://diariodarepublica.pt/dr/detalhe/portaria/565-1996-233103), de 9 de Outubro, [728/96](https://diariodarepublica.pt/dr/detalhe/portaria/728-1996-187310), de 11 de Dezembro, [438/97](https://diariodarepublica.pt/dr/detalhe/portaria/438-1997-156389), de 3 de Julho, [1041/97](https://diariodarepublica.pt/dr/detalhe/portaria/1041-1997-663967), de 6 de Outubro, [1183/97](https://diariodarepublica.pt/dr/detalhe/portaria/1183-1997-694212), de 20 de Novembro, e [1374/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1374-2002-432183), de 22 de Outubro, é acrescido o lugar constante do anexo à presente portaria, da qual faz parte integrante.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 11 de Junho de 2003. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde, em 10 de Fevereiro de 2003.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 11 de Junho de 2003. - Pelo Ministro da Saúde, Adão José Fonseca Silva, Secretário de Estado Adjunto do Ministro da Saúde, em 10 de Fevereiro de 2003.
 
 ## ANEXO — Quadro de pessoal do Centro Psiquiátrico de Recuperação de Arnes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/162b00/40204020.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/162b00/40204020.pdf)](https://files.diariodarepublica.pt/1s/2003/07/162b00/40204020.pdf)
 
 Quadro de pessoal do Hospital de São José
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/162b00/40204020.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/07/162b00/40204020.pdf)](https://files.diariodarepublica.pt/1s/2003/07/162b00/40204020.pdf)

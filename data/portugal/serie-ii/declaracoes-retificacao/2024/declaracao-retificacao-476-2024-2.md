@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/132000000/0005600056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/476-2024-871394932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9cd26dc52f0fdbfbd7555bd57fc7364dd812005fea7efca2f78b2b45ddc3991e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46ffb427b68929413cbf3863aa891575725c701f3085a18b8c88ee3692249738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:544376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864529160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:04Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +95,12 @@ Tendo sido publicado com inexatidão o [Despacho n.º 5233/2024](https://diariod
 
 Onde se lê:
 
-"1 - Ao abrigo do disposto na alínea b) do n.º 1 do artigo 3.º, nos n.<sup>os</sup>1, 2, e 3 do artigo 11.º e no artigo 12.º, todos do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo para exercer as funções de adjunto do meu Gabinete o licenciado Hugo Miguel Ferreira da Cruz."
+"1 - Ao abrigo do disposto na alínea b) do n.º 1 do artigo 3.º, nos n.os1, 2, e 3 do artigo 11.º e no artigo 12.º, todos do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo para exercer as funções de adjunto do meu Gabinete o licenciado Hugo Miguel Ferreira da Cruz."
 
 deve ler-se:
 
-"1 - Ao abrigo do disposto na alínea b) do n.º 1 do artigo 3.º, nos n.<sup>os</sup>1, 2, e 3 do artigo 11.º e no artigo 12.º, considerando o determinado pela alínea a) do n.º 4 do artigo 13.º e nos termos do n.º 4 do artigo 5.º, todos do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo para exercer as funções de adjunto do meu Gabinete o licenciado Hugo Miguel Ferreira da Cruz, que substitui o chefe do Gabinete nas suas ausências e impedimentos."
+"1 - Ao abrigo do disposto na alínea b) do n.º 1 do artigo 3.º, nos n.os1, 2, e 3 do artigo 11.º e no artigo 12.º, considerando o determinado pela alínea a) do n.º 4 do artigo 13.º e nos termos do n.º 4 do artigo 5.º, todos do [Decreto-Lei n.º 11/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2012-544376), de 20 de janeiro, designo para exercer as funções de adjunto do meu Gabinete o licenciado Hugo Miguel Ferreira da Cruz, que substitui o chefe do Gabinete nas suas ausências e impedimentos."
 
 19 de junho de 2024. - O Secretário de Estado da Proteção Civil, Paulo Jorge Simões Ribeiro.
+
+317817574

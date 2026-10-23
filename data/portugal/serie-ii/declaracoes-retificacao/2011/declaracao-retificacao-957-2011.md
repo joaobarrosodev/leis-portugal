@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/109000000/2424524245.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/957-2011-2998459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ad8bcec009f9172227ae27b2589a281ba463e2c08e8e7065cd6c6246ab835d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f2f8978bde4239e4a3b16edb4723d8f1ed179665f59aa3b9edb6febf8703359
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:49Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 957/2011
+# Declaração de rectificação n.º 957/2011
 
 Por ter saído com inexactidão o aviso n.º 11801/2011, respeitante ao procedimento concursal para a carreira e categoria de assistente operacional do mapa de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., publicado no Diário da República, 2.ª série, n.º 104, de 30 de Maio de 2011, rectifica-se que onde se lê:
 
@@ -105,3 +109,5 @@ E onde se lê, no anexo n.º 1, no número total de postos a concurso, «148» d
 Face ao que antecede, o prazo de abertura do procedimento concursal a que respeita a presente declaração rectificativa começa a contar no dia seguinte à sua publicação.
 
 30 de Maio de 2011. - O Vogal do Conselho Directivo, Pedro Emanuel Ventura Alexandre.
+
+203545884

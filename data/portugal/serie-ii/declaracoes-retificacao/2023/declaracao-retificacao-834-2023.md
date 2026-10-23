@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/11/212000000/0021500219.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/834-2023-223651572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c71c083fbca4733e125f2ff3c24070c8bc6ee1cf638381411f26fedc89edc4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ec52466029988c68beede27af62ab9667487d2e598235f73df8f0c467a449e50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216597129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:18Z'
   warnings: []
   errors: []
 ---
@@ -160,7 +172,7 @@ Onde se lê:
 
 «Artigo 13.º
 
-## Título de estacionamento
+Título de estacionamento
 
 1 - As ZET serão providas de equipamentos, que fornecerão aos utentes o respetivo título de estacionamento, mediante pagamento da taxa respetiva, o qual será colocado no interior do para-brisas dianteiro de forma bem visível, o qual com o rosto voltado para o exterior, de forma a que, todas as menções dele constante sejam visíveis e legíveis do exterior.»
 
@@ -172,7 +184,7 @@ deve ler-se:
 
 «Artigo 13.º
 
-## Título de estacionamento
+Título de estacionamento
 
 1 - As ZET serão providas de equipamentos, que fornecerão aos utentes o respetivo título de estacionamento, mediante pagamento da tarifa respetiva, o qual será colocado no interior do para-brisas dianteiro de forma bem visível, o qual com o rosto voltado para o exterior, de forma a que, todas as menções dele constante sejam visíveis e legíveis do exterior.»
 
@@ -216,7 +228,8 @@ Tarifário
 
 (a que se refere o artigo 8.º do Regulamento)
 
-![](https://files.diariodarepublica.pt/images/223651572/223651731.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/223651572/223651731.png) |
+| --- |
 
 deve ler-se:
 
@@ -226,24 +239,26 @@ Tarifário
 
 (a que se refere o artigo 8.º do Regulamento)
 
-|  |  |  |
+| Período de utilização | Tarifa<br>(c/IVA incluído) |  |
 | --- | --- | --- |
-| Período de utilização | Tarifa (c/IVA incluído) | Tarifa (c/IVA incluído) |
-| (igual ou menor que) 00:15... | 0,25 (euro) | 0,25 (euro) |
-| (maior que) 00:15 e (igual ou menor que) 00:30... | 0,45 (euro) | 0,45 (euro) |
-| (maior que) 00:30 e (igual ou menor que) 00:45... | 0,60 (euro) | 0,60 (euro) |
-| (maior que) 00:45 e (igual ou menor que) 01:00... | 0,70 (euro) | 0,70 (euro) |
-| (maior que) 01:00 e (igual ou menor que) 01:15... | 0,90 (euro) | 0,90 (euro) |
-| (maior que) 01:15 e (igual ou menor que) 01:30... | 1,15 (euro) | 1,15 (euro) |
-| (maior que) 01:30 e (igual ou menor que) 01:45... | 1,40 (euro) | 1,40 (euro) |
-| (maior que) 01:45 e (igual ou menor que) 02:00... | 1,65 (euro) | 1,65 (euro) |
-| (maior que) 02:00 e (igual ou menor que) 02:15... | 1,90 (euro) | 1,90 (euro) |
-| (maior que) 02:15 e (igual ou menor que) 02:30... | 2,20 (euro) | 2,20 (euro) |
-| (maior que) 02:30 e (igual ou menor que) 02:45... | 2,50 (euro) | 2,50 (euro) |
-| (maior que) 02:45 e (igual ou menor que) 03:00... | 2,80 (euro) | 2,80 (euro) |
-| (maior que) 03:00 e (igual ou menor que) 03:15... | 3,10 (euro) | 3,10 (euro) |
-| (maior que) 03:15 e (igual ou menor que) 03:30... | 3,50 (euro) | 3,50 (euro) |
-| (maior que) 03:30 e (igual ou menor que) 03:45... | 3,95 (euro) | 3,95 (euro) |
+|  |  |  |
+| (igual ou menor que) 00:15... | 0,25 (euro) |  |
+| (maior que) 00:15 e (igual ou menor que) 00:30... | 0,45 (euro) |  |
+| (maior que) 00:30 e (igual ou menor que) 00:45... | 0,60 (euro) |  |
+| (maior que) 00:45 e (igual ou menor que) 01:00... | 0,70 (euro) |  |
+| (maior que) 01:00 e (igual ou menor que) 01:15... | 0,90 (euro) |  |
+| (maior que) 01:15 e (igual ou menor que) 01:30... | 1,15 (euro) |  |
+| (maior que) 01:30 e (igual ou menor que) 01:45... | 1,40 (euro) |  |
+| (maior que) 01:45 e (igual ou menor que) 02:00... | 1,65 (euro) |  |
+| (maior que) 02:00 e (igual ou menor que) 02:15... | 1,90 (euro) |  |
+| (maior que) 02:15 e (igual ou menor que) 02:30... | 2,20 (euro) |  |
+| (maior que) 02:30 e (igual ou menor que) 02:45... | 2,50 (euro) |  |
+| (maior que) 02:45 e (igual ou menor que) 03:00... | 2,80 (euro) |  |
+| (maior que) 03:00 e (igual ou menor que) 03:15... | 3,10 (euro) |  |
+| (maior que) 03:15 e (igual ou menor que) 03:30... | 3,50 (euro) |  |
+| (maior que) 03:30 e (igual ou menor que) 03:45... | 3,95 (euro) |  |
 | (maior que) 03:45 e (igual ou menor que) 04:00... | 4,45 (euro) | » |
 
 4 de outubro de 2023. - O Presidente da Câmara Municipal, Vítor Manuel Pinheiro Pereira.
+
+316946192

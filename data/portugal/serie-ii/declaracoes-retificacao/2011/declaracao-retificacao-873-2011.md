@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/097000000/2183321833.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/873-2011-1472509
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18bef6828472db0474bf139b430640fbde26cf4e3aa84da490ed6d6354001ddf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d26d1a60a3f7f4fb9744a308f8af3e19a4a2af07464418dad0218411e775db58
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:18Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +93,5 @@ No corpo do artigo 37.º, «Sector de contadores e instalações», onde se lê 
 No corpo do artigo 47.º, «Sector de salubridade pública», onde se lê «d) Fiscalizar a descarga» deve ler-se «e) Fiscalizar a descarga» onde se lê «e) Assegurar a manutenção» deve ler-se «f) Assegurar a manutenção».
 
 10 de Maio de 2011. - O Presidente do Conselho de Administração, Francisco Vale Antunes.
+
+204677073

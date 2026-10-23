@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/497/2003/06/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-2003-692440
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-06-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc8a75351b825be27a2a7ad6d0ea3bc2f4c5fc4bfaf90cfc64e99946d7ea4f39
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e897b8b48bdb4116fb8d31e1fa351d0760fbee923f04b11927783bd0cfd8d0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aquisição de Equipamento
-- Financiamento
-- Timor Leste
 - DILI
 - Empreitada de Obras Públicas
 - Ensino Português no Estrangeiro
-- Fiscalização
-- Estabelecimento de Ensino
-- Instituto Português de Apoio ao Desenvolvimento
 - Escola Portuguesa de Díli
+- Estabelecimento de Ensino
+- Financiamento
+- Fiscalização
+- Instituto Português de Apoio ao Desenvolvimento
+- Timor Leste
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
@@ -89,16 +89,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:233303:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:34Z'
   warnings: []
   errors: []
 ---
@@ -159,4 +171,4 @@ c) Apetrechar as instalações.
 
 Em 2 de Maio de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz. - O Ministro da Educação, José David Gomes Justino.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas, António Manuel de Mendonça Martins da Cruz. - O Ministro da Educação, José David Gomes Justino.

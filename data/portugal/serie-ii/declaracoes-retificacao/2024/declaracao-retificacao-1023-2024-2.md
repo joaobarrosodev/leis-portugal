@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/231000000/0008200084.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1023-2024-898201731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5693ad9f21b8fc74cf8aaa68774cef6d1b478b618ed96a016d7e49ddd98a7c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a118c440318858417f2266d81f7e42dcc32020336461801c6503933772657f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:534640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67348942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:70832992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:895967306:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:14Z'
   warnings: []
   errors: []
 ---
@@ -154,9 +170,9 @@ No Anexo A, onde se lê:
 
 deve ler-se:
 
-| « |  | Documentos* | Candidatos civis | Candidatos militares |  |
+| « |  | Documentos* | Candidatos<br>civis | Candidatos militares |  |
 | --- | --- | --- | --- | --- | --- |
-|  | 11. | Exclusivamente para candidatos à especialidade de PSI:Cédula profissional atualizada emitida pela Ordem dos Psicólogos Portugueses, onde conste a qualidade de membro efetivo. | X | Candidatos militares da Marinha e Exército e candidatos da Força Aérea de outra especialidade. |  |
+|  | 11. | Exclusivamente para candidatos à especialidade de PSI:Cédula profissional atualizada emitida pela Ordem dos Psicólogos Portugueses, onde conste a qualidade de membro efetivo. | X | Candidatos militares da Marinha e Exército e candidatos da Força Aérea de outra<br>especialidade. |  |
 |  | 12. | Exclusivamente para candidatos à especialidade de MED:a) Cédula profissional atualizada e emitida pela Ordem dos Médicos;b) Documento comprovativo da autonomia para o exercício da Medicina reconhecida pela Ordem dos Médicos.c) Cópia da página da lista de classificação definitiva da Prova Nacional de Acesso ou Prova Nacional de Seriação, onde conste a nota do candidato. | X | X |  |
 |  | 13. | Para candidatos na efetividade de serviço da Força Aérea, com exceção dos militares colocados no Comando Operacional dos Açores, Comando Operacional da Madeira, Estação de Radar n.º 4 e em diligência no Aeródromo de Manobra n.º 3, documento comprovativo da aptidão, sem restrições, nos TCACF, até à data de início das PAC |  | Candidatos militares da Força Aérea | » |
 
@@ -171,3 +187,5 @@ deve ler-se:
 «9 - Os candidatos militares da Força Aérea só podem realizar as PACF mediante aptidão médica válida registada no Sistema Integrado de Apoio à Gestão da Força Aérea (SIAGFA).»
 
 19 de novembro de 2024. - O Chefe do Estado-Maior da Força Aérea, João Guilherme Rosado Cartaxo Alves, General.
+
+318387069

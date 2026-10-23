@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/110000000/0011200112.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/426-2023-214118822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32d7a1657657899282613e09ba5d868decf28cef29cdd29394a67d9a12dc1b03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a10c614131602014eaeaf551fab6ec1e0e7f0b03d2d8efa959689d3e8e54d446
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:51Z'
   warnings: []
   errors: []
 ---
@@ -103,3 +103,5 @@ deve ler-se:
 «1 - Fica a Administração Regional de Saúde do Norte, I. P., autorizada a proceder à repartição de encargos, até ao montante máximo global de 289 170,00 (euro) (duzentos e oitenta e nove mil, cento e setenta euros), aos quais acresce IVA às taxas legais em vigor, para a execução do procedimento no âmbito projeto integrado na submedida i1.04 - Alargar as Consultas do Pé Diabético nos ACES - que se inclui no investimento C01-i01 - Cuidados de saúde primários com mais respostas, enquadrado na Componente 1 do PRR, que respeita à Criação de 42 gabinetes em 21 ACES para consulta do Pé Diabético.»
 
 26 de maio de 2023. - A Secretária-Geral do Ministério da Saúde, Ana Pedroso.
+
+316516981

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/109/2004/01/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/109-2004-589694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dd4908f7b4d11d4300e9382fdb17477276c954d2fbc8fe576a3cabc622758fc6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49d7036ee29f910df54bdce2c293416ddcaf4dae6d0ebcd4a829ad1ce527d6b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Empresa
 - Administração Pública
-- Fiscalização
 - Desenvolvimento Económico
+- Empresa
+- Financiamento
+- Fiscalização
 - Política Económica
+- Programa Operacional da Economia
 - Regulamento
 - Regulamento Geral para as Parcerias e Iniciativas Públicas
-- Programa Operacional da Economia
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
@@ -92,16 +92,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/97/2002/01/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/97/2002/01/31/p/dre
+- type: cites
+  target: pt:dre:276429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527224:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:18Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +144,4 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Economia, que a 
 
 Em 31 de Dezembro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.

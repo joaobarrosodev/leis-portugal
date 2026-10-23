@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/098000000/2205622056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/881-2011-2056756
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9fd45a02ca38ec8349fce2348de27b24d794e259662ff3f14b5891cef4ed3a01
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0979f850a811243e52528ef9b7922af431bb915491ecab66bb58cfa2bdc2b5df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:20Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de rectificação n.º 881/2011
 Para os devidos e legais efeitos se declara que no aviso (extracto) n.º 8627/2011, publicado na 2.ª série do Diário da República, n.º 69, de 7 de Abril de 2011, por lapso, consta «com a remuneração de 892,53 (euro), correspondente à 4ª posição remuneratória e ao nível remuneratório 9 da tabela única» quando na realidade deve ler-se «com a remuneração de 837,60 (euro), correspondente à 3.ª posição remuneratória e ao nível remuneratório 8 da tabela única».
 
 10 de Maio de 2011. - A Presidente da Junta, Ana Maria Almeida Oliveira Sampaio.
+
+304664656

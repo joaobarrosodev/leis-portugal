@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/034000000/0072500725.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/181-2025-907763797
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 52ec6028d2d58ebe22d080db79c5ab3b3e224e1ca0784cce7c704b425a162509
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f18f7fcab475ba19d6d1572fd82a06a4e836dc8887ec962f233d2e34957c20ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489486:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:876112010:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:42Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +112,8 @@ a) Ref.ª 1 - Assistente Operacional - 8 lugares;
 
 b) Ref.ª 2 - Assistente Operacional/Secretaria - 2 lugares.
 
-Reserva de recrutamento para a Ref.ª 2 - Assistente Operacional/Secretaria: caso se verifique a previsão dos n.<sup>os</sup>5 e 6 do artigo 25.º da Portaria n.º 233/2022, de 9 de setembro, é constituída reserva de recrutamento interna pelo prazo de 18 (dezoito) meses contados da data de homologação da lista de ordenação final, a ser utilizada quando, nesse período, haja necessidade de ocupação de idênticos postos de trabalho, a constituir por contrato de trabalho em funções públicas por tempo indeterminado.»
+Reserva de recrutamento para a Ref.ª 2 - Assistente Operacional/Secretaria: caso se verifique a previsão dos n.os5 e 6 do artigo 25.º da Portaria n.º 233/2022, de 9 de setembro, é constituída reserva de recrutamento interna pelo prazo de 18 (dezoito) meses contados da data de homologação da lista de ordenação final, a ser utilizada quando, nesse período, haja necessidade de ocupação de idênticos postos de trabalho, a constituir por contrato de trabalho em funções públicas por tempo indeterminado.»
 
 13 de janeiro de 2025. - O Presidente, Carlos Manuel Alves Gonçalves.
+
+318670852

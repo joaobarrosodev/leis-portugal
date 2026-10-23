@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/12/245000000/0007600078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/948-2023-808199557
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69a4763e214b59bab8b018609073906b73237674a519ec643597621ef465abbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0e99e281baff7a7d0dd1589b95aa6dae927110a37c18080580f29b58557852d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:211313280:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:58Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Por ter saído com inexatidão a [Deliberação (extrato) n.º 366/2023](https:/
 
 A pp. 147 e 148, onde se lê:
 
-|  |  |  |  |  |  |  |  |  |
+| N.º | Nome | Naturalidade | Data<br>de nascimento | Tempo de serviço<br>na categoria | Situação atual | 1.ª colocação |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N.º | Nome | Naturalidade | Data de nascimento | Tempo de serviço na categoria | Tempo de serviço na categoria | Tempo de serviço na categoria | Situação atual | 1.ª colocação |
+|  |  |  |  |  |  |  |  |  |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 | 1223 | SOFIA DIAS DA SILVA | SANTO TIRSO | 23/06/1989 | 4 | 5 | 20 | Lisboa Oeste - Sintra - Local Criminal | 16/07/2018 |
 | 1224 | INÊS ALEXANDRA GOMES VÁRZEAS CASTELA CANILHO | COIMBRA | 20/09/1980 | 4 | 5 | 20 | Castelo Branco - Castelo Branco - Local Cível | 16/07/2018 |
@@ -123,9 +127,9 @@ A pp. 147 e 148, onde se lê:
 
 deve ler-se:
 
-|  |  |  |  |  |  |  |  |  |
+| N.º | Nome | Naturalidade | Data<br>de nascimento | Tempo de serviço<br>na categoria | Situação atual | 1.ª colocação |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| N.º | Nome | Naturalidade | Data de nascimento | Tempo de serviço na categoria | Tempo de serviço na categoria | Tempo de serviço na categoria | Situação atual | 1.ª colocação |
+|  |  |  |  |  |  |  |  |  |
 | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 | 1223 | SOFIA DIAS DA SILVA | SANTO TIRSO | 23/06/1989 | 4 | 5 | 20 | Lisboa Oeste - Sintra - Local Criminal | 16/07/2018 |
 | 1224 | PAULO LUÍS RODRIGUES MOTA | BARREIRO | 03/09/1972 | 4 | 5 | 20 | Lisboa - Barreiro/Moita - Local Cível | 16/07/2018 |
@@ -158,3 +162,5 @@ deve ler-se:
 | 1251 | SUSANA ALHEIRO DE CAMPOS | VILA DO CONDE | 16/08/1987 | 3 | 5 | 20 | Santarém - Abrantes | 16/07/2019 |
 
 23 de novembro de 2023. - A Secretária-Geral da Procuradoria-Geral da República, Cristina Vicente.
+
+317144844

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350/2003/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-2003-571673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f630e2c70601832cc85ca5e9492d5c1fda5498bb7503164c2fe0fbc61c13117
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cc776ba37b6a0b82ef1463d741653569d4051d4fdbc1ebd4ad763e05c3d3f08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
+- Ensino Superior
+- Escola Superior de Tecnologias Militares e Aeronáuticas
+- Militar
 - Ministério da Defesa Nacional
 - Plano de Estudos
-- Escola Superior de Tecnologias Militares e Aeronáuticas
-- Ensino Superior
-- Militar
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/decregul/32/1997/09/06/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1184/2001/10/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1184/2001/10/15/p/dre
+- type: cites
+  target: pt:dre:621530:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642881:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:43Z'
   warnings: []
   errors: []
 ---
@@ -124,7 +132,7 @@ Curso de Navegador
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO II — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -132,7 +140,7 @@ Curso de Polícia Aérea
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO III — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -140,7 +148,7 @@ Curso de Técnico de Abastecimento
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO IV — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -148,7 +156,7 @@ Curso de Técnico de Informática
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO V — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -156,7 +164,7 @@ Curso de Técnico de Manutenção de Armamento e Equipamento
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO VI — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -164,7 +172,7 @@ Curso de Técnico de Manutenção de Material Aéreo
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO VII — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -172,7 +180,7 @@ Curso de Técnico de Manutenção de Material Electrotécnico
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO VIII — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -180,7 +188,7 @@ Curso de Técnico de Manutenção de Material Terrestre
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO IX — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -188,7 +196,7 @@ Curso de Técnico de Operações de Circulação Aérea e Radar de Tráfego
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO X — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -196,7 +204,7 @@ Curso de Técnico de Operações de Comunicações e Criptografia
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO XI — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -204,7 +212,7 @@ Curso de Técnico de Operações de Detecção e Conduta de Intercepção
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO XII — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -212,7 +220,7 @@ Curso de Técnico de Operações de Meteorologia
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
 
 ## ANEXO XIII — Escola Superior de Tecnologias Militares Aeronáuticas
 
@@ -220,4 +228,4 @@ Curso de Técnico de Pessoal de Apoio Administrativo
 
 Plano de estudos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)
+[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)](https://files.diariodarepublica.pt/1s/2003/05/101b00/28542866.pdf)

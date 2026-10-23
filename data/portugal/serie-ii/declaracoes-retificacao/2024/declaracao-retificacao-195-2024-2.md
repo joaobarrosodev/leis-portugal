@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:855804404:por
 title: Declaração de Retificação n.º 195/2024/2
 short_title: null
-summary: Retifica o Despacho n.º 2362/2024, de 23 de fevereiro, publicado no <em>Diário da República</em>, 2.ª série, n.º
-  46, de 5 de março de 2024.
+summary: Retifica o Despacho n.º 2362/2024, de 23 de fevereiro, publicado no Diário da República, 2.ª série, n.º 46, de 5
+  de março de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/055000000/0011400115.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/195-2024-855804404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a297d0626c3c3101837011fb0b29f28eb9a0496176086a57ab40bb332fc6cd75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7bb9f2abbb39842f379fd158101bad581767e8ffaf6f879b3103eb7be0eafcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:234316:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:854129537:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:23Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 195/2024/2
 
-Verificando-se divergências entre o texto original e o texto do [Despacho n.º 2362/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2362-2024-854129537), de 23 de fevereiro, publicado no Diário da República, 2.ª série, n.º 46, de 5 de março de 2024, ao abrigo dos n.<sup>os</sup>1 e 5 do artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, na sua redação atual, procede-se à sua retificação, nos seguintes termos:
+Verificando-se divergências entre o texto original e o texto do [Despacho n.º 2362/2024](https://diariodarepublica.pt/dr/detalhe/despacho/2362-2024-854129537), de 23 de fevereiro, publicado no Diário da República, 2.ª série, n.º 46, de 5 de março de 2024, ao abrigo dos n.os1 e 5 do artigo 5.º da [Lei n.º 74/98](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), de 11 de novembro, na sua redação atual, procede-se à sua retificação, nos seguintes termos:
 
 No n.º 2, onde se lê:
 
@@ -124,3 +132,5 @@ g) Sara dos Santos Magalhães, diretora do Departamento de Gestão e Administra�
 h) Vítor Miguel Rodrigues Braz, Direção Executiva do Serviço Nacional de Saúde, I. P."
 
 7 de março de 2024. - A Secretária-Geral do Ministério da Saúde, Ana Pedroso.
+
+317452611

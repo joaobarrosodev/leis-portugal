@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 223/2004, 1º Suplemento, Série I-B de 2004-09-21
   number: '223'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6070-(2) a 6070-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/223b01/00020003.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1227-a/2004/09/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1227-a-2004-216715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d1bca4b79e3accd8829d68a3b2092dcb81c5df8b97426b2d4d10004e175823b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d78e6dc5ed9384898ecd410d9e544a2e822fbaf9353eee22115e60641d020066
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- DIA Europeu sem Carros
-- Veículo
-- Proteção do Ambiente
 - Câmara Municipal
+- DIA Europeu sem Carros
+- Proteção do Ambiente
 - Trânsito
+- Veículo
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/2/1998/01/03/p/dre
+- type: cites
+  target: pt:dre:223835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:08Z'
   warnings: []
   errors: []
 ---
@@ -254,4 +262,4 @@ Vila Real;
 
 Vila Real de Santo António.
 
-**O Ministro da Administração Interna, Daniel Viegas Sanches, em 14 de Setembro de 2004.**
+O Ministro da Administração Interna, Daniel Viegas Sanches, em 14 de Setembro de 2004.

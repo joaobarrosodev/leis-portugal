@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 135/2022, 1º Suplemento, Série II de 2022-07-14
   number: '135'
   series: II
-  supplement: 1º Suplemento
+  supplement: null
   pages: 401-(2) a 401-(11)
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/629-a-2022-186166497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2a07491123b135ca1512843f5fca795ac746d6e79c7fbf7d17a58562d03c618
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 859b4ad76e564f86c3ab5e88333c3cf4af2a2e7e692470749c390e3f04bead3e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- IRS
+- Ministério das Finanças
+- Rendimento
+- Tabela de Retenção
+- Trabalho
+relationships:
+- type: cites
+  target: pt:dre:186029195:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:46Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +104,7 @@ Trabalho dependente
 
 Não casado
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA II
 
@@ -103,7 +112,7 @@ Trabalho dependente
 
 Casado único titular
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA III
 
@@ -111,7 +120,7 @@ Trabalho dependente
 
 Casado dois titulares
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA IV
 
@@ -119,7 +128,7 @@ Trabalho dependente
 
 Não casado - Deficiente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA V
 
@@ -127,7 +136,7 @@ Trabalho dependente
 
 Casado único titular - Deficiente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA VI
 
@@ -135,13 +144,13 @@ Trabalho dependente
 
 Casado dois titulares - Deficiente
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA VII
 
 Pensões
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA VIII
 
@@ -149,7 +158,7 @@ Rendimentos de pensões
 
 Titulares deficientes
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
 
 TABELA IX
 
@@ -157,4 +166,6 @@ Rendimentos de pensões
 
 Titulares deficientes das Forças Armadas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf))](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/07/135000001/0000200011.pdf)
+
+315518048

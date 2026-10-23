@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/051b00/10951100.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/196/2004/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/196-2004-545846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-06-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3e3b951b09225b5ce1475b15812f7f2fad89ae3f039c340a7534595a6aa48d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c2cbc71c1b2ed8030a3d744e68806176b002c254125bc43d5cd6d94337be99f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Infarmed
 - Definição de Competências
-- Regulamento
+- Infarmed
 - Material Médico-Cirúrgico
+- Regulamento
 - Sistema Nacional de Vigilância de Dispositivos Médicos
 relationships:
 - type: amended_by
@@ -83,16 +83,21 @@ relationships:
   target: celex:31998L0079
   label: null
   source: http://data.europa.eu/eli/dir/1998/79/oj
+- type: repealed_by
+  target: pt:dre:494558:por
+  label: "Revogada, a partir de 21.03.2010, pelo DEC LEI.145/2009.17.06.2009.MS, DR.IS [115] de 17.06.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-2009-494558
+  date: '2009-06-17'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:48Z'
   warnings: []
   errors: []
 ---
@@ -141,7 +146,7 @@ Manda o Governo, pelos Ministros da Economia e da Saúde, o seguinte:
 
 Em 27 de Janeiro de 2004.
 
-**O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Saúde, Luís Filipe Pereira.**
+O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Saúde, Luís Filipe Pereira.
 
 ## ANEXO — REGULAMENTO DO SISTEMA NACIONAL DE VIGILÂNCIA DE DISPOSITIVOS MÉDICOS
 

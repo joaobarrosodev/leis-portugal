@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/504/2002/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/504-2002-364363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a7c8fa9a241cdd990b1fe9207262ad29a8468111d23badfa932f8c4ad8dad7f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2634123bc690e0142e4d6b0a5e6de12dd3b4a654cdccb5e69e262e46bbf73419
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/297/1991/08/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/297/1991/08/16/p/dre
+- type: cites
+  target: pt:dre:619948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674063:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:36Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +115,4 @@ Manda o Governo, pelo Ministro da Presidência e das Finanças, nos termos do di
 
 3.º Com a aprovação da conta final de liquidação, a posição do GAS nas acções judiciais pendentes é assumida pelo Estado, através da Direcção-Geral do Tesouro, não se suspendendo a instância, nem sendo necessária habilitação, salvaguardadas as situações já acauteladas pelo n.º 1 do artigo 3.º do [Decreto-Lei n.º 297/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1991-674063), de 16 de Agosto.
 
-**O Ministro da Presidência e das Finanças, Guilherme d'Oliveira Martins, em 26 de Março de 2002.**
+O Ministro da Presidência e das Finanças, Guilherme d'Oliveira Martins, em 26 de Março de 2002.

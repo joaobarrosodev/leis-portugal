@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/856/2002/07/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/856-2002-208779
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0bcd9fdb2b3995c651798b7264b188f0f2bf688e1ae0fb79cb238d84a73d14c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f541b017c25b9e515aa2d91445a72361194548431f1a7bd5c97964ee6eb487c7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,13 @@ relationships:
   target: pt:dre:540595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:540595:por
+  label: "Anexados vários rústicos e renovada por um período de 6 anos, com efeitos a partir de 15.08.2006, a concessão da\
+    \ zona de caça criada pela Port 598/2000, de 14-Ago, na redacção do presente diploma, pela Port.843/2006.22.08.2006.MADRP,\
+    \ DR.IS [161] de 22.08.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/843-2006-540595
+  date: '2006-08-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -88,16 +95,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/598/2000/08/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/598/2000/08/14/p/dre
+- type: cites
+  target: pt:dre:337258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:52Z'
   warnings: []
   errors: []
 ---

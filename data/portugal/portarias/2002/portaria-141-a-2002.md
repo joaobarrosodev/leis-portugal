@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 37/2002, 1º Suplemento, Série I-B de 2002-02-13
   number: '37'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1154-(2) a 1154-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/141-a/2002/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/141-a-2002-342405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e02808be06df0c6e54c89faddee26134c23f0d706502a5083d39d77a9bdc426a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 962a183832b3912790d5e622fad742ffa0c28a9516e85f13d4778383a80b155e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Tempo de Serviço
 - Cálculo de Pensões
 - Complemento Especial de Pensão
-- Serviço Militar
-- Impresso
 - Forças Armadas
+- Impresso
+- Militar
 - Pensão de Aposentação
 - Pensão de Reforma
-- Militar
+- Serviço Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:397297:por
@@ -89,16 +89,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/95/1999/08/25/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/95/1999/08/25/p/dre
+- type: cites
+  target: pt:dre:273420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:428857:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:397297:por
+  label: "Revogada, a partir de de 01.01.2009, pela LEI.3/2009.13.01.2009.AR, DR.IS [8] de 13.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-2009-397297
+  date: '2009-01-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:31Z'
   warnings: []
   errors: []
 ---
@@ -121,12 +134,12 @@ Manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
 
 2.º Os requerimentos devem ser entregues ou enviados até 31 de Outubro de 2002, por correio ou em formato digital disponibilizado na Internet, nos termos previstos na [Resolução do Conselho de Ministros n.º 95/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/95-1999-428857), de 25 de Agosto, publicada no Diário da República, 1.ª série-B, n.º 198, de 25 de Agosto de 1999, para a Direcção-Geral de Pessoal e Recrutamento Militar do Ministério da Defesa Nacional.
 
-**O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 13 de Fevereiro de 2002.**
+O Ministro da Defesa Nacional, Rui Eduardo Ferreira Rodrigues Pena, em 13 de Fevereiro de 2002.
 
 ## ANEXO N.º 1 — Modelo de requerimento a que se refere o artigo 9.º, n.º 1
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf)
 
 ## ANEXO N.º 2 — Modelo de requerimento a que se refere o artigo 8.º
 
-[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf)
+[[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf)](https://files.diariodarepublica.pt/1s/2002/02/037b01/00020003.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/09/187000000/0020300203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/813-2022-201517393
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0cad47cf8b13c6079f2cbf7c1ac67e5fe5c3a4a433d66f9427b928089a28203
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d02b890fd1f435fe4ae4d4ea13457ad3448bca0424dbe004c7ce1450de6c8a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:186827861:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:51Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +93,5 @@ No seguimento da publicação do Edital do Concurso Interno de promoção para p
 Onde se lê «Não ter publicado na área científico/disciplinar de Ciências da Cultura e da Comunicação, pelo menos três artigos, em revistas científicas indexadas no Social Sciences Citation Index (Clarivate), Arts & Humanities Citation Index (Clarivate), European Reference Index for the Humanities, ou Scopus» deve ler-se «Não ter publicado na área científica/disciplinar de Antropologia, Serviço Social e Sociologia, pelo menos três artigos, em revistas científicas indexadas no Social Sciences Citation Index (Clarivate), Arts & Humanities Citation Index (Clarivate), European Reference Index for the Humanities, ou Scopus».
 
 29 de julho de 2022. - O Reitor, Emídio Ferreira dos Santos Gomes.
+
+315574392

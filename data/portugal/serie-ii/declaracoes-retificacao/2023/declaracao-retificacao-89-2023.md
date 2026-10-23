@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/023000000/0006000060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/89-2023-206802520
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d75808d13b8b163380f0f23c16cbb3ef4e1fd81a31a88f2f723785b2ff9b6a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e04e0d0f62eebcf7bdb5d3c331ec75e1a952af6d5b03ce0b53ab9cfa9680781
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:123036573:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143741487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:143853872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204310045:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:38Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +110,5 @@ deve ler-se:
 «[...] na sequência de procedimento concursal na modalidade de recrutamento centralizado para constituição de reservas de recrutamento em entidade centralizada, aberto pelo [Aviso (extrato) n.º 14752-A/2020](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/14752-a-2020-143741487), publicado no Diário da República, 2.ª série, n.º 188, de 25 de setembro de 2020, e retificado pela [Declaração de Retificação n.º 654-A/2020](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/654-a-2020-143853872), 2.ª série, n.º 189, 2.º suplemento, de 28 de setembro de 2020.»
 
 2 de janeiro de 2023. - O Diretor-Geral dos Estabelecimentos Escolares, João Miguel dos Santos Gonçalves.
+
+316098284

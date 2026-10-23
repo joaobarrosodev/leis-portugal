@@ -3,7 +3,7 @@ schema_version: '1.0'
 id: pt:dre:897726616:por
 title: Declaração de Retificação n.º 1006-A/2024/2
 short_title: null
-summary: Retifica o Edital n.º 1520/2024, publicado no Diário da República, 2.ª série, n.º 199, de 14 de outubro de 2024.
+summary: Retifica o Edital n.º 1520/2024, publicado no  Diário da República, 2.ª série, n.º 199, de 14 de outubro de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/228000002/0000200003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1006-a-2024-897726616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c620c5e7bef52dab32eae51b3b34dde53cde74a6a9f1837ca0369fda69280585
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 636a8ac01bf4aba69d3af64889b6a8e65090a1d43f2b5b7fdc344f83976724c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:890792078:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:08Z'
   warnings: []
   errors: []
 ---
@@ -141,3 +145,5 @@ Urbano José Carreira Nunes, Professor Catedrático da Universidade de Coimbra.
 Nas suas faltas e impedimentos, o/a Presidente do Júri será substituído/a pelo Doutor Luís José Proença de Figueiredo Neves, Professor Catedrático e Vice-Reitor da Universidade de Coimbra que, em igual caso de impedimento, será substituído/a pelo/a Vogal Doutor Carlos Alberto Henggeler de Carvalho Antunes, Professor Catedrático da Universidade de Coimbra.»
 
 20 de novembro de 2024. - A Diretora do Serviço de Gestão de Recursos Humanos, Maria Helena da Silva Matos.
+
+318382005

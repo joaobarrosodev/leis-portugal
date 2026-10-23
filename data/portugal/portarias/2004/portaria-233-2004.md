@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2004/03/053b00/12161217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-2004-551780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6faed5281b47e24931a0de2584c8b0939d2e78009236cfbcc9bcb52bf9a64b51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 600fb66a2c88f3b33fa1d85ade315a457fb98678542152b20c4e639fe219cf43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,13 @@ relationships:
   target: pt:dre:306956:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:306956:por
+  label: "Extinta a zona de caça associativa da Herdade da Mulatinha e outras (processo n.º 806-AFN), criada pela Port 615-E3/91\
+    \ de 08-Jul, posteriormente renovada pelo presente diploma, que é revogado, a partir de 16.12.2010 pela PORT.1257/2010.15.12.2010.MADRP,\
+    \ DR.IS [241] de 15.12.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1257-2010-306956
+  date: '2010-12-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -92,16 +99,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/900/1997/09/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/900/1997/09/11/p/dre
+- type: cites
+  target: pt:dre:493175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650097:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:1078/2003
+  label: "Revoga a Portaria n.º 1078/2003, de 29 de Setembro DR.IS-B [225]\0\0"
+  source: null
+  date: '2003-09-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:01Z'
   warnings: []
   errors: []
 ---

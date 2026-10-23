@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/01/019000000/0072300723.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/64-2024-839220791
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d434d865b39c430431c53734f6e5ede3e6521677a459f360c4d8e5526c2bcf15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e464600e290bbeaebcd7c40ee3f8bb87cf32df4add638a6e91364b0ac8a7950
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:207987345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213166519:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:04Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +97,5 @@ Por ter sido publicado com inexatidão o [Regulamento n.º 548/2023](https://dia
 2 - No 1.º parágrafo, onde se lê «do [Edital n.º 322/2023](https://diariodarepublica.pt/dr/detalhe/edital/322-2023-207987345), datado de 2022/05/02.» deve ler-se «do [Edital n.º 322/2023](https://diariodarepublica.pt/dr/detalhe/edital/322-2023-207987345), datado de 2023/05/02.».
 
 12 de janeiro de 2024. - O Presidente da Câmara Municipal, Fernando Paulo Ferreira.
+
+317247293

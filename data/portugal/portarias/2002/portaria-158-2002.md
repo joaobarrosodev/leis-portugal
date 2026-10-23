@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/02/045b00/14701470.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/158/2002/02/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/158-2002-280926
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5dde0ff851050b394659bdb73325432fc2f51a9907b8ffdbe84d808049f30eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a7144089697fe5887eebfd994d83ac269d6a1b885cec23213fb4d59d0b98587c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,10 +65,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Transporte Aéreo
-- Madeira.região Autónoma
 - Aviação Civil
+- Madeira.região Autónoma
 - Tarifa Aérea
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:425699:por
@@ -82,16 +82,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/170/2000/12/07/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/170/2000/12/07/p/dre
+- type: cites
+  target: pt:dre:584460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667966:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:425699:por
+  label: "Revogada pela PORT.1401/2002.2002.10.29.MF DR.IS-B [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1401-2002-425699
+  date: '2002-10-29'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:30Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +141,4 @@ Manda o Governo, pelos Ministros das Finanças e do Equipamento Social, que as d
 
 Em 31 de Dezembro de 2001.
 
-**O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador. - O Secretário de Estado Adjunto e dos Transportes, Rui António Ferreira Cunha.**
+O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador. - O Secretário de Estado Adjunto e dos Transportes, Rui António Ferreira Cunha.

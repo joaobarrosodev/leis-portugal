@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 126/2003, 4º Suplemento, Série I-B de 2003-05-31
   number: '126'
   series: I
-  supplement: 4º Suplemento
+  supplement: null
   pages: 3314-(14) a 3314-(15)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/05/126b04/00140015.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/448-b/2003/05/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/448-b-2003-487940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abdb8e328f6490e3507605060fe437491be388c7d43b77602245815effa0bdaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 249e670b297cad72f3c65bdda1a67351f323a414bc739bf4cb8c70e2e26c2001
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,16 +108,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1514/2002/12/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1514/2002/12/17/p/dre
+- type: cites
+  target: pt:dre:372855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405483:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405904:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653127:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691622:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:430417:por
+  label: "Revogada pela PORT.1362/2003.15.12.2003.MSST, DR.IS-B [288] de 15.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1362-2003-430417
+  date: '2003-12-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:16Z'
   warnings: []
   errors: []
 ---
@@ -240,4 +273,4 @@ Produção de efeitos
 
 O presente diploma produz efeitos a partir de 1 de Junho de 2003.
 
-**O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix, em 4 de Junho de 2003.**
+O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix, em 4 de Junho de 2003.

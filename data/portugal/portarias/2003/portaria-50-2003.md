@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/50/2003/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/50-2003-176502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa4ada74abf9ff13aaa102f7b64616d7a67158cf50802ede9572bd2e5edbdb79
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6de988eec1dbb4739ae7e1706d9bc172e51d4efc67526baae8ca2044af706440
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:342861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:651773:por
+  label: "Suspenso, pelo prazo de 90 dias, o exercício da caça e de actividades de carácter venatório na zona de caça atribuída\
+    \ pela Port 1018/90, de 12-Out, DR.IS [236], e renovada pelo presente diploma, pela PORT.683/2003.2003.07.30.MADRP, DR.IS-B\
+    \ [174]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-2003-651773
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:342861:por
+  label: "Desanexados vários prédios rústicos da zona de caça associativa, atribuída pela Portaria n.º 1018/90, de 12 de Outubro,\
+    \ na redacção do presente diploma, pela PORT.677/2010.12.08.2010.MADRP, DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/677-2010-342861
+  date: '2010-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +99,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/601/2002/06/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/601/2002/06/06/p/dre
+- type: cites
+  target: pt:dre:145994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556007:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:510438:por
+  label: "Revogada a Port 683/2003 de 30-Jul, na redacção que conferiu ao presente diploma, pela PORT.938/2003.2003.09.04.MADRP\
+    \ DR.IS-B [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/938-2003-510438
+  date: '2003-09-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:36Z'
   warnings: []
   errors: []
 ---

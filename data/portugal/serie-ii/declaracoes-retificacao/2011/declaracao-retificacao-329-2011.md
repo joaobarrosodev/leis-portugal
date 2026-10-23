@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/027000000/0717507175.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/329-2011-2464624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc274152aff3cb2d3665674de5d2a4195a0eda551cfe365837994cf1b5aca6ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0c9d89aafe6b09a243ee4febd8f7dcdf0772b56155d2d86dfd93a43ff3947f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:03Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 329/2011
 Por ter saído com inexactidão o aviso n.º 1683/2011, publicado no Diário da República, 2.ª série, n.º 11, de 17 de Janeiro de 2011, referente à discussão pública da alteração ao alvará de loteamento n.º 80/87, sito na Rua de D. Nuno Álvares Pereira, lote 27, Lançada, freguesia de Sarilhos Grandes, rectifica-se que onde se lê «Luís Pedro Cerqueira, Director do Departamento de Administração Urbanística do Município de Montijo», deve ler-se «Luís Pedro Cerqueira, director do Departamento de Administração Urbanística do Município de Montijo (em regime de substituição)». E ainda onde se lê «Paços do Concelho de Montijo, 09 de Dezembro de 2010 - O Director de Departamento, (por delegação de assinatura, conforme despacho datado de 06/04/2010, (luís Pedro Cerqueira, Arqt.)», deve ler-se «Paços do Concelho de Montijo, 9 de Dezembro de 2010. - O Director de Departamento (por delegação de assinatura, conforme despacho de 6 de Abril de 2010), em regime de substituição, Luís Pedro Cerqueira, Arqt.º».
 
 20 de Janeiro de 2011. - O Director de Departamento, por delegação de assinatura, Luís Pedro Cerqueira.
+
+304265682

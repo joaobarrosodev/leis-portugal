@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/244000000/0026300263.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1060-2022-205050059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1177c1ef41705daf222ca8c650389b44934622d4cb4c5792dd4b7360a1929fed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62b462d4cffe74dd789c1e938fbcbf474dc3165977341a30cee596cd8fe120fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:24Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ No Aviso deste Município n.º 22359/2022, publicado no Diário da República, 2
 Mais se torna público que, por despacho de 21 de novembro de 2022, foi revogado parcialmente o despacho de 24 de outubro de 2022, com o que a data do início de funções do coordenador municipal passou a ser o dia 1 de dezembro de 2022.
 
 5 de dezembro de 2022. - O Presidente da Câmara Municipal, José Alberto Freitas Soares Pinheiro e Silva.
+
+315950945

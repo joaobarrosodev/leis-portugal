@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/315/2002/03/23/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/315-2002-300453
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58db9396bee42e968d4469965085c1d55d942ff4eb7bb912c1c5223c8070ae60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c964ed0f6d7c528857e6bb7147844150c5d6cac6c6acc19799e2b8e7d93f440
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Contrato de Concessão
-- Crédito Fiscal por Investimento
-- Resíduo
-- Proteção do Ambiente
-- Tratamento de Resíduos
-- IRC
-- Benefícios Fiscais
 - Abastecimento de Água
 - Autarquia Local
+- Benefícios Fiscais
+- Contrato de Concessão
+- Crédito Fiscal por Investimento
+- IRC
+- Proteção do Ambiente
+- Resíduo
+- Tratamento de Resíduos
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/239/1997/09/09/p/dre
@@ -96,16 +96,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/271-a/2000/05/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/271-a/2000/05/18/p/dre
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:664080:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683074:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:26Z'
   warnings: []
   errors: []
 ---
@@ -154,4 +174,4 @@ e) Outras entidades de natureza empresarial legalmente licenciadas a exercer act
 
 Em 21 de Fevereiro de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/392/2002/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-2002-303187
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28f4e6233544822ee3704fc4a21a005f83d7ccf1df1758b47fdbe84974f4e63f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41ac3508f95b0311a2d1cc5ec8b7dc47b1f7d4b4721dda4f72ba73d500145ce5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Curso de Especialização Tecnológica
 - Diploma
+- Formação Profissional
 - Sistema Nacional de Certificação Profissional
 relationships:
 - type: amended_by
@@ -98,16 +98,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/989/1999/11/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/989/1999/11/03/p/dre
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:694187:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:633289:por
+  label: "Revogada a Port 989/99 de 03-Nov, com a alteração constante do presente diploma, pelo DEC LEI.88/2006.23.05.2006.MCTES,\
+    \ DR.IS-A [99] de 23.05.2006, sem prejuízo do disposto no respectivo art. 52º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/88-2006-633289
+  date: '2006-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:56Z'
   warnings: []
   errors: []
 ---
@@ -298,7 +328,7 @@ Republicação
 
 Em 14 de Março de 2002.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.**
+O Ministro da Economia, Luís Garcia Braga da Cruz. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.
 
 [Portaria n.º 989/99](https://diariodarepublica.pt/dr/detalhe/portaria/989-1999-694187)
 

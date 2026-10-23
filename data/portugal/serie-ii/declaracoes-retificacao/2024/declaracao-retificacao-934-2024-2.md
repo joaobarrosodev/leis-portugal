@@ -3,7 +3,7 @@ schema_version: '1.0'
 id: pt:dre:895802935:por
 title: Declaração de Retificação n.º 934/2024/2
 short_title: null
-summary: Retifica o Despacho n.º 12279/2024, publicado no Diário da República, 2.ª série, n.º 202, de 17 de outubro de 2024.
+summary: Retifica o Despacho n.º 12279/2024, publicado no  Diário da República, 2.ª série, n.º 202, de 17 de outubro de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/216000000/0007000070.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/934-2024-895802935
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac1661d6f78aa4045cacaaa4fb79d0be4b7347a34996c4ea2a2b1e410d0d5298
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 79cda80879aec3134fbff907324bfb84961af76e43d428c67073925c1956087f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:46Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +111,5 @@ deve ler-se:
 20619 Vicente Rocha Lé Moura."
 
 25 de outubro de 2024. - O Almirante Chefe do Estado-Maior da Armada, Henrique Eduardo Passaláqua de Gouveia e Melo, Almirante.
+
+318301475

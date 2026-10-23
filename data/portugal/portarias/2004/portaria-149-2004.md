@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/149/2004/02/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-2004-578772
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dd832a0b513eb3912a40caff01e5dc050512c5d1d4cdcadd46b6371b7dd21d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bc2c48436398768d4ff8babcc8c65ec7efc031da7deec2082e63a849449d7c9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,16 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Exploração Florestal
 - Financiamento
 - Gestão Financeira
+- Ifadap
+- Medida Agris
+- Programa AGRO
 - Projeto de Investimento
 - Proteção do Ambiente
-- Exploração Florestal
 - QCA III
 - Regulamento CE
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: cites
   target: celex:31992R2158
@@ -90,15 +90,15 @@ relationships:
   label: null
   source: http://data.dre.pt/eli/port/327/2003/04/21/p/dre
 article_structure:
-  article_count: 29
+  article_count: 22
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:19Z'
   warnings: []
   errors: []
 ---
@@ -135,17 +135,23 @@ Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas 
 
 2 - O disposto neste Regulamento não se aplica à área geográfica abrangida pela «Acção integrada de base territorial do Pinhal Interior» do Programa Operacional Regional do Centro.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 ...
 
 2 - Para efeitos de acesso às presentes ajudas, os beneficiários devem apresentar um plano orientador de prevenção plurianual, em que os investimentos previstos não ultrapassem a data limite de 30 de Setembro de 2008, que inclua um diagnóstico da situação e o conjunto de acções a realizar e garanta uma intervenção preventiva coerente com o diagnóstico e eficaz face aos riscos em presença.
 
-###### Artigo 10.º — [...]
+Artigo 10.º
+
+[...]
 
 São considerados elegíveis no âmbito deste capítulo os investimentos em espaços florestais com vista à prevenção de incêndios florestais e de outras situações de emergência, visando, em particular, a redução do risco de ignição e de progressão do fogo e a aplicação de técnicas de silvicultura preventiva enquadradas por planos orientadores de prevenção e, ainda, a detecção e intervenção precoce em situações de incêndio.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 No que se refere à redução do risco de ignição e de progressão do incêndio, não são elegíveis, nomeadamente:
 
@@ -155,7 +161,9 @@ b) ...
 
 c) ...
 
-###### Artigo 12.º — [...]
+Artigo 12.º
+
+[...]
 
 1 - O conjunto das acções a desenvolver deverá ser compatível com o estabelecido no «Plano de protecção da floresta contra incêndios», elaborado nos termos do Regulamento (CEE) n.º [2158/92](http://data.europa.eu/eli/reg/1992/2158/oj?locale=pt), do Conselho, de 23 de Julho, ou nos planos municipais ou intermunicipais de intervenção na floresta para a diminuição do risco de incêndio e demais legislação e planos em vigor sobre a matéria.
 
@@ -177,7 +185,9 @@ b) Emissão de parecer prévio favorável pela Direcção-Geral das Florestas re
 
 6 - O disposto no número anterior não será aplicável, em casos devidamente fundamentados, desde que se assegure o carácter regionalizado da medida, a relevância territorial da área de intervenção e, ainda, a sua coerência na óptica da prevenção do risco de incêndio.
 
-###### Artigo 13.º — [...]
+Artigo 13.º
+
+[...]
 
 As ajudas são atribuídas sob a forma de incentivo não reembolsável, com os valores a seguir indicados:
 
@@ -185,7 +195,9 @@ a) 50% na aquisição de viaturas;
 
 b) 80% nas restantes despesas elegíveis.
 
-###### Artigo 14.º — [...]
+Artigo 14.º
+
+[...]
 
 1 - As despesas elegíveis, no âmbito da redução do risco de ignição e de progressão do incêndio, serão as seguintes:
 
@@ -233,7 +245,9 @@ e) Despesas gerais até 10% do investimento total elegível.
 
 6 - A despesa máxima elegível por viatura é de (euro) 30000.
 
-###### Artigo 21.º — [...]
+Artigo 21.º
+
+[...]
 
 Os beneficiários ficam obrigados a:
 
@@ -261,7 +275,7 @@ g) Associações de municípios.»
 
 Em 30 de Janeiro de 2004.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
 
 ## ANEXO
 

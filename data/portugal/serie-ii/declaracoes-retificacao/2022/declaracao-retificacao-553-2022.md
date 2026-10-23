@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/118000000/0036600366.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/553-2022-184961798
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47f9edbc07a1904b1798836d2912e14aac8944a993c61da84b7cddc4054d09b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f49c285de604e6e60b714e1f8c363164068b2318b84d9989924aafaa8b74271c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:21Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +86,5 @@ validation:
 Torna-se público, para os devidos efeitos, que por lapso, no aviso de abertura do concurso interno de acesso geral para dois lugares de polícia municipal (agente municipal de 2.ª classe), publicado no Diário da República, 2.ª série, n.º 91, de 11 de maio de 2022, no ponto 6 - prazo de validade, onde se lê «O concurso é válido para as vagas colocadas a concurso» deve ler-se «O concurso é válido para o provimento dos postos de trabalho colocados a concurso e para os que vierem a ser necessários no prazo de um ano; no caso de em resultado do concurso, a lista de classificação final conter um número de candidatos aprovados superior ao dos postos de trabalho a ocupar, será constituída uma reserva de recrutamento interna contado da data de homologação da lista de classificação final.».
 
 30 de maio de 2022. - O Presidente da Câmara, Pedro Daniel Machado Gomes, Dr.
+
+315379644

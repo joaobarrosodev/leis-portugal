@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/258/2003/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/258-2003-215480
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e56a5f8a30f8dffdee866278b56469f3a0defa74f499e4850e92d87742e44d8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c33508b40ec5f71636e69f5e68f58c3b376c5e9ffad20c80206ebd54111bb60f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartografia
-- Lista
-- Exploração Agrícola
-- Proteção do Ambiente
-- Poluição da água
-- Poluição
 - Agricultura
+- Cartografia
+- Exploração Agrícola
+- Lista
+- Poluição
+- Poluição da água
+- Proteção do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:623210:por
@@ -86,16 +86,21 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1037/1997/10/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1037/1997/10/01/p/dre
+- type: repealed_by
+  target: pt:dre:623210:por
+  label: "Revogada pela PORT.1100/2004.03.09.2004.MADRP, DR.IS-B [208] de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1100-2004-623210
+  date: '2004-09-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:10Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +127,7 @@ Manda o Governo, pelos Ministros da Agricultura, Desenvolvimento Rural e Pescas 
 
 Em 21 de Janeiro de 2003.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.
 
 ## ANEXO I — Zonas vulneráveis
 
@@ -132,8 +137,8 @@ Em 21 de Janeiro de 2003.
 
 Continente
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf)](https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf)
 
 Região Autónoma dos Açores
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf)
+[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf)](https://files.diariodarepublica.pt/1s/2003/03/066b00/18661868.pdf)

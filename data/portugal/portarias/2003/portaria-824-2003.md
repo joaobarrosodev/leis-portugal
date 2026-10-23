@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/824/2003/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/824-2003-660134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f9007935c8e47580e5ea31948d14216a2dd08c51b73d47f2c10f70e1df7448b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65b748e202289a491b7e7087766f6079574ddd15951f5c42e645766d407fc24d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Concurso Institucional de Acesso
 - Ensino Cooperativo
 - Ensino Particular
-- Concurso Institucional de Acesso
+- Ensino Superior
 - Ensino Superior Politécnico
+- Estabelecimento de Ensino
 - Licenciatura
 - Numerus Clausus
-- Estabelecimento de Ensino
-- Ensino Superior
 relationships:
 - type: amended_by
   target: pt:dre:503376:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:503376:por
+  label: "Alterado o anexo pela PORT.984/2003.2003.09.13.MCES DR.IS-B [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/984-2003-503376
+  date: '2003-09-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -103,16 +108,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:29Z'
   warnings: []
   errors: []
 ---
@@ -157,7 +186,7 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 30 de Julho de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 30 de Julho de 2003.
 
 ## ANEXO
 
@@ -173,10 +202,10 @@ I - Universidades
 
 (incluindo unidades orgânicas de ensino politécnico nelas integradas)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49804987.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49804987.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49804987.pdf)
 
 II - Outros estabelecimentos
 
 (institutos politécnicos, escolas politécnicas não integradas e escolas universitárias não integradas)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49804987.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49804987.pdf)](https://files.diariodarepublica.pt/1s/2003/08/186b00/49804987.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/223000000/0003800038.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/961-2022-203592347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 607fcf942251d4333d3052b907e869012f057d37fb3337737b6ad50d73c25bf4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 324817ae954731c099fc73ca0eefa6a1b18b188b80d14790b86e306950b9ab99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:202066798:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:41Z'
   warnings: []
   errors: []
 ---
@@ -111,3 +115,5 @@ deve ler-se:
 que satisfazem as condições gerais e especiais de promoção fixadas, respetivamente nos artigos 58.º e 207.º do mencionado Estatuto, a contar de 1 de outubro de 2022, data a partir da qual lhes conta a respetiva antiguidade, de acordo com o n.º 2 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência das vacaturas ocorridas, resultantes, da promoção ao posto imediato, em 28 de fevereiro de 2022, do 24088, Capitão-de-Fragata da classe de Marinha Fernando Vasco Duarte da Conceição, em 7 de março de 2022, do 23789, Capitão-de-Fragata da classe de Marinha Jaime Carlos do Vale Ferreira da Silva, e em 31 de maio de 2022, do 24587, Capitão-de-Fragata da classe de Marinha Nuno Manuel Gomes Sousa Rodrigues, da passagem à situação de adido ao quadro, em 31 de agosto de 2022, do 22298, Capitão-de-Fragata da classe de Marinha João Filipe Afonso Martins.»
 
 11 de novembro de 2022. - O Almirante Chefe do Estado-Maior da Armada, Henrique Eduardo Passaláqua de Gouveia e Melo, Almirante.
+
+315875453

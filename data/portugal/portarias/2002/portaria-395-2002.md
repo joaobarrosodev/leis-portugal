@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/088b00/36843684.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/395/2002/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/395-2002-303841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa054e3a775ee408301169520048a7777aedd9ce7ae40926a8cc06f7809a4aa0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78576da842d89dc6172886c1fd97ca4ee9ea0567a254bf46aff69983e0d175f1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,18 +67,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Proteção Civil
-- Serviço Nacional de Protecção Civil
 - Estabelecimento Industrial
 - Instituto do Ambiente
 - Plano de Emergência
+- Proteção Civil
 - Relatório de Auditoria
+- Serviço Nacional de Protecção Civil
 - TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:69951097:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:636175:por
+  label: "Determinado que se mantém em vigor, pelo DEC LEI.254/2007.12.07.2007.MAOTDR, DR.IS [133] de 12.07.2007, até à entrada\
+    \ em vigor das portarias regulamentares previstas no art. 31º\01º\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2007-636175
+  date: '2007-07-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/164/2001/05/23/p/dre
   label: null
@@ -87,16 +93,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/164/2002/07/16/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/164/2002/07/16/p/dre
+- type: cites
+  target: pt:dre:207846:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:69951097:por
+  label: Revogada (a partir de 06.08.2015) pelo(a) Decreto-Lei n.º 150/2015 - Diário da República n.º 151/2015, Série I de
+    2015-08-05
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/150-2015-69951097
+  date: '2015-08-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:56Z'
   warnings: []
   errors: []
 ---
@@ -151,4 +171,4 @@ A apresente portaria entra em vigor no dia imediatamente a seguir ao da sua publ
 
 Em 25 e Feveriero de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Administração Interna, José Carlos das Dores Zorrinho, Secretário de Estado Adjunto do Ministro da Administração Interna. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Administração Interna, José Carlos das Dores Zorrinho, Secretário de Estado Adjunto do Ministro da Administração Interna. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa.

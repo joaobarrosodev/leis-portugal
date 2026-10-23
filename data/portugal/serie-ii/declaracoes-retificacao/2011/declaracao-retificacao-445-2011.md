@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/445-2011-1673688
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc9bac4438dae1c0bedb4c2ea6f1faf442f3900a9d4ee49f9e8d10e3add895d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a14f063928738077687522ac068f0b341d4855a716ff18318a9257c60d67dcce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,35 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:44Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 445/2011
+# Declaração de rectificação n.º 445/2011
 
 Por meu despacho de 30 de Novembro de 2010 se declara que o aviso n.º 2891/2011, publicado no Diário da República, 2.ª série, de 27 de Janeiro de 2011, saiu com inexactidão na posição remuneratória actual e no nível remuneratório actual dos seguintes assistentes operacionais e assistentes técnicos, pelo que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf)
 
 deve ler-se:
 
 Por meu despacho de 30 de Novembro de 2010 e dando cumprimento a alínea a) do n.º 6 e ao n.º 7 do artigo 46.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663) e com o oficio circular n.º 11/GEF/2010, informo que os funcionários abaixo mencionados reúnem os requisitos necessários à transição de posição e nível remuneratório por opção gestionária:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf)
 
 Por meu despacho de 30 de Novembro de 2010 e dando cumprimento ao n.º 6 do artigo 47.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663) e com o oficio circular n.º 11/GEF/2010, informo que os funcionários abaixo mencionados reúnem os requisitos necessários à transição de posição remuneratória:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf))](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/036000000/0883808839.pdf)
 
 14 de Fevereiro de 2011. - O Director, Aníbal José da Trindade Jesus Mendes.
+
+204347151

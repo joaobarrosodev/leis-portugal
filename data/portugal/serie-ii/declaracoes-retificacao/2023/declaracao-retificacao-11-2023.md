@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/002000000/0036200362.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2023-205639958
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77bc3bcdac1cc9057d3bc33907ed8f8eb8affe05d9e9ff65a6f5ea5f1647a676
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4490560d55694282587204a5bd32ba5dbbecc5c09a15d72e207d262ed358f8c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:202641147:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:56Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +91,5 @@ No seguimento da publicação do [Edital n.º 1560/2022](https://diariodarepubli
 Onde se lê «Doutora Isabel Maria Martins Trancoso, Professora Catedrática do Departamento de Engenharia Eletrotécnica e de Computadores do Instituto Superior Técnico da Universidade de Lisboa» deve ler-se «Doutora Isabel Maria Martins Trancoso, Professora Catedrática Aposentada do Departamento de Engenharia Eletrotécnica e de Computadores do Instituto Superior Técnico da Universidade de Lisboa».
 
 14 de dezembro de 2022. - O Reitor, Emídio Ferreira dos Santos Gomes.
+
+315971421

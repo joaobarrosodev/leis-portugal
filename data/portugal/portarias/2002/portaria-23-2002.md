@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/23/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-2002-584852
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48d1a9fd66c8f89d4fe4cf9b2cab1f89a0be569c561214b97b19d6f65eb83ab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31d5ab083781596c12818645a452c37f923865ad1490bc4684d9cddf269a5e2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Escola Superior de Educação
 - Instituto Politécnico
+- Plano de Estudos
 - Porto
 relationships:
 - type: cites
@@ -96,16 +96,52 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/692/2001/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/692/2001/07/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688978:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:56Z'
   warnings: []
   errors: []
 ---
@@ -176,7 +212,7 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 Opção: Educação Social
 
@@ -184,13 +220,13 @@ QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 Opção de Acção Social Escolar
 
@@ -198,13 +234,13 @@ QUADRO N.º 4
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 QUADRO N.º 5
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 2.º ciclo
 
@@ -216,13 +252,13 @@ QUADRO N.º 6
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 QUADRO N.º 7
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 Ramo: Acção Social Escolar
 
@@ -230,10 +266,10 @@ QUADRO N.º 8
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
 
 QUADRO N.º 9
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)
+[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00880091.pdf)

@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:857575309:por
 title: Declaração de Retificação n.º 225/2024/2
 short_title: null
-summary: Retifica o Aviso (extrato) n.º 5675/2024/2, publicado no <em>Diário</em> <em>da</em> <em>República</em>, 2.ª série,
-  n.º 54, de 15 de março de 2024.
+summary: Retifica o Aviso (extrato) n.º 5675/2024/2, publicado no  Diário da República, 2.ª série, n.º 54, de 15 de março
+  de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/062000000/0032300323.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/225-2024-857575309
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f464cf1e678e462b8589b90ece46e25208b08c45a25de36e5b89e7fa40e2ad2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c3dda8c4dab97bfaab19984b767245f552b37700c438cfdd546c1e82bf7a6eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:33Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ deve ler-se:
 "Abertura de procedimento concursal para o cargo de direção intermédia de 4.º grau, coordenador da área administrativa e financeira."
 
 15 de março de 2024. - O Vice-Presidente, em regime de suplência da Presidente, Prof. Doutor Pedro Salvado Ferreira.
+
+317490844

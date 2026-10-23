@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1070-2022-205449472
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b33341fd8a02dbd710d5031300788de0a98e352f08def06c4e721a4057d65cd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a1e82df0cc4becb2ec35ec18fc96d7ac3947966088f96ceb726ebd645411ff1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Construção Civil
+- Custo da Construção
+- Fixação de Preços
+- Industrial da Construção Civil
+- Instituto dos Mercados Públicos do Imobiliário e da Construção
+- Obras Particulares
+- Preço
+relationships:
+- type: cites
+  target: pt:dre:204311484:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:aviso:23096/2022
+  label: Retifica o Aviso n.º 23096/2022, de 5 de dezembro, Diário da República n.º 233/2022, Série II
+  source: null
+  date: '2022-12-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:25Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ QUADRO I
 
 Base 100: janeiro de 2004
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf))](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf)
 
 Os índices ponderados de custos de mão-de-obra estão afetados de todos os encargos emergentes das disposições em vigor no período a que respeitam, pelo que compreendem: segurança social, seguro, caixa nacional de seguros de doenças profissionais, medicina no trabalho, férias, subsídio de férias, feriados, tolerância de ponto, faltas remuneradas, cessação e caducidade do contrato (indemnização por cessação do contrato individual de trabalho e compensação por caducidade do contrato a termo certo e a prazo), inatividade devida ao mau tempo, subsídio de Natal e formação profissional.
 
@@ -106,7 +122,7 @@ M52 a M57 - Base 100: dezembro de 2019
 
 M58 - Base 100: dezembro de 2021
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf))](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf)
 
 QUADRO III
 
@@ -114,6 +130,8 @@ QUADRO III
 
 Base 100: janeiro de 2004
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf))](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/12/250000000/0006400066.pdf)
 
 21 de dezembro de 2022. - O Presidente do Conselho Diretivo, Fernando Batista.
+
+316003991

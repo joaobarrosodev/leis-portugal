@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/152000000/0046800468.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/593-2024-875591095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7f63e68c742b0206fd8ded2dc8441d949e2ad3a95016bfca8ca5b84db594f91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5cf7d6234c1d21f3f85c973f1cc25ee6848e96ff162e635191be28dd16a31eff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870572627:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:45Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +93,7 @@ validation:
 
 Retifica o [Aviso (extrato) n.º 13472/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/13472-2024-870572627), publicado no Diário da República, 2.ª série, n.º 126, de 2 de julho de 2024
 
-Ao abrigo do disposto nos n.<sup>os</sup>2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o [Aviso (extrato) n.º 13472/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/13472-2024-870572627), publicado no Diário da República, 2.ª série, n.º 126, de 2 de julho de 2024, saiu com a seguinte inexatidão, que, mediante declaração da entidade emitente, assim se retifica:
+Ao abrigo do disposto nos n.os2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o [Aviso (extrato) n.º 13472/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/13472-2024-870572627), publicado no Diário da República, 2.ª série, n.º 126, de 2 de julho de 2024, saiu com a seguinte inexatidão, que, mediante declaração da entidade emitente, assim se retifica:
 
 No ponto 5, onde se lê:
 
@@ -106,3 +114,5 @@ deve ler-se:
 5.2 - Ter disponibilidade imediata manifestada na candidatura; ter disponibilidade para realização de trabalho por turnos manifestada na candidatura e possuir robustez física e perfil psicológico para o exercício das funções a que se candidata."
 
 10 de julho de 2024. - O Presidente do Conselho de Administração, Tiago Jorge Carvalho Gonçalves.
+
+317894654

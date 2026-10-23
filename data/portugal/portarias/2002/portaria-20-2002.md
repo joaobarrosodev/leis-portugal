@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/2002/01/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-2002-584840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4b7274566e986fa33a61338219eea78dc542b964857d4cb985d46d51b4a58390
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3de8fce8d2989bf5ec24ba9376a9c3566fdccd1d801d259d73621a93eddebe21
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,10 +67,10 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
+- Beja
 - Escola Superior Agrária
 - Instituto Politécnico
-- Beja
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:481691:por
@@ -92,16 +92,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/692/2001/07/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/692/2001/07/10/p/dre
+- type: cites
+  target: pt:dre:147873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348545:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:481691:por
+  label: "Revogada pela PORT.1215/2005.25.11.2005.MCTES, DR.IS-B [227] de 25.11.2005, nos termos da al. b) do nº 2 do art.\
+    \ 3º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1215-2005-481691
+  date: '2005-11-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:45Z'
   warnings: []
   errors: []
 ---
@@ -156,25 +190,25 @@ QUADRO N.º 1
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 2
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 3
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 4
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 Opção: Agricultura Industrial
 
@@ -184,13 +218,13 @@ QUADRO N.º 5
 
 5.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 6
 
 6.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 Opção: Agricultura Ecológica
 
@@ -200,13 +234,13 @@ QUADRO N.º 7
 
 5.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 8
 
 6.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 Opção: Agricultura Tropical
 
@@ -216,13 +250,13 @@ QUADRO N.º 9
 
 5.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 10
 
 6.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 2.º ciclo
 
@@ -234,25 +268,25 @@ QUADRO N.º 11
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 12
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 13
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 14
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 Ramo: Agricultura Ecológica
 
@@ -262,25 +296,25 @@ QUADRO N.º 15
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 16
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 17
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 18
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 Ramo: Agricultura Tropical
 
@@ -290,22 +324,22 @@ QUADRO N.º 19
 
 1.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 20
 
 2.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 21
 
 3.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
 
 QUADRO N.º 22
 
 4.º semestre
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)
+[[[[[[[[[[[[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)](https://files.diariodarepublica.pt/1s/2002/01/003b00/00780083.pdf)

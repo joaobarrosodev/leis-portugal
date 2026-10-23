@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 277/2002, 2º Suplemento, Série I-B de 2002-11-30
   number: '277'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 7518-(4) a 7518-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/11/277b02/00040005.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1490-b/2002/11/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1490-b-2002-287983
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96a0cc00c150810c801296f7f872db7413fc26b453632bc3c423a086e1915b35
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e845ab5331e047ee742ef978159df0c407da919b5649d5c9b57747ac25555948
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Apoio ao Investimento
 - Assistência Medicamentosa
+- Incentivos Fiscais
 - Indústria Farmacêutica
 - Infarmed
-- Apoio ao Investimento
-- Incentivos Fiscais
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/242/2000/09/26/p/dre
@@ -96,16 +96,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/133/2002/11/12/p/dre
+- type: cites
+  target: pt:dre:423657:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684845:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:58Z'
   warnings: []
   errors: []
 ---
@@ -220,4 +244,4 @@ Disposições transitórias e entrada em vigor
 
 Em 18 de Novembro de 2002.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Luís Filipe Pereira.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Saúde, Luís Filipe Pereira.

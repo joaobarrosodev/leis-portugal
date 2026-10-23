@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/094000000/2109021090.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/848-2011-809596
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d877a26afce40b01b33aeebf3bb2afb870bd458f5e10ecfca4d38be311ddbbdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c526106c64e37a81458e542248ab4c3368e4e3799ce246868c88a59fbed39030
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:09Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Para os devidos efeitos, faz-se pública a rectificação a seguir indicada, ref
 
 1.º Vogal efectivo - João Paulo Neves Marques Santos, Técnico Superior2.º Vogal efectivo - Maria de Lurdes dos Santos Susano Carvalho, Técnica Superior. 1.º Vogal suplente - Vanda Maria Gualter Carlos Patronilho, Técnico Superior. 2.º Vogal suplente - Pascoal Mendes, Assistente Técnico.
 
-**O Presidente do Júri será substituído, nas suas faltas e impedimentos pelo 1.º vogal efectivo.»**
+O Presidente do Júri será substituído, nas suas faltas e impedimentos pelo 1.º vogal efectivo.»
 
 deve ler-se:
 
@@ -109,6 +109,8 @@ Presidente - chefe da Divisão de Execução de Obras, César Serrenho Reboleira
 
 2.º vogal suplente - Alberto Carlos Duarte, encarregado operacional.
 
-**O presidente do júri será substituído, nas suas faltas e impedimentos, pelo 1.º vogal efectivo.»**
+O presidente do júri será substituído, nas suas faltas e impedimentos, pelo 1.º vogal efectivo.»
 
 9 de Maio de 2011. - O Presidente da Câmara, Fernando José da Costa.
+
+304661261

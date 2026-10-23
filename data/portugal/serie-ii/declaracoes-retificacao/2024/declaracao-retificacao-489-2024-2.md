@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/134000000/0011300113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/489-2024-871760352
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4ea7a9445803ba1e458fb1eda446eda1781a07f4b17511e2326b99a54f4c54d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 38c351d095fc0db26156147ade9bb55c8cab7fe30bea34f99cc4e751118a53f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:865334584:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:08Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Onde se lê:
 
 "Lista nominativa de transição dos trabalhadores
 
-| Nome | Carreira | Categoria | Posição remuneratória | Nível remuneratório | Situação jurídica funcional | Nota |
+| Nome | Carreira | Categoria | Posição<br>remuneratória | Nível<br>remuneratório | Situação jurídica<br>funcional | Nota |
 | --- | --- | --- | --- | --- | --- | --- |
 | Irene Conceição Costa Pinto | Assistente Técnico | Assistente Técnico | 9.ª | 15 | CTFP TI |  |
 | Cláudia Maria Pereira Marques Martins | Técnico Superior | Técnico Superior | 1.ª | 16 | CTFP TI |  |
@@ -103,7 +107,7 @@ deve ler-se:
 
 "Lista nominativa de transição dos trabalhadores
 
-| Nome | Carreira | Categoria | Posição remuneratória | Nível remuneratório | Situação jurídica funcional | Nota | Nota |
+| Nome | Carreira | Categoria | Posição<br>remuneratória | Nível<br>remuneratório | Situação jurídica funcional | Nota |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Irene Conceição Costa Pinto | Assistente Técnico | Assistente Técnico | 10.ª | 16 | CTFP TI |  |  |
 | - | - | - | _ | _ | - |  |  |
@@ -113,3 +117,5 @@ deve ler-se:
 | - | - | - | _ | _ | - | _ | " |
 
 19 de junho de 2024. - A Diretora do Departamento de Gestão e Administração Geral, Sara Magalhães.
+
+317814941

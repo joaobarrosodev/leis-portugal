@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/788/2002/07/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/788-2002-143350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c95b9e00b0542ef55d947d6c447623b621c167275e7538e5aaf0b474f5b8835
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10e00fa0fdb509ca17b37bd433197a104f29465f89587e69a6f17d2969b9a7fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Desenvolvimento Rural
-- Regulamento de Aplicação da Medida Dez-serviços Agro-rurais Especializados
 - Modernização do Sector Agrícola
 - Programa AGRO
+- Regulamento de Aplicação da Medida Dez-serviços Agro-rurais Especializados
 relationships:
 - type: amended_by
   target: pt:dre:637457:por
@@ -95,13 +95,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:23Z'
   warnings: []
   errors: []
 ---
@@ -122,4 +122,4 @@ Pagamento de ajudas do QCA II
 
 São pagas no âmbito da medida n.º 10 do Programa AGRO as ajudas relativas a projectos aprovados e contratados ao abrigo do QCA II, enquadrados no Regulamento (CEE) n.º [1360/78](http://data.europa.eu/eli/reg/1978/1360/oj?locale=pt) e no Regulamento (CEE) n.º [952/97](http://data.europa.eu/eli/reg/1997/952/oj?locale=pt), nos termos do disposto no n.º 3 do artigo 52.º do Regulamento (CE) n.º [1260/99](http://data.europa.eu/eli/reg/1999/1260/oj?locale=pt), do Conselho, de 21 de Junho.»
 
-**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 3 de Abril de 2002.**
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 3 de Abril de 2002.

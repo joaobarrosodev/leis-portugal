@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/425-2023-214042384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e1bea2a383fddfb6c1836d37b6d16da2a92aeb63337ae5431c9b0293deb3e03
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 777374267ee610eff10ceccc4f50b7218d3b625490fadfe53b4aadc798de61c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:211843089:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624401:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:51Z'
   warnings: []
   errors: []
 ---
@@ -212,13 +224,13 @@ AC = (NH + FP + EP)/3
 
 As regras a observar na valorização dos diversos fatores são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf))](https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf)
 
 No caso da declaração de participação na ação de formação não ser expressa em horas, o apuramento será efetuado da seguinte forma:
 
 1 dia = 6 horas; 1 semana (5 dias) = 35 horas; 1 mês (22 dias) = 154 horas
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf))](https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/109000000/0044200445.pdf)
 
 As ponderações dos fatores (NH, FP, EP) integrantes deste método de seleção traduzem a importância relativa que o júri entendeu atribuir a cada um, por considerar que essa ponderação é a que permite a melhor avaliação profissional dos/as candidatos/as nas áreas relativas aos postos de trabalho para que o procedimento foi aberto.
 
@@ -239,3 +251,5 @@ CF = 40 %AC + 60 %EAC
 10.8 - Ao abrigo do disposto no artigo 21.º da Portaria todos os métodos de seleção, bem como todas as suas fases têm carácter eliminatório, pelo que serão excluídos os candidatos que obtenham uma valoração inferior a 9,50 valores em qualquer um dos métodos, um juízo de Não Apto num dos métodos de seleção ou numa das suas fases, bem como os que não comparecerem a qualquer um dos métodos de seleção.»
 
 11 de maio de 2023. - O Presidente da Junta de Freguesia, Nuno Daniel Sousa Ferreira.
+
+316460394

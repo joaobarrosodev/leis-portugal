@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/886/2003/08/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/886-2003-655921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e13d80327f340e5f0c6fa03f03f0073dc3b21047b4f1702f8ad63d7ffb946b53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bbc020f245f3b091ea798d50decd952761ae898b0376c0aee569f2c1a3845558
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,13 @@ relationships:
   target: pt:dre:278902:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:278902:por
+  label: "Alterado o art. 1º do regulamento interno do Julgado de Paz de Vila Nova de Gaia, aprovado pela Port 162-A/2002,\
+    \ de 25-Fev, na redacção e republicado pelo presente diploma, pela PORT.90/2011.28.02.2011.MJ, DR.IS [41] de 28.02.2011\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/90-2011-278902
+  date: '2011-02-28'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/2003/07/02/p/dre
   label: null
@@ -90,16 +97,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/162-a/2002/02/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/162-a/2002/02/25/p/dre
+- type: cites
+  target: pt:dre:149814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667117:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:51Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +151,9 @@ Manda o Governo, ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](http
 
 3 - O período de atendimento do Julgado de Paz é das 9 horas e 15 minutos às 19 horas, de segunda-feira a sexta-feira.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O Julgado de Paz de Vila Nova de Gaia rege-se pelas normas constantes neste Regulamento e pelo protocolo celebrado em 27 de Novembro de 2001 entre o Ministério da Justiça e a Câmara Municipal de Vila Nova de Gaia, com as alterações introduzidas pela respectiva adenda de 21 de Março de 2003.»
 
@@ -154,7 +179,9 @@ Pela Ministra da Justiça, João Luís Mota de Campos, Secretário de Estado Adj
 
 2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção.
 
-###### Artigo 3.º — Secção
+###### Artigo 3.º
+
+#### Secção
 
 O Julgado de Paz dispõe de uma secção dirigida pelo juiz a quem competir a respectiva coordenação nos termos do artigo anterior.
 

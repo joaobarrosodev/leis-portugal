@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/048000000/0025400254.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/198-2023-208326708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1e140a6bdc3a48385ef2d0e65d21d651dced823d0f9e3e5bb48a92d3bd389fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862702ead45e7f28a17a16fdd75be1c5ace0e3bb047cec55a99d712e4cb887b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:206041254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:30Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +101,5 @@ deve-se ler:
 «Para os efeitos previstos na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, faz-se público que foram consolidadas as mobilidades internas na categoria das assistentes técnicas Dina Isabel Garcia Duarte Cordeiro, a auferir a remuneração de 809,13(euro), correspondente à 2.ª posição remuneratória, nível 7.º da tabela remuneratória única, e Lília Isabel Batista Durão do Carmo, a auferir a remuneração de 757,01(euro), correspondente à 1.ª posição remuneratória, nível 6.º da tabela remuneratória única. Tendo sido também consolidada a mobilidade intercategorias da coordenadora técnica Marília Neves Amaral Montez Silva, a auferir remuneração de 1163,82(euro), correspondente à 1.ª posição remuneratória, nível 14.º da tabela remuneratória única, com efeitos a 1 de dezembro de 2022.»
 
 13 de janeiro de 2023. - A Vereadora dos Recursos Humanos, Cármen Antunes.
+
+316197996

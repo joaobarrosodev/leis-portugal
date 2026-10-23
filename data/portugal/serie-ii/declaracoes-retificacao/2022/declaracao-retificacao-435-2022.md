@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/05/093000000/0010500106.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/435-2022-183428220
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bc9b3a7d48fd5b834df7bdb6d017ef1db44f6898f0c4194365c7952a1370928
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14fc229636cf6dfad7f9132cffa936056e818109199b356a2a76f1a7c0ec6aca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gabinete Governamental
+- Governo XXIII
+- Nomeação
+- Pessoal de Gabinete
+- Secretário de Estado da Segurança Social
+- Técnico Especialista de Gabinete
+relationships:
+- type: cites
+  target: pt:dre:182605271:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:46Z'
   warnings: []
   errors: []
 ---
@@ -125,3 +135,5 @@ Formadora certificada nas áreas da Qualidade, Auditorias, Reengenharia, Planeam
 Oradora no Evento Project You, painel 'Normalização da Gestão de Projetos' (2015), na Conferência ipBPM lisbon'14 com o tema 'Como promover a adopção de práticas BPM na Administração Pública' (2014), Conferência 'Respostas Sociais a Caminho da Certificação: Perspetivas e Obstáculos' (2010) e no 'I Congresso da Federação APPC: Pensar o Futuro - Qualidade e Certificação' (2010).»
 
 3 de maio de 2022. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos.
+
+315285984

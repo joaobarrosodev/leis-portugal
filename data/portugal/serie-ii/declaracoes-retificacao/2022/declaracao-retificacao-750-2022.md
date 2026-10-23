@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/164000000/0036800368.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/750-2022-200254620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac4267da6204546d08258f55a9f48d95788ed2296bb0a1054920b3cda356e52b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98eba744f3f949cf4d4fd8ca36cbf51e28bff978f28a64dbd7d7e8550a286a86
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:186828405:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:31Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 146, de 29 de julho de 2022, o [Aviso (extrato) n.º 15039/2022](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/15039-2022-186828405), referente à consolidação definitiva das mobilidades intercarreiras na carreira/categoria de assistente técnico de vários trabalhadores, retifica-se que onde se lê «Manuel António Sousa Barbosa, consolidação definitiva da mobilidade intercarreiras na carreira/categoria de assistente técnico, posicionado na 1.ª posição, nível 5 da Tabela Remuneratória Única, a que corresponde o valor de (euro) 709,46» deve ler-se «Manuel António Sousa Barbosa, consolidação definitiva da mobilidade intercarreiras na carreira/categoria de assistente técnico posicionado na 3.ª posição, nível 8, da Tabela Remuneratória Única, a que corresponde o valor de (euro) 847,67».
 
 10 de agosto de 2022. - A Vereadora, Dr.ª Célia Correia.
+
+315603908

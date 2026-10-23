@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/046000002/0000200105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/162-b-2024-854167104
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c0899cd7784fedd937771871e7410d17c2fcbbf3a71eb468028c2418d1319f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13d73a7c9252d5650bb87d839a599933fe6625ab0f066c6a5f5ef6c0973e074c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direito de Voto
+- Eleição
+- Publicitação
+- Recenseamento Eleitoral
+relationships:
+- type: cites
+  target: pt:dre:116029385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:148214576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853982520:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:11Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +123,11 @@ Os resultados que agora se publicam têm como data de referência o dia 31 de de
 
 Número de eleitores em 31 de dezembro de 2023
 
-|  |  |  |  | Nacionais | UE | ER |
+|  | **Nacionais** | **UE** | **ER** |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| CONTINENTE E REGIÕES AUTÓNOMAS | CONTINENTE E REGIÕES AUTÓNOMAS | CONTINENTE E REGIÕES AUTÓNOMAS | CONTINENTE E REGIÕES AUTÓNOMAS | 9 260 214 | 15 007 | 17 816 |
-|  | AVEIRO | AVEIRO | AVEIRO | 641 355 | 199 | 546 |
-|  |  | ÁGUEDA | ÁGUEDA | 41 920 | 13 | 11 |
+| **CONTINENTE****E****REGIÕES AUTÓNOMAS** | **9 260 214** | **15 007** | **17 816** |  |  |  |
+|  | **AVEIRO** | **641 355** | **199** | **546** |  |  |
+|  |  | ÁGUEDA | 41 920 | 13 | 11 |  |
 |  |  |  | Aguada de Cima | 3 631 | 0 | 0 |
 |  |  |  | Fermentelos | 2 822 | 1 | 0 |
 |  |  |  | Macinhata do Vouga | 3 035 | 4 | 4 |
@@ -115,14 +139,14 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Travassô e Óis da Ribeira | 2 006 | 0 | 0 |
 |  |  |  | União das freguesias de Trofa, Segadães e Lamas do Vouga | 4 031 | 1 | 0 |
 |  |  |  | União das freguesias do Préstimo e Macieira de Alcoba | 748 | 0 | 0 |
-|  |  | ALBERGARIA-A-VELHA | ALBERGARIA-A-VELHA | 22 423 | 8 | 7 |
+|  |  | ALBERGARIA-A-VELHA | 22 423 | 8 | 7 |  |
 |  |  |  | Alquerubim | 2 039 | 1 | 0 |
 |  |  |  | Angeja | 1 774 | 1 | 1 |
 |  |  |  | Branca | 4 979 | 0 | 0 |
 |  |  |  | Ribeira de Fráguas | 1 399 | 0 | 1 |
 |  |  |  | Albergaria-a-Velha e Valmaior | 9 728 | 5 | 4 |
 |  |  |  | São João de Loure e Frossos | 2 504 | 1 | 1 |
-|  |  | ANADIA | ANADIA | 25 580 | 4 | 0 |
+|  |  | ANADIA | 25 580 | 4 | 0 |  |
 |  |  |  | Avelãs de Caminho | 1 050 | 0 | 0 |
 |  |  |  | Avelãs de Cima | 1 839 | 0 | 0 |
 |  |  |  | Moita | 2 080 | 1 | 0 |
@@ -133,7 +157,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Amoreira da Gândara, Paredes do Bairro e Ancas | 2 414 | 0 | 0 |
 |  |  |  | União das freguesias de Arcos e Mogofores | 5 482 | 2 | 0 |
 |  |  |  | União das freguesias de Tamengos, Aguim e Óis do Bairro | 2 941 | 0 | 0 |
-|  |  | AROUCA | AROUCA | 19 635 | 4 | 2 |
+|  |  | AROUCA | 19 635 | 4 | 2 |  |
 |  |  |  | Alvarenga | 928 | 0 | 0 |
 |  |  |  | Chave | 1 160 | 1 | 0 |
 |  |  |  | Escariz | 1 909 | 0 | 0 |
@@ -150,7 +174,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Cabreiros e Albergaria da Serra | 233 | 0 | 0 |
 |  |  |  | União das freguesias de Canelas e Espiunca | 989 | 0 | 1 |
 |  |  |  | União das freguesias de Covelo de Paivó e Janarde | 172 | 0 | 0 |
-|  |  | AVEIRO | AVEIRO | 70 183 | 37 | 39 |
+|  |  | AVEIRO | 70 183 | 37 | 39 |  |
 |  |  |  | Aradas | 8 408 | 6 | 1 |
 |  |  |  | Cacia | 6 187 | 4 | 3 |
 |  |  |  | Esgueira | 11 712 | 6 | 6 |
@@ -161,25 +185,25 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Eixo e Eirol | 5 389 | 3 | 1 |
 |  |  |  | Requeixo, Nossa Senhora de Fátima e Nariz | 4 010 | 1 | 2 |
 |  |  |  | União das freguesias de Glória e Vera Cruz | 17 740 | 12 | 17 |
-|  |  | CASTELO DE PAIVA | CASTELO DE PAIVA | 14 003 | 5 | 2 |
+|  |  | CASTELO DE PAIVA | 14 003 | 5 | 2 |  |
 |  |  |  | Fornos | 1 093 | 0 | 0 |
 |  |  |  | Real | 1 062 | 1 | 1 |
 |  |  |  | Santa Maria de Sardoura | 2 037 | 1 | 0 |
 |  |  |  | São Martinho de Sardoura | 1 618 | 1 | 0 |
 |  |  |  | União das freguesias de Raiva, Pedorido e Paraíso | 3 861 | 0 | 0 |
 |  |  |  | União das freguesias de Sobrado e Bairros | 4 332 | 2 | 1 |
-|  |  | ESPINHO | ESPINHO | 29 309 | 18 | 10 |
+|  |  | ESPINHO | 29 309 | 18 | 10 |  |
 |  |  |  | Espinho | 9 914 | 8 | 3 |
 |  |  |  | Paramos | 3 019 | 3 | 1 |
 |  |  |  | Silvalde | 5 700 | 2 | 5 |
 |  |  |  | União das freguesias de Anta e Guetim | 10 676 | 5 | 1 |
-|  |  | ESTARREJA | ESTARREJA | 23 972 | 11 | 5 |
+|  |  | ESTARREJA | 23 972 | 11 | 5 |  |
 |  |  |  | Avanca | 5 301 | 0 | 1 |
 |  |  |  | Pardilhó | 3 752 | 4 | 1 |
 |  |  |  | Salreu | 3 311 | 3 | 2 |
 |  |  |  | União das freguesias de Beduído e Veiros | 9 098 | 2 | 1 |
 |  |  |  | União das freguesias de Canelas e Fermelã | 2 510 | 2 | 0 |
-|  |  | SANTA MARIA DA FEIRA | SANTA MARIA DA FEIRA | 126 415 | 17 | 19 |
+|  |  | SANTA MARIA DA FEIRA | 126 415 | 17 | 19 |  |
 |  |  |  | Argoncilhe | 7 480 | 0 | 0 |
 |  |  |  | Arrifana | 5 649 | 0 | 2 |
 |  |  |  | Escapães | 3 094 | 0 | 0 |
@@ -201,24 +225,24 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Lobão, Gião, Louredo e Guisande | 9 431 | 4 | 1 |
 |  |  |  | União das freguesias de Santa Maria da Feira, Travanca, Sanfins e Espargo | 17 577 | 7 | 5 |
 |  |  |  | União de freguesias de São Miguel de Souto e Mosteirô | 6 079 | 1 | 3 |
-|  |  | ÍLHAVO | ÍLHAVO | 36 190 | 14 | 6 |
+|  |  | ÍLHAVO | 36 190 | 14 | 6 |  |
 |  |  |  | Gafanha da Encarnação | 5 159 | 0 | 2 |
 |  |  |  | Gafanha da Nazaré | 13 979 | 7 | 3 |
 |  |  |  | Gafanha do Carmo | 1 748 | 2 | 0 |
 |  |  |  | Ílhavo (São Salvador) | 15 304 | 5 | 1 |
-|  |  | MEALHADA | MEALHADA | 17 681 | 3 | 5 |
+|  |  | MEALHADA | 17 681 | 3 | 5 |  |
 |  |  |  | Barcouço | 1 876 | 0 | 0 |
 |  |  |  | Casal Comba | 2 893 | 0 | 1 |
 |  |  |  | Luso | 2 186 | 1 | 1 |
 |  |  |  | Pampilhosa | 3 474 | 0 | 0 |
 |  |  |  | Vacariça | 1 581 | 0 | 1 |
 |  |  |  | União das freguesias da Mealhada, Ventosa do Bairro e Antes | 5 671 | 2 | 2 |
-|  |  | MURTOSA | MURTOSA | 9 903 | 3 | 24 |
+|  |  | MURTOSA | 9 903 | 3 | 24 |  |
 |  |  |  | Bunheiro | 2 408 | 1 | 1 |
 |  |  |  | Monte | 1 534 | 0 | 0 |
 |  |  |  | Murtosa | 3 178 | 1 | 14 |
 |  |  |  | Torreira | 2 783 | 1 | 9 |
-|  |  | OLIVEIRA DE AZEMÉIS | OLIVEIRA DE AZEMÉIS | 60 414 | 24 | 281 |
+|  |  | OLIVEIRA DE AZEMÉIS | 60 414 | 24 | 281 |  |
 |  |  |  | Carregosa | 3 071 | 1 | 2 |
 |  |  |  | Cesar | 2 805 | 0 | 5 |
 |  |  |  | Fajões | 2 701 | 0 | 1 |
@@ -231,20 +255,20 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Nogueira do Cravo e Pindelo | 4 678 | 3 | 1 |
 |  |  |  | União das freguesias de Oliveira de Azeméis, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail | 18 567 | 14 | 262 |
 |  |  |  | União das freguesias de Pinheiro da Bemposta, Travanca e Palmaz | 6 315 | 2 | 4 |
-|  |  | OLIVEIRA DO BAIRRO | OLIVEIRA DO BAIRRO | 20 864 | 3 | 11 |
+|  |  | OLIVEIRA DO BAIRRO | 20 864 | 3 | 11 |  |
 |  |  |  | Oiã | 6 862 | 1 | 4 |
 |  |  |  | Oliveira do Bairro | 5 696 | 1 | 0 |
 |  |  |  | Palhaça | 2 405 | 0 | 3 |
 |  |  |  | União das freguesias de Bustos, Troviscal e Mamarrosa | 5 901 | 1 | 4 |
-|  |  | OVAR | OVAR | 50 858 | 24 | 6 |
+|  |  | OVAR | 50 858 | 24 | 6 |  |
 |  |  |  | Cortegaça | 3 400 | 2 | 0 |
 |  |  |  | Esmoriz | 11 028 | 9 | 1 |
 |  |  |  | Maceda | 3 185 | 1 | 0 |
 |  |  |  | Válega | 6 181 | 0 | 0 |
 |  |  |  | União das freguesias de Ovar, São João, Arada e São Vicente de Pereira Jusã | 27 064 | 12 | 5 |
-|  |  | SÃO JOÃO DA MADEIRA | SÃO JOÃO DA MADEIRA | 19 530 | 6 | 115 |
+|  |  | SÃO JOÃO DA MADEIRA | 19 530 | 6 | 115 |  |
 |  |  |  | São João da Madeira | 19 530 | 6 | 115 |
-|  |  | SEVER DO VOUGA | SEVER DO VOUGA | 10 296 | 1 | 2 |
+|  |  | SEVER DO VOUGA | 10 296 | 1 | 2 |  |
 |  |  |  | Couto de Esteves | 708 | 0 | 0 |
 |  |  |  | Pessegueiro do Vouga | 1 586 | 0 | 0 |
 |  |  |  | Rocas do Vouga | 1 452 | 0 | 0 |
@@ -252,7 +276,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Talhadas | 1 063 | 0 | 0 |
 |  |  |  | União das freguesias de Cedrim e Paradela | 1 274 | 0 | 0 |
 |  |  |  | União das freguesias de Silva Escura e Dornelas | 1 881 | 0 | 0 |
-|  |  | VAGOS | VAGOS | 22 305 | 3 | 0 |
+|  |  | VAGOS | 22 305 | 3 | 0 |  |
 |  |  |  | Calvão | 2 049 | 0 | 0 |
 |  |  |  | Gafanha da Boa Hora | 3 170 | 0 | 0 |
 |  |  |  | Ouca | 1 632 | 0 | 0 |
@@ -261,7 +285,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Fonte de Angeão e Covão do Lobo | 2 128 | 1 | 0 |
 |  |  |  | União das freguesias de Ponte de Vagos e Santa Catarina | 2 799 | 0 | 0 |
 |  |  |  | União das freguesias de Vagos e Santo António | 5 868 | 1 | 0 |
-|  |  | VALE DE CAMBRA | VALE DE CAMBRA | 19 874 | 1 | 1 |
+|  |  | VALE DE CAMBRA | 19 874 | 1 | 1 |  |
 |  |  |  | Arões | 1 209 | 0 | 0 |
 |  |  |  | São Pedro de Castelões | 6 239 | 0 | 1 |
 |  |  |  | Cepelos | 1 223 | 0 | 0 |
@@ -269,23 +293,23 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Macieira de Cambra | 4 042 | 0 | 0 |
 |  |  |  | Roge | 1 526 | 1 | 0 |
 |  |  |  | União das freguesias de Vila Chã, Codal e Vila Cova de Perrinho | 4 782 | 0 | 0 |
-|  | BEJA | BEJA | BEJA | 118 994 | 803 | 198 |
-|  |  | ALJUSTREL | ALJUSTREL | 7 765 | 1 | 2 |
+|  | **BEJA** | **118 994** | **803** | **198** |  |  |
+|  |  | ALJUSTREL | 7 765 | 1 | 2 |  |
 |  |  |  | Ervidel | 775 | 0 | 0 |
 |  |  |  | Messejana | 722 | 0 | 0 |
 |  |  |  | São João de Negrilhos | 1 192 | 0 | 1 |
 |  |  |  | União das freguesias de Aljustrel e Rio de Moinhos | 5 076 | 1 | 1 |
-|  |  | ALMODÔVAR | ALMODÔVAR | 5 975 | 21 | 23 |
+|  |  | ALMODÔVAR | 5 975 | 21 | 23 |  |
 |  |  |  | Rosário | 548 | 0 | 0 |
 |  |  |  | Santa Cruz | 479 | 4 | 0 |
 |  |  |  | São Barnabé | 341 | 5 | 2 |
 |  |  |  | Aldeia dos Fernandes | 503 | 1 | 1 |
 |  |  |  | União das freguesias de Almodôvar e Graça dos Padrões | 3 390 | 7 | 20 |
 |  |  |  | União das freguesias de Santa Clara-a-Nova e Gomes Aires | 714 | 4 | 0 |
-|  |  | ALVITO | ALVITO | 1 848 | 7 | 2 |
+|  |  | ALVITO | 1 848 | 7 | 2 |  |
 |  |  |  | Alvito | 937 | 6 | 2 |
 |  |  |  | Vila Nova da Baronia | 911 | 1 | 0 |
-|  |  | BARRANCOS | BARRANCOS | 1 262 | 2 | 1 |
+|  |  | BARRANCOS | 1 262 | 2 | 1 |  |
 |  |  |  | Barrancos | 1 262 | 2 | 1 |
 |  |  | BEJA |  | 28 364 | 14 | 15 |
 |  |  |  | Baleizão | 727 | 1 | 1 |
@@ -300,22 +324,22 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Salvada e Quintos | 1 055 | 2 | 0 |
 |  |  |  | União das freguesias de Santa Vitória e Mombeja | 724 | 1 | 0 |
 |  |  |  | União das freguesias de Trigaches e São Brissos | 471 | 1 | 0 |
-|  |  | CASTRO VERDE | CASTRO VERDE | 6 027 | 3 | 1 |
+|  |  | CASTRO VERDE | 6 027 | 3 | 1 |  |
 |  |  |  | Entradas | 529 | 0 | 1 |
 |  |  |  | Santa Bárbara de Padrões | 730 | 0 | 0 |
 |  |  |  | São Marcos da Ataboeira | 271 | 0 | 0 |
 |  |  |  | União das freguesias de Castro Verde e Casével | 4 497 | 3 | 0 |
-|  |  | CUBA | CUBA | 3 636 | 3 | 3 |
+|  |  | CUBA | 3 636 | 3 | 3 |  |
 |  |  |  | Cuba | 2 517 | 3 | 3 |
 |  |  |  | Faro do Alentejo | 442 | 0 | 0 |
 |  |  |  | Vila Alva | 318 | 0 | 0 |
 |  |  |  | Vila Ruiva | 359 | 0 | 0 |
-|  |  | FERREIRA DO ALENTEJO | FERREIRA DO ALENTEJO | 6 189 | 3 | 2 |
+|  |  | FERREIRA DO ALENTEJO | 6 189 | 3 | 2 |  |
 |  |  |  | Figueira dos Cavaleiros | 1 022 | 0 | 0 |
 |  |  |  | Odivelas | 391 | 0 | 0 |
 |  |  |  | União das freguesias de Alfundão e Peroguarda | 957 | 0 | 1 |
 |  |  |  | União das freguesias de Ferreira do Alentejo e Canhestros | 3 819 | 3 | 1 |
-|  |  | MÉRTOLA | MÉRTOLA | 5 597 | 19 | 10 |
+|  |  | MÉRTOLA | 5 597 | 19 | 10 |  |
 |  |  |  | Alcaria Ruiva | 599 | 2 | 0 |
 |  |  |  | Corte do Pinto | 700 | 0 | 0 |
 |  |  |  | Espírito Santo | 264 | 5 | 4 |
@@ -323,13 +347,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Santana de Cambas | 636 | 3 | 0 |
 |  |  |  | São João dos Caldeireiros | 451 | 1 | 0 |
 |  |  |  | União das freguesias de São Miguel do Pinheiro, São Pedro de Solis e São Sebastião dos Carros | 756 | 0 | 3 |
-|  |  | MOURA | MOURA | 11 798 | 10 | 2 |
+|  |  | MOURA | 11 798 | 10 | 2 |  |
 |  |  |  | Amareleja | 1 880 | 2 | 0 |
 |  |  |  | Póvoa de São Miguel | 677 | 0 | 0 |
 |  |  |  | Sobral da Adiça | 751 | 1 | 0 |
 |  |  |  | União das freguesias de Moura (Santo Agostinho e São João Baptista) e Santo Amador | 7 140 | 7 | 2 |
 |  |  |  | União das freguesias de Safara e Santo Aleixo da Restauração | 1 350 | 0 | 0 |
-|  |  | ODEMIRA | ODEMIRA | 19 525 | 679 | 82 |
+|  |  | ODEMIRA | 19 525 | 679 | 82 |  |
 |  |  |  | Relíquias | 655 | 110 | 3 |
 |  |  |  | Sabóia | 725 | 55 | 4 |
 |  |  |  | São Luís | 1 527 | 89 | 10 |
@@ -343,24 +367,24 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | São Salvador e Santa Maria | 2 434 | 20 | 5 |
 |  |  |  | São Teotónio | 4 533 | 137 | 8 |
 |  |  |  | Vale de Santiago | 740 | 0 | 0 |
-|  |  | OURIQUE | OURIQUE | 4 164 | 30 | 49 |
+|  |  | OURIQUE | 4 164 | 30 | 49 |  |
 |  |  |  | Ourique | 2 344 | 20 | 36 |
 |  |  |  | Santana da Serra | 586 | 2 | 4 |
 |  |  |  | União das freguesias de Garvão e Santa Luzia | 773 | 6 | 7 |
 |  |  |  | União das freguesias de Panoias e Conceição | 461 | 2 | 2 |
-|  |  | SERPA | SERPA | 12 277 | 3 | 1 |
+|  |  | SERPA | 12 277 | 3 | 1 |  |
 |  |  |  | Brinches | 811 | 0 | 0 |
 |  |  |  | Pias | 2 147 | 1 | 0 |
 |  |  |  | Vila Verde de Ficalho | 1 131 | 1 | 1 |
 |  |  |  | União das freguesias de Serpa (Salvador e Santa Maria) | 5 028 | 1 | 0 |
 |  |  |  | União das freguesias de Vila Nova de São Bento e Vale de Vargo | 3 160 | 0 | 0 |
-|  |  | VIDIGUEIRA | VIDIGUEIRA | 4 567 | 8 | 5 |
+|  |  | VIDIGUEIRA | 4 567 | 8 | 5 |  |
 |  |  |  | Pedrógão | 817 | 5 | 0 |
 |  |  |  | Selmes | 655 | 1 | 0 |
 |  |  |  | Vidigueira | 2 368 | 1 | 5 |
 |  |  |  | Vila de Frades | 727 | 1 | 0 |
-|  | BRAGA | BRAGA | BRAGA | 779 098 | 301 | 260 |
-|  |  | AMARES | AMARES | 17 626 | 4 | 5 |
+|  | **BRAGA** | **779 098** | **301** | **260** |  |  |
+|  |  | AMARES | 17 626 | 4 | 5 |  |
 |  |  |  | Barreiros | 693 | 0 | 0 |
 |  |  |  | Bico | 736 | 0 | 0 |
 |  |  |  | Caires | 822 | 0 | 0 |
@@ -377,7 +401,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Ferreiros, Prozelo e Besteiros | 4 226 | 4 | 1 |
 |  |  |  | União das freguesias de Torre e Portela | 553 | 0 | 0 |
 |  |  |  | União das freguesias de Vilela, Seramil e Paredes Secas | 498 | 0 | 0 |
-|  |  | BARCELOS | BARCELOS | 106 534 | 26 | 6 |
+|  |  | BARCELOS | 106 534 | 26 | 6 |  |
 |  |  |  | Abade de Neiva | 1 832 | 0 | 0 |
 |  |  |  | Aborim | 723 | 0 | 0 |
 |  |  |  | Adães | 677 | 0 | 2 |
@@ -439,7 +463,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Tamel (Santa Leocádia) e Vilar do Monte | 1 186 | 0 | 0 |
 |  |  |  | União das freguesias de Viatodos, Grimancelos, Minhotães e Monte de Fralães | 3 506 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Cova e Feitos | 2 225 | 0 | 0 |
-|  |  | BRAGA | BRAGA | 167 279 | 105 | 179 |
+|  |  | BRAGA | 167 279 | 105 | 179 |  |
 |  |  |  | Adaúfe | 3 484 | 2 | 0 |
 |  |  |  | Espinho | 1 062 | 1 | 1 |
 |  |  |  | Esporões | 1 586 | 0 | 0 |
@@ -477,7 +501,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Real, Dume e Semelhe | 12 038 | 6 | 6 |
 |  |  |  | União das freguesias de Santa Lucrécia de Algeriz e Navarra | 877 | 0 | 0 |
 |  |  |  | União das freguesias de Vilaça e Fradelos | 1 479 | 0 | 2 |
-|  |  | CABECEIRAS DE BASTO | CABECEIRAS DE BASTO | 16 794 | 17 | 4 |
+|  |  | CABECEIRAS DE BASTO | 16 794 | 17 | 4 |  |
 |  |  |  | Abadim | 511 | 0 | 0 |
 |  |  |  | Basto | 899 | 0 | 0 |
 |  |  |  | Bucos | 550 | 0 | 0 |
@@ -490,7 +514,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Arco de Baúlhe e Vila Nune | 2 039 | 1 | 0 |
 |  |  |  | União das freguesias de Gondiães e Vilar de Cunhas | 538 | 0 | 0 |
 |  |  |  | União das freguesias de Refojos de Basto, Outeiro e Painzela | 6 691 | 1 | 1 |
-|  |  | CELORICO DE BASTO | CELORICO DE BASTO | 17 295 | 12 | 1 |
+|  |  | CELORICO DE BASTO | 17 295 | 12 | 1 |  |
 |  |  |  | Agilde | 1 107 | 0 | 0 |
 |  |  |  | Arnóia | 1 409 | 0 | 0 |
 |  |  |  | Borba de Montanha | 1 136 | 0 | 0 |
@@ -506,7 +530,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Canedo de Basto e Corgo | 1 131 | 1 | 0 |
 |  |  |  | União das freguesias de Carvalho e Basto (Santa Tecla) | 834 | 0 | 0 |
 |  |  |  | União das freguesias de Veade, Gagos e Molares | 1 668 | 1 | 0 |
-|  |  | ESPOSENDE | ESPOSENDE | 33 356 | 15 | 2 |
+|  |  | ESPOSENDE | 33 356 | 15 | 2 |  |
 |  |  |  | Antas | 2 058 | 0 | 0 |
 |  |  |  | Forjães | 2 440 | 0 | 0 |
 |  |  |  | Gemeses | 1 049 | 0 | 0 |
@@ -516,7 +540,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Esposende, Marinhas e Gandra | 11 528 | 10 | 2 |
 |  |  |  | União das freguesias de Fonte Boa e Rio Tinto | 1 662 | 0 | 0 |
 |  |  |  | União das freguesias de Palmeira de Faro e Curvos | 2 900 | 0 | 0 |
-|  |  | FAFE | FAFE | 49 958 | 4 | 2 |
+|  |  | FAFE | 49 958 | 4 | 2 |  |
 |  |  |  | Armil | 660 | 1 | 0 |
 |  |  |  | Estorãos | 1 941 | 0 | 0 |
 |  |  |  | Fafe | 15 119 | 1 | 1 |
@@ -542,7 +566,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União de freguesias de Freitas e Vila Cova | 781 | 0 | 0 |
 |  |  |  | União de freguesias de Monte e Queimadela | 1 047 | 0 | 0 |
 |  |  |  | União de freguesias de Moreira do Rei e Várzea Cova | 1 939 | 0 | 0 |
-|  |  | GUIMARÃES | GUIMARÃES | 143 068 | 24 | 22 |
+|  |  | GUIMARÃES | 143 068 | 24 | 22 |  |
 |  |  |  | Aldão | 1 245 | 0 | 1 |
 |  |  |  | Azurém | 7 908 | 0 | 3 |
 |  |  |  | Barco | 1 369 | 0 | 0 |
@@ -591,7 +615,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Serzedo e Calvos | 2 059 | 1 | 2 |
 |  |  |  | União das freguesias de Souto Santa Maria, Souto São Salvador e Gondomar | 2 173 | 0 | 0 |
 |  |  |  | União das freguesias de Tabuadelo e São Faustino | 2 327 | 0 | 0 |
-|  |  | PÓVOA DE LANHOSO | PÓVOA DE LANHOSO | 21 838 | 20 | 16 |
+|  |  | PÓVOA DE LANHOSO | 21 838 | 20 | 16 |  |
 |  |  |  | Covelas | 394 | 1 | 1 |
 |  |  |  | Ferreiros | 350 | 3 | 0 |
 |  |  |  | Galegos | 581 | 0 | 0 |
@@ -614,7 +638,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Esperança e Brunhais | 625 | 1 | 0 |
 |  |  |  | União das freguesias de Fonte Arcada e Oliveira | 1 645 | 0 | 0 |
 |  |  |  | União das freguesias de Verim, Friande e Ajude | 667 | 0 | 0 |
-|  |  | TERRAS DE BOURO | TERRAS DE BOURO | 6 468 | 4 | 0 |
+|  |  | TERRAS DE BOURO | 6 468 | 4 | 0 |  |
 |  |  |  | Balança | 309 | 1 | 0 |
 |  |  |  | Campo do Gerês | 171 | 0 | 0 |
 |  |  |  | Carvalheira | 324 | 0 | 0 |
@@ -629,7 +653,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Chamoim e Vilar | 378 | 0 | 0 |
 |  |  |  | União das freguesias de Chorense e Monte | 520 | 0 | 0 |
 |  |  |  | União das freguesias de Cibões e Brufe | 327 | 0 | 0 |
-|  |  | VIEIRA DO MINHO | VIEIRA DO MINHO | 12 148 | 20 | 1 |
+|  |  | VIEIRA DO MINHO | 12 148 | 20 | 1 |  |
 |  |  |  | Cantelães | 666 | 0 | 0 |
 |  |  |  | Eira Vedra | 632 | 1 | 0 |
 |  |  |  | Guilhofrei | 949 | 1 | 0 |
@@ -646,7 +670,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Caniçada e Soengas | 544 | 1 | 1 |
 |  |  |  | União das freguesias de Ruivães e Campos | 753 | 3 | 0 |
 |  |  |  | União das freguesias de Ventosa e Cova | 617 | 1 | 0 |
-|  |  | VILA NOVA DE FAMALICÃO | VILA NOVA DE FAMALICÃO | 120 364 | 23 | 14 |
+|  |  | VILA NOVA DE FAMALICÃO | 120 364 | 23 | 14 |  |
 |  |  |  | Bairro | 3 073 | 0 | 1 |
 |  |  |  | Brufe | 2 012 | 0 | 0 |
 |  |  |  | Castelões | 1 788 | 0 | 0 |
@@ -681,7 +705,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Seide | 1 406 | 0 | 0 |
 |  |  |  | União das freguesias de Vale (São Cosme), Telhado e Portela | 4 843 | 1 | 0 |
 |  |  |  | União das freguesias de Vila Nova de Famalicão e Calendário | 18 538 | 5 | 6 |
-|  |  | VILA VERDE | VILA VERDE | 44 637 | 22 | 5 |
+|  |  | VILA VERDE | 44 637 | 22 | 5 |  |
 |  |  |  | Atiães | 478 | 2 | 0 |
 |  |  |  | Cabanelas | 1 823 | 0 | 0 |
 |  |  |  | Cervães | 1 839 | 0 | 0 |
@@ -715,14 +739,14 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Valbom (São Pedro), Passô e Valbom (São Martinho) | 580 | 0 | 0 |
 |  |  |  | União das freguesias do Vade | 1 630 | 0 | 0 |
 |  |  |  | Vila Verde e Barbudo | 6 725 | 2 | 0 |
-|  |  | VIZELA | VIZELA | 21 733 | 5 | 3 |
+|  |  | VIZELA | 21 733 | 5 | 3 |  |
 |  |  |  | Santa Eulália | 4 815 | 0 | 0 |
 |  |  |  | Infias | 1 635 | 3 | 0 |
 |  |  |  | Vizela (Santo Adrião) | 2 139 | 0 | 0 |
 |  |  |  | União das freguesias de Caldas de Vizela (São Miguel e São João) | 10 184 | 2 | 3 |
 |  |  |  | União das freguesias de Tagilde e Vizela (São Paio) | 2 960 | 0 | 0 |
-|  | BRAGANÇA | BRAGANÇA | BRAGANÇA | 134 181 | 144 | 52 |
-|  |  | ALFÂNDEGA DA FÉ | ALFÂNDEGA DA FÉ | 5 104 | 1 | 1 |
+|  | **BRAGANÇA** | **134 181** | **144** | **52** |  |  |
+|  |  | ALFÂNDEGA DA FÉ | 5 104 | 1 | 1 |  |
 |  |  |  | Alfândega da Fé | 1 972 | 0 | 0 |
 |  |  |  | Cerejais | 193 | 0 | 0 |
 |  |  |  | Sambade | 481 | 0 | 0 |
@@ -735,7 +759,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Gebelim e Soeima | 368 | 0 | 0 |
 |  |  |  | União das freguesias de Parada e Sendim da Ribeira | 207 | 0 | 0 |
 |  |  |  | União das freguesias de Pombal e Vales | 182 | 0 | 0 |
-|  |  | BRAGANÇA | BRAGANÇA | 35 297 | 20 | 8 |
+|  |  | BRAGANÇA | 35 297 | 20 | 8 |  |
 |  |  |  | Alfaião | 174 | 0 | 0 |
 |  |  |  | Babe | 270 | 0 | 0 |
 |  |  |  | Baçal | 512 | 0 | 0 |
@@ -775,7 +799,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Rio Frio e Milhão | 393 | 0 | 0 |
 |  |  |  | União das freguesias de São Julião de Palácios e Deilão | 466 | 0 | 1 |
 |  |  |  | União das freguesias de Sé, Santa Maria e Meixedo | 21 199 | 8 | 7 |
-|  |  | CARRAZEDA DE ANSIÃES | CARRAZEDA DE ANSIÃES | 5 849 | 7 | 0 |
+|  |  | CARRAZEDA DE ANSIÃES | 5 849 | 7 | 0 |  |
 |  |  |  | Carrazeda de Ansiães | 1 560 | 6 | 0 |
 |  |  |  | Fonte Longa | 260 | 0 | 0 |
 |  |  |  | Linhares | 417 | 0 | 0 |
@@ -790,12 +814,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Belver e Mogo de Malta | 386 | 0 | 0 |
 |  |  |  | União das freguesias de Castanheiro do Norte e Ribalonga | 439 | 0 | 0 |
 |  |  |  | União das freguesias de Lavandeira, Beira Grande e Selores | 391 | 0 | 0 |
-|  |  | FREIXO DE ESPADA À CINTA | FREIXO DE ESPADA À CINTA | 2 997 | 26 | 0 |
+|  |  | FREIXO DE ESPADA À CINTA | 2 997 | 26 | 0 |  |
 |  |  |  | Ligares | 306 | 0 | 0 |
 |  |  |  | Poiares | 324 | 1 | 0 |
 |  |  |  | União das freguesias de Freixo de Espada à Cinta e Mazouco | 1 913 | 25 | 0 |
 |  |  |  | União das freguesias de Lagoaça e Fornos | 454 | 0 | 0 |
-|  |  | MACEDO DE CAVALEIROS | MACEDO DE CAVALEIROS | 17 173 | 7 | 0 |
+|  |  | MACEDO DE CAVALEIROS | 17 173 | 7 | 0 |  |
 |  |  |  | Amendoeira | 442 | 0 | 0 |
 |  |  |  | Arcas | 343 | 0 | 0 |
 |  |  |  | Carrapatas | 209 | 0 | 0 |
@@ -826,7 +850,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Espadanedo, Edroso, Murçós e Soutelo Mourisco | 669 | 0 | 0 |
 |  |  |  | União das freguesias de Podence e Santa Combinha | 420 | 0 | 0 |
 |  |  |  | União das freguesias de Talhinhas e Bagueixe | 412 | 0 | 0 |
-|  |  | MIRANDA DO DOURO | MIRANDA DO DOURO | 6 986 | 26 | 31 |
+|  |  | MIRANDA DO DOURO | 6 986 | 26 | 31 |  |
 |  |  |  | Duas Igrejas | 612 | 0 | 0 |
 |  |  |  | Genísio | 202 | 0 | 0 |
 |  |  |  | Malhadas | 401 | 1 | 0 |
@@ -840,7 +864,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Ifanes e Paradela | 284 | 0 | 0 |
 |  |  |  | União das freguesias de Sendim e Atenor | 1 373 | 8 | 11 |
 |  |  |  | União das freguesias de Silva e Águas Vivas | 509 | 0 | 0 |
-|  |  | MIRANDELA | MIRANDELA | 22 482 | 5 | 3 |
+|  |  | MIRANDELA | 22 482 | 5 | 3 |  |
 |  |  |  | Abambres | 382 | 0 | 0 |
 |  |  |  | Abreiro | 246 | 1 | 0 |
 |  |  |  | Aguieiras | 326 | 0 | 0 |
@@ -871,7 +895,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Barcel, Marmelos e Valverde da Gestosa | 380 | 0 | 0 |
 |  |  |  | União das freguesias de Franco e Vila Boa | 305 | 0 | 0 |
 |  |  |  | União das freguesias de Freixeda e Vila Verde | 165 | 0 | 0 |
-|  |  | MOGADOURO | MOGADOURO | 9 638 | 14 | 4 |
+|  |  | MOGADOURO | 9 638 | 14 | 4 |  |
 |  |  |  | Azinhoso | 326 | 0 | 0 |
 |  |  |  | Bemposta | 658 | 0 | 0 |
 |  |  |  | Bruçó | 151 | 3 | 0 |
@@ -893,7 +917,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Mogadouro, Valverde, Vale de Porco e Vilar de Rei | 3 636 | 5 | 1 |
 |  |  |  | União das freguesias de Remondes e Soutelo | 473 | 0 | 0 |
 |  |  |  | União das freguesias de Vilarinho dos Galegos e Ventozelo | 408 | 0 | 0 |
-|  |  | TORRE DE MONCORVO | TORRE DE MONCORVO | 7 580 | 11 | 0 |
+|  |  | TORRE DE MONCORVO | 7 580 | 11 | 0 |  |
 |  |  |  | Açoreira | 393 | 0 | 0 |
 |  |  |  | Cabeça Boa | 380 | 0 | 0 |
 |  |  |  | Carviçais | 611 | 2 | 0 |
@@ -907,7 +931,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Felgar e Souto da Velha | 1 025 | 2 | 0 |
 |  |  |  | União das freguesias de Felgueiras e Maçores | 373 | 1 | 0 |
 |  |  |  | União das freguesias de Urros e Peredo dos Castelhanos | 371 | 0 | 0 |
-|  |  | VILA FLOR | VILA FLOR | 6 596 | 22 | 1 |
+|  |  | VILA FLOR | 6 596 | 22 | 1 |  |
 |  |  |  | Benlhevai | 194 | 15 | 0 |
 |  |  |  | Freixiel | 639 | 1 | 0 |
 |  |  |  | Roios | 150 | 0 | 0 |
@@ -922,7 +946,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Valtorno e Mourão | 417 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Flor e Nabo | 2 256 | 0 | 1 |
 |  |  |  | União das freguesias de Vilas Boas e Vilarinho das Azenhas | 663 | 0 | 0 |
-|  |  | VIMIOSO | VIMIOSO | 5 179 | 0 | 2 |
+|  |  | VIMIOSO | 5 179 | 0 | 2 |  |
 |  |  |  | Argozelo | 822 | 0 | 0 |
 |  |  |  | Carção | 487 | 0 | 0 |
 |  |  |  | Matela | 285 | 0 | 0 |
@@ -933,7 +957,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Algoso, Campo de Víboras e Uva | 705 | 0 | 0 |
 |  |  |  | União das freguesias de Caçarelhos e Angueira | 296 | 0 | 0 |
 |  |  |  | União das freguesias de Vale de Frades e Avelanoso | 350 | 0 | 0 |
-|  |  | VINHAIS | VINHAIS | 9 300 | 5 | 2 |
+|  |  | VINHAIS | 9 300 | 5 | 2 |  |
 |  |  |  | Agrochão | 231 | 1 | 0 |
 |  |  |  | Candedo | 330 | 0 | 0 |
 |  |  |  | Celas | 254 | 2 | 0 |
@@ -960,13 +984,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Soeira, Fresulfe e Mofreita | 231 | 1 | 0 |
 |  |  |  | União das freguesias de Travanca e Santa Cruz | 184 | 0 | 0 |
 |  |  |  | União das freguesias de Vilar de Lomba e São Jomil | 275 | 0 | 0 |
-|  | CASTELO BRANCO | CASTELO BRANCO | CASTELO BRANCO | 163 473 | 148 | 132 |
-|  |  | BELMONTE | BELMONTE | 5 847 | 7 | 4 |
+|  | **CASTELO BRANCO** | **163 473** | **148** | **132** |  |  |
+|  |  | BELMONTE | 5 847 | 7 | 4 |  |
 |  |  |  | Caria | 1 730 | 0 | 1 |
 |  |  |  | Inguias | 602 | 0 | 0 |
 |  |  |  | Maçainhas | 289 | 1 | 0 |
 |  |  |  | União das freguesias de Belmonte e Colmeal da Torre | 3 226 | 6 | 3 |
-|  |  | CASTELO BRANCO | CASTELO BRANCO | 48 045 | 27 | 25 |
+|  |  | CASTELO BRANCO | 48 045 | 27 | 25 |  |
 |  |  |  | Alcains | 4 315 | 0 | 0 |
 |  |  |  | Almaceda | 508 | 4 | 0 |
 |  |  |  | Benquerenças | 606 | 2 | 1 |
@@ -986,7 +1010,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Freixial e Juncal do Campo | 642 | 0 | 0 |
 |  |  |  | União das freguesias de Ninho do Açor e Sobral do Campo | 639 | 0 | 0 |
 |  |  |  | União das freguesias de Póvoa de Rio de Moinhos e Cafede | 836 | 2 | 0 |
-|  |  | COVILHÃ | COVILHÃ | 43 246 | 10 | 15 |
+|  |  | COVILHÃ | 43 246 | 10 | 15 |  |
 |  |  |  | Aldeia de São Francisco de Assis | 448 | 0 | 0 |
 |  |  |  | Boidobra | 2 738 | 1 | 0 |
 |  |  |  | Cortes do Meio | 698 | 1 | 0 |
@@ -1008,7 +1032,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Peso e Vales do Rio | 1 213 | 0 | 0 |
 |  |  |  | União das freguesias de Teixoso e Sarzedo | 3 647 | 2 | 2 |
 |  |  |  | União das freguesias de Vale Formoso e Aldeia do Souto | 666 | 0 | 0 |
-|  |  | FUNDÃO | FUNDÃO | 24 836 | 17 | 5 |
+|  |  | FUNDÃO | 24 836 | 17 | 5 |  |
 |  |  |  | Alcaide | 547 | 0 | 0 |
 |  |  |  | Alcaria | 1 012 | 2 | 1 |
 |  |  |  | Alcongosta | 384 | 0 | 0 |
@@ -1032,7 +1056,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Fundão, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo | 11 255 | 3 | 3 |
 |  |  |  | União das freguesias de Póvoa de Atalaia e Atalaia do Campo | 941 | 0 | 0 |
 |  |  |  | União das freguesias de Vale de Prazeres e Mata da Rainha | 1 133 | 0 | 0 |
-|  |  | IDANHA-A-NOVA | IDANHA-A-NOVA | 7 656 | 23 | 17 |
+|  |  | IDANHA-A-NOVA | 7 656 | 23 | 17 |  |
 |  |  |  | Aldeia de Santa Margarida | 208 | 4 | 0 |
 |  |  |  | Ladoeiro | 1 064 | 1 | 1 |
 |  |  |  | Medelim | 186 | 1 | 1 |
@@ -1046,7 +1070,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Monfortinho e Salvaterra do Extremo | 534 | 0 | 0 |
 |  |  |  | União das freguesias de Monsanto e Idanha-a-Velha | 602 | 5 | 4 |
 |  |  |  | União das freguesias de Zebreira e Segura | 985 | 0 | 0 |
-|  |  | OLEIROS | OLEIROS | 4 470 | 11 | 15 |
+|  |  | OLEIROS | 4 470 | 11 | 15 |  |
 |  |  |  | Álvaro | 148 | 0 | 0 |
 |  |  |  | Cambas | 261 | 1 | 1 |
 |  |  |  | Isna | 147 | 0 | 0 |
@@ -1057,7 +1081,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Sobral | 133 | 0 | 0 |
 |  |  |  | Estreito-Vilar Barroco | 836 | 1 | 2 |
 |  |  |  | Oleiros-Amieira | 1 929 | 3 | 6 |
-|  |  | PENAMACOR | PENAMACOR | 4 064 | 9 | 19 |
+|  |  | PENAMACOR | 4 064 | 9 | 19 |  |
 |  |  |  | Aranhas | 281 | 1 | 0 |
 |  |  |  | Benquerença | 412 | 0 | 0 |
 |  |  |  | Meimão | 249 | 0 | 0 |
@@ -1067,12 +1091,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Vale da Senhora da Póvoa | 188 | 0 | 0 |
 |  |  |  | União das freguesias de Aldeia do Bispo, Águas e Aldeia de João Pires | 817 | 2 | 5 |
 |  |  |  | União das freguesias de Pedrógão de São Pedro e Bemposta | 456 | 0 | 2 |
-|  |  | PROENÇA-A-NOVA | PROENÇA-A-NOVA | 6 616 | 9 | 4 |
+|  |  | PROENÇA-A-NOVA | 6 616 | 9 | 4 |  |
 |  |  |  | Montes da Senhora | 569 | 7 | 1 |
 |  |  |  | São Pedro do Esteval | 415 | 0 | 1 |
 |  |  |  | União das freguesias de Proença-a-Nova e Peral | 4 064 | 2 | 2 |
 |  |  |  | União das freguesias de Sobreira Formosa e Alvito da Beira | 1 568 | 0 | 0 |
-|  |  | SERTÃ | SERTÃ | 13 181 | 9 | 16 |
+|  |  | SERTÃ | 13 181 | 9 | 16 |  |
 |  |  |  | Cabeçudo | 809 | 0 | 3 |
 |  |  |  | Carvalhal | 368 | 1 | 0 |
 |  |  |  | Castelo | 867 | 0 | 0 |
@@ -1083,17 +1107,17 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Cernache do Bonjardim, Nesperal e Palhais | 3 062 | 1 | 4 |
 |  |  |  | União das freguesias de Cumeada e Marmeleiro | 570 | 0 | 0 |
 |  |  |  | União das freguesias de Ermida e Figueiredo | 347 | 0 | 0 |
-|  |  | VILA DE REI | VILA DE REI | 2 747 | 13 | 7 |
+|  |  | VILA DE REI | 2 747 | 13 | 7 |  |
 |  |  |  | Fundada | 488 | 4 | 3 |
 |  |  |  | São João do Peso | 114 | 2 | 0 |
 |  |  |  | Vila de Rei | 2 145 | 7 | 4 |
-|  |  | VILA VELHA DE RÓDÃO | VILA VELHA DE RÓDÃO | 2 765 | 13 | 5 |
+|  |  | VILA VELHA DE RÓDÃO | 2 765 | 13 | 5 |  |
 |  |  |  | Fratel | 444 | 3 | 1 |
 |  |  |  | Perais | 384 | 1 | 0 |
 |  |  |  | Sarnadas de Ródão | 456 | 1 | 0 |
 |  |  |  | Vila Velha de Ródão | 1 481 | 8 | 4 |
-|  | COIMBRA | COIMBRA | COIMBRA | 371 409 | 523 | 276 |
-|  |  | ARGANIL | ARGANIL | 9 798 | 83 | 84 |
+|  | **COIMBRA** | **371 409** | **523** | **276** |  |  |
+|  |  | ARGANIL | 9 798 | 83 | 84 |  |
 |  |  |  | Arganil | 3 437 | 4 | 5 |
 |  |  |  | Benfeita | 303 | 21 | 33 |
 |  |  |  | Celavisa | 131 | 4 | 11 |
@@ -1108,7 +1132,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Cerdeira e Moura da Serra | 323 | 1 | 0 |
 |  |  |  | União das freguesias de Côja e Barril de Alva | 1 424 | 7 | 0 |
 |  |  |  | União das freguesias de Vila Cova de Alva e Anseriz | 447 | 21 | 23 |
-|  |  | CANTANHEDE | CANTANHEDE | 34 012 | 11 | 3 |
+|  |  | CANTANHEDE | 34 012 | 11 | 3 |  |
 |  |  |  | Ançã | 2 331 | 1 | 0 |
 |  |  |  | Cadima | 2 680 | 0 | 0 |
 |  |  |  | Cordinhã | 994 | 0 | 0 |
@@ -1123,7 +1147,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Portunhos e Outil | 1 776 | 1 | 0 |
 |  |  |  | União das freguesias de Sepins e Bolho | 1 773 | 0 | 0 |
 |  |  |  | União das freguesias de Vilamar e Corticeiro de Cima | 1 422 | 2 | 0 |
-|  |  | COIMBRA | COIMBRA | 124 702 | 72 | 59 |
+|  |  | COIMBRA | 124 702 | 72 | 59 |  |
 |  |  |  | Almalaguês | 2 637 | 0 | 1 |
 |  |  |  | Brasfemes | 1 747 | 0 | 1 |
 |  |  |  | Ceira | 3 049 | 0 | 0 |
@@ -1142,7 +1166,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Souselas e Botão | 3 989 | 0 | 0 |
 |  |  |  | União das freguesias de Taveiro, Ameal e Arzila | 3 515 | 2 | 1 |
 |  |  |  | União das freguesias de Trouxemil e Torre de Vilela | 3 239 | 0 | 0 |
-|  |  | CONDEIXA-A-NOVA | CONDEIXA-A-NOVA | 14 596 | 2 | 2 |
+|  |  | CONDEIXA-A-NOVA | 14 596 | 2 | 2 |  |
 |  |  |  | Anobra | 1 081 | 0 | 1 |
 |  |  |  | Ega | 2 326 | 0 | 0 |
 |  |  |  | Furadouro | 169 | 0 | 0 |
@@ -1150,7 +1174,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Condeixa-a-Velha e Condeixa-a-Nova | 7 374 | 2 | 1 |
 |  |  |  | União das freguesias de Sebal e Belide | 2 482 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Seca e Bem da Fé | 832 | 0 | 0 |
-|  |  | FIGUEIRA DA FOZ | FIGUEIRA DA FOZ | 54 521 | 77 | 37 |
+|  |  | FIGUEIRA DA FOZ | 54 521 | 77 | 37 |  |
 |  |  |  | Alqueidão | 1 385 | 2 | 0 |
 |  |  |  | Maiorca | 2 144 | 0 | 1 |
 |  |  |  | Marinha das Ondas | 2 612 | 1 | 1 |
@@ -1170,7 +1194,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Góis | 1 717 | 5 | 5 |
 |  |  |  | Vila Nova do Ceira | 806 | 3 | 0 |
 |  |  |  | União das freguesias de Cadafaz e Colmeal | 267 | 18 | 3 |
-|  |  | LOUSÃ | LOUSÃ | 15 259 | 37 | 6 |
+|  |  | LOUSÃ | 15 259 | 37 | 6 |  |
 |  |  |  | Serpins | 1 489 | 9 | 0 |
 |  |  |  | Gândaras | 1 080 | 1 | 0 |
 |  |  |  | União das freguesias de Foz de Arouce e Casal de Ermio | 1 155 | 13 | 3 |
@@ -1180,12 +1204,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Seixo | 1 537 | 1 | 0 |
 |  |  |  | Carapelhos | 788 | 0 | 0 |
 |  |  |  | Praia de Mira | 3 512 | 4 | 1 |
-|  |  | MIRANDA DO CORVO | MIRANDA DO CORVO | 10 633 | 19 | 5 |
+|  |  | MIRANDA DO CORVO | 10 633 | 19 | 5 |  |
 |  |  |  | Lamas | 663 | 8 | 0 |
 |  |  |  | Miranda do Corvo | 6 265 | 8 | 1 |
 |  |  |  | Vila Nova | 731 | 0 | 2 |
 |  |  |  | União das freguesias de Semide e Rio Vide | 2 974 | 3 | 2 |
-|  |  | MONTEMOR-O-VELHO | MONTEMOR-O-VELHO | 21 563 | 14 | 3 |
+|  |  | MONTEMOR-O-VELHO | 21 563 | 14 | 3 |  |
 |  |  |  | Arazede | 4 642 | 1 | 1 |
 |  |  |  | Carapinheira | 2 430 | 2 | 0 |
 |  |  |  | Liceia | 949 | 0 | 0 |
@@ -1197,7 +1221,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Ereira | 532 | 0 | 0 |
 |  |  |  | União das freguesias de Abrunheira, Verride e Vila Nova da Barca | 1 175 | 5 | 0 |
 |  |  |  | União das freguesias de Montemor-o-Velho e Gatões | 2 991 | 0 | 0 |
-|  |  | OLIVEIRA DO HOSPITAL | OLIVEIRA DO HOSPITAL | 17 227 | 54 | 13 |
+|  |  | OLIVEIRA DO HOSPITAL | 17 227 | 54 | 13 |  |
 |  |  |  | Aldeia das Dez | 402 | 5 | 0 |
 |  |  |  | Alvoco das Várzeas | 245 | 2 | 0 |
 |  |  |  | Avô | 411 | 4 | 0 |
@@ -1214,7 +1238,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Oliveira do Hospital e São Paio de Gramaços | 5 116 | 2 | 1 |
 |  |  |  | União das freguesias de Penalva de Alva e São Sebastião da Feira | 871 | 3 | 1 |
 |  |  |  | União das freguesias de Santa Ovaia e Vila Pouca da Beira | 722 | 3 | 1 |
-|  |  | PAMPILHOSA DA SERRA | PAMPILHOSA DA SERRA | 3 304 | 3 | 4 |
+|  |  | PAMPILHOSA DA SERRA | 3 304 | 3 | 4 |  |
 |  |  |  | Cabril | 222 | 0 | 0 |
 |  |  |  | Dornelas do Zêzere | 467 | 0 | 0 |
 |  |  |  | Janeiro de Baixo | 523 | 0 | 0 |
@@ -1223,7 +1247,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Unhais-o-Velho | 393 | 1 | 2 |
 |  |  |  | Fajão-Vidual | 228 | 1 | 0 |
 |  |  |  | Portela do Fojo-Machio | 298 | 0 | 0 |
-|  |  | PENACOVA | PENACOVA | 12 897 | 9 | 9 |
+|  |  | PENACOVA | 12 897 | 9 | 9 |  |
 |  |  |  | Carvalho | 714 | 0 | 0 |
 |  |  |  | Figueira de Lorvão | 2 279 | 1 | 0 |
 |  |  |  | Lorvão | 3 175 | 0 | 0 |
@@ -1232,12 +1256,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Friúmes e Paradela | 695 | 2 | 4 |
 |  |  |  | União das freguesias de Oliveira do Mondego e Travanca do Mondego | 941 | 0 | 0 |
 |  |  |  | União das freguesias de São Pedro de Alva e São Paio de Mondego | 1 673 | 1 | 3 |
-|  |  | PENELA | PENELA | 4 665 | 3 | 18 |
+|  |  | PENELA | 4 665 | 3 | 18 |  |
 |  |  |  | Cumeeira | 789 | 0 | 2 |
 |  |  |  | Espinhal | 626 | 0 | 3 |
 |  |  |  | Podentes | 412 | 0 | 0 |
 |  |  |  | União das freguesias de São Miguel, Santa Eufémia e Rabaçal | 2 838 | 3 | 13 |
-|  |  | SOURE | SOURE | 15 881 | 8 | 5 |
+|  |  | SOURE | 15 881 | 8 | 5 |  |
 |  |  |  | Alfarelos | 1 063 | 0 | 0 |
 |  |  |  | Figueiró do Campo | 1 186 | 1 | 0 |
 |  |  |  | Granja do Ulmeiro | 1 562 | 0 | 1 |
@@ -1248,7 +1272,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Vinha da Rainha | 1 195 | 4 | 3 |
 |  |  |  | União das freguesias de Degracias e Pombalinho | 1 062 | 0 | 0 |
 |  |  |  | União das freguesias de Gesteira e Brunhós | 875 | 2 | 0 |
-|  |  | TÁBUA | TÁBUA | 10 122 | 80 | 10 |
+|  |  | TÁBUA | 10 122 | 80 | 10 |  |
 |  |  |  | Candosa | 593 | 12 | 2 |
 |  |  |  | Carapinha | 323 | 0 | 0 |
 |  |  |  | Midões | 1 442 | 9 | 0 |
@@ -1260,29 +1284,29 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Covas e Vila Nova de Oliveirinha | 1 088 | 10 | 0 |
 |  |  |  | União das freguesias de Espariz e Sinde | 817 | 3 | 0 |
 |  |  |  | União das freguesias de Pinheiro de Coja e Meda de Mouros | 437 | 28 | 3 |
-|  |  | VILA NOVA DE POIARES | VILA NOVA DE POIARES | 6 161 | 12 | 7 |
+|  |  | VILA NOVA DE POIARES | 6 161 | 12 | 7 |  |
 |  |  |  | Arrifana | 1 198 | 8 | 1 |
 |  |  |  | Lavegadas | 172 | 2 | 2 |
 |  |  |  | Poiares (Santo André) | 3 645 | 2 | 4 |
 |  |  |  | São Miguel de Poiares | 1 146 | 0 | 0 |
-|  | ÉVORA | ÉVORA | ÉVORA | 133 287 | 181 | 76 |
-|  |  | ALANDROAL | ALANDROAL | 4 384 | 6 | 3 |
+|  | **ÉVORA** | **133 287** | **181** | **76** |  |  |
+|  |  | ALANDROAL | 4 384 | 6 | 3 |  |
 |  |  |  | Santiago Maior | 1 679 | 1 | 0 |
 |  |  |  | Capelins (Santo António) | 370 | 0 | 0 |
 |  |  |  | Terena (São Pedro) | 600 | 2 | 1 |
 |  |  |  | União das freguesias de Alandroal (Nossa Senhora da Conceição), São Brás dos Matos (Mina do Bugalho) e Juromenha (Nossa Senhora do Loreto) | 1 735 | 3 | 2 |
-|  |  | ARRAIOLOS | ARRAIOLOS | 5 809 | 5 | 2 |
+|  |  | ARRAIOLOS | 5 809 | 5 | 2 |  |
 |  |  |  | Arraiolos | 2 766 | 2 | 2 |
 |  |  |  | Igrejinha | 793 | 1 | 0 |
 |  |  |  | Vimieiro | 1 192 | 2 | 0 |
 |  |  |  | União das freguesias de Gafanhoeira (São Pedro) e Sabugueiro | 673 | 0 | 0 |
 |  |  |  | União das freguesias de São Gregório e Santa Justa | 385 | 0 | 0 |
-|  |  | BORBA | BORBA | 5 767 | 3 | 2 |
+|  |  | BORBA | 5 767 | 3 | 2 |  |
 |  |  |  | Borba (Matriz) | 3 010 | 3 | 0 |
 |  |  |  | Orada | 558 | 0 | 0 |
 |  |  |  | Rio de Moinhos | 1 684 | 0 | 0 |
 |  |  |  | Borba (São Bartolomeu) | 515 | 0 | 2 |
-|  |  | ESTREMOZ | ESTREMOZ | 10 961 | 10 | 6 |
+|  |  | ESTREMOZ | 10 961 | 10 | 6 |  |
 |  |  |  | Arcos | 858 | 0 | 0 |
 |  |  |  | Glória | 383 | 1 | 0 |
 |  |  |  | Évora Monte (Santa Maria) | 416 | 3 | 2 |
@@ -1292,7 +1316,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de São Bento do Cortiço e Santo Estêvão | 576 | 3 | 0 |
 |  |  |  | União das freguesias de São Lourenço de Mamporcão e São Bento de Ana Loura | 391 | 0 | 2 |
 |  |  |  | União das freguesias do Ameixial (Santa Vitória e São Bento) | 512 | 0 | 0 |
-|  |  | ÉVORA | ÉVORA | 46 228 | 52 | 42 |
+|  |  | ÉVORA | 46 228 | 52 | 42 |  |
 |  |  |  | Nossa Senhora da Graça do Divor | 382 | 1 | 0 |
 |  |  |  | Nossa Senhora de Machede | 787 | 3 | 0 |
 |  |  |  | São Bento do Mato | 893 | 0 | 0 |
@@ -1305,7 +1329,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe | 836 | 5 | 0 |
 |  |  |  | União das freguesias de São Manços e São Vicente do Pigeiro | 1 000 | 1 | 0 |
 |  |  |  | União das freguesias de São Sebastião da Giesteira e Nossa Senhora da Boa Fé | 786 | 0 | 0 |
-|  |  | MONTEMOR-O-NOVO | MONTEMOR-O-NOVO | 13 643 | 14 | 0 |
+|  |  | MONTEMOR-O-NOVO | 13 643 | 14 | 0 |  |
 |  |  |  | Cabrela | 437 | 0 | 0 |
 |  |  |  | Santiago do Escoural | 937 | 0 | 0 |
 |  |  |  | São Cristóvão | 439 | 0 | 0 |
@@ -1313,79 +1337,79 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Foros de Vale de Figueira | 892 | 0 | 0 |
 |  |  |  | União das freguesias de Cortiçadas de Lavre e Lavre | 1 083 | 0 | 0 |
 |  |  |  | União das freguesias de Nossa Senhora da Vila, Nossa Senhora do Bispo e Silveiras | 9 293 | 14 | 0 |
-|  |  | MORA | MORA | 3 810 | 0 | 1 |
+|  |  | MORA | 3 810 | 0 | 1 |  |
 |  |  |  | Brotas | 321 | 0 | 0 |
 |  |  |  | Cabeção | 828 | 0 | 0 |
 |  |  |  | Mora | 2 006 | 0 | 1 |
 |  |  |  | Pavia | 655 | 0 | 0 |
-|  |  | MOURÃO | MOURÃO | 2 131 | 6 | 2 |
+|  |  | MOURÃO | 2 131 | 6 | 2 |  |
 |  |  |  | Granja | 504 | 0 | 0 |
 |  |  |  | Luz | 248 | 0 | 0 |
 |  |  |  | Mourão | 1 379 | 6 | 2 |
-|  |  | PORTEL | PORTEL | 4 978 | 5 | 0 |
+|  |  | PORTEL | 4 978 | 5 | 0 |  |
 |  |  |  | Monte do Trigo | 984 | 0 | 0 |
 |  |  |  | Portel | 2 097 | 2 | 0 |
 |  |  |  | Santana | 390 | 0 | 0 |
 |  |  |  | Vera Cruz | 310 | 0 | 0 |
 |  |  |  | União das freguesias de Amieira e Alqueva | 514 | 3 | 0 |
 |  |  |  | União das freguesias de São Bartolomeu do Outeiro e Oriola | 683 | 0 | 0 |
-|  |  | REDONDO | REDONDO | 5 554 | 57 | 8 |
+|  |  | REDONDO | 5 554 | 57 | 8 |  |
 |  |  |  | Montoito | 972 | 1 | 0 |
 |  |  |  | Redondo | 4 582 | 56 | 8 |
-|  |  | REGUENGOS DE MONSARAZ | REGUENGOS DE MONSARAZ | 8 802 | 7 | 1 |
+|  |  | REGUENGOS DE MONSARAZ | 8 802 | 7 | 1 |  |
 |  |  |  | Corval | 1 087 | 2 | 0 |
 |  |  |  | Monsaraz | 585 | 2 | 0 |
 |  |  |  | Reguengos de Monsaraz | 6 045 | 3 | 1 |
 |  |  |  | União das freguesias de Campo e Campinho | 1 085 | 0 | 0 |
-|  |  | VENDAS NOVAS | VENDAS NOVAS | 10 015 | 8 | 1 |
+|  |  | VENDAS NOVAS | 10 015 | 8 | 1 |  |
 |  |  |  | Vendas Novas | 9 413 | 8 | 1 |
 |  |  |  | Landeira | 602 | 0 | 0 |
-|  |  | VIANA DO ALENTEJO | VIANA DO ALENTEJO | 4 646 | 4 | 2 |
+|  |  | VIANA DO ALENTEJO | 4 646 | 4 | 2 |  |
 |  |  |  | Alcáçovas | 1 640 | 4 | 0 |
 |  |  |  | Viana do Alentejo | 2 268 | 0 | 2 |
 |  |  |  | Aguiar | 738 | 0 | 0 |
-|  |  | VILA VIÇOSA | VILA VIÇOSA | 6 559 | 4 | 6 |
+|  |  | VILA VIÇOSA | 6 559 | 4 | 6 |  |
 |  |  |  | Bencatel | 1 311 | 1 | 0 |
 |  |  |  | Ciladas | 784 | 0 | 0 |
 |  |  |  | Pardais | 417 | 0 | 2 |
 |  |  |  | Nossa Senhora da Conceição e São Bartolomeu | 4 047 | 3 | 4 |
-|  | FARO | FARO | FARO | 381 951 | 5 155 | 4 702 |
-|  |  | ALBUFEIRA | ALBUFEIRA | 35 955 | 360 | 847 |
+|  | **FARO** | **381 951** | **5 155** | **4 702** |  |  |
+|  |  | ALBUFEIRA | 35 955 | 360 | 847 |  |
 |  |  |  | Guia | 3 551 | 30 | 46 |
 |  |  |  | Paderne | 2 730 | 34 | 52 |
 |  |  |  | Ferreiras | 5 592 | 19 | 27 |
 |  |  |  | Albufeira e Olhos de Água | 24 082 | 277 | 722 |
-|  |  | ALCOUTIM | ALCOUTIM | 2 211 | 26 | 36 |
+|  |  | ALCOUTIM | 2 211 | 26 | 36 |  |
 |  |  |  | Giões | 153 | 1 | 0 |
 |  |  |  | Martim Longo | 826 | 7 | 3 |
 |  |  |  | Vaqueiros | 356 | 1 | 1 |
 |  |  |  | União das freguesias de Alcoutim e Pereiro | 876 | 17 | 32 |
-|  |  | ALJEZUR | ALJEZUR | 4 031 | 192 | 66 |
+|  |  | ALJEZUR | 4 031 | 192 | 66 |  |
 |  |  |  | Aljezur | 2 136 | 150 | 56 |
 |  |  |  | Bordeira | 279 | 19 | 7 |
 |  |  |  | Odeceixe | 769 | 5 | 0 |
 |  |  |  | Rogil | 847 | 18 | 3 |
-|  |  | CASTRO MARIM | CASTRO MARIM | 5 766 | 92 | 17 |
+|  |  | CASTRO MARIM | 5 766 | 92 | 17 |  |
 |  |  |  | Azinhal | 415 | 2 | 0 |
 |  |  |  | Castro Marim | 2 939 | 47 | 12 |
 |  |  |  | Odeleite | 515 | 2 | 0 |
 |  |  |  | Altura | 1 897 | 41 | 5 |
-|  |  | FARO | FARO | 56 729 | 171 | 244 |
+|  |  | FARO | 56 729 | 171 | 244 |  |
 |  |  |  | Santa Bárbara de Nexe | 3 166 | 41 | 49 |
 |  |  |  | Montenegro | 7 333 | 22 | 32 |
 |  |  |  | União das freguesias de Conceição e Estoi | 7 031 | 34 | 23 |
 |  |  |  | União das freguesias de Faro (Sé e São Pedro) | 39 199 | 74 | 140 |
-|  |  | LAGOA | LAGOA | 18 877 | 231 | 197 |
+|  |  | LAGOA | 18 877 | 231 | 197 |  |
 |  |  |  | Ferragudo | 1 530 | 81 | 29 |
 |  |  |  | Porches | 1 680 | 28 | 24 |
 |  |  |  | União das freguesias de Estômbar e Parchal | 7 583 | 21 | 28 |
 |  |  |  | União das freguesias de Lagoa e Carvoeiro | 8 084 | 101 | 116 |
-|  |  | LAGOS | LAGOS | 23 785 | 626 | 379 |
+|  |  | LAGOS | 23 785 | 626 | 379 |  |
 |  |  |  | Luz | 2 346 | 83 | 108 |
 |  |  |  | Odiáxere | 2 222 | 27 | 15 |
 |  |  |  | União das freguesias de Bensafrim e Barão de São João | 1 690 | 175 | 122 |
 |  |  |  | São Gonçalo de Lagos | 17 527 | 341 | 134 |
-|  |  | LOULÉ | LOULÉ | 60 782 | 1 045 | 1 036 |
+|  |  | LOULÉ | 60 782 | 1 045 | 1 036 |  |
 |  |  |  | Almancil | 8 195 | 417 | 272 |
 |  |  |  | Alte | 1 449 | 43 | 55 |
 |  |  |  | Ameixial | 334 | 1 | 0 |
@@ -1395,46 +1419,46 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Loulé (São Clemente) | 15 702 | 80 | 78 |
 |  |  |  | Loulé (São Sebastião) | 6 360 | 80 | 70 |
 |  |  |  | União de freguesias de Querença, Tôr e Benafim | 2 088 | 62 | 50 |
-|  |  | MONCHIQUE | MONCHIQUE | 4 309 | 112 | 57 |
+|  |  | MONCHIQUE | 4 309 | 112 | 57 |  |
 |  |  |  | Alferce | 270 | 19 | 12 |
 |  |  |  | Marmelete | 534 | 24 | 4 |
 |  |  |  | Monchique | 3 505 | 69 | 41 |
-|  |  | OLHÃO | OLHÃO | 37 514 | 295 | 179 |
+|  |  | OLHÃO | 37 514 | 295 | 179 |  |
 |  |  |  | Olhão | 12 420 | 24 | 26 |
 |  |  |  | Pechão | 2 993 | 17 | 7 |
 |  |  |  | Quelfes | 14 532 | 43 | 44 |
 |  |  |  | União das freguesias de Moncarapacho e Fuseta | 7 569 | 211 | 102 |
-|  |  | PORTIMÃO | PORTIMÃO | 50 081 | 400 | 562 |
+|  |  | PORTIMÃO | 50 081 | 400 | 562 |  |
 |  |  |  | Alvor | 5 187 | 53 | 52 |
 |  |  |  | Mexilhoeira Grande | 3 356 | 39 | 28 |
 |  |  |  | Portimão | 41 538 | 308 | 482 |
-|  |  | SÃO BRÁS DE ALPORTEL | SÃO BRÁS DE ALPORTEL | 9 305 | 97 | 96 |
+|  |  | SÃO BRÁS DE ALPORTEL | 9 305 | 97 | 96 |  |
 |  |  |  | São Brás de Alportel | 9 305 | 97 | 96 |
-|  |  | SILVES | SILVES | 30 610 | 501 | 491 |
+|  |  | SILVES | 30 610 | 501 | 491 |  |
 |  |  |  | Armação de Pêra | 4 893 | 46 | 44 |
 |  |  |  | São Bartolomeu de Messines | 6 694 | 216 | 264 |
 |  |  |  | São Marcos da Serra | 901 | 39 | 21 |
 |  |  |  | Silves | 8 852 | 71 | 64 |
 |  |  |  | União das freguesias de Alcantarilha e Pêra | 3 996 | 60 | 53 |
 |  |  |  | União das freguesias de Algoz e Tunes | 5 274 | 69 | 45 |
-|  |  | TAVIRA | TAVIRA | 21 307 | 655 | 354 |
+|  |  | TAVIRA | 21 307 | 655 | 354 |  |
 |  |  |  | Cachopo | 453 | 3 | 6 |
 |  |  |  | Santa Catarina da Fonte do Bispo | 1 270 | 67 | 40 |
 |  |  |  | Santa Luzia | 1 249 | 8 | 8 |
 |  |  |  | União das freguesias de Conceição e Cabanas de Tavira | 2 540 | 38 | 48 |
 |  |  |  | União das freguesias de Luz de Tavira e Santo Estêvão | 3 568 | 139 | 73 |
 |  |  |  | União das freguesias de Tavira (Santa Maria e Santiago) | 12 227 | 400 | 179 |
-|  |  | VILA DO BISPO | VILA DO BISPO | 3 841 | 198 | 96 |
+|  |  | VILA DO BISPO | 3 841 | 198 | 96 |  |
 |  |  |  | Barão de São Miguel | 269 | 47 | 15 |
 |  |  |  | Budens | 1 051 | 85 | 49 |
 |  |  |  | Sagres | 1 514 | 17 | 6 |
 |  |  |  | Vila do Bispo e Raposeira | 1 007 | 49 | 26 |
-|  |  | VILA REAL DE SANTO ANTÓNIO | VILA REAL DE SANTO ANTÓNIO | 16 848 | 154 | 45 |
+|  |  | VILA REAL DE SANTO ANTÓNIO | 16 848 | 154 | 45 |  |
 |  |  |  | Vila Nova de Cacela | 3 360 | 29 | 7 |
 |  |  |  | Vila Real de Santo António | 10 286 | 104 | 22 |
 |  |  |  | Monte Gordo | 3 202 | 21 | 16 |
-|  | GUARDA | GUARDA | GUARDA | 141 347 | 114 | 35 |
-|  |  | AGUIAR DA BEIRA | AGUIAR DA BEIRA | 5 687 | 0 | 3 |
+|  | **GUARDA** | **141 347** | **114** | **35** |  |  |
+|  |  | AGUIAR DA BEIRA | 5 687 | 0 | 3 |  |
 |  |  |  | Carapito | 403 | 0 | 0 |
 |  |  |  | Cortiçada | 406 | 0 | 1 |
 |  |  |  | Dornelas | 650 | 0 | 0 |
@@ -1445,7 +1469,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Aguiar da Beira e Coruche | 1 794 | 0 | 2 |
 |  |  |  | União das freguesias de Sequeiros e Gradiz | 449 | 0 | 0 |
 |  |  |  | União das freguesias de Souto de Aguiar da Beira e Valverde | 496 | 0 | 0 |
-|  |  | ALMEIDA | ALMEIDA | 6 375 | 8 | 0 |
+|  |  | ALMEIDA | 6 375 | 8 | 0 |  |
 |  |  |  | Almeida | 1 068 | 0 | 0 |
 |  |  |  | Castelo Bom | 143 | 2 | 0 |
 |  |  |  | Freineda | 197 | 0 | 0 |
@@ -1462,7 +1486,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Leomil, Mido, Senouras e Aldeia Nova | 209 | 1 | 0 |
 |  |  |  | União das freguesias de Malpartida e Vale de Coelha | 223 | 1 | 0 |
 |  |  |  | União das freguesias de Miuzela e Porto de Ovelha | 363 | 0 | 0 |
-|  |  | CELORICO DA BEIRA | CELORICO DA BEIRA | 7 058 | 8 | 8 |
+|  |  | CELORICO DA BEIRA | 7 058 | 8 | 8 |  |
 |  |  |  | Baraçal | 238 | 2 | 0 |
 |  |  |  | Carrapichana | 216 | 0 | 0 |
 |  |  |  | Forno Telheiro | 619 | 0 | 0 |
@@ -1479,7 +1503,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Celorico (São Pedro e Santa Maria) e Vila Boa do Mondego | 2 136 | 6 | 5 |
 |  |  |  | União das freguesias de Cortiçô da Serra, Vide entre Vinhas e Salgueirais | 384 | 0 | 0 |
 |  |  |  | União das freguesias de Rapa e Cadafaz | 263 | 0 | 0 |
-|  |  | FIGUEIRA DE CASTELO RODRIGO | FIGUEIRA DE CASTELO RODRIGO | 5 191 | 2 | 3 |
+|  |  | FIGUEIRA DE CASTELO RODRIGO | 5 191 | 2 | 3 |  |
 |  |  |  | Castelo Rodrigo | 265 | 0 | 0 |
 |  |  |  | Escalhão | 619 | 0 | 1 |
 |  |  |  | Figueira de Castelo Rodrigo | 2 040 | 2 | 1 |
@@ -1490,7 +1514,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Cinco Vilas e Reigada | 322 | 0 | 0 |
 |  |  |  | União das freguesias de Freixeda do Torrão, Quintã de Pêro Martins e Penha de Águia | 431 | 0 | 1 |
 |  |  |  | União das freguesias do Colmeal e Vilar Torpim | 224 | 0 | 0 |
-|  |  | FORNOS DE ALGODRES | FORNOS DE ALGODRES | 4 211 | 1 | 3 |
+|  |  | FORNOS DE ALGODRES | 4 211 | 1 | 3 |  |
 |  |  |  | Algodres | 290 | 0 | 0 |
 |  |  |  | Casal Vasco | 193 | 0 | 0 |
 |  |  |  | Figueiró da Granja | 346 | 0 | 0 |
@@ -1503,7 +1527,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Cortiçô e Vila Chã | 167 | 0 | 0 |
 |  |  |  | União das freguesias de Juncais, Vila Ruiva e Vila Soeiro do Chão | 585 | 1 | 0 |
 |  |  |  | União das freguesias de Sobral Pichorro e Fuinhas | 238 | 0 | 0 |
-|  |  | GOUVEIA | GOUVEIA | 11 943 | 23 | 4 |
+|  |  | GOUVEIA | 11 943 | 23 | 4 |  |
 |  |  |  | Arcozelo | 557 | 0 | 0 |
 |  |  |  | Cativelos | 685 | 1 | 0 |
 |  |  |  | Folgosinho | 412 | 0 | 0 |
@@ -1520,7 +1544,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Melo e Nabais | 773 | 5 | 0 |
 |  |  |  | União das freguesias de Moimenta da Serra e Vinhó | 968 | 2 | 0 |
 |  |  |  | União das freguesias de Rio Torto e Lagarinhos | 721 | 1 | 0 |
-|  |  | GUARDA | GUARDA | 36 825 | 18 | 5 |
+|  |  | GUARDA | 36 825 | 18 | 5 |  |
 |  |  |  | Aldeia do Bispo | 185 | 0 | 0 |
 |  |  |  | Aldeia Viçosa | 307 | 2 | 0 |
 |  |  |  | Alvendre | 187 | 0 | 0 |
@@ -1564,12 +1588,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União de freguesias de Pousade e Albardo | 261 | 1 | 0 |
 |  |  |  | União de freguesias de Rochoso e Monte Margarida | 248 | 1 | 0 |
 |  |  |  | Adão | 292 | 0 | 0 |
-|  |  | MANTEIGAS | MANTEIGAS | 2 944 | 1 | 1 |
+|  |  | MANTEIGAS | 2 944 | 1 | 1 |  |
 |  |  |  | Sameiro | 309 | 0 | 0 |
 |  |  |  | Manteigas (Santa Maria) | 1 265 | 0 | 1 |
 |  |  |  | Manteigas (São Pedro) | 1 116 | 1 | 0 |
 |  |  |  | Vale de Amoreira | 254 | 0 | 0 |
-|  |  | MÊDA | MÊDA | 4 987 | 1 | 0 |
+|  |  | MÊDA | 4 987 | 1 | 0 |  |
 |  |  |  | Aveloso | 197 | 0 | 0 |
 |  |  |  | Barreira | 205 | 0 | 0 |
 |  |  |  | Coriscada | 180 | 0 | 0 |
@@ -1581,7 +1605,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Mêda, Outeiro de Gatos e Fonte Longa | 2 278 | 1 | 0 |
 |  |  |  | Prova e Casteição | 334 | 0 | 0 |
 |  |  |  | União das freguesias de Vale Flor, Carvalhal e Pai Penela | 318 | 0 | 0 |
-|  |  | PINHEL | PINHEL | 8 547 | 4 | 0 |
+|  |  | PINHEL | 8 547 | 4 | 0 |  |
 |  |  |  | Ervedosa | 146 | 0 | 0 |
 |  |  |  | Freixedas | 808 | 0 | 0 |
 |  |  |  | Lamegal | 227 | 0 | 0 |
@@ -1600,7 +1624,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Vale do Côa | 186 | 0 | 0 |
 |  |  |  | Vale do Massueime | 257 | 0 | 0 |
 |  |  |  | União das freguesias de Atalaia e Safurdão | 199 | 1 | 0 |
-|  |  | SABUGAL | SABUGAL | 11 791 | 15 | 1 |
+|  |  | SABUGAL | 11 791 | 15 | 1 |  |
 |  |  |  | Águas Belas | 180 | 0 | 0 |
 |  |  |  | Aldeia do Bispo | 235 | 0 | 0 |
 |  |  |  | Aldeia da Ponte | 317 | 0 | 0 |
@@ -1631,7 +1655,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias do Sabugal e Aldeia de Santo António | 2 578 | 9 | 1 |
 |  |  |  | União das freguesias de Santo Estêvão e Moita | 373 | 2 | 0 |
 |  |  |  | União das freguesias de Seixo do Côa e Vale Longo | 267 | 0 | 0 |
-|  |  | SEIA | SEIA | 20 556 | 22 | 3 |
+|  |  | SEIA | 20 556 | 22 | 3 |  |
 |  |  |  | Alvoco da Serra | 414 | 2 | 0 |
 |  |  |  | Girabolhos | 326 | 0 | 0 |
 |  |  |  | Loriga | 821 | 0 | 1 |
@@ -1653,7 +1677,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Torrozelo e Folhadosa | 661 | 0 | 0 |
 |  |  |  | União das freguesias de Tourais e Lajes | 1 515 | 0 | 0 |
 |  |  |  | União das freguesias de Vide e Cabeça | 539 | 0 | 0 |
-|  |  | TRANCOSO | TRANCOSO | 8 497 | 10 | 2 |
+|  |  | TRANCOSO | 8 497 | 10 | 2 |  |
 |  |  |  | Aldeia Nova | 272 | 0 | 1 |
 |  |  |  | Castanheira | 154 | 0 | 0 |
 |  |  |  | Cogula | 155 | 0 | 0 |
@@ -1675,7 +1699,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Vale do Seixo e Vila Garcia | 229 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Franca das Naves e Feital | 853 | 6 | 1 |
 |  |  |  | União das freguesias de Vilares e Carnicães | 307 | 0 | 0 |
-|  |  | VILA NOVA DE FOZ CÔA | VILA NOVA DE FOZ CÔA | 6 735 | 1 | 2 |
+|  |  | VILA NOVA DE FOZ CÔA | 6 735 | 1 | 2 |  |
 |  |  |  | Almendra | 357 | 1 | 0 |
 |  |  |  | Castelo Melhor | 238 | 0 | 0 |
 |  |  |  | Cedovim | 281 | 0 | 0 |
@@ -1690,8 +1714,8 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Touça | 213 | 0 | 0 |
 |  |  |  | Freixo de Numão | 510 | 0 | 0 |
 |  |  |  | Vila Nova de Foz Côa | 3 094 | 0 | 0 |
-|  | LEIRIA | LEIRIA | LEIRIA | 411 650 | 670 | 655 |
-|  |  | ALCOBAÇA | ALCOBAÇA | 48 756 | 40 | 25 |
+|  | **LEIRIA** | **411 650** | **670** | **655** |  |  |
+|  |  | ALCOBAÇA | 48 756 | 40 | 25 |  |
 |  |  |  | Alfeizerão | 3 229 | 4 | 2 |
 |  |  |  | Bárrio | 1 308 | 1 | 0 |
 |  |  |  | Benedita | 7 350 | 0 | 2 |
@@ -1705,30 +1729,30 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Alcobaça e Vestiaria | 6 154 | 7 | 6 |
 |  |  |  | União das freguesias de Coz, Alpedriz e Montes | 2 666 | 0 | 0 |
 |  |  |  | União das freguesias de Pataias e Martingança | 6 057 | 0 | 0 |
-|  |  | ALVAIÁZERE | ALVAIÁZERE | 5 736 | 2 | 11 |
+|  |  | ALVAIÁZERE | 5 736 | 2 | 11 |  |
 |  |  |  | Almoster | 525 | 0 | 1 |
 |  |  |  | Maçãs de Dona Maria | 1 406 | 0 | 7 |
 |  |  |  | Pelmá | 680 | 0 | 0 |
 |  |  |  | Alvaiázere | 1 576 | 2 | 1 |
 |  |  |  | Pussos São Pedro | 1 549 | 0 | 2 |
-|  |  | ANSIÃO | ANSIÃO | 10 988 | 13 | 23 |
+|  |  | ANSIÃO | 10 988 | 13 | 23 |  |
 |  |  |  | Alvorge | 933 | 4 | 15 |
 |  |  |  | Avelar | 1 818 | 2 | 0 |
 |  |  |  | Chão de Couce | 1 625 | 2 | 2 |
 |  |  |  | Pousaflores | 806 | 1 | 5 |
 |  |  |  | Santiago da Guarda | 2 603 | 4 | 0 |
 |  |  |  | Ansião | 3 203 | 0 | 1 |
-|  |  | BATALHA | BATALHA | 13 895 | 4 | 2 |
+|  |  | BATALHA | 13 895 | 4 | 2 |  |
 |  |  |  | Batalha | 7 518 | 2 | 2 |
 |  |  |  | Reguengo do Fetal | 1 893 | 0 | 0 |
 |  |  |  | São Mamede | 3 166 | 2 | 0 |
 |  |  |  | Golpilheira | 1 318 | 0 | 0 |
-|  |  | BOMBARRAL | BOMBARRAL | 11 424 | 20 | 7 |
+|  |  | BOMBARRAL | 11 424 | 20 | 7 |  |
 |  |  |  | Carvalhal | 2 212 | 8 | 3 |
 |  |  |  | Roliça | 2 257 | 8 | 1 |
 |  |  |  | Pó | 715 | 0 | 0 |
 |  |  |  | União das freguesias do Bombarral e Vale Covo | 6 240 | 4 | 3 |
-|  |  | CALDAS DA RAINHA | CALDAS DA RAINHA | 45 104 | 317 | 146 |
+|  |  | CALDAS DA RAINHA | 45 104 | 317 | 146 |  |
 |  |  |  | A dos Francos | 1 412 | 2 | 2 |
 |  |  |  | Alvorninha | 2 472 | 6 | 1 |
 |  |  |  | Carvalhal Benfeito | 999 | 7 | 0 |
@@ -1741,14 +1765,14 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Caldas da Rainha - Nossa Senhora do Pópulo, Coto e São Gregório | 16 248 | 22 | 6 |
 |  |  |  | União das freguesias de Caldas da Rainha - Santo Onofre e Serra do Bouro | 10 607 | 17 | 5 |
 |  |  |  | União das freguesias de Tornada e Salir do Porto | 3 921 | 30 | 9 |
-|  |  | CASTANHEIRA DE PÊRA | CASTANHEIRA DE PÊRA | 2 461 | 1 | 6 |
+|  |  | CASTANHEIRA DE PÊRA | 2 461 | 1 | 6 |  |
 |  |  |  | União das freguesias de Castanheira de Pêra e Coentral | 2 461 | 1 | 6 |
-|  |  | FIGUEIRÓ DOS VINHOS | FIGUEIRÓ DOS VINHOS | 5 058 | 8 | 3 |
+|  |  | FIGUEIRÓ DOS VINHOS | 5 058 | 8 | 3 |  |
 |  |  |  | Aguda | 910 | 0 | 0 |
 |  |  |  | Arega | 686 | 0 | 0 |
 |  |  |  | Campelo | 163 | 0 | 0 |
 |  |  |  | União das freguesias de Figueiró dos Vinhos e Bairradas | 3 299 | 8 | 3 |
-|  |  | LEIRIA | LEIRIA | 113 207 | 113 | 343 |
+|  |  | LEIRIA | 113 207 | 113 | 343 |  |
 |  |  |  | Amor | 4 073 | 5 | 7 |
 |  |  |  | Arrabal | 2 348 | 0 | 0 |
 |  |  |  | Caranguejeira | 4 249 | 1 | 0 |
@@ -1767,15 +1791,15 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Santa Catarina da Serra e Chainça | 4 203 | 9 | 7 |
 |  |  |  | União das freguesias de Santa Eufémia e Boa Vista | 3 761 | 3 | 10 |
 |  |  |  | União das freguesias de Souto da Carpalhosa e Ortigosa | 5 041 | 3 | 0 |
-|  |  | MARINHA GRANDE | MARINHA GRANDE | 34 183 | 17 | 21 |
+|  |  | MARINHA GRANDE | 34 183 | 17 | 21 |  |
 |  |  |  | Marinha Grande | 27 876 | 10 | 14 |
 |  |  |  | Vieira de Leiria | 5 080 | 7 | 7 |
 |  |  |  | Moita | 1 227 | 0 | 0 |
-|  |  | NAZARÉ | NAZARÉ | 14 090 | 25 | 7 |
+|  |  | NAZARÉ | 14 090 | 25 | 7 |  |
 |  |  |  | Famalicão | 1 524 | 10 | 2 |
 |  |  |  | Nazaré | 9 894 | 15 | 2 |
 |  |  |  | Valado dos Frades | 2 672 | 0 | 3 |
-|  |  | ÓBIDOS | ÓBIDOS | 10 705 | 60 | 33 |
+|  |  | ÓBIDOS | 10 705 | 60 | 33 |  |
 |  |  |  | A dos Negros | 1 347 | 1 | 2 |
 |  |  |  | Amoreira | 916 | 25 | 15 |
 |  |  |  | Olho Marinho | 1 188 | 1 | 1 |
@@ -1783,16 +1807,16 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Gaeiras | 2 083 | 3 | 1 |
 |  |  |  | Usseira | 798 | 8 | 4 |
 |  |  |  | Santa Maria, São Pedro e Sobral da Lagoa | 3 477 | 7 | 8 |
-|  |  | PEDRÓGÃO GRANDE | PEDRÓGÃO GRANDE | 3 010 | 12 | 4 |
+|  |  | PEDRÓGÃO GRANDE | 3 010 | 12 | 4 |  |
 |  |  |  | Graça | 579 | 2 | 2 |
 |  |  |  | Pedrógão Grande | 1 978 | 3 | 1 |
 |  |  |  | Vila Facaia | 453 | 7 | 1 |
-|  |  | PENICHE | PENICHE | 24 236 | 17 | 9 |
+|  |  | PENICHE | 24 236 | 17 | 9 |  |
 |  |  |  | Atouguia da Baleia | 8 320 | 6 | 3 |
 |  |  |  | Serra d’El-Rei | 1 208 | 2 | 0 |
 |  |  |  | Ferrel | 2 570 | 1 | 1 |
 |  |  |  | Peniche | 12 138 | 8 | 5 |
-|  |  | POMBAL | POMBAL | 48 259 | 14 | 11 |
+|  |  | POMBAL | 48 259 | 14 | 11 |  |
 |  |  |  | Abiul | 2 394 | 0 | 0 |
 |  |  |  | Almagreira | 2 781 | 1 | 0 |
 |  |  |  | Carnide | 1 596 | 0 | 2 |
@@ -1806,7 +1830,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Meirinhas | 1 491 | 0 | 0 |
 |  |  |  | União das freguesias de Guia, Ilha e Mata Mourisca | 5 531 | 2 | 1 |
 |  |  |  | União das freguesias de Santiago e São Simão de Litém e Albergaria dos Doze | 4 567 | 1 | 1 |
-|  |  | PORTO DE MÓS | PORTO DE MÓS | 20 538 | 7 | 4 |
+|  |  | PORTO DE MÓS | 20 538 | 7 | 4 |  |
 |  |  |  | Alqueidão da Serra | 1 492 | 0 | 0 |
 |  |  |  | Calvaria de Cima | 2 126 | 0 | 1 |
 |  |  |  | Juncal | 2 775 | 2 | 0 |
@@ -1817,8 +1841,8 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Porto de Mós - São João Baptista e São Pedro | 5 262 | 3 | 3 |
 |  |  |  | União das freguesias de Alvados e Alcaria | 686 | 0 | 0 |
 |  |  |  | União das freguesias de Arrimal e Mendiga | 1 351 | 1 | 0 |
-|  | LISBOA | LISBOA | LISBOA | 1 912 581 | 3 865 | 6 940 |
-|  |  | ALENQUER | ALENQUER | 37 015 | 40 | 608 |
+|  | **LISBOA** | **1 912 581** | **3 865** | **6 940** |  |  |
+|  |  | ALENQUER | 37 015 | 40 | 608 |  |
 |  |  |  | Carnota | 1 378 | 0 | 0 |
 |  |  |  | Meca | 1 451 | 0 | 0 |
 |  |  |  | Olhalvo | 1 638 | 0 | 0 |
@@ -1830,12 +1854,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Alenquer (Santo Estêvão e Triana) | 10 183 | 5 | 4 |
 |  |  |  | União das freguesias de Carregado e Cadafais | 11 044 | 28 | 603 |
 |  |  |  | União das freguesias de Ribafria e Pereiro de Palhacana | 1 366 | 0 | 0 |
-|  |  | ARRUDA DOS VINHOS | ARRUDA DOS VINHOS | 11 828 | 12 | 1 |
+|  |  | ARRUDA DOS VINHOS | 11 828 | 12 | 1 |  |
 |  |  |  | Arranhó | 2 150 | 2 | 1 |
 |  |  |  | Arruda dos Vinhos | 7 845 | 8 | 0 |
 |  |  |  | Cardosas | 698 | 0 | 0 |
 |  |  |  | São Tiago dos Velhos | 1 135 | 2 | 0 |
-|  |  | AZAMBUJA | AZAMBUJA | 17 669 | 3 | 3 |
+|  |  | AZAMBUJA | 17 669 | 3 | 3 |  |
 |  |  |  | Alcoentre | 2 305 | 0 | 0 |
 |  |  |  | Aveiras de Baixo | 1 125 | 1 | 0 |
 |  |  |  | Aveiras de Cima | 3 991 | 1 | 1 |
@@ -1843,7 +1867,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Vale do Paraíso | 794 | 1 | 0 |
 |  |  |  | Vila Nova da Rainha | 695 | 0 | 2 |
 |  |  |  | União das freguesias de Manique do Intendente, Vila Nova de São Pedro e Maçussa | 1 868 | 0 | 0 |
-|  |  | CADAVAL | CADAVAL | 12 251 | 12 | 5 |
+|  |  | CADAVAL | 12 251 | 12 | 5 |  |
 |  |  |  | Alguber | 690 | 1 | 0 |
 |  |  |  | Peral | 839 | 0 | 0 |
 |  |  |  | Vermelha | 1 149 | 1 | 0 |
@@ -1851,12 +1875,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias do Cadaval e Pêro Moniz | 3 277 | 3 | 0 |
 |  |  |  | União das freguesias de Lamas e Cercal | 3 155 | 0 | 1 |
 |  |  |  | União das freguesias de Painho e Figueiros | 1 616 | 3 | 2 |
-|  |  | CASCAIS | CASCAIS | 177 363 | 596 | 551 |
+|  |  | CASCAIS | 177 363 | 596 | 551 |  |
 |  |  |  | Alcabideche | 35 996 | 38 | 55 |
 |  |  |  | São Domingos de Rana | 49 745 | 68 | 199 |
 |  |  |  | União das freguesias de Carcavelos e Parede | 38 416 | 95 | 94 |
 |  |  |  | União das freguesias de Cascais e Estoril | 53 206 | 395 | 203 |
-|  |  | LISBOA | LISBOA | 465 082 | 2 161 | 1 435 |
+|  |  | LISBOA | 465 082 | 2 161 | 1 435 |  |
 |  |  |  | Ajuda | 12 376 | 32 | 38 |
 |  |  |  | Alcântara | 11 306 | 36 | 12 |
 |  |  |  | Beato | 10 187 | 25 | 17 |
@@ -1881,7 +1905,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Santa Maria Maior | 8 752 | 209 | 47 |
 |  |  |  | Santo António | 9 811 | 213 | 78 |
 |  |  |  | São Vicente | 10 832 | 93 | 33 |
-|  |  | LOURES | LOURES | 168 220 | 80 | 594 |
+|  |  | LOURES | 168 220 | 80 | 594 |  |
 |  |  |  | Bucelas | 3 800 | 3 | 4 |
 |  |  |  | Fanhões | 2 253 | 1 | 2 |
 |  |  |  | Loures | 25 205 | 12 | 84 |
@@ -1892,7 +1916,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Santo Antão e São Julião do Tojal | 7 024 | 4 | 76 |
 |  |  |  | União das freguesias de Santo António dos Cavaleiros e Frielas | 24 890 | 7 | 65 |
 |  |  |  | União das freguesias de Camarate, Unhos e Apelação | 27 150 | 11 | 197 |
-|  |  | LOURINHÃ | LOURINHÃ | 23 712 | 23 | 9 |
+|  |  | LOURINHÃ | 23 712 | 23 | 9 |  |
 |  |  |  | Moita dos Ferreiros | 1 531 | 5 | 0 |
 |  |  |  | Reguengo Grande | 1 411 | 1 | 0 |
 |  |  |  | Santa Bárbara | 1 727 | 0 | 0 |
@@ -1901,7 +1925,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Lourinhã e Atalaia | 11 264 | 11 | 8 |
 |  |  |  | União das freguesias de Miragaia e Marteleira | 3 189 | 2 | 0 |
 |  |  |  | União das freguesias de São Bartolomeu dos Galegos e Moledo | 1 362 | 1 | 0 |
-|  |  | MAFRA | MAFRA | 69 629 | 63 | 84 |
+|  |  | MAFRA | 69 629 | 63 | 84 |  |
 |  |  |  | Carvoeira | 2 265 | 7 | 10 |
 |  |  |  | Encarnação | 3 960 | 0 | 0 |
 |  |  |  | Ericeira | 9 581 | 30 | 5 |
@@ -1913,13 +1937,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Igreja Nova e Cheleiros | 3 826 | 3 | 1 |
 |  |  |  | União das freguesias de Malveira e São Miguel de Alcainça | 7 539 | 3 | 8 |
 |  |  |  | União das freguesias de Venda do Pinheiro e Santo Estêvão das Galés | 8 901 | 5 | 2 |
-|  |  | OEIRAS | OEIRAS | 145 146 | 398 | 1 065 |
+|  |  | OEIRAS | 145 146 | 398 | 1 065 |  |
 |  |  |  | Barcarena | 12 209 | 9 | 14 |
 |  |  |  | Porto Salvo | 12 778 | 11 | 199 |
 |  |  |  | União das freguesias de Algés, Linda-a-Velha e Cruz Quebrada-Dafundo | 40 350 | 118 | 133 |
 |  |  |  | União das freguesias de Carnaxide e Queijas | 30 327 | 26 | 220 |
 |  |  |  | União das freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias | 49 482 | 234 | 499 |
-|  |  | SINTRA | SINTRA | 323 120 | 256 | 1 000 |
+|  |  | SINTRA | 323 120 | 256 | 1 000 |  |
 |  |  |  | Algueirão-Mem Martins | 56 608 | 34 | 127 |
 |  |  |  | Colares | 6 507 | 23 | 7 |
 |  |  |  | Rio de Mouro | 41 379 | 21 | 159 |
@@ -1931,11 +1955,11 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Queluz e Belas | 44 733 | 44 | 244 |
 |  |  |  | União das freguesias de São João das Lampas e Terrugem | 14 821 | 8 | 7 |
 |  |  |  | União das freguesias de Sintra (Santa Maria e São Miguel, São Martinho e São Pedro de Penaferrim) | 24 483 | 36 | 21 |
-|  |  | SOBRAL DE MONTE AGRAÇO | SOBRAL DE MONTE AGRAÇO | 8 878 | 7 | 2 |
+|  |  | SOBRAL DE MONTE AGRAÇO | 8 878 | 7 | 2 |  |
 |  |  |  | Santo Quintino | 3 273 | 1 | 1 |
 |  |  |  | Sapataria | 2 632 | 5 | 1 |
 |  |  |  | Sobral de Monte Agraço | 2 973 | 1 | 0 |
-|  |  | TORRES VEDRAS | TORRES VEDRAS | 70 490 | 34 | 27 |
+|  |  | TORRES VEDRAS | 70 490 | 34 | 27 |  |
 |  |  |  | Freiria | 2 094 | 1 | 0 |
 |  |  |  | Ponte do Rol | 2 137 | 0 | 0 |
 |  |  |  | Ramalhal | 2 973 | 0 | 0 |
@@ -1949,32 +1973,32 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Dois Portos e Runa | 2 517 | 1 | 1 |
 |  |  |  | União das freguesias de Maxial e Monte Redondo | 2 942 | 3 | 0 |
 |  |  |  | Santa Maria, São Pedro e Matacães | 22 975 | 13 | 19 |
-|  |  | VILA FRANCA DE XIRA | VILA FRANCA DE XIRA | 114 293 | 37 | 148 |
+|  |  | VILA FRANCA DE XIRA | 114 293 | 37 | 148 |  |
 |  |  |  | Vialonga | 17 495 | 1 | 55 |
 |  |  |  | Vila Franca de Xira | 15 398 | 6 | 9 |
 |  |  |  | União das freguesias de Alhandra, São João dos Montes e Calhandriz | 10 760 | 13 | 12 |
 |  |  |  | União das freguesias de Alverca do Ribatejo e Sobralinho | 30 171 | 7 | 33 |
 |  |  |  | União das freguesias de Castanheira do Ribatejo e Cachoeiras | 6 641 | 4 | 5 |
 |  |  |  | União das freguesias de Póvoa de Santa Iria e Forte da Casa | 33 828 | 6 | 34 |
-|  |  | AMADORA | AMADORA | 142 202 | 83 | 1 126 |
+|  |  | AMADORA | 142 202 | 83 | 1 126 |  |
 |  |  |  | Alfragide | 13 850 | 13 | 68 |
 |  |  |  | Águas Livres | 31 136 | 23 | 507 |
 |  |  |  | Encosta do Sol | 22 222 | 8 | 150 |
 |  |  |  | Falagueira-Venda Nova | 17 318 | 10 | 221 |
 |  |  |  | Mina de Água | 35 352 | 14 | 152 |
 |  |  |  | Venteira | 22 324 | 15 | 28 |
-|  |  | ODIVELAS | ODIVELAS | 125 683 | 60 | 282 |
+|  |  | ODIVELAS | 125 683 | 60 | 282 |  |
 |  |  |  | Odivelas | 50 739 | 10 | 46 |
 |  |  |  | União das freguesias de Pontinha e Famões | 30 614 | 11 | 49 |
 |  |  |  | União das freguesias de Póvoa de Santo Adrião e Olival Basto | 15 756 | 23 | 163 |
 |  |  |  | União das freguesias de Ramada e Caneças | 28 574 | 16 | 24 |
-|  | PORTALEGRE | PORTALEGRE | PORTALEGRE | 93 005 | 126 | 47 |
-|  |  | ALTER DO CHÃO | ALTER DO CHÃO | 2 656 | 3 | 1 |
+|  | **PORTALEGRE** | **93 005** | **126** | **47** |  |  |
+|  |  | ALTER DO CHÃO | 2 656 | 3 | 1 |  |
 |  |  |  | Alter do Chão | 1 810 | 1 | 0 |
 |  |  |  | Chancelaria | 349 | 2 | 0 |
 |  |  |  | Seda | 252 | 0 | 0 |
 |  |  |  | Cunheira | 245 | 0 | 1 |
-|  |  | ARRONCHES | ARRONCHES | 2 481 | 6 | 2 |
+|  |  | ARRONCHES | 2 481 | 6 | 2 |  |
 |  |  |  | Assunção | 1 583 | 2 | 2 |
 |  |  |  | Esperança | 605 | 2 | 0 |
 |  |  |  | Mosteiros | 293 | 2 | 0 |
@@ -1985,21 +2009,21 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Figueira e Barros | 216 | 0 | 0 |
 |  |  |  | União das freguesias de Alcórrego e Maranhão | 376 | 0 | 0 |
 |  |  |  | União das freguesias de Benavila e Valongo | 768 | 0 | 1 |
-|  |  | CAMPO MAIOR | CAMPO MAIOR | 6 922 | 12 | 1 |
+|  |  | CAMPO MAIOR | 6 922 | 12 | 1 |  |
 |  |  |  | Nossa Senhora da Expectação | 3 187 | 9 | 1 |
 |  |  |  | Nossa Senhora da Graça dos Degolados | 489 | 0 | 0 |
 |  |  |  | São João Baptista | 3 246 | 3 | 0 |
-|  |  | CASTELO DE VIDE | CASTELO DE VIDE | 2 621 | 26 | 3 |
+|  |  | CASTELO DE VIDE | 2 621 | 26 | 3 |  |
 |  |  |  | Nossa Senhora da Graça de Póvoa e Meadas | 443 | 3 | 0 |
 |  |  |  | Santa Maria da Devesa | 1 259 | 15 | 2 |
 |  |  |  | Santiago Maior | 254 | 0 | 1 |
 |  |  |  | São João Baptista | 665 | 8 | 0 |
-|  |  | CRATO | CRATO | 2 916 | 1 | 0 |
+|  |  | CRATO | 2 916 | 1 | 0 |  |
 |  |  |  | Aldeia da Mata | 288 | 0 | 0 |
 |  |  |  | Gáfete | 648 | 0 | 0 |
 |  |  |  | Monte da Pedra | 203 | 0 | 0 |
 |  |  |  | União das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso | 1 777 | 1 | 0 |
-|  |  | ELVAS | ELVAS | 18 446 | 29 | 7 |
+|  |  | ELVAS | 18 446 | 29 | 7 |  |
 |  |  |  | Santa Eulália | 891 | 0 | 0 |
 |  |  |  | São Brás e São Lourenço | 1 457 | 3 | 3 |
 |  |  |  | São Vicente e Ventosa | 630 | 14 | 0 |
@@ -2007,26 +2031,26 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Caia, São Pedro e Alcáçova | 4 804 | 8 | 0 |
 |  |  |  | União das freguesias de Barbacena e Vila Fernando | 680 | 0 | 0 |
 |  |  |  | União das freguesias de Terrugem e Vila Boim | 1 906 | 0 | 0 |
-|  |  | FRONTEIRA | FRONTEIRA | 2 630 | 10 | 1 |
+|  |  | FRONTEIRA | 2 630 | 10 | 1 |  |
 |  |  |  | Cabeço de Vide | 839 | 1 | 1 |
 |  |  |  | Fronteira | 1 583 | 9 | 0 |
 |  |  |  | São Saturnino | 208 | 0 | 0 |
-|  |  | GAVIÃO | GAVIÃO | 3 141 | 0 | 0 |
+|  |  | GAVIÃO | 3 141 | 0 | 0 |  |
 |  |  |  | Belver | 523 | 0 | 0 |
 |  |  |  | Comenda | 615 | 0 | 0 |
 |  |  |  | Margem | 615 | 0 | 0 |
 |  |  |  | União das freguesias de Gavião e Atalaia | 1 388 | 0 | 0 |
-|  |  | MARVÃO | MARVÃO | 2 535 | 25 | 19 |
+|  |  | MARVÃO | 2 535 | 25 | 19 |  |
 |  |  |  | Beirã | 335 | 11 | 0 |
 |  |  |  | Santa Maria de Marvão | 312 | 8 | 6 |
 |  |  |  | Santo António das Areias | 850 | 4 | 4 |
 |  |  |  | São Salvador da Aramenha | 1 038 | 2 | 9 |
-|  |  | MONFORTE | MONFORTE | 2 557 | 1 | 0 |
+|  |  | MONFORTE | 2 557 | 1 | 0 |  |
 |  |  |  | Assumar | 507 | 1 | 0 |
 |  |  |  | Monforte | 1 091 | 0 | 0 |
 |  |  |  | Santo Aleixo | 448 | 0 | 0 |
 |  |  |  | Vaiamonte | 511 | 0 | 0 |
-|  |  | NISA | NISA | 5 562 | 3 | 1 |
+|  |  | NISA | 5 562 | 3 | 1 |  |
 |  |  |  | Alpalhão | 937 | 3 | 1 |
 |  |  |  | Montalvão | 288 | 0 | 0 |
 |  |  |  | Santana | 245 | 0 | 0 |
@@ -2034,13 +2058,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Tolosa | 742 | 0 | 0 |
 |  |  |  | União das freguesias de Arez e Amieira do Tejo | 335 | 0 | 0 |
 |  |  |  | União das freguesias de Espírito Santo, Nossa Senhora da Graça e São Simão | 2 826 | 0 | 0 |
-|  |  | PONTE DE SOR | PONTE DE SOR | 13 650 | 3 | 4 |
+|  |  | PONTE DE SOR | 13 650 | 3 | 4 |  |
 |  |  |  | Galveias | 1 027 | 0 | 0 |
 |  |  |  | Montargil | 1 695 | 2 | 1 |
 |  |  |  | Foros de Arrão | 761 | 1 | 0 |
 |  |  |  | Longomel | 936 | 0 | 0 |
 |  |  |  | União das freguesias de Ponte de Sor, Tramaga e Vale de Açor | 9 231 | 0 | 3 |
-|  |  | PORTALEGRE | PORTALEGRE | 19 698 | 5 | 7 |
+|  |  | PORTALEGRE | 19 698 | 5 | 7 |  |
 |  |  |  | Alagoa | 491 | 1 | 0 |
 |  |  |  | Alegrete | 1 242 | 2 | 0 |
 |  |  |  | Fortios | 1 561 | 0 | 2 |
@@ -2048,13 +2072,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias da Sé e São Lourenço | 12 701 | 1 | 3 |
 |  |  |  | União das freguesias de Reguengo e São Julião | 742 | 1 | 2 |
 |  |  |  | União das freguesias de Ribeira de Nisa e Carreiras | 1 457 | 0 | 0 |
-|  |  | SOUSEL | SOUSEL | 3 857 | 0 | 0 |
+|  |  | SOUSEL | 3 857 | 0 | 0 |  |
 |  |  |  | Cano | 993 | 0 | 0 |
 |  |  |  | Casa Branca | 898 | 0 | 0 |
 |  |  |  | Santo Amaro | 483 | 0 | 0 |
 |  |  |  | Sousel | 1 483 | 0 | 0 |
-|  | PORTO | PORTO | PORTO | 1 589 736 | 599 | 541 |
-|  |  | AMARANTE | AMARANTE | 49 919 | 15 | 6 |
+|  | **PORTO** | **1 589 736** | **599** | **541** |  |  |
+|  |  | AMARANTE | 49 919 | 15 | 6 |  |
 |  |  |  | Ansiães | 533 | 0 | 0 |
 |  |  |  | Candemil | 690 | 0 | 0 |
 |  |  |  | Fregim | 2 256 | 1 | 0 |
@@ -2081,7 +2105,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Olo e Canadelo | 506 | 2 | 0 |
 |  |  |  | Vila Meã | 4 359 | 0 | 1 |
 |  |  |  | União das freguesias de Vila Garcia, Aboim e Chapa | 1 656 | 0 | 0 |
-|  |  | BAIÃO | BAIÃO | 16 310 | 4 | 1 |
+|  |  | BAIÃO | 16 310 | 4 | 1 |  |
 |  |  |  | Frende | 541 | 0 | 0 |
 |  |  |  | Gestaçô | 1 017 | 0 | 0 |
 |  |  |  | Gove | 1 671 | 0 | 0 |
@@ -2096,7 +2120,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Loivos da Ribeira e Tresouras | 641 | 0 | 0 |
 |  |  |  | União das freguesias de Santa Cruz do Douro e São Tomé de Covelas | 1 520 | 2 | 0 |
 |  |  |  | União das freguesias de Teixeira e Teixeiró | 784 | 0 | 0 |
-|  |  | FELGUEIRAS | FELGUEIRAS | 51 616 | 3 | 1 |
+|  |  | FELGUEIRAS | 51 616 | 3 | 1 |  |
 |  |  |  | Aião | 681 | 0 | 0 |
 |  |  |  | Airães | 2 307 | 0 | 0 |
 |  |  |  | Friande | 1 533 | 0 | 0 |
@@ -2117,7 +2141,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Vila Cova da Lixa e Borba de Godim | 5 762 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Fria e Vizela (São Jorge) | 1 022 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Verde e Santão | 1 399 | 0 | 0 |
-|  |  | GONDOMAR | GONDOMAR | 145 730 | 34 | 30 |
+|  |  | GONDOMAR | 145 730 | 34 | 30 |  |
 |  |  |  | Lomba | 1 262 | 0 | 0 |
 |  |  |  | Rio Tinto | 45 180 | 9 | 10 |
 |  |  |  | Baguim do Monte (Rio Tinto) | 12 616 | 6 | 3 |
@@ -2125,7 +2149,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Foz do Sousa e Covelo | 6 468 | 0 | 0 |
 |  |  |  | União das freguesias de Gondomar (São Cosme), Valbom e Jovim | 41 847 | 16 | 9 |
 |  |  |  | União das freguesias de Melres e Medas | 4 807 | 0 | 0 |
-|  |  | LOUSADA | LOUSADA | 42 123 | 8 | 5 |
+|  |  | LOUSADA | 42 123 | 8 | 5 |  |
 |  |  |  | Aveleda | 1 717 | 6 | 1 |
 |  |  |  | Caíde de Rei | 2 238 | 0 | 1 |
 |  |  |  | Lodares | 1 774 | 0 | 0 |
@@ -2141,7 +2165,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Lustosa e Barrosas (Santo Estêvão) | 5 195 | 0 | 1 |
 |  |  |  | União das freguesias de Nespereira e Casais | 3 015 | 0 | 0 |
 |  |  |  | União das freguesias de Silvares, Pias, Nogueira e Alvarenga | 5 781 | 0 | 0 |
-|  |  | MAIA | MAIA | 116 915 | 43 | 36 |
+|  |  | MAIA | 116 915 | 43 | 36 |  |
 |  |  |  | Águas Santas | 23 216 | 4 | 5 |
 |  |  |  | Folgosa | 3 003 | 3 | 2 |
 |  |  |  | Milheirós | 3 926 | 0 | 0 |
@@ -2152,7 +2176,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Castêlo da Maia | 16 118 | 10 | 10 |
 |  |  |  | Cidade da Maia | 35 118 | 10 | 11 |
 |  |  |  | Nogueira e Silva Escura | 7 228 | 0 | 0 |
-|  |  | MARCO DE CANAVESES | MARCO DE CANAVESES | 45 380 | 4 | 8 |
+|  |  | MARCO DE CANAVESES | 45 380 | 4 | 8 |  |
 |  |  |  | Banho e Carvalhosa | 1 093 | 0 | 0 |
 |  |  |  | Constance | 1 390 | 0 | 0 |
 |  |  |  | Soalhães | 2 991 | 0 | 0 |
@@ -2169,12 +2193,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Sande e São Lourenço do Douro | 2 273 | 0 | 0 |
 |  |  |  | Várzea, Aliviada e Folhada | 2 287 | 0 | 0 |
 |  |  |  | Vila Boa de Quires e Maureles | 3 193 | 0 | 0 |
-|  |  | MATOSINHOS | MATOSINHOS | 150 322 | 39 | 62 |
+|  |  | MATOSINHOS | 150 322 | 39 | 62 |  |
 |  |  |  | União das freguesias de Custóias, Leça do Balio e Guifões | 37 305 | 10 | 2 |
 |  |  |  | União das freguesias de Matosinhos e Leça da Palmeira | 42 885 | 22 | 53 |
 |  |  |  | União das freguesias de Perafita, Lavra e Santa Cruz do Bispo | 25 896 | 2 | 4 |
 |  |  |  | União das freguesias de São Mamede de Infesta e Senhora da Hora | 44 236 | 5 | 3 |
-|  |  | PAÇOS DE FERREIRA | PAÇOS DE FERREIRA | 49 206 | 8 | 12 |
+|  |  | PAÇOS DE FERREIRA | 49 206 | 8 | 12 |  |
 |  |  |  | Carvalhosa | 3 954 | 0 | 0 |
 |  |  |  | Eiriz | 1 955 | 0 | 0 |
 |  |  |  | Ferreira | 3 744 | 1 | 0 |
@@ -2187,7 +2211,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Frazão Arreigada | 5 313 | 0 | 0 |
 |  |  |  | Paços de Ferreira | 8 567 | 3 | 7 |
 |  |  |  | Sanfins Lamoso Codessos | 5 013 | 0 | 0 |
-|  |  | PAREDES | PAREDES | 75 190 | 13 | 0 |
+|  |  | PAREDES | 75 190 | 13 | 0 |  |
 |  |  |  | Aguiar de Sousa | 1 419 | 0 | 0 |
 |  |  |  | Astromil | 889 | 0 | 0 |
 |  |  |  | Baltar | 4 223 | 1 | 0 |
@@ -2206,7 +2230,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Vandoma | 2 063 | 1 | 0 |
 |  |  |  | Vilela | 4 369 | 0 | 0 |
 |  |  |  | Paredes | 18 033 | 6 | 0 |
-|  |  | PENAFIEL | PENAFIEL | 62 123 | 4 | 5 |
+|  |  | PENAFIEL | 62 123 | 4 | 5 |  |
 |  |  |  | Abragão | 2 111 | 2 | 0 |
 |  |  |  | Boelhe | 1 377 | 0 | 0 |
 |  |  |  | Bustelo | 1 448 | 0 | 2 |
@@ -2235,7 +2259,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Guilhufe e Urrô | 3 511 | 0 | 0 |
 |  |  |  | Lagares e Figueira | 2 371 | 0 | 1 |
 |  |  |  | Termas de São Vicente | 4 249 | 1 | 0 |
-|  |  | PORTO | PORTO | 204 428 | 221 | 186 |
+|  |  | PORTO | 204 428 | 221 | 186 |  |
 |  |  |  | Bonfim | 21 235 | 23 | 29 |
 |  |  |  | Campanhã | 27 304 | 4 | 28 |
 |  |  |  | Paranhos | 40 040 | 41 | 60 |
@@ -2243,7 +2267,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Aldoar, Foz do Douro e Nevogilde | 24 508 | 36 | 11 |
 |  |  |  | União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória | 34 296 | 66 | 35 |
 |  |  |  | União das freguesias de Lordelo do Ouro e Massarelos | 23 743 | 30 | 8 |
-|  |  | PÓVOA DE VARZIM | PÓVOA DE VARZIM | 60 648 | 12 | 29 |
+|  |  | PÓVOA DE VARZIM | 60 648 | 12 | 29 |  |
 |  |  |  | Balazar | 2 383 | 0 | 0 |
 |  |  |  | Estela | 2 329 | 0 | 0 |
 |  |  |  | Laundos | 1 875 | 0 | 0 |
@@ -2251,7 +2275,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Aver-o-Mar, Amorim e Terroso | 13 286 | 0 | 5 |
 |  |  |  | União das freguesias de Aguçadoura e Navais | 5 254 | 0 | 0 |
 |  |  |  | União das freguesias da Póvoa de Varzim, Beiriz e Argivai | 33 274 | 12 | 24 |
-|  |  | SANTO TIRSO | SANTO TIRSO | 61 926 | 20 | 9 |
+|  |  | SANTO TIRSO | 61 926 | 20 | 9 |  |
 |  |  |  | Agrela | 1 360 | 0 | 0 |
 |  |  |  | Água Longa | 1 994 | 0 | 0 |
 |  |  |  | Aves | 7 409 | 0 | 0 |
@@ -2266,12 +2290,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Carreira e Refojos de Riba de Ave | 1 900 | 0 | 0 |
 |  |  |  | União das freguesias de Lamelas e Guimarei | 1 429 | 1 | 0 |
 |  |  |  | União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães | 18 775 | 11 | 5 |
-|  |  | VALONGO | VALONGO | 84 560 | 11 | 14 |
+|  |  | VALONGO | 84 560 | 11 | 14 |  |
 |  |  |  | Alfena | 12 962 | 1 | 1 |
 |  |  |  | Ermesinde | 35 116 | 2 | 4 |
 |  |  |  | Valongo | 22 556 | 8 | 9 |
 |  |  |  | União das freguesias de Campo e Sobrado | 13 926 | 0 | 0 |
-|  |  | VILA DO CONDE | VILA DO CONDE | 72 083 | 51 | 10 |
+|  |  | VILA DO CONDE | 72 083 | 51 | 10 |  |
 |  |  |  | Árvore | 5 271 | 5 | 1 |
 |  |  |  | Aveleda | 1 084 | 0 | 0 |
 |  |  |  | Azurara | 1 886 | 0 | 0 |
@@ -2293,7 +2317,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Rio Mau e Arcos | 2 440 | 0 | 0 |
 |  |  |  | União das freguesias de Touguinha e Touguinhó | 3 092 | 0 | 0 |
 |  |  |  | União das freguesias de Vilar e Mosteiró | 2 106 | 0 | 1 |
-|  |  | VILA NOVA DE GAIA | VILA NOVA DE GAIA | 267 310 | 104 | 90 |
+|  |  | VILA NOVA DE GAIA | 267 310 | 104 | 90 |  |
 |  |  |  | Arcozelo | 13 393 | 9 | 4 |
 |  |  |  | Avintes | 9 781 | 2 | 1 |
 |  |  |  | Canelas | 11 918 | 2 | 1 |
@@ -2309,14 +2333,14 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Sandim, Olival, Lever e Crestuma | 14 840 | 3 | 2 |
 |  |  |  | União das freguesias de Santa Marinha e São Pedro da Afurada | 29 759 | 1 | 4 |
 |  |  |  | União das freguesias de Serzedo e Perosinho | 12 577 | 2 | 0 |
-|  |  | TROFA | TROFA | 33 947 | 5 | 37 |
+|  |  | TROFA | 33 947 | 5 | 37 |  |
 |  |  |  | Covelas | 1 280 | 0 | 0 |
 |  |  |  | Muro | 1 627 | 0 | 0 |
 |  |  |  | União das freguesias de Alvarelhos e Guidões | 4 266 | 0 | 0 |
 |  |  |  | União das freguesias de Bougado (São Martinho e Santiago) | 18 576 | 0 | 36 |
 |  |  |  | União das freguesias de Coronado (São Romão e São Mamede) | 8 198 | 5 | 1 |
-|  | SANTARÉM | SANTARÉM | SANTARÉM | 376 922 | 357 | 278 |
-|  |  | ABRANTES | ABRANTES | 31 018 | 6 | 7 |
+|  | **SANTARÉM** | **376 922** | **357** | **278** |  |  |
+|  |  | ABRANTES | 31 018 | 6 | 7 |  |
 |  |  |  | Bemposta | 1 375 | 0 | 1 |
 |  |  |  | Martinchel | 464 | 3 | 0 |
 |  |  |  | Mouriscas | 1 376 | 0 | 3 |
@@ -2330,7 +2354,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Alvega e Concavada | 1 638 | 0 | 0 |
 |  |  |  | União das freguesias de São Facundo e Vale das Mós | 1 108 | 0 | 1 |
 |  |  |  | União das freguesias de São Miguel do Rio Torto e Rossio ao Sul do Tejo | 3 811 | 1 | 0 |
-|  |  | ALCANENA | ALCANENA | 11 458 | 13 | 3 |
+|  |  | ALCANENA | 11 458 | 13 | 3 |  |
 |  |  |  | Bugalhos | 920 | 0 | 0 |
 |  |  |  | Minde | 2 624 | 1 | 0 |
 |  |  |  | Moitas Venda | 816 | 2 | 0 |
@@ -2338,46 +2362,46 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Serra de Santo António | 671 | 0 | 0 |
 |  |  |  | União das freguesias de Alcanena e Vila Moreira | 4 195 | 9 | 3 |
 |  |  |  | União das freguesias de Malhou, Louriceira e Espinheiro | 1 523 | 0 | 0 |
-|  |  | ALMEIRIM | ALMEIRIM | 19 651 | 7 | 43 |
+|  |  | ALMEIRIM | 19 651 | 7 | 43 |  |
 |  |  |  | Almeirim | 10 743 | 6 | 43 |
 |  |  |  | Benfica do Ribatejo | 2 611 | 1 | 0 |
 |  |  |  | Fazendas de Almeirim | 5 818 | 0 | 0 |
 |  |  |  | Raposa | 479 | 0 | 0 |
-|  |  | ALPIARÇA | ALPIARÇA | 6 295 | 5 | 7 |
+|  |  | ALPIARÇA | 6 295 | 5 | 7 |  |
 |  |  |  | Alpiarça | 6 295 | 5 | 7 |
-|  |  | BENAVENTE | BENAVENTE | 24 845 | 19 | 37 |
+|  |  | BENAVENTE | 24 845 | 19 | 37 |  |
 |  |  |  | Benavente | 7 887 | 3 | 0 |
 |  |  |  | Samora Correia | 14 699 | 7 | 9 |
 |  |  |  | Santo Estêvão | 1 718 | 9 | 28 |
 |  |  |  | Barrosa | 541 | 0 | 0 |
-|  |  | CARTAXO | CARTAXO | 20 724 | 10 | 4 |
+|  |  | CARTAXO | 20 724 | 10 | 4 |  |
 |  |  |  | Pontével | 3 962 | 4 | 1 |
 |  |  |  | Valada | 585 | 1 | 0 |
 |  |  |  | Vila Chã de Ourique | 2 304 | 0 | 0 |
 |  |  |  | Vale da Pedra | 1 440 | 0 | 0 |
 |  |  |  | União das freguesias do Cartaxo e Vale da Pinta | 10 809 | 5 | 2 |
 |  |  |  | União das freguesias de Ereira e Lapa | 1 624 | 0 | 1 |
-|  |  | CHAMUSCA | CHAMUSCA | 7 552 | 1 | 4 |
+|  |  | CHAMUSCA | 7 552 | 1 | 4 |  |
 |  |  |  | Ulme | 895 | 0 | 0 |
 |  |  |  | Vale de Cavalos | 778 | 0 | 3 |
 |  |  |  | Carregueira | 1 562 | 0 | 0 |
 |  |  |  | União das freguesias da Chamusca e Pinheiro Grande | 3 257 | 1 | 0 |
 |  |  |  | União das freguesias de Parreira e Chouto | 1 060 | 0 | 1 |
-|  |  | CONSTÂNCIA | CONSTÂNCIA | 3 351 | 7 | 1 |
+|  |  | CONSTÂNCIA | 3 351 | 7 | 1 |  |
 |  |  |  | Constância | 854 | 3 | 0 |
 |  |  |  | Montalvo | 1 053 | 3 | 1 |
 |  |  |  | Santa Margarida da Coutada | 1 444 | 1 | 0 |
-|  |  | CORUCHE | CORUCHE | 15 597 | 10 | 0 |
+|  |  | CORUCHE | 15 597 | 10 | 0 |  |
 |  |  |  | Couço | 2 020 | 3 | 0 |
 |  |  |  | São José da Lamarosa | 1 278 | 1 | 0 |
 |  |  |  | Branca | 1 180 | 1 | 0 |
 |  |  |  | Biscainho | 838 | 0 | 0 |
 |  |  |  | Santana do Mato | 819 | 0 | 0 |
 |  |  |  | União das freguesias de Coruche, Fajarda e Erra | 9 462 | 5 | 0 |
-|  |  | ENTRONCAMENTO | ENTRONCAMENTO | 16 805 | 7 | 3 |
+|  |  | ENTRONCAMENTO | 16 805 | 7 | 3 |  |
 |  |  |  | São João Baptista | 6 456 | 4 | 3 |
 |  |  |  | Nossa Senhora de Fátima | 10 349 | 3 | 0 |
-|  |  | FERREIRA DO ZÊZERE | FERREIRA DO ZÊZERE | 6 844 | 43 | 25 |
+|  |  | FERREIRA DO ZÊZERE | 6 844 | 43 | 25 |  |
 |  |  |  | Águas Belas | 1 008 | 4 | 0 |
 |  |  |  | Beco | 696 | 10 | 1 |
 |  |  |  | Chãos | 433 | 15 | 8 |
@@ -2385,18 +2409,18 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Igreja Nova do Sobral | 523 | 0 | 0 |
 |  |  |  | Nossa Senhora do Pranto | 863 | 4 | 4 |
 |  |  |  | União das freguesias de Areias e Pias | 1 364 | 6 | 9 |
-|  |  | GOLEGÃ | GOLEGÃ | 4 746 | 2 | 1 |
+|  |  | GOLEGÃ | 4 746 | 2 | 1 |  |
 |  |  |  | Azinhaga | 1 253 | 1 | 0 |
 |  |  |  | Golegã | 3 139 | 0 | 1 |
 |  |  |  | Pombalinho | 354 | 1 | 0 |
-|  |  | MAÇÃO | MAÇÃO | 5 704 | 5 | 0 |
+|  |  | MAÇÃO | 5 704 | 5 | 0 |  |
 |  |  |  | Amêndoa | 386 | 0 | 0 |
 |  |  |  | Cardigos | 825 | 2 | 0 |
 |  |  |  | Carvoeiro | 444 | 0 | 0 |
 |  |  |  | Envendos | 747 | 0 | 0 |
 |  |  |  | Ortiga | 447 | 1 | 0 |
 |  |  |  | União das freguesias de Mação, Penhascoso e Aboboreira | 2 855 | 2 | 0 |
-|  |  | RIO MAIOR | RIO MAIOR | 17 781 | 7 | 8 |
+|  |  | RIO MAIOR | 17 781 | 7 | 8 |  |
 |  |  |  | Alcobertas | 1 460 | 0 | 0 |
 |  |  |  | Arrouquelas | 504 | 2 | 4 |
 |  |  |  | Fráguas | 748 | 0 | 0 |
@@ -2407,12 +2431,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Marmeleira e Assentiz | 726 | 1 | 0 |
 |  |  |  | União das freguesias de Outeiro da Cortiçada e Arruda dos Pisões | 886 | 0 | 0 |
 |  |  |  | União das freguesias de São João da Ribeira e Ribeira de São João | 1 126 | 3 | 0 |
-|  |  | SALVATERRA DE MAGOS | SALVATERRA DE MAGOS | 19 567 | 15 | 4 |
+|  |  | SALVATERRA DE MAGOS | 19 567 | 15 | 4 |  |
 |  |  |  | Marinhais | 5 702 | 5 | 0 |
 |  |  |  | Muge | 1 027 | 0 | 1 |
 |  |  |  | União das freguesias de Glória do Ribatejo e Granho | 3 415 | 1 | 0 |
 |  |  |  | União das freguesias de Salvaterra de Magos e Foros de Salvaterra | 9 423 | 9 | 3 |
-|  |  | SANTARÉM | SANTARÉM | 50 995 | 31 | 2 |
+|  |  | SANTARÉM | 50 995 | 31 | 2 |  |
 |  |  |  | Abitureiras | 780 | 0 | 0 |
 |  |  |  | Abrã | 863 | 0 | 0 |
 |  |  |  | Alcanede | 3 619 | 1 | 0 |
@@ -2431,12 +2455,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Romeira e Várzea | 2 193 | 3 | 0 |
 |  |  |  | União de freguesias da cidade de Santarém | 25 434 | 14 | 1 |
 |  |  |  | União das freguesias de São Vicente do Paul e Vale de Figueira | 2 229 | 1 | 0 |
-|  |  | SARDOAL | SARDOAL | 3 161 | 3 | 6 |
+|  |  | SARDOAL | 3 161 | 3 | 6 |  |
 |  |  |  | Alcaravela | 690 | 0 | 2 |
 |  |  |  | Santiago de Montalegre | 226 | 0 | 1 |
 |  |  |  | Sardoal | 1 929 | 3 | 3 |
 |  |  |  | Valhascos | 316 | 0 | 0 |
-|  |  | TOMAR | TOMAR | 33 315 | 107 | 79 |
+|  |  | TOMAR | 33 315 | 107 | 79 |  |
 |  |  |  | Asseiceira | 2 335 | 1 | 1 |
 |  |  |  | Carregueiros | 931 | 1 | 0 |
 |  |  |  | Olalhas | 1 168 | 8 | 2 |
@@ -2448,7 +2472,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Madalena e Beselga | 3 239 | 1 | 3 |
 |  |  |  | União das freguesias de Serra e Junceira | 1 651 | 53 | 58 |
 |  |  |  | União das freguesias de Tomar (São João Baptista) e Santa Maria dos Olivais | 15 214 | 17 | 5 |
-|  |  | TORRES NOVAS | TORRES NOVAS | 30 684 | 20 | 15 |
+|  |  | TORRES NOVAS | 30 684 | 20 | 15 |  |
 |  |  |  | Assentiz | 2 420 | 1 | 0 |
 |  |  |  | Chancelaria | 1 391 | 0 | 0 |
 |  |  |  | Pedrógão | 1 724 | 3 | 4 |
@@ -2459,12 +2483,12 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Olaia e Paço | 2 006 | 3 | 3 |
 |  |  |  | União das freguesias de Torres Novas (Santa Maria, Salvador e Santiago) | 6 925 | 7 | 3 |
 |  |  |  | União das freguesias de Torres Novas (São Pedro), Lapas e Ribeira Branca | 7 194 | 2 | 3 |
-|  |  | VILA NOVA DA BARQUINHA | VILA NOVA DA BARQUINHA | 6 412 | 3 | 5 |
+|  |  | VILA NOVA DA BARQUINHA | 6 412 | 3 | 5 |  |
 |  |  |  | Atalaia | 1 652 | 1 | 0 |
 |  |  |  | Praia do Ribatejo | 1 307 | 1 | 2 |
 |  |  |  | Tancos | 192 | 0 | 0 |
 |  |  |  | Vila Nova da Barquinha | 3 261 | 1 | 3 |
-|  |  | OURÉM | OURÉM | 40 417 | 36 | 24 |
+|  |  | OURÉM | 40 417 | 36 | 24 |  |
 |  |  |  | Alburitel | 875 | 0 | 0 |
 |  |  |  | Atouguia | 2 038 | 1 | 0 |
 |  |  |  | Caxarias | 1 890 | 0 | 3 |
@@ -2478,49 +2502,49 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Gondemaria e Olival | 2 750 | 0 | 1 |
 |  |  |  | União das freguesias de Matas e Cercal | 1 593 | 2 | 0 |
 |  |  |  | União das freguesias de Rio de Couros e Casal dos Bernardos | 2 499 | 1 | 0 |
-|  | SETÚBAL | SETÚBAL | SETÚBAL | 750 131 | 823 | 2 310 |
-|  |  | ALCÁCER DO SAL | ALCÁCER DO SAL | 9 890 | 4 | 1 |
+|  | **SETÚBAL** | **750 131** | **823** | **2 310** |  |  |
+|  |  | ALCÁCER DO SAL | 9 890 | 4 | 1 |  |
 |  |  |  | Torrão | 1 687 | 0 | 0 |
 |  |  |  | São Martinho | 329 | 0 | 0 |
 |  |  |  | Comporta | 975 | 0 | 0 |
 |  |  |  | União das freguesias de Alcácer do Sal (Santa Maria do Castelo e Santiago) e Santa Susana | 6 899 | 4 | 1 |
-|  |  | ALCOCHETE | ALCOCHETE | 15 480 | 20 | 11 |
+|  |  | ALCOCHETE | 15 480 | 20 | 11 |  |
 |  |  |  | Alcochete | 10 752 | 18 | 10 |
 |  |  |  | Samouco | 2 755 | 0 | 1 |
 |  |  |  | São Francisco | 1 973 | 2 | 0 |
-|  |  | ALMADA | ALMADA | 150 792 | 137 | 355 |
+|  |  | ALMADA | 150 792 | 137 | 355 |  |
 |  |  |  | Costa da Caparica | 12 288 | 10 | 27 |
 |  |  |  | União das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas | 41 700 | 57 | 114 |
 |  |  |  | União das freguesias de Caparica e Trafaria | 22 132 | 5 | 98 |
 |  |  |  | União das freguesias de Charneca de Caparica e Sobreda | 40 769 | 57 | 27 |
 |  |  |  | União das freguesias de Laranjeiro e Feijó | 33 903 | 8 | 89 |
-|  |  | BARREIRO | BARREIRO | 67 973 | 21 | 68 |
+|  |  | BARREIRO | 67 973 | 21 | 68 |  |
 |  |  |  | Santo António da Charneca | 10 052 | 0 | 10 |
 |  |  |  | União das freguesias de Alto do Seixalinho, Santo André e Verderena | 35 678 | 10 | 20 |
 |  |  |  | União das freguesias de Barreiro e Lavradio | 19 013 | 6 | 33 |
 |  |  |  | União das freguesias de Palhais e Coina | 3 230 | 5 | 5 |
-|  |  | GRÂNDOLA | GRÂNDOLA | 11 757 | 45 | 5 |
+|  |  | GRÂNDOLA | 11 757 | 45 | 5 |  |
 |  |  |  | Azinheira dos Barros e São Mamede do Sádão | 493 | 0 | 0 |
 |  |  |  | Melides | 1 326 | 10 | 0 |
 |  |  |  | Carvalhal | 1 108 | 5 | 0 |
 |  |  |  | União das freguesias de Grândola e Santa Margarida da Serra | 8 830 | 30 | 5 |
-|  |  | MOITA | MOITA | 58 661 | 21 | 210 |
+|  |  | MOITA | 58 661 | 21 | 210 |  |
 |  |  |  | Alhos Vedros | 13 868 | 1 | 10 |
 |  |  |  | Moita | 16 065 | 9 | 8 |
 |  |  |  | União das freguesias de Baixa da Banheira e Vale da Amoreira | 26 694 | 9 | 192 |
 |  |  |  | União das freguesias de Gaio-Rosário e Sarilhos Pequenos | 2 034 | 2 | 0 |
-|  |  | MONTIJO | MONTIJO | 44 324 | 47 | 269 |
+|  |  | MONTIJO | 44 324 | 47 | 269 |  |
 |  |  |  | Canha | 1 142 | 0 | 0 |
 |  |  |  | Sarilhos Grandes | 2 661 | 2 | 0 |
 |  |  |  | União das freguesias de Atalaia e Alto Estanqueiro-Jardia | 4 507 | 1 | 2 |
 |  |  |  | União das freguesias de Montijo e Afonsoeiro | 33 186 | 43 | 267 |
 |  |  |  | União das freguesias de Pegões | 2 828 | 1 | 0 |
-|  |  | PALMELA | PALMELA | 58 297 | 66 | 51 |
+|  |  | PALMELA | 58 297 | 66 | 51 |  |
 |  |  |  | Palmela | 15 920 | 18 | 7 |
 |  |  |  | Pinhal Novo | 23 419 | 16 | 33 |
 |  |  |  | Quinta do Anjo | 11 892 | 15 | 9 |
 |  |  |  | União das freguesias de Poceirão e Marateca | 7 066 | 17 | 2 |
-|  |  | SANTIAGO DO CACÉM | SANTIAGO DO CACÉM | 23 966 | 20 | 10 |
+|  |  | SANTIAGO DO CACÉM | 23 966 | 20 | 10 |  |
 |  |  |  | Abela | 700 | 0 | 0 |
 |  |  |  | Alvalade | 1 505 | 1 | 1 |
 |  |  |  | Cercal | 2 602 | 6 | 1 |
@@ -2529,26 +2553,26 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | São Francisco da Serra | 623 | 6 | 0 |
 |  |  |  | União das freguesias de Santiago do Cacém, Santa Cruz e São Bartolomeu da Serra | 6 657 | 6 | 2 |
 |  |  |  | União das freguesias de São Domingos e Vale de Água | 1 081 | 0 | 0 |
-|  |  | SEIXAL | SEIXAL | 144 952 | 227 | 1 033 |
+|  |  | SEIXAL | 144 952 | 227 | 1 033 |  |
 |  |  |  | Amora | 42 183 | 77 | 662 |
 |  |  |  | Corroios | 43 407 | 26 | 159 |
 |  |  |  | Fernão Ferro | 19 591 | 23 | 39 |
 |  |  |  | União das freguesias do Seixal, Arrentela e Aldeia de Paio Pires | 39 771 | 101 | 173 |
-|  |  | SESIMBRA | SESIMBRA | 46 023 | 80 | 57 |
+|  |  | SESIMBRA | 46 023 | 80 | 57 |  |
 |  |  |  | Sesimbra (Castelo) | 17 869 | 40 | 28 |
 |  |  |  | Sesimbra (Santiago) | 4 226 | 8 | 2 |
 |  |  |  | Quinta do Conde | 23 928 | 32 | 27 |
-|  |  | SETÚBAL | SETÚBAL | 105 968 | 116 | 172 |
+|  |  | SETÚBAL | 105 968 | 116 | 172 |  |
 |  |  |  | Setúbal (São Sebastião) | 44 568 | 20 | 116 |
 |  |  |  | Gâmbia-Pontes-Alto da Guerra | 5 722 | 6 | 0 |
 |  |  |  | Sado | 4 835 | 1 | 6 |
 |  |  |  | União das freguesias de Azeitão (São Lourenço e São Simão) | 17 916 | 40 | 24 |
 |  |  |  | União das freguesias de Setúbal (São Julião, Nossa Senhora da Anunciada e Santa Maria da Graça) | 32 927 | 49 | 26 |
-|  |  | SINES | SINES | 12 048 | 19 | 68 |
+|  |  | SINES | 12 048 | 19 | 68 |  |
 |  |  |  | Sines | 11 109 | 13 | 68 |
 |  |  |  | Porto Covo | 939 | 6 | 0 |
-|  | VIANA DO CASTELO | VIANA DO CASTELO | VIANA DO CASTELO | 233 372 | 251 | 341 |
-|  |  | ARCOS DE VALDEVEZ | ARCOS DE VALDEVEZ | 24 290 | 3 | 1 |
+|  | **VIANA DO CASTELO** | **233 372** | **251** | **341** |  |  |
+|  |  | ARCOS DE VALDEVEZ | 24 290 | 3 | 1 |  |
 |  |  |  | Aboim das Choças | 336 | 0 | 0 |
 |  |  |  | Aguiã | 789 | 0 | 0 |
 |  |  |  | Ázere | 270 | 0 | 0 |
@@ -2585,7 +2609,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Souto e Tabaçô | 947 | 0 | 0 |
 |  |  |  | União das freguesias de Távora (Santa Maria e São Vicente) | 999 | 0 | 1 |
 |  |  |  | União das freguesias de Vilela, São Cosme e São Damião e Sá | 577 | 0 | 0 |
-|  |  | CAMINHA | CAMINHA | 15 928 | 35 | 6 |
+|  |  | CAMINHA | 15 928 | 35 | 6 |  |
 |  |  |  | Âncora | 1 153 | 1 | 0 |
 |  |  |  | Argela | 353 | 0 | 0 |
 |  |  |  | Dem | 317 | 0 | 0 |
@@ -2600,7 +2624,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Gondar e Orbacém | 400 | 2 | 0 |
 |  |  |  | União das freguesias de Moledo e Cristelo | 1 540 | 3 | 0 |
 |  |  |  | União das freguesias de Venade e Azevedo | 868 | 3 | 0 |
-|  |  | MELGAÇO | MELGAÇO | 9 652 | 2 | 0 |
+|  |  | MELGAÇO | 9 652 | 2 | 0 |  |
 |  |  |  | Alvaredo | 520 | 0 | 0 |
 |  |  |  | Cousso | 395 | 0 | 0 |
 |  |  |  | Cristoval | 528 | 1 | 0 |
@@ -2614,7 +2638,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Parada do Monte e Cubalhão | 857 | 0 | 0 |
 |  |  |  | União das freguesias de Prado e Remoães | 482 | 0 | 0 |
 |  |  |  | União das freguesias de Vila e Roussas | 2 444 | 0 | 0 |
-|  |  | MONÇÃO | MONÇÃO | 18 835 | 18 | 1 |
+|  |  | MONÇÃO | 18 835 | 18 | 1 |  |
 |  |  |  | Abedim | 208 | 0 | 0 |
 |  |  |  | Barbeita | 980 | 0 | 0 |
 |  |  |  | Barroças e Taias | 337 | 4 | 0 |
@@ -2639,7 +2663,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Monção e Troviscoso | 3 280 | 3 | 0 |
 |  |  |  | União das freguesias de Sago, Lordelo e Parada | 476 | 1 | 0 |
 |  |  |  | União das freguesias de Troporiz e Lapela | 499 | 3 | 0 |
-|  |  | PAREDES DE COURA | PAREDES DE COURA | 8 499 | 6 | 1 |
+|  |  | PAREDES DE COURA | 8 499 | 6 | 1 |  |
 |  |  |  | Agualonga | 273 | 0 | 0 |
 |  |  |  | Castanheira | 582 | 0 | 0 |
 |  |  |  | Coura | 359 | 0 | 0 |
@@ -2656,7 +2680,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Formariz e Ferreira | 980 | 0 | 0 |
 |  |  |  | União das freguesias de Insalde e Porreiras | 445 | 0 | 0 |
 |  |  |  | União das freguesias de Paredes de Coura e Resende | 1 854 | 2 | 1 |
-|  |  | PONTE DA BARCA | PONTE DA BARCA | 12 887 | 4 | 4 |
+|  |  | PONTE DA BARCA | 12 887 | 4 | 4 |  |
 |  |  |  | Azias | 384 | 0 | 0 |
 |  |  |  | Boivães | 307 | 0 | 0 |
 |  |  |  | Bravães | 607 | 0 | 0 |
@@ -2674,7 +2698,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Ponte da Barca, Vila Nova de Muía e Paço Vedro de Magalhães | 4 564 | 1 | 3 |
 |  |  |  | União das freguesias de Touvedo (São Lourenço e Salvador) | 468 | 2 | 0 |
 |  |  |  | União das freguesias de Vila Chã (São João Baptista e Santiago) | 693 | 0 | 0 |
-|  |  | PONTE DE LIMA | PONTE DE LIMA | 40 371 | 27 | 13 |
+|  |  | PONTE DE LIMA | 40 371 | 27 | 13 |  |
 |  |  |  | Anais | 1 011 | 0 | 0 |
 |  |  |  | São Pedro d’Arcos | 603 | 1 | 0 |
 |  |  |  | Arcozelo | 3 225 | 0 | 3 |
@@ -2714,7 +2738,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Fornelos e Queijada | 1 676 | 5 | 0 |
 |  |  |  | Labrujó, Rendufe e Vilar do Monte | 343 | 0 | 0 |
 |  |  |  | Navió e Vitorino dos Piães | 1 617 | 1 | 0 |
-|  |  | VALENÇA | VALENÇA | 12 743 | 47 | 136 |
+|  |  | VALENÇA | 12 743 | 47 | 136 |  |
 |  |  |  | Boivão | 246 | 0 | 0 |
 |  |  |  | Cerdal | 1 583 | 3 | 4 |
 |  |  |  | Fontoura | 641 | 1 | 0 |
@@ -2726,7 +2750,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Gondomil e Sanfins | 458 | 0 | 0 |
 |  |  |  | União das freguesias de São Julião e Silva | 566 | 0 | 1 |
 |  |  |  | União das freguesias de Valença, Cristelo Covo e Arão | 4 582 | 31 | 127 |
-|  |  | VIANA DO CASTELO | VIANA DO CASTELO | 81 780 | 77 | 133 |
+|  |  | VIANA DO CASTELO | 81 780 | 77 | 133 |  |
 |  |  |  | Afife | 1 430 | 3 | 6 |
 |  |  |  | Alvarães | 2 562 | 1 | 0 |
 |  |  |  | Amonde | 245 | 0 | 0 |
@@ -2754,7 +2778,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Subportela, Deocriste e Portela Susã | 2 262 | 0 | 0 |
 |  |  |  | União das freguesias de Torre e Vila Mou | 1 192 | 1 | 0 |
 |  |  |  | União das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela | 22 391 | 23 | 24 |
-|  |  | VILA NOVA DE CERVEIRA | VILA NOVA DE CERVEIRA | 8 387 | 32 | 46 |
+|  |  | VILA NOVA DE CERVEIRA | 8 387 | 32 | 46 |  |
 |  |  |  | Cornes | 473 | 1 | 0 |
 |  |  |  | Covas | 567 | 8 | 12 |
 |  |  |  | Gondarém | 935 | 0 | 0 |
@@ -2766,8 +2790,8 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Candemil e Gondar | 337 | 0 | 1 |
 |  |  |  | União das freguesias de Reboreda e Nogueira | 988 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Nova de Cerveira e Lovelhe | 1 731 | 16 | 32 |
-|  | VILA REAL | VILA REAL | VILA REAL | 208 549 | 73 | 41 |
-|  |  | ALIJÓ | ALIJÓ | 11 022 | 6 | 0 |
+|  | **VILA REAL** | **208 549** | **73** | **41** |  |  |
+|  |  | ALIJÓ | 11 022 | 6 | 0 |  |
 |  |  |  | Alijó | 2 421 | 1 | 0 |
 |  |  |  | Favaios | 948 | 0 | 0 |
 |  |  |  | Pegarinhos | 489 | 0 | 0 |
@@ -2782,7 +2806,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Castedo e Cotas | 545 | 0 | 0 |
 |  |  |  | União das freguesias de Pópulo e Ribalonga | 597 | 0 | 0 |
 |  |  |  | União das freguesias de Vale de Mendiz, Casal de Loivos e Vilarinho de Cotas | 441 | 2 | 0 |
-|  |  | BOTICAS | BOTICAS | 7 550 | 0 | 0 |
+|  |  | BOTICAS | 7 550 | 0 | 0 |  |
 |  |  |  | Beça | 1 145 | 0 | 0 |
 |  |  |  | Covas do Barroso | 306 | 0 | 0 |
 |  |  |  | Dornelas | 490 | 0 | 0 |
@@ -2793,7 +2817,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Boticas e Granja | 1 744 | 0 | 0 |
 |  |  |  | Codessoso, Curros e Fiães do Tâmega | 430 | 0 | 0 |
 |  |  |  | Vilar e Viveiro | 616 | 0 | 0 |
-|  |  | CHAVES | CHAVES | 42 447 | 18 | 4 |
+|  |  | CHAVES | 42 447 | 18 | 4 |  |
 |  |  |  | Águas Frias | 774 | 0 | 0 |
 |  |  |  | Anelhe | 537 | 0 | 0 |
 |  |  |  | Bustelo | 552 | 1 | 0 |
@@ -2833,20 +2857,20 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Soutelo e Seara Velha | 633 | 0 | 0 |
 |  |  |  | União das freguesias de Travancas e Roriz | 582 | 0 | 0 |
 |  |  |  | Vidago (União das freguesias de Vidago, Arcossó, Selhariz e Vilarinho das Paranheiras) | 1 927 | 0 | 0 |
-|  |  | MESÃO FRIO | MESÃO FRIO | 3 421 | 0 | 0 |
+|  |  | MESÃO FRIO | 3 421 | 0 | 0 |  |
 |  |  |  | Barqueiros | 500 | 0 | 0 |
 |  |  |  | Cidadelhe | 125 | 0 | 0 |
 |  |  |  | Oliveira | 304 | 0 | 0 |
 |  |  |  | Vila Marim | 985 | 0 | 0 |
 |  |  |  | Mesão Frio (Santo André) | 1 507 | 0 | 0 |
-|  |  | MONDIM DE BASTO | MONDIM DE BASTO | 7 505 | 4 | 2 |
+|  |  | MONDIM DE BASTO | 7 505 | 4 | 2 |  |
 |  |  |  | Atei | 1 193 | 0 | 0 |
 |  |  |  | Bilhó | 580 | 0 | 0 |
 |  |  |  | São Cristóvão de Mondim de Basto | 3 087 | 4 | 2 |
 |  |  |  | Vilar de Ferreiros | 1 160 | 0 | 0 |
 |  |  |  | União das freguesias de Campanhó e Paradança | 915 | 0 | 0 |
 |  |  |  | União das freguesias de Ermelo e Pardelhas | 570 | 0 | 0 |
-|  |  | MONTALEGRE | MONTALEGRE | 13 103 | 7 | 6 |
+|  |  | MONTALEGRE | 13 103 | 7 | 6 |  |
 |  |  |  | Cabril | 531 | 0 | 0 |
 |  |  |  | Cervos | 386 | 0 | 1 |
 |  |  |  | Chã | 1 091 | 0 | 0 |
@@ -2872,7 +2896,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Venda Nova e Pondras | 450 | 2 | 0 |
 |  |  |  | União das freguesias de Viade de Baixo e Fervidelas | 907 | 0 | 0 |
 |  |  |  | União das freguesias de Vilar de Perdizes e Meixide | 820 | 0 | 0 |
-|  |  | MURÇA | MURÇA | 6 125 | 3 | 1 |
+|  |  | MURÇA | 6 125 | 3 | 1 |  |
 |  |  |  | Candedo | 1 029 | 0 | 0 |
 |  |  |  | Fiolhoso | 636 | 0 | 0 |
 |  |  |  | Jou | 685 | 0 | 0 |
@@ -2880,7 +2904,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Valongo de Milhais | 344 | 0 | 0 |
 |  |  |  | União das freguesias de Carva e Vilares | 555 | 1 | 0 |
 |  |  |  | União das freguesias de Noura e Palheiros | 962 | 0 | 1 |
-|  |  | PESO DA RÉGUA | PESO DA RÉGUA | 14 857 | 2 | 3 |
+|  |  | PESO DA RÉGUA | 14 857 | 2 | 3 |  |
 |  |  |  | Fontelas | 627 | 1 | 0 |
 |  |  |  | Loureiro | 919 | 0 | 0 |
 |  |  |  | Sedielos | 958 | 0 | 0 |
@@ -2889,13 +2913,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Moura Morta e Vinhós | 804 | 0 | 1 |
 |  |  |  | União das freguesias de Peso da Régua e Godim | 8 549 | 0 | 2 |
 |  |  |  | União das freguesias de Poiares e Canelas | 1 292 | 0 | 0 |
-|  |  | RIBEIRA DE PENA | RIBEIRA DE PENA | 8 137 | 0 | 2 |
+|  |  | RIBEIRA DE PENA | 8 137 | 0 | 2 |  |
 |  |  |  | Alvadia | 276 | 0 | 0 |
 |  |  |  | Canedo | 628 | 0 | 0 |
 |  |  |  | Santa Marinha | 924 | 0 | 0 |
 |  |  |  | União das freguesias de Cerva e Limões | 2 716 | 0 | 0 |
 |  |  |  | União das freguesias de Ribeira de Pena (Salvador) e Santo Aleixo de Além-Tâmega | 3 593 | 0 | 2 |
-|  |  | SABROSA | SABROSA | 6 102 | 0 | 0 |
+|  |  | SABROSA | 6 102 | 0 | 0 |  |
 |  |  |  | Celeirós | 194 | 0 | 0 |
 |  |  |  | Covas do Douro | 392 | 0 | 0 |
 |  |  |  | Gouvinhas | 277 | 0 | 0 |
@@ -2908,7 +2932,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Vilarinho de São Romão | 255 | 0 | 0 |
 |  |  |  | União das freguesias de Provesende, Gouvães do Douro e São Cristóvão do Douro | 497 | 0 | 0 |
 |  |  |  | União das freguesias de São Martinho de Antas e Paradela de Guiães | 1 119 | 0 | 0 |
-|  |  | SANTA MARTA DE PENAGUIÃO | SANTA MARTA DE PENAGUIÃO | 6 974 | 4 | 3 |
+|  |  | SANTA MARTA DE PENAGUIÃO | 6 974 | 4 | 3 |  |
 |  |  |  | Alvações do Corgo | 410 | 0 | 0 |
 |  |  |  | Cumieira | 1 115 | 0 | 0 |
 |  |  |  | Fontes | 906 | 0 | 0 |
@@ -2916,7 +2940,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Sever | 775 | 0 | 0 |
 |  |  |  | União das freguesias de Lobrigos (São Miguel e São João Baptista) e Sanhoane | 2 626 | 4 | 3 |
 |  |  |  | União das freguesias de Louredo e Fornelos | 669 | 0 | 0 |
-|  |  | VALPAÇOS | VALPAÇOS | 18 338 | 7 | 1 |
+|  |  | VALPAÇOS | 18 338 | 7 | 1 |  |
 |  |  |  | Água Revés e Crasto | 343 | 0 | 0 |
 |  |  |  | Algeriz | 583 | 0 | 0 |
 |  |  |  | Bouçoães | 474 | 0 | 0 |
@@ -2942,7 +2966,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Sonim e Barreiros | 490 | 0 | 0 |
 |  |  |  | Tinhela e Alvarelhos | 392 | 0 | 0 |
 |  |  |  | Valpaços e Sanfins | 5 184 | 2 | 0 |
-|  |  | VILA POUCA DE AGUIAR | VILA POUCA DE AGUIAR | 13 704 | 9 | 0 |
+|  |  | VILA POUCA DE AGUIAR | 13 704 | 9 | 0 |  |
 |  |  |  | Alfarela de Jales | 435 | 0 | 0 |
 |  |  |  | Bornes de Aguiar | 2 151 | 1 | 0 |
 |  |  |  | Bragado | 580 | 0 | 0 |
@@ -2957,7 +2981,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Sabroso de Aguiar | 656 | 3 | 0 |
 |  |  |  | Alvão | 1 117 | 0 | 0 |
 |  |  |  | União das freguesias de Pensalvos e Parada de Monteiros | 383 | 0 | 0 |
-|  |  | VILA REAL | VILA REAL | 49 264 | 13 | 19 |
+|  |  | VILA REAL | 49 264 | 13 | 19 |  |
 |  |  |  | Abaças | 1 077 | 0 | 1 |
 |  |  |  | Andrães | 1 588 | 0 | 0 |
 |  |  |  | Arroios | 1 035 | 0 | 2 |
@@ -2978,8 +3002,8 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Pena, Quintã e Vila Cova | 896 | 0 | 0 |
 |  |  |  | União das freguesias de São Tomé do Castelo e Justes | 1 322 | 0 | 0 |
 |  |  |  | Vila Real | 15 952 | 6 | 8 |
-|  | VISEU | VISEU | VISEU | 335 314 | 166 | 114 |
-|  |  | ARMAMAR | ARMAMAR | 5 629 | 3 | 0 |
+|  | **VISEU** | **335 314** | **166** | **114** |  |  |
+|  |  | ARMAMAR | 5 629 | 3 | 0 |  |
 |  |  |  | Aldeias | 313 | 0 | 0 |
 |  |  |  | Cimbres | 248 | 0 | 0 |
 |  |  |  | Folgosa | 376 | 0 | 0 |
@@ -2994,13 +3018,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Aricera e Goujoim | 186 | 0 | 0 |
 |  |  |  | União das freguesias de São Romão e Santiago | 262 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Seca e Santo Adrião | 389 | 2 | 0 |
-|  |  | CARREGAL DO SAL | CARREGAL DO SAL | 8 906 | 20 | 33 |
+|  |  | CARREGAL DO SAL | 8 906 | 20 | 33 |  |
 |  |  |  | Beijós | 833 | 1 | 0 |
 |  |  |  | Cabanas de Viriato | 1 365 | 1 | 0 |
 |  |  |  | Oliveira do Conde | 2 753 | 14 | 27 |
 |  |  |  | Parada | 810 | 2 | 3 |
 |  |  |  | Carregal do Sal | 3 145 | 2 | 3 |
-|  |  | CASTRO DAIRE | CASTRO DAIRE | 13 660 | 1 | 1 |
+|  |  | CASTRO DAIRE | 13 660 | 1 | 1 |  |
 |  |  |  | Almofala | 227 | 0 | 0 |
 |  |  |  | Cabril | 321 | 0 | 0 |
 |  |  |  | Castro Daire | 4 275 | 0 | 1 |
@@ -3017,7 +3041,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Parada de Ester e Ester | 734 | 0 | 0 |
 |  |  |  | União das freguesias de Picão e Ermida | 433 | 0 | 0 |
 |  |  |  | União das freguesias de Reriz e Gafanhão | 710 | 0 | 0 |
-|  |  | CINFÃES | CINFÃES | 15 986 | 3 | 6 |
+|  |  | CINFÃES | 15 986 | 3 | 6 |  |
 |  |  |  | Cinfães | 2 707 | 0 | 2 |
 |  |  |  | Espadanedo | 991 | 0 | 0 |
 |  |  |  | Ferreiros de Tendais | 490 | 0 | 0 |
@@ -3032,7 +3056,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Tendais | 620 | 2 | 0 |
 |  |  |  | Travanca | 659 | 0 | 0 |
 |  |  |  | União das freguesias de Alhões, Bustelo, Gralheira e Ramires | 510 | 1 | 0 |
-|  |  | LAMEGO | LAMEGO | 23 119 | 3 | 1 |
+|  |  | LAMEGO | 23 119 | 3 | 1 |  |
 |  |  |  | Avões | 455 | 0 | 0 |
 |  |  |  | Britiande | 791 | 1 | 0 |
 |  |  |  | Cambres | 1 564 | 0 | 0 |
@@ -3051,7 +3075,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Bigorne, Magueija e Pretarouca | 607 | 0 | 0 |
 |  |  |  | União das freguesias de Cepões, Meijinhos e Melcões | 952 | 0 | 0 |
 |  |  |  | União das freguesias de Parada do Bispo e Valdigem | 912 | 0 | 0 |
-|  |  | MANGUALDE | MANGUALDE | 17 747 | 10 | 6 |
+|  |  | MANGUALDE | 17 747 | 10 | 6 |  |
 |  |  |  | Abrunhosa-a-Velha | 455 | 0 | 0 |
 |  |  |  | Alcafache | 772 | 1 | 0 |
 |  |  |  | Cunha Baixa | 861 | 0 | 0 |
@@ -3064,7 +3088,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Moimenta de Maceira Dão e Lobelhe do Mato | 804 | 0 | 0 |
 |  |  |  | União das freguesias de Santiago de Cassurrães e Póvoa de Cervães | 1 135 | 0 | 0 |
 |  |  |  | União das freguesias de Tavares (Chãs, Várzea e Travanca) | 1 228 | 0 | 1 |
-|  |  | MOIMENTA DA BEIRA | MOIMENTA DA BEIRA | 9 934 | 1 | 0 |
+|  |  | MOIMENTA DA BEIRA | 9 934 | 1 | 0 |  |
 |  |  |  | Alvite | 1 203 | 0 | 0 |
 |  |  |  | Arcozelos | 527 | 0 | 0 |
 |  |  |  | Baldos | 185 | 0 | 0 |
@@ -3081,7 +3105,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Paradinha e Nagosa | 215 | 0 | 0 |
 |  |  |  | União das freguesias de Pêra Velha, Aldeia de Nacomba e Ariz | 494 | 0 | 0 |
 |  |  |  | União das freguesias de Peva e Segões | 550 | 0 | 0 |
-|  |  | MORTÁGUA | MORTÁGUA | 8 255 | 7 | 3 |
+|  |  | MORTÁGUA | 8 255 | 7 | 3 |  |
 |  |  |  | Cercosa | 269 | 0 | 0 |
 |  |  |  | Espinho | 975 | 0 | 2 |
 |  |  |  | Marmeleira | 399 | 1 | 0 |
@@ -3089,7 +3113,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Sobral | 1 956 | 1 | 0 |
 |  |  |  | Trezói | 354 | 0 | 0 |
 |  |  |  | União das freguesias de Mortágua, Vale de Remígio, Cortegaça e Almaça | 3 432 | 3 | 1 |
-|  |  | NELAS | NELAS | 12 320 | 6 | 9 |
+|  |  | NELAS | 12 320 | 6 | 9 |  |
 |  |  |  | Canas de Senhorim | 3 034 | 1 | 3 |
 |  |  |  | Nelas | 4 158 | 2 | 3 |
 |  |  |  | Senhorim | 1 081 | 0 | 0 |
@@ -3097,7 +3121,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Lapa do Lobo | 627 | 0 | 0 |
 |  |  |  | União das freguesias de Carvalhal Redondo e Aguieira | 1 367 | 1 | 1 |
 |  |  |  | União das freguesias de Santar e Moreira | 1 418 | 2 | 2 |
-|  |  | OLIVEIRA DE FRADES | OLIVEIRA DE FRADES | 8 603 | 7 | 2 |
+|  |  | OLIVEIRA DE FRADES | 8 603 | 7 | 2 |  |
 |  |  |  | Arcozelo das Maias | 1 205 | 0 | 0 |
 |  |  |  | Pinheiro | 1 039 | 2 | 0 |
 |  |  |  | Ribeiradio | 787 | 0 | 0 |
@@ -3106,7 +3130,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Arca e Varzielas | 581 | 0 | 0 |
 |  |  |  | União das freguesias de Destriz e Reigoso | 558 | 0 | 0 |
 |  |  |  | União das freguesias de Oliveira de Frades, Souto de Lafões e Sejães | 3 324 | 3 | 2 |
-|  |  | PENALVA DO CASTELO | PENALVA DO CASTELO | 7 240 | 4 | 3 |
+|  |  | PENALVA DO CASTELO | 7 240 | 4 | 3 |  |
 |  |  |  | Castelo de Penalva | 803 | 3 | 3 |
 |  |  |  | Esmolfe | 434 | 0 | 0 |
 |  |  |  | Germil | 355 | 0 | 0 |
@@ -3118,7 +3142,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Trancozelos | 249 | 0 | 0 |
 |  |  |  | União das freguesias de Antas e Matela | 374 | 0 | 0 |
 |  |  |  | União das freguesias de Vila Cova do Covelo/Mareco | 293 | 1 | 0 |
-|  |  | PENEDONO | PENEDONO | 2 791 | 0 | 0 |
+|  |  | PENEDONO | 2 791 | 0 | 0 |  |
 |  |  |  | Beselga | 295 | 0 | 0 |
 |  |  |  | Castainço | 139 | 0 | 0 |
 |  |  |  | Penela da Beira | 314 | 0 | 0 |
@@ -3126,7 +3150,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Souto | 258 | 0 | 0 |
 |  |  |  | União das freguesias de Antas e Ourozinho | 372 | 0 | 0 |
 |  |  |  | União das freguesias de Penedono e Granja | 1 080 | 0 | 0 |
-|  |  | RESENDE | RESENDE | 9 712 | 5 | 1 |
+|  |  | RESENDE | 9 712 | 5 | 1 |  |
 |  |  |  | Barrô | 657 | 1 | 0 |
 |  |  |  | Cárquere | 701 | 0 | 0 |
 |  |  |  | Paus | 417 | 0 | 0 |
@@ -3138,14 +3162,14 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Felgueiras e Feirão | 347 | 0 | 0 |
 |  |  |  | União das freguesias de Freigil e Miomães | 621 | 0 | 0 |
 |  |  |  | União das freguesias de Ovadas e Panchorra | 272 | 0 | 0 |
-|  |  | SANTA COMBA DÃO | SANTA COMBA DÃO | 10 130 | 21 | 3 |
+|  |  | SANTA COMBA DÃO | 10 130 | 21 | 3 |  |
 |  |  |  | Pinheiro de Ázere | 794 | 13 | 0 |
 |  |  |  | São Joaninho | 1 003 | 0 | 0 |
 |  |  |  | São João de Areias | 1 745 | 6 | 0 |
 |  |  |  | União das freguesias de Ovoa e Vimieiro | 1 459 | 0 | 0 |
 |  |  |  | União das freguesias de Santa Comba Dão e Couto do Mosteiro | 3 968 | 2 | 3 |
 |  |  |  | União das freguesias de Treixedo e Nagozela | 1 161 | 0 | 0 |
-|  |  | SÃO JOÃO DA PESQUEIRA | SÃO JOÃO DA PESQUEIRA | 6 489 | 1 | 3 |
+|  |  | SÃO JOÃO DA PESQUEIRA | 6 489 | 1 | 3 |  |
 |  |  |  | Castanheiro do Sul | 342 | 0 | 0 |
 |  |  |  | Ervedosa do Douro | 1 021 | 0 | 0 |
 |  |  |  | Nagozelo do Douro | 336 | 0 | 0 |
@@ -3157,7 +3181,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de São João da Pesqueira e Várzea de Trevões | 2 031 | 0 | 2 |
 |  |  |  | União das freguesias de Trevões e Espinhosa | 535 | 1 | 0 |
 |  |  |  | União das freguesias de Vilarouco e Pereiros | 374 | 0 | 0 |
-|  |  | SÃO PEDRO DO SUL | SÃO PEDRO DO SUL | 14 630 | 8 | 4 |
+|  |  | SÃO PEDRO DO SUL | 14 630 | 8 | 4 |  |
 |  |  |  | Bordonhos | 469 | 0 | 0 |
 |  |  |  | Figueiredo de Alva | 709 | 0 | 0 |
 |  |  |  | Manhouce | 560 | 0 | 0 |
@@ -3172,7 +3196,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Santa Cruz da Trapa e São Cristóvão de Lafões | 1 351 | 3 | 2 |
 |  |  |  | União das freguesias de São Martinho das Moitas e Covas do Rio | 271 | 0 | 0 |
 |  |  |  | União das freguesias de São Pedro do Sul, Várzea e Baiões | 5 108 | 3 | 1 |
-|  |  | SÁTÃO | SÁTÃO | 12 201 | 2 | 2 |
+|  |  | SÁTÃO | 12 201 | 2 | 2 |  |
 |  |  |  | Avelal | 414 | 0 | 0 |
 |  |  |  | Ferreira de Aves | 2 401 | 0 | 0 |
 |  |  |  | Mioma | 1 205 | 0 | 0 |
@@ -3182,7 +3206,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Silvã de Cima | 469 | 1 | 0 |
 |  |  |  | União das freguesias de Águas Boas e Forles | 243 | 0 | 0 |
 |  |  |  | União das freguesias de Romãs, Decermilo e Vila Longa | 1 369 | 0 | 1 |
-|  |  | SERNANCELHE | SERNANCELHE | 5 040 | 17 | 10 |
+|  |  | SERNANCELHE | 5 040 | 17 | 10 |  |
 |  |  |  | Arnas | 214 | 0 | 0 |
 |  |  |  | Carregal | 391 | 0 | 0 |
 |  |  |  | Chosendo | 268 | 2 | 0 |
@@ -3196,7 +3220,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Fonte Arcada e Escurquela | 327 | 0 | 0 |
 |  |  |  | União das freguesias de Penso e Freixinho | 308 | 0 | 0 |
 |  |  |  | União das freguesias de Sernancelhe e Sarzeda | 1 519 | 12 | 0 |
-|  |  | TABUAÇO | TABUAÇO | 4 631 | 6 | 1 |
+|  |  | TABUAÇO | 4 631 | 6 | 1 |  |
 |  |  |  | Adorigo | 262 | 0 | 0 |
 |  |  |  | Arcos | 148 | 0 | 0 |
 |  |  |  | Chavães | 295 | 0 | 0 |
@@ -3210,7 +3234,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Paradela e Granjinha | 109 | 0 | 0 |
 |  |  |  | União das freguesias de Pinheiros e Vale de Figueira | 232 | 0 | 0 |
 |  |  |  | União das freguesias de Távora e Pereiro | 388 | 0 | 0 |
-|  |  | TAROUCA | TAROUCA | 7 145 | 1 | 1 |
+|  |  | TAROUCA | 7 145 | 1 | 1 |  |
 |  |  |  | Mondim da Beira | 558 | 0 | 0 |
 |  |  |  | Salzedas | 664 | 0 | 0 |
 |  |  |  | São João de Tarouca | 512 | 0 | 0 |
@@ -3218,7 +3242,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Gouviães e Ucanha | 711 | 1 | 0 |
 |  |  |  | União das freguesias de Granja Nova e Vila Chã da Beira | 434 | 0 | 0 |
 |  |  |  | União das freguesias de Tarouca e Dálvares | 4 024 | 0 | 1 |
-|  |  | TONDELA | TONDELA | 24 336 | 9 | 5 |
+|  |  | TONDELA | 24 336 | 9 | 5 |  |
 |  |  |  | Campo de Besteiros | 1 179 | 0 | 0 |
 |  |  |  | Canas de Santa Maria | 1 485 | 1 | 0 |
 |  |  |  | Castelões | 1 298 | 2 | 0 |
@@ -3238,13 +3262,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de São Miguel do Outeiro e Sabugosa | 1 201 | 0 | 0 |
 |  |  |  | União das freguesias de Tondela e Nandufe | 4 602 | 0 | 2 |
 |  |  |  | União das freguesias de Vilar de Besteiros e Mosteiro de Fráguas | 1 216 | 0 | 1 |
-|  |  | VILA NOVA DE PAIVA | VILA NOVA DE PAIVA | 5 726 | 0 | 1 |
+|  |  | VILA NOVA DE PAIVA | 5 726 | 0 | 1 |  |
 |  |  |  | Pendilhe | 470 | 0 | 0 |
 |  |  |  | Queiriga | 936 | 0 | 0 |
 |  |  |  | Touro | 1 048 | 0 | 0 |
 |  |  |  | Vila Cova à Coelheira | 1 033 | 0 | 1 |
 |  |  |  | União das freguesias de Vila Nova de Paiva, Alhais e Fráguas | 2 239 | 0 | 0 |
-|  |  | VISEU | VISEU | 92 259 | 29 | 17 |
+|  |  | VISEU | 92 259 | 29 | 17 |  |
 |  |  |  | Abraveses | 7 639 | 5 | 3 |
 |  |  |  | Bodiosa | 2 849 | 0 | 0 |
 |  |  |  | Calde | 1 432 | 0 | 0 |
@@ -3270,7 +3294,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Repeses e São Salvador | 5 414 | 0 | 3 |
 |  |  |  | São Cipriano e Vil de Souto | 1 745 | 0 | 0 |
 |  |  |  | Viseu | 22 484 | 9 | 7 |
-|  |  | VOUZELA | VOUZELA | 8 825 | 2 | 2 |
+|  |  | VOUZELA | 8 825 | 2 | 2 |  |
 |  |  |  | Alcofra | 861 | 0 | 0 |
 |  |  |  | Campia | 1 306 | 1 | 0 |
 |  |  |  | Fornelo do Monte | 236 | 0 | 0 |
@@ -3280,9 +3304,9 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | União das freguesias de Cambra e Carvalhal de Vermilhas | 1 246 | 0 | 0 |
 |  |  |  | União das freguesias de Fataunços e Figueiredo das Donas | 923 | 0 | 0 |
 |  |  |  | União das freguesias de Vouzela e Paços de Vilharigues | 1 646 | 0 | 0 |
-|  | REGIÃO AUTÓNOMA DA MADEIRA | REGIÃO AUTÓNOMA DA MADEIRA | REGIÃO AUTÓNOMA DA MADEIRA | 254 029 | 283 | 221 |
-|  | ILHA DA MADEIRA | ILHA DA MADEIRA | ILHA DA MADEIRA | 248 619 | 229 | 196 |
-|  |  | CALHETA | CALHETA | 12 288 | 28 | 19 |
+|  | **REGIÃO AUTÓNOMA DA MADEIRA** | **254 029** | **283** | **221** |  |  |
+|  | **ILHA DA MADEIRA** | **248 619** | **229** | **196** |  |  |
+|  |  | CALHETA | 12 288 | 28 | 19 |  |
 |  |  |  | Arco da Calheta | 3 153 | 10 | 1 |
 |  |  |  | Calheta | 3 499 | 7 | 10 |
 |  |  |  | Estreito da Calheta | 1 671 | 11 | 1 |
@@ -3291,13 +3315,13 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Paul do Mar | 925 | 0 | 1 |
 |  |  |  | Ponta do Pargo | 1 006 | 0 | 4 |
 |  |  |  | Prazeres | 815 | 0 | 0 |
-|  |  | CÂMARA DE LOBOS | CÂMARA DE LOBOS | 32 511 | 1 | 8 |
+|  |  | CÂMARA DE LOBOS | 32 511 | 1 | 8 |  |
 |  |  |  | Câmara de Lobos | 16 160 | 0 | 5 |
 |  |  |  | Curral das Freiras | 1 812 | 0 | 1 |
 |  |  |  | Estreito de Câmara de Lobos | 9 631 | 1 | 2 |
 |  |  |  | Quinta Grande | 1 924 | 0 | 0 |
 |  |  |  | Jardim da Serra | 2 984 | 0 | 0 |
-|  |  | FUNCHAL | FUNCHAL | 104 794 | 127 | 74 |
+|  |  | FUNCHAL | 104 794 | 127 | 74 |  |
 |  |  |  | Imaculado Coração de Maria | 5 673 | 6 | 8 |
 |  |  |  | Monte | 5 651 | 7 | 6 |
 |  |  |  | Funchal (Santa Luzia) | 5 593 | 6 | 4 |
@@ -3308,62 +3332,62 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Funchal (São Pedro) | 7 124 | 11 | 11 |
 |  |  |  | São Roque | 8 301 | 4 | 2 |
 |  |  |  | Funchal (Sé) | 3 343 | 15 | 9 |
-|  |  | MACHICO | MACHICO | 19 772 | 9 | 7 |
+|  |  | MACHICO | 19 772 | 9 | 7 |  |
 |  |  |  | Água de Pena | 2 575 | 3 | 3 |
 |  |  |  | Caniçal | 3 559 | 0 | 0 |
 |  |  |  | Machico | 10 323 | 4 | 4 |
 |  |  |  | Porto da Cruz | 2 162 | 2 | 0 |
 |  |  |  | Santo António da Serra | 1 153 | 0 | 0 |
-|  |  | PONTA DO SOL | PONTA DO SOL | 9 780 | 13 | 8 |
+|  |  | PONTA DO SOL | 9 780 | 13 | 8 |  |
 |  |  |  | Canhas | 4 329 | 1 | 3 |
 |  |  |  | Madalena do Mar | 573 | 0 | 0 |
 |  |  |  | Ponta do Sol | 4 878 | 12 | 5 |
-|  |  | PORTO MONIZ | PORTO MONIZ | 3 004 | 3 | 3 |
+|  |  | PORTO MONIZ | 3 004 | 3 | 3 |  |
 |  |  |  | Achadas da Cruz | 188 | 0 | 0 |
 |  |  |  | Porto Moniz | 1 793 | 2 | 2 |
 |  |  |  | Ribeira da Janela | 305 | 0 | 0 |
 |  |  |  | Seixal | 718 | 1 | 1 |
-|  |  | RIBEIRA BRAVA | RIBEIRA BRAVA | 14 009 | 8 | 17 |
+|  |  | RIBEIRA BRAVA | 14 009 | 8 | 17 |  |
 |  |  |  | Campanário | 4 626 | 4 | 7 |
 |  |  |  | Ribeira Brava | 7 079 | 2 | 9 |
 |  |  |  | Serra de Água | 1 053 | 0 | 1 |
 |  |  |  | Tabua | 1 251 | 2 | 0 |
-|  |  | SANTA CRUZ | SANTA CRUZ | 39 769 | 36 | 52 |
+|  |  | SANTA CRUZ | 39 769 | 36 | 52 |  |
 |  |  |  | Camacha | 6 160 | 3 | 4 |
 |  |  |  | Caniço | 21 761 | 26 | 29 |
 |  |  |  | Gaula | 3 832 | 6 | 12 |
 |  |  |  | Santa Cruz | 7 206 | 1 | 5 |
 |  |  |  | Santo António da Serra | 810 | 0 | 2 |
-|  |  | SANTANA | SANTANA | 6 873 | 4 | 4 |
+|  |  | SANTANA | 6 873 | 4 | 4 |  |
 |  |  |  | Arco de São Jorge | 370 | 1 | 0 |
 |  |  |  | Faial | 1 482 | 3 | 0 |
 |  |  |  | Santana | 2 898 | 0 | 3 |
 |  |  |  | São Jorge | 1 332 | 0 | 1 |
 |  |  |  | São Roque do Faial | 577 | 0 | 0 |
 |  |  |  | Ilha | 214 | 0 | 0 |
-|  |  | SÃO VICENTE | SÃO VICENTE | 5 819 | 0 | 4 |
+|  |  | SÃO VICENTE | 5 819 | 0 | 4 |  |
 |  |  |  | Boa Ventura | 1 233 | 0 | 0 |
 |  |  |  | Ponta Delgada | 1 229 | 0 | 4 |
 |  |  |  | São Vicente | 3 357 | 0 | 0 |
-|  | ILHA DE PORTO SANTO | ILHA DE PORTO SANTO | ILHA DE PORTO SANTO | 5 410 | 54 | 25 |
-|  |  | PORTO SANTO | PORTO SANTO | 5 410 | 54 | 25 |
+|  | **ILHA DE PORTO SANTO** | **5 410** | **54** | **25** |  |  |
+|  |  | PORTO SANTO | 5 410 | 54 | 25 |  |
 |  |  |  | Porto Santo | 5 410 | 54 | 25 |
-|  | REGIÃO AUTÓNOMA DOS AÇORES | REGIÃO AUTÓNOMA DOS AÇORES | REGIÃO AUTÓNOMA DOS AÇORES | 229 830 | 226 | 51 |
-|  | ILHA DE SANTA MARIA | ILHA DE SANTA MARIA | ILHA DE SANTA MARIA | 5 199 | 15 | 1 |
-|  |  | VILA DO PORTO | VILA DO PORTO | 5 199 | 15 | 1 |
+|  | **REGIÃO AUTÓNOMA DOS AÇORES** | **229 830** | **226** | **51** |  |  |
+|  | **ILHA DE SANTA MARIA** | **5 199** | **15** | **1** |  |  |
+|  |  | VILA DO PORTO | 5 199 | 15 | 1 |  |
 |  |  |  | Almagreira | 569 | 1 | 0 |
 |  |  |  | Santa Bárbara | 433 | 2 | 0 |
 |  |  |  | Santo Espírito | 632 | 5 | 0 |
 |  |  |  | São Pedro | 711 | 6 | 0 |
 |  |  |  | Vila do Porto | 2 854 | 1 | 1 |
-|  | ILHA DE SÃO MIGUEL | ILHA DE SÃO MIGUEL | ILHA DE SÃO MIGUEL | 128 778 | 67 | 13 |
-|  |  | LAGOA | LAGOA | 12 982 | 6 | 1 |
+|  | **ILHA DE SÃO MIGUEL** | **128 778** | **67** | **13** |  |  |
+|  |  | LAGOA | 12 982 | 6 | 1 |  |
 |  |  |  | Água de Pau | 2 765 | 1 | 1 |
 |  |  |  | Cabouco | 1 746 | 0 | 0 |
 |  |  |  | Lagoa (Nossa Senhora do Rosário) | 4 871 | 4 | 0 |
 |  |  |  | Lagoa (Santa Cruz) | 3 227 | 1 | 0 |
 |  |  |  | Ribeira Chã | 373 | 0 | 0 |
-|  |  | NORDESTE | NORDESTE | 4 807 | 4 | 1 |
+|  |  | NORDESTE | 4 807 | 4 | 1 |  |
 |  |  |  | Achada | 456 | 0 | 0 |
 |  |  |  | Achadinha | 502 | 0 | 0 |
 |  |  |  | Lomba da Fazenda | 875 | 0 | 0 |
@@ -3373,7 +3397,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Algarvia | 250 | 0 | 0 |
 |  |  |  | Santo António de Nordestinho | 306 | 0 | 0 |
 |  |  |  | São Pedro de Nordestinho | 291 | 0 | 0 |
-|  |  | PONTA DELGADA | PONTA DELGADA | 65 299 | 38 | 5 |
+|  |  | PONTA DELGADA | 65 299 | 38 | 5 |  |
 |  |  |  | Arrifes | 6 886 | 0 | 0 |
 |  |  |  | Candelária | 928 | 0 | 0 |
 |  |  |  | Capelas | 3 787 | 2 | 0 |
@@ -3398,14 +3422,14 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Ajuda da Bretanha | 677 | 0 | 0 |
 |  |  |  | Pilar da Bretanha | 592 | 1 | 0 |
 |  |  |  | Santa Clara | 2 873 | 0 | 1 |
-|  |  | POVOAÇÃO | POVOAÇÃO | 6 269 | 3 | 0 |
+|  |  | POVOAÇÃO | 6 269 | 3 | 0 |  |
 |  |  |  | Água Retorta | 430 | 0 | 0 |
 |  |  |  | Faial da Terra | 400 | 0 | 0 |
 |  |  |  | Furnas | 1 485 | 2 | 0 |
 |  |  |  | Nossa Senhora dos Remédios | 1 141 | 0 | 0 |
 |  |  |  | Povoação | 2 016 | 1 | 0 |
 |  |  |  | Ribeira Quente | 797 | 0 | 0 |
-|  |  | RIBEIRA GRANDE | RIBEIRA GRANDE | 28 906 | 10 | 3 |
+|  |  | RIBEIRA GRANDE | 28 906 | 10 | 3 |  |
 |  |  |  | Calhetas | 807 | 1 | 0 |
 |  |  |  | Fenais da Ajuda | 931 | 0 | 0 |
 |  |  |  | Lomba da Maia | 1 052 | 0 | 0 |
@@ -3420,15 +3444,15 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Ribeirinha | 2 298 | 0 | 0 |
 |  |  |  | Santa Bárbara | 1 170 | 0 | 0 |
 |  |  |  | São Brás | 579 | 0 | 0 |
-|  |  | VILA FRANCA DO CAMPO | VILA FRANCA DO CAMPO | 10 515 | 6 | 3 |
+|  |  | VILA FRANCA DO CAMPO | 10 515 | 6 | 3 |  |
 |  |  |  | Água de Alto | 1 601 | 1 | 0 |
 |  |  |  | Ponta Garça | 3 102 | 0 | 1 |
 |  |  |  | Ribeira das Tainhas | 625 | 0 | 0 |
 |  |  |  | Vila Franca do Campo (São Miguel) | 2 692 | 2 | 1 |
 |  |  |  | Vila Franca do Campo (São Pedro) | 1 464 | 2 | 0 |
 |  |  |  | Ribeira Seca | 1 031 | 1 | 1 |
-|  | ILHA TERCEIRA | ILHA TERCEIRA | ILHA TERCEIRA | 53 043 | 15 | 8 |
-|  |  | ANGRA DO HEROÍSMO | ANGRA DO HEROÍSMO | 33 411 | 12 | 6 |
+|  | **ILHA TERCEIRA** | **53 043** | **15** | **8** |  |  |
+|  |  | ANGRA DO HEROÍSMO | 33 411 | 12 | 6 |  |
 |  |  |  | Altares | 846 | 0 | 0 |
 |  |  |  | Angra (Nossa Senhora da Conceição) | 3 719 | 0 | 2 |
 |  |  |  | Angra (Santa Luzia) | 2 283 | 1 | 0 |
@@ -3448,7 +3472,7 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Serreta | 344 | 0 | 0 |
 |  |  |  | Terra Chã | 2 649 | 2 | 1 |
 |  |  |  | Vila de São Sebastião | 2 126 | 0 | 0 |
-|  |  | VILA DA PRAIA DA VITÓRIA | VILA DA PRAIA DA VITÓRIA | 19 632 | 3 | 2 |
+|  |  | VILA DA PRAIA DA VITÓRIA | 19 632 | 3 | 2 |  |
 |  |  |  | Agualva | 1 290 | 0 | 0 |
 |  |  |  | Biscoitos | 1 526 | 0 | 0 |
 |  |  |  | Cabo da Praia | 678 | 0 | 0 |
@@ -3460,49 +3484,49 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | São Brás | 1 001 | 0 | 0 |
 |  |  |  | Vila Nova | 1 575 | 0 | 0 |
 |  |  |  | Porto Martins | 1 142 | 0 | 0 |
-|  | ILHA GRACIOSA | ILHA GRACIOSA | ILHA GRACIOSA | 3 868 | 2 | 1 |
-|  |  | SANTA CRUZ DA GRACIOSA | SANTA CRUZ DA GRACIOSA | 3 868 | 2 | 1 |
+|  | **ILHA GRACIOSA** | **3 868** | **2** | **1** |  |  |
+|  |  | SANTA CRUZ DA GRACIOSA | 3 868 | 2 | 1 |  |
 |  |  |  | Guadalupe | 959 | 2 | 1 |
 |  |  |  | Luz | 644 | 0 | 0 |
 |  |  |  | São Mateus | 688 | 0 | 0 |
 |  |  |  | Santa Cruz da Graciosa | 1 577 | 0 | 0 |
-|  | ILHA DE SÃO JORGE | ILHA DE SÃO JORGE | ILHA DE SÃO JORGE | 8 707 | 10 | 1 |
-|  |  | CALHETA | CALHETA | 3 721 | 1 | 0 |
+|  | **ILHA DE SÃO JORGE** | **8 707** | **10** | **1** |  |  |
+|  |  | CALHETA | 3 721 | 1 | 0 |  |
 |  |  |  | Calheta | 1 342 | 1 | 0 |
 |  |  |  | Norte Pequeno | 196 | 0 | 0 |
 |  |  |  | Ribeira Seca | 995 | 0 | 0 |
 |  |  |  | Santo Antão | 711 | 0 | 0 |
 |  |  |  | Topo (Nossa Senhora do Rosário) | 477 | 0 | 0 |
-|  |  | VELAS | VELAS | 4 986 | 9 | 1 |
+|  |  | VELAS | 4 986 | 9 | 1 |  |
 |  |  |  | Manadas (Santa Bárbara) | 352 | 4 | 0 |
 |  |  |  | Norte Grande (Neves) | 537 | 0 | 0 |
 |  |  |  | Rosais | 696 | 0 | 0 |
 |  |  |  | Santo Amaro | 833 | 1 | 0 |
 |  |  |  | Urzelina (São Mateus) | 838 | 3 | 0 |
 |  |  |  | Velas (São Jorge) | 1 730 | 1 | 1 |
-|  | ILHA DO PICO | ILHA DO PICO | ILHA DO PICO | 13 802 | 45 | 15 |
-|  |  | LAJES DO PICO | LAJES DO PICO | 4 477 | 22 | 9 |
+|  | **ILHA DO PICO** | **13 802** | **45** | **15** |  |  |
+|  |  | LAJES DO PICO | 4 477 | 22 | 9 |  |
 |  |  |  | Calheta de Nesquim | 343 | 0 | 1 |
 |  |  |  | Lajes do Pico | 1 616 | 1 | 5 |
 |  |  |  | Piedade | 800 | 16 | 2 |
 |  |  |  | Ribeiras | 860 | 3 | 0 |
 |  |  |  | Ribeirinha | 408 | 2 | 0 |
 |  |  |  | São João | 450 | 0 | 1 |
-|  |  | MADALENA | MADALENA | 6 027 | 11 | 4 |
+|  |  | MADALENA | 6 027 | 11 | 4 |  |
 |  |  |  | Bandeiras | 666 | 1 | 0 |
 |  |  |  | Candelária | 792 | 0 | 0 |
 |  |  |  | Criação Velha | 785 | 3 | 1 |
 |  |  |  | Madalena | 2 633 | 4 | 3 |
 |  |  |  | São Caetano | 499 | 2 | 0 |
 |  |  |  | São Mateus | 652 | 1 | 0 |
-|  |  | SÃO ROQUE DO PICO | SÃO ROQUE DO PICO | 3 298 | 12 | 2 |
+|  |  | SÃO ROQUE DO PICO | 3 298 | 12 | 2 |  |
 |  |  |  | Prainha | 539 | 9 | 1 |
 |  |  |  | Santa Luzia | 492 | 0 | 0 |
 |  |  |  | Santo Amaro | 275 | 0 | 0 |
 |  |  |  | Santo António | 723 | 2 | 0 |
 |  |  |  | São Roque do Pico | 1 269 | 1 | 1 |
-|  | ILHA DO FAIAL | ILHA DO FAIAL | ILHA DO FAIAL | 12 998 | 48 | 6 |
-|  |  | HORTA | HORTA | 12 998 | 48 | 6 |
+|  | **ILHA DO FAIAL** | **12 998** | **48** | **6** |  |  |
+|  |  | HORTA | 12 998 | 48 | 6 |  |
 |  |  |  | Capelo | 488 | 9 | 0 |
 |  |  |  | Castelo Branco | 1 139 | 2 | 1 |
 |  |  |  | Cedros | 735 | 13 | 3 |
@@ -3516,8 +3540,8 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Praia do Norte | 218 | 0 | 0 |
 |  |  |  | Ribeirinha | 377 | 0 | 0 |
 |  |  |  | Salão | 351 | 0 | 0 |
-|  | ILHA DAS FLORES | ILHA DAS FLORES | ILHA DAS FLORES | 3 080 | 21 | 3 |
-|  |  | LAJES DAS FLORES | LAJES DAS FLORES | 1 244 | 20 | 3 |
+|  | **ILHA DAS FLORES** | **3 080** | **21** | **3** |  |  |
+|  |  | LAJES DAS FLORES | 1 244 | 20 | 3 |  |
 |  |  |  | Fajã Grande | 193 | 3 | 0 |
 |  |  |  | Fajãzinha | 68 | 4 | 0 |
 |  |  |  | Fazenda | 222 | 1 | 2 |
@@ -3525,135 +3549,135 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Lajes das Flores | 493 | 3 | 0 |
 |  |  |  | Lomba | 161 | 5 | 1 |
 |  |  |  | Mosteiro | 26 | 2 | 0 |
-|  |  | SANTA CRUZ DAS FLORES | SANTA CRUZ DAS FLORES | 1 836 | 1 | 0 |
+|  |  | SANTA CRUZ DAS FLORES | 1 836 | 1 | 0 |  |
 |  |  |  | Caveira | 68 | 0 | 0 |
 |  |  |  | Cedros | 109 | 1 | 0 |
 |  |  |  | Ponta Delgada | 299 | 0 | 0 |
 |  |  |  | Santa Cruz das Flores | 1 360 | 0 | 0 |
-|  | ILHA DO CORVO | ILHA DO CORVO | ILHA DO CORVO | 355 | 3 | 3 |
-|  |  | CORVO | CORVO | 355 | 3 | 3 |
+|  | **ILHA DO CORVO** | **355** | **3** | **3** |  |  |
+|  |  | CORVO | 355 | 3 | 3 |  |
 |  |  |  | Corvo | 355 | 3 | 3 |
-| EUROPA E FORA DA EUROPA | EUROPA E FORA DA EUROPA | EUROPA E FORA DA EUROPA | EUROPA E FORA DA EUROPA | 1 590 475 | 0 | 0 |
-|  | EUROPA | EUROPA | EUROPA | 959 134 | 0 | 0 |
-|  |  | ALEMANHA | ALEMANHA | 77 367 | 0 | 0 |
+| **EUROPA****E****FORA DA EUROPA** | **1 590 475** | **0** | **0** |  |  |  |
+|  | **EUROPA** | **959 134** | **0** | **0** |  |  |
+|  |  | ALEMANHA | 77 367 | 0 | 0 |  |
 |  |  |  | Berlim | 5 943 | 0 | 0 |
 |  |  |  | Dusseldorf | 27 600 | 0 | 0 |
 |  |  |  | Estugarda | 29 141 | 0 | 0 |
 |  |  |  | Hamburgo | 14 683 | 0 | 0 |
-|  |  | ÁUSTRIA | ÁUSTRIA | 2 038 | 0 | 0 |
+|  |  | ÁUSTRIA | 2 038 | 0 | 0 |  |
 |  |  |  | Viena | 2 038 | 0 | 0 |
-|  |  | BÉLGICA | BÉLGICA | 17 916 | 0 | 0 |
+|  |  | BÉLGICA | 17 916 | 0 | 0 |  |
 |  |  |  | Bruxelas | 17 916 | 0 | 0 |
-|  |  | BULGÁRIA | BULGÁRIA | 315 | 0 | 0 |
+|  |  | BULGÁRIA | 315 | 0 | 0 |  |
 |  |  |  | Sófia | 315 | 0 | 0 |
-|  |  | CHÉQUIA | CHÉQUIA | 715 | 0 | 0 |
+|  |  | CHÉQUIA | 715 | 0 | 0 |  |
 |  |  |  | Praga | 715 | 0 | 0 |
-|  |  | DINAMARCA | DINAMARCA | 2 802 | 0 | 0 |
+|  |  | DINAMARCA | 2 802 | 0 | 0 |  |
 |  |  |  | Copenhague | 2 802 | 0 | 0 |
-|  |  | ESPANHA | ESPANHA | 47 086 | 0 | 0 |
+|  |  | ESPANHA | 47 086 | 0 | 0 |  |
 |  |  |  | Barcelona | 14 632 | 0 | 0 |
 |  |  |  | Madrid | 19 797 | 0 | 0 |
 |  |  |  | Vigo | 7 487 | 0 | 0 |
 |  |  |  | Sevilha | 5 170 | 0 | 0 |
-|  |  | FINLÂNDIA | FINLÂNDIA | 814 | 0 | 0 |
+|  |  | FINLÂNDIA | 814 | 0 | 0 |  |
 |  |  |  | Helsínquia | 814 | 0 | 0 |
-|  |  | FRANÇA | FRANÇA | 394 887 | 0 | 0 |
+|  |  | FRANÇA | 394 887 | 0 | 0 |  |
 |  |  |  | Bordéus | 33 050 | 0 | 0 |
 |  |  |  | Estrasburgo | 19 919 | 0 | 0 |
 |  |  |  | Lyon | 60 070 | 0 | 0 |
 |  |  |  | Marselha | 35 636 | 0 | 0 |
 |  |  |  | Paris | 224 593 | 0 | 0 |
 |  |  |  | Toulouse | 21 619 | 0 | 0 |
-|  |  | GRÉCIA | GRÉCIA | 434 | 0 | 0 |
+|  |  | GRÉCIA | 434 | 0 | 0 |  |
 |  |  |  | Atenas | 434 | 0 | 0 |
-|  |  | PAÍSES BAIXOS | PAÍSES BAIXOS | 18 096 | 0 | 0 |
+|  |  | PAÍSES BAIXOS | 18 096 | 0 | 0 |  |
 |  |  |  | Haia | 18 096 | 0 | 0 |
-|  |  | HUNGRIA | HUNGRIA | 254 | 0 | 0 |
+|  |  | HUNGRIA | 254 | 0 | 0 |  |
 |  |  |  | Budapeste | 254 | 0 | 0 |
-|  |  | IRLANDA | IRLANDA | 6 443 | 0 | 0 |
+|  |  | IRLANDA | 6 443 | 0 | 0 |  |
 |  |  |  | Dublin | 6 443 | 0 | 0 |
-|  |  | ITÁLIA | ITÁLIA | 4 090 | 0 | 0 |
+|  |  | ITÁLIA | 4 090 | 0 | 0 |  |
 |  |  |  | Roma | 4 090 | 0 | 0 |
-|  |  | SÉRVIA | SÉRVIA | 133 | 0 | 0 |
+|  |  | SÉRVIA | 133 | 0 | 0 |  |
 |  |  |  | Belgrado | 133 | 0 | 0 |
-|  |  | LUXEMBURGO | LUXEMBURGO | 37 842 | 0 | 0 |
+|  |  | LUXEMBURGO | 37 842 | 0 | 0 |  |
 |  |  |  | Luxemburgo | 37 842 | 0 | 0 |
-|  |  | NORUEGA | NORUEGA | 4 187 | 0 | 0 |
+|  |  | NORUEGA | 4 187 | 0 | 0 |  |
 |  |  |  | Oslo | 4 187 | 0 | 0 |
-|  |  | POLÓNIA | POLÓNIA | 1 144 | 0 | 0 |
+|  |  | POLÓNIA | 1 144 | 0 | 0 |  |
 |  |  |  | Varsóvia | 1 144 | 0 | 0 |
-|  |  | REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE | REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE | 175 553 | 0 | 0 |
+|  |  | REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE | 175 553 | 0 | 0 |  |
 |  |  |  | Londres | 132 021 | 0 | 0 |
 |  |  |  | Manchester | 43 532 | 0 | 0 |
-|  |  | ROMÉNIA | ROMÉNIA | 897 | 0 | 0 |
+|  |  | ROMÉNIA | 897 | 0 | 0 |  |
 |  |  |  | Bucareste | 897 | 0 | 0 |
-|  |  | SUÉCIA | SUÉCIA | 2 662 | 0 | 0 |
+|  |  | SUÉCIA | 2 662 | 0 | 0 |  |
 |  |  |  | Estocolmo | 2 662 | 0 | 0 |
-|  |  | FEDERAÇÃO DA RÚSSIA | FEDERAÇÃO DA RÚSSIA | 233 | 0 | 0 |
+|  |  | FEDERAÇÃO DA RÚSSIA | 233 | 0 | 0 |  |
 |  |  |  | Moscovo | 233 | 0 | 0 |
-|  |  | ANDORRA | ANDORRA | 7 670 | 0 | 0 |
+|  |  | ANDORRA | 7 670 | 0 | 0 |  |
 |  |  |  | Andorra | 7 670 | 0 | 0 |
-|  |  | SUÍÇA | SUÍÇA | 150 955 | 0 | 0 |
+|  |  | SUÍÇA | 150 955 | 0 | 0 |  |
 |  |  |  | Berna | 24 618 | 0 | 0 |
 |  |  |  | Genebra | 77 487 | 0 | 0 |
 |  |  |  | Zurique | 48 850 | 0 | 0 |
-|  |  | UCRÂNIA | UCRÂNIA | 86 | 0 | 0 |
+|  |  | UCRÂNIA | 86 | 0 | 0 |  |
 |  |  |  | Kiev | 86 | 0 | 0 |
-|  |  | ESLOVÁQUIA | ESLOVÁQUIA | 118 | 0 | 0 |
+|  |  | ESLOVÁQUIA | 118 | 0 | 0 |  |
 |  |  |  | Bratislava | 118 | 0 | 0 |
-|  |  | CROÁCIA | CROÁCIA | 63 | 0 | 0 |
+|  |  | CROÁCIA | 63 | 0 | 0 |  |
 |  |  |  | Zagrebe | 63 | 0 | 0 |
-|  |  | TURQUIA | TURQUIA | 3 943 | 0 | 0 |
+|  |  | TURQUIA | 3 943 | 0 | 0 |  |
 |  |  |  | Ankara | 3 943 | 0 | 0 |
-|  |  | CHIPRE | CHIPRE | 391 | 0 | 0 |
+|  |  | CHIPRE | 391 | 0 | 0 |  |
 |  |  |  | Nicósia | 391 | 0 | 0 |
-|  | ÁFRICA | ÁFRICA | ÁFRICA | 67 318 | 0 | 0 |
-|  |  | ÁFRICA DO SUL | ÁFRICA DO SUL | 32 539 | 0 | 0 |
+|  | **ÁFRICA** | **67 318** | **0** | **0** |  |  |
+|  |  | ÁFRICA DO SUL | 32 539 | 0 | 0 |  |
 |  |  |  | Cape Town | 4 100 | 0 | 0 |
 |  |  |  | Joanesburgo | 25 978 | 0 | 0 |
 |  |  |  | Pretória | 2 461 | 0 | 0 |
-|  |  | ANGOLA | ANGOLA | 16 454 | 0 | 0 |
+|  |  | ANGOLA | 16 454 | 0 | 0 |  |
 |  |  |  | Luanda | 13 533 | 0 | 0 |
 |  |  |  | Benguela | 2 921 | 0 | 0 |
-|  |  | ARGÉLIA | ARGÉLIA | 23 | 0 | 0 |
+|  |  | ARGÉLIA | 23 | 0 | 0 |  |
 |  |  |  | Argel | 23 | 0 | 0 |
-|  |  | CABO VERDE | CABO VERDE | 5 357 | 0 | 0 |
+|  |  | CABO VERDE | 5 357 | 0 | 0 |  |
 |  |  |  | Praia | 5 357 | 0 | 0 |
-|  |  | EGITO | EGITO | 54 | 0 | 0 |
+|  |  | EGITO | 54 | 0 | 0 |  |
 |  |  |  | Cairo | 54 | 0 | 0 |
-|  |  | MARROCOS | MARROCOS | 429 | 0 | 0 |
+|  |  | MARROCOS | 429 | 0 | 0 |  |
 |  |  |  | Rabat | 429 | 0 | 0 |
-|  |  | MOÇAMBIQUE | MOÇAMBIQUE | 9 354 | 0 | 0 |
+|  |  | MOÇAMBIQUE | 9 354 | 0 | 0 |  |
 |  |  |  | Maputo | 8 135 | 0 | 0 |
 |  |  |  | Beira | 1 219 | 0 | 0 |
-|  |  | NIGÉRIA | NIGÉRIA | 87 | 0 | 0 |
+|  |  | NIGÉRIA | 87 | 0 | 0 |  |
 |  |  |  | Abuja | 87 | 0 | 0 |
-|  |  | SÃO TOMÉ E PRÍNCIPE | SÃO TOMÉ E PRÍNCIPE | 642 | 0 | 0 |
+|  |  | SÃO TOMÉ E PRÍNCIPE | 642 | 0 | 0 |  |
 |  |  |  | São Tomé | 642 | 0 | 0 |
-|  |  | SENEGAL | SENEGAL | 299 | 0 | 0 |
+|  |  | SENEGAL | 299 | 0 | 0 |  |
 |  |  |  | Dacar | 299 | 0 | 0 |
-|  |  | TUNÍSIA | TUNÍSIA | 203 | 0 | 0 |
+|  |  | TUNÍSIA | 203 | 0 | 0 |  |
 |  |  |  | Tunes | 203 | 0 | 0 |
-|  |  | CONGO (República Democrática do) | CONGO (República Democrática do) | 225 | 0 | 0 |
+|  |  | CONGO (República Democrática do) | 225 | 0 | 0 |  |
 |  |  |  | Kinshasa | 225 | 0 | 0 |
-|  |  | ZIMBABUÉ | ZIMBABUÉ | 465 | 0 | 0 |
+|  |  | ZIMBABUÉ | 465 | 0 | 0 |  |
 |  |  |  | Harare | 465 | 0 | 0 |
-|  |  | GUINÉ-BISSAU | GUINÉ-BISSAU | 216 | 0 | 0 |
+|  |  | GUINÉ-BISSAU | 216 | 0 | 0 |  |
 |  |  |  | Bissau | 216 | 0 | 0 |
-|  |  | QUÉNIA | QUÉNIA | 185 | 0 | 0 |
+|  |  | QUÉNIA | 185 | 0 | 0 |  |
 |  |  |  | Nairobi | 185 | 0 | 0 |
-|  |  | COSTA DO MARFIM | COSTA DO MARFIM | 100 | 0 | 0 |
+|  |  | COSTA DO MARFIM | 100 | 0 | 0 |  |
 |  |  |  | Abidjan | 100 | 0 | 0 |
-|  |  | GUINÉ EQUATORIAL | GUINÉ EQUATORIAL | 10 | 0 | 0 |
+|  |  | GUINÉ EQUATORIAL | 10 | 0 | 0 |  |
 |  |  |  | Malabo | 10 | 0 | 0 |
-|  |  | NAMÍBIA | NAMÍBIA | 579 | 0 | 0 |
+|  |  | NAMÍBIA | 579 | 0 | 0 |  |
 |  |  |  | Windhoek | 579 | 0 | 0 |
-|  |  | ETIÓPIA | ETIÓPIA | 97 | 0 | 0 |
+|  |  | ETIÓPIA | 97 | 0 | 0 |  |
 |  |  |  | Addis Abeba | 97 | 0 | 0 |
-|  | AMÉRICA | AMÉRICA | AMÉRICA | 452 295 | 0 | 0 |
-|  |  | ARGENTINA | ARGENTINA | 7 287 | 0 | 0 |
+|  | **AMÉRICA** | **452 295** | **0** | **0** |  |  |
+|  |  | ARGENTINA | 7 287 | 0 | 0 |  |
 |  |  |  | Buenos Aires | 7 287 | 0 | 0 |
-|  |  | BRASIL | BRASIL | 262 493 | 0 | 0 |
+|  |  | BRASIL | 262 493 | 0 | 0 |  |
 |  |  |  | Belém do Pará | 8 038 | 0 | 0 |
 |  |  |  | Belo Horizonte | 8 491 | 0 | 0 |
 |  |  |  | Brasília | 7 138 | 0 | 0 |
@@ -3664,16 +3688,16 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Salvador (Baía) | 2 776 | 0 | 0 |
 |  |  |  | S. Paulo | 125 767 | 0 | 0 |
 |  |  |  | Fortaleza | 2 565 | 0 | 0 |
-|  |  | CANADÁ | CANADÁ | 55 414 | 0 | 0 |
+|  |  | CANADÁ | 55 414 | 0 | 0 |  |
 |  |  |  | Montreal | 7 386 | 0 | 0 |
 |  |  |  | Otava | 1 260 | 0 | 0 |
 |  |  |  | Toronto | 41 124 | 0 | 0 |
 |  |  |  | Vancouver | 5 644 | 0 | 0 |
-|  |  | COLÔMBIA | COLÔMBIA | 1 214 | 0 | 0 |
+|  |  | COLÔMBIA | 1 214 | 0 | 0 |  |
 |  |  |  | Bogotá | 1 214 | 0 | 0 |
-|  |  | CUBA | CUBA | 15 | 0 | 0 |
+|  |  | CUBA | 15 | 0 | 0 |  |
 |  |  |  | Havana | 15 | 0 | 0 |
-|  |  | ESTADOS UNIDOS DA AMÉRICA | ESTADOS UNIDOS DA AMÉRICA | 66 069 | 0 | 0 |
+|  |  | ESTADOS UNIDOS DA AMÉRICA | 66 069 | 0 | 0 |  |
 |  |  |  | Boston | 6 211 | 0 | 0 |
 |  |  |  | Newark | 15 250 | 0 | 0 |
 |  |  |  | New Bedford | 7 440 | 0 | 0 |
@@ -3681,54 +3705,58 @@ Número de eleitores em 31 de dezembro de 2023
 |  |  |  | Providence | 4 972 | 0 | 0 |
 |  |  |  | São Francisco | 5 671 | 0 | 0 |
 |  |  |  | Washington | 14 993 | 0 | 0 |
-|  |  | MÉXICO | MÉXICO | 1 532 | 0 | 0 |
+|  |  | MÉXICO | 1 532 | 0 | 0 |  |
 |  |  |  | México | 1 532 | 0 | 0 |
-|  |  | PERU | PERU | 570 | 0 | 0 |
+|  |  | PERU | 570 | 0 | 0 |  |
 |  |  |  | Lima | 570 | 0 | 0 |
-|  |  | URUGUAI | URUGUAI | 1 169 | 0 | 0 |
+|  |  | URUGUAI | 1 169 | 0 | 0 |  |
 |  |  |  | Montevideu | 1 169 | 0 | 0 |
-|  |  | VENEZUELA (República Bolivariana da) | VENEZUELA (República Bolivariana da) | 52 842 | 0 | 0 |
+|  |  | VENEZUELA (República Bolivariana da) | 52 842 | 0 | 0 |  |
 |  |  |  | Caracas | 32 844 | 0 | 0 |
 |  |  |  | Valência | 19 998 | 0 | 0 |
-|  |  | CHILE | CHILE | 1 947 | 0 | 0 |
+|  |  | CHILE | 1 947 | 0 | 0 |  |
 |  |  |  | Santiago do Chile | 1 947 | 0 | 0 |
-|  |  | PANAMÁ | PANAMÁ | 1 743 | 0 | 0 |
+|  |  | PANAMÁ | 1 743 | 0 | 0 |  |
 |  |  |  | Panamá | 1 743 | 0 | 0 |
-|  | ÁSIA E OCEÂNIA | ÁSIA E OCEÂNIA | ÁSIA E OCEÂNIA | 111 728 | 0 | 0 |
-|  |  | ARÁBIA SAUDITA | ARÁBIA SAUDITA | 481 | 0 | 0 |
+|  | **ÁSIA****E****OCEÂNIA** | **111 728** | **0** | **0** |  |  |
+|  |  | ARÁBIA SAUDITA | 481 | 0 | 0 |  |
 |  |  |  | Riyadh | 481 | 0 | 0 |
-|  |  | CHINA | CHINA | 53 040 | 0 | 0 |
+|  |  | CHINA | 53 040 | 0 | 0 |  |
 |  |  |  | Pequim | 155 | 0 | 0 |
 |  |  |  | Macau | 52 684 | 0 | 0 |
 |  |  |  | Xangai | 126 | 0 | 0 |
 |  |  |  | Cantão | 75 | 0 | 0 |
-|  |  | ÍNDIA | ÍNDIA | 13 965 | 0 | 0 |
+|  |  | ÍNDIA | 13 965 | 0 | 0 |  |
 |  |  |  | Nova Delhi | 347 | 0 | 0 |
 |  |  |  | Goa | 13 618 | 0 | 0 |
-|  |  | IRÃO (República Islâmica do) | IRÃO (República Islâmica do) | 14 | 0 | 0 |
+|  |  | IRÃO (República Islâmica do) | 14 | 0 | 0 |  |
 |  |  |  | Teerão | 14 | 0 | 0 |
-|  |  | JAPÃO | JAPÃO | 298 | 0 | 0 |
+|  |  | JAPÃO | 298 | 0 | 0 |  |
 |  |  |  | Tóquio | 298 | 0 | 0 |
-|  |  | PAQUISTÃO | PAQUISTÃO | 30 | 0 | 0 |
+|  |  | PAQUISTÃO | 30 | 0 | 0 |  |
 |  |  |  | Islamabad | 30 | 0 | 0 |
-|  |  | TAILÂNDIA | TAILÂNDIA | 245 | 0 | 0 |
+|  |  | TAILÂNDIA | 245 | 0 | 0 |  |
 |  |  |  | Banguecoque | 245 | 0 | 0 |
-|  |  | AUSTRÁLIA | AUSTRÁLIA | 6 423 | 0 | 0 |
+|  |  | AUSTRÁLIA | 6 423 | 0 | 0 |  |
 |  |  |  | Camberra | 436 | 0 | 0 |
 |  |  |  | Sidney | 5 987 | 0 | 0 |
-|  |  | INDONÉSIA | INDONÉSIA | 135 | 0 | 0 |
+|  |  | INDONÉSIA | 135 | 0 | 0 |  |
 |  |  |  | Jacarta | 135 | 0 | 0 |
-|  |  | ISRAEL | ISRAEL | 31 633 | 0 | 0 |
+|  |  | ISRAEL | 31 633 | 0 | 0 |  |
 |  |  |  | Tel-Aviv | 31 633 | 0 | 0 |
-|  |  | SINGAPURA | SINGAPURA | 486 | 0 | 0 |
+|  |  | SINGAPURA | 486 | 0 | 0 |  |
 |  |  |  | Singapura | 486 | 0 | 0 |
-|  |  | COREIA (República da) | COREIA (República da) | 73 | 0 | 0 |
+|  |  | COREIA (República da) | 73 | 0 | 0 |  |
 |  |  |  | Seul | 73 | 0 | 0 |
-|  |  | TIMOR-LESTE | TIMOR-LESTE | 1 268 | 0 | 0 |
+|  |  | TIMOR-LESTE | 1 268 | 0 | 0 |  |
 |  |  |  | Díli | 1 268 | 0 | 0 |
-|  |  | EMIRADOS ÁRABES UNIDOS | EMIRADOS ÁRABES UNIDOS | 3 039 | 0 | 0 |
+|  |  | EMIRADOS ÁRABES UNIDOS | 3 039 | 0 | 0 |  |
 |  |  |  | Abu Dhabi | 3 039 | 0 | 0 |
-|  |  | CATAR | CATAR | 590 | 0 | 0 |
+|  |  | CATAR | 590 | 0 | 0 |  |
 |  |  |  | Doha | 590 | 0 | 0 |
-|  |  | CAZAQUISTÃO | CAZAQUISTÃO | 8 | 0 | 0 |
+|  |  | CAZAQUISTÃO | 8 | 0 | 0 |  |
 |  |  |  | Astana | 8 | 0 | 0 |
+
+100000360
+
+.Tbl2 { height:26px; } .Tbl3 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl5 { text-indent:0px; text-align:center; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl7 { min-height:18px; } .Tbl8 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl9 { text-indent:0px; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { min-height:28px; } .Tbl15 { min-height:19px; } .Tbl16 { min-height:20px; } .Tbl17 { min-height:27px; } .Tbl18 { min-height:22px; } .Tbl19 { min-height:29px; } .Tbl20 { min-height:21px; } .Tbl21 { text-indent:0px; text-align:justify; text-align-last:justify; } .Tbl22 { min-height:39px; } .Tbl23 { min-height:30px; }

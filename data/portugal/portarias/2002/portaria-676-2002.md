@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/06/139b00/48834883.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/676/2002/06/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/676-2002-145601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7237772d0948e310e4bb86bb93db09c7482a8566fd2f9537d6aa8f7ed73abfb8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c3d5de6e1d02c50142c375cfe38b5a84bb136802e08e67510e2ea361e2475a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Capital Social
-- Sociedade Gestora de Fundos de Titularização de Créditos
 - Sociedade de Titularização de Créditos
+- Sociedade Gestora de Fundos de Titularização de Créditos
 relationships:
 - type: amended_by
   target: pt:dre:124917020:por
@@ -94,16 +94,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/95/1994/02/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/95/1994/02/09/p/dre
+- type: cites
+  target: pt:dre:300042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302958:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522244:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693810:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124917020:por
+  label: Revogada a partir de 01.01.2020 pelo(a) Decreto-Lei n.º 144/2019 - Diário da República n.º 182/2019, Série I de 2019-09-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/144-2019-124917020
+  date: '2019-09-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:46Z'
   warnings: []
   errors: []
 ---
@@ -128,4 +153,4 @@ Manda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do disposto 
 
 3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 24 de Maio de 2002.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 24 de Maio de 2002.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/04/068000000/0022900229.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/251-2024-859507397
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-04-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54b5db77e133cf2c2dfd19cf47bfe3eb7da51f27c57f0a33e7832d4b152f4123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37641bb3725f6aaa60ed5d49ec6f1c7b72809f74b599d8de27d38bcc54277520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:47Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Retifica o Aviso n.º 4694/2024/2, publicado no Diário da República, 2.ª sér
 Aviso n.º 4694/2024/2, publicado no Diário da República, 2.ª série, n.º 45, de 4 de março de 2024, retifica-se que, na p. 144, onde se lê "João Monteiro da Costa, em 26 de novembro de 2022" deve ler-se "João Monteiro da Costa, em 26 de novembro de 2023".
 
 7 de março de 2024. - A Vereadora Responsável pela Área de Recursos Humanos, Susana Santos Nogueira.
+
+317481789

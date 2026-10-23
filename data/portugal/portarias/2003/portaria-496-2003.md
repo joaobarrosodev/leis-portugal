@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/496/2003/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/496-2003-692627
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-10-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c0abf221ad2459d612ec34b8bf2d016268e2fd20c9301980cddea0c9da12f613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a25d9329333dc44a6c094ce7dbef35341754f83cb8e2c73cb8b675906382a03f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,6 +73,18 @@ relationships:
   target: pt:dre:641728:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:538024:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pela Port 863/95, de 14-Jul , renovada pelo presente diploma,\
+    \ pela PORT.660/2006.04.07.2006.MADRP, DR.IS [127] de 04.07.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/660-2006-538024
+  date: '2006-07-04'
+- type: amended_by
+  target: pt:dre:641728:por
+  label: "Transferida para Diego Butron Munoz a zona de caça turística concessionada pela Port 863/95 de 14-Jul, com a renovação\
+    \ efectuada no presente diploma, pela PORT.1304/2007.03.10.2007.MADRP, DR.IS [191] de 03.10.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1304-2007-641728
+  date: '2007-10-03'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -85,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/863/1995/07/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/863/1995/07/14/p/dre
+- type: cites
+  target: pt:dre:460239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:34Z'
   warnings: []
   errors: []
 ---

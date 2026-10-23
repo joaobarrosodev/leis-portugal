@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/091000000/2044920449.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/827-2011-1294897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4eee3bdb494432452cd0be925345e63d63af4bc176c1e8442c092619f9925a6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ffeb1cef16c0f74014bc41d61d5d659197cd313a695629b79a743cf8262261b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:03Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 827/2011
 Por ter saído com inexactidão o aviso n.º 9539/2011, publicado no Diário da República, 2.ª série n.º 80, de 26 de Abril de 2011, a p. 18244, onde se lê «Presidente - Dr.ª Maria José Cabral Gamito Costa, responsável pelo Serviço de Acção Social, Educação e Formação» deve ler-se «Presidente - Dr.ª Maria José Cabral Gamito Costa, chefe da Divisão de Acção Social, Educação e Formação» e onde se lê «Dr.ª Maria João Augusto Pina, chefe da Divisão Sócio-Cultural e Desportiva» e «Dr.ª Maria João Augusto Pina, chefe da Divisão Sócio de Cultura e Desporto» deve ler-se «Dr.ª Maria João Augusto Pina, chefe da Divisão de Cultura e Desporto.»
 
 27 de Abril de 2011. - O Presidente da Câmara, Dr. Aníbal Sousa Reis Coelho da Costa.
+
+304642323

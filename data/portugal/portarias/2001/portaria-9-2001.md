@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/9/2001/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2001-239015
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a054678078b6a6901858cbfebf5ded30814e98ffe560f242c20427dbe7d7349b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87c6404e7f899ee3e192aff79943dc2e4e8d4550c626581f20a858d57d8d065a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,8 +67,8 @@ reuse:
 subjects:
 - Conselho Científico
 - Laboratório
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
 - Regulamento
 relationships:
 - type: cites
@@ -79,16 +79,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:226629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667357:por
+  label: null
+  source: null
 article_structure:
   article_count: 68
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:21Z'
   warnings: []
   errors: []
 ---
@@ -237,7 +245,7 @@ O exercício pelo plenário do conselho científico de cada uma das suas compet�
 
 ###### Artigo 9.º — Presidente
 
-**O presidente representa o conselho científico e dirige e coordena os trabalhos do plenário e da CCCC.**
+O presidente representa o conselho científico e dirige e coordena os trabalhos do plenário e da CCCC.
 
 ###### Artigo 10.º — Vice-presidentes
 
@@ -265,7 +273,7 @@ O exercício pelo plenário do conselho científico de cada uma das suas compet�
 
 ###### Artigo 12.º — Tomada de posse
 
-**O presidente e os vice-presidentes são empossados em sessão pública solene do plenário do conselho científico, até 30 dias úteis após a respectiva eleição, pelo presidente do LNEC ou, no caso de este ter sido eleito para um desses cargos, pelo investigador-coordenador do LNEC mais antigo na categoria que não tenha sido eleito.**
+O presidente e os vice-presidentes são empossados em sessão pública solene do plenário do conselho científico, até 30 dias úteis após a respectiva eleição, pelo presidente do LNEC ou, no caso de este ter sido eleito para um desses cargos, pelo investigador-coordenador do LNEC mais antigo na categoria que não tenha sido eleito.
 
 ###### Artigo 13.º — Competência do presidente
 

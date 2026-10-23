@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/711/2002/06/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-2002-139415
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 240df21fb875b7315fa4eacc2f656de72111572d82636f88bef177734df686c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 077990bf10a0a88933ca387a35a602cf866809e1a1d2399523ade52f766c8a5f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Oficial
 - Concurso Nacional de Acesso e Ingresso
-- Regulamento
+- Ensino Oficial
 - Ensino Superior
+- Regulamento
 - Tabela de Conversão
 relationships:
 - type: cites
@@ -92,16 +92,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/112/2002/02/04/p/dre
   label: null
   source: http://data.dre.pt/eli/port/112/2002/02/04/p/dre
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159115:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:609609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618310:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628044:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661731:por
+  label: null
+  source: null
 article_structure:
   article_count: 64
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:57Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +168,7 @@ Manda o Governo, pelo Ministro da Ciência e do Ensino Superior, o seguinte:
 
 3.º Todas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 27 de Maio de 2002.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 27 de Maio de 2002.
 
 REGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LECTIVO DE 2002-2003.
 

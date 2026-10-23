@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/902/2003/08/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/902-2003-633278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3f8127f76c775ceb963f4e88914b9448812b599735aa0b0c9308ea9d03d3d98
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9c78c50f21642eb289dad868f790b25969a7a792b1eaed74894c9ccf53ab51e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,13 +67,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Agência de Inovação
+- Apoio ao Investimento
+- Demtec
 - Financiamento
 - Mudança Tecnológica
-- Apoio ao Investimento
-- Regulamento
 - Prime
-- Demtec
 - Programa Operacional da Economia
+- Regulamento
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
@@ -95,16 +95,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/103/2002/07/26/p/dre
+- type: cites
+  target: pt:dre:197496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:545180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647110:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:57Z'
   warnings: []
   errors: []
 ---
@@ -165,7 +185,9 @@ b) Os projectos previstos no âmbito da alínea c) do n.º 1 do artigo 3.º, pod
 
 3 - No caso dos projectos previstos na alínea c) do n.º 1 do artigo 3.º, tem de ser apresentado documento comprovativo do apoio concedido pelo programa comunitário e respectivas condições, tendo a candidatura de ser apresentada no prazo de seis meses contados a partir da data de aprovação do projecto pelo programa comunitário.
 
-###### Artigo 7.º — [...]
+Artigo 7.º
+
+[...]
 
 1 - ...
 
@@ -229,7 +251,7 @@ c) ...
 
 7 - ...
 
-###### Artigo 17.º
+Artigo 17.º
 
 ...
 
@@ -267,4 +289,4 @@ g) ...
 
 Em 18 de Julho de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0883508835.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/438-2011-1673469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c20e1dad9f1781ddbbc54750eb538b867178eba91bea476a7ca1942ebc649a4c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a8e537707b4b23ba1cf88d4f837f3c014359ec14f4d2a8cfd6247e9264cbc75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,21 +69,23 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:42Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 438/2011
+# Declaração de rectificação n.º 438/2011
 
 Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n.º 3, de 5 de Janeiro de 2011, de p. 393 a p. 395, o aviso n.º 288/2011, rectifica-se que onde se lê «8.1 [...] e) Ser detentor de relação jurídica de emprego público previamente constituída, por tempo indeterminado.» deve ler-se «8.1 [...] f) Ser detentor de relação jurídica de emprego público previamente constituída, por tempo indeterminado.»
 
 A presente rectificação não produz nova contagem de prazo para entrega de candidaturas.
 
 2 de Fevereiro de 2011. - O Presidente do INSA, I. P., Prof. Doutor José Pereira Miguel.
+
+204346309

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/005000000/0113701137.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/39-2011-1795662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce74a259cffeaab5aa981fb2d0d80d3ac14b00296c233852bee49740159b4b7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75f53561e6ffcad3ff901b157c0660974c57555f967342a214e89630837d9c76
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:24Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 39/2011
 Tendo sido publicado com redacção incorrecta, rectifica-se o aviso n.º 27 110-D/2010, inserto no Diário da República, 2.ª série, n.º 247, de 23 de Dezembro de 2010, referente ao procedimento concursal comum para constituição de relação de emprego público, por tempo indeterminado, para contratação de um técnico superior na área de ciências documentais - ramo do arquivo. Assim, faz-se a seguinte rectificação do ponto 10.1, alínea b), subalínea i), pelo que onde se lê: «Licenciatura em Estudos Portugueses - Ramo de Especialização Científica, preferencialmente com o Curso de Especialização em Ciências Documentais, ramo do Arquivo;» deverá ler-se «Licenciatura em Estudos Portugueses - ramo de Especialização Científica, com pós-graduação em Ciências Documentais, ramo do Arquivo;».
 
 28 de Dezembro de 2010. - O Presidente da Câmara, Francisco José Fernandes Leal.
+
+304132047

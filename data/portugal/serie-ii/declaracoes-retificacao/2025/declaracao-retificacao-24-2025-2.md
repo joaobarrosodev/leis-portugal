@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/01/007000000/0031200312.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/24-2025-902932986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfaedff73fb8ef225311e6c3b301427d83ddfabf448f736a36e3fc3a4053922c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d140852fa75f4143d30684cc44b1b510043a3b1da1461b8792b15c28a96cb7ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:02Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +91,5 @@ deve ler-se:
 «Autorizada a contratação, precedendo concurso documental, do Doutor Francisco Javier Enguita Lombardo, mediante a celebração de contrato de trabalho em funções públicas por tempo indeterminado, em regime de tenure, para o mapa de pessoal docente da Faculdade de Medicina da Universidade de Lisboa, na Categoria de Professor Associado, escalão 3, índice 250, da tabela aplicável aos docentes universitários, em regime de exclusividade, com efeitos a partir de 27 de dezembro de 2024.»
 
 6 de janeiro de 2025. - O Diretor, Prof. Doutor João Eurico Cabral da Fonseca.
+
+318530981

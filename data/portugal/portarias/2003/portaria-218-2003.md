@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/03/060b00/17751775.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/218/2003/03/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/218-2003-214717
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 425afa27a3f81df90e50fa59e11192e76c978d36f5b983a87838ef5d0add1a3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5f8a4da70c7dfe525973d8258f227b9df1855ab6af253f989edb421504cc8d38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,8 +68,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Empresa
+- Financiamento
 - Política Económica
 - Regulamento
 relationships:
@@ -97,16 +97,43 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/865-a/2002/07/22/p/dre
   label: null
   source: http://data.dre.pt/eli/port/865-a/2002/07/22/p/dre
+- type: cites
+  target: pt:dre:352705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353918:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581071:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:533221:por
+  label: "Revogada a Portaria n.º 687/2000, de 31-Ago, alterada pelo presente diploma e pelas Portarias n.os 164/2001, de\
+    \ 7 de Março, e 243/2001, de 22 de Março, 865-A/2002, de 22 de Julho, pela PORT.262/2004.11.03.2004.MF, DR.IS-B [60] de\
+    \ 11.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2004-533221
+  date: '2004-03-11'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:53Z'
   warnings: []
   errors: []
 ---
@@ -127,9 +154,11 @@ Manda o Governo, pela Ministra de Estado e das Finanças, pelo Ministro Adjunto 
 
 Em 10 de Fevereiro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.
 
-## ANEXO — ANEXO C
+## ANEXO
+
+## ANEXO C
 
 (do Regulamento de Execução do Sistema de Incentivos à Modernização Empresarial)
 

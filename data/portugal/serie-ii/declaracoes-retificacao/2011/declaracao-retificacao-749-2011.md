@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/079000000/1806518065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/749-2011-3593219
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d6d29881682b4bbc0bf7c5d6f8eed6518fe223501b81f9c29bb69d1e5eca4fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a19918f574413928bd658c51171107a102f967835bee074b24a08b18bd39fce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:29Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 749/2011
 Por ter saído com inexactidão a publicação inserta no Diário da República, 2.ª série, n.º 62, de 29 de Março de 2011, a p. 14792, deliberação (extracto) n.º 818/2011, rectifica-se onde se lê «Maria Elvira de Magalhães Vilela Pires Rito, Assistente Graduada de Ginecologia/Obstetrícia, (...) exonerada a seu pedido» deve ler-se «Maria Elvira de Magalhães Vilela Pires Rito, assistente graduada de ginecologia/obstetrícia (...) exonerada a seu pedido desde 1 de Março de 2011».
 
 14 de Abril de 2011. - A Directora do Serviço de Gestão de Recursos Humanos, Paula Cristina Silva Ribeiro.
+
+204589667

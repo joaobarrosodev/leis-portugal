@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/471-2023-214926595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6a9820668d785795ace502e6aacbcc30f37da1660b48e0961db53d6d712a4062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb1deb235f4be12dcaa3fc59e642fdbdaf62ea8ee5d09a4585d0b17643490089
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:213347771:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569885:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:06Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +105,7 @@ Assim, mediante declaração da entidade emitente, republica-se integralmente o 
 
 Torna-se público que o Secretário de Estado da Administração Local e Ordenamento do Território, por despacho de 23 de março de 2023, a pedido do Município de Vila Nova de Gaia, declarou a utilidade pública urgente da expropriação, das parcelas a seguir referenciadas e identificadas na planta anexa:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf))](https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf)
 
 A expropriação destina-se à "Reformulação do Nó de Santo Ovídio".
 
@@ -101,4 +113,6 @@ Aquele despacho foi emitido ao abrigo dos artigos 1.º, 3.º, n.º 1, 13.º, n.�
 
 5 de maio de 2023. - A Diretora-Geral, Paula Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf))](https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2023/06/124000000/0019100192.pdf)
+
+316606518

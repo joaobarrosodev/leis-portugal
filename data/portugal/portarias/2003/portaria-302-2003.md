@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/302/2003/04/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-2003-226406
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d99d46ac7dedcdac73f25233950ce372710c4a8a32ea641801b91bb5a240e1a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f025f0df9b221768323202abefe01018ffca95db7bc1d6e9115b564e8a13e8b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,23 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Diploma
+- Direção Geral do Ensino Superior
+- Educação dos Adultos
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
-- Educação dos Adultos
-- Inspecção Geral de Educação
-- Direção Geral do Ensino Superior
 - Estabelecimento de Ensino
+- Inspecção Geral de Educação
 relationships:
 - type: amended_by
   target: pt:dre:218759:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:218759:por
+  label: "Alterado o n.º 4.4, pela Port.365/2004.08.04.2004.ME, DR.IS-B [84] de 08.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-2004-218759
+  date: '2004-04-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
   label: null
@@ -98,16 +103,50 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/394/2002/04/12/p/dre
   label: null
   source: http://data.dre.pt/eli/port/394/2002/04/12/p/dre
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478447:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:210801:por
+  label: "Revogados, de acordo com o calendário de produção de efeitos fixado no art. 18.º, os n.ºs 3, 4 e 5, pelo DEC LEI.74/2004.26.03.2004.ME,\
+    \ DR.IS-A [73] de 26.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-2004-210801
+  date: '2004-03-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:25Z'
   warnings: []
   errors: []
 ---
@@ -266,4 +305,4 @@ Manda o Governo, pelos Ministros da Educação e da Ciência e do Ensino Superio
 
 Em 12 de Março de 2003.
 
-**O Ministro da Educação, José David Gomes Justino. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.**
+O Ministro da Educação, José David Gomes Justino. - O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria.

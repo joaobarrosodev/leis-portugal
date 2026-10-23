@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/257/2002/03/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-2002-265288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36d1c12a568b8b92378c6277fa64257c31f68f6a65a66a4f8e40a11a29a7ae31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4560d1d3a74acca0564893510a3034aa44d33f88c6daf314bd29200614c8a39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,22 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto de Formação Turística
-- Formação Profissional
 - Curso de Especialização Tecnológica
-- Plano de Estudos
 - Curso Profissional
+- Formação Profissional
+- Instituto de Formação Turística
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:1310567:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:345313:por
+  label: "Alterado o nº 1 pela PORT.582/2006.20.06.2006.MEI, DR.IS-B [117] de 20.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/582-2006-345313
+  date: '2006-06-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/277/2001/10/19/p/dre
   label: null
@@ -90,16 +95,45 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/810/1993/09/07/p/dre
   label: null
   source: http://data.dre.pt/eli/port/810/1993/09/07/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378708:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626254:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1310567:por
+  label: "Revogada, nos termos do artigo 6.º pela PORT.846/2007.19.09.2007.MEI, DR.IIS [181] de 19.09.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/846-2007-1310567
+  date: '2007-09-19'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:06Z'
   warnings: []
   errors: []
 ---
@@ -142,23 +176,23 @@ b) Acesso ao exercício de profissão(ões) ou actividade(s) profissional(is) do
 
 Em 22 de Dezembro de 2001.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus.**
+O Ministro da Economia, Luís Garcia Braga da Cruz. - O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus.
 
 ## ANEXO I — Plano curricular do curso de Alojamento Hoteleiro
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
 
 Plano curricular do curso de Cozinha
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
 
 Plano curricular do curso de Restaurante/Bar
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
 
 Plano curricular do curso de Turismo
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22962300.pdf)
 
 ## ANEXO II
 

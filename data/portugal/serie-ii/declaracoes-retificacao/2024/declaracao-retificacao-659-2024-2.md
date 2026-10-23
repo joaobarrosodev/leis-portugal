@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/162000000/0010400104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/659-2024-885192170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17b516aa2ffab40bc2a63923e3f20b97b87d41e707c04cc085a726399b4fb9bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 07b164573e71f6d602d7aaacc0c0629cbb42a1b4bc5625d32a9ccb6eb7431154
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:10Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Assim, relativamente ao Despacho n.º 7886/2024, publicado no Diário da Repúbl
 
 Fica colocado na lista de antiguidade da sua categoria, quadro e posto, à esquerda do Primeiro-Sargento de Infantaria (2040517) Gilberto António da Costa Ferreira Monteiro e à direita da Primeiro-Sargento de Infantaria (2090203) Patrícia Daniela Ferreira de Oliveira.
 
-Tem direito ao vencimento pelo novo posto, desde o dia 1 de outubro de 2019, por força do despacho do Ex.<sup>mo</sup> Comandante do Comando da Administração dos Recursos Internos, de 1 de outubro de 2019, exarado na informação n.º I438921-201909-DRH, de 26 de setembro de 2019."
+Tem direito ao vencimento pelo novo posto, desde o dia 1 de outubro de 2019, por força do despacho do Ex.mo Comandante do Comando da Administração dos Recursos Internos, de 1 de outubro de 2019, exarado na informação n.º I438921-201909-DRH, de 26 de setembro de 2019."
 
 deve ler-se:
 
@@ -103,3 +103,5 @@ Fica colocado na lista de antiguidade da sua categoria, quadro e posto, à esque
 Tem direito ao vencimento pelo novo posto, desde o dia 23 de dezembro de 2021, por força do meu despacho, de 23 de dezembro de 2021, exarado na informação n.º I569536-202112-DRH, de 22 de dezembro de 2021."
 
 7 de agosto de 2024. - O Comandante do Comando da Administração dos Recursos Internos, António Manuel de Oliveira Bogas, Major-General.
+
+318008896

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/545/2002/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-2002-153117
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 734becb99fbfb6699081ccc52514e5e2ccec4ea22c50c0c9ffe023eeab77dcae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26618939120c88c76d9e90efa8c024d6b7633aac589663210115e2663dbcd6e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,27 +70,42 @@ subjects:
 - Aeroporto de Francisco SÁ Carneiro
 - Lisboa
 - Poluição Sonora
-- Tráfego Aéreo
 - Porto
+- Tráfego Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:483639:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:186487:por
+  label: "Alterado o nº 6º pela PORT.201/2003.2003.02.26.MOPTH DR.IS-B [48]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-2003-186487
+  date: '2003-02-26'
+- type: amended_by
+  target: pt:dre:483639:por
+  label: "Alterado o nº 6º (vigência) deste diploma, com a redacção dada pela Port 201/2003 de 26-Fev, pela PORT.1114/2003.2003.09.30.MOPTH\
+    \ DR.IS-B [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1114-2003-483639
+  date: '2003-09-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/292/2000/11/14/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/292/2000/11/14/p/dre
+- type: cites
+  target: pt:dre:615046:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:51Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +144,7 @@ Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Habitação 
 
 Em 13 de Maio de 2002.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.**
+O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.
 
 ## ANEXO — Quantitativos máximos de movimentos aéreos para o período nocturno entre as 0 e as 6 horas
 

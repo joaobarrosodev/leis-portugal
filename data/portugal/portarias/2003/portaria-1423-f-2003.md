@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 301/2003, 6º Suplemento, Série I-B de 2003-12-31
   number: '301'
   series: I
-  supplement: 6º Suplemento
+  supplement: null
   pages: 8778-(744) a 8778-(745)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/12/301b06/07440745.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1423-f/2003/12/31/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1423-f-2003-302508
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-12-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53f04c104b75e25c5a7db579132333213fbe44cc3588631ae4de66a58c8a08c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93bd68953fbbf7550bc2d2011717b771857e5b6290d8ca656d3e469c081fbdc3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,9 +66,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direcção Geral de Geologia e Energia
 - Gasóleo
 - Gasolina
-- Direcção Geral de Geologia e Energia
 - Preço de Venda
 relationships:
 - type: amended_by
@@ -83,16 +83,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1226-a/2001/10/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1226-a/2001/10/24/p/dre
+- type: cites
+  target: pt:dre:229517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662084:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:443909:por
+  label: "Revogado, a partir de 01.06.2009, o nº2 do presente diploma, pelo DEC LEI.243/2008.18.12.2008.MEI, DR.IS [244] de\
+    \ 18.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/243-2008-443909
+  date: '2008-12-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:24Z'
   warnings: []
   errors: []
 ---
@@ -127,4 +149,4 @@ Manda o Governo, pelos Ministros das Finanças e da Economia, o seguinte:
 
 Em 18 de Dezembro de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.

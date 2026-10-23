@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/575-2022-185335333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-06-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d7ffd4faa473b49d895b5528b890d6aa048769bbf009040d7fd2845c67a0cbe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f54229a1e4d8bfd3654b1f2c78c7eeb9f55a436d4b10242778117ccc00c74c81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:114493095:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184494326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:30Z'
   warnings: []
   errors: []
 ---
@@ -113,17 +125,23 @@ O PMDFCI de Resende entra em vigor no dia seguinte ao da sua publicação na 2.�
 
 Plano Municipal de Defesa da Floresta Contra Incêndios de Resende
 
-###### Artigo 1.º — Âmbito Territorial
+Artigo 1.º
+
+Âmbito Territorial
 
 O Plano Municipal de Defesa da Floresta Contra Incêndios de Resende, adiante designado por PMDFCI - Resende, ou Plano, de âmbito municipal, na sua área de abrangência, mereceu parecer prévio favorável da Comissão Municipal de Defesa da Floresta (CMDF), a 30 de novembro de 2021 e parecer vinculativo positivo do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a 21 de dezembro de 2021, tendo sido sujeito a consulta pública, publicitada por Edital e Aviso n.º 85/2022, publicado na Segunda Série do Diário da República n.º 17, de 25 de janeiro de 2022, de acordo com determinado nos n.os 6 e 7 do artigo 4.º do Anexo ao referido [Despacho n.º 443-A/2018](https://diariodarepublica.pt/dr/detalhe/despacho/443-a-2018-114493095), de 5 de janeiro, na sua atual redação, que estabelece o Regulamento Plano Municipal de Defesa da Floresta Contra Incêndios. Este contém as ações necessárias à defesa da floresta contra incêndios e, para além das ações de prevenção, incluem a previsão e a programação integrada das intervenções das diferentes entidades envolvidas perante a eventual ocorrência de incêndio.
 
-###### Artigo 2.º — Enquadramento
+Artigo 2.º
+
+Enquadramento
 
 1 - Assegurando a consistência territorial de políticas, instrumentos, medidas e ações, o planeamento da defesa da floresta contra incêndios tem um nível nacional, regional e municipal.
 
 2 - O planeamento municipal tem um caráter executivo e de programação operacional e deverá cumprir as orientações e prioridades regionais, supramunicipais e locais, numa lógica de contribuições para o todo nacional.
 
-###### Artigo 3.º — Conteúdo Documental
+Artigo 3.º
+
+Conteúdo Documental
 
 1 - O PMDFCI de Resende é constituído pelos seguintes elementos:
 
@@ -159,7 +177,9 @@ f) Eixos Estratégicos;
 
 g) Estimativa de Orçamento para Implementação do PMDFCI.
 
-###### Artigo 4.º — Condicionantes
+Artigo 4.º
+
+Condicionantes
 
 1 - Para efeitos do cumprimento do [Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de junho, na sua atual redação, o mapa da perigosidade de incêndio rural é representado em cinco classes, constante no Anexo I;
 
@@ -187,7 +207,9 @@ a) Largura não inferior a 50 m, medida a partir da alvenaria exterior do edifí
 
 b) Largura mínima de 10 m, estabelecida pelo presente PMDFCI, medida a partir da alvenaria exterior do edifício, quando a faixa abranja exclusivamente terrenos com outras ocupações.
 
-###### Artigo 5.º — Rede secundária de faixas de gestão de combustíveis, rede viária florestal e rede de pontos de água
+Artigo 5.º
+
+Rede secundária de faixas de gestão de combustíveis, rede viária florestal e rede de pontos de água
 
 1 - As redes de defesa da floresta contra incêndios concretizam territorialmente, de forma coordenada, a infraestruturação dos espaços rurais decorrente da estratégia de defesa da floresta contra incêndios, de onde resulta o planeamento e consequente programação da rede secundária de faixas de gestão de combustíveis, rede viária florestal e rede de pontos de água:
 
@@ -199,58 +221,72 @@ c) Identificação da rede de pontos de água, conforme mapa Anexo IV;
 
 d) Programação das ações relativas à rede secundária de faixas de gestão de combustíveis, rede viária florestal e rede de pontos de água, com os respetivos valores totais por responsável e por ano de planeamento, conforme quadro Anexo V.
 
-###### Artigo 6.º — Conteúdo Material
+Artigo 6.º
+
+Conteúdo Material
 
 O PMDFCI de Resende (2021-2030) é público, exceto a informação classificada, pelo que se encontra disponível para consulta na página da Internet do Município em www.cm-resende.pt e do ICNF, I. P.
 
-###### Artigo 7.º — Planeamento e vigência
+Artigo 7.º
+
+Planeamento e vigência
 
 O PMDFCI de Resende tem um período de vigência de 10 anos, que coincide obrigatoriamente com os 10 anos de planeamento em defesa da floresta contra incêndios definido e aprovado para o período de 2021-2030 que nele é preconizado.
 
-###### Artigo 8.º — Monitorização
+Artigo 8.º
+
+Monitorização
 
 O PMDFCI de Resende é objeto de monitorização, através de elaboração de relatório anual a apresentar à CMDF e a remeter até 31 de janeiro do ano seguinte ao ICNF, I. P., de acordo com o relatório normalizado a disponibilizar por este organismo.
 
-###### Artigo 9.º — Alterações à Legislação
+Artigo 9.º
+
+Alterações à Legislação
 
 Quando se verificarem alterações à legislação em vigor, citadas no presente Regulamento, as remissões expressas que para elas forem feitas consideram-se automaticamente remetidas para a nova legislação que resultar daquelas alterações.
 
-## ANEXO I AO REGULAMENTO — (a que se refere o n.º 1 do artigo 4.º)
+ANEXO I AO REGULAMENTO
+
+(a que se refere o n.º 1 do artigo 4.º)
 
 Perigosidade de Incêndio Rural
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf))](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
 
-## ANEXO II AO REGULAMENTO
+ANEXO II AO REGULAMENTO
 
 [a que se refere a alínea a) do n.º 1 do artigo 5.º]
 
 Planeamento da rede secundária de faixas de gestão de combustíveis (RSFGC)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf))](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
 
-## ANEXO III AO REGULAMENTO
+ANEXO III AO REGULAMENTO
 
 [a que se refere a alínea b) do n.º 1 do artigo 5.º]
 
 Planeamento da rede viária florestal (RVF)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf))](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
 
-## ANEXO IV AO REGULAMENTO
+ANEXO IV AO REGULAMENTO
 
 [a que se refere a alínea c) do n.º 1 do artigo 5.º]
 
 Planeamento da rede de pontos de água (RPA)
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf))](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
 
-## ANEXO V AO REGULAMENTO — [a que se refere a alínea d) do n.º 1 do artigo 5.º]
+ANEXO V AO REGULAMENTO
+
+[a que se refere a alínea d) do n.º 1 do artigo 5.º]
 
 Programação das ações relativas à rede secundária de faixas de gestão de combustíveis, rede viária florestal e rede de pontos de água
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf))](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2022/06/123000000/0042400429.pdf)
 
 »
 
 8 de junho de 2022. - O Presidente da Câmara, Dr. M. Garcez Trindade.
+
+315410633

@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:876111708:por
 title: Declaração de Retificação n.º 604/2024/2
 short_title: null
-summary: Retifica o Aviso (extrato) n.º 14779/2024/2, publicado no <em>Diário da República</em>, 2.ª série, n.º 138, de 18
-  de julho de 2024.
+summary: Retifica o Aviso (extrato) n.º 14779/2024/2, publicado no  Diário da República, 2.ª série, n.º 138, de 18 de julho
+  de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/154000000/0032700327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/604-2024-876111708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bd00f60a717d5e016794e0b9e790090730e4095869b3c54bab6cfceb529f4cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 816c3489f176e85fb0c54c96f0fe6156d69449ee863e3c3d474fb658cecefb89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:889310861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:872471666:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:50Z'
   warnings: []
   errors: []
 ---
@@ -120,3 +124,5 @@ deve ler-se:
 (Isento de fiscalização do Tribunal de Contas.)
 
 18 de julho de 2024. - O Vogal Executivo do Conselho de Administração, Dr. Pedro Alexandre.
+
+317940248

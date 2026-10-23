@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/141b00/36143614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/494/2003/06/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/494-2003-692624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7710715aacfa1d7f9c22fb7f16dcd9213234fe49ace078641b16eef88cb4d541
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ac88db103b673e399bf2c6b2887781bd56397b0debad852589aa3f4997cc291
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,26 @@ relationships:
   target: pt:dre:333497:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:601750:por
+  label: "Extinta, na parte respeitante aos prédios rústicos que passam a integrar a zona de caça associativa da Herdade da\
+    \ Parede e outras, a zona de caça turística concessionada pela Port 1241/97, de 18-Dez, renovada pelo presente diploma,\
+    \ pela PORT.106/2009.29.01.2009.MADRP, DR.IS [20] de 29.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-2009-601750
+  date: '2009-01-29'
+- type: amended_by
+  target: pt:dre:601762:por
+  label: "Extinta, na parte respeitante aos prédios rústicos que passam a integrar a zona de caça associativa da Herdade dos\
+    \ Cardais, a zona de caça turística das Herdades de Bussalfão e outras, concessionada pela Port 1241/97, de 18-Dez, renovada\
+    \ pelo presente diploma, pela PORT.103/2009.29.01.2009.MADRP, DR.IS [20] de 29.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-2009-601762
+  date: '2009-01-29'
+- type: amended_by
+  target: pt:dre:333497:por
+  label: "Extinta a zona de caça turística das Herdades de Bussalfão e outras (processo n.º 495-AFN), criada pela Port 1241/97\
+    \ de 18-Dez, renovada no presente diploma, pela PORT.621/2010.04.08.2010.MADRP, DR.IS [150] de 04.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-2010-333497
+  date: '2010-08-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -91,16 +111,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/30/2003/01/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/30/2003/01/14/p/dre
+- type: cites
+  target: pt:dre:174534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:333497:por
+  label: "Revogada,a partir de 09.08.2010, pela PORT.621/2010.04.08.2010.MADRP, DR.IS [150] de 04.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/621-2010-333497
+  date: '2010-08-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:34Z'
   warnings: []
   errors: []
 ---

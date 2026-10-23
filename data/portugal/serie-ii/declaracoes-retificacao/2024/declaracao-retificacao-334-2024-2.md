@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/05/092000000/0008600089.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,43 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/334-2024-864529162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c971bb628894eb3bec08d5275988397e401aa671a8b46b79ba7a02bea80a3df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7eb672b3f8534c58756e93a5fae92377102bef8b4baf53d3d55422771cc32f05
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Comissão Nacional de Acesso ao Ensino Superior
+- Concurso de Acesso
+- Concurso de Ingresso
+- Ensino Artístico
+- Ensino Oficial
+- Ensino Particular
+- Ensino Secundário
+- Ensino Superior
+- Estabelecimento de Ensino
+- Mestrado
+- Política de Educação
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:862906336:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:deliberacao:555/2024
+  label: Retifica a Deliberação n.º 555/2024, de 26 de abril, Diário da República n.º 82/2024, Série II, através da republicação
+    integral do respetivo anexo
+  source: null
+  date: '2024-04-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:14Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 334/2024/2
 
-Para os devidos efeitos, observado o disposto nos n.<sup>os</sup>2, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., de 13 de julho de 2023, e obtido parecer favorável da entidade emitente, declara-se que a publicação da [Deliberação n.º 555/2024](https://diariodarepublica.pt/dr/detalhe/deliberacao/555-2024-862906336), de 26 de abril, no Diário da República, 2.ª série, n.º 82, de 26 de abril de 2024, que estabelece as condições relativas à candidatura dos titulares dos cursos de dupla certificação de nível secundário e cursos artísticos especializados aos ciclos de estudo de licenciatura e de mestrado integrado, saiu com inexatidões no anexo.
+Para os devidos efeitos, observado o disposto nos n.os2, 4, 6 e 7 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, no uso de competência delegada pelo conselho de administração da Imprensa Nacional-Casa da Moeda, S. A., de 13 de julho de 2023, e obtido parecer favorável da entidade emitente, declara-se que a publicação da [Deliberação n.º 555/2024](https://diariodarepublica.pt/dr/detalhe/deliberacao/555-2024-862906336), de 26 de abril, no Diário da República, 2.ª série, n.º 82, de 26 de abril de 2024, que estabelece as condições relativas à candidatura dos titulares dos cursos de dupla certificação de nível secundário e cursos artísticos especializados aos ciclos de estudo de licenciatura e de mestrado integrado, saiu com inexatidões no anexo.
 
 Assim, retifica-se a [Deliberação n.º 555/2024](https://diariodarepublica.pt/dr/detalhe/deliberacao/555-2024-862906336), de 26 de abril, através da republicação integral do respetivo anexo, em anexo ao presente ato.
 
@@ -94,7 +120,7 @@ Assim, retifica-se a [Deliberação n.º 555/2024](https://diariodarepublica.pt/
 
 Quadro de correspondência
 
-| Áreas CNAEF - cursos de dupla certificação e cursos artísticos especializados | Áreas CNAEF - cursos de dupla certificação e cursos artísticos especializados | Áreas CNAEF - 1.º ciclo e mestrado integrado | Áreas CNAEF - 1.º ciclo e mestrado integrado |
+| Áreas CNAEF - cursos de dupla certificação e cursos artísticos especializados | Áreas CNAEF - 1.º ciclo e mestrado integrado |  |  |
 | --- | --- | --- | --- |
 | 212 | Artes do Espetáculo | 146 | Formação de Professores e Formadores de Áreas Tecnológicas |
 | 213 | Audiovisuais e Produção dos Média | 210 | Artes |
@@ -189,16 +215,20 @@ Quadro de correspondência
 |  |  | 814 | Serviços Domésticos |
 |  |  | 815 | Cuidados de Beleza |
 | 811 | Hotelaria e Restauração | 541 | Indústrias Alimentares |
-| 812 | Turismo e Lazer | 541 | Indústrias Alimentares |
+| 812 | Turismo e Lazer |  |  |
 | 813 | Desporto | 813 | Desporto |
 | 815 | Cuidados de Beleza | 725 | Tecnologias de Diagnóstico e Terapêutica |
 |  |  | 726 | Terapia e Reabilitação |
 |  |  | 729 | Saúde - Programas não classificados noutra área de formação |
 | 346 | Secretariado e Trabalho Administrativo | 222 | Línguas e Literaturas Estrangeiras |
 | 542 | Indústrias do Têxtil, Vestuário, Calçado e Couro | 214 | Design |
-| 543 | Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e Outros) | 214 | Design |
+| 543 | Materiais (Indústrias da Madeira, Cortiça, Papel, Plástico, Vidro e Outros) |  |  |
 | 541 | Indústrias Alimentares | 811 | Hotelaria e Restauração |
 | 725 | Tecnologias de diagnóstico e terapêutica | 441 | Física |
-| 729 | Saúde - Programas não classificados noutra área de formação | 441 | Física |
+| 729 | Saúde - Programas não classificados noutra área de formação |  |  |
 | 342 | Marketing e Publicidade | 213 | Audiovisuais e Produção dos Média |
 | 213 | Audiovisuais e Produção dos Média | 342 | Marketing e Publicidade |
+
+317681412
+
+.Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl4 { text-decoration:none; text-align:center; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:middle; } .Tbl6 { min-height:28px; } .Tbl7 { border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl8 { text-align:center; } .Tbl9 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl10 { border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { text-decoration:none; } .Tbl12 { min-height:18px; } .Tbl13 { border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl14 { border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl15 { border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:0px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl16 { border-bottom-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl17 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl18 { border-bottom-color:rgb(0,0,0); border-left-width:1px; border-top-width:0px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl19 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; } .Tbl20 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl21 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; vertical-align:top; }

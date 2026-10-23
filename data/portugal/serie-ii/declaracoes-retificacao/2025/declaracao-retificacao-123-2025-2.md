@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/024000000/0038700387.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/123-2025-905997620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe470cde947cc04369b4cc2c08ff9d046534d46a1da40f0409cbcc7a01f28087
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eb6631b98f500e97b7249f0aa92651b8d8255be2f26ab95d5e05cb5220dea9a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:484843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:873755271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:904926543:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:22Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +103,5 @@ deve ler-se:
 «No seguimento da conclusão da audiência prévia prevista nos artigos 39.º e 40.º do [Decreto-Lei n.º 204/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1998-484843), de 11 de julho, torna-se público que a lista unitária de ordenação final dos/as candidatos/as aprovados/as no procedimento concursal externo de ingresso para admissão de estágio de 10 bombeiros sapadores recruta, contrato de trabalho em funções públicas por tempo indeterminado para o Corpo de Bombeiros Municipais de Olhão, aberto nos termos do [Aviso n.º 15706/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/15706-2024-873755271), publicado no Diário da República, 2.ª série, n.º 145, de 29 de julho de 2024, uma vez aplicados todos os métodos de seleção, foi homologada por despacho do presidente da Câmara Municipal de Olhão de 16 de janeiro de 2025.»
 
 27 de janeiro de 2025. - O Presidente da Câmara, António Miguel Ventura Pina.
+
+318613722

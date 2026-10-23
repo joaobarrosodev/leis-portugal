@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/198/2003/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/198-2003-186489
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-02-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17ced5da0ab20cee9b3c3ef5ff6b02727c67b4e292984e15d296dc2c47b0407f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ae3b5429894216d1f110ac25a351b6a66c366eb6893064b0e9ca4c5ecc466203
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Catástrofe
+- Financiamento
 - Região Demarcada do Douro
 - Regime de Apoio à Reconversão e Reestruturação das Vinhas
 - Subsídio
@@ -85,16 +85,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1454/2002/11/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1454/2002/11/11/p/dre
+- type: cites
+  target: pt:dre:423931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:589770:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:45Z'
   warnings: []
   errors: []
 ---
@@ -119,4 +131,4 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 O disposto no n.º 1.2.1 do anexo I à [Portaria n.º 1259/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1259-2001-589770), de 30 de Outubro, com a redacção que lhe foi conferida pela [Portaria n.º 1454/2002](https://diariodarepublica.pt/dr/detalhe/portaria/1454-2002-423931), de 11 de Novembro, não é aplicável às parcelas de vinha que foram danificadas pelas intempéries ocorridas na Região Demarcada do Douro no Inverno de 2000-2001.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 6 de Fevereiro de 2003.

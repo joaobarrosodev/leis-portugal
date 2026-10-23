@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 200/2003, 1º Suplemento, Série I-B de 2003-08-30
   number: '200'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5752-(4) a 5752-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/913-e/2003/08/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/913-e-2003-179490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-09-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2100328970193b3fc2bb001b2a61f39144e6d63ad95957eea025aa1c91ada0a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3aa4fdd4f37a67946260f70120ede3fa81ea5311dc871f8a54fa2b3a67eeacc2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,33 +67,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Formação de Professores
 - Educador de Infância
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Particular
 - Formação Complementar
+- Formação de Professores
+- Formação Profissional
 - Numerus Clausus
-- Ensino Básico
 relationships:
 - type: amended_by
   target: pt:dre:494488:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:494488:por
+  label: "Alterado o anexo III, pela PORT.1049/2003.2003.09.23.MCES DR.IS-B [220]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1049-2003-494488
+  date: '2003-09-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/255/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:438070:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:02Z'
   warnings: []
   errors: []
 ---
@@ -134,28 +143,28 @@ Entrada em vigor
 
 Esta portaria entra em vigor no dia imediato ao da sua publicação.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 20 de Agosto de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 20 de Agosto de 2003.
 
 ## ANEXO I — Cursos de complemento de formação científica e pedagógica para educadores de infância
 
 Vagas para o ano lectivo de 2003-2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
 
 ## ANEXO II — Cursos de complemento de formação científica e pedagógica para professores do 1.º ciclo do ensino básico
 
 Vagas para o ano lectivo de 2003-2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
 
 ## ANEXO III — Cursos de complemento de formação científica e pedagógica para professores do 2.º ciclo do ensino básico
 
 Vagas para o ano lectivo de 2003-2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
 
 ## ANEXO IV — Cursos de qualificação para o exercício de outras funções educativas
 
 Vagas para o ano lectivo de 2003-2004
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)
+[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)](https://files.diariodarepublica.pt/1s/2003/08/200b01/00040005.pdf)

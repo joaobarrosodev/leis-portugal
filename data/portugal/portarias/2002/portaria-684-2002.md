@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/684/2002/06/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2002-148635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4377729bf7faff012bb0f0435e2569a1c8b798da5a39d053447fdf27397803c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af5ceb2be749ce597c5fa6f4c77f8f9ce62956c52182a27f717d7bbd2e78d6fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Investigador
-- Investigação Científica e Tecnológica
 - Carreira Profissional
-- Universidade de Lisboa
 - Instituto de Ciências Sociais
+- Investigação Científica e Tecnológica
+- Investigador
 - Quadro de Pessoal
+- Universidade de Lisboa
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/124/1999/04/20/p/dre
@@ -81,16 +81,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/718/1991/07/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/718/1991/07/23/p/dre
+- type: cites
+  target: pt:dre:355494:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662302:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:47Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +127,7 @@ Manda o Governo, pelos Ministros das Finanças, da Educação, da Ciência e da 
 
 Em 28 de Março de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - Pelo Ministro da Educação, Pedro Manuel Gonçalves Lourtie, Secretário de Estado do Ensino Superior. - O Ministro da Ciência e da Tecnologia, José Mariano Rebelo Pires Gago. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.
 
 MAPA ANEXO
 

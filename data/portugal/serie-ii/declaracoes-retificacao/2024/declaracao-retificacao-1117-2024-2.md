@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/250000000/0006000060.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1117-2024-901186255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d948a7a1b875a4e57bc7a408f61dfdb5bc231dfa9f8ba6d1f167eb083cfcf621
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da77be0ad2260a506baf34272cf65e49a3d40007e1f56ab3f2b50866074fac26
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:897834287:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:48Z'
   warnings: []
   errors: []
 ---
@@ -119,14 +123,20 @@ c) A aplicação de sanção disciplinar interna.
 
 2 - O cancelamento dos incentivos obriga à restituição dos valores indevidamente recebidos.
 
-###### Artigo 28.º — Casos omissos
+Artigo 28.º
+
+Casos omissos
 
 Os casos omissos e as dúvidas de interpretação do presente Regulamento são resolvidos pelo Reitor do ISCTE.
 
-###### Artigo 29.º — Entrada em vigor
+Artigo 29.º
+
+Entrada em vigor
 
 O presente Regulamento entra em vigor no dia seguinte ao da sua publicação no Diário da República e aplica-se a partir do ano letivo de 2024/2025, produzindo efeitos durante o período em que vigorar o financiamento pelo Plano de Recuperação e Resiliência
 
 13 de novembro de 2024. - A Reitora, Maria de Lurdes Rodrigues.»
 
 2 de dezembro de 2024. - A Reitora, Maria de Lurdes Rodrigues.
+
+318477498

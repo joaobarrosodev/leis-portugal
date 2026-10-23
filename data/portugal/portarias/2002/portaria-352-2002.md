@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/352/2002/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-2002-301063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 960de72ea999059b2072d447305b24a75b1c6ec34fc44c2fccfc118170bba041
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67aa6f0c34c2f5104078532c05d524269f7defa3319197eab7d04d8a54d61fb3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Direcção Geral das Contribuições e Impostos
 - Execução Fiscal
-- Venda em Hasta Pública
 - Internet
 - Processo Tributário
 - Publicação Electrónica
-- Direcção Geral das Contribuições e Impostos
 - Venda
+- Venda em Hasta Pública
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/433/1999/10/26/p/dre
@@ -81,16 +81,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692261:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:41Z'
   warnings: []
   errors: []
 ---
@@ -117,4 +125,4 @@ Manda o Governo, pelo Ministro das Finanças, ao abrigo do n.º 8 do artigo 249.
 
 6.º Quando as entidades que procedam à tramitação de processos de execução fiscal sejam diferentes da DGCI, deverão aquelas promover a respectiva divulgação, em termos adequados ao disposto na presente portaria e através de endereço electrónico próprio.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins, em 8 de Março de 2002.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins, em 8 de Março de 2002.

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 187/2004, 1º Suplemento, Série I-B de 2004-08-10
   number: '187'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5166-(17) a 5166-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/08/187b01/00170018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1033-ao/2004/08/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-ao-2004-283971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-09-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7eaf829cb54315a29416ea0a6ae71b85e932bd417109fa74a28965601243201c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea8c90d6dd914e3fa90c01352681cd98661ac1963b4bee98f2e70d634df17c67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -86,16 +86,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/921/2000/10/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/921/2000/10/02/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552849:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:617312:por
+  label: "Revogada pela PORT.1147/2004.14.09.2004.MAPF, DR.IS-B [217] de 14.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1147-2004-617312
+  date: '2004-09-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:56Z'
   warnings: []
   errors: []
 ---

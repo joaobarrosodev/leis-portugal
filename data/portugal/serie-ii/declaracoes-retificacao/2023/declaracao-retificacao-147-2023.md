@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/039000000/0002700027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/147-2023-207691270
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3f1c7c03cc13a8b8dfed75c2069553a411738212aa1f61796a8b15c799a502f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2486955bcb34caf6837d739815ebe0fe05dd9b3bb6cee44ef277dee683b7e84b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Abidjan
+- Afeganistão
+- África do Sul
+- Austrália
+- Belgrado
+- Budapeste
+- Camberra
+- Consulado Geral
+- Consulado Honorário
+- Costa do Marfim
+- Embaixada
+- EUA
+- Hungria
+- Jurisdição
+- México
+- Representação Consular
+relationships:
+- type: cites
+  target: pt:dre:203592345:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:12Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +111,5 @@ Consulado Honorário em Auckland - Distritos Northland de Auckland do Sul, Auckl
 Consulado Honorário em Wellington - Distritos de Hawke's Bay, Nelson, Marlborough, Taranaki e Wellington.».
 
 3 de fevereiro de 2023. - O Diretor-Geral dos Assuntos Consulares e das Comunidades Portuguesas, Luís Manuel Fernandes de Menezes de Almeida Ferraz.
+
+316161106

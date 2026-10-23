@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/110000000/2452724527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/966-2011-2946561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf5f96070cc625221d828cb9057d0b80ee0e0f99f75b9e00a23a8bbf1a0c4ab5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f30beded8221715a58d76486896cfd4a5bc36c3d0225c8da5f9ae59a074d0ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:49Z'
   warnings: []
   errors: []
 ---
@@ -102,3 +102,5 @@ deve ler-se:
 Referência E - assistente técnico - desenvolve funções que se enquadram em directivas gerais dos dirigentes e chefias, de expediente, arquivo, secretaria, contabilidade, processamento, pessoal e aprovisionamento e economato, tendo em vista assegurar o funcionamento dos órgãos incumbidos da prestação de bens e serviços. Executa predominantemente as seguintes tarefas: assegura a tramitação da comunicação entre os vários órgãos e entre estes e os particulares, através do registo, redacção, classificação e arquivo de expediente e outras formas de comunicação; trata informação, recolhendo e efectuando apuramentos estatísticos elementares e elaborando mapas, quadros ou utilizando qualquer outra forma de transmissão eficaz de dados existentes; recolhe, examina, confere e procede à escrituração de dados relativos às transacções financeiras e contabilísticas, podendo assegurar a movimentação de fundo de maneio; recolhe, examina e confere elementos constantes dos processos, anotando faltas ou anomalias e providenciando pela sua correcção e andamento, através de ofícios, informações ou notas, em conformidade com a legislação existente; organiza, calcula e desenvolve os processo relativos à situação do pessoal e à aquisição e ou manutenção de material, equipamento, instalações ou serviços; participa, quando for caso disso, em operações de lançamento, liquidação e cobrança de impostos, taxas e outros rendimentos municipais.»
 
 30 de Maio de 2011. - O Presidente da Câmara, Jorge Manuel Fernandes Malheiro de Magalhães.
+
+304738114

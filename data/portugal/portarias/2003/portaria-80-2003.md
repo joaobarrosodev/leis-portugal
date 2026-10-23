@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/01/018b00/03920392.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/80/2003/01/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-2003-172937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-10-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7c21651da6dbc916f65f01a42e2c7b99c7658a1cbaeb7cff0f1e51248c57e23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b6149ec8e1d7716fc411d4bbcd5565b9a85567ad3f0ed1cc3a80b9f811f3abf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,18 +66,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Filantropia
 - Ajuda Humanitária
-- Liberdade Religiosa
-- Direcção Geral dos Impostos
-- IPSS
-- Contribuições e Impostos
-- IRS
-- IVA
-- Instituições de Assistência
-- Isenção Fiscal
-- Pessoa Coletiva de Utilidade Pública
 - Benefícios Fiscais
+- Contribuições e Impostos
+- Direcção Geral dos Impostos
+- Filantropia
+- Instituições de Assistência
+- IPSS
+- IRS
+- Isenção Fiscal
+- IVA
+- Liberdade Religiosa
+- Pessoa Coletiva de Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:500185:por
@@ -87,16 +87,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/lei/16/2001/06/22/p/dre
   label: null
   source: http://data.dre.pt/eli/lei/16/2001/06/22/p/dre
+- type: cites
+  target: pt:dre:333523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362699:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:500185:por
+  label: "Revogada a PORT.298/2013.04.10.2013.MF, DR.IS [192] de 04.10.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/298-2013-500185
+  date: '2013-10-04'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:21Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +138,4 @@ c) Para o efeito do disposto na alínea anterior, e de harmonia com o n.º 2 do 
 
 3.º Em caso de liquidação correctiva do IRS respeitante à consignação referida no artigo 1.º, o valor consignado será corrigido para mais ou para menos de acordo com os procedimentos que vierem a ser definidos por despacho ministerial.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 30 de Dezembro de 2002.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 30 de Dezembro de 2002.

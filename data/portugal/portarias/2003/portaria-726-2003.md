@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/180b00/46474658.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/726/2003/08/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/726-2003-646170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94e2433d173819474c24c521832b4dca106d1d36f37cd7b72402a13fc461af36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b1783858759d082200117c2bd3b637a24ad2700311972a705e0b119a25ed90a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:176811788:por
+  label: Revogado, nos termos do arts. 2.º e 3.º, a presente portaria, pelo(a) Portaria n.º 328/2021 - Diário da República
+    n.º 252/2021, Série I de 2021-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/328-2021-176811788
+  date: '2021-12-30'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:55Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +111,7 @@ Assim, ao abrigo da alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 447
 
 Manda o Governo, pelos Ministros da Cultura e das Cidades, Ordenamento do Território e Ambiente, que seja aprovado o Regulamento de Conservação Arquivística do Instituto da Conservação da Natureza, em anexo à presente portaria e da qual faz parte integrante.
 
-**O Ministro da Cultura, Pedro Manuel da Cruz Roseta, em 6 de Junho de 2003. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 18 de Julho de 2003.**
+O Ministro da Cultura, Pedro Manuel da Cruz Roseta, em 6 de Junho de 2003. - Pelo Ministro das Cidades, Ordenamento do Território e Ambiente, Joaquim Paulo Taveira de Sousa, Secretário de Estado do Ordenamento do Território, em 18 de Julho de 2003.
 
 ## ANEXO — REGULAMENTO DE CONSERVAÇÃO ARQUIVÍSTICA DO INSTITUTO DA CONSERVAÇÃO DA NATUREZA
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/08/154000000/0014200144.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/708-2022-187258589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 35063add19b992de79075b1940f6eeff511fb7e53ecffe4c9265404298ed9c54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3f992708c518c5f58afa03f1b3590c91f5126144562099d5322f41f40b91fee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:175865937:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186724470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186724471:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186770926:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:16Z'
   warnings: []
   errors: []
 ---
@@ -184,3 +200,5 @@ Rui Fausto Martins Ribeiro da Silva Lourenço, Professor Catedrático do Departa
 Alberto António Caria Canelas Pais, Professor Catedrático do Departamento de Química da Faculdade de Ciências e Tecnologia da Universidade de Coimbra.»
 
 2 de agosto de 2022. - A Chefe da Divisão de Recrutamento e Gestão de Contratos, Lília Sofia Lopes Marques.
+
+315588519

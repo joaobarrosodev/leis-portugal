@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/02/041000000/0033100331.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/214-2025-909150671
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-02-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5c4555fd07bb7795779cf30ab34ed4db0f9b938e5d9ac41f872674f69b16b3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc3020d13c3bced44263353a781e862d4555f403082bb2d4970c09798e225dd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:115603227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:908076754:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:52Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +102,5 @@ deve ler-se:
 «Nos termos do [Regulamento n.º 393/2018](https://diariodarepublica.pt/dr/detalhe/regulamento/393-2018-115603227), publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2018 (relativo às carreiras, ao recrutamento e aos contratos de trabalho de investigadores em regime de contrato de trabalho da Universidade Nova de Lisboa), faz-se saber, por despacho de 10 de fevereiro de 2025 do Senhor Reitor da UNL, Professor Doutor João Sàágua, se encontra aberto, pelo prazo de 30 dias úteis, a contar do dia útil imediato ao da presente publicação».
 
 21 de fevereiro de 2025. - O Diretor, Prof. Doutor José Júlio Alferes.
+
+318724944

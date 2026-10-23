@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/308/2002/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/308-2002-263038
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1eaa17ff7e119fbb67743b36c94be8cd554b4f17f44a93e12d2e183328dc30c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 862b9678273541afe9147d0b5f37e3764faab54b2071da9a9a46f2075a16a706
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -89,16 +89,38 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/487/2001/05/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/487/2001/05/11/p/dre
+- type: cites
+  target: pt:dre:276448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584020:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:620476:por
+  label: "Revogada a tabela de taxas publicada em anexo à presente Port, pela PORT.125/2005.31.01.2005.MDN, DR.IS-B [21] de\
+    \ 31.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/125-2005-620476
+  date: '2005-01-31'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:25Z'
   warnings: []
   errors: []
 ---
@@ -135,16 +157,16 @@ QUADRO N.º 1
 
 Direcção de Inspecção de Navios
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)
 
 QUADRO N.º 2
 
 Direcção de Transportes Marítimos
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)
 
 QUADRO N.º 3
 
 Direcção de Assuntos Portuários
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)
+[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)](https://files.diariodarepublica.pt/1s/2002/03/068b00/27362748.pdf)

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/679-2011-2062623
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d19081a11de4afab73885417a250fc123c91e843ee8c729d29b22282f5d4fb8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2416e3c5385bd64c2c5548a423e8afbc0da49ad9d816528801dcee6466bf908f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:04Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +112,7 @@ Stowe, M. W. (1999), Oracle developer/2000 handbook, New Jersey: Prentice Hall, 
 
 deve ler-se:
 
-«Bill English (2007), Microsoft[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf))](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) Office SharePoint[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf))](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) Server 2007 Administrator's Companion, Microsoft Press.
+«Bill English (2007), Microsoft[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) Office SharePoint[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) Server 2007 Administrator's Companion, Microsoft Press.
 
 Buchner, A. (2008), Moodle Administration: An administrator's guide to configuring, securing, customizing, and extending Moodle, Packt Publishing.
 
@@ -124,7 +124,7 @@ Hunt, C. (2002), TCP/IP Network Administration, O'Reilly, 3rd Ed.
 
 Jagott, S., and Stidley, J. (2010), Microsoft Exchange Server 2010 Best Practices, Microsoft Press.
 
-Komar, B. (2008), Windows Server[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf))](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) 2008 PKI and Certificate Security, Microsoft Press.
+Komar, B. (2008), Windows Server[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) 2008 PKI and Certificate Security, Microsoft Press.
 
 Lammle, T. (2007), CCNA: Cisco Certified Network Associate Study Guide, Sybex, 6th Ed.
 
@@ -134,12 +134,14 @@ Mistry, R. (2008), Microsoft SQL Server 2008 Management and Administration, SAMS
 
 Noel, M. (2007), Microsoft SQL Server 2008 Reporting Services, SAMS.
 
-Riemer, B. & Kezema, C. (2008), Windows Server[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf))](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) 2008 Active Directory[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf))](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) Resource Kit, Microsoft Press.
+Riemer, B. & Kezema, C. (2008), Windows Server[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) 2008 Active Directory[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) Resource Kit, Microsoft Press.
 
 Stanek, W. (2009), Microsoft Exchange Server 2010 Administrator's Pocket Consultant, Microsoft Press.
 
 Stanek, W., Microsoft SQL Server 2008 Administrator's Pocket Consultant, MsPress, ISBN 978-0-672-33044-5.
 
-Stanek, W. (2007), Windows Server[([ver documento original](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf))](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) 2008 Administrator's Pocket Consultant, Microsoft Press, ISBN 13: 9780735624375, ISBN 10: 0-7356-2437-2.»
+Stanek, W. (2007), Windows Server[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/04/070000000/1664116641.pdf) 2008 Administrator's Pocket Consultant, Microsoft Press, ISBN 13: 9780735624375, ISBN 10: 0-7356-2437-2.»
 
 1 de Abril de 2011. - A Administradora, Ângela Noiva Gonçalves.
+
+204540896

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/384/2002/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/384-2002-303268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d91d7db90c07da605378f73a9f9a52feee493bc0dad2539d650a33f728daf5f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aa49918735979a5a126fc5833425c369fa73b58656c23d71879ff7afa26ff089
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Jogos de Fortuna e Azar
-- Turismo
+- Algarve
 - Contrapartida
 - Contrato de Concessão
-- Algarve
-- Região de Turismo
 - Espinho
 - Estoril
 - Figueira da Foz
+- Financiamento
+- Jogos de Fortuna e Azar
 - Póvoa de Varzim
+- Região de Turismo
+- Turismo
 - ZONA de JOGO
 relationships:
 - type: cites
@@ -87,16 +87,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/12/2002/01/24/p/dre
+- type: cites
+  target: pt:dre:239219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:626243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:55Z'
   warnings: []
   errors: []
 ---
@@ -197,7 +205,7 @@ Destino das verbas não executadas ou não comprometidas
 
 2 - O destino das contrapartidas previstas no n.º 2.º que não forem comprometidas nos termos previstos no presente diploma é fixado por portaria do membro do Governo responsável pela área do turismo.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz, em 4 de Março de 2002.**
+O Ministro da Economia, Luís Garcia Braga da Cruz, em 4 de Março de 2002.
 
 ## ANEXO — (previsto nos n.os 1 e 8 do n.º 4.º)
 

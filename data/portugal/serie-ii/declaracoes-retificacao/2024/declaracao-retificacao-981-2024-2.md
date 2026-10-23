@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/225000000/0005800063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/981-2024-897247292
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e09c05371066c71dcded4deecf3fb09b6e5412b08adbc6f4f9858580d015adf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b920075724f83bfaf750748b1c75eb985663909e21d488fc1c7a253f2b9ff54a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,40 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:158636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891997326:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:10Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 981/2024/2
 
-Ao abrigo do disposto nos n.<sup>os</sup>2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 21 de dezembro, publicado no Diário da República, 2.ª série, n.º 251, de 30 de dezembro de 2022, declara-se que o [Alvará n.º 9/2024](https://diariodarepublica.pt/dr/detalhe/alvara/9-2024-891997326), publicado no Diário da República, 2.ª série, n.º 205, parte C, de 22 de outubro de 2024, saiu com inexatidão, por não ter sido publicado o anexo que faz parte integrante do alvará, pelo que, mediante declaração da entidade emitente, se publica.
+Ao abrigo do disposto nos n.os2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 21 de dezembro, publicado no Diário da República, 2.ª série, n.º 251, de 30 de dezembro de 2022, declara-se que o [Alvará n.º 9/2024](https://diariodarepublica.pt/dr/detalhe/alvara/9-2024-891997326), publicado no Diário da República, 2.ª série, n.º 205, parte C, de 22 de outubro de 2024, saiu com inexatidão, por não ter sido publicado o anexo que faz parte integrante do alvará, pelo que, mediante declaração da entidade emitente, se publica.
 
 Na p. 2, onde se lê:
 
@@ -92,15 +108,15 @@ deve ler-se:
 
 «11 de outubro de 2024 - O Diretor Nacional da Polícia de Segurança Pública, Superintendente Luís Miguel Ribeiro Carrilho.
 
-## ANEXO
+ANEXO
 
-Estabelecimento fabril de pirotecnia da empresa Pirotécnica - J. Vieira & Filhos, L.<sup>da</sup>, sito no lugar de Santa Rita, n.º 7, freguesia de Golães, concelho de Fafe, distrito de Braga
+Estabelecimento fabril de pirotecnia da empresa Pirotécnica - J. Vieira & Filhos, L.da, sito no lugar de Santa Rita, n.º 7, freguesia de Golães, concelho de Fafe, distrito de Braga
 
 1 - Produtos explosivos
 
 A) Fabrico autorizado
 
-| Tipo de produto | N.º ONU | Classe | Código de classificação | Produção anual * (kg) |
+| Tipo de produto | N.º ONU | Classe | Código<br>de classificação | Produção anual *<br>(kg) |
 | --- | --- | --- | --- | --- |
 | Artifícios de divertimento/fogos-de-artifício | 0335 | 1 | 1.3G | 2500 |
 | Artifícios de divertimento/fogos-de-artifício | 0336 | 1 | 1.4G | 2500 |
@@ -110,7 +126,7 @@ A) Fabrico autorizado
 
 B) Aquisições autorizadas
 
-| Tipo de produto | N.º ONU | Classe | Código de classificação |
+| Tipo de produto | N.º ONU | Classe | Código<br>de classificação |
 | --- | --- | --- | --- |
 | Artifícios de divertimento/fogos-de-artifício | 0335 | 1 | 1.3G |
 | Artifícios de divertimento/fogos-de-artifício | 0336 | 1 | 1.4G |
@@ -125,122 +141,122 @@ B) Aquisições autorizadas
 
 Edifício 4 - Oficina de trabalho
 
-| Função | Função | Montagem de artigos de pirotecniaAs operações de admitidas limitam-se à inserção de inflamadores, rastilhos e aplicação sistemas dos restantes sistemas de iniciação e ligação dos artigos não operações de preparação para a sua utilização em espetáculos.Estão vedadas, proibidas, operações de combinação ou alteração de artigos que alterem a sua divisão de risco. |
+| Função | Montagem de artigos de pirotecniaAs operações de admitidas limitam-se à inserção de inflamadores, rastilhos e aplicação sistemas dos restantes sistemas de iniciação e ligação dos artigos não operações de preparação para a sua utilização em espetáculos.Estão vedadas, proibidas, operações de combinação ou alteração de artigos que alterem a sua divisão de risco. |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Fogos de artifício, objetos pirotécnicos para uso técnico, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 100 kg - 1.3 e 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 7 × 5 × 3/5 |
-| Travesamento | Travesamento | Em todas as direções, exceto a nascente |
+| Produtos explosivos | Fogos de artifício, objetos pirotécnicos para uso técnico, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |  |
+| Lotação - Divisão de Risco | 100 kg - 1.3 e 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 7 × 5 × 3/5 |  |
+| Travesamento | Em todas as direções, exceto a nascente |  |
 | Materiais de construção | Paredes | Alvenaria de tijolo, lisa, pintada, interior e exteriormente, de branco. |
-| Materiais de construção | Pavimento | Betonilha de cimento lisa coberta com tinta antiestática. |
-| Materiais de construção | Teto/Cobertura | Painel isotérmico tipo sandwich. |
-| Materiais de construção | Porta | Alumínio, de abrir para fora. |
+| Pavimento | Betonilha de cimento lisa coberta com tinta antiestática. |  |
+| Teto/Cobertura | Painel isotérmico tipo sandwich. |  |
+| Porta | Alumínio, de abrir para fora. |  |
 
 Edifício 7 - Paiol
 
-| Função | Função | Armazenagem |
+| Função | Armazenagem |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 550 kg - 1.3 ou 1 500 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 3 × 4 × 4/3 |
-| Travesamento | Travesamento | Em todas as direções, exceto a nascente. |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |  |
+| Lotação - Divisão de Risco | 550 kg - 1.3 ou 1 500 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 3 × 4 × 4/3 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
 | Materiais de construção | Paredes | Alvenaria de tijolo, lisa, pintada, interior e exteriormente, de branco. |
-| Materiais de construção | Pavimento | Betonilha de cimento lisa. |
-| Materiais de construção | Teto/Cobertura | Painel isotérmico tipo sandwich. |
-| Materiais de construção | Porta | Alumínio, de abrir para fora. |
+| Pavimento | Betonilha de cimento lisa. |  |
+| Teto/Cobertura | Painel isotérmico tipo sandwich. |  |
+| Porta | Alumínio, de abrir para fora. |  |
 
 Edifício 9 - Paiol
 
 |  |  |  |
 | --- | --- | --- |
-| Função | Função | Armazenagem |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 450 kg - 1.3 ou 1500 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 6 × 2,3 × 2,4 |
-| Travesamento | Travesamento | Em todas as direções, exceto a nascente. |
+| Função | Armazenagem |  |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |  |
+| Lotação - Divisão de Risco | 450 kg - 1.3 ou 1500 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 6 × 2,3 × 2,4 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
 | Materiais de construção | Paredes | Contentor de 20 pés constituído por painéis fibráticos e isolamento térmico. |
-| Materiais de construção | Pavimento | Contentor de 20 pés constituído por painéis fibráticos e isolamento térmico. |
-| Materiais de construção | Teto/Cobertura | Contentor de 20 pés constituído por painéis fibráticos e isolamento térmico. |
-| Materiais de construção | Porta | Contentor de 20 pés constituído por painéis fibráticos e isolamento térmico. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
 
 Edifício 10 - Paiol
 
-| Função | Função | Armazenagem |
+| Função | Armazenagem |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 550 kg - 1.3 ou 1500 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 3 × 4 × 4/3 |
-| Travesamento | Travesamento | Em todas as direções, exceto a nascente. |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 550 kg - 1.3 ou 1500 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 3 × 4 × 4/3 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
 | Materiais de construção | Paredes | Alvenaria de tijolo, lisa, pintada, interior e exteriormente, de branco. |
-| Materiais de construção | Pavimento | Betonilha de cimento lisa. |
-| Materiais de construção | Teto/Cobertura | Painel isotérmico tipo sandwich. |
-| Materiais de construção | Porta | Alumínio, de abrir para fora. |
+| Pavimento | Betonilha de cimento lisa. |  |
+| Teto/Cobertura | Painel isotérmico tipo sandwich. |  |
+| Porta | Alumínio, de abrir para fora. |  |
 
 Edifício 11 - Paiol
 
-| Função | Função | Armazenagem |
+| Função | Armazenagem |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |
-| Travesamento | Travesamento | Em todas as direções, exceto a nascente. |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
 | Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Pavimento | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Teto/Cobertura | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Porta | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
 
 Edifício 12 - Paiol
 
 |  |  |  |
 | --- | --- | --- |
-| Função | Função | Armazenagem |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 12 × 5,5 × 4/3 |
-| Travesamento | Travesamento | Em todas as direções exceto a nascente. |
+| Função | Armazenagem |  |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 5,5 × 4/3 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
 | Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Pavimento | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Teto/Cobertura | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Porta | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
 
 Edifício 13 - Paiol
 
-| Função | Função | Armazenagem |
+| Função | Armazenagem |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |
-| Travesamento | Travesamento | Em todas as direções exceto a nascente. |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
 | Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Pavimento | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Teto/Cobertura | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Porta | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
 
 Edifício 14 - Paiol
 
-| Função | Função | Armazenagem |
+| Função | Armazenagem |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |
-| Travesamento | Travesamento | Em todas as direções exceto a nascente. |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
 | Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Pavimento | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Teto/Cobertura | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Porta | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
 
 Edifício 15 - Paiol
 
-| Função | Função | Armazenagem |
+| Função | Armazenagem |  |
 | --- | --- | --- |
-| Produtos explosivos | Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados |
-| Lotação - Divisão de Risco | Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |
-| Dimensões (interior) - C × L × H (m) | Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |
-| Travesamento | Travesamento | Em todas as direções exceto a nascente. |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
 | Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Pavimento | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Teto/Cobertura | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
-| Materiais de construção | Porta | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
 
 3 - Edifícios e estruturas sem matéria ativa:
 
@@ -304,8 +320,11 @@ A empresa dispõe de extintores e bocas-de-incêndio distribuídos em pontos est
 
 Latitude: 41°28’25.85”N; Longitude: 8°11’4.86”W
 
-![](https://files.diariodarepublica.pt/images/897247292/897247381.png)
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/897247292/897247381.png) |
+| --- |
 
 »
 
 12 de novembro de 2024. - O Diretor Nacional da Polícia de Segurança Pública, Superintendente Luís Miguel Ribeiro Carrilho.
+
+318349809

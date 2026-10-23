@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/136000000/0005000050.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/502-2024-872107013
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9bd02b79363ca1b817aac7bbabef091d4e703906faed139ed602f60bb3e2c3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7e907857bcbdda390dd4a8995356492d6f384bac7bf2a73738e7737d21d599f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:859244829:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:14Z'
   warnings: []
   errors: []
 ---
@@ -95,3 +99,5 @@ deve ler-se:
 "Às verbas previstas na subalínea i) da alínea b) do n.º 3 acresce, a título excecional, um reforço financeiro de € 7 000 000, para diminuir atrasos na resposta aos requerentes dos produtos de apoio."
 
 11 de junho de 2024. - O Ministro de Estado e das Finanças, Joaquim José Miranda Sarmento. - 12 de junho de 2024. - O Ministro da Educação, Ciência e Inovação, Fernando Manuel de Almeida Alexandre. - 25 de junho de 2024. - A Ministra da Saúde, Ana Paula Mecheiro de Almeida Martins Silvestre Correia. - 7 de junho de 2024. - A Ministra do Trabalho, Solidariedade e Segurança Social, Maria do Rosário Valente Rebelo Pinto Palma Ramalho.
+
+317840504

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/03/063000000/0033800338.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/261-2023-211131001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 302ea969734ef8e0fa7150ffa529695dae23e1fa230ef6dd5aab68993a31e863
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 145c362ece14ed67f70e18c1eea4647d97a253ef30db6a73a57f6ac88518e526
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:208379154:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:45:51Z'
   warnings: []
   errors: []
 ---
@@ -84,6 +88,8 @@ validation:
 
 Por ter saído com inexatidão, retifica-se o [Aviso n.º 5067/2023](https://diariodarepublica.pt/dr/detalhe/aviso/5067-2023-208379154), de 9 de março. Assim, onde se lê «cessou, a seu pedido, a comissão de serviço, como Chefe de Gabinete, Cláudia Sofia da Conceição Rocha, com efeitos a 31 de dezembro de 2023» deve ler-se «cessou, a seu pedido, a comissão de serviço, como chefe de gabinete, Cláudia Sofia da Conceição Rocha, com efeitos a 31 de dezembro de 2022».
 
-**Publique-se no Diário da República.**
+Publique-se no Diário da República.
 
 9 de março de 2023. - A Vice-Presidente, Anabela Tabaçó.
+
+316296029

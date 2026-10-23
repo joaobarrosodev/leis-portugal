@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/506/2003/06/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/506-2003-693789
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95e7654e2ac827bfdd40edcd636491ca50eee0186dffcea0fc3b408890331e70
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e9d04e74068e2c2b51be6875ec24a3bf24e7fc8d9ff784dbbec5de48b54001f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,36 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Apoio ao Investimento
+- Embarcação de Pesca
 - Financiamento
 - Fiscalização
+- Ifadap
+- Intervenção Operacional Pescas
 - Pesca
-- Apoio ao Investimento
 - QCA III
 - Regime de Apoio
-- Intervenção Operacional Pescas
 - Regulamento
 - Regulamento CE
-- Ifadap
 - Regulamento do Regime de Apoio à Construção de Novas Embarcações de Pesca
-- Embarcação de Pesca
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661556:por
+  label: "Alterado o nº 4 do art. 11º do Regulamento aprovado pela Port 1078/2000, com a redacção do presente diploma, pela\
+    \ PORT.392/2006.24.04.2006.MADRP, DR.IS-B [80] de 24.04.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/392-2006-661556
+  date: '2006-04-24'
+- type: amended_by
+  target: pt:dre:498528:por
+  label: "Dada nova redação ao art. 11º do Regulamento do Regime de Apoio à Construção de Novas Embarcações de Pesca, aprovado\
+    \ pela Port 1078/2000 de 08-nov , alterado pelo presente diploma, pela PORT.244/2013.02.08.2013.MAMAOT, DR.IS [148] de\
+    \ 02.08.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2013-498528
+  date: '2013-08-02'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -99,13 +112,13 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:36Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +261,7 @@ AE = taxa interna de rendibilidade (TIR) do projecto de investimento.
 
 A TIR será pontuada de acordo com a seguinte tabela:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)
 
 REFI = taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil do trimestre civil correspondente à apresentação ou reformulação da candidatura.
 
@@ -274,13 +287,13 @@ Mais de 150 dias - 15 pontos.
 
 Análise do projecto (AP):
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)
 
 3 - Cálculo da avaliação sectorial (AS):
 
 AS = VO + PS
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)](https://files.diariodarepublica.pt/1s/2003/06/145b00/36713675.pdf)
 
 2.º É aditado um n.º 6 ao artigo 10.º do Regulamento do Regime de Apoio à Construção de Novas Embarcações de Pesca, anexo à Portaria n.º 1078/2000, de 8 de Novembro, com a seguinte redacção:
 
@@ -298,4 +311,4 @@ Critérios de selecção
 
 5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 4 de Junho de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 4 de Junho de 2003.

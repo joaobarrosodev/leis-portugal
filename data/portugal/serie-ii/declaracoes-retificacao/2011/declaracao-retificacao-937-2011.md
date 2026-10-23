@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/06/106000000/2374923749.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/937-2011-2522218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d5fdfc29b6b53273f7ba497032f46b66b0e9601960c6a5a0b357b657b7a39f3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25b50d389ab317faa8681f4f8e7f8a256841b80a8ea0c37dd477878debe8319e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,23 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:40Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 937/2011
+# Declaração de rectificação n.º 937/2011
 
 Para os devidos efeitos, se declara que no aviso n.º 11382/2011, relativo ao procedimento concursal comum para ocupação de oito postos de trabalho, publicado no Diário da República, 2.ª série, n.º 99, de 23 de Maio de 2011, onde se lê «se encontra aberto pelo prazo de 10 dias úteis, contados a partir da data de publicação no Diário da República, procedimento concursal comum na modalidade de relação jurídica de emprego público, por tempo determinado, tendo em vista a ocupação de seis postos de trabalho para a carreira e categoria de técnico superior, um posto de trabalho para a carreira e categoria de assistente técnico e um posto de trabalho para a carreira e categoria de assistente operacional previstos e não ocupados no mapa de pessoal do município de Estremoz», deverá acrescentar-se que o período de duração do contrato de trabalho é de 1 ano com possíveis renovações, tal como previsto nos artigos 103.º e 104.º, da [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro.
 
 24 de Maio de 2011. - O Presidente da Câmara, Luís Filipe Pereira Mourinha.
+
+304718115

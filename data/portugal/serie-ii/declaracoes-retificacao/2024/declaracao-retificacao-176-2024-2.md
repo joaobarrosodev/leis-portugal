@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/049000000/0009600097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/176-2024-854546362
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe7492d8e13bcde8434920a9f925be39834683b7c9b4ecf6089f4a3ee17ba3b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13b62551703c8c930ec40d4fcb30e05599a9a1ae4397b41ef0324f2c19cc25ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835896543:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:14Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +93,7 @@ validation:
 
 Nos termos do disposto no n.º 2 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o [Regulamento da CMVM n.º 7/2023](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2023-835896543), publicado no Diário da República, 2.ª série, n.º 250, 2.º suplemento, de 29 de dezembro de 2023, saiu com as seguintes inexatidões, que assim se retificam:
 
-1 - No artigo 21.º, n.º 1, alínea b), onde se lê "Os n.<sup>os</sup>5 a 10 do artigo 19.º" deve ler-se "Os n.<sup>os</sup>4 a 8 do artigo 19.º".
+1 - No artigo 21.º, n.º 1, alínea b), onde se lê "Os n.os5 a 10 do artigo 19.º" deve ler-se "Os n.os4 a 8 do artigo 19.º".
 
 2 - No Anexo II, Parte I, Capítulo III, Ponto 5, onde se lê "5.3 Pré-aviso" deve ler-se "5.2 Pré-aviso".
 
@@ -109,3 +117,5 @@ Nos termos do disposto no n.º 2 do artigo 11.º do Regulamento de Publicação 
 10 - Anexo VIII, Secção IX, Ponto III, Ficheiro ERR, Bloco de Informação n.º 1 - Na tabela referente ao "Domínio e Dimensão", na parte respeitante ao Campo "Quantidade (Campo 9)" onde se lê "Dimensão máxima de 20 carateres numéricos" deve ler-se "Dimensão máxima de 20 carateres numéricos, com 4 casas decimais".
 
 15 de fevereiro de 2024. - O Presidente do Conselho de Administração, Luís Laginha de Sousa. - A Vice-Presidente do Conselho de Administração, Inês Drumond.
+
+317366452

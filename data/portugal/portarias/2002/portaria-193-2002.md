@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/053b00/17911809.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/193/2002/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2002-251443
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-07-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bca8dd4a7e90b7e8c1bb837271f29dce77275178f549b442a5cad02c2c9086a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ab860612c1e23b0098e36ce04a9a4f94db464caa91a152453b3f9e5bc3eeb0d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,18 +65,18 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Acidente Nuclear
-- Proteção Civil
-- Serviço Nacional de Protecção Civil
 - Acidente Ecológico
-- Direcção Geral do Ambiente
+- Acidente Nuclear
 - Catástrofe
 - Comissão CE
+- Direcção Geral do Ambiente
+- Documento Eletrónico
 - Informação
 - Inspecção Geral do Ambiente
-- Documento Eletrónico
+- Proteção Civil
 - Proteção do Ambiente
 - Relatório
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:636175:por
@@ -86,16 +86,21 @@ relationships:
   target: celex:31996L0082
   label: null
   source: http://data.europa.eu/eli/dir/1996/82/oj
+- type: repealed_by
+  target: pt:dre:636175:por
+  label: "Revogada, a partir de 17.07.2007, pelo DEC LEI.254/2007.12.07.2007.MAOTDR, DR.IS [133] de 12.07.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-2007-636175
+  date: '2007-07-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:41Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +133,7 @@ b) As informações a prestar nos termos das alíneas d), e) e f) do artigo 29.�
 
 4.º O acesso aos modelos dos relatórios 164.01 e 164.02 bem como o seu preenchimento e devolução à DGA podem ser efectuados por via electrónica, para o sítio daquela entidade.
 
-**O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 20 de Dezembro de 2001.**
+O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 20 de Dezembro de 2001.
 
 Códigos para preenchimento do relatório detalhado de acidente grave
 

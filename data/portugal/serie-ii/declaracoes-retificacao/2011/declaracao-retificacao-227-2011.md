@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/020000000/0581405814.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/227-2011-3669172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f5bf5374e3c285ebd5fb90c49771296a6848d352284e362430016d58f4fec731
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e3810f664c4dc5f0d1c46f6180e60b02e01f86b713d0e91ab2d0ff3f18597fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:28Z'
   warnings: []
   errors: []
 ---
@@ -92,3 +92,5 @@ Em cumprimento do meu despacho RH.D.35/2010, de 28 de Dezembro, exarado sobre o 
 «8.3 - A habilitação referida no número anterior pode, nos termos legais, relativamente às referências C, D, E, F, G, J, K e L, ser substituída por formação e ou experiência profissionais necessárias e suficientes ao exercício da função.»
 
 28 de Dezembro de 2010. - Por delegação do Presidente da Câmara, a Vereadora do Pelouro de Recursos Humanos, Arminda de Lurdes Andrez.
+
+304242386

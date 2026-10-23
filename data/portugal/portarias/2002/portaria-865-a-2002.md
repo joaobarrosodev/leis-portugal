@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 167/2002, 1º Suplemento, Série I-B de 2002-07-22
   number: '167'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 5418-(2) a 5418-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/07/167b01/00020005.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/865-a/2002/07/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-a-2002-353918
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7b3823925399a88438b490923a6e74f3047111149b7dc335bdc2bc564418fec0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2842c5b15728d050d43b3ac2c76dd6d2b495c7950f8aab703cb447156de28d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,9 +68,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Financiamento
-- Empresa
 - Desenvolvimento Económico
+- Empresa
+- Financiamento
 - Política Económica
 - Regulamento
 relationships:
@@ -78,6 +78,12 @@ relationships:
   target: pt:dre:533221:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214717:por
+  label: "Alterado o anexo C do Regulamento de Execução do SIME, aprovado pela Port 687/2000 de 31-Ago, com a redacção do\
+    \ presente diploma, pela PORT.218/2003.2003.03.12.PCM DR.IS-B [60]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/218-2003-214717
+  date: '2003-03-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/70-b/2000/05/05/p/dre
   label: null
@@ -94,16 +100,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/687/2000/08/31/p/dre
   label: null
   source: http://data.dre.pt/eli/port/687/2000/08/31/p/dre
+- type: cites
+  target: pt:dre:352705:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:581071:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:647078:por
+  label: "Rectificada pelo DECL-RECT.30/2002.2002.09.23.PCM, DR.IS-B [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/30-2002-647078
+  date: '2002-09-23'
+- type: repealed_by
+  target: pt:dre:533221:por
+  label: "Revogada a Portaria n.º 687/2000, de 31-Ago, alterada pelo presente diploma e pelas Portarias n.os 164/2001, de\
+    \ 7 de Março, 243/2001, de 22 de Março, e 218/2003, de 12 de Março, pela PORT.262/2004.11.03.2004.MF, DR.IS-B [60] de\
+    \ 11.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-2004-533221
+  date: '2004-03-11'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:01Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +166,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, Adjunto do Primeiro 
 
 Em 16 de Julho de 2002.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Isaltino Afonso de Morais.
 
 ## ANEXO — REGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS À MODERNIZAÇÃO EMPRESARIAL (SIME)
 
@@ -368,68 +402,4 @@ Prémio de realização
 
 P = 100%, se D >= 2;
 
-P = 50% x D, se 1 =
-
-P = 200% x D - 150%, se 0,75 =
-
-P = 0, se D<0,75.
-
-5 - Nas primeiras duas avaliações intercalares, ou na única que terá lugar nos empréstimos com prazo de quatro anos, o prémio a conceder consiste na conversão em capital da percentagem do capital e juros capitalizados em dívida correspondente à seguinte percentagem do valor P:
-
-a) 30%, no caso de empréstimos sujeitos a uma única avaliação intercalar;
-
-b) 25%, no caso de empréstimos sujeitos a duas avaliações intercalares;
-
-c) 20%, no caso de empréstimos sujeitos a três avaliações intercalares.
-
-6 - Na avaliação final a percentagem do capital em dívida, que será convertida em capital, corresponderá ao valor seguinte, sem prejuízo do disposto no número seguinte:
-
-a) 70% do valor P, para empréstimos sujeitos a uma única avaliação intercalar (até ao limite do capital em dívida mais juros);
-
-b) 50% do valor P, para empréstimos sujeitos a duas avaliações intercalares;
-
-c) 40% do valor P, para empréstimos sujeitos a duas avaliações intercalares.
-
-7 - O prémio a atribuir na avaliação final consistirá, caso seja maior que o valor calculado no número anterior, na diferença entre o valor P (multiplicado por 100) e a percentagem que haja sido objecto de prémio nas avaliações intercalares.
-
-P = 200% x D - 150%, se 0,75 =
-
-P = 0, se D<0,75.
-
-5 - Nas primeiras duas avaliações intercalares, ou na única que terá lugar nos empréstimos com prazo de quatro anos, o prémio a conceder consiste na conversão em capital da percentagem do capital e juros capitalizados em dívida correspondente à seguinte percentagem do valor P:
-
-a) 30%, no caso de empréstimos sujeitos a uma única avaliação intercalar;
-
-b) 25%, no caso de empréstimos sujeitos a duas avaliações intercalares;
-
-c) 20%, no caso de empréstimos sujeitos a três avaliações intercalares.
-
-6 - Na avaliação final a percentagem do capital em dívida, que será convertida em capital, corresponderá ao valor seguinte, sem prejuízo do disposto no número seguinte:
-
-a) 70% do valor P, para empréstimos sujeitos a uma única avaliação intercalar (até ao limite do capital em dívida mais juros);
-
-b) 50% do valor P, para empréstimos sujeitos a duas avaliações intercalares;
-
-c) 40% do valor P, para empréstimos sujeitos a duas avaliações intercalares.
-
-7 - O prémio a atribuir na avaliação final consistirá, caso seja maior que o valor calculado no número anterior, na diferença entre o valor P (multiplicado por 100) e a percentagem que haja sido objecto de prémio nas avaliações intercalares.
-
-P = 0, se D<0,75.
-
-5 - Nas primeiras duas avaliações intercalares, ou na única que terá lugar nos empréstimos com prazo de quatro anos, o prémio a conceder consiste na conversão em capital da percentagem do capital e juros capitalizados em dívida correspondente à seguinte percentagem do valor P:
-
-a) 30%, no caso de empréstimos sujeitos a uma única avaliação intercalar;
-
-b) 25%, no caso de empréstimos sujeitos a duas avaliações intercalares;
-
-c) 20%, no caso de empréstimos sujeitos a três avaliações intercalares.
-
-6 - Na avaliação final a percentagem do capital em dívida, que será convertida em capital, corresponderá ao valor seguinte, sem prejuízo do disposto no número seguinte:
-
-a) 70% do valor P, para empréstimos sujeitos a uma única avaliação intercalar (até ao limite do capital em dívida mais juros);
-
-b) 50% do valor P, para empréstimos sujeitos a duas avaliações intercalares;
-
-c) 40% do valor P, para empréstimos sujeitos a duas avaliações intercalares.
-
-7 - O prémio a atribuir na avaliação final consistirá, caso seja maior que o valor calculado no número anterior, na diferença entre o valor P (multiplicado por 100) e a percentagem que haja sido objecto de prémio nas avaliações intercalares.
+P = 50% x D, se 1 =P = 200% x D - 150%, se 0,75 =P = 0, se D<0,75. 5 - Nas primeiras duas avaliações intercalares, ou na única que terá lugar nos empréstimos com prazo de quatro anos, o prémio a conceder consiste na conversão em capital da percentagem do capital e juros capitalizados em dívida correspondente à seguinte percentagem do valor P: a) 30%, no caso de empréstimos sujeitos a uma única avaliação intercalar; b) 25%, no caso de empréstimos sujeitos a duas avaliações intercalares; c) 20%, no caso de empréstimos sujeitos a três avaliações intercalares. 6 - Na avaliação final a percentagem do capital em dívida, que será convertida em capital, corresponderá ao valor seguinte, sem prejuízo do disposto no número seguinte: a) 70% do valor P, para empréstimos sujeitos a uma única avaliação intercalar (até ao limite do capital em dívida mais juros); b) 50% do valor P, para empréstimos sujeitos a duas avaliações intercalares; c) 40% do valor P, para empréstimos sujeitos a duas avaliações intercalares. 7 - O prémio a atribuir na avaliação final consistirá, caso seja maior que o valor calculado no número anterior, na diferença entre o valor P (multiplicado por 100) e a percentagem que haja sido objecto de prémio nas avaliações intercalares.

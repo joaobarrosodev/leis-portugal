@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 230/2004, 1º Suplemento, Série I-B de 2004-09-29
   number: '230'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6174-(59) a 6174-(60)
   pdf_url: https://files.diariodarepublica.pt/1s/2004/09/230b01/00590060.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1264-dg/2004/09/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1264-dg-2004-616051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83d6d46af85e8a4f260f90e0fe65da540a48ea7890a3f0eaee3b10100ca6c5a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9d001042d4d82fc92aaed5708e1566250377e70aa488d42b61e8db03d33bd3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,12 @@ relationships:
   target: pt:dre:603487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:603487:por
+  label: "Renovada, por um período de 10 anos, a concessão da zona de caça turística de Oriola I, concessionada pela Port\
+    \ 357/99 de 18-Mai, alterada pelo presente diploma, pela PORT.324/2009.30.03.2009.MADRP, DR.IS [62] de 30.03.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/324-2009-603487
+  date: '2009-03-30'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -103,16 +109,44 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/974-a/2004/08/02/p/dre
+- type: cites
+  target: pt:dre:275635:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323078:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603031:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:47Z'
   warnings: []
   errors: []
 ---

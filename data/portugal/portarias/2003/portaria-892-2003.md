@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/892/2003/08/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/892-2003-632726
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d325a4bd4299b91d3e81c6980db3d1d9f20ebafae01e143d8271bb51275b4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e080ebea07ff58b52ddb9e15441ba71ed5c20a96bc6e61b5e1a67f93e2a1c8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:456800:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456800:por
+  label: "Alterado o art. 1.º do Regulamento interno aprovado pela Port 92/2002, de 30-Jan, alterado e republicado na íntegra\
+    \ pelo presente diploma, pela PORT.620/2008.16.07.2008.MJ, DR.IS [136] de 16.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/620-2008-456800
+  date: '2008-07-16'
+- type: amended_by
+  target: pt:dre:74889524:por
+  label: Alterados os arts. 1.º, 2.º, 6.º e 11.º do Regulamento Interno do Julgado de Paz do Seixal, aprovado pela Port 92/2002
+    de 30-jan e republicado pela presente Portaria, pelo(a) Portaria n.º 182/2016 - Diário da República n.º 130/2016, Série
+    I de 2016-07-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/182-2016-74889524
+  date: '2016-07-08'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/140/2003/07/02/p/dre
   label: null
@@ -90,16 +103,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/92/2002/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/port/92/2002/01/30/p/dre
+- type: cites
+  target: pt:dre:276213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667117:por
+  label: null
+  source: null
 article_structure:
-  article_count: 12
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 11
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:52Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +157,9 @@ Manda o Governo, ao abrigo do disposto no artigo 3.º da [Lei n.º 78/2001](http
 
 3 - O período de atendimento do Julgado de Paz é das 9 horas e 15 minutos às 18 horas e 30 minutos, de segunda-feira a sexta-feira.
 
-###### Artigo 11.º — [...]
+Artigo 11.º
+
+[...]
 
 O Julgado de Paz do Seixal rege-se pelas normas constantes neste Regulamento e pelo protocolo celebrado em 26 de Novembro de 2001 entre o Ministério da Justiça e a Câmara Municipal do Seixal, com as alterações introduzidas pela respectiva adenda de 7 de Maio de 2003.»
 
@@ -154,7 +185,9 @@ Pela Ministra da Justiça, João Luís Mota de Campos, Secretário de Estado Adj
 
 2 - Nas ausências e impedimentos do juiz de paz-coordenador, este será substituído pelo que, de entre os que exerçam funções no Julgado de Paz, tenha obtido melhor classificação no concurso de recrutamento e selecção.
 
-###### Artigo 3.º — Secção
+###### Artigo 3.º
+
+#### Secção
 
 O Julgado de Paz dispõe de uma secção dirigida pelo juiz a quem competir a respectiva coordenação nos termos do artigo anterior.
 

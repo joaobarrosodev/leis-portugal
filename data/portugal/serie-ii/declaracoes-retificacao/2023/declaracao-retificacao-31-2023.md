@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/005000000/0015400154.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/31-2023-205810158
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-06T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ea737d4e9ea9c773d98a80cb887bc449bca60e1dedbaf765faf7164a3774d91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 57882de8e643a6a6146bc9216be18d41a2084178575a1d4ff7cfd30d2d31cd46
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acesso à Informação
+- Autoridade Nacional de Comunicações
+- Comunicações
+- Comunicações Eletrónicas
+- Contrato
+- Contrato de Prestação de Serviços
+- Dados Abertos
+- Equipamento de Transmissão
+- Internet
+- Prestação de Serviços
+- Regulamento
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204708873:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:1165/2022
+  label: Retifica o n.º 2 do artigo 7.º do Regulamento n.º 1165/2022, de 14 de dezembro, Diário da República n.º 239/2022,
+    Série II
+  source: null
+  date: '2022-12-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:07Z'
   warnings: []
   errors: []
 ---
@@ -94,3 +120,5 @@ deve ler-se:
 «2 - Na ausência da indicação dos elementos que devem ser considerados confidenciais, nos termos do disposto no número anterior, presume-se que a empresa considera que as informações em causa não são suscetíveis de revelar segredo comercial, industrial ou da vida interna que lhes respeite e podem ser divulgados em cumprimento das obrigações previstas no n.º 6 do artigo 158.º da Lei das Comunicações Eletrónicas.»
 
 26 de dezembro de 2022. - O Vice-Presidente do Conselho de Administração, João Miguel André Monteiro Coelho.
+
+316016116

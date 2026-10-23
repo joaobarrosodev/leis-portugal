@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/07/146000000/0009300093.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/571-2024-873782708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 933ed63b6e3427f533a4f9f2d700dd48ab73a469200636a29256254ef9aaed94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 128b8a0f4c429d58afec12da2b23ff14a9e6a37fea4d74d83a4fc3d2f70b4aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:39Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Onde se lê "[...] no ponto 9.1 do anexo ao Despacho 2032/2013, de 30 de janeiro
 No n.º 1, onde se lê "[...] Jaime Florêncio Vicente da Silva para desempenhar o cargo de Chefe de Equipa Multidisciplinar (CEM) do Núcleo de Brigadas Especializadas da UO VII - Lisboa." deve ler-se "[...] Jaime Florêncio Vicente da Silva para desempenhar o cargo de chefe de equipa Multidisciplinar (CEM) do Núcleo de Inspeção e Fiscalização da UO VII - Lisboa.".
 
 19 de julho de 2024. - A Subinspetora-Geral, Ana Cristina Caldeira.
+
+317942168

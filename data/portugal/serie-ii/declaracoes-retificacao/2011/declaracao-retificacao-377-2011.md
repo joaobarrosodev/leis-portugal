@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/031000000/0791907919.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/377-2011-1404333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 751360d7269b4096fde8493597ea6e466d668ac9b78efc3b1d4551b0a4c568fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c575ff98c9817fb9ff494d040ec4deeeb2bfe0879f32fb2f8409c203301bde08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:19Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +88,8 @@ Declaração de rectificação n.º 377/2011
 
 Por inexactidão verificada no aviso n.º 2700/2011, publicado em 26 de Janeiro de 2011, respeitante aos funcionários deste Agrupamento de Escolas, Deolinda da Assunção Cosme, José Fernando Rodrigues Sousa, Maria da Luz Apolinário Trindade e Teresa de Jesus Costa, rectifica-se que onde se lê «por acumulação dos 10 pontos» deve ler-se «por opção gestionária», conforme tabela abaixo apresentada.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791907919.pdf))](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791907919.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791907919.pdf)
 
 7 de Fevereiro de 2011. - O Director do Agrupamento de Escolas de Mogadouro, Dr. José Maria Preto.
+
+204320112

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/073000000/1714517145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/714-2011-1691734
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1ec2b4965053f2ad9e46b6b58c5b2d32d3011da2a7c6618c5dc2190a99a402e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 235bb7251e875fe8288d22b45e42d348a40733a7affd98cbac858146aa54752f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,13 +71,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:18Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Declaração de rectificação n.º 714/2011
 Por ter saído com inexactidão o edital n.º 344/2011, publicado no Diário da República, 2.ª série, n.º 68, de 6 de Abril de 2011, referente à constituição do júri de provas públicas para atribuição do título de especialista, requeridas por José Carlos de Almeida Gouveia Lello em 12 de Agosto de 2010, área de Engenharia Civil - Estruturas, rectifica-se que onde se lê «Engenheiro António Adão da Fonseca, membro indiciado pela Ordem dos Engenheiros» deve ler-se «Engenheiro António Adão da Fonseca, membro indicado pela Ordem dos Engenheiros».
 
 6 de Abril de 2011. - A Presidente, Rosário Gambôa.
+
+204556123

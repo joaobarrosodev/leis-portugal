@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/12/249000000/0011700117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1067-2022-205378142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-12-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f298a138a4688b22d9cc999213e34a30a0fa188e1d77dff2939f8a01e876527
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32f1a724bd5733c248b0290acee70fec5a8d24cd85b8c43c5e49dc2c8352d83c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168186802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:204201521:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:25Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +105,5 @@ deve ler-se:
 «foi homologada a lista unitária de ordenação final dos candidatos, referente ao procedimento concursal comum para o preenchimento de 16 (dezasseis) postos de trabalho, na carreira de assistente operacional, da categoria de assistente operacional, do mapa de pessoal da ARSLVT, I. P./ Agrupamentos de Centros de Saúde de Almada Seixal, Lisboa Central, Lisboa Norte, Lisboa Ocidental Oeiras, Loures Odivelas e Sintra, aberto pelo [Aviso n.º 13984-B/2021](https://diariodarepublica.pt/dr/detalhe/aviso/13984-b-2021-168186802), publicado no Diário da República, 2.ª série, n.º 1741, de 22 de julho de 2021.»
 
 6 de dezembro de 2022. - O Vogal do Conselho Diretivo, Dr. Nuno Venade.
+
+315954274

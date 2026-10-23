@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/051b00/16941694.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/2002/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-2002-254184
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 827f9a3afebf8812e48b53f4101cf1ad9259ba10d4b8291b7b447306ccaf5a41
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a7b6d876870616539d538df46c51a10ca6a8984029f6d2d0d236bdc0484e51f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,16 +65,23 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
-- Plano de Estudos
 - Ensino Profissional
 - Escola Profissional
+- Formação Profissional
+- Plano de Estudos
 - Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:147628:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147628:por
+  label: "Extinto o curso profissional de Técnico de Higiene e Segurança do Trabalho e Ambiente, criado pelo presente diploma,\
+    \ rectificado pela Decl-Rect 15-F/2002, de 30-Mar e revogados os mesmos diplomas, pela PORT.891/2005.26.09.2005.ME, DR.IS-B\
+    \ [185] de 26.09.2005, sem prejuízo do disposto no n.º 8.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/891-2005-147628
+  date: '2005-09-26'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/110/2000/06/30/p/dre
   label: null
@@ -99,16 +106,49 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/324/1992/04/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/324/1992/04/09/p/dre
+- type: cites
+  target: pt:dre:178838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:199097:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302962:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574109:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459452:por
+  label: "Rectificada pela DECL-RECT.15-F/2002.2002.03.27.PCM, DR.IS-B [75]2º Supl, de 30/Mar/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/15-f-2002-459452
+  date: '2002-03-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:38Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +173,7 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 4.º São revogados os planos de estudos do curso de Técnico de Higiene e Segurança do Trabalho e Ambiente, aprovados pelas Portarias n.os [722/90](https://diariodarepublica.pt/dr/detalhe/portaria/722-1990-574109), de 21 de Agosto, [187/92](https://diariodarepublica.pt/dr/detalhe/portaria/187-1992-178838), de 17 de Março, [209/92](https://diariodarepublica.pt/dr/detalhe/portaria/209-1992-179804), de 19 de Março, [288/92](https://diariodarepublica.pt/dr/detalhe/portaria/288-1992-189352), de 2 de Abril, e [324/92](https://diariodarepublica.pt/dr/detalhe/portaria/324-1992-199097), de 9 de Abril.
 
-**O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus, em 6 de Fevereiro de 2002.**
+O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus, em 6 de Fevereiro de 2002.
 
 MAPA
 

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/437/2002/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/437-2002-288632
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ffff637eb920a3a68aaba987331d4cbcdcf74a8105ab5bb86e864ce9d774e2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd87d0e71cf5fc65927b72654a7561222b7bfd0f5e9c7b7b8b609c36f19d3774
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,19 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Pescador
+- Cessação de Actividade
 - Contribuições da Segurança Social
 - Direcção Geral das Pescas e Aquicultura
-- Cessação de Actividade
+- Embarcação de Pesca
+- Ifadap
 - Impresso
+- Intervenção Operacional Pescas
 - Pesca
+- Pescador
 - Prémio
 - Prémio de Imobilização
 - QCA III
-- Intervenção Operacional Pescas
 - Regulamento CE
-- Ifadap
-- Embarcação de Pesca
 - Segurança Social
 - Subsídio não Reembolsável
 relationships:
@@ -86,6 +86,13 @@ relationships:
   target: pt:dre:638171:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:638171:por
+  label: "Fixada em 15.06.2007 a data limite para apresentação de candidaturas ao regime de apoio e derrogado o disposto no\
+    \ nº 1 do nº 5º da Port 1261/2001 de 31-Out, com a redacção do presente diploma, pela PORT.688/2007.05.06.2007.MADRP,\
+    \ DR.IS [108] de 05.06.2007 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/688-2007-638171
+  date: '2007-06-05'
 - type: cites
   target: celex:31999R2792
   label: null
@@ -97,13 +104,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:11Z'
   warnings: []
   errors: []
 ---

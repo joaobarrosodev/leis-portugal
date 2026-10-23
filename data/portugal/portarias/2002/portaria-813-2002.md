@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/813/2002/07/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/813-2002-199663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c88facecd54b6cd2116e14d3cfbea10e00388d6b961562d1d7dd70ce8152624
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50469c2dc932816803be6f2338348b49018ae234b13ab294ac2a9aecdc0f1f1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,18 @@ relationships:
   target: pt:dre:248026:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:545007:por
+  label: "Desanexados vários prédios rústicos da zona de caça criada na Port 722-U3/92, de 15-Jul, com a redacção constante\
+    \ do presente diploma, pela PORT.1352/2006.28.11.2006.MADRP, DR.IS [229] de 28.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1352-2006-545007
+  date: '2006-11-28'
+- type: amended_by
+  target: pt:dre:248026:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pela Port 722-U3/92, de 15-Jul, alterada pelo\
+    \ presente diploma, pela PORT.149/2008.14.02.2008.MADRP, DR.IS [32] de 14.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/149-2008-248026
+  date: '2008-02-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -92,16 +104,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/770/2000/09/13/p/dre
   label: null
   source: http://data.dre.pt/eli/port/770/2000/09/13/p/dre
+- type: cites
+  target: pt:dre:491915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:572104:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:32Z'
   warnings: []
   errors: []
 ---

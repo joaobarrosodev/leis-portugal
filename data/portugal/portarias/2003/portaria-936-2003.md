@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/936/2003/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/936-2003-510436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2e285202f9209e85c79053add2becb4fb4e21e110934bd1d2ac3a3f33f091ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de6a2f77e10de216b17edf107433f88b504139a5a8c983256a2e08915f2a2d30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Agricultura
 - Apoio ao Investimento
 - Exploração Agrícola
 - Exploração Florestal
+- Financiamento
+- Investimento Privado
+- Programa AGRO
 - QCA III
 - Regulamento
-- Programa AGRO
-- Agricultura
-- Investimento Privado
 relationships:
 - type: amended_by
   target: pt:dre:218301:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:272609:por
+  label: "Alterados os arts. 6.º, 9.º e 11.º do Regulamento aprovado pelo presente diploma, pela PORT.678/2004.19.06.2004.MADRP,\
+    \ DR.IS-B [143] de 19.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/678-2004-272609
+  date: '2004-06-19'
+- type: amended_by
+  target: pt:dre:218301:por
+  label: "Alterados os arts. 2º, 4º, 6º, 7º e 8º do Regulamento aprovado pelo presente diploma, alterado pela Port 678/2004\
+    \ de 19-Jun, e republicado com todas as alterações pela PORT.1463/2004.15.12.2004.MAPF, DR.IS-A [292] de 15.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1463-2004-218301
+  date: '2004-12-15'
 - type: cites
   target: celex:32000R1685
   label: null
@@ -91,13 +103,13 @@ relationships:
 article_structure:
   article_count: 19
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:52:12Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +134,7 @@ Ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, 
 
 Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, que seja aprovado o Regulamento de Aplicação da Medida n.º 6, «Engenharia Financeira», do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado por Programa AGRO, em anexo ao presente diploma e do qual faz parte integrante.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Agosto de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 18 de Agosto de 2003.
 
 ## ANEXO
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/228000000/0045000451.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1006-2024-897667142
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32eda42f65e33d31356c2be3bffefafc08f4ce72c4dd7e344e53dde7a83cbe14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11515cf495d818066a00f459cff787949841b2bcb23d48ef570ae27cc85d9975
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:887311469:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:08Z'
   warnings: []
   errors: []
 ---
@@ -109,7 +113,9 @@ e) Divisão Comercial e Clientes (DCC)
 
 a) Gabinete de Planeamento, Controlo e Gestão da Qualidade (PGQ);
 
-###### Artigo 3.º — Divisão de Serviços de Equipamento
+Artigo 3.º
+
+Divisão de Serviços de Equipamento
 
 1 - À Divisão de Equipamento e Manutenção (DEM),»
 
@@ -137,8 +143,12 @@ e) Divisão Comercial e Clientes (DCC)
 
 a) Gabinete de Planeamento, Controlo e Gestão da Qualidade (PCQ);
 
-###### Artigo 3.º — Divisão de Equipamentos e Manutenção
+Artigo 3.º
+
+Divisão de Equipamentos e Manutenção
 
 1 - À Divisão de Equipamentos e Manutenção (DEM),»
 
 11 de outubro de 2024. - O Presidente do Conselho de Administração, Jorge Miguel da Silva de Jesus.
+
+318220726

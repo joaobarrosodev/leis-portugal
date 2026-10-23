@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/056b00/18721873.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/204/2002/03/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/204-2002-250412
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df3d5e59745d9ebbe74cfea8523f7c92f468083eb5c3c5dc7410a4c3d04ed4fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f06e144e6a8ed25fd0656d270855376d9f913a02749d921b350f4539e8fc993d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,17 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
+- Ecologia
+- Exploração Florestal
 - Financiamento
 - Gestão Financeira
-- Ecologia
+- Ifadap
 - Investimento
+- Medida Agris
+- Programa AGRO
 - Proteção do Ambiente
-- Exploração Florestal
 - QCA III
 - Regulamento
-- Programa AGRO
-- Medida Agris
-- Ifadap
 relationships:
 - type: amended_by
   target: pt:dre:239653:por
@@ -95,16 +95,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/52/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/52/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642680:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239653:por
+  label: "Revogada pela PORT.327/2003.2003.04.21.MADRP, DR.IS-B [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/327-2003-239653
+  date: '2003-04-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:46Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +150,9 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 2 - A apresentação das candidaturas faz-se durante os meses de Março ou Setembro, consoante se trate, respectivamente, da prevenção de riscos provocados por agentes bióticos ou por agentes abióticos.
 
-###### Artigo 18.º — [...]
+Artigo 18.º
+
+[...]
 
 1 - ...
 
@@ -145,4 +164,4 @@ Manda o Governo, pelos Ministros do Planeamento e da Agricultura, do Desenvolvim
 
 2.º No corrente ano há lugar a um período excepcional de candidatura às ajudas previstas no capítulo III do Regulamento referido no número anterior, que decorre durante o mês de Maio, decorrendo o prazo para análise e decisão destas candidaturas entre 1 de Junho e 31 de Julho.
 
-**A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira, em 14 de Fevereiro de 2002. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 7 de Fevereiro de 2002.**
+A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira, em 14 de Fevereiro de 2002. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 7 de Fevereiro de 2002.

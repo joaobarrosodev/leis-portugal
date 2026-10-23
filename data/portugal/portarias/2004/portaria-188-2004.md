@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/188/2004/02/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/188-2004-568899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83f51ce988490257bb85e414115a731ec5ca643450f7583f5c8a6840b0c996d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac2370dec9a1a0ed934e2ff8a9125b5b1a01109c01aaa2f7a36cae0c10c8bf56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,36 +65,46 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
 - Apoio ao Investimento
-- Projeto de Investimento
+- Comércio
+- Financiamento
+- IAPMEI
 - Microempresa
 - Pequenas e Médias Empresas
-- Regulamento
 - PME
+- Projeto de Investimento
+- Regulamento
 - Regulamento de Execução do Sistema de Incentivos a Projectos de Urbanismo Comercial (urbcom)
-- IAPMEI
-- Comércio
 - Urbcom
 relationships:
 - type: amended_by
   target: pt:dre:628011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:628011:por
+  label: "Alterado o nº 1.3.6 do anexo I do Regulamento pela PORT.1635/2007.31.12.2007.MFAP, DR.IS [251] de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1635-2007-628011
+  date: '2007-12-31'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
   source: http://data.europa.eu/eli/reco/1996/280/oj
+- type: corrected_by
+  target: pt:dre:223824:por
+  label: "Rectificada pela DECL-RECT.33/2004.31.03.2004.PCM, DR.IS-B [90] de 16.04.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/33-2004-223824
+  date: '2004-03-31'
 article_structure:
   article_count: 40
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:44Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +139,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças, da Economia e das Ci
 
 Em 3 de Fevereiro de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
 
 ## ANEXO — REGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS A PROJECTOS DE URBANISMO COMERCIAL (URBCOM)
 
@@ -817,7 +827,7 @@ Projecto de forte reestruturação funcional - investimentos em a. i. que visem 
 
 Consoante a distribuição dos investimentos nas referidas áreas de impacte, poderão ocorrer as seguintes situações:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/048b00/10121022.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/048b00/10121022.pdf)](https://files.diariodarepublica.pt/1s/2004/02/048b00/10121022.pdf)
 
 A QP será forte quando o valor do investimento elegível afecto às áreas de impacte consideradas de forte atractividade e ou forte reestruturação funcional (indicadores I(índice AF) e I(índice BF), respectivamente) for superior a 40% do IET, sendo necessário que o valor do investimento elegível, repartido pelas áreas de impacte do outro critério (indicadores I(índice A) e I(índice B)), seja representativo de, pelo menos, 10% do IET.
 
@@ -827,4 +837,4 @@ Nos restantes casos a QP será média.
 
 (n.º 1 do artigo 20.º)
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/048b00/10121022.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/048b00/10121022.pdf)](https://files.diariodarepublica.pt/1s/2004/02/048b00/10121022.pdf)

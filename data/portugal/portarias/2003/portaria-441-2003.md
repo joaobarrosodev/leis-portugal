@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/441/2003/05/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/441-2003-545630
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60e562c2c13cfca66c8d56ecb70a1a8dc22f053e76b26a4511b2e63a5e9011d1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bd3bd4e22e2343da9d94167c2c2cbd1cdaa641ec37dd34e67802bac6ad0283e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Desenvolvimento Económico
 - Empresa
+- Financiamento
 - Investigação Científica e Tecnológica
 - Mudança Tecnológica
-- Projeto de Investimento
-- Desenvolvimento Económico
 - Política de Investigação e Desenvolvimento
+- Projeto de Investimento
 - Regulamento
 - Setor Empresarial
 relationships:
@@ -80,6 +80,15 @@ relationships:
   target: pt:dre:514215:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:514215:por
+  label: "Dada nova denominação ao Sistema de Incentivos à Criação de Núcleos de Investigação e Desenvolvimento Tecnológico\
+    \ no Sector Empresarial - que passa a designar-se NITEC; remetidas para o PRIME(aprovado pela Res 101/2003 de 10-Jul)\
+    \ todas as referências ao Programa Operacional da Economia (POE) constantes deste diploma; e suprimida a al. f) do nº\
+    \ 1 do art. 7º do Regulamento de Execução constante do anexo deste diploma, pela PORT.911/2003.2003.08.30.MF DR.IS-B [200]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/911-2003-514215
+  date: '2003-08-30'
 - type: cites
   target: eli:http://data.europa.eu/eli/reco/1996/280/oj
   label: null
@@ -87,13 +96,13 @@ relationships:
 article_structure:
   article_count: 18
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:14Z'
   warnings: []
   errors: []
 ---
@@ -112,7 +121,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Economia, que se
 
 Em 7 de Maio de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva.
 
 ## ANEXO A
 
@@ -156,7 +165,7 @@ g) Apresentar uma situação económico-financeira equilibrada, verificada pelo 
 
 h) Possuir capacidade técnica e de gestão ajustada aos requisitos dos projectos a executar pelo núcleo de I&DT no âmbito do respectivo plano de actividades, ou demonstrar que irá possuir estas capacidades em resultado da colaboração de entidades do Sistema Científico e Tecnológico Nacional (SCTN);
 
-i) Possuir um sistema de controlo adequado à análise e acompanhamento dos projectos a desenvolver pelo núcleo de I&DT;
+i) Possuir um sistema de controlo adequado à análise e acompanhamento dos projectos a desenvolver pelo núcleo de I&DT
 
 j) Não possuir qualquer núcleo ou departamento de I&DT.
 
@@ -242,7 +251,7 @@ A entidade responsável pela gestão do presente Sistema de Incentivos é a Agê
 
 2 - No âmbito das competências definidas no número anterior, à entidade gestora caberá nomeadamente:
 
-a) Verificar as condições de elegibilidade dos promotores e dos núcleos de I&DT;
+a) Verificar as condições de elegibilidade dos promotores e dos núcleos de I&DT
 
 b) Analisar as candidaturas na sua globalidade e emitir pareceres sobre os incentivos a atribuir;
 

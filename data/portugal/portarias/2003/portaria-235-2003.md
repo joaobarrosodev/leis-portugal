@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/235/2003/03/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/235-2003-216095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-10-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07f4f5f3aa04db606b0498fbce3b59c9cfa4ea2361b4df75fe87980148c82f48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b241478d0854fa8332fa84e1d77da1e4154963490e69fa5a385c989c351ed2cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Ensino Particular
-- Instituto Superior de Ciências Educativas
 - Ensino Superior
+- Instituto Superior de Ciências Educativas
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:156861:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541399:por
+  label: "Alterado o plano de estudos do Curso de Professores do Ensino Básico-2º Ciclo, variante de Educação Visual e Tecnológica\
+    \ aprovado pela Port 1105/94 de 10-Dez e alterado pelo presente diploma, pela PORT.430/2003.2003.05.22.MCES, DR.IS-B [118]\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/430-2003-541399
+  date: '2003-05-22'
+- type: amended_by
+  target: pt:dre:156861:por
+  label: "Alterado o plano de estudos do curso de professores do Ensino Básico - 2º Ciclo, variante de Educação Visual e Tecnológica\
+    \ constante do anexo da Port 1105/94 de 10-Dez, com a redacção constante do presente diploma, pela PORT.1049/2005.13.10.2005.MCTES,\
+    \ DR.IS-B [197] de 13.10.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1049-2005-156861
+  date: '2005-10-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
   label: null
@@ -91,16 +105,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1105/1994/12/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1105/1994/12/10/p/dre
+- type: cites
+  target: pt:dre:150335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357903:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:533820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566457:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:01Z'
   warnings: []
   errors: []
 ---
@@ -137,7 +175,7 @@ Aplicação
 
 O disposto na presente portaria aplica-se a partir do ano lectivo de 2002-2003, inclusive.
 
-**O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 26 de Fevereiro de 2003.**
+O Ministro da Ciência e do Ensino Superior, Pedro Lynce de Faria, em 26 de Fevereiro de 2003.
 
 ## ANEXO — Instituto Superior de Ciências Educativas
 
@@ -149,22 +187,22 @@ QUADRO N.º 1
 
 1.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
 
 QUADRO N.º 2
 
 2.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
 
 QUADRO N.º 3
 
 3.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
 
 QUADRO N.º 4
 
 4.º ano
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)
+[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)](https://files.diariodarepublica.pt/1s/2003/03/064b00/18291831.pdf)

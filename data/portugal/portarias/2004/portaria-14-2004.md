@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/14/2004/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/14-2004-241026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b45e0a90ba90059a5e7efa671e74836b6727f5db4737097bb3469fc32f8331ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a54a2b07a1baecda4ee32c9a13d4e5aeb986afe37fb5bbb6e8b3b89eba803d44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
 subjects:
 - Alvará
 - Construção Civil
-- Obras Particulares
 - Empreiteiro de Obras Públicas
 - Indústria da Construção
+- Obras Particulares
 - Obras Públicas
 - Qualificação Profissional
 relationships:
@@ -85,16 +85,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241183:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67377968:por
+  label: Revogada, a partir de 03.07.2015, pelo(a) Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03
+    sem prejuízo do disposto no art. 53.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/41-2015-67377968
+  date: '2015-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:47Z'
   warnings: []
   errors: []
 ---
@@ -177,4 +191,4 @@ o) Impermeabilizações e isolamentos.
 
 11.º A presente portaria produz efeitos à data da entrada em vigor do [Decreto-Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2004-241183), de 9 de Janeiro.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 9 de Janeiro de 2004.**
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 9 de Janeiro de 2004.

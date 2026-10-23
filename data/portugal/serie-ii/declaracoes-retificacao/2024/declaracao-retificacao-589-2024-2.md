@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/152000000/0022400224.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/589-2024-875590792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5e7a117ece09975b0b0b51355238376250f351a4cda0088ab3627a46f345284
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 119c4ae5748ed6b3df32cfd9da35634b1d22e5f3773ce77d1b36687d2c095bca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,24 +65,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:45Z'
   warnings: []
   errors: []
 ---
 
 # Declaração de Retificação n.º 589/2024/2
 
-Nos termos do artigo 174.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e dos n.<sup>os</sup>2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 6130/2024, publicado no Diário da República, 2.ª série, n.º 105, de 31 de maio de 2024, que designa Graça Maria Vitorino da Fonseca Jorge para exercer as funções de técnica especialista no meu Gabinete, saiu com a seguinte inexatidão, pelo que, mediante declaração da entidade emitente, assim se retifica:
+Nos termos do artigo 174.º do [Decreto-Lei n.º 4/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2015-66041468), de 7 de janeiro, na sua redação atual, e dos n.os2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que o Despacho n.º 6130/2024, publicado no Diário da República, 2.ª série, n.º 105, de 31 de maio de 2024, que designa Graça Maria Vitorino da Fonseca Jorge para exercer as funções de técnica especialista no meu Gabinete, saiu com a seguinte inexatidão, pelo que, mediante declaração da entidade emitente, assim se retifica:
 
 Onde se lê:
 
@@ -90,6 +98,8 @@ Onde se lê:
 
 deve ler-se:
 
-"3 - Para efeitos do disposto nos n.<sup>os</sup>6 e 8 do artigo 13.º do mencionado decreto-lei, a designada opta pelo estatuto remuneratório correspondente ao posto de trabalho de origem."
+"3 - Para efeitos do disposto nos n.os6 e 8 do artigo 13.º do mencionado decreto-lei, a designada opta pelo estatuto remuneratório correspondente ao posto de trabalho de origem."
 
 22 de julho de 2024. - A Ministra do Ambiente e Energia, Maria da Graça Martins da Silva Carvalho.
+
+317942921

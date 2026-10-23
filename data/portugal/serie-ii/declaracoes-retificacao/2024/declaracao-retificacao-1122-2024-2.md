@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1122-2024-901403515
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de5b357af7b02c1444750cc43480da7bf3a3fc8d4d83d206263053fda3affaa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce6733ae3dc38930b91c4c6746dacd0b4192f8b9ea86ddb829ab9928b8fc9c78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aeródromo
+- Aeroporto
+- ÁREA de Jurisdição
+- Autoridade Nacional de Segurança da Aviação Civil
+- Aviação Civil
+- Cartão de Identificação
+- Rectificação de Entidade Emitente
+- Regulamento CE
+relationships:
+- type: cites
+  target: pt:dre:1575351:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:885207603:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:944/2024
+  label: Retifica, com efeitos a 1 de setembro de 2024, o n.º 5 do artigo 6.º, artigo 8.º, n.º 2 do artigo 9.º, n.º 2 do artigo
+    10.º, n.º 2 do artigo 11.º, artigos 20.º e 23.º e retifica o anexo II, do Regulamento n.º 944/2024, de 22 de agosto, Diário
+    da República n.º 162/2024, Série II
+  source: null
+  date: '2024-08-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:49Z'
   warnings: []
   errors: []
 ---
@@ -123,19 +150,19 @@ deve ler-se:
 
 4 - No n.º 2 do artigo 10.º, onde se lê:
 
-«d) O código de cores e letras previstos nos n.<sup>os</sup>4 e 5 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
+«d) O código de cores e letras previstos nos n.os4 e 5 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
 
 deve ler-se:
 
-«d) O código de cores e letras previstos nos n.<sup>os</sup>5 e 6 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
+«d) O código de cores e letras previstos nos n.os5 e 6 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
 
 5 - No n.º 2 do artigo 11.º, onde se lê:
 
-«c) O código de cores e letras previstos nos n.<sup>os</sup>4 e 5 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
+«c) O código de cores e letras previstos nos n.os4 e 5 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
 
 deve ler-se:
 
-«c) O código de cores e letras previstos nos n.<sup>os</sup>5 e 6 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
+«c) O código de cores e letras previstos nos n.os5 e 6 do artigo 4.º, de acordo com a necessidade de acesso dos respetivos titulares;»
 
 6 - No artigo 20.º, onde se lê:
 
@@ -178,3 +205,5 @@ deve ler-se:
 3 - Nome do titular do cartão.»
 
 4 de dezembro de 2024. - A Presidente do Conselho de Administração, Ana Vieira da Mata.
+
+318432339

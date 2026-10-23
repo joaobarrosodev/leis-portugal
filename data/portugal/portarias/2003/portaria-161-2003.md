@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/161/2003/02/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/161-2003-190589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4befa1c9d72aa6cbe6ef4c7ad719b47337a25b679542edffa9d5e1f8e9feb89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52ca59cccaa538324ac75e3e41e122a4330adc157734c77c96449e1dd11321da
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,20 +67,39 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
-- Silvicultura
-- Arborização
 - Apoio ao Investimento
-- Projeto de Investimento
+- Arborização
 - Exploração Florestal
-- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Financiamento
 - Política Agrícola
 - Programa AGRO
+- Projeto de Investimento
+- Regulamento de Aplicação das Acções 3.1 e 3.2-apoio à Silvicultura e Restabelecimento do Potencial de Produção Silvícola
+- Silvicultura
 relationships:
 - type: amended_by
   target: pt:dre:631650:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:445744:por
+  label: "Alterados os arts. 7º, 10º, 11º, 17º e 19º e os anexos VI e VII do Regulamento aprovado pela Port 448-A/2001, de\
+    \ 03-Mai, com a redacção dada pela Port 388/2002, de 11-Abr e pelo presente diploma, pela PORT.1291/2003.18.11.2003.MADRP,\
+    \ DR.IS-B [267] de 18.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1291-2003-445744
+  date: '2003-11-18'
+- type: amended_by
+  target: pt:dre:261879:por
+  label: "Alterados os arts. 6.º e 9.º do Regulamento aprovado pela Port 448-A/2001, de 03-Mai DR.IS-B [102]Supl, na redacção\
+    \ dada pelo presente diploma, pela PORT.590/2004.02.06.2004.MADRP, DR.IS-B [129] de 02.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/590-2004-261879
+  date: '2004-06-02'
+- type: amended_by
+  target: pt:dre:631650:por
+  label: "Alterados os arts. 6º, 9º e 16º do Regulamento aprovado pela Port 448-A/2001 de 03-Mai, com a redacção constante\
+    \ do presente diploma, pela PORT.456/2006.16.05.2006.MADRP, DR.IS-B [94] de 16.05.2006 \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/456-2006-631650
+  date: '2006-05-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -93,16 +112,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/448-a/2001/05/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/448-a/2001/05/03/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531186:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:31Z'
   warnings: []
   errors: []
 ---
@@ -151,7 +182,9 @@ g) ...
 
 3 - ...
 
-###### Artigo 9.º — [...]
+Artigo 9.º
+
+[...]
 
 1 - ...
 
@@ -167,7 +200,9 @@ g) ...
 
 7 - ...
 
-###### Artigo 16.º — [...]
+Artigo 16.º
+
+[...]
 
 ...
 
@@ -189,7 +224,9 @@ h) [Anterior alínea g).]
 
 ...
 
-## ANEXO VI — [...]
+ANEXO VI
+
+[...]
 
 ...
 
@@ -199,4 +236,4 @@ Em povoamentos mistos em que a espécie principal seja o sobreiro ou a azinheira
 
 2.º São revogados a subalínea iii) da alínea b) do artigo 3.º e o n.º 3 do artigo 4.º do Regulamento aprovado pela portaria referida no número anterior.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 3 de Fevereiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 3 de Fevereiro de 2003.

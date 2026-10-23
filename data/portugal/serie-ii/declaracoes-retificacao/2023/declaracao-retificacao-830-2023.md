@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/10/211000000/0054500545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,36 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/830-2023-223596742
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-10-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 729a09020052bf1114acf62ebd10a446ab8049090b76285cd128afd02e93d48f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d3730537770e6391570f71c3abe20c20343e9364595220d7236aa2f6dd53c6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Energia Elétrica
+- Entidade Reguladora dos Serviços Energéticos
+- Gás
+- Regulamento
+- Regulamento de Relações Comerciais
+- Sistema Elétrico Nacional
+- Sistema Nacional de Gás
+relationships:
+- type: cites
+  target: pt:dre:216305857:por
+  label: null
+  source: null
+- type: corrects
+  target: pt:numero:regulamento:827/2023
+  label: Retifica, o n.º 8 do artigo 36.º (passando a alínea g), do n.º 7 do artigo 36.º), o n.º 3 do artigo 51.º e n.º 11
+    do artigo 79.º, do Regulamento n.º 827/2023, de 28 de julho, Diário da República n.º 146/2023, Série II
+  source: null
+  date: '2023-07-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:17Z'
   warnings: []
   errors: []
 ---
@@ -112,3 +129,5 @@ deve ler-se:
 «Artigo 79.º, n.º 11 - No caso dos clientes em baixa tensão normal ou com consumo anual de gás inferior ou igual a 10 000 m3 (n), a interrupção do fornecimento por facto imputável ao cliente não pode ter lugar no último dia útil da semana ou na véspera de um feriado, salvo nos casos previstos nas alíneas f) e g) do n.º 1 do artigo anterior.»
 
 13 de outubro de 2023. - O Presidente do Conselho de Administração, Pedro Verdelho. - O Vogal do Conselho de Administração, Ricardo Loureiro.
+
+316956771

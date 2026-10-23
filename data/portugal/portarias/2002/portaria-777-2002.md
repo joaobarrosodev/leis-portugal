@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/777/2002/07/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/777-2002-142728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78cd1983d7e21df3c9b8ff014762f61cc59c6385ae51728fa1320a9bba6c35de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f8353e458e34fdb536b29fb8cb58ae6703e08e7478553f18669d834c13ae577
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,19 @@ relationships:
   target: pt:dre:546246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:518217:por
+  label: "Suspenso, pelo prazo máximo de 9 meses, o exercício da caça e de actividades de carácter venatório na zona de caça\
+    \ associativa concessionada pela Port 896-Z/95, de 15-Jul, alterada pelo presente diploma, pela PORT.736/2004.28.06.2004.MADRP,\
+    \ DR.IS-B [150] de 28.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/736-2004-518217
+  date: '2004-06-28'
+- type: amended_by
+  target: pt:dre:546246:por
+  label: "Renovada, por doze anos, a concessão da zona de caça associativa atribuída pela Port 896-Z/95, de 15-Jul, alterada\
+    \ pela presente portaria, pela PORT.1400/2004.12.11.2004.MAPF, DR.IS-B [266] de 12.11.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1400-2004-546246
+  date: '2004-11-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -86,16 +99,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/896-z/1995/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/896-z/1995/07/15/p/dre
+- type: cites
+  target: pt:dre:211196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:18Z'
   warnings: []
   errors: []
 ---

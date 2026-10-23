@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/834/2003/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/834-2003-660118
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 842a6fe87bb13065488e30b7552b89b04116a0103b83d88912b56b262b78ffa1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f17bdb1e2e8a87d7ad5eacd751f3269b658321d42aaddccde082d04959e343df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,24 +70,28 @@ subjects:
 - Estabelecimento Prisional
 - Mangualde
 - Oliveira de Frades
-- Zona de Proteção
 - Ponta do SOL
 - Santa Comba DÃO
 - Santa CRUZ
 - são Pedro do SUL
 - são Vicente
 - Tondela
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:160738:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:32Z'
   warnings: []
   errors: []
 ---
@@ -102,4 +106,4 @@ Assim:
 
 Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Habitação, nos termos da alínea g) do artigo 199.º da Constituição, que se proceda à anulação das referidas zonas de protecção e ónus.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 22 de Julho de 2003.**
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 22 de Julho de 2003.

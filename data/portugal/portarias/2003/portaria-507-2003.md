@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/507/2003/06/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2003-693177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83d5b431bf812983816e44570c15cac80f59b8f90ccda0d8004b9d6348efc450
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80d30b1300dbb94e51fc47d4c2a05f1059db0059f16b2f2693e6b9336e280e56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,33 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/775/1998/09/16/p/dre
   label: null
   source: http://data.dre.pt/eli/port/775/1998/09/16/p/dre
+- type: cites
+  target: pt:dre:241267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:434238:por
+  label: "Rectificada pela DECL-RECT.10-E/2003.2003.07.14.PCM, DR.IS-B [175]2ºSupl de 31/Jul/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/10-e-2003-434238
+  date: '2003-07-14'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:37Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +133,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Cultura, o segui
 
 Em 21 de Maio de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - Pelo Ministro da Cultura, José Manuel Amaral Lopes, Secretário de Estado Adjunto do Ministro da Cultura.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - Pelo Ministro da Cultura, José Manuel Amaral Lopes, Secretário de Estado Adjunto do Ministro da Cultura.
 
 MAPA ANEXO
 

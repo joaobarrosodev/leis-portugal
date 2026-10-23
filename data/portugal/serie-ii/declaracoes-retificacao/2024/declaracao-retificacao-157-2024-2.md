@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:854052278:por
 title: Declaração de Retificação n.º 157/2024/2
 short_title: null
-summary: Procede à retificação do Edital n.º 1837/2023, publicado no <em>Diário da República</em>, 2.ª série, n.º 203, de
-  19 de outubro de 2023.
+summary: Procede à retificação do Edital n.º 1837/2023, publicado no  Diário da República, 2.ª série, n.º 203, de 19 de outubro
+  de 2023.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/03/045000000/0011700117.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/157-2024-854052278
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b3e10269929ada167bee9971019411680c410d4e2246460f409d8b43ee39a3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 071dab3f0aa5ce08127f5d23b814876f4f26dec09dfd0b86b4ec9340cfcbd238
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222935359:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:08Z'
   warnings: []
   errors: []
 ---
@@ -98,3 +102,5 @@ CF = DTCP*(dtcp1*Pdtcp1 + dtcp2*Pdtcp2 + dtcp3*Pdtcp3) + CP*(cp1*Pcp1 + cp2*Pcp2
 O prazo de candidatura de 30 dias úteis reinicia-se a partir do dia útil imediato ao da publicação desta retificação no Diário da República.
 
 31 de janeiro de 2024. - O Presidente, Carlos Manuel da Silva Rodrigues.
+
+317332578

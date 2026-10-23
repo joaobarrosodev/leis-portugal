@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/579/2003/07/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/579-2003-671020
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b1fbc96228b59fc6d1e740130cd03f1de7f9e8252cf18b1917b37c007098439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf41418223fb814efb4d5a233a9fd61c68db8eaeeb23655310db3d245671a13e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,32 @@ relationships:
   target: pt:dre:603188:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271251:por
+  label: "Suspenso o exercício da caça e actividades de carácter venatório na zona de caça concessionada pela Port 540/92,\
+    \ de 23-Jun, alterada pelo presente diploma, pela PORT.725/2004.24.06.2004.MADRP, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-2004-271251
+  date: '2004-06-24'
+- type: amended_by
+  target: pt:dre:528426:por
+  label: "Renovada por doze anos a concessão da zona de caça turística atribuída pela Port 540/92, de 23-Jun, alterada pelo\
+    \ presente diploma, pela PORT.1037-N/2004.12.08.2004.MAPF, DR.IS-B [189-Supl] de 12.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1037-n-2004-528426
+  date: '2004-08-12'
+- type: amended_by
+  target: pt:dre:157793:por
+  label: "Transferida para a Alcaçar Grupo Amigo, a concessão da zona de caça concessionada à A.T.-Exploração Agro-Pecuária\
+    \ pela Port 540/92 de 23-Jun, alterada pelo presente diploma, pela PORT.990/2005.06.10.2005.MADRP, DR.IS-B [192] de 06.10.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/990-2005-157793
+  date: '2005-10-06'
+- type: amended_by
+  target: pt:dre:603188:por
+  label: "Anexado um prédio rústico à zona de caça atribuída pela Port 540/92, de 23-Jun, alterada pelo presente diploma,\
+    \ pela Port 1037-N/2004, de 12-Ago e pela Port 990/2005, de 06-Out, pela PORT.25/2009.15.01.2009.MADRP, DR.IS [10] de\
+    \ 15.01.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/25-2009-603188
+  date: '2009-01-15'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -94,16 +120,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/540/1992/06/23/p/dre
   label: null
   source: http://data.dre.pt/eli/port/540/1992/06/23/p/dre
+- type: cites
+  target: pt:dre:303423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:02Z'
   warnings: []
   errors: []
 ---

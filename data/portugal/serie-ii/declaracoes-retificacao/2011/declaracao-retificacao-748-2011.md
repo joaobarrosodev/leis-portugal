@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/079000000/1806518065.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/748-2011-3593218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae7e43c30fb67d0d07a9ed66887ec43e6c7d38e75090e8ce77f21bf3450bf3e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f3ba66e8baf8bae1da5226671a2c1804fca913e7befc290c215c07f068e7a7b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:29Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 748/2011
 Por ter saído com inexactidão a publicação inserta no Diário da República, 2.ª série, n.º 62 de 29 de Março de 2011, a p. 14792, deliberação (extracto) n.º 822/2011, rectifica-se que onde se lê «Ana Cristina Pereira de Pinho, Assistente Graduada de Ginecologia/Obstetrícia (...) exonerada a seu pedido» deve ler-se «Ana Cristina Pereira de Pinho, assistente graduada de ginecologia/obstetrícia (...) exonerada a seu pedido desde 1 de Março de 2011».
 
 14 de Abril de 2011. - A Directora do Serviço de Gestão de Recursos Humanos, Paula Cristina Silva Ribeiro.
+
+204589431

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/041000000/1018910194.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/485-2011-3604638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19974095cb2ed974c51406b1bac3cacdeb8d76629fff6b5ca8fd491b82410be2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e48d3ddd06a5d0de9cc519d2cf2cafab398ca017e7227fd112f1494d591da71e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 34
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:58Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,9 @@ Nos artigos 10.º, 11.º, 17.º, 19.º, 20.º, 22.º, 25.º, 26.º, 30.º, 31.º
 
 «[...]
 
-###### Artigo 10.º — Qualificação do solo
+Artigo 10.º
+
+Qualificação do solo
 
 1 - A área de intervenção do presente Plano encontra-se dividida nas seguintes categorias de uso do solo:
 
@@ -108,7 +110,9 @@ g) Espaço verde de produção
 
 2 - A Estrutura verde de protecção é uma estrutura transversal a todas as categorias de uso do solo.
 
-###### Artigo 11.º — Incompatibilidade com o uso residencial
+Artigo 11.º
+
+Incompatibilidade com o uso residencial
 
 Considera-se que existe incompatibilidade com o uso residencial quando qualquer outra actividade, designadamente de comércio, serviços, equipamentos, oficinas, indústrias ou armazéns, crie, de forma inaceitável, pelo menos, uma das seguintes situações:
 
@@ -122,7 +126,9 @@ k) Possua dimensões não conformes com a escala urbana local.
 
 [...]
 
-###### Artigo 17.º — Espaços Verdes de Recreio e Lazer
+Artigo 17.º
+
+Espaços Verdes de Recreio e Lazer
 
 1 - Este espaço, pertencente ao domínio privado municipal, destina-se ao uso de recreio e lazer da população, bem como à instalação de equipamentos de ocupação colectiva, nela não sendo admissível qualquer edificação, com a excepção dos campos de jogos e respectivo edifício de apoio, bancadas e muros ou vedações de protecção contra a intrusão e do equipamento de uso público, aberto à comunidade, conforme planta de implantação.
 
@@ -144,7 +150,9 @@ o) Reserva para equipamento.
 
 [...]
 
-###### Artigo 19.º — Estrutura verde de protecção
+Artigo 19.º
+
+Estrutura verde de protecção
 
 1 - A estrutura verde de protecção destina-se à salvaguarda da drenagem hídrica do Barranco e do Barranco da Rocha, não sendo permitida a impermeabilização de solos.
 
@@ -154,7 +162,9 @@ p) Áreas dos lotes ou prédios particulares integradas no domínio hídrico, ho
 
 q) Uma galeria ripícola de porte arbóreo, arbustivo e herbáceo, constituída, nomeadamente, por Ulmus procera, Alnus glutinosa, Populus nigra, Fraxinus angustifolia, Salix babylonica, Tamarix africana, na parte que atravessa o Espaço de Actividades Económicas e os Espaços Verdes de Recreio e Lazer,
 
-###### Artigo 20.º — Circulação
+Artigo 20.º
+
+Circulação
 
 1 - Para a área do plano encontram-se previstas:
 
@@ -172,7 +182,9 @@ v) O alargamento da Rua de Moura.
 
 [...]
 
-###### Artigo 22.º — Operações de loteamento
+Artigo 22.º
+
+Operações de loteamento
 
 1 - Na área do plano admite-se a realização das operações de loteamento necessárias para execução dos lotes previstos na planta de implantação.
 
@@ -190,7 +202,9 @@ f) Nos lotes I6 a I 14, só é possível a união entre lotes cujo polígono de 
 
 [...]
 
-###### Artigo 1º — Obras de Urbanização relativas ao Espaço Residencial de Expansão
+Artigo 1º
+
+Obras de Urbanização relativas ao Espaço Residencial de Expansão
 
 1 - A regularização do Barranco a realizar pelo município constitui uma obra de urbanização necessária à execução do plano.
 
@@ -214,7 +228,9 @@ l) O acesso viário F, que visa assegurar a acessibilidade a todos os prédios s
 
 5 - O acesso viário F passará a dar passagem a todos os prédios rústicos resultantes das operações urbanísticas necessárias à constituição dos lotes referidos na alínea c) do número anterior.
 
-###### Artigo 2º — Obras de Urbanização no Espaço de Actividades Económicas
+Artigo 2º
+
+Obras de Urbanização no Espaço de Actividades Económicas
 
 1 - As obras de urbanização necessárias à execução do plano constam, no Espaço de Actividades Económicas, de:
 
@@ -236,7 +252,9 @@ r) Fase 2 - A Rua A e o percurso pedonal junto ao barranco, serão obrigatoriame
 
 [...]
 
-###### Artigo 3º — Construção, ampliação e alteração
+Artigo 3º
+
+Construção, ampliação e alteração
 
 1 - As construções e funções autorizadas são passíveis de alteração ou ampliação nos termos do plano e das disposições legais e regulamentares pertinentes.
 
@@ -264,7 +282,9 @@ w) Nos prédios E29 a E36, a construção do arruamento particular proposto depe
 
 [...]
 
-###### Artigo 4º — Altura das fachadas
+Artigo 4º
+
+Altura das fachadas
 
 1 - No Espaço Residencial Consolidado, devem respeitar-se as seguintes alturas das fachadas máximas:
 
@@ -278,7 +298,9 @@ z) Quanto às restantes construções no interior dos lotes, 3,0 m.
 
 [...]
 
-###### Artigo 5º — Materiais
+Artigo 5º
+
+Materiais
 
 Devem ser respeitados, na área de intervenção do Plano os seguintes critérios:
 
@@ -290,7 +312,9 @@ cc) Não é permitida a colocação de aparelhos de ar condicionado nas fachadas
 
 [...]
 
-###### Artigo 6º — Implantação das construções
+Artigo 6º
+
+Implantação das construções
 
 1 - A cota de soleira das construções principais será feita à cota máxima de 0,2m, tendo por cota base de referência o ponto mais alto do terreno existente situado ao longo da linha que define o perímetro de construção, de acordo com a planta de implantação
 
@@ -304,7 +328,9 @@ ee) o terreno e respectivas cotas, correspondentes ao levantamento topográfico 
 
 [...]
 
-###### Artigo 7º — Altura das fachadas
+Artigo 7º
+
+Altura das fachadas
 
 No Espaço Residencial de Expansão devem respeitar-se as seguintes alturas das fachadas máximas:
 
@@ -316,7 +342,9 @@ hh) Em todas as restantes construções no interior dos lotes de 3 m medidos no 
 
 [...]
 
-###### Artigo 8º — Altura das fachadas e platibandas
+Artigo 8º
+
+Altura das fachadas e platibandas
 
 1 - No Espaço de Actividades Económicas devem respeitar-se as seguintes alturas das fachadas máximas:
 
@@ -328,7 +356,9 @@ jj) Nas partes da construção com 2º piso, a altura máxima das fachadas é de
 
 [...]
 
-###### Artigo 9º — Unidades de Execução
+Artigo 9º
+
+Unidades de Execução
 
 Na área do plano são delimitadas as seguintes unidades de execução, conforme o disposto na planta de implantação e na planta de delimitação das unidades de execução:
 
@@ -338,7 +368,9 @@ ll) Unidade de execução 2 correspondente ao Espaço Residencial de Expansão, 
 
 mm) Unidade de execução 3 correspondente ao Espaço de Actividades Económicas, a parte dos Espaços Verdes de Recreio e Lazer e a parte do Espaço Verde de Produção.
 
-###### Artigo 10º — Sistemas e Instrumentos de Execução
+Artigo 10º
+
+Sistemas e Instrumentos de Execução
 
 1 - A unidade de execução 1 será concretizada através de operações urbanísticas individuais ou promovidas em associação pelos proprietários envolvidos;
 
@@ -350,7 +382,9 @@ oo) Sistema de cooperação entre os titulares dos lotes previstos e a Câmara M
 
 3 - A unidade de execução 3 será concretizada através do sistema de imposição administrativa, com recurso à expropriação por utilidade pública dos terrenos de titularidade privada.
 
-###### Artigo 11º — Acções de perequação compensatória
+Artigo 11º
+
+Acções de perequação compensatória
 
 1 - A estruturação das acções de perequação compensatória na Unidade de Execução 2 terá lugar no âmbito do sistema de cooperação que a abrange parcialmente.
 
@@ -372,7 +406,9 @@ deve ler-se:
 
 «...
 
-###### Artigo 12.º — Qualificação do solo
+Artigo 12.º
+
+Qualificação do solo
 
 1 - A área de intervenção do presente Plano encontra-se dividida nas seguintes categorias de uso do solo:
 
@@ -388,7 +424,9 @@ e) Espaço verde de produção.
 
 2 - A estrutura verde de protecção é uma estrutura transversal a todas as categorias de uso do solo.
 
-###### Artigo 13.º — Incompatibilidade com o uso residencial
+Artigo 13.º
+
+Incompatibilidade com o uso residencial
 
 Considera-se que existe incompatibilidade com o uso residencial quando qualquer outra actividade, designadamente de comércio, serviços, equipamentos, oficinas, indústrias ou armazéns, crie, de forma inaceitável, pelo menos, uma das seguintes situações:
 
@@ -402,7 +440,9 @@ d) Possua dimensões não conformes com a escala urbana local.
 
 ...
 
-###### Artigo 14.º — Espaços verdes de recreio e lazer
+Artigo 14.º
+
+Espaços verdes de recreio e lazer
 
 1 - Este espaço, pertencente ao domínio privado municipal, destina-se ao uso de recreio e lazer da população, bem como à instalação de equipamentos de ocupação colectiva, nela não sendo admissível qualquer edificação, com a excepção dos campos de jogos e respectivo edifício de apoio, bancadas e muros ou vedações de protecção contra a intrusão e do equipamento de uso público, aberto à comunidade, conforme planta de implantação.
 
@@ -424,7 +464,9 @@ d) Reserva para equipamento.
 
 ...
 
-###### Artigo 15.º — Estrutura verde de protecção
+Artigo 15.º
+
+Estrutura verde de protecção
 
 1 - A estrutura verde de protecção destina-se à salvaguarda da drenagem hídrica do barranco e do barranco da Rocha, não sendo permitida a impermeabilização de solos.
 
@@ -434,7 +476,9 @@ a) Áreas dos lotes ou prédios particulares integradas no domínio hídrico, ho
 
 b) Uma galeria ripícola de porte arbóreo, arbustivo e herbáceo, constituída, nomeadamente, por Ulmus procera, Alnus glutinosa, Populus nigra, Fraxinus angustifolia, Salix babylonica, Tamarix africana, na parte que atravessa o espaço de actividades económicas e os espaços verdes de recreio e lazer.
 
-###### Artigo 16.º — Circulação
+Artigo 16.º
+
+Circulação
 
 1 - Para a área do Plano encontram-se previstas:
 
@@ -452,7 +496,9 @@ e) O alargamento da Rua de Moura.
 
 ...
 
-###### Artigo 17.º — Operações de loteamento
+Artigo 17.º
+
+Operações de loteamento
 
 1 - Na área do Plano admite-se a realização das operações de loteamento necessárias para execução dos lotes previstos na planta de implantação.
 
@@ -470,7 +516,9 @@ d) Nos lotes I6 a I14, só é possível a união entre lotes cujo polígono de i
 
 ...
 
-###### Artigo 18.º — Obras de urbanização relativas ao espaço residencial de expansão
+Artigo 18.º
+
+Obras de urbanização relativas ao espaço residencial de expansão
 
 1 - A regularização do barranco a realizar pelo município constitui uma obra de urbanização necessária à execução do Plano.
 
@@ -494,7 +542,9 @@ c) O acesso viário F, que visa assegurar a acessibilidade a todos os prédios s
 
 5 - O acesso viário F passará a dar passagem a todos os prédios rústicos resultantes das operações urbanísticas necessárias à constituição dos lotes referidos na alínea c) do número anterior.
 
-###### Artigo 19.º — Obras de urbanização no espaço de actividades económicas
+Artigo 19.º
+
+Obras de urbanização no espaço de actividades económicas
 
 1 - As obras de urbanização necessárias à execução do Plano constam, no espaço de actividades económicas, de:
 
@@ -516,7 +566,9 @@ c) Fase 2 - a rua A e o percurso pedonal junto ao barranco serão obrigatoriamen
 
 ...
 
-###### Artigo 20.º — Construção, ampliação e alteração
+Artigo 20.º
+
+Construção, ampliação e alteração
 
 1 - As construções e funções autorizadas são passíveis de alteração ou ampliação nos termos do Plano e das disposições legais e regulamentares pertinentes.
 
@@ -544,7 +596,9 @@ e) Nos prédios E29 a E36, a construção do arruamento particular proposto depe
 
 ...
 
-###### Artigo 21.º — Altura das fachadas
+Artigo 21.º
+
+Altura das fachadas
 
 1 - No espaço residencial consolidado, devem respeitar-se as seguintes alturas das fachadas máximas:
 
@@ -558,7 +612,9 @@ c) Quanto às restantes construções no interior dos lotes, 3,0 m.
 
 ...
 
-###### Artigo 22.º — Materiais
+Artigo 22.º
+
+Materiais
 
 Devem ser respeitados, na área de intervenção do Plano os seguintes critérios:
 
@@ -570,7 +626,9 @@ c) Não é permitida a colocação de aparelhos de ar condicionado nas fachadas 
 
 ...
 
-###### Artigo 23.º — Implantação das construções
+Artigo 23.º
+
+Implantação das construções
 
 1 - A cota de soleira das construções principais será feita à cota máxima de 0,2 m, tendo por cota base de referência o ponto mais alto do terreno existente situado ao longo da linha que define o perímetro de construção, de acordo com a planta de implantação
 
@@ -584,7 +642,9 @@ b) O terreno e respectivas cotas, correspondentes ao levantamento topográfico a
 
 ...
 
-###### Artigo 24.º — Altura das fachadas
+Artigo 24.º
+
+Altura das fachadas
 
 No espaço residencial de expansão devem respeitar-se as seguintes alturas das fachadas máximas:
 
@@ -596,7 +656,9 @@ c) Em todas as restantes construções no interior dos lotes de 3 m medidos no P
 
 ...
 
-###### Artigo 25.º — Altura das fachadas e platibandas
+Artigo 25.º
+
+Altura das fachadas e platibandas
 
 1 - No espaço de actividades económicas devem respeitar-se as seguintes alturas das fachadas máximas:
 
@@ -608,7 +670,9 @@ b) Nas partes da construção com 2.º piso, a altura máxima das fachadas é de
 
 ...
 
-###### Artigo 26.º — Unidades de execução
+Artigo 26.º
+
+Unidades de execução
 
 Na área do Plano são delimitadas as seguintes unidades de execução, conforme o disposto na planta de implantação e na planta de delimitação das unidades de execução:
 
@@ -618,7 +682,9 @@ b) Unidade de execução 2 correspondente ao espaço residencial de expansão, a
 
 c) Unidade de execução 3 correspondente ao espaço de actividades económicas, a parte dos espaços verdes de recreio e lazer e a parte do espaço verde de produção.
 
-###### Artigo 27.º — Sistemas e instrumentos de execução
+Artigo 27.º
+
+Sistemas e instrumentos de execução
 
 1 - A unidade de execução 1 será concretizada através de operações urbanísticas individuais ou promovidas em associação pelos proprietários envolvidos.
 
@@ -630,7 +696,9 @@ b) Sistema de cooperação entre os titulares dos lotes previstos e a Câmara Mu
 
 3 - A unidade de execução 3 será concretizada através do sistema de imposição administrativa, com recurso à expropriação por utilidade pública dos terrenos de titularidade privada.
 
-###### Artigo 28.º — Acções de perequação compensatória
+Artigo 28.º
+
+Acções de perequação compensatória
 
 1 - A estruturação das acções de perequação compensatória na unidade de execução 2 terá lugar no âmbito do sistema de cooperação que a abrange parcialmente.
 
@@ -649,3 +717,5 @@ ii) Quando a área de cedência efectuada for inferior à cedência média, o pr
 ...
 
 21 de Fevereiro de 2011. - O Presidente da Câmara, José Maria Prazeres Pós-de-Mina.
+
+204380531

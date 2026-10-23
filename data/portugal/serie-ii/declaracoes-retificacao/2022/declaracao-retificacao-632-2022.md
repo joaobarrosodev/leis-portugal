@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/07/138000000/0013500136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/632-2022-186287446
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T14:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 928e408817731ef681477d389cb56ef2533d6fa1aca36f495ecacb27e039a124
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2ccb2c77f0e781f7391450b5c3077a6df67bc70651d884b89590dadbeb87b70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185656739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185656740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185656741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185656742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185656743:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185656744:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185656745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185768520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185768521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185768522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185768523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185768524:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185768525:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:42:47Z'
   warnings: []
   errors: []
 ---
@@ -123,3 +175,5 @@ deve ler-se:
 «III.2.1 - Curriculum vitae, devidamente datado e assinado, em língua inglesa ou em língua portuguesa.»
 
 8 de julho de 2022. - A Diretora do Serviço de Gestão de Recursos Humanos, Maria Helena da Silva Matos.
+
+315502366

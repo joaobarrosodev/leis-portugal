@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/390/2002/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/390-2002-303379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab608a9e8ec7fbb5bee5c71a2ed7e0ebe175d658fe6378ee05c492f6d99fe684
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9e40c0e3ab585e348b51810d2182ee49dae2cba7959f205022cbc76a8e2c4c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,22 +67,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
+- Administração Local
+- Administração Pública
 - Alcoolismo
 - Bebida Alcoólica
-- Higiene do Trabalho
-- Saúde Pública
-- Administração Pública
-- Segurança no Trabalho
-- Fiscalização
-- Inspecção Geral da Administração Pública
-- Administração Local
-- Regulamento
 - Comércio
+- Fiscalização
+- Higiene do Trabalho
+- Inspecção Geral da Administração Pública
+- Regulamento
+- Saúde Pública
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:260432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:260432:por
+  label: "Determinada a manutenção em vigor, nos termos do art.11.º do presente diploma, pelo DEC LEI.50/2013.16.04.2013.MS,\
+    \ DR.IS [74] de 16.04.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-2013-260432
+  date: '2013-04-16'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/133/1999/04/21/p/dre
   label: null
@@ -107,16 +113,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/resolconsmin/166/2000/11/29/p/dre
   label: null
   source: http://data.dre.pt/eli/resolconsmin/166/2000/11/29/p/dre
+- type: cites
+  target: pt:dre:239225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316728:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684064:por
+  label: null
+  source: null
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:56Z'
   warnings: []
   errors: []
 ---

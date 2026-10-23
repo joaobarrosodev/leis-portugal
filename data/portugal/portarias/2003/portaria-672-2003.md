@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/672/2003/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/672-2003-651875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0dce7218b20f017de2eb4dc54d7989b103fde568c63fda844872620147c157ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e2de134f28ade7c7e1ece44841c73408f1c378895d5c3a4470f47b1db3b4e50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,23 @@ reuse:
 subjects:
 - Ajuda Comunitária
 - Azeite
-- Vinho
-- Leite
-- Produto Hortícola
-- QCA III
-- Projecto Agrícola
-- Regulamento
-- Programa AGRO
-- Ifadap
 - Comércio
+- Ifadap
+- Leite
 - Produto Agrícola
+- Produto Hortícola
+- Programa AGRO
+- Projecto Agrícola
+- QCA III
+- Regulamento
+- Vinho
 relationships:
+- type: amends
+  target: pt:numero:portaria:533-C/2000
+  label: "Altera a alínea c) do n.º 3 do artigo 8.º do Regulamento aprovado pela Portaria n.º 533-C/2000, de 1 de Agosto,\
+    \ DR.IS-B [176]2ºSupl, com a redacção dada pela Portaria n.º 563/2001, de 2 de Junho\0\0"
+  source: null
+  date: '2000-08-01'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/163-a/2000/07/27/p/dre
   label: null
@@ -91,16 +97,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/563/2001/06/02/p/dre
   label: null
   source: http://data.dre.pt/eli/port/563/2001/06/02/p/dre
+- type: cites
+  target: pt:dre:220892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636248:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:36Z'
   warnings: []
   errors: []
 ---
@@ -125,4 +143,4 @@ Manda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o
 
 2.º O presente diploma entra imediatamente em vigor.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 3 de Julho de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 3 de Julho de 2003.

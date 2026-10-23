@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/19/2004/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-2004-241035
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f976f6dd4f836bbc2765453c8ea3d83fbc5281922000d152b2a4611900950eb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 672f3d9c7b5b0d3d60145be9d5f57d3300549ba64024148708ebf1581e47880b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,12 +66,12 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alvará
-- Empresa
 - Construção Civil
-- Obras Particulares
 - Empreiteiro de Obras Públicas
+- Empresa
 - Indústria da Construção
 - Industrial da Construção Civil
+- Obras Particulares
 - Obras Públicas
 - Qualificação Profissional
 relationships:
@@ -87,16 +87,30 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:241183:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:67377968:por
+  label: Revogada, a partir de 03.07.2015, pelo(a) Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03
+    sem prejuízo do disposto no art. 53.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/41-2015-67377968
+  date: '2015-06-03'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:46Z'
   warnings: []
   errors: []
 ---
@@ -253,7 +267,7 @@ que englobam as seguintes subcategorias:
 
 2.º A classificação em empreiteiro geral ou construtor geral, nos termos da alínea a) do n.º 2 do artigo 12.º do [Decreto-Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2004-241183), de 9 de Janeiro, depende da posse cumulativa das subcategorias determinantes, de acordo com o seguinte quadro:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01840187.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01840187.pdf)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01840187.pdf)
 
 3.º Os titulares de certificados concedidos ao abrigo do [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, deverão entregar no IMOPPI, nos 10 dias úteis subsequentes à entrada em vigor da presente portaria, indicação expressa de quais as habilitações, de entre as que têm direito por força da aplicação do disposto no quadro anexo, que não pretendem ou que pretendem em classe mais baixa, nos termos dos n.os 3 e 4 do artigo 57.º do [Decreto-Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2004-241183), de 9 de Janeiro.
 
@@ -261,10 +275,10 @@ que englobam as seguintes subcategorias:
 
 5.º A presente portaria produz efeitos à data da entrada em vigor do [Decreto-Lei n.º 12/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2004-241183), de 9 de Janeiro.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 9 de Janeiro de 2004.**
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 9 de Janeiro de 2004.
 
 ## ANEXO
 
 Correspondência entre as autorizações contidas nos certificados de classificação concedidos ao abrigo do [Decreto-Lei n.º 61/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1999-152528), de 2 de Março, e as habilitações previstas na presente portaria
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01840187.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01840187.pdf)](https://files.diariodarepublica.pt/1s/2004/01/008b00/01840187.pdf)

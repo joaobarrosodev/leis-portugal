@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/69/2003/01/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/69-2003-172724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff5310226769056e1dcffba1949382313c3f79787f25d71255db21a712ccec07
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 915e3c7a21297b3b15a943ea6bfa66bb4fb11d5e2210eccbdfc410cda6f1780c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,28 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
-- Ordenamento do Território
+- Abastecimento de Água
+- Açores
+- Administração Local
+- Administração Regional
 - Construção Civil
-- Obras Particulares
-- Renovação Urbana
-- Política de Transportes
+- Distribuição de Energia Elétrica
+- Madeira.região Autónoma
 - Normas de Construção
 - Normas de Segurança
+- Obras Particulares
 - Obras Públicas
-- Proteção do Ambiente
+- Ordenamento do Território
 - Política de Solos
-- Madeira.região Autónoma
+- Política de Transportes
+- Proteção do Ambiente
 - Protecção do Património
 - Recursos Naturais
-- Administração Local
 - Regulamento
+- Renovação Urbana
 - Segurança das Instalações
 - Segurança dos Edifícios
 - Servidão Administrativa
-- Administração Regional
-- Açores
-- Abastecimento de Água
 - Utilidade Pública
 relationships:
 - type: cites
@@ -96,14 +96,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1991/271/oj
 article_structure:
   article_count: 0
-  section_count: 51
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:41Z'
   warnings: []
   errors: []
 ---
@@ -178,13 +178,17 @@ b) Aditamentos: o diploma em análise procede ao aditamento dos seguintes artigo
 
 31.º-A («Regime transitório de distribuição do FFF»).
 
-#### SECÇÃO II — Técnicos autores dos projectos
+SECÇÃO II
+
+Técnicos autores dos projectos
 
 1.3 - Bases da política e do regime de protecção e valorização do património cultural (Lei n.º 107/2001, de 8 de Setembro) - 5.8:
 
 a) Disposição relativa aos técnicos que elaboram ou subscrevem estudos e projectos para as obras de conservação, modificação, reintegração e restauro em bens classificados, ou em vias de classificação (45.º).
 
-### CAPÍTULO II — Expropriações
+CAPÍTULO II
+
+Expropriações
 
 2.1 - Bases da política e do regime de protecção e valorização do património cultural (Lei n.º 107/2001, de 8 de Setembro) - 5.8:
 
@@ -194,31 +198,47 @@ a) Disposição relativa à expropriação dos bens imóveis classificados ou em
 
 a) Jurisprudência: em processo de expropriação por utilidade pública, havendo recurso da arbitragem e não tendo esta procedido à actualização do valor inicial, o valor fixado na decisão final é actualizado até à notificação do despacho que autorize o levantamento de uma parcela do depósito; daí em diante a actualização incidirá sobre a diferença entre o valor fixado na decisão final e o valor cujo levantamento foi autorizado; tendo havido actualização na arbitragem, só há lugar à actualização, desde a data da publicação da declaração de utilidade pública até à decisão final, sobre a diferença entre o valor fixado na decisão final e o valor cujo levantamento foi autorizado.
 
-### CAPÍTULO III — Servidões administrativas e restrições de utilidade pública
+CAPÍTULO III
 
-#### SECÇÃO I — Domínio público hídrico
+Servidões administrativas e restrições de utilidade pública
+
+SECÇÃO I
+
+Domínio público hídrico
 
 3.1 - Apresentação à Assembleia da República de uma proposta de lei relativa à alteração do Decreto-Lei n.º 468/71, de 5 de Novembro, relativo ao regime jurídico dos terrenos do domínio público hídrico (Resolução da Assembleia Legislativa Regional n.º 23/2001/M, de 27 de Agosto).
 
-### CAPÍTULO IV — Ordenamento do território e urbanismo
+CAPÍTULO IV
 
-#### SECÇÃO I — Exposição Internacional de Lisboa
+Ordenamento do território e urbanismo
+
+SECÇÃO I
+
+Exposição Internacional de Lisboa
 
 4.1 - Bases da concessão intermunicipal do serviço público de gestão urbana de uma área compreendida nos limites da zona de intervenção da EXPO 98 (Decreto-Lei n.º 165/2001, de 23 de Maio).
 
-#### SECÇÃO II — Regime jurídico dos instrumentos de gestão territorial
+SECÇÃO II
+
+Regime jurídico dos instrumentos de gestão territorial
 
 4.2 - Regime jurídico dos instrumentos de gestão territorial (aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, alterado pelo Decreto-Lei n.º 53/2000, de 7 de Abril, adaptado à Região Autónoma dos Açores pelo Decreto Legislativo Regional n.º 14/2000/A, de 23 de Maio): adaptação à Região Autónoma da Madeira (Decreto Legislativo Regional n.º 8-A/2001/M, de 20 de Abril).
 
-#### SECÇÃO III — Instrumentos de desenvolvimento territorial
+SECÇÃO III
+
+Instrumentos de desenvolvimento territorial
 
 4.3 - Plano Regional de Ordenamento do Território para o Algarve (PROTAL): determinação da respectiva revisão (Resolução do Conselho de Ministros n.º 126/2001, de 14 de Agosto).
 
-#### SECÇÃO IV — Instrumentos de política sectorial
+SECÇÃO IV
+
+Instrumentos de política sectorial
 
 4.4 - Elaboração do plano sectorial relativo à implementação da Rede Natura 2000 (Resolução do Conselho de Ministros n.º 66/2001, de 6 de Junho) - 5.7.
 
-#### SECÇÃO V — Instrumentos de planeamento territorial
+SECÇÃO V
+
+Instrumentos de planeamento territorial
 
 A) Disposições gerais
 
@@ -230,7 +250,9 @@ B) Planos de pormenor de salvaguarda
 
 a) Disposição relativa aos planos de pormenor de salvaguarda (53.º).
 
-#### SECÇÃO VI — Controlo administrativo de intervenções de iniciativa particular
+SECÇÃO VI
+
+Controlo administrativo de intervenções de iniciativa particular
 
 A) Licenciamento de operações de loteamento, das obras de urbanização e das obras particulares
 
@@ -418,9 +440,13 @@ C) Relação das disposições legais
 
 4.19 - Relação das disposições legais a observar pelos técnicos responsáveis dos projectos de obras e sua execução: actualização referida a 31 de Dezembro de 2000 (Portaria n.º 1104/2001, de 17 de Setembro).
 
-### CAPÍTULO V — Ambiente, recursos naturais, património arquitectónico e arqueológico
+CAPÍTULO V
 
-#### SECÇÃO I — Ambiente e recursos naturais
+Ambiente, recursos naturais, património arquitectónico e arqueológico
+
+SECÇÃO I
+
+Ambiente e recursos naturais
 
 A) Disposições gerais
 
@@ -450,7 +476,9 @@ E) Rede Natura 2000
 
 5.7 - Elaboração do plano sectorial relativo à implementação da Rede Natura 2000 (Resolução do Conselho de Ministros n.º 66/2001, de 6 de Junho).
 
-#### SECÇÃO II — Património arquitectónico e arqueológico
+SECÇÃO II
+
+Património arquitectónico e arqueológico
 
 5.8 - Bases da política e do regime de protecção e valorização do património cultural (Lei n.º 107/2001, de 8 de Setembro):
 
@@ -466,9 +494,13 @@ Lei n.º 13/85, de 6 de Julho;
 
 Alínea b) do n.º 1 do artigo 9.º e artigos 6.º, 21.º a 30.º e 46.º-A do Decreto-Lei n.º 16/93, de 23 de Janeiro.
 
-### CAPÍTULO VI — Produção animal e silvicultura
+CAPÍTULO VI
 
-#### SECÇÃO I — Produção animal
+Produção animal e silvicultura
+
+SECÇÃO I
+
+Produção animal
 
 A) Alojamentos para vitelos
 
@@ -494,31 +526,45 @@ C) Alojamentos para animais de companhia
 
 6.3 - Normas legais tendentes a pôr em aplicação em Portugal a Convenção Europeia para a Protecção dos Animais de Companhia e um regime especial para a detenção de animais potencialmente perigosos (Decreto-Lei n.º 276/2001, de 17 de Outubro).
 
-#### SECÇÃO II — Silvicultura e exploração florestal
+SECÇÃO II
+
+Silvicultura e exploração florestal
 
 6.4 - Medidas de protecção ao sobreiro e à azinheira (Decreto-Lei n.º 169/2001, de 25 de Maio):
 
 a) Revogação: Decreto-Lei n.º 11/97, de 14 de Janeiro.
 
-### CAPÍTULO VII — Actividade industrial em geral
+CAPÍTULO VII
 
-#### SECÇÃO I — Localização e instalação de estabelecimentos industriais
+Actividade industrial em geral
+
+SECÇÃO I
+
+Localização e instalação de estabelecimentos industriais
 
 7.1 - Regime jurídico de licenciamento das áreas de localização empresarial (Decreto-Lei n.º 46/2001, de 10 de Fevereiro).
 
-#### SECÇÃO II — Prevenção de riscos de acidentes graves
+SECÇÃO II
+
+Prevenção de riscos de acidentes graves
 
 7.2 - Regime jurídico da prevenção e controlo dos perigos associados a acidentes graves que envolvem substâncias perigosas (Decreto-Lei n.º 164/2001, de 23 de Maio):
 
 a) Revogação: é revogado o Decreto-Lei n.º 204/93, de 3 de Junho, permanecendo em vigor até ao momento em que sejam substituídos em virtude das disposições correspondentes do diploma em análise as notificações de segurança, planos de emergência e informações ao público apresentados ou estabelecidos ao abrigo do diploma que agora se revoga.
 
-### CAPÍTULO VIII — Indústrias extractivas
+CAPÍTULO VIII
 
-#### SECÇÃO I — Recursos geológicos
+Indústrias extractivas
+
+SECÇÃO I
+
+Recursos geológicos
 
 8.1 - Regime jurídico de concessão do exercício da actividade de recuperação ambiental das áreas mineiras degradadas (Decreto-Lei n.º 198-A/2001, de 6 de Julho).
 
-#### SECÇÃO II — Exploração de massas minerais-pedreiras
+SECÇÃO II
+
+Exploração de massas minerais-pedreiras
 
 8.2 - Regime jurídico da pesquisa e exploração de massas minerais-pedreiras (Decreto-Lei n.º 270/2001, de 6 de Outubro):
 
@@ -526,9 +572,13 @@ a) Regulação: no prazo de um ano contado da publicação do diploma em anális
 
 b) Revogação: Decreto-Lei n.º 89/90, de 16 de Março.
 
-### CAPÍTULO IX — Produção e distribuição de electricidade, gás e água
+CAPÍTULO IX
 
-#### SECÇÃO I — Produção e distribuição de electricidade
+Produção e distribuição de electricidade, gás e água
+
+SECÇÃO I
+
+Produção e distribuição de electricidade
 
 A) Disposições gerais
 
@@ -578,7 +628,9 @@ a) Alterações: o diploma em análise procede à alteração dos seguintes arti
 
 28.º («Regime de opção»).
 
-#### SECÇÃO II — Produção e distribuição de gás
+SECÇÃO II
+
+Produção e distribuição de gás
 
 A) Sistema de abastecimento dos gases combustíveis canalizados
 
@@ -598,9 +650,13 @@ D) Terminais de recepção, armazenagem e tratamento de gás natural
 
 9.8 - Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção do Terminal (Portaria n.º 670/2001, de 4 de Julho).
 
-### CAPÍTULO X — Construção
+CAPÍTULO X
 
-#### SECÇÃO I — Obras públicas e particulares
+Construção
+
+SECÇÃO I
+
+Obras públicas e particulares
 
 A) Regime jurídico das empreitadas de obras públicas
 
@@ -626,25 +682,37 @@ Portaria n.º 526/2000, de 27 de Julho.
 
 10.6 - Acesso e permanência na actividade de empreiteiro de obras públicas e industrial de construção civil (Decreto-Lei n.º 61/99, de 2 de Março): adaptação à Região Autónoma dos Açores (Decreto Legislativo Regional n.º 23/2001/A, de 13 de Novembro).
 
-### CAPÍTULO XI — Turismo
+CAPÍTULO XI
 
-#### SECÇÃO I — Empreendimentos turísticos
+Turismo
+
+SECÇÃO I
+
+Empreendimentos turísticos
 
 11.1 - Taxas a serem cobradas pela Direcção-Geral do Turismo pelas vistorias requeridas pelos interessados aos empreendimentos turísticos e outros (Portaria n.º 1229/2001, de 25 de Outubro).
 
-#### SECÇÃO II — Estabelecimentos de restauração e de bebidas
+SECÇÃO II
+
+Estabelecimentos de restauração e de bebidas
 
 11.2 - Condições objectivas em que os estabelecimentos de restauração e bebidas são obrigados a dispor de um sistema de segurança privada e meios humanos e técnicos, considerados indispensáveis ao normal funcionamento desses meios de segurança (Decreto-Lei n.º 263/2001, de 28 de Setembro) - 17.4.
 
-### CAPÍTULO XII — Transportes, vias de comunicação, armazenagem e telecomunicações
+CAPÍTULO XII
 
-#### SECÇÃO I — Transportes, vias de comunicação terrestres e instalações de apoio
+Transportes, vias de comunicação, armazenagem e telecomunicações
+
+SECÇÃO I
+
+Transportes, vias de comunicação terrestres e instalações de apoio
 
 12.1 - Novo quadro legal para a aplicação do Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis (Decreto-Lei n.º 302/2001, de 23 de Novembro):
 
 a) Revogações: com a entrada em vigor da portaria que aprovará o Regulamento de Construção e Exploração de Postos de Abastecimento de Combustíveis, referida no artigo 1.º, n.º 2, do diploma em análise, são revogados os Decretos-Leis n.os 246/92, de 30 de Outubro, e 302/95, de 18 de Novembro, sem prejuízo das disposições transitórias previstas ao abrigo do diploma em análise e exceptuando-se o artigo 2.º do Decreto-Lei n.º 246/92, de 30 de Outubro, que se mantém em vigor até à entrada em vigor do diploma que aprove o novo regime jurídico do licenciamento de postos de combustíveis.
 
-#### SECÇÃO II — Vias de comunicação marítimas e instalações de apoio
+SECÇÃO II
+
+Vias de comunicação marítimas e instalações de apoio
 
 12.2 - Criação e aprovação dos estatutos da Administração dos Portos do Douro e Leixões, S. A.: alteração (Decreto-Lei n.º 334/2001, de 24 de Dezembro):
 
@@ -662,7 +730,9 @@ a) Alteração: o diploma em análise procede à alteração do disposto no arti
 
 a) Alteração: o diploma em análise procede à alteração do disposto no artigo 9.º («Composição do conselho de administração») dos Estatutos da Administração dos Portos de Setúbal e Sesimbra, S. A. (aprovados pelo Decreto-Lei n.º 338/98, de 3 de Novembro).
 
-#### SECÇÃO III — Armazenagem
+SECÇÃO III
+
+Armazenagem
 
 A) Armazenagem das reservas de segurança de produtos de petróleo
 
@@ -688,13 +758,19 @@ D) Armazenagem de gás natural
 
 12.9 - Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção do Terminal (Portaria n.º 670/2001, de 4 de Julho) - 9.8.
 
-### CAPÍTULO XIII — Edifícios públicos e equipamentos colectivos
+CAPÍTULO XIII
 
-#### SECÇÃO I — Estabelecimentos de educação
+Edifícios públicos e equipamentos colectivos
+
+SECÇÃO I
+
+Estabelecimentos de educação
 
 13.1 - Estatuto dos Estabelecimentos de Educação Pré-Escolar na Região Autónoma dos Açores (Decreto Regulamentar Regional n.º 17/2001/A, de 29 de Novembro).
 
-#### SECÇÃO II — Equipamentos relacionados com saúde e acção social
+SECÇÃO II
+
+Equipamentos relacionados com saúde e acção social
 
 A) Unidades privadas de saúde
 
@@ -710,23 +786,33 @@ C) Unidades privadas na área da toxicodependência
 
 13.4 - Emolumentos devidos ao Serviço de Prevenção e Tratamento da Toxicodependência pelos actos relativos ao licenciamento, remodelação e alargamento da capacidade e vistorias das unidades privadas que actuam na área da toxicodependência (Portaria n.º 603/2001, de 6 de Junho).
 
-### CAPÍTULO XIV — Actividades desportivas
+CAPÍTULO XIV
+
+Actividades desportivas
 
 14 - Regulamento das Condições Técnicas e de Segurança dos Estádios (Decreto Regulamentar n.º 10/2001, de 6 de Junho).
 
-### CAPÍTULO XV — Habitação
+CAPÍTULO XV
 
-#### SECÇÃO I — Disposições gerais
+Habitação
+
+SECÇÃO I
+
+Disposições gerais
 
 15.1 - Simplificação dos procedimentos de alteração a planos municipais de ordenamento do território e alvarás de loteamento urbano (Decreto-Lei n.º 115/2001, de 7 de Abril).
 
-#### SECÇÃO II — Habitação social
+SECÇÃO II
+
+Habitação social
 
 15.2 - Programa Especial de Realojamento (PER) nas Áreas Metropolitanas de Lisboa e do Porto: alteração (Decreto-Lei n.º 1/2001, de 4 de Janeiro):
 
 a) Alteração: o diploma em análise procede à alteração do disposto no artigo 16.º do regime jurídico do PER (aprovado pelo Decreto-Lei n.º 163/93, de 7 de Maio, alterado pela Lei n.º 34/96, de 29 de Agosto, e pelos Decretos-Leis n.os 93/95, de 9 de Maio, 30/97, de 28 de Janeiro, e 156/97, de 24 de Junho).
 
-#### SECÇÃO III — Regimes de financiamento para a conservação e reabilitação de imóveis
+SECÇÃO III
+
+Regimes de financiamento para a conservação e reabilitação de imóveis
 
 A) Regime especial de comparticipação na recuperação de imóveis arrendados (RECRIA)
 
@@ -738,13 +824,19 @@ B) Regime de concessão de apoio financeiro especial para realização de obras 
 
 a) Revogação: Decreto-Lei n.º 7/99, de 8 de Janeiro.
 
-### CAPÍTULO XVI — Segurança e salubridade
+CAPÍTULO XVI
 
-#### SECÇÃO I — Segurança contra incêndio
+Segurança e salubridade
+
+SECÇÃO I
+
+Segurança contra incêndio
 
 16.1 - Medidas de segurança contra riscos de incêndio a observar nos estabelecimentos comerciais e de prestação de serviços com área inferior a 300 m2 (Portaria n.º 1299/2001, de 21 de Novembro).
 
-#### SECÇÃO II — Segurança de instalações e equipamentos
+SECÇÃO II
+
+Segurança de instalações e equipamentos
 
 A) Sistema de abastecimento dos gases combustíveis canalizados
 
@@ -754,9 +846,13 @@ B) Equipamentos sob pressão
 
 16.3 - Importâncias das taxas a cobrar pela prestação dos serviços de autorização prévia da instalação, aprovação da instalação e autorização de funcionamento, renovação da autorização de funcionamento e de registo e averbamento de equipamentos sob pressão (Portaria n.º 1210/2001, de 20 de Outubro).
 
-### CAPÍTULO XVII — Instalações e equipamentos
+CAPÍTULO XVII
 
-#### SECÇÃO I — Instalações de gás
+Instalações e equipamentos
+
+SECÇÃO I
+
+Instalações de gás
 
 17.1 - Procedimentos Relativos às Inspecções e à Manutenção das Redes e Ramais de Distribuição e Instalações de Gás: alteração (Portaria n.º 690/2001, de 10 de Julho):
 
@@ -804,8 +900,10 @@ a) Alteração: o diploma em análise procede à alteração do disposto nos seg
 
 48.º («Ligações»);
 
-## Anexo («Lista não exaustiva das normas aplicáveis»).
+Anexo («Lista não exaustiva das normas aplicáveis»).
 
-#### SECÇÃO II — Equipamentos de segurança e sistemas de alarme
+SECÇÃO II
+
+Equipamentos de segurança e sistemas de alarme
 
 17.4 - Condições objectivas em que os estabelecimentos de restauração e bebidas são obrigados a dispor de um sistema de segurança privada e meios, humanos e técnicos, considerados indispensáveis ao normal funcionamento desses meios de segurança (Decreto-Lei n.º 263/2001, de 28 de Setembro).

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/378/2003/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/378-2003-580999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-05-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98241fbc52e80c6c88953faf1d271b3995857900f0ef7daef4d48de44a447497
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4a2e7390f226cfba8f2625a6df05f479e66b85385b9bed721b03f978e96d38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,13 +66,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sociedade Anónima
 - Caderno de Encargos
 - Concurso Público
 - Contrato de Concessão
+- Empresa de Silos Portuários
 - Gestão do Património
 - Porto de Leixões
-- Empresa de Silos Portuários
+- Sociedade Anónima
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
@@ -94,16 +94,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666341:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:51Z'
   warnings: []
   errors: []
 ---
@@ -126,7 +146,7 @@ Manda o Governo, pelos Ministros das Finanças, da Segurança Social e do Trabal
 
 Em 4 de Abril de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix. - O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix. - O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira.
 
 ## ANEXO I
 
@@ -710,7 +730,7 @@ ii) A emissão desta garantia não viola qualquer lei, regulamento ou instruçã
 
 ... [nome completo do(s) signatário(s), qualidade em que assina(m) e reconhecimento das assinaturas nessa qualidade].
 
-## APÊNDICE A
+APÊNDICE A
 
 [ao anexo B (I)]
 
@@ -786,7 +806,7 @@ ii) A emissão desta garantia não viola qualquer lei, regulamento ou instruçã
 
 ... [nome completo do(s) signatário(s), qualidade em que assina(m) e reconhecimento das assinaturas nessa qualidade].
 
-## APÊNDICE A
+APÊNDICE A
 
 [ao anexo C (I)]
 
@@ -1416,38 +1436,38 @@ Sem prejuízo do disposto no n.º 40 quanto à resolução de diferendos, o não
 
 Na SILOPOR, S. A., encontram-se à disposição dos interessados os seguintes anexos que integram o presente caderno de encargos:
 
-## Anexo I - Contrato de concessão entre a APDL e a SILOPOR;
+Anexo I - Contrato de concessão entre a APDL e a SILOPOR;
 
-## Anexo II - Área afecta à concessão;
+Anexo II - Área afecta à concessão;
 
-## Anexo III - Equipamento afecto à concessão:
+Anexo III - Equipamento afecto à concessão:
 
-# Parte 1 - Bens a permanecer na titularidade do concedente;
+Parte 1 - Bens a permanecer na titularidade do concedente;
 
-# Parte 2 - Bens a adquirir pela concessionária;
+Parte 2 - Bens a adquirir pela concessionária;
 
-## Anexo IV - Limites máximos das tarifas;
+Anexo IV - Limites máximos das tarifas;
 
-## Anexo V - Lista dos trabalhadores afectos ao estabelecimento da SILOPOR em Leixões:
+Anexo V - Lista dos trabalhadores afectos ao estabelecimento da SILOPOR em Leixões:
 
-# Parte 1 - Regalias decorrentes do acordo de empresa da SILOPOR;
+Parte 1 - Regalias decorrentes do acordo de empresa da SILOPOR;
 
-# Parte 2 - Regalias decorrentes do regulamento de regalias sociais dos trabalhadores da SILOPOR;
+Parte 2 - Regalias decorrentes do regulamento de regalias sociais dos trabalhadores da SILOPOR;
 
 ## Anexo VI:
 
-# Parte 1 - Acordo de empresa da SILOPOR;
+Parte 1 - Acordo de empresa da SILOPOR;
 
-# Parte 2 - Regulamento de regalias sociais dos trabalhadores da SILOPOR;
+Parte 2 - Regulamento de regalias sociais dos trabalhadores da SILOPOR;
 
 ## Anexo VII:
 
-# Parte 1 - Seguro de doença e assistência médica aos trabalhadores da SILOPOR;
+Parte 1 - Seguro de doença e assistência médica aos trabalhadores da SILOPOR;
 
-# Parte 2 - Seguro de vida dos trabalhadores da SILOPOR;
+Parte 2 - Seguro de vida dos trabalhadores da SILOPOR;
 
-# Parte 3 - Seguro de acidentes de trabalho;
+Parte 3 - Seguro de acidentes de trabalho;
 
-# Parte 4 - Seguro de acidentes pessoais;
+Parte 4 - Seguro de acidentes pessoais;
 
-## Anexo VIII - Modelo das projecções económico-financeiras.
+Anexo VIII - Modelo das projecções económico-financeiras.

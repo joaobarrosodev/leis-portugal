@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/045000000/1085710858.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/506-2011-2708642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fbe39787cee06f71dfb8ee93b812b94f49a8b68aab1ed80f5954901364e777f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46b65a7460720a8e37e6814abd514c8fe6aba53270eb6b5c33936e2fe5c32a95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:04Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +128,9 @@ h) O abastecimento de água e a drenagem de esgotos deverão ser assegurados por
 
 i) Estas edificações só serão permitidas caso não afectem negativamente as áreas envolventes, quer do ponto de vista paisagístico, quer da sua utilização.
 
-###### Artigo 44.º — Áreas de agro-pastorícia ou de pastagem permanente
+Artigo 44.º
+
+Áreas de agro-pastorícia ou de pastagem permanente
 
 1 - As áreas de agro-pastorícia ou de pastagem permanente integram solos mais pobres destinados fundamentalmente a agro-pastorícia ou à pastagem permanente.
 
@@ -162,7 +164,9 @@ d) A altura máxima das construções, com excepção de silos, depósitos de á
 
 5 - Estas edificações só poderão ser permitidas caso não afectem negativamente as áreas envolventes, quer do ponto de vista paisagístico quer da sua utilização.
 
-###### Artigo 46.º — Áreas de silvo-pastorícia
+Artigo 46.º
+
+Áreas de silvo-pastorícia
 
 1 - Através da delimitação de áreas de silvo-pastorícia, pretende-se defender fundamentalmente as manchas de sobreiro e de azinheira existentes no concelho. Nestas áreas deve restringir-se a edificabilidade.
 
@@ -186,7 +190,9 @@ g) O afastamento mínimo das edificações ao limites do prédio, sem prejuízo 
 
 h) O abastecimento de água e a drenagem de esgotos devem ser assegurados por sistema autónomo cuja construção e manutenção ficarão a cargo dos interessados, a menos que financiem a extensão das redes públicas e esta for também autorizada.
 
-###### Artigo 47.º — Áreas de floresta de produção
+Artigo 47.º
+
+Áreas de floresta de produção
 
 1 - Através da delimitação de áreas de floresta de produção, pretende-se evidenciar a vocação silvícola em solos de baixa capacidade produtiva, constituindo assim um meio favorável para o povoamento florestal.
 
@@ -216,7 +222,9 @@ k) O afastamento mínimo das edificações aos limites do prédio, sem prejuízo
 
 l) O abastecimento de água e a drenagem de esgotos devem ser assegurados por sistema autónomo cuja construção e manutenção ficarão a cargo dos interessados, a menos que financiem a extensão das redes públicas e esta for também autorizada.
 
-###### Artigo 49.º — Categorias
+Artigo 49.º
+
+Categorias
 
 As áreas para desenvolvimento turístico dividem-se em duas categorias:
 
@@ -224,7 +232,9 @@ a) Áreas para empreendimentos turísticos isolados a localizar preferencialment
 
 b) Estabelecimentos hoteleiros a localizar nos espaços urbanos e urbanizáveis.
 
-###### Artigo 50.º — Condicionamentos aos empreendimentos turísticos isolados
+Artigo 50.º
+
+Condicionamentos aos empreendimentos turísticos isolados
 
 Sem prejuízo da legislação em vigor para o sector, as áreas de desenvolvimento turístico regem-se pelos seguintes condicionamentos específicos:
 
@@ -271,3 +281,5 @@ iv) Utilização de materiais apropriados à sua adequada integração paisagís
 vi) Valorização de vistas, do território e da respectiva inserção paisagística.»
 
 28 de Fevereiro de 2011. - O Presidente da Câmara, Jorge Pulido Valente.
+
+204404556

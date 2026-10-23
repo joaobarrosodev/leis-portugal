@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/03/047000000/0020000201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/240-2025-909854122
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-03-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 175a52144719a531bf23e74b5a29f76687a9b1c69765b1976f3a834eca6832bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e887658cb3d87057470900a1b2667dee80d9d12d3a5f73ff4faf2dafac44387
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:58:02Z'
   warnings: []
   errors: []
 ---
@@ -88,22 +88,24 @@ Licenciatura em Matemática Aplicada e Computação
 
 Por ter sido publicado com inexatidão o Despacho n.º 9148/2024 no Diário da República, 2.ª série, n.º 155, de 12 de agosto de 2024, referente à alteração da licenciatura em Matemática Aplicada e Computação do Instituto Superior Técnico da Universidade de Lisboa, retifica-se que, no quadro n.º 2 do anexo, onde se lê:
 
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | T | TP | P | TC | S | E | OT | O | ECTS | Obs. |
+| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Horas de trabalho | ECTS | Obs. |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | ECTS | Obs. |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | ECTS | Obs. |
+| Total | Contacto |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | P | TC | S | E | OT | O |  |  |  |  |  |  |  |
 | [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Complementos de Probabilidade e Estatística | PE | 2.º | 2.º Semestre | 168,0 |  | 77,0 |  |  | 7,0 |  |  |  | 6,0 |  |
 | [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 deve ler-se:
 
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | T | TP | P | TC | S | E | OT | O | ECTS | Obs. |
+| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Horas de trabalho | ECTS | Obs. |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | ECTS | Obs. |
-| Unidade curricular | Área científica | Ano curricular | Organização do ano curricular | Total | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | Contacto | ECTS | Obs. |
+| Total | Contacto |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | P | TC | S | E | OT | O |  |  |  |  |  |  |  |
 | [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Complementos de Probabilidade e Estatística | PE | 2.º | 2.º Semestre | 168,0 |  | 56,0 |  |  |  |  |  |  | 6,0 |  |
 | [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 26 de fevereiro de 2025. - O Vice-Reitor, João Peixoto.
+
+318748718

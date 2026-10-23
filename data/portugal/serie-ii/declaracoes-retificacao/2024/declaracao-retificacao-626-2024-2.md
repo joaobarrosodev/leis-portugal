@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/158000000/0035000351.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/626-2024-877328376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T14:53:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0576bfd1a5ce5551ff66e47a83731b14b6de2b43291671ec77d8acd1a092dfb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a2f079d22f3db9152152e9518fda279e1cc52446917ef43180a13caa26a4da74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:53:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:872822999:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:53:59Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +91,7 @@ Tendo-se verificado que o [Aviso n.º 15016-B/2024/2](https://diariodarepublica.
 
 Assim, onde se lê:
 
-| Referência | Área | Especialidade | Número de postos de trabalho |
+| Referência | Área | Especialidade | Número de postos<br>de trabalho |
 | --- | --- | --- | --- |
 | A | Área de medicina geral e familiar | Medicina Geral e Familiar | 3 |
 | B | Área de saúde pública | Saúde Pública | 1 |
@@ -108,13 +112,13 @@ Assim, onde se lê:
 
 deve ler-se:
 
-| Referência | Área | Especialidade | Número de postos de trabalho |
+| Referência | Área | Especialidade | Número de postos<br>de trabalho |
 | --- | --- | --- | --- |
 | A | Área de medicina geral e familiar | Medicina Geral e Familiar | 3 |
-| A | Área de medicina geral e familiar | Local de colocação: |  |
-| A | Área de medicina geral e familiar | USF Arouca | 1 |
-| A | Área de medicina geral e familiar | UCSP Sul (Oliveira de Azeméis) | 1 |
-| A | Área de medicina geral e familiar | UCSP Novo Caminho (Oliveira de Azeméis) | 1 |
+| Local de colocação: |  |  |  |
+| USF Arouca | 1 |  |  |
+| UCSP Sul (Oliveira de Azeméis) | 1 |  |  |
+| UCSP Novo Caminho (Oliveira de Azeméis) | 1 |  |  |
 | B | Área de saúde pública | Saúde Pública | 1 |
 | C | Área hospitalar | Anestesiologia | 1 |
 | D | Área hospitalar | Cirurgia Geral | 1 |
@@ -132,3 +136,5 @@ deve ler-se:
 | P | Área hospitalar | Urologia | 1 |
 
 26 de julho de 2024. - A Diretora do Serviço de Gestão de Recursos Humanos, Ana Cecília Martins de Carvalho Ideias.
+
+317963771

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/03/051000000/0015800158.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/200-2022-180365137
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86cd2dc3b10059249b6a2ba187603d93250b44baa6c6e8f0ca5f55e9357f6eb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ea6d6f20ea562e66d1524a85e05d5511e89d252be41152c5da5fc1c03e1e5e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Nacional para a Proteção dos Animais Utilizados para FINS Científicos
+- Nomeação
+- Proteção dos Animais
+- Rectificação de Entidade Emitente
+relationships:
+- type: cites
+  target: pt:dre:105579672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175264076:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:31Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +99,5 @@ Ao abrigo do disposto nos n.os 2 e 3 do artigo 12.º do Regulamento de Publicaç
 Na alínea c) do n.º 1, onde se lê «A Mestre Maria João Pereira Figueira Alves, em representação do Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P. (INSA);» deve ler-se «A Doutora Maria João Pereira Figueira Alves, em representação do Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P. (INSA);»
 
 28 de fevereiro de 2022. - A Ministra da Agricultura, Maria do Céu de Oliveira Antunes.
+
+315075789

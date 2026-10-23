@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/205/2004/03/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/205-2004-551775
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T14:57:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c92fc0ce49bdd6caa834474b82059da16791ecc67ee17cdfcd16e848c04b700
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd41db11a6556b4046564e083c437bfd2f16c0c6a0f316bc33a7083556558e8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,14 +69,17 @@ reuse:
 subjects:
 - Actualização de Pensões
 - Administração Central
-- Função Pública
-- Ajudas de Custo
-- Pessoal Dirigente
-- Regulamentação de Atos Legislativos
+- Administração Local
 - Administração Pública
+- Administração Regional
+- Ajudas de Custo
 - Caixa Geral de Aposentações
+- Função Pública
+- Funcionário Público
 - Gabinete Governamental
+- Gratificação
 - Membros do Governo
+- Militar
 - Missão no Estrangeiro
 - Missão Oficial
 - Pensão de Aposentação
@@ -84,13 +87,10 @@ subjects:
 - Pensão de Preço de Sangue
 - Pensão de Reforma
 - Pessoal de Gabinete
+- Pessoal Dirigente
 - Política Salarial
-- Administração Local
-- Gratificação
+- Regulamentação de Atos Legislativos
 - Remuneração
-- Militar
-- Funcionário Público
-- Administração Regional
 - Subsídio de Refeição
 - Subsídio de Viagem e Marcha
 relationships:
@@ -98,6 +98,14 @@ relationships:
   target: pt:dre:630835:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:630835:por
+  label: "Actualizados em 2,2% os valores dos índices 100 das carreiras de regime geral e de regime especial, das gratificações\
+    \ e das pensões pagas pela Caixa Geral de Aposentações, assim como os quantitativos do subsídio de refeição, das ajudas\
+    \ de custo, dos subsídios de transporte, dos subsídios de viagem e marcha, estabelecidos no presente diploma, pela PORT.42-A/2005.17.01.2005.MFAP,\
+    \ DR.IS-B [11-Supl] de 17.01.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/42-a-2005-630835
+  date: '2005-01-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/106/1998/04/24/p/dre
   label: null
@@ -118,16 +126,48 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/303/2003/04/14/p/dre
   label: null
   source: http://data.dre.pt/eli/port/303/2003/04/14/p/dre
+- type: cites
+  target: pt:dre:176328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:484656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643282:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:57:52Z'
   warnings: []
   errors: []
 ---
@@ -260,4 +300,4 @@ b) Pensões de sobrevivência, de preço de sangue e outras de valor global até
 
 20.º A presente portaria produz efeitos desde 1 de Janeiro de 2004.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 13 de Fevereiro de 2004.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 13 de Fevereiro de 2004.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/01/007000000/0186701867.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/61-2011-802777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f75c47d21fd8b0a0d5abf1ee693b4d12b143a13049189c0292985644fb758ed2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28aba597a929f97fbc541a0a592e8569f55da23b7a42bdca6edfbde11eebdfd6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,23 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:1315016:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:40Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 61/2011
+# Declaração de rectificação n.º 61/2011
 
 Por ter saído com inexactidão o edital n.º 1202/2010, publicado no Diário da República, 2.ª série, n.º 232, de 30 de Novembro de 2010, relativo à abertura do concurso documental para provimento de quatro lugares de professor associado da área disciplinar de Geografia do Instituto de Geografia e Ordenamento do Território, da Universidade de Lisboa, rectifica-se que onde se lê «5) A apresentação do curriculum vitae pelos candidatos, deve observar o modelo anexo ao Regulamento de Concursos e Contratação na Carreira Docente da Universidade de Lisboa aprovado pelo [Despacho n.º 14484/2010](https://diariodarepublica.pt/dr/detalhe/despacho/14484-2010-1315016)» deve ler-se «5) A apresentação do curriculum vitæ, pelos candidatos, deve observar o modelo anexo ao Regulamento de Concursos e Contratação na Carreira Docente da Universidade de Lisboa, aprovado através do despacho n.º 14 488/2010».
 
 17 de Dezembro de 2010. - O Reitor, António Sampaio da Nóvoa.
+
+204146774

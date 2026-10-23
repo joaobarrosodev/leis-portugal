@@ -3,8 +3,8 @@ schema_version: '1.0'
 id: pt:dre:890538327:por
 title: Declaração de Retificação n.º 847/2024/2
 short_title: null
-summary: Retifica o Despacho (extrato) n.º 10130/2024, publicado no <em>Diário da República,</em> 2.ª série, n.º 167, de 29
-  de agosto de 2024.
+summary: Retifica o Despacho (extrato) n.º 10130/2024, publicado no  Diário da República, 2.ª série, n.º 167, de 29 de agosto
+  de 2024.
 jurisdiction: portugal
 territory: null
 document_type: declaracao-retificacao
@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/10/197000000/0021600216.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/847-2024-890538327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-10-10T00:00:00Z'
+  retrieved_at: '2026-10-23T14:55:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba64815216b99d1778e60fbd7b10b9d3c03fb9d320607264f114c00defa8e199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8bc359960769d770fd91f2c2a3b404f0d989a562a87b64d586399cf709389a38
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:55:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:886180610:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:55:16Z'
   warnings: []
   errors: []
 ---
@@ -86,3 +90,5 @@ validation:
 Por ter saído com inexatidão no Diário da República, 2.ª série, n.º 167, de 29 de agosto de 2024, referente ao contrato de trabalho em funções públicas, por tempo indeterminado, em regime de tenure, na categoria de professor associado com agregação, da Doutora Ana Maria Santos Bettencourt, [Despacho (extrato) n.º 10130/2024](https://diariodarepublica.pt/dr/detalhe/despacho-extrato/10130-2024-886180610), retifica-se onde se lê "Por despacho de 03/04/2023," e "com efeitos a partir de 03/04/2023" deve ler-se "Por despacho de 13/04/2023," e "com efeitos a partir de 13/04/2023", respetivamente.
 
 2 de outubro de 2024. - A Diretora de Serviços, Aleida Lopes Vaz Carvalho.
+
+318183394

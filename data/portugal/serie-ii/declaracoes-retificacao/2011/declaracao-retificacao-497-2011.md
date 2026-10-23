@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/03/044000000/1065310653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/497-2011-2444200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-03-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 455a117a04eca649fcdca1cd318df84505d28e598314e91cbf04719e90aa14ae
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dde76a82501f6c877dd416e5679a94805862cbb8812c302cba7074eac037258e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:03Z'
   warnings: []
   errors: []
 ---
@@ -90,3 +90,5 @@ Por ter saído com inexactidão a publicitação inserta no Diário da Repúblic
 Onde se lê «Nomeio, em comissão de serviço por três anos, como Chefe de Divisão de Apoio Logístico, a Licenciada Maria Zélia Moutinho Mendes dos Santos, técnica superior do mapa de pessoal do Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., do Ministério da Saúde.» deve ler-se «Nomeio, em comissão de serviço por três anos, como chefe da Divisão de Apoio Logístico, a licenciada Maria Zélia Moutinho Mendes dos Santos, técnica superior do mapa de pessoal do Instituto Politécnico de Lisboa - Escola Superior de Tecnologia da Saúde de Lisboa, do Ministério da Ciência, Tecnologia e Ensino Superior.»
 
 21 de Fevereiro de 2011. - A Secretária-Geral, Maria João Lourenço.
+
+204396432

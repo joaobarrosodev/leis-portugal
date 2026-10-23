@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/09/187000000/0018700189.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,36 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/799-2024-888929807
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-09-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d2c269bfb76a1c30c96b9b4dee0b8450a98543b6119c401f9447f3c4b62cfc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70cba214b0bce0fdb6205d9acb087041937c531914c8d9f3dfad540347188e47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Superior
+- Horário de Trabalho
+- Instituto Politécnico
+- Interpretação do Direito
+- Pessoal Docente
+- Presidente
+- Prestação de Serviços
+- Procuradoria Geral da República
+- Reitor
+- Remuneração
+- Trabalho a Tempo Parcial
+relationships:
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:59Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +129,7 @@ Parecer n.º 15/2024
 
 Conclusões:
 
-1.ª No exercício das suas funções, os trabalhadores da Administração Pública e outras entidades públicas estão, exclusivamente, ao serviço do interesse público, não sendo, ressalvados os casos expressamente previstos na Lei, permitida a acumulação de empregos ou cargos públicos (art. 269.º, n.<sup>os</sup>1, 2 e 5, da Constituição da República Portuguesa e arts. 19.º, 20.º e 21.º da Lei Geral do Trabalho em Funções Públicas);
+1.ª No exercício das suas funções, os trabalhadores da Administração Pública e outras entidades públicas estão, exclusivamente, ao serviço do interesse público, não sendo, ressalvados os casos expressamente previstos na Lei, permitida a acumulação de empregos ou cargos públicos (art. 269.º, n.os1, 2 e 5, da Constituição da República Portuguesa e arts. 19.º, 20.º e 21.º da Lei Geral do Trabalho em Funções Públicas);
 
 2.ª O Regime do Exercício de Funções por Titulares de Cargos Políticos e Altos Cargos Públicos (art. 6.º, n.º 2), o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado (art. 16.º, n.º 2), o Estatuto do Gestor Público [art. 20.º, n.º 3, al.ª c)] e a Lei Geral do Trabalho em Funções Públicas [art. 21.º, n.º 2, al.ª c)] permitem a acumulação dessas funções com atividades de docência e de investigação no ensino superior remuneradas;
 
@@ -98,7 +137,7 @@ Conclusões:
 
 4.ª O Estatuto da Carreira Docente Universitária [art. 70.º, n.º 3, al.ª e)], o Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico [art. 34.º-A, n.º 3, al.ª e)] e o Estatuto da Carreira de Investigação Científica [art. 52.º, n.º 2, al.ª g)] excluem do regime da dedicação exclusiva do pessoal docente ou investigador o desempenho de funções em órgãos da instituição a que pertencem e a sua remuneração;
 
-5.ª É, justamente, o caso do exercício das funções de reitor ou de presidente, que, nos termos da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, é o órgão superior de governo e de representação externa da respetiva instituição, competindo-lhe a condução da política da instituição e presidir ao conselho de gestão (art. 85.º, n.<sup>os</sup>1 e 2);
+5.ª É, justamente, o caso do exercício das funções de reitor ou de presidente, que, nos termos da [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, é o órgão superior de governo e de representação externa da respetiva instituição, competindo-lhe a condução da política da instituição e presidir ao conselho de gestão (art. 85.º, n.os1 e 2);
 
 6.ª Acresce que, nos termos do artigo 9.º, n.º 2, do Regime Jurídico das Instituições de Ensino Superior, em tudo o que não contrariar esse regime e as demais leis especiais, ressalvado o disposto quanto às instituições de ensino superior públicas de natureza fundacional, é aplicável às instituições de ensino superior públicas, o regime previsto para as demais pessoas coletivas de direito público de natureza administrativa, designadamente a Lei-Quadro dos Institutos Públicos, que vale como direito subsidiário naquilo que não for incompatível com aquele regime;
 
@@ -139,3 +178,5 @@ Carlos Adérito Teixeira - João Conde Correia dos Santos (Relator) - José Joaq
 Este Parecer foi homologado por despacho de 20 de junho de 2024 de Sua Excelência o Ministro da Educação, Ciência e Inovação.
 
 1 de julho de 2024. - A Secretária-Geral da Procuradoria-Geral da República, Ana Cristina de Lima Vicente.
+
+318081771

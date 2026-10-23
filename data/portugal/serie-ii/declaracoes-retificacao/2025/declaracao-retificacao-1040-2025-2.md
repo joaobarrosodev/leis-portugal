@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2025/11/220000000/0033300333.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1040-2025-945864965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:56:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea417e85ee50f856c0dff92af253445f2384bcfd4d0f92e43081010b99c80a6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fe3837ff32bc1a8513ef036f4a3fb33d9096c5a4069d4e52b80f1b9280be53a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:56:30Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +88,7 @@ Onde se lê:
 
 «6.2 - Vertentes da avaliação
 
-a) Mérito Científico (V<sub>MC</sub>) - 50 %
+a) Mérito Científico (VMC) - 50 %
 
 [...]
 
@@ -98,7 +98,7 @@ deve ler-se:
 
 «6.2 - Vertentes da avaliação
 
-a) Mérito Científico (V<sub>MC</sub>) - 40 %
+a) Mérito Científico (VMC) - 40 %
 
 [...]
 
@@ -106,10 +106,12 @@ e) Projeto Científico-pedagógico (PCP) - 25 %»
 
 Onde se lê:
 
-«6.3.2 - Critérios para avaliação da vertente Experiência e Mérito Pedagógico (V<sub>EMP</sub>) - 30 %»
+«6.3.2 - Critérios para avaliação da vertente Experiência e Mérito Pedagógico (VEMP) - 30 %»
 
 deve ler-se:
 
-«6.3.2 - Critérios para avaliação da vertente Experiência e Mérito Pedagógico (V<sub>EMP</sub>) - 25 %»
+«6.3.2 - Critérios para avaliação da vertente Experiência e Mérito Pedagógico (VEMP) - 25 %»
 
 6 de novembro de 2025. - O Vice-Reitor, Prof. Doutor Pedro Miguel Barbosa Alves Costa.
+
+319748996

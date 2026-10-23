@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/831/2003/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/831-2003-660115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c86f329bbd2615d226909c57f5f86c354ba92c49f22040bf766efcec71eaea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d4f98fbaca943a4f6bbcd0b7454b9e57a9ea106d889694db0e2356088d5a55c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,8 +69,8 @@ subjects:
 - Amarante
 - Amares
 - Ansião
+- Arganil
 - Arouca
-- Vila Franca de Xira
 - Baião
 - Barcelos
 - Cabeceiras de Basto
@@ -78,9 +78,10 @@ subjects:
 - Celorico de Basto
 - Cuba.alentejo
 - Esposende
-- FAFE
-- Figueiró dos Vinhos
 - Estabelecimento Prisional
+- FAFE
+- Figueira da Foz
+- Figueiró dos Vinhos
 - Lagos
 - Lousada
 - Macedo de Cavaleiros
@@ -97,10 +98,6 @@ subjects:
 - Paços de Ferreira
 - Paredes
 - Penafiel
-- Arganil
-- Zona de Proteção
-- VILA do Conde
-- Figueira da Foz
 - Póvoa de Lanhoso
 - Póvoa de Varzim
 - Santo Tirso
@@ -110,22 +107,29 @@ subjects:
 - Tavira
 - Vieira do Minho
 - Vila da Feira
+- VILA do Conde
 - VILA FLOR
+- Vila Franca de Xira
 - VILA NOVA de Famalicão
 - VILA Verde
 - Vimioso
 - Vinhais
-relationships: []
+- Zona de Proteção
+relationships:
+- type: cites
+  target: pt:dre:674387:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:32Z'
   warnings: []
   errors: []
 ---
@@ -140,4 +144,4 @@ Assim:
 
 Manda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Transportes e Habitação, nos termos da alínea g) do artigo 199.º da Constituição, que se proceda à anulação das referidas zonas de protecção e ónus.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 22 de Julho de 2003.**
+O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues, em 22 de Julho de 2003.

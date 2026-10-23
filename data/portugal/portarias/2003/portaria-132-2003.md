@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/132/2003/02/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/132-2003-200421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa279404465fa348fb2de780ee16f0d6ae07b8c4952395450138752c5b9aad96
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f484bd6a1032db368d164eb3cfd78aa73773907aed51f481e596080b65cddf72
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,16 +68,27 @@ subjects:
 - Assistência Médica
 - Assistência Medicamentosa
 - Cuidados de Enfermagem
-- Serviço Nacional de Saúde
+- Cuidados Médicos
 - Preço
 - Prestação de Serviços
-- Cuidados Médicos
+- Serviço Nacional de Saúde
 - Tabela de Cuidados de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:346716:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:618562:por
+  label: "Aditado o anexo IV ao presente diploma pela PORT.1108/2004.07.09.2004.MS, DR.IS-B [211] de 07.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1108-2004-618562
+  date: '2004-09-07'
+- type: amended_by
+  target: pt:dre:574337:por
+  label: "Substituído o anexo IV da Port 1108/2004, de 07-Set, na redacção que conferiu ao presente diploma, pela PORT.281/2005.17.03.2005.MS,\
+    \ DR.IS-B [54] de 17.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/281-2005-574337
+  date: '2005-03-17'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
   label: null
@@ -86,16 +97,29 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/189/2001/03/09/p/dre
   label: null
   source: http://data.dre.pt/eli/port/189/2001/03/09/p/dre
+- type: cites
+  target: pt:dre:401733:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586006:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:346716:por
+  label: "Revogada pela PORT.567/2006.12.06.2006.MS, DR.IS-B [113] de 12.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/567-2006-346716
+  date: '2006-06-12'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:45Z'
   warnings: []
   errors: []
 ---
@@ -118,7 +142,7 @@ Manda o Governo, pelo Ministro da Saúde, o seguinte:
 
 2.º A presente portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
-**O Ministro da Saúde, Luís Filipe Pereira, em 13 de Dezembro de 2002.**
+O Ministro da Saúde, Luís Filipe Pereira, em 13 de Dezembro de 2002.
 
 ## ANEXO I — REGULAMENTO DAS TABELAS DE PREÇOS DAS INSTITUIÇÕES E SERVIÇOS INTEGRADOS NO SERVIÇO NACIONAL DE SAÚDE
 
@@ -362,9 +386,9 @@ Os preços a que se referem os artigos 15.º a 18.º não incluem as pequenas ci
 
 2 - No Serviço de Prevenção e Tratamento da Toxicodependência aplicam-se os preços fixados para os hospitais distritais.
 
-## ANEXO II — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
+## ANEXO II — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
 
-## ANEXO II-A — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
+## ANEXO II-A — [[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
 
 ## ANEXO III — [(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
 
@@ -374,7 +398,7 @@ Nota: Os produtos não incluídos nos preços dos procedimentos constantes no pr
 
 Meio complementares de diagnóstico e terapêutica e outros actos, não incluídos no anexo III
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)](https://files.diariodarepublica.pt/1s/2003/02/030b00/07430806.pdf)
 
 Notas
 

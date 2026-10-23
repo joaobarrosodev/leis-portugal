@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/507/2002/04/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/507-2002-364356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba84cb5265e8812595f6e1d91bd9c1cb56c6c817bbf06cb726316075f04fa19d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18fe4c4532c09d1c177eccfc369879df6a0b5f8a52da5ab43ae9846c75fc90c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Reestruturação de Serviços
 - Definição de Competências
-- LNEC
 - Laboratório Nacional de Engenharia Civil
+- LNEC
 - Orgânica
+- Reestruturação de Serviços
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/422/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:554609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667357:por
+  label: null
+  source: null
 article_structure:
   article_count: 79
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 33
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:36Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +111,7 @@ Ao abrigo do artigo 34.º do [Decreto-Lei n.º 422/99](https://diariodarepublica
 
 Manda o Governo, pelos Ministros do Equipamento Social, das Finanças e da Reforma do Estado e da Administração Pública, que seja aprovada a estrutura organizativa do Laboratório Nacional de Engenharia Civil (LNEC), que consta do anexo I da presente portaria e que dela faz parte integrante.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins, em 28 de Março de 2002. - Pelo Ministro do Equipamento Social, José António Vieira da Silva, Secretário de Estado das Obras Públicas, em 21 de Agosto de 2001. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 17 de Agosto de 2001.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins, em 28 de Março de 2002. - Pelo Ministro do Equipamento Social, José António Vieira da Silva, Secretário de Estado das Obras Públicas, em 21 de Agosto de 2001. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa, em 17 de Agosto de 2001.
 
 ## ANEXO — Estrutura organizativa do Laboratório Nacional de Engenharia Civil
 
@@ -869,7 +877,9 @@ b) Divisão de Gestão Patrimonial, que integra a Secção de Aquisições, a Se
 
 c) Divisão de Gestão de Contratos.
 
-###### Artigo 61.º — Divisão de Gestão Financeira
+###### Artigo 61.º
+
+##### Divisão de Gestão Financeira
 
 1 - À Divisão de Gestão Financeira cabe:
 
@@ -899,7 +909,9 @@ m) Prestar as informações que lhe forem solicitadas em matéria de planeamento
 
 2 - Compete igualmente à Divisão de Gestão Financeira garantir a integridade do tratamento informático da informação de carácter financeiro.
 
-###### Artigo 62.º — Divisão de Gestão Patrimonial
+###### Artigo 62.º
+
+##### Divisão de Gestão Patrimonial
 
 1 - À Divisão de Gestão Patrimonial cabe:
 
@@ -911,7 +923,9 @@ c) Gerir as existências em armazém.
 
 2 - Compete igualmente à Divisão de Gestão Patrimonial executar os processos de abate e alienação de bens patrimoniais.
 
-###### Artigo 63.º — Divisão de Gestão de Contratos
+###### Artigo 63.º
+
+##### Divisão de Gestão de Contratos
 
 1 - À Divisão de Gestão de Contratos cabe:
 
@@ -949,7 +963,9 @@ c) Divisão de Instalações;
 
 d) Divisão de Recursos Informáticos.
 
-###### Artigo 66.º — Divisão de Apoio Geral
+###### Artigo 66.º
+
+##### Divisão de Apoio Geral
 
 1 - À Divisão de Apoio Geral cabe:
 
@@ -965,7 +981,9 @@ e) Administrar e distribuir os resguardos, fardamentos e outro equipamento pesso
 
 2 - Compete igualmente à Divisão de Apoio Geral superintender na movimentação de cargas nas instalações do LNEC.
 
-###### Artigo 67.º — Divisão de Edições e Artes Gráficas
+###### Artigo 67.º
+
+##### Divisão de Edições e Artes Gráficas
 
 1 - À Divisão de Edições e Artes Gráficas cabe:
 
@@ -979,7 +997,9 @@ d) Assegurar a reprodução gráfica de documentação.
 
 2 - Compete igualmente à Divisão de Edições e Artes Gráficas gerir e garantir o funcionamento da livraria do LNEC.
 
-###### Artigo 68.º — Divisão de Instalações
+###### Artigo 68.º
+
+##### Divisão de Instalações
 
 1 - À Divisão de Instalações cabe:
 
@@ -995,7 +1015,9 @@ e) Assegurar o funcionamento da central telefónica, bem como superintender na a
 
 2 - Compete igualmente à Divisão de Instalações superintender na reparação do mobiliário do LNEC.
 
-###### Artigo 69.º — Divisão de Recursos Informáticos
+###### Artigo 69.º
+
+##### Divisão de Recursos Informáticos
 
 1 - À Divisão de Recursos Informáticos cabe:
 
@@ -1027,7 +1049,9 @@ b) Divisão de Gestão de Pessoal, que integra a Secção de Movimento de Pessoa
 
 c) Divisão de Segurança, Higiene e Saúde no Trabalho.
 
-###### Artigo 72.º — Divisão de Formação e Valorização Profissional
+###### Artigo 72.º
+
+##### Divisão de Formação e Valorização Profissional
 
 1 - À Divisão de Formação e Valorização Profissional cabe:
 
@@ -1043,7 +1067,9 @@ e) Promover o reconhecimento legal das acções de formação de iniciativa do L
 
 2 - Compete igualmente à Divisão de Formação e Valorização Profissional preparar e acompanhar os processos de reconversão profissional.
 
-###### Artigo 73.º — Divisão de Gestão de Pessoal
+###### Artigo 73.º
+
+##### Divisão de Gestão de Pessoal
 
 1 - À Divisão de Gestão de Pessoal cabe:
 
@@ -1067,7 +1093,9 @@ i) Exercer as competências previstas nas alíneas anteriores, quando aplicável
 
 2 - Compete igualmente à Divisão de Gestão de Pessoal dar apoio no planeamento de efectivos, nomeadamente no que se refere à sua afectação pelos diversos sectores.
 
-###### Artigo 74.º — Divisão de Segurança, Higiene e Saúde no Trabalho
+###### Artigo 74.º
+
+##### Divisão de Segurança, Higiene e Saúde no Trabalho
 
 1 - À Divisão de Segurança, Higiene e Saúde no Trabalho cabe:
 
@@ -1083,7 +1111,9 @@ e) Assegurar a vigilância médica do pessoal em função dos riscos a que se en
 
 2 - Compete igualmente à Divisão de Segurança, Higiene e Saúde no Trabalho assegurar que as entidades que executem trabalhos no LNEC adoptem, na sua realização, as medidas de segurança, higiene e saúde previstas na lei.
 
-##### SUBSECÇÃO IV — Divisão de Expediente Geral
+##### SUBSECÇÃO IV
+
+##### Divisão de Expediente Geral
 
 ###### Artigo 75.º — Competências
 
@@ -1105,7 +1135,9 @@ e) Acompanhar a situação dos documentos e disponibilizar informação sobre os
 
 A Divisão de Expediente Geral integra a Secção de Apoio Administrativo e a Secção de Arquivo.
 
-##### SUBSECÇÃO V — Divisão de Informação Documental
+##### SUBSECÇÃO V
+
+##### Divisão de Informação Documental
 
 ###### Artigo 77.º — Competências
 
@@ -1121,7 +1153,9 @@ d) Assegurar o funcionamento da mediateca do LNEC.
 
 2 - Compete igualmente à Divisão de Informação Documental propor planos de evolução da biblioteca, tendo em conta a utilização crescente de suportes digitais.
 
-##### SUBSECÇÃO VI — Divisão de Relações Públicas e Técnicas
+##### SUBSECÇÃO VI
+
+##### Divisão de Relações Públicas e Técnicas
 
 ###### Artigo 78.º — Competências
 
@@ -1145,7 +1179,9 @@ h) Recolher a informação pública relativa ao LNEC e promover a sua divulgaç�
 
 2 - Compete igualmente à Divisão de Relações Públicas e Técnicas coordenar as acções de cooperação com organismos nacionais ou estrangeiros afins e, em particular, com os da comunidade de países de língua portuguesa.
 
-##### SUBSECÇÃO VII — Divisão de Sistemas de Informação de Gestão
+##### SUBSECÇÃO VII
+
+##### Divisão de Sistemas de Informação de Gestão
 
 ###### Artigo 79.º — Competências
 

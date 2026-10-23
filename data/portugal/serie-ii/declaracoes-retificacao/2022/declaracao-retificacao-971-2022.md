@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/11/223000000/0030800308.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/971-2022-203636116
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7e3580e0c223cad27f353f8a0a4bfae641599b18064d42d4724679273a194ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4cafdb52563deb342df4ecfba1c094d620ccfbc059e65d493082f73b8dba80c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185229325:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:46Z'
   warnings: []
   errors: []
 ---
@@ -91,3 +95,5 @@ Torna-se público que, por deliberação tomada em reunião de Câmara Municipal
 Assim, onde se lê «Classificação como imóvel de interesse municipal (IM) do edifício sito no Largo da Misericórdia e na Rua de João Facco Viana, n.os 8 a 12, na freguesia e concelho de Alcochete.» deve ler-se «Classificação como monumento de interesse municipal (MIM) do edifício sito no Largo da Misericórdia e na Rua de João Facco Viana, n.os 8 a 12, na freguesia e concelho de Alcochete.».
 
 7 de novembro de 2022. - O Presidente da Câmara, Fernando Manuel Gonçalves Pina Pinto.
+
+315854303

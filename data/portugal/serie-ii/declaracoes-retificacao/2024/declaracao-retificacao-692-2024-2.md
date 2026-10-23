@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/08/167000000/0013400134.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/692-2024-886180595
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-08-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:54:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24cda61c71e1e4692141395b5e1bb795ecece874e965f571931d9b50e9f486c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1168b9ad974cc84117aaad8fe1a262a198e6a15d5254ae0cf46bb938568dc0bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:54:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:54:20Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +85,5 @@ validation:
 Por ter sido publicado com inexatidão, no Diário da República, 2.ª série, n.º 157, de 14 de agosto de 2024, o Despacho n.º 9309/2024, respeitante à renovação de comissões de serviço no IPG, por um período de 3 anos, no caso, do Mestre João Paulo de Sá Valbom, no cargo de coordenador do Centro de Informática do IPG, retifica-se que onde se lê "com efeitos a partir de 03 de setembro de 2024." deve ler-se "com efeitos a partir de 02 de julho de 2024".
 
 14 de agosto de 2024. - O Presidente do Instituto Politécnico da Guarda, Prof. Doutor Joaquim Manuel Fernandes Brigas.
+
+318025873

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/351/2003/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-2003-571878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40a790fab263ff1f106e14669b30a9867549bdf2a65986e71e86cd67caa07475
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d1f006b1070ae7b1bb297b64284e8e8d1bdacfb6c26ef476a80a450c73888b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,27 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:676204:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541831:por
+  label: "Transferida para a Vale de Lebres - Actividades Turísticas e Cinegéticas, Lda., a zona de caça turística atribuída\
+    \ pela Port 893/90, de 25-Set, renovada pelo presente diploma, pela PORT.290/2004.20.03.2004.MECO, DR.IS-B [68] de 20.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/290-2004-541831
+  date: '2004-03-20'
+- type: amended_by
+  target: pt:dre:676204:por
+  label: "Anexado um prédio rústico à zona de caça atribuída pela Port 893/90, de 25-Set, com as alterações constantes do\
+    \ presente diploma, pela PORT.178/2006.22.02.2006.MADRP, DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/178-2006-676204
+  date: '2006-02-22'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -87,16 +100,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/654/2002/06/17/p/dre
   label: null
   source: http://data.dre.pt/eli/port/654/2002/06/17/p/dre
+- type: cites
+  target: pt:dre:146249:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554839:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:43Z'
   warnings: []
   errors: []
 ---

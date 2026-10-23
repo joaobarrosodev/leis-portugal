@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 65/2002, 1º Suplemento, Série I-B de 2002-03-18
   number: '65'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2514-(2) a 2514-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/293-a/2002/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/293-a-2002-157647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b34d465859c6a08ea59d1c051c01f507c80bcbbf4820aa0339d4f29131bf4ca7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5839447808e92c5dd57d2f31f0738730c79f505c80b33e0972802f4516a1560d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,15 +66,15 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Sipac
-- Contrato de Seguro
+- Agricultura
+- Apoio ao Investimento
 - Bonificação dos Prémios de Seguro
 - Catástrofe
-- Apoio ao Investimento
+- Contrato de Seguro
 - Regulamento
-- Agricultura
 - Seguro Agrícola
 - Seguro contra Danos
+- Sipac
 - Situação de Calamidade
 relationships:
 - type: amended_by
@@ -105,16 +105,46 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/47/2000/02/03/p/dre
   label: null
   source: http://data.dre.pt/eli/port/47/2000/02/03/p/dre
+- type: cites
+  target: pt:dre:316922:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406094:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535012:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506985:por
+  label: "Revogada a Port 388/99 de 27-Mai, alterada e republicada pelo presente diploma, pela PORT.907/2004.26.07.2004.MF,\
+    \ DR.IS-B [174] de 26.07.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/907-2004-506985
+  date: '2004-07-26'
 article_structure:
   article_count: 0
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:20Z'
   warnings: []
   errors: []
 ---
@@ -163,7 +193,7 @@ ii) Nos contratos de seguro de colheitas celebrados individualmente, para pomare
 
 Por forma a facilitar a interpretação da atribuição de bonificações, apresenta-se o seguinte quadro resumo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf)](https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf)
 
 9.º O n.º 5 da secção VI do capítulo I do referido Regulamento passa a ter a seguinte redacção:
 
@@ -177,13 +207,19 @@ Por forma a facilitar a interpretação da atribuição de bonificações, apres
 
 Em 18 de Março de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
 
-## ANEXO — REGULAMENTO DO SISTEMA INTEGRADO DE PROTECÇÃO CONTRA AS ALEATORIEDADES CLIMÁTICAS
+ANEXO
 
-### CAPÍTULO I — Seguro de colheitas
+REGULAMENTO DO SISTEMA INTEGRADO DE PROTECÇÃO CONTRA AS ALEATORIEDADES CLIMÁTICAS
 
-#### SECÇÃO I — Culturas cobertas
+CAPÍTULO I
+
+Seguro de colheitas
+
+SECÇÃO I
+
+Culturas cobertas
 
 1 - As culturas abrangidas pelo seguro de colheitas, bem como as limitações decorrentes da localização, da área de cultivo e da idade da plantação, quando existam, são as seguintes:
 
@@ -253,7 +289,9 @@ z) Tomate para indústria.
 
 9 - Não ficam também abrangidas as culturas cujas sementeiras ou plantações tenham sido feitas fora das épocas normais para as respectivas regiões e ainda quando tenham sido feitas ou mantidas em condições tecnicamente desaconselháveis; em caso de dúvida, compete o seu esclarecimento aos serviços regionais do MADRP.
 
-#### SECÇÃO II — Riscos cobertos
+SECÇÃO II
+
+Riscos cobertos
 
 1 - O seguro de colheitas garante a cobertura dos seguintes riscos:
 
@@ -425,7 +463,9 @@ Distrito de Viseu - concelhos de Castro Daire, Moimenta da Beira, Penalva do Cas
 
 8 - A produção de efeitos do contrato de seguro é regulada pelas condições da apólice.
 
-#### SECÇÃO III — Celebração do contrato de seguro
+SECÇÃO III
+
+Celebração do contrato de seguro
 
 1 - O seguro de colheitas pode ser efectuado em qualquer companhia de seguros autorizada a explorar o ramo a que se refere o n.º 9) do artigo 123.º do [Decreto-Lei n.º 94-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-b-1998-474478), de 17 de Abril, através da celebração de um contrato individual ou colectivo.
 
@@ -441,7 +481,9 @@ Distrito de Viseu - concelhos de Castro Daire, Moimenta da Beira, Penalva do Cas
 
 7 - O recibo do prémio de seguro deve sempre indicar o valor da bonificação atribuída pelo Estado.
 
-#### SECÇÃO IV — Valor seguro
+SECÇÃO IV
+
+Valor seguro
 
 1 - Para efeitos de cálculo do valor a segurar, são consideradas as produções efectivamente esperadas e os preços de mercado correntes na região.
 
@@ -465,7 +507,9 @@ e) Correcção de erros de cálculo cometidos pelo segurado nas declarações in
 
 6 - Sem prejuízo das datas limite de produção definidas nas condições especiais da apólice uniforme, o contrato caduca na data da conclusão da colheita e, no caso específico das culturas arbóreas ou arbustivas, no momento em que os frutos são retirados da árvore ou da planta.
 
-#### SECÇÃO V — Indemnizações
+SECÇÃO V
+
+Indemnizações
 
 1 - O seguro de colheitas garante ao agricultor uma indemnização sobre o montante dos prejuízos sofridos pelas culturas que tenham origem em qualquer dos riscos abrangidos pela apólice.
 
@@ -489,7 +533,9 @@ e) Quando o sinistro ocorrer numa fase do ciclo produtivo em que, técnica e eco
 
 6 - Os limites referidos na alínea b) do n.º 4 podem ser alterados por despacho conjunto dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
 
-#### SECÇÃO VI — Bonificações dos prémios de seguro de colheitas
+SECÇÃO VI
+
+Bonificações dos prémios de seguro de colheitas
 
 1 - Nos termos do artigo 4.º do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), o Estado bonificará os prémios de seguro de colheitas.
 
@@ -523,7 +569,7 @@ Contratos de seguro colectivos - serão ainda concedidos 10% de bonificação ao
 
 Por forma a facilitar a interpretação da atribuição de bonificações, apresenta-se o seguinte quadro resumo:
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf)
+[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf)](https://files.diariodarepublica.pt/1s/2002/03/065b01/00020014.pdf)
 
 3 - Nenhum contrato de seguro poderá usufruir de uma bonificação superior a 75% do prémio.
 
@@ -1063,7 +1109,9 @@ Boa disponibilidade de água para nega.
 
 8 - Sem prejuízo da diversidade de situações de bonificação decorrente do disposto nos números anteriores, o valor do prémio a pagar pelo tomador do seguro deverá ser líquido da bonificação a atribuir e, no mínimo, deverá corresponder a 25% do prémio comercial.
 
-### CAPÍTULO II — Fundo de calamidades
+CAPÍTULO II
+
+Fundo de calamidades
 
 1 - De acordo com o artigo 6.º do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), o fundo de calamidades destina-se a intervir apenas em situações de calamidade agrícola de origem climatérica e a compensar os agricultores por danos provocados exclusivamente por riscos cuja cobertura não seja possível efectuar no âmbito de um contrato de seguro de colheitas.
 
@@ -1145,7 +1193,9 @@ iv) Os agricultores que efectuem o seguro de colheitas a partir de 16 de Junho n
 
 11 - A ocorrência de situações de calamidade para actividades não abrangidas pelo seguro de colheitas poderá ser objecto de intervenção por parte do Estado, sem que, contudo, sejam utilizados os recursos financeiros do fundo de calamidades.
 
-### CAPÍTULO III — Compensação de sinistralidade
+CAPÍTULO III
+
+Compensação de sinistralidade
 
 1 - De acordo com o estipulado no artigo 9.º do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), o mecanismo de compensação de sinistralidade destina-se a compensar as seguradoras pelo excesso de sinistralidade que ocorra durante o exercício da sua actividade.
 
@@ -1183,7 +1233,9 @@ iii) Relativamente à região E, a contribuição será de 10,8% da totalidade d
 
 b) O valor dos prémios a considerar para efeitos de cálculo da contribuição definida anteriormente deverá estar em conformidade com o referido na subalínea ii) da alínea b) do n.º 2 deste capítulo.
 
-### CAPÍTULO IV — Disposições finais
+CAPÍTULO IV
+
+Disposições finais
 
 1 - A tramitação processual, a observar entre o IFADAP e as seguradoras, necessária ao processamento das várias componentes do SIPAC, será definida em normativo a emitir pelo IFADAP.
 

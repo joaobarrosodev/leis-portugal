@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/036000000/0883008831.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/436-2011-1673448
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b94d4c5101647a0e22ffb1148a7cd12240962792bd225aa0d90861bd7f47cc8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27fe3d2ea5b3609a64e40fb2fbe929201d46f456abef45ce42a6529ced2ce0d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:40Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 436/2011
 Por ter sido publicado com inexactidão o aviso n.º 3369/2011 no Diário da República, 2.ª série, n.º 22, de 1 de Fevereiro de 2011, rectifica-se que onde se lê «[f]az-se público que por despacho do Vogal do Conselho Directivo da Administração Central do Sistema de Saúde, I.P., de 11 de Janeiro de 2011, por delegação de competências do Conselho Directivo foram nomeados os júris a seguir indicados da área profissional de Urologia» deve ler-se «[f]az-se público que por despacho do vogal do conselho directivo da Administração Central do Sistema de Saúde, I. P., de 11 de Janeiro de 2011, por delegação de competências do conselho directivo, foram nomeados os júris a seguir indicados da área profissional de urologia, no âmbito do concurso de habilitação ao grau de consultor da carreira médica hospitalar, aberto pelo aviso n.º 848/2005 (2.ª série), publicado no Diário da República, 2.ª série, n.º 21, de 31 de Janeiro de 2005».
 
 7 de Fevereiro de 2011. - O Coordenador da Secretaria do Conselho, Jorge Gonçalves.
+
+204347532

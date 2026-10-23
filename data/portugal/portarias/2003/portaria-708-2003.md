@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/708/2003/08/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/708-2003-652972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12803ceb5c047437332a948a789dbc371e1db542d1dabd95be3c73f4296bad14
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6200b14cd118aa43d3b2bc2d554cddb92b3a23702cea7e330c7d56b552901f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,34 @@ relationships:
   target: pt:dre:622372:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:242901:por
+  label: "Alterados os arts. 10º e 13º pela PORT.436-A/2006.05.05.2006.MJ, DR.IS-B [87-Supl] de 05.05.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-a-2006-242901
+  date: '2006-05-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/38/2003/03/08/p/dre
+- type: cites
+  target: pt:dre:220944:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:622372:por
+  label: "Revogada pela PORT.331-B/2009.30.03.2009.MJ, DR.IS [62-Supl] de 30.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/331-b-2009-622372
+  date: '2009-03-30'
 article_structure:
   article_count: 15
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:47Z'
   warnings: []
   errors: []
 ---
@@ -263,14 +277,14 @@ O solicitador de execução informa a Câmara dos Solicitadores sobre qual a dis
 
 A presente portaria entra em vigor no dia 15 de Setembro de 2003.
 
-**A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 1 de Julho de 2003.**
+A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 1 de Julho de 2003.
 
 ## ANEXO I — Tarifas a que fazem referência os artigos 7.º e 9.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf)](https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf)
 
 ## ANEXO II — Tabela a que faz referência a alínea a) do n.º 1 do artigo 8.º
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf)
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf)](https://files.diariodarepublica.pt/1s/2003/08/178b00/46084611.pdf)
 
 O valor recuperado ou caucionado, quando superior a (euro) 1750, será dividido em duas partes: uma, igual ao limite do maior dos escalões que nele couber, à qual se aplicará a taxa marginal correspondente a esse escalão; outra, igual ao excedente, a que se aplicará a taxa base respeitante ao escalão imediatamente superior.

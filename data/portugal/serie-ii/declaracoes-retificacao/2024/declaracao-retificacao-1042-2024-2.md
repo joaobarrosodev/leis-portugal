@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/235000000/0014200145.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1042-2024-898867032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50437f11af63b72d00ca1ce2068e2f44aa19dd971fcbaabf872382841075fc2b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42e04b3398e97c6cd2c81c08819c769f329d3190cf4525eb11381fefc6da09ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:22Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +104,9 @@ Por ter sido detetada uma incorreção na ficha de registo de alteração do cic
 
 QUADRO N.º 1
 
-| Áreas científicas | Sigla | Créditos | Créditos |
+| Áreas científicas | Sigla | Créditos |  |
 | --- | --- | --- | --- |
-| Áreas científicas | Sigla | Obrigatórios | Opcionais |
+| Obrigatórios | Opcionais |  |  |
 | Enfermagem | ENF | 181,5 | 7,5 |
 | Biologia e Bioquímica | BIB | 23,0 | 0,0 |
 | Ciências da Educação | CIE | 3,0 | 0,0 |
@@ -117,7 +117,7 @@ QUADRO N.º 1
 | Sociologia | SOC | 3,0 | 0,0 |
 | Terapia e Reabilitação | TER | 3,0 | 0,0 |
 | Subtotal |  | 232,5 | 7,5 |
-| Total |  | 240,0 | 240,0 |
+| Total |  | 240,0 |  |
 
 8 - Observações:
 
@@ -125,10 +125,10 @@ QUADRO N.º 1
 
 QUADRO N.º 2
 
-| Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Total(5) | T | TP | PL | TC | S | E | OT | O | Horas totaisde contacto | Créditos(7) | Observações(8) |
+| Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Horas de trabalho | Créditos(7) | Observações(8) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos(7) | Observações(8) |
-| Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Total(5) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Créditos(7) | Observações(8) |
+| Total(5) | Contacto(6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totaisde contacto |  |  |  |  |  |  |  |
 | Anatomohistofisiologia I | BIB | 1.º | 1.º Semestre | 135,0 |  | 60,00 |  |  |  |  |  |  | 60,0 | 5 |  |
 | Bioética e Deontologia | FIE | 1.º | 1.º Semestre | 135,0 |  | 60,00 |  |  |  |  |  |  | 60,0 | 5 |  |
 | Bioquímica e Biofísica | BIB | 1.º | 1.º Semestre | 108,0 |  | 30,00 | 15,00 |  |  |  |  |  | 45,0 | 4 |  |
@@ -170,13 +170,15 @@ Unidades curriculares opcionais
 
 QUADRO N.º 3
 
-| Unidade curricular opcional n.º(0) | Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Horas de trabalho | Créditos(7) | Observações(8) |
+| Unidade curricular opcional n.º(0) | Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Horas de trabalho | Créditos(7) | Observações(8) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Unidade curricular opcional n.º(0) | Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Total(5) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Contacto(6) | Créditos(7) | Observações(8) |
-| Unidade curricular opcional n.º(0) | Unidade curricular(1) | Áreacientífica(2) | Anocurricular(3) | Organização do ano curricular(4) | Total(5) | T | TP | PL | TC | S | E | OT | O | Horas totaisde contacto | Créditos(7) | Observações(8) |
+| Total(5) | Contacto(6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| T | TP | PL | TC | S | E | OT | O | Horas totaisde contacto |  |  |  |  |  |  |  |  |
 | OPÇÃO 1 | Ensino Clínico - Cuidados Continuados | ENF | 3.º | 2.º Semestre | 202,5 |  |  |  |  |  | *132,5 |  |  | 132,5 | 7,5 |  |
 | OPÇÃO 2 | Ensino Clínico - Cuidados Paliativos | ENF | 3.º | 2.º Semestre | 202,5 |  |  |  |  |  | *132,5 |  |  | 132,5 | 7,5 |  |
 | OPÇÃO 3 | Ensino Clínico - Instituições de Apoio Social | ENF | 3.º | 2.º Semestre | 202,5 |  |  |  |  |  | *132,5 |  |  | 132,5 | 7,5 |  |
 | OPÇÃO 4 | Ensino Clínico - Outros Contextos | ENF | 3.º | 2.º Semestre | 202,5 |  |  |  |  |  | *132,5 |  |  | 132,5 | 7,5 |  |
 
 Observação: Nas unidades curriculares as horas assinaladas com * correspondem a horas de Ensino Clínico.
+
+318399835

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/156/2003/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2003-197552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T14:47:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f77b9155fef6e8ce4bf86e7df5654c956dce8686c047a3b430c19a6cdc686cdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2149e8dd7541cdebef6dce575614d0b4807c078b17c2147b5adafb5aefe1aee1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:47:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,19 +67,52 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Ajuda Comunitária
-- Pesca
 - Apoio ao Investimento
 - Aquicultura
+- Intervenção Operacional Pescas
+- Pesca
 - QCA III
 - Regime de Apoio
 - Regime de Apoio ao Desenvolvimento da Aquicultura
-- Intervenção Operacional Pescas
 - Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:498528:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:661558:por
+  label: "Alterado o nº 2 do art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura aprovado pela Port\
+    \ 1083/2000 de 09-Nov, com a redacção do presente diploma, pela PORT.394/2006.24.04.2006.MADRP, DR.IS-B [80] de 24.04.2006\
+    \ \0 \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/394-2006-661558
+  date: '2006-04-24'
+- type: amended_by
+  target: pt:dre:552352:por
+  label: "Alterados os arts. 5º e 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, anexo à Port 1083/2000\
+    \ de 09-Nov, na redacção do presente diploma, pela PORT.1413/2006.18.12.2006.MADRP, DR.IS [241] de 18.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1413-2006-552352
+  date: '2006-12-18'
+- type: amended_by
+  target: pt:dre:522644:por
+  label: "Alterado o art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, anexo à Port 1083/2000 de\
+    \ 09-Nov, pela PORT.89/2007.19.01.2007.MADRP, DR.IS [14] de 19.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/89-2007-522644
+  date: '2007-01-19'
+- type: amended_by
+  target: pt:dre:181388:por
+  label: "Derrogado, nos termos do art. 2º, o disposto na al. f) do art. 5º do Regulamento do Regime de Apoio ao Desenvolvimento\
+    \ da Aquicultura, aprovado pela Port 1083/2000, de 09-Nov, alterada pelo presente diploma, pela PORT.165-B/2009.13.02.2009.MADRP,\
+    \ DR.IS [31-Supl] de 13.02.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-b-2009-181388
+  date: '2009-02-13'
+- type: amended_by
+  target: pt:dre:498528:por
+  label: "Dada nova redação ao art. 9º do Regulamento do Regime de Apoio ao Desenvolvimento da Aquicultura, aprovado pela\
+    \ Port 1083/2000 de 09-nov, alterado pelo presente diploma, pela PORT.244/2013.02.08.2013.MAMAOT, DR.IS [148] de 02.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/244-2013-498528
+  date: '2013-08-02'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/224/2000/09/09/p/dre
   label: null
@@ -92,16 +125,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/56-i/2001/01/29/p/dre
   label: null
   source: http://data.dre.pt/eli/port/56-i/2001/01/29/p/dre
+- type: cites
+  target: pt:dre:163810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621958:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:47:29Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +177,9 @@ São condições específicas de acesso a este regime:
 
 f) A execução do projecto não ter sido iniciada antes da apresentação da candidatura, à excepção da construção de novos estabelecimentos que não se encontrem concluídos e dos estudos previstos na alínea p) do artigo 7.º, desde que iniciados até 180 dias antes da data da apresentação da candidatura.
 
-###### Artigo 7.º — Despesas elegíveis
+Artigo 7.º
+
+Despesas elegíveis
 
 1 - Para efeitos de concessão de apoio, são elegíveis as seguintes despesas:
 
@@ -142,7 +189,9 @@ e) Veículos aprovados e certificados nos termos do Acordo Internacional de Tran
 
 p) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técnico-económicos e de impacte ambiental, acréscimos de preços e os custos associados às garantias prestadas por bancos ou outras instituições financeiras, exigidas no âmbito da execução do projecto, até ao limite máximo de 12% das despesas elegíveis.
 
-###### Artigo 9.º — Natureza e montantes dos apoios
+Artigo 9.º
+
+Natureza e montantes dos apoios
 
 ...
 
@@ -150,13 +199,17 @@ p) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técn
 
 ...
 
-###### Artigo 11.º — Apreciação e decisão
+Artigo 11.º
+
+Apreciação e decisão
 
 ...
 
 3 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
 
-###### Artigo 12.º — Atribuição dos apoios
+Artigo 12.º
+
+Atribuição dos apoios
 
 ...
 
@@ -164,7 +217,9 @@ p) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técn
 
 ...
 
-## ANEXO I — (a que se refere o artigo 4.º)
+ANEXO I
+
+(a que se refere o artigo 4.º)
 
 Desenvolvimento da aquicultura
 
@@ -196,7 +251,9 @@ a) Para a alínea e) toma-se como base de cálculo dos 20% a totalidade das desp
 
 b) Para a alínea p) toma-se como base de cálculo dos 12% a totalidade das despesas elegíveis previstas nas demais alíneas, incluindo a despesa calculada nos termos da alínea anterior.
 
-###### Artigo 11.º — Apreciação e decisão
+Artigo 11.º
+
+Apreciação e decisão
 
 ...
 
@@ -206,4 +263,4 @@ b) Para a alínea p) toma-se como base de cálculo dos 12% a totalidade das desp
 
 4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
 
-**O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.**
+O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 24 de Janeiro de 2003.

@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/241000000/0008300085.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1071-2024-899909725
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 510461ff51e28c449e54a21bf441fca9f536fd42e82d5e5fd5c6e20eb83cf4bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6c680b5a250f1177db922f2eb7ceb60929cf5f3fcc62a575f6da1207ba77675
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:178492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:212770101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:896447322:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:32Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +98,9 @@ validation:
 
 Tendo sido publicado com inexatidão o [Aviso n.º 25289/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/25289-2024-896447322), no Diário da República, 2.ª série, n.º 220, de 13 de novembro de 2024, procede-se à republicação e consequente retificação da lista nominativa do pessoal docente que obteve provimento no quadro deste Agrupamento de Escolas da Maia em resultado de procedimento concursal previsto no [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho, na sua versão atual, aplicado em conjugação com o [Decreto-Lei n.º 32-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-a-2023-212770101), de 8 de maio, com efeitos a 1 de setembro de 2024.
 
-| Grupo | Nome | Índice | Designação | Código | Designação | Código |
+| Grupo | Nome | Índice | Agrupamento de escolas/Escola não agrupada (AE/ENA)/QZP - provimento anterior | Agrupamento de escolas/Escola não agrupada (AE/ENA)/QZP - provimento atual |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Grupo | Nome | Índice | Agrupamento de escolas/Escola não agrupada (AE/ENA)/QZP - provimento anterior | Agrupamento de escolas/Escola não agrupada (AE/ENA)/QZP - provimento anterior | Agrupamento de escolas/Escola não agrupada (AE/ENA)/QZP - provimento atual | Agrupamento de escolas/Escola não agrupada (AE/ENA)/QZP - provimento atual |
+| Designação | Código | Designação | Código |  |  |  |
 | 100 | Maria Margarida Oliveira Figueirinhas Pinto | 272 | Agrupamento de Escolas D. Pedro IV, Vila do Conde | 150848 | AE da Maia | 152020 |
 | 200 | Cristina Maria Valente Viana | 245 | Agrupamento de Escolas de Santa Iria de Azóia, Loures | 172078 | AE da Maia | 152020 |
 | 200 | Dulcinea Maria Ferreira Silva | 272 | Agrupamento de Escolas Gonçalo Mendes da Maia, Maia | 152031 | AE da Maia | 152020 |
@@ -130,3 +142,5 @@ Tendo sido publicado com inexatidão o [Aviso n.º 25289/2024/2](https://diariod
 | 910 | Luísa Carla Laiginha Leal | 218 | Agrupamento de Escolas Rio Arade, Lagoa | 145130 | AE da Maia | 152020 |
 
 29 de novembro de 2024. - O Diretor, Rui Manuel Oliveira Duarte.
+
+318414576

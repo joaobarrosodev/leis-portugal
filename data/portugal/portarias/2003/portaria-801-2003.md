@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/801/2003/08/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/801-2003-660093
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:51:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d27ec4bccfe61375450e1a50ba5eaf5be1c4d7730ce88746c21b01593b457466
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a14cb144ec8da53637c2440c35b0fa5c59f4a2bd67446ea524eaed183864a54f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:51:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,39 @@ relationships:
   target: pt:dre:492239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667716:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pelo presente diploma, pela PORT.291/2006.22.03.2006.MADRP,\
+    \ DR.IS-B [58] de 22.03.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-2006-667716
+  date: '2006-03-22'
+- type: amended_by
+  target: pt:dre:545838:por
+  label: "Corrigido o nº 1º da Port 291/2006 de 22-Mar, que alterou a zona de caça atribuída no presente diploma, pela PORT.1117/2006.18.10.2006.MADRP,\
+    \ DR.IS [201] de 18.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1117-2006-545838
+  date: '2006-10-18'
+- type: amended_by
+  target: pt:dre:518443:por
+  label: "Excluídos vários prédios rústicos da zona de caça atribuída no presente diploma, com a redacção dada pelas Port\
+    \ 291/2006 de 22-Mar e 1117/2006 de 18-Out, pela PORT.273/2007.12.03.2007.MADRP, DR.IS [50] de 12.03.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/273-2007-518443
+  date: '2007-03-12'
+- type: amended_by
+  target: pt:dre:455599:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterado pela Port 291/2006,\
+    \ de 22-Mar, pela Port 1117/2006, de 18-Out e pela Port 273/2007, de 12-Mar, pela PORT.859/2008.13.08.2008.MADRP, DR.IS\
+    \ [156] de 13.08.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/859-2008-455599
+  date: '2008-08-13'
+- type: amended_by
+  target: pt:dre:492239:por
+  label: "Renovada, por um período de seis anos, a zona de caça municipal de Pechão, criada pelo presente diploma, alterada\
+    \ pela Port 291/2006, de 22-Mar, pela Port 1117/2006, de 18-Out, pela Port 273/2007, de 12-Mar e pela Port 859/2008, de\
+    \ 13-Ago, bem como a transferência de gestão, por igual período, pela PORT.725/2009.07.07.2009.MADRP, DR.IS [129] de 07.07.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/725-2009-492239
+  date: '2009-07-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +123,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1391/2002/10/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1391/2002/10/25/p/dre
+- type: cites
+  target: pt:dre:434640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:51:21Z'
   warnings: []
   errors: []
 ---

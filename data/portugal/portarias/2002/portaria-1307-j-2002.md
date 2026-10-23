@@ -21,7 +21,7 @@ publication:
   reference: Diário da República n.º 226/2002, 1º Suplemento, Série I-B de 2002-09-30
   number: '226'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 6642-(8) a 6642-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/09/226b01/00080008.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/1307-j/2002/09/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1307-j-2002-626192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:37:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24091cee727070d817fa09e9c8af1c233e63156ef4ab112fde68c4e8defaaa1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c689e44c3c68d1503690a8d037bc4bf98741fe86a3e48def78c5b33fa89adb3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:37:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,6 +76,12 @@ relationships:
   target: pt:dre:455593:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:455593:por
+  label: "Renovada, por um período de seis anos, a concessão da zona de caça atribuída pela Portaria 254-GI/96, de 15 de Julho,\
+    \ na redacção do presente diploma, pela PORT.862/2008.13.08.2008.MADRP, DR.IS [156] de 13.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/862-2008-455593
+  date: '2008-08-13'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -100,16 +106,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/872/2002/07/25/p/dre
   label: null
   source: http://data.dre.pt/eli/port/872/2002/07/25/p/dre
+- type: cites
+  target: pt:dre:157181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:197349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635601:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:37:51Z'
   warnings: []
   errors: []
 ---

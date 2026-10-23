@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2003/06/134b00/34693473.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/473/2003/06/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/473-2003-683241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 146382abaca7c6d300054d904cbfc073f6a565c3d2e436169cc12cda12dce321
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d6cbf4a96a3d184719915e02d0db2c7bb0a3afef504e857ca315ab68ccad7d7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:49:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,16 +67,16 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Localização de Empresas
-- Higiene do Trabalho
 - Estabelecimento Industrial
-- Segurança no Trabalho
+- Higiene do Trabalho
 - Impresso
 - Indústria
 - Licenciamento
 - Licenciamento de Obras
+- Localização de Empresas
 - Proteção do Ambiente
 - Saúde no Trabalho
+- Segurança no Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:520852:por
@@ -102,16 +102,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/314/1994/05/24/p/dre
   label: null
   source: http://data.dre.pt/eli/port/314/1994/05/24/p/dre
+- type: cites
+  target: pt:dre:226227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:269606:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632403:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520852:por
+  label: "Revogada a partir de 10.05.2007 pela PORT.584/2007.09.05.2007.MFAP, DR.IS [89] de 09.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/584-2007-520852
+  date: '2007-05-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:49:26Z'
   warnings: []
   errors: []
 ---
@@ -142,7 +167,7 @@ Projecto de instalação
 
 A) O pedido de instalação dos estabelecimentos industriais enquadrados nos regimes de licenciamento de tipos 1 e 2 será acompanhado do projecto de instalação, o qual deverá conter:
 
-# Parte I - informação geral:
+Parte I - informação geral:
 
 Memória descritiva:
 
@@ -162,7 +187,7 @@ Regime de laboração e indicação do número de trabalhadores por turno, se fo
 
 Descrição das instalações de carácter social, dos vestiários, balneários, lavabos e sanitários, bem como dos serviços de segurança, higiene e saúde no trabalho.
 
-# Parte II - segurança, higiene e saúde no trabalho e segurança industrial:
+Parte II - segurança, higiene e saúde no trabalho e segurança industrial:
 
 a) Estudo de identificação de perigos e avaliação de riscos para a segurança, higiene e saúde no trabalho, incluindo:
 
@@ -192,7 +217,7 @@ Notificação acompanhada da política de prevenção de acidentes graves;
 
 Notificação e relatório de segurança, incluindo o sistema de gestão de segurança.
 
-# Parte III - protecção do ambiente:
+Parte III - protecção do ambiente:
 
 Indicação da origem da água utilizada/consumida, respectivos caudais, sistemas de tratamento associados, evidenciando a sua utilização racional;
 
@@ -208,7 +233,7 @@ Descrição do sistema de gestão ambiental adequado ao tipo de actividade e ris
 
 Identificação das fontes de emissão de ruído, acompanhada da caracterização qualitativa e quantitativa do ruído para o exterior e das respectivas medidas de prevenção e controlo.
 
-# Parte IV - peças desenhadas:
+Parte IV - peças desenhadas:
 
 Peças desenhadas, sem prejuízo de outras exigidas no âmbito de legislação específica:
 
@@ -228,13 +253,13 @@ Instalações de carácter social, escritórios e do serviço de medicina do tra
 
 Alçados e cortes do estabelecimento, devidamente referenciados e em escala não inferior a 1:200.
 
-# Parte V - instalação eléctrica:
+Parte V - instalação eléctrica:
 
 Projecto de instalação eléctrica, quando exigível nos termos da legislação aplicável, que será entregue em separata.
 
 B) O pedido de instalação dos estabelecimentos industriais enquadrados no regime de licenciamento de tipo 3 será acompanhado do projecto de instalação, o qual deverá conter:
 
-# Parte I - informação geral:
+Parte I - informação geral:
 
 Memória descritiva:
 
@@ -254,7 +279,7 @@ Regime de laboração e indicação do número de trabalhadores por turno, se fo
 
 Descrição das instalações de carácter social, vestiários, sanitários, lavabos e balneários e de primeiros socorros.
 
-# Parte II - segurança, higiene e saúde no trabalho e segurança industrial:
+Parte II - segurança, higiene e saúde no trabalho e segurança industrial:
 
 Estudo de identificação de perigos e avaliação de riscos para a segurança, higiene e saúde no trabalho, incluindo:
 
@@ -278,7 +303,7 @@ Os meios de intervenção humanos e materiais em caso de acidente;
 
 Os meios de socorro públicos disponíveis e os meios de socorro internos a instalar.
 
-# Parte III - protecção do ambiente:
+Parte III - protecção do ambiente:
 
 Indicação dos processos tecnológicos e diagramas de fabrico, especificando as melhores técnicas disponíveis e os princípios de eco-eficiência adoptados;
 
@@ -288,7 +313,7 @@ Identificação das fontes de emissão de efluentes e de geração de resíduos 
 
 Identificação das fontes de emissão de ruído, acompanhada da caracterização qualitativa e quantitativa do ruído para o exterior e das respectivas medidas de prevenção e controlo.
 
-# Parte IV - peças desenhadas:
+Parte IV - peças desenhadas:
 
 Planta de localização, em escala não inferior a 1:2000;
 
@@ -310,13 +335,13 @@ Armazenagem ou sistema de tratamento de resíduos;
 
 Alçados e cortes do estabelecimento, devidamente referenciados.
 
-# Parte V - instalação eléctrica:
+Parte V - instalação eléctrica:
 
 Projecto de instalação eléctrica, quando exigível nos termos da legislação aplicável, que será entregue em separata.
 
 C) O projecto de instalação dos estabelecimentos industriais enquadrados no regime de licenciamento de tipo 4 deverá conter:
 
-# Parte I - informação geral:
+Parte I - informação geral:
 
 a) Informações gerais:
 
@@ -340,7 +365,7 @@ Indicação dos tipos de energia utilizada e respectivo consumo;
 
 b) Listagem das máquinas e equipamentos a instalar, incluindo os de queima, de produção de frio, de força motriz, de vapor e recipientes de gases sob pressão.
 
-# Parte II - segurança, higiene e saúde no trabalho e segurança industrial:
+Parte II - segurança, higiene e saúde no trabalho e segurança industrial:
 
 Indicação dos dispositivos de segurança utilizados nas máquinas e equipamentos em que exista risco para o operador e ou para terceiros;
 
@@ -348,13 +373,13 @@ Descrição das medidas e dos meios adoptados em matéria de segurança, higiene
 
 Descrição dos equipamentos de protecção individual postos à disposição dos trabalhadores.
 
-# Parte III - protecção do ambiente:
+Parte III - protecção do ambiente:
 
 Identificação das fontes de emissão de efluentes e de geração de resíduos e sua caracterização, incluindo a descrição dos respectivos sistemas de tratamentos e destino final;
 
 Identificação das fontes de emissão de ruído e respectiva caracterização.
 
-# Parte IV - peças desenhadas:
+Parte IV - peças desenhadas:
 
 Planta da instalação industrial, devidamente legendada, em escala não inferior a 1:200, indicando a localização de:
 
@@ -370,7 +395,7 @@ Meios implantados em matéria de segurança, higiene e saúde no trabalho e segu
 
 Meios de tratamento dos efluentes e resíduos.
 
-# Parte V - instalação eléctrica:
+Parte V - instalação eléctrica:
 
 Projecto de instalação eléctrica, quando exigível nos termos da legislação aplicável.
 
@@ -396,7 +421,7 @@ O presente diploma entra em vigor no dia imediatamente a seguir ao da sua public
 
 Em 21 de Maio de 2003.
 
-**O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro da Saúde, Luís Filipe Pereira. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.**
+O Ministro da Economia, Carlos Manuel Tavares da Silva. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto. - O Ministro da Saúde, Luís Filipe Pereira. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix. - O Ministro das Cidades, Ordenamento do Território e Ambiente, Amílcar Augusto Contel Martins Theias.
 
 ## ANEXO — Apresentação do pedido de instalação ou de alteração dos estabelecimentos industriais
 

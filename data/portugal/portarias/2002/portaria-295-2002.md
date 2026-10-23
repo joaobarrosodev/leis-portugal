@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/03/066b00/25172528.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/295/2002/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/295-2002-263767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69367d56174f39eab8c63cfef3c5976b885c42285b32fcb9a7337582f7e7b61b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a0a6d2af2b169c234d7fd5e4220f4c3cb74746af00ea9ffbeded6aed717eb8b7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,8 +66,8 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Distribuição de Energia Elétrica
 - Central Hidroeléctrica
+- Distribuição de Energia Elétrica
 - Energia Hidroelétrica
 - Licenciamento
 - Produção de Energia Elétrica
@@ -80,16 +80,27 @@ relationships:
   target: celex:32001L0077
   label: null
   source: http://data.europa.eu/eli/dir/2001/77/oj
+- type: repealed_by
+  target: pt:dre:340237:por
+  label: "Revogada pelo DEC LEI.226-A/2007.31.05.2007.MAOTDR, DR.IS [105-2ºSupl] de 31.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/226-a-2007-340237
+  date: '2007-05-31'
+- type: repealed_by
+  target: pt:dre:638769:por
+  label: "Revogados o nº 2 do art. 12º, o art. 15º e o nº 3 do art. 41º pelo DEC LEI.225/2007.31.05.2007.MEI, DR.IS [105]\
+    \ de 31.05.2007\007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-2007-638769
+  date: '2007-05-31'
 article_structure:
   article_count: 44
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:21Z'
   warnings: []
   errors: []
 ---
@@ -140,7 +151,9 @@ h) «Reserva Ecológica Nacional» ou «REN» - área definida como tal pelo Dec
 
 ### CAPÍTULO II — Do procedimento
 
-#### SECÇÃO I — Secção preliminar
+#### SECÇÃO I
+
+#### Secção preliminar
 
 ###### Artigo 3.º — Das licenças necessárias para instruir o procedimento
 
@@ -326,7 +339,9 @@ c) À DGF, que emitirá parecer relativamente aos dispositivos de passagens para
 
 7 - Se a decisão for desfavorável, a DRAOT fundamentará a recusa.
 
-#### SECÇÃO IV — Secção final
+#### SECÇÃO IV
+
+#### Secção final
 
 ###### Artigo 19.º — Responsabilidade dos técnicos
 
@@ -596,7 +611,7 @@ Os prazos referidos neste diploma suspendem-se aos sábados, domingos e feriados
 
 A presente portaria entra em vigor 30 dias depois da sua publicação.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz, em 14 de Fevereiro de 2002. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 25 de Janeiro de 2002.**
+O Ministro da Economia, Luís Garcia Braga da Cruz, em 14 de Fevereiro de 2002. - O Ministro do Ambiente e do Ordenamento do Território, José Sócrates Carvalho Pinto de Sousa, em 25 de Janeiro de 2002.
 
 ## ANEXO I — Pedido de Informação prévia (PIP)
 

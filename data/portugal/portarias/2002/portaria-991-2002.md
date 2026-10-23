@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/991/2002/08/07/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/991-2002-184692
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0edf8f6bd24c940e005ac30c2b0021dbbedd6819a19e6ca205e953e7a5e5868b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e3a49df4cf59afdc3b51a8d705f9eed7e17cef96fce205539994e139352427d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,6 +75,30 @@ relationships:
   target: pt:dre:342857:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676187:por
+  label: "Anexados vários prédios rústicos à zona de caça criada pela Port 843/2000 de 26-Set, com a redacção do presente\
+    \ diploma, pela PORT.162/2006.22.02.2006.MAOTDR, DR.IS-B [38] de 22.02.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/162-2006-676187
+  date: '2006-02-22'
+- type: amended_by
+  target: pt:dre:546216:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída na Port 843/2000 de 26-Set , com as alterações constantes\
+    \ do presente diploma, pela PORT.1196/2006.07.11.2006.MAOTDR, DR.IS [214] de 07.11.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1196-2006-546216
+  date: '2006-11-07'
+- type: amended_by
+  target: pt:dre:628814:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 843/2000 de 26-Set, alterada pelo presente\
+    \ diploma, pela PORT.1576/2007.12.12.2007.MAOTDR, DR.IS [239] de 12.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1576-2007-628814
+  date: '2007-12-12'
+- type: amended_by
+  target: pt:dre:342857:por
+  label: "Renovada por dez anos a concessão da zona de caça atribuída pela Port 843/2000, de 26-Set, alterada pelo presente\
+    \ diploma, pela PORT.680/2010.12.08.2010.MADRP, DR.IS [156] de 12.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/680-2010-342857
+  date: '2010-08-12'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -87,16 +111,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/843/2000/09/26/p/dre
   label: null
   source: http://data.dre.pt/eli/port/843/2000/09/26/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560407:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:46Z'
   warnings: []
   errors: []
 ---

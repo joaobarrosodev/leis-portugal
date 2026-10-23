@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/074000000/0033100331.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/309-2022-182092814
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d72dee6506dddbd3b682f93b2764fe6fe3dbc0b92f16a5b233b3a8cdc603be3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d46010c917209b078e47d98fa564232feb21c78d7a9b3a9d455114c8d56274b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180198562:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:05Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Por ter sido publicado com inexatidão o [Aviso n.º 4927/2022](https://diariodarepublica.pt/dr/detalhe/aviso/4927-2022-180198562), publicado no Diário da República, 2.ª série, n.º 48, de 9 de março de 2022, relativamente à constituição do júri do procedimento concursal comum para a ocupação de um posto de trabalho na carreira e categoria de técnico superior, na área funcional Higiene e Segurança no Trabalho para a Divisão de Obras Municipais, retifica-se que onde se lê «Vogais efetivos: Dr. Ramiro André Pacheco Carvalho, Chefe da Divisão de Desenvolvimento Social» deve ler-se «Vogais efetivos: Dr. Ramiro André Pacheco Carvalho, Chefe da Divisão de Desenvolvimento Económico».
 
 23 de março de 2022. - O Presidente da Câmara Municipal, Francisco Luís Teixeira Alves.
+
+315204075

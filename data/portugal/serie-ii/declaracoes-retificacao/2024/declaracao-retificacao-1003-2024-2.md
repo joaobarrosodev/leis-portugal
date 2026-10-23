@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/11/228000000/0030100361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1003-2024-897667105
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-11-25T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cd9c67dc3ab0be59f3130496bb680831a1fcaf8feb0bd0e98c366eaf715c248
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abc71a56707bc03040ef76d78ad35b52262ddb14bc6527c12af40e274385894a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,109 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:125009062:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:150570704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175787:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179083239:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182213906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:483153:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500023:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538624:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66041468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853867971:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:853867972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:893148396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 104
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:08Z'
   warnings: []
   errors: []
 ---
@@ -118,9 +210,7 @@ URBANISMO
 
 ### CAPÍTULO I — DISPOSIÇÕES GERAIS
 
-Artigo III/1.º
-
-Âmbito e objeto
+###### Artigo III/1.º — Âmbito e objeto
 
 1 - O presente Livro estabelece as normas de concretização e de execução do Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual, bem como os princípios e as regras gerais de edificação do território do concelho de Amarante, sem prejuízo da legislação em vigor nesta matéria, dos planos municipais de ordenamento do território eficazes ou de regulamentos específicos que se lhe sobreponham.
 
@@ -134,9 +224,7 @@ c) Regular o procedimento de legalização das operações urbanísticas;
 
 d) Aplica-se ainda às ocupações do espaço público para efeitos de obras (andaimes, tapumes, etc.) assim como incorpora as matérias relacionadas com os resíduos sólidos urbanos decorrentes das últimas alterações legislativas nesta matéria, sem prejuízo do disposto no regulamento municipal específico
 
-Artigo III/2.º
-
-Definições
+###### Artigo III/2.º — Definições
 
 1 - Para efeitos do presente Livro, entende-se por:
 
@@ -148,7 +236,7 @@ i) As áreas de solo que, qualquer que seja o seu revestimento, sejam cobertas p
 
 ii) As que correspondam à intersecção de projeções de fachadas concorrentes;
 
-iii) As constantes nos n.<sup>os</sup>1 e 2 do artigo III/41.º;
+iii) As constantes nos n.os1 e 2 do artigo III/41.º;
 
 iv) As áreas de construção destinadas a estacionamento (Ac est);
 
@@ -230,9 +318,7 @@ mm) «Ventilação natural», a renovação do ar conseguida por diferença de p
 
 2 - O restante vocabulário urbanístico não previsto no presente Livro III tem o significado que lhe é atribuído pelo Plano Diretor Municipal, pelo artigo 2.º do RJUE e pelo [Decreto Regulamentar n.º 5/2019](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), de 27 de setembro, ou outro que lhe suceder e demais legislação em vigor sobre a matéria.
 
-Artigo III/3.º
-
-Taxas
+###### Artigo III/3.º — Taxas
 
 Todas as operações urbanísticas sujeitas a controlo administrativo, parecer prévio ou emissão de certidão por parte do Município estão sujeitas ao pagamento das taxas previstas nas normas regulamentares relativas a Taxas e Preços Municipais.
 
@@ -240,9 +326,7 @@ Todas as operações urbanísticas sujeitas a controlo administrativo, parecer p
 
 #### SECÇÃO I — ELEMENTOS INSTRUTÓRIOS DOS PEDIDOS E COMUNICAÇÕES
 
-Artigo III/4.º
-
-Regra geral
+###### Artigo III/4.º — Regra geral
 
 1 - Os pedidos de informação prévia, licenciamento, a apresentação de comunicações prévias e demais comunicações referentes a operações urbanísticas são instruídos com os elementos previstos no Regime Jurídico da Urbanização e Edificação e na [Portaria n.º 71-A/2024](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2024-853867971), de 27 de fevereiro.
 
@@ -250,9 +334,7 @@ Regra geral
 
 3 - Nas situações de inexistência ou indisponibilidade do sistema informático, os procedimentos devem decorrer com recurso a outros suportes digitais.
 
-Artigo III/5.º
-
-Levantamentos topográficos
+###### Artigo III/5.º — Levantamentos topográficos
 
 1 - Os levantamentos topográficos devem ser apresentados à escala de 1:200, ou de 1:500 no caso de loteamentos, devidamente cotados, e identificar o prédio e a respetiva área, assim como o espaço público envolvente (vias, passeios, estacionamentos, árvores e infraestruturas ou instalações aí localizadas, incluindo postes, tampas sinalização e mobiliário urbano) e, quando existam, as edificações contíguas na frente urbana respetiva.
 
@@ -282,9 +364,7 @@ b) Caso a área constante da certidão da Conservatória seja superior ou inferi
 
 c) Caso a área constante da certidão da Conservatória seja superior ao levantamento topográfico em mais que 1 %, deve ser efetuada a apreciação do pedido tendo como base a área constante do levantamento, tendo o interessado de, no prazo que vier a ser concedido para a apresentação dos projetos das especialidades, apresentar retificação do registo respetivo.
 
-Artigo III/6.º
-
-Planta de implantação
+###### Artigo III/6.º — Planta de implantação
 
 1 - Para verificação dos indicadores de ocupação do solo da operação urbanística, a planta de implantação, elaborada nos termos do n.º 4 do ponto I do anexo I da [Portaria n.º 71-A/2024](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2024-853867971), de 27 de fevereiro, georreferenciada sobre o levantamento topográfico definido nos moldes do Artigo III/5.º, em formato “.dwg”, deve conter, em layers distintos e claramente identificados, as linhas poligonais fechadas que delimitem:
 
@@ -300,9 +380,7 @@ e) As áreas de cedência para integração no domínio municipal.
 
 2 - A legenda da planta de implantação deve indicar as áreas referidas no número anterior, e no caso dos revestimentos do solo os respetivos índices de permeabilidade, os materiais a usar e acompanhadas das fichas técnicas que demonstrem esses índices de permeabilidade.
 
-Artigo III/7.º
-
-Estimativas orçamentais
+###### Artigo III/7.º — Estimativas orçamentais
 
 1 - A estimativa orçamental das obras de edificação e de demolição sujeitas a licenciamento ou comunicação prévia deve observar os preços médios de referência publicados anualmente pelo Município na sua página institucional e seguem os critérios apresentados pela Associação dos Industriais da Construção Civil e Obras Públicas do Norte, sendo que, em cada ano, e até à devida publicação, serão aplicados os do ano anterior.
 
@@ -320,9 +398,7 @@ d) Coeficiente 0,35 para muros, piscinas e áreas exteriores cobertas.
 
 4 - A estimativa orçamental referente a obras de urbanização, considerando as infraestruturas constantes da alínea h) do artigo 2.º do Regime Jurídico da Urbanização e Edificação, é a decorrente do somatório dos valores obtidos por infraestrutura a executar, tendo como referência o orçamento da obra, baseado nas quantidades e qualidades dos trabalhos necessários à sua execução, a que são aplicados os preços unitários correntes na região, que podem ser eventualmente diferentes dos preços médios de referência indicados no número anterior.
 
-Artigo III/8.º
-
-Telas finais
+###### Artigo III/8.º — Telas finais
 
 1 - A apresentação de telas finais é obrigatória nos casos expressamente previstos no RJUE.
 
@@ -330,9 +406,7 @@ Telas finais
 
 3 - A obrigatoriedade relativa ao formato das plantas indicadas no número anterior, será exigível às obras de urbanização cujo deferimento do pedido de licenciamento tenha data posterior a 2010.
 
-Artigo III/9.º
-
-Propriedade horizontal
+###### Artigo III/9.º — Propriedade horizontal
 
 1 - A requerimento do interessado, pode ser emitida certidão comprovativa da verificação dos requisitos para constituição ou alteração do edifício em propriedade horizontal, se da análise do projeto de arquitetura, ou não existindo projeto aprovado, por não ser exigível, mediante apresentação de termo de responsabilidade de técnico habilitado para a subscrição de projetos nos termos do diploma que rege a qualificação profissional dos mesmos.
 
@@ -362,9 +436,7 @@ c) Os demais elementos que o requerente considere necessários para a constitui�
 
 7 - Na eventualidade de a constituição da propriedade horizontal ser realizada e registada em entidade externa ao Município, é exigida a sua apresentação, para depósito junto do processo respetivo aquando da apresentação da comunicação de utilização.
 
-Artigo III/10.º
-
-Certidão para edificações anteriores à exigência legal de controlo administrativo
+###### Artigo III/10.º — Certidão para edificações anteriores à exigência legal de controlo administrativo
 
 1 - O pedido de certidão referente a edifícios legalmente existentes, sem licença de construção e de utilização, por terem sido erigidos em momento anterior à sua exigência, deve ser instruído com os seguintes elementos:
 
@@ -384,9 +456,7 @@ f) Fotocópias simples da certidão da descrição e de todas as inscrições em
 
 3 - Na ausência de elementos comprovativos da data da construção e caso existam dúvidas por parte dos serviços técnicos, pode ser apresentado relatório elaborado por técnico habilitado no qual seja demonstrada e tecnicamente fundamentada a idade atribuída à edificação.
 
-Artigo III/11.º
-
-Certidão para destaque de parcela de terreno
+###### Artigo III/11.º — Certidão para destaque de parcela de terreno
 
 1 - Os pedidos de certidão e de retificação de certidão comprovativa da verificação dos requisitos de destaque de parcela de terreno deve ser instruído com os seguintes documentos:
 
@@ -412,23 +482,19 @@ e) Indicação dos pedidos de informação prévia, de licença ou autorização
 
 #### SECÇÃO II — TRÂMITES PROCEDIMENTAIS
 
-Artigo III/12.º
-
-Comunicação prévia em lote
+###### Artigo III/12.º — Comunicação prévia em lote
 
 1 - As comunicações prévias para realização de obras de edificação em loteamentos, que sejam apresentadas antes de ocorrida a receção provisória das respetivas obras de urbanização, apenas podem ocorrer quando essas obras de urbanização se encontrem em estado adequado de execução e estejam demarcados no terreno os limites dos lotes da totalidade do loteamento ou de parte autonomizável deste.
 
 2 - Para efeitos do previsto no número anterior, considera-se estado adequado de execução a situação em que os lotes para os quais é apresentada comunicação prévia estão servidos com arruamento pavimentado, iluminação pública, abastecimento de água e saneamento, elementos estes a serem devidamente explicitados e demonstrados na memória descritiva a que se reporta o n.º 6 do ponto I do anexo I da [Portaria n.º 71-A/2024](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2024-853867971), de 27 de fevereiro, ou quando a conclusão das obras de edificação comunicadas seja concomitante com a conclusão das obras de urbanização.
 
-Artigo III/13.º
-
-Operações de loteamento com significativa relevância urbanística - consulta pública
+###### Artigo III/13.º — Operações de loteamento com significativa relevância urbanística - consulta pública
 
 1 - O licenciamento ou alteração à licença de loteamento fica sujeito a consulta pública sempre que sejam ultrapassados os limites referidos no n.º 2 do artigo 22.º do Regime Jurídico da Urbanização e Edificação ou a própria alteração seja superior aos referidos limites e ainda quando ultrapasse os limites infra indicados:
 
 a) 50 fogos;
 
-b) 6 000 m<sup>2</sup> de área de construção para comércio, serviços, indústria ou armazéns;
+b) 6 000 m2 de área de construção para comércio, serviços, indústria ou armazéns;
 
 c) 2 ha de área de intervenção;
 
@@ -440,9 +506,7 @@ d) 10 % da população do aglomerado urbano em que se insere a pretensão.
 
 4 - Nos casos de pedido de alteração da licença de operação de loteamento e nas alterações à comunicação prévia de loteamento, haverá ainda a consulta aos proprietários regulada no artigo seguinte.
 
-Artigo III/14.º
-
-Operações de loteamento - pronúncia dos proprietários
+###### Artigo III/14.º — Operações de loteamento - pronúncia dos proprietários
 
 1 - O pedido de alteração da licença de operação de loteamento deve ser notificado aos proprietários dos lotes constantes do alvará de loteamento, nos termos do n.º 3 do artigo 27.º do Regime Jurídico da Urbanização e Edificação, e tem, para o efeito, o requerente de os identificar e indicar as respetivas moradas, através da apresentação das certidões da conservatória do registo predial ou de fotocópias não certificadas, acompanhadas do respetivo recibo.
 
@@ -454,9 +518,7 @@ Operações de loteamento - pronúncia dos proprietários
 
 5 - As alterações à comunicação prévia de loteamento estão sujeitas ao procedimento previsto para a alteração à licença de loteamento.
 
-Artigo III/15.º
-
-Renovação da licença
+###### Artigo III/15.º — Renovação da licença
 
 1 - O titular de licença ou comunicação prévia que haja caducado pode requerer nova licença ou apresentar nova comunicação prévia, usando o modelo aprovado para o efeito, o qual, sem prejuízo do disposto no artigo 72.º do RJUE, deve encontrar-se acompanhado de todas as peças escritas e desenhadas e pareceres que, entretanto, caducaram, bem como de todas as peças escritas, desenhadas e pareceres que, entretanto, passaram a ser necessários por força da aplicação da legislação em vigor, incluindo:
 
@@ -478,9 +540,7 @@ b) Caso tenham sido levantados os títulos e pagas as taxas, será devido o paga
 
 4 - Sem prejuízo do disposto no artigo III/63.º nas renovações de licença ou de comunicação prévia que sejam apresentadas após 18 meses contados a partir da respetiva caducidade serão devidas todas as taxas, calculadas à data da apresentação e decisão no novo pedido.
 
-Artigo III/16.º
-
-Obras inacabadas
+###### Artigo III/16.º — Obras inacabadas
 
 1 - São obras inacabadas, para efeitos do disposto no artigo 88.º do Regime Jurídico da Urbanização e da Edificação, aquelas em que se encontram executadas, pelo menos, toda a estrutura resistente e a maior parte das paredes exteriores, no caso dos edifícios, ou mais de 25 % do valor constante dos orçamentos para a execução dos projetos das obras de urbanização a executar.
 
@@ -500,9 +560,7 @@ f) Memória descritiva contendo relatório do estado atual da obra, justificando
 
 g) Seguros devidamente atualizados exigíveis à data da emissão do título da licença.
 
-Artigo III/17.º
-
-Obras e construções provisórias
+###### Artigo III/17.º — Obras e construções provisórias
 
 1 - A Câmara Municipal pode conceder licenças e emitir os respetivos títulos de licença para a construção de instalações a título provisório, sob as seguintes condições:
 
@@ -518,9 +576,7 @@ b) O período de permanência das instalações em questão esteja bem definido 
 
 ##### SUBSECÇÃO I — PROCEDIMENTO DE LEGALIZAÇÃO
 
-Artigo III/18.º
-
-Noção
+###### Artigo III/18.º — Noção
 
 1 - Sem prejuízo do disposto nos Planos Municipais de Ordenamento do Território, os particulares, o município ou outras autoridades com competência atribuída por lei, podem requerer ou propor o desencadeamento de procedimentos administrativos tendentes à legalização de operações urbanísticas, nos termos previstos no Regime Jurídico da Urbanização e Edificação e no presente Livro.
 
@@ -534,9 +590,7 @@ c) Em desconformidade com estes.
 
 3 - A legalização, oficiosa ou por iniciativa do interessado, com ou sem obras a realizar, segue procedimento paralelo ao que seguiria se a operação urbanística tivesse sido sujeita a controlo administrativo ou isenta dele, ainda que, no caso de haver obras a realizar que, por si só, estejam sujeitas a procedimento de controlo prévio, deverá ser usado o procedimento específico previsto no artigo 4.º do RJUE, aplicando-se-lhes em tudo esse mesmo regime específico, e apenas se aplicando o regime previsto nos artigos seguintes no caso de ou se tratar de simples legalização, ou legalização com obras que, por si só, estivessem isentas de controlo prévio.
 
-Artigo III/19.º
-
-Iniciativa
+###### Artigo III/19.º — Iniciativa
 
 1 - O procedimento de legalização inicia-se, salvo no caso da legalização oficiosa, por requerimento do interessado, o qual é apresentado por vontade própria deste ou na sequência de ordem notificada pela Câmara Municipal.
 
@@ -546,9 +600,7 @@ Iniciativa
 
 4 - Em qualquer das situações referidas no n.º 1, e sempre que o interessado não tenha utilizado a faculdade prevista no n.º 2, a Câmara Municipal deve formular previamente juízo sobre a possibilidade de assegurar a conformidade das operações realizadas com as disposições legais e regulamentares aplicáveis, informando o particular sobre os termos em que esta se pode processar.
 
-Artigo III/20.º
-
-Instrução
+###### Artigo III/20.º — Instrução
 
 1 - Independentemente da tramitação que lhe venha a ser dada internamente nos serviços técnicos da Câmara Municipal, em face do disposto no artigo III/18.º, o requerimento de legalização deve ser instruído com os documentos indicados nos números seguintes.
 
@@ -620,17 +672,13 @@ k) Do projeto de sistemas de gestão técnica centralizada quando seja apresenta
 
 4 - Quando, para além da legalização haja necessidade de realização de obras, estas sujeitas a controlo prévio, será seguido o procedimento respetivo em face do disposto no artigo 4.º do RJUE, ainda que, no que concerne às partes sujeitas à simples legalização, se seguirá, em matéria instrutória, como disposto no presente artigo.
 
-Artigo III/21.º
-
-Apreciação municipal
+###### Artigo III/21.º — Apreciação municipal
 
 1 - O Município adota, na apreciação técnica dos pedidos de legalização, o princípio da máxima manutenção do existente, em especial quanto aos aspetos morfológicos e estéticos do edifício, procurando, no entanto, adequá-los, sempre que possível, à envolvente.
 
 2 - O procedimento integra, sempre que necessário para a comprovação das condições de dispensa das normas técnicas, uma vistoria ao edifício.
 
-Artigo III/22.º
-
-Ato administrativo e título
+###### Artigo III/22.º — Ato administrativo e título
 
 1 - A Câmara Municipal delibera sobre o pedido de legalização no prazo máximo de 45 dias, a contar da entrega de todos os elementos instrutórios exigíveis ou da data da receção do último dos pareceres, autorizações ou aprovações emitidas pelas entidades exteriores ao Município, quando tenha havido lugar a consultas; ou ainda do termo da data para a receção destes atos.
 
@@ -646,9 +694,7 @@ b) Indeferimento do pedido.
 
 5 - A resposta à comunicação prévia com prazo para utilização deve mencionar expressamente que aquela edificação foi legalizada ao abrigo do presente procedimento especial, seguindo, com as devidas adaptações, o modelo constante do anexo XIII da [Portaria n.º 71-B/2024](https://diariodarepublica.pt/dr/detalhe/portaria/71-b-2024-853867972), de 27 de fevereiro.
 
-Artigo III/23.º
-
-Normas aplicáveis
+###### Artigo III/23.º — Normas aplicáveis
 
 1 - Pode ser dispensado o cumprimento de normas técnicas relativas à construção cujo cumprimento, à data do ato de legalização, se tenha tornado impossível ou que não seja razoável exigir, desde que se verifique terem sido cumpridas as condições técnicas vigentes à data da realização da operação urbanística em questão, competindo ao requerente fazer a prova de tal data.
 
@@ -660,17 +706,13 @@ Normas aplicáveis
 
 5 - No caso previsto no número anterior, são levadas a cabo as consultas, certificações, aprovações ou pareceres externos, nos termos previstos no artigo 13.º do Regime Jurídico da Urbanização e Edificação.
 
-Artigo III/24.º
-
-Regras excecionais e especiais
+###### Artigo III/24.º — Regras excecionais e especiais
 
 1 - À legalização de operações urbanísticas sujeitas ao disposto em leis especiais aplica-se o disposto na presente subsecção em tudo o que não seja expressamente contrariado pelo respetivo regime especial.
 
 2 - O disposto no presente Livro não prejudica as exigências legais especificamente dirigidas ao exercício de atividades económicas sujeitas a regime especial que se pretendam instalar e fazer funcionar nos edifícios a legalizar ou legalizados.
 
-Artigo III/25.º
-
-Taxas
+###### Artigo III/25.º — Taxas
 
 1 - A legalização de operações urbanísticas está sujeita ao pagamento de taxas previstas no Livro Municipal de Taxas e Preços Municipais.
 
@@ -678,17 +720,13 @@ Taxas
 
 ##### SUBSECÇÃO II — INSTALAÇÃO DE ANTENAS DE TELECOMUNICAÇÕES
 
-Artigo III/26.º
-
-Âmbito e objeto
+###### Artigo III/26.º — Âmbito e objeto
 
 A presente subsecção estabelece as regras específicas relativas aos pedidos de autorização municipal para ocupação ou utilização do solo visando a instalação, construção, ampliação ou alteração de antenas emissoras de radiações eletromagnéticas, designadamente antenas referentes à rede de comunicações móveis ou estruturas que lhes sirvam de suporte físico.
 
-Artigo III/27.º
+###### Artigo III/27.º — Disposições técnicas
 
-Disposições técnicas
-
-1 - Sem prejuízo de outras disposições contidas em legislação especial, designadamente nos Decretos-Leis n.<sup>os</sup>151-A/2000, de 20.07 e 11/2003, de 18.01, a construção e ou instalação de antenas de telecomunicações deve obedecer às seguintes disposições:
+1 - Sem prejuízo de outras disposições contidas em legislação especial, designadamente nos Decretos-Leis n.os151-A/2000, de 20.07 e 11/2003, de 18.01, a construção e ou instalação de antenas de telecomunicações deve obedecer às seguintes disposições:
 
 a) Respeitar um raio de afastamento mínimo de 50 metros de qualquer edificação referente a equipamentos de utilização coletiva como tal definidos no [Decreto Regulamentar n.º 5/2019](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), de 27 de setembro ou outro que lhe venha a suceder e bem ainda os demais serviços públicos;
 
@@ -702,15 +740,11 @@ e) Cumprir os afastamentos à via confinante de acordo com as disposições lega
 
 2 - Os pedidos de licenciamento deverão ser instruídos com os elementos constantes do artigo 5.º do [Decreto-Lei n.º 11/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2003-176339), sendo que a planta que ali é indicada terá que ser apresentada em formato dwg georreferenciado no sistema de coordenadas geográficas pelo Município, e submetidos na mesma plataforma existente no Município para as demais operações urbanísticas.
 
-Artigo III/28.º
-
-Efeitos da autorização
+###### Artigo III/28.º — Efeitos da autorização
 
 A autorização municipal a que se refere a presente subsecção tem uma eficácia máxima de dois anos, podendo ser prorrogada por iguais ou inferiores períodos de tempo.
 
-Artigo III/29.º
-
-Fiscalização
+###### Artigo III/29.º — Fiscalização
 
 A Câmara Municipal pode, sempre que o entender, mandar efetuar medições do nível de radiações emitidas por tais equipamentos.
 
@@ -718,13 +752,11 @@ A Câmara Municipal pode, sempre que o entender, mandar efetuar medições do n�
 
 #### SECÇÃO I — DISPOSIÇÕES GERAIS
 
-Artigo III/30.º
-
-Obras de escassa relevância urbanística
+###### Artigo III/30.º — Obras de escassa relevância urbanística
 
 1 - Desde que não incidam em imóvel, conjunto ou sítio classificado ou em vias de classificação, zona de proteção de imóvel classificado ou em vias de classificação, ou qualquer outra área sujeita a servidão administrativa ou restrição de utilidade pública, nem contrariem alvará de loteamento ou instrumento de gestão urbanística, consideram-se de escassa relevância urbanística, para efeitos do disposto na alínea i) do n.º 1 e do n.º 3 do artigo 6.º-A do Regime Jurídico da Urbanização e da Edificação:
 
-a) As construções simples, especialmente de interesse agrícola, como poços, levadas, depósitos, eiras, ramadas e pérgulas, bem como os alpendres, arrecadações e outras obras congéneres com altura de todas as fachadas da edificação inferior a 3 m, e área não superior a 20 m<sup>2</sup> de implantação e construção, e volumetria não superior a 60 m<sup>3</sup>, desde que o número de edifícios anexos não seja superior a um e sejam construídos com materiais e técnicas construtivas adequadas à sua função, salvaguardando a sua correta integração na envolvente;
+a) As construções simples, especialmente de interesse agrícola, como poços, levadas, depósitos, eiras, ramadas e pérgulas, bem como os alpendres, arrecadações e outras obras congéneres com altura de todas as fachadas da edificação inferior a 3 m, e área não superior a 20 m2 de implantação e construção, e volumetria não superior a 60 m3, desde que o número de edifícios anexos não seja superior a um e sejam construídos com materiais e técnicas construtivas adequadas à sua função, salvaguardando a sua correta integração na envolvente;
 
 b) O encerramento, a simples abertura ou ampliação de vãos em muros de vedação, confinantes com o domínio público, desde que o vão não exceda a largura de 1,50 m, o portão introduzido não invada o domínio público, apresente caraterísticas idênticas a outros preexistentes, caso existam, e não sejam alteradas as demais caraterísticas do muro, excetuando-se as áreas sob jurisdição da administração rodoviária nacional;
 
@@ -732,7 +764,7 @@ c) As obras para eliminação de barreiras arquitetónicas, quando localizadas d
 
 d) A edificação de estufas destinadas exclusivamente a culturas agrícolas ou florestais, de estrutura ligeira coberta por plástico translúcido, sem impermeabilização do solo e desde que se verifique o cumprimento dos afastamentos legais, quer a edificações, quer a vias de comunicação, seja garantida a drenagem de águas pluviais e a remodelação de terrenos para a sua implantação não implique alterações de nível superiores a 2 m.
 
-e) Tanques, até 1,2 m de altura, 30 m<sup>2</sup> de área, e volumetria até 36 m<sup>3</sup>, desde que não confinem com a via pública;
+e) Tanques, até 1,2 m de altura, 30 m2 de área, e volumetria até 36 m3, desde que não confinem com a via pública;
 
 f) A instalação de silos para armazenagem de cereais ou rações;
 
@@ -748,9 +780,9 @@ k) Pequenas obras de alteração de fachadas, com abertura, ampliação ou fecha
 
 2 - São estabelecidos nos números seguintes limites adicionais aos previstos nas alíneas a) a c) do n.º 1 do artigo 6.º-A do RJUE, ao abrigo do disposto no n.º 3 do mesmo artigo.
 
-3 - Em cada prédio, o somatório das áreas de construção das edificações a que se refere a alínea a) do n.º 1 do artigo 6.º-A do RJUE não pode exceder 20 m<sup>2</sup> nem contrariar a licença de loteamento ou a resposta à comunicação prévia de loteamento, consoante o tipo de procedimento que aquele tenha seguido.
+3 - Em cada prédio, o somatório das áreas de construção das edificações a que se refere a alínea a) do n.º 1 do artigo 6.º-A do RJUE não pode exceder 20 m2 nem contrariar a licença de loteamento ou a resposta à comunicação prévia de loteamento, consoante o tipo de procedimento que aquele tenha seguido.
 
-4 - Em cada parcela ou lote, o somatório das áreas de construção das estufas de jardim a que se refere a alínea c) do n.º 1 do artigo 6.º-A do RJUE não pode exceder os 20 m<sup>2</sup>.
+4 - Em cada parcela ou lote, o somatório das áreas de construção das estufas de jardim a que se refere a alínea c) do n.º 1 do artigo 6.º-A do RJUE não pode exceder os 20 m2.
 
 5 - Estão ainda isentas de licenciamento e de comunicação prévia as obras das instalações previstas no Anexo III do [Decreto-Lei n.º 267/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916), de 26 de novembro, alterado pelo [Decreto-Lei n.º 217/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), de 9 de outubro.
 
@@ -762,17 +794,15 @@ k) Pequenas obras de alteração de fachadas, com abertura, ampliação ou fecha
 
 9 - Às obras de escassa relevância urbanística aplica-se o dever de informar o início dos trabalhos, nos termos dos artigos 80.º e 80.º-A do RJUE.
 
-Artigo III/31.º
-
-Operações urbanísticas de impacte relevante
+###### Artigo III/31.º — Operações urbanísticas de impacte relevante
 
 1 - Para efeitos do disposto no n.º 5 do artigo 44.º do RJUE, considera-se operação urbanística de impacte relevante aquela de que resulte:
 
-a) Área total de construção para habitação (Ac hab), comércio (Ac com) ou serviços (Ac serv), excluindo os referidos na alínea seguinte, superior a 1800 m<sup>2</sup>, ou que contenha mais do que 20 frações ou unidades autónomas de utilização;
+a) Área total de construção para habitação (Ac hab), comércio (Ac com) ou serviços (Ac serv), excluindo os referidos na alínea seguinte, superior a 1800 m2, ou que contenha mais do que 20 frações ou unidades autónomas de utilização;
 
-b) Área total de construção para serviços de saúde, empreendimentos turísticos, estabelecimentos de apoio social, de ensino ou de formação profissional superior a 3600 m<sup>2</sup>;
+b) Área total de construção para serviços de saúde, empreendimentos turísticos, estabelecimentos de apoio social, de ensino ou de formação profissional superior a 3600 m2;
 
-c) Área total de construção para indústria (Ac ind) ou logística e armazéns (Ac log) ou oficinas, superior a 6000 m<sup>2</sup>.
+c) Área total de construção para indústria (Ac ind) ou logística e armazéns (Ac log) ou oficinas, superior a 6000 m2.
 
 2 - Para o cômputo das áreas referidas no número anterior, não se incluem, salvo quando excedam e na parte em que excedam os respetivos percentuais a que se reportam os regimes excecionais previstos nos artigos 73.º e 76.º do RPDM:
 
@@ -794,15 +824,11 @@ f) as áreas de construção destinadas a varandas e outras áreas exteriores co
 
 5 - Quando haja alteração da utilização da edificação preexistente, ainda que sem ampliação, e também nos casos em que a haja, e que implique o agravamento dos parâmetros de dimensionamento aplicáveis, é obrigatória a previsão suplementar de áreas para os espaços indicados no n.º 3 do presente artigo, calculada em função do acréscimo que deva ser assegurado relativamente ao que era anteriormente exigido para a utilização existente.
 
-Artigo III/32.º
-
-Impactes semelhantes a uma operação de loteamento
+###### Artigo III/32.º — Impactes semelhantes a uma operação de loteamento
 
 Para efeitos do disposto no n.º 5 do artigo 57.º do RJUE, considera-se que determinam impactes semelhantes a uma operação de loteamento os edifícios contíguos e funcionalmente ligados entre si em cujo conjunto se verifique qualquer uma das hipóteses referidas no n.º 1 do artigo anterior, com as exceções ao mesmo previstas no n.º 2 do mesmo artigo.
 
-Artigo III/33.º
-
-Critérios morfológicos e estéticos
+###### Artigo III/33.º — Critérios morfológicos e estéticos
 
 1 - Em quaisquer operações urbanísticas, constituem fatores condicionadores do deferimento do pedido de licenciamento, da comunicação de utilização, ou do cumprimento de normas, em caso de comunicação prévia:
 
@@ -816,21 +842,17 @@ d) Caso não existam planos de urbanização, planos de pormenor ou de alinhamen
 
 2 - No âmbito do disposto no artigo 11.º do RPDM, a Câmara Municipal pode ainda estabelecer critérios para a implantação, disposição e orientação dos edifícios, no respeitante à sua perceção visual a partir das vias perimetrais dos pontos mais frequentes e importantes de contemplação, bem como para a estruturação dos acessos, podendo ainda estabelecer outros condicionamentos para um melhor aproveitamento futuro do terreno.
 
-Artigo III/34.º
-
-Informação do início dos trabalhos
+###### Artigo III/34.º — Informação do início dos trabalhos
 
 A realização de qualquer operação urbanística, independentemente da sua sujeição ou não a procedimento de controlo administrativo municipal, incluindo assim as obras de escassa relevância urbanística, impõe, ao promotor o dever de informar a Câmara Municipal da intenção de dar início aos trabalhos, nos termos do disposto no artigo 80.º-A do RJUE e do n.º 30 do anexo I da [Portaria n.º 71-A/2024](https://diariodarepublica.pt/dr/detalhe/portaria/71-a-2024-853867971), de 27 de fevereiro.
 
-Artigo III/35.º
-
-Taxas em Comunicação Prévia
+###### Artigo III/35.º — Taxas em Comunicação Prévia
 
 As taxas devidas no caso de comunicação prévia devem ser pagas por autoliquidação no prazo máximo de 12 meses, através do recurso ao simulador existente no site oficial da Câmara Municipal, em www.cm-amarante.pt.
 
 #### SECÇÃO II — DISPOSIÇÕES COMUNS
 
-Artigo III/36.º
+###### Artigo III/36.º
 
 Áreas destinadas a espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos de utilização coletiva, bem como áreas destinadas a habitação pública, de custos controlados ou para arrendamento acessível
 
@@ -850,15 +872,13 @@ c) Em áreas livres de restrições que condicionem a sua utilização.
 
 5 - As áreas verdes de utilização coletiva a ceder devem estar integradas no desenho urbano que se deseja implementar, não podendo constituir-se como espaços residuais ou canais sobrantes das áreas que constituem os lotes, e terão que cumprir as seguintes condições:
 
-a) Pelo menos 75 % da área total correspondente constitua uma parcela única não descontínua, não sendo de admitir parcelas para aquele fim com área inferior a 200 m<sup>2</sup> ou com largura igual ou menor que 5 metros, exceto quando se destinem ao cumprimento de um alinhamento na frente urbana ou ao reperfilamento de arruamentos públicos;
+a) Pelo menos 75 % da área total correspondente constitua uma parcela única não descontínua, não sendo de admitir parcelas para aquele fim com área inferior a 200 m2 ou com largura igual ou menor que 5 metros, exceto quando se destinem ao cumprimento de um alinhamento na frente urbana ou ao reperfilamento de arruamentos públicos;
 
 b) Possuam acesso direto a espaço ou via pública e a sua localização e configuração contribuam para a qualificação do espaço urbano onde se integram e para o usufruto da população instalada ou a instalar no local.
 
 6 - Sempre que, nas áreas a ceder ao abrigo das presentes disposições, haja restrições ao seu efetivo uso, a Câmara Municipal reserva-se o direito de não aceitar que a área que contém essas restrições não seja contabilizada para o cumprimento dos respetivos parâmetros.
 
-Artigo III/37.º
-
-Compensação
+###### Artigo III/37.º — Compensação
 
 1 - A não cedência ao Município de áreas legalmente previstas e a consequente substituição por compensação carecem da concordância da Câmara Municipal.
 
@@ -892,10 +912,10 @@ Fp = 0,05 + ∑ i
 
 i - índice de infraestruturação disponível no local da operação urbanística, de acordo com o quadro seguinte:
 
-| Disponibilidade de ligação direta ou indireta e de serviço | Disponibilidade de ligação direta ou indireta e de serviço | i |
+| Disponibilidade de ligação direta ou indireta e de serviço | i |  |
 | --- | --- | --- |
 | A arruamento público: | Pavimentado em calçada, betuminoso ou equivalente | 0,0095 |
-| A arruamento público: | Com passeio do lado da parcela | 0,0035 |
+| Com passeio do lado da parcela | 0,0035 |  |
 | Às infraestruturas gerais de: | Abastecimento de água | 0,0070 |
 |  | Drenagem de águas residuais | 0,0090 |
 |  | Drenagem de águas pluviais | 0,0030 |
@@ -957,17 +977,13 @@ Caso contrário, R1, R2 ou R3 têm o valor zero, consoante a rede pública em fa
 
 7 - Para efeitos de apuramento do subfator Ac, a área total de construção admissível no local da operação urbanística, de acordo com o previsto em plano municipal de ordenamento do território, em metros quadrados, e acima indicada, será considerada apenas o valor máximo do índice de utilização do solo, não se contabilizando, para este efeito, o percentual a que se reporta o n.º 6 do artigo 76.º do RPDM;
 
-Artigo III/38.º
-
-Pagamento em prestações
+###### Artigo III/38.º — Pagamento em prestações
 
 1 - Quando se verifique que o valor da compensação o justifique, pode ser autorizado o pagamento em prestações, a requerimento fundamentado do interessado, que não deve exceder o prazo de 6 meses a contar da data de emissão do alvará, importando a falta de realização de uma das prestações o vencimento de todas as restantes.
 
 2 - Serão devidos juros à taxa legal em relação às prestações em dívida, os quais serão liquidados e pagos conjuntamente com cada prestação.
 
-Artigo III/39.º
-
-Compensação em espécie
+###### Artigo III/39.º — Compensação em espécie
 
 1 - A compensação em numerário pode ser substituída por outra, em espécie, designadamente composta por bens imobiliários, que resulte de uma proposta do loteador, de acordo com uma avaliação efetuada por técnico com habilitação para o efeito.
 
@@ -977,7 +993,7 @@ Compensação em espécie
 
 4 - Quando a compensação for paga em espécie, através da cedência de parcelas de terreno, estas integram-se no domínio privado do município, destinando-se a permitir uma correta gestão dos solos, ficando sujeitas, em matéria de alienação e oneração, ao disposto na lei.
 
-Artigo III/40.º
+###### Artigo III/40.º
 
 Gestão das áreas destinadas a espaços verdes e de utilização coletiva, infraestruturas viárias e equipamentos e áreas destinadas à construção de habitação pública, de custos controlados ou para arrendamento acessível
 
@@ -987,9 +1003,7 @@ Gestão das áreas destinadas a espaços verdes e de utilização coletiva, infr
 
 3 - As áreas reservadas a espaços verdes e, ou, de utilização coletiva, consideram-se aceites apenas após a receção e inspeção dos equipamentos e de outras infraestruturas instaladas, constantes do projeto, incluindo a entrega das suas telas finais.
 
-Artigo III/41.º
-
-Áreas comuns em edifícios
+###### Artigo III/41.º — Áreas comuns em edifícios
 
 1 - Todos os edifícios passíveis de se virem a constituir em regime de propriedade horizontal, com vinte ou mais frações, terão que possuir espaços comuns, construtiva, dimensional e funcionalmente vocacionados para possibilitar a realização das respetivas Assembleias de Condomínio, e um compartimento destinado a arrecadação de material de limpeza do espaço comum.
 
@@ -1003,19 +1017,17 @@ Artigo III/41.º
 
 a) Possuir um pé direito de 2,40 m, no mínimo;
 
-b) Possuir arejamento e iluminação naturais, esta sempre que possível no que concerne ao compartimento destinado a arrecadação de material de limpeza do espaço comum, ainda que este, deva possuir acesso a partir do espaço comum e estar dotado de um ponto de luz, água, recolha e encaminhamento para o coletor de águas residuais e uma área não inferior a 4,0 m<sup>2</sup>;
+b) Possuir arejamento e iluminação naturais, esta sempre que possível no que concerne ao compartimento destinado a arrecadação de material de limpeza do espaço comum, ainda que este, deva possuir acesso a partir do espaço comum e estar dotado de um ponto de luz, água, recolha e encaminhamento para o coletor de águas residuais e uma área não inferior a 4,0 m2;
 
 c) E, no que concerne exclusivamente àqueles vocacionados para possibilitar a realização das respetivas Assembleias de Condomínio, devem possuir:
 
 i) instalação sanitária, acessível a pessoas com mobilidade condicionada, ainda que respeitando apenas os parâmetros mínimos para o efeito, composta por antecâmara com lavatório e compartimento para sanita, podendo, contudo, esta instalação não fazer parte integrante da sala destinada à Assembleia de Condomínio, mas estar em local acessível em zona comum do prédio;
 
-ii) uma área mínima de 20 m<sup>2</sup>, acrescida de 1 m<sup>2</sup> por cada grupo de 5 frações que excedem 20 frações.
+ii) uma área mínima de 20 m2, acrescida de 1 m2 por cada grupo de 5 frações que excedem 20 frações.
 
 6 - Nos logradouros dos edifícios a que se reporta o presente artigo, terão de ser previstos compartimentos para vazamento e recolha de contentores prediais de lixos, com dotação adequada à dimensão do edifício e com acesso direto pelo exterior e deste para a via pública, sendo que, caso estes compartimentos estejam na continuidade da edificação e possuam acesso pelo interior, o acesso deve ser circunscrito aos moradores, não sendo possível o acesso do exterior para o interior da edificação principal aos operadores da recolha.
 
-Artigo III/42.º
-
-Prazo de execução
+###### Artigo III/42.º — Prazo de execução
 
 1 - Para efeitos das disposições conjugadas do n.º 1 do artigo 53.º e do n.º 2 do artigo 58.º do Regime Jurídico da Urbanização e da Edificação, o prazo de execução das operações urbanísticas sujeitas a comunicação prévia não pode ultrapassar cinco anos.
 
@@ -1025,9 +1037,7 @@ Prazo de execução
 
 #### SECÇÃO III — DA URBANIZAÇÃO
 
-Artigo III/43.º
-
-Regras gerais de urbanização
+###### Artigo III/43.º — Regras gerais de urbanização
 
 1 - As obras de urbanização têm por objetivos:
 
@@ -1057,11 +1067,9 @@ d) Ter pavimento devidamente concebido e dimensionado para a carga a suportar no
 
 5 - Sem prejuízo do disposto no artigo supra referente às áreas comuns dos edifícios, nas operações urbanísticas deve prever-se a instalação de mobiliário urbano ou qualquer outro tipo de equipamento desmontável ou fixo, designadamente floreiras, papeleiras, bancos, bebedouros, parques infantis, paragens de transportes públicos, bocas-de-incêndio, e equipamentos para depósito de várias tipologias de resíduos, a instalar nos espaços exteriores públicos mediante aprovação do projeto de arranjos exteriores pela Câmara.
 
-Artigo III/44.º
+###### Artigo III/44.º — Infraestruturas viárias - parâmetros de dimensionamento
 
-Infraestruturas viárias - parâmetros de dimensionamento
-
-1 - Os parâmetros de dimensionamento das infraestruturas viárias, exceto no que concerne a estacionamentos, estes constantes nos n.<sup>os</sup>5 a 8, são os constantes do quadro seguinte:
+1 - Os parâmetros de dimensionamento das infraestruturas viárias, exceto no que concerne a estacionamentos, estes constantes nos n.os5 a 8, são os constantes do quadro seguinte:
 
 | Tipos de Ocupação | Infraestruturas - Arruamentos |
 | --- | --- |
@@ -1075,7 +1083,7 @@ Infraestruturas viárias - parâmetros de dimensionamento
 
 2 - Os valores constantes do quadro do número anterior são os mínimos a considerar, atendendo aos tipos de ocupação do espaço.
 
-3 - O perfil tipo inclui a faixa de rodagem e os passeios; caso se prefira pela inclusão de estacionamento ao longo dos arruamentos, devem aumentar-se, a cada perfil tipo, corredores laterais com o dimensionamento constante dos n.<sup>os</sup>5 a 8 do presente artigo; quando se opte pela inclusão no passeio de um espaço permeável para caldeiras para árvores, deve aumentar-se a cada passeio 1 m.
+3 - O perfil tipo inclui a faixa de rodagem e os passeios; caso se prefira pela inclusão de estacionamento ao longo dos arruamentos, devem aumentar-se, a cada perfil tipo, corredores laterais com o dimensionamento constante dos n.os5 a 8 do presente artigo; quando se opte pela inclusão no passeio de um espaço permeável para caldeiras para árvores, deve aumentar-se a cada passeio 1 m.
 
 4 - Os valores do dimensionamento de áreas destinadas a arruamentos podem não ser aplicáveis em áreas urbanas consolidadas ou com alinhamentos definidos.
 
@@ -1097,17 +1105,13 @@ d) 5,50 m no caso de estacionamento organizado a 90.º;
 
 e) A título excecional, em situações devidamente justificadas, pode admitir-se 5,00 m como valor mínimo para o caso identificado na alínea anterior.
 
-Artigo III/45.º
-
-Arruamentos não inseridos em operação de loteamento ou de impacte relevante
+###### Artigo III/45.º — Arruamentos não inseridos em operação de loteamento ou de impacte relevante
 
 1 - Os estudos urbanísticos de qualquer âmbito que impliquem a criação de arruamentos devem ser concebidos para que estes se apoiem em vias existentes, estabelecendo ligações com inequívoca lógica e justificação urbanística, evitando, sempre que possível, situações de impasse.
 
 2 - A Câmara Municipal pode definir os perfis e traçados de arruamentos e demais caraterísticas destes, em função das necessidades viárias, de fluxos existentes ou previsíveis, bem como da imagem urbana e tratamento que se pretenda imprimir no local.
 
-Artigo III/46.º
-
-Passeios pedonais
+###### Artigo III/46.º — Passeios pedonais
 
 1 - Na criação de novos arruamentos não inseridos em operação de loteamento ou de impacte relevante pode ser dispensada a necessidade de previsão de passeios, desde que tecnicamente justificada face às caraterísticas da envolvente e ao fluxo de tráfego previsível.
 
@@ -1115,9 +1119,7 @@ Passeios pedonais
 
 3 - Quando não houver lugar à construção de passeios, os serviços técnicos municipais determinam quais as caraterísticas a dar ao terreno do alargamento, designadamente bermas, valetas, aquedutos de águas pluviais e ou plano de arborização.
 
-Artigo III/47.º
-
-Instalação de redes de infraestruturas
+###### Artigo III/47.º — Instalação de redes de infraestruturas
 
 1 - A instalação de novas infraestruturas, nomeadamente as correspondentes às redes de abastecimento de água, drenagem de águas residuais e pluviais, eletricidade e telecomunicações, e de combustíveis, deve garantir a minimização de abertura de novas valas e a criação de novas condutas, procurando a rentabilização e aproveitamento de valas e condutas já existentes.
 
@@ -1125,13 +1127,11 @@ Instalação de redes de infraestruturas
 
 3 - Os equipamentos das infraestruturas que, pela sua natureza, se destinem a montagem acima do solo, devem ser implantados fora dos espaços de circulação previstos em projeto e desde que seja assegurado o disposto na legislação em vigor em matéria de acessibilidade e mobilidade.
 
-Artigo III/48.º
-
-Arranjos exteriores
+###### Artigo III/48.º — Arranjos exteriores
 
 1 - Devem ser utilizadas preferencialmente espécies vegetais autóctones, que devem ser agrupadas no terreno de acordo com as suas necessidades hídricas de forma a evitar a instalação de sistema de rega.
 
-2 - Caso isso não seja possível, a área regada deve ser apenas 1/3 da área não impermeabilizada e o consumo não deverá ultrapassar os 0,6 m<sup>3</sup>/m<sup>2</sup>/ano.
+2 - Caso isso não seja possível, a área regada deve ser apenas 1/3 da área não impermeabilizada e o consumo não deverá ultrapassar os 0,6 m3/m2/ano.
 
 3 - A área ocupada por espécies xerófitas deve ser superior a 1/3 da área total.
 
@@ -1141,9 +1141,7 @@ Arranjos exteriores
 
 6 - Deve, sempre que possível, efetuar-se a cobertura do solo com uma camada de 5 a 15 cm de mulch (orgânico ou inorgânico) de modo a conservar a humidade do solo e evitar o aparecimento de herbáceas.
 
-Artigo III/49.º
-
-Critérios para determinação do índice de impermeabilização de uma operação urbanística
+###### Artigo III/49.º — Critérios para determinação do índice de impermeabilização de uma operação urbanística
 
 1 - A aplicação do índice de impermeabilização a cada caso concreto exige:
 
@@ -1165,9 +1163,7 @@ b) O estabelecimento dos coeficientes de impermeabilização que correspondem ao
 
 ##### SUBSECÇÃO I — EDIFÍCIOS
 
-Artigo III/50.º
-
-Regras gerais de edificação
+###### Artigo III/50.º — Regras gerais de edificação
 
 1 - As novas construções devem assegurar uma correta integração na envolvente, tendo em conta os seguintes requisitos, ao nível da volumetria, linguagem arquitetónica e revestimentos:
 
@@ -1193,9 +1189,7 @@ h) Beneficiar o enquadramento dos valores paisagísticos, dos edifícios e dos e
 
 4 - No licenciamento ou comunicação prévia de edificações que não exijam a criação de novos arruamentos, devem ser asseguradas as adequadas condições de acessibilidade de veículos e peões e a drenagem de águas pluviais, prevendo-se, quando necessário, a beneficiação de arruamentos existentes, no que se refere ao traçado, à largura do perfil transversal, à faixa de rodagem, à criação de passeios, baías de estacionamento e arborização, bem como o reforço ou realização de infraestruturas.
 
-Artigo III/51.º
-
-Edificações existentes
+###### Artigo III/51.º — Edificações existentes
 
 Para efeitos de fixação dos critérios e trâmites do reconhecimento de que as edificações construídas se conformam com as regras em vigor à data da sua construção, assim como do licenciamento ou comunicação prévia de obras de reconstrução ou de alteração das edificações para efeitos da aplicação do regime da garantia das edificações existentes, são admitidos, designadamente, os seguintes meios de prova:
 
@@ -1205,17 +1199,13 @@ b) Provas complementares: levantamentos aerofotogramétricos, descrição no reg
 
 c) Provas fracas: a prova testemunhal, ou outras análogas.
 
-Artigo III/52.º
-
-Logradouros e espaços verdes privados
+###### Artigo III/52.º — Logradouros e espaços verdes privados
 
 1 - Os proprietários de logradouros e espaços verdes devem conservá-los e mantê-los em perfeito estado de limpeza e salubridade.
 
 2 - A Câmara Municipal pode, oficiosamente ou a requerimento de qualquer interessado, determinar a limpeza dos espaços verdes e logradouros para assegurar o bom aspeto, condições de salubridade e segurança de pessoas, podendo substituir-se ao proprietário, em caso de incumprimento.
 
-Artigo III/53.º
-
-Alinhamentos e alargamentos
+###### Artigo III/53.º — Alinhamentos e alargamentos
 
 1 - Nas zonas urbanas e/ou em outras situações que a Câmara Municipal tenha por conveniente, é da responsabilidade do titular da licença da obra ou da comunicação prévia a execução ou reconstrução, se já existir, do passeio público.
 
@@ -1225,9 +1215,7 @@ Alinhamentos e alargamentos
 
 4 - Os alinhamentos e alargamentos referidos nos números anteriores são os definidos e impostos pela Câmara Municipal, atentas as condições da localização das obras, o interesse público e o disposto em PMOT em vigor.
 
-Artigo III/54.º
-
-Normas técnicas de construção de serventias para acessos
+###### Artigo III/54.º — Normas técnicas de construção de serventias para acessos
 
 1 - A criação de serventias viárias ou pedonais deve ser prevista de forma a evitar qualquer risco de acidente para a circulação na via ou para as manobras de entrada ou saída, respeitando as seguintes condições:
 
@@ -1245,9 +1233,7 @@ b) Não podem exceder a inclinação máxima de 20 %;
 
 c) Deve existir um tramo, com inclinação não superior a 8 % e extensão não inferior a 3,00 m, entre o limite do prédio e o início da rampa.
 
-Artigo III/55.º
-
-Muros e vedações
+###### Artigo III/55.º — Muros e vedações
 
 1 - Os muros e vedações de propriedade não confinantes com a via pública não devem exceder 1,8 m de altura a contar do nível dos terrenos a que servem de vedação, salvo em situações excecionais e devidamente justificadas.
 
@@ -1261,9 +1247,7 @@ Muros e vedações
 
 6 - Pode a Câmara Municipal, por razões de estética urbanística devidamente fundamentada, impor outras alturas para as vedações e muros de suporte.
 
-Artigo III/56.º
-
-Instalação de vedações provisórias
+###### Artigo III/56.º — Instalação de vedações provisórias
 
 1 - As vedações provisórias de propriedade confinantes com a via pública, ainda que integradas em procedimento de licenciamento ou de comunicação prévia, apenas serão aceites pela Câmara Municipal nas seguintes condições:
 
@@ -1289,9 +1273,7 @@ c) Devem prever-se soluções seguras, funcionais e esteticamente integradas na 
 
 6 - As taxas devidas pelo título inicial são iguais às previstas por metro linear de muros e vedações de suporte na Tabela de Taxas Municipais.
 
-Artigo III/57.º
-
-Coberturas/telhados
+###### Artigo III/57.º — Coberturas/telhados
 
 1 - É permitido o aproveitamento do vão do telhado, nos edifícios com andar recuado, desde que desse aproveitamento não resulte qualquer volume de construção acima do plano de inclinação normal da respetiva cobertura.
 
@@ -1301,9 +1283,7 @@ Coberturas/telhados
 
 ##### SUBSECÇÃO II — EQUIPAMENTOS E INFRAESTRUTURAS NOS EDIFÍCIOS
 
-Artigo III/58.º
-
-Regra geral
+###### Artigo III/58.º — Regra geral
 
 1 - A instalação de equipamentos e infraestruturas no exterior dos edifícios deve realizar-se preferencialmente nas coberturas ou em fachadas não voltadas para o espaço público, sendo apenas permitida para salvaguarda de questões de caráter estético no tocante à sua integração na composição arquitetónica do edifício.
 
@@ -1311,11 +1291,9 @@ Regra geral
 
 3 - Nas obras de conservação, reconstrução, ampliação ou alteração de edifícios classificados ou em vias de classificação, bem como dos que integrem conjuntos ou sítios classificados ou em vias de classificação e dos que se situem em zonas de proteção de imóveis classificados, não é permitida a instalação ou recolocação aparente de infraestruturas elétricas, de telecomunicações, ou outras, nas fachadas e paramentos do perímetro dos edifícios, exceto quando seja possível ocultá-las através de elementos construtivos permanentes previstos no projeto aprovado.
 
-Artigo III/59.º
+###### Artigo III/59.º — Infraestruturas de telecomunicações no exterior dos edifícios
 
-Infraestruturas de telecomunicações no exterior dos edifícios
-
-1 - Sem prejuízo do disposto no artigo III/27.º, e desde que cumpridas as disposições legais sobre a matéria, designadamente nos Decretos-Leis n.<sup>os</sup>151-A/2000, de 20.07 e 11/2003, de 18.01, nos novos edifícios, ou nas intervenções que impliquem reforma profunda de edifícios existentes, deve ser reservado um espaço para a instalação e conexão das possíveis infraestruturas de telecomunicações instaladas na cobertura.
+1 - Sem prejuízo do disposto no artigo III/27.º, e desde que cumpridas as disposições legais sobre a matéria, designadamente nos Decretos-Leis n.os151-A/2000, de 20.07 e 11/2003, de 18.01, nos novos edifícios, ou nas intervenções que impliquem reforma profunda de edifícios existentes, deve ser reservado um espaço para a instalação e conexão das possíveis infraestruturas de telecomunicações instaladas na cobertura.
 
 2 - Além daquelas disposições, legais e regulamentares indicadas no n.º 1, só é permitida a instalação, no exterior, de um único sistema de receção, para cada edifício e para cada função, e apenas quando as diversas funções não possam ser tecnologicamente integradas num mesmo sistema, devendo ainda respeitar-se o seguinte:
 
@@ -1331,9 +1309,7 @@ d) As linhas e cabos necessários ao funcionamento dos sistemas não podem ser v
 
 #### SECÇÃO V — UTILIZAÇÃO DE EDIFÍCIOS
 
-Artigo III/60.º
-
-Alteração da utilização dos edifícios
+###### Artigo III/60.º — Alteração da utilização dos edifícios
 
 1 - A alteração da utilização dos edifícios está condicionada à compatibilidade dos novos usos com a função habitacional, do próprio edifício ou dos edifícios localizados na envolvente, à capacidade das vias de acesso, existentes ou previstas e à vivência resultante e à conformidade com o plano municipal ou intermunicipal de ordenamento do território ou alvará de loteamento aplicável.
 
@@ -1351,9 +1327,7 @@ e) Descaraterizar ambiental e esteticamente a envolvente;
 
 f) Corresponder a outras situações de incompatibilidade previstas na lei.
 
-Artigo III/61.º
-
-Designações da utilização dos edifícios
+###### Artigo III/61.º — Designações da utilização dos edifícios
 
 1 - Sem prejuízo do disposto em legislação especial, nomeadamente na área do turismo e equipamento de apoio social, as utilizações tomam, preferencialmente, a designação de habitação e/ou atividades económicas e supletivamente as de:
 
@@ -1387,9 +1361,7 @@ ii) Não perturbem de forma permanente as condições de trânsito e estacioname
 
 iii) Não acarretem agravados riscos de incêndio ou explosão do edificado.
 
-Artigo III/62.º
-
-Comunicações de utilização ou de alteração à utilização
+###### Artigo III/62.º — Comunicações de utilização ou de alteração à utilização
 
 1 - As comunicações de utilização ou de alteração à utilização, a resposta à mesma e a determinação de realização de vistorias seguem o regime previsto nos artigos 62.º-A a 65.º do RJUE.
 
@@ -1397,9 +1369,7 @@ Comunicações de utilização ou de alteração à utilização
 
 #### SECÇÃO VI — TAXA PELA REALIZAÇÃO, MANUTENÇÃO E REFORÇO DE INFRAESTRUTURAS URBANÍSTICAS
 
-Artigo III/63.º
-
-Âmbito de aplicação
+###### Artigo III/63.º — Âmbito de aplicação
 
 1 - A taxa pela realização, manutenção e reforço das infraestruturas urbanísticas (TMI) é devida no licenciamento e comunicação prévia nas seguintes operações urbanísticas, que pela sua natureza implicam um acréscimo de encargos públicos de realização, manutenção e reforço das infraestruturas gerais:
 
@@ -1421,9 +1391,7 @@ d) Alterações de utilização de comércio ou serviços para indústria ou arm
 
 6 - Nas operações urbanísticas isentas de controlo prévio e nos procedimentos de legalização, quando aplicável em função dos critérios aplicáveis nos demais procedimentos, haverá, igualmente, a liquidação e cobrança de TMI, sendo que, naquelas, a liquidação e cobrança será efetuada no momento da comunicação de início dos trabalhos a que se reportam os artigos 80.º e 80.º-A.
 
-Artigo III/64.º
-
-Cálculo da taxa
+###### Artigo III/64.º — Cálculo da taxa
 
 O valor da taxa pela realização, reforço e manutenção de infraestruturas urbanísticas (TMI), a que se refere o n.º 1 do artigo anterior, é calculado segundo a seguinte expressão:
 
@@ -1439,16 +1407,16 @@ V - Valor médio de construção fixado, por metro quadrado, para efeitos de IMI
 
 i - coeficiente correspondente a cada uma das infraestruturas gerais disponíveis ou a disponibilizar no local da realização da operação urbanística, que toma os valores constantes do quadro seguinte:
 
-| Disponibilidade de ligação direta ou indireta e de serviço: | Disponibilidade de ligação direta ou indireta e de serviço: | i |
+| Disponibilidade de ligação direta ou indireta e de serviço: | i |  |
 | --- | --- | --- |
 | A arruamento público: | Pavimentado | 0,30 |
-| A arruamento público: | Não pavimentado, ou quando se torne necessário ao interessado construir ou reforçar acessos viários fora do(s) prédio(s) objeto da operação urbanística e essas vias integrem ou se destinem a integrar o domínio municipal | 0,20 |
+| Não pavimentado, ou quando se torne necessário ao interessado construir ou reforçar acessos viários fora do(s) prédio(s) objeto da operação urbanística e essas vias integrem ou se destinem a integrar o domínio municipal | 0,20 |  |
 | Às infraestruturas gerais de: | Abastecimento de água | 0,15 |
-| Às infraestruturas gerais de: | Drenagem de águas residuais | 0,20 |
-| Às infraestruturas gerais de: | Drenagem de águas pluviais | 0,10 |
-| Às infraestruturas gerais de: | Distribuição de gás | 0,05 |
-| Às infraestruturas gerais de: | Distribuição de energia elétrica | 0,05 |
-| Às infraestruturas gerais de: | Telecomunicações | 0,05 |
+| Drenagem de águas residuais | 0,20 |  |
+| Drenagem de águas pluviais | 0,10 |  |
+| Distribuição de gás | 0,05 |  |
+| Distribuição de energia elétrica | 0,05 |  |
+| Telecomunicações | 0,05 |  |
 |  | Iluminação pública | 0,10 |
 
 Fm - fator municipal orientado para a execução da política de ordenamento do território definida nos planos municipais de ordenamento do território e determinado através da fórmula de cálculo seguinte:
@@ -1481,9 +1449,7 @@ c) Z = 0,012 quando o montante da dotação for superior a 20 M€.
 
 ### CAPÍTULO IV — OCUPAÇÃO DO ESPAÇO PÚBLICO POR MOTIVO DE OBRAS
 
-Artigo III/65.º
-
-Utilização ou ocupação do espaço público
+###### Artigo III/65.º — Utilização ou ocupação do espaço público
 
 1 - No solo, subsolo e espaço aéreo integrados no domínio público municipal pode ocorrer utilização ou ocupação, sujeito a prévio licenciamento, designadamente para:
 
@@ -1493,9 +1459,7 @@ b) A limpeza de fachadas.
 
 2 - O licenciamento a que se refere o n.º anterior 1 deverá indicar taxativamente as condições da ocupação.
 
-Artigo III/66.º
-
-Regras gerais sobre utilização ou ocupação do espaço público
+###### Artigo III/66.º — Regras gerais sobre utilização ou ocupação do espaço público
 
 1 - A ocupação ou utilização da via pública, com resguardos, materiais, equipamento, tapumes e andaimes, implica a observância das seguintes condições:
 
@@ -1529,17 +1493,13 @@ g) Reparação integral dos danos ou prejuízos decorrentes da ocupação e repo
 
 3 - Nas operações urbanísticas sujeitas a licenciamento ou a comunicação prévia que necessitem de licença para ocupação da via pública, o requerente pode optar por englobar o pedido de ocupação da via pública no pedido de licenciamento da operação urbanística ou na comunicação prévia, sem necessidade de qualquer formalidade adicional, nos termos do disposto no n.º 7 do artigo 4.º do RJUE,
 
-Artigo III/67.º
-
-Controlo administrativo da ocupação do espaço público
+###### Artigo III/67.º — Controlo administrativo da ocupação do espaço público
 
 1 - Sem prejuízo do disposto no n.º 3 do artigo anterior, o início da ocupação do espaço público depende do pagamento da taxa e de informação do início nos termos previstos no presente regulamento para as demais operações urbanísticas,
 
 2 - A validade da licença não deve exceder em 30 dias o termo da licença ou comunicação prévia de obras correspondente e será concedida a título precário.
 
-Artigo III/68.º
-
-Indeferimento do pedido de ocupação da via pública
+###### Artigo III/68.º — Indeferimento do pedido de ocupação da via pública
 
 Sem prejuízo do disposto no regime do licenciamento zero ou de outro que o substitua, o pedido de ocupação da via pública não é aceite quando:
 
@@ -1551,23 +1511,17 @@ Sem prejuízo do disposto no regime do licenciamento zero ou de outro que o subs
 
 4 - A ocupação ou a natureza dos materiais a manusear seja suscetível de danificar as infraestruturas existentes, salvo se for prestada caução.
 
-Artigo III/69.º
-
-Responsabilidade civil pela conceção e execução de obras
+###### Artigo III/69.º — Responsabilidade civil pela conceção e execução de obras
 
 1 - O proprietário, usufrutuário, locatário, titular do direito de uso e habitação, superficiário ou mandatário, os autores dos projetos e os empreiteiros são responsáveis, nos termos da lei civil, por danos causados ao município ou a terceiros, que sejam provocados por erros, ações ou omissões decorrentes da sua intervenção no projeto ou na obra ou por factos emergentes da qualidade ou forma de atuação sobre os terrenos e na via pública.
 
 2 - A obrigação de indemnizar decorrente da responsabilidade civil contratual e extracontratual de todas as entidades envolvidas na realização da obra pode ser objeto de contrato de seguro.
 
-Artigo III/70.º
-
-Segurança
+###### Artigo III/70.º — Segurança
 
 Na execução da obra é obrigatória a adoção de todas as medidas de precaução e disposições necessárias para garantir a segurança dos trabalhadores e do público e as condições normais do trânsito na via pública, evitando também danos materiais que possam a afetar os bens do domínio público ou particular.
 
-Artigo III/71.º
-
-Ocupação de passeios e arruamentos
+###### Artigo III/71.º — Ocupação de passeios e arruamentos
 
 1 - Sempre que tal se justifique por razões de segurança, é obrigatória a colocação de tapumes, sujeita a licenciamento municipal, em todas as obras de construção e de reparação em fachadas confinantes com a via pública.
 
@@ -1585,17 +1539,13 @@ Ocupação de passeios e arruamentos
 
 8 - O disposto nos números anteriores é aplicável às obras isentas de controlo prévio não devendo o prazo de ocupação do espaço público exceder 120 dias.
 
-Artigo III/72.º
-
-Proteção de árvores e mobiliário urbano
+###### Artigo III/72.º — Proteção de árvores e mobiliário urbano
 
 1 - As árvores, candeeiros e mobiliário urbano, que se encontrem junto à obra devem ser protegidos com resguardos que impeçam quaisquer danos.
 
 2 - A Câmara Municipal pode determinar a retirada ou a deslocalização do mobiliário urbano, devendo o requerente, a expensas suas, promover a desmontagem e transporte até ao armazém municipal ou o seu reposicionamento, bem como a sua recolocação após a conclusão da obra.
 
-Artigo III/73.º
-
-Cargas e descargas na via pública
+###### Artigo III/73.º — Cargas e descargas na via pública
 
 1 - A ocupação da via pública com cargas e descargas de materiais, autobetoneiras e equipamento de bombagem de betão apenas é permitida nas seguintes condições:
 
@@ -1609,9 +1559,7 @@ c) Quando a situação o exija, a sinalização deve ser colocada no início do 
 
 3 - Imediatamente após os trabalhos referidos nos números anteriores é obrigatória a limpeza da via pública, com especial incidência nos sumidouros, sarjetas e tampas de caixas de visita.
 
-Artigo III/74.º
-
-Contentores para depósito de materiais e recolha de entulhos
+###### Artigo III/74.º — Contentores para depósito de materiais e recolha de entulhos
 
 1 - É permitida a recolha de entulhos em contentores metálicos, os quais devem ser removidos quando se encontrem cheios ou neles tenha sido depositado qualquer material que possa provocar insalubridade.
 
@@ -1621,17 +1569,13 @@ Contentores para depósito de materiais e recolha de entulhos
 
 4 - Sem prejuízo do disposto no n.º 3 do artigo III/66.º, a utilização do espaço público para a colocação de contentores e similares em qualquer tipo de material fica sujeita a licenciamento, o qual deve ser feito por requerimento dirigido ao Presidente da Câmara, com a identificação do interessado, tipo de utilização, prazo de utilização e local de implantação e deve ser instruído com croquis da implantação dos contentores marítimos, barracões e similares e está sujeita ao pagamento das taxas devidas nos termos das normas regulamentares relativas a Taxas e Preços Municipais.
 
-Artigo III/75.º
-
-Colocação de andaimes
+###### Artigo III/75.º — Colocação de andaimes
 
 1 - Na montagem dos andaimes confinantes com a via publica serão observadas as prescrições estabelecidas pelo Livro de segurança no trabalho de construção civil, devendo ser apresentada a competente declaração de responsabilidade por técnico sempre que o andaime ultrapasse a altura de 8 m.
 
 2 - Na montagem de andaimes confinantes com a via pública é obrigatória a colocação de resguardos que evitem a queda de poeiras e outros materiais fora da zona dos mesmos.
 
-Artigo III/76.º
-
-Vedação das obras
+###### Artigo III/76.º — Vedação das obras
 
 1 - É obrigatória a vedação das obras sendo que, ao nível da via pública, deve ser realizada em tapumes, exceto se estes forem impeditivos da circulação.
 
@@ -1655,9 +1599,7 @@ b) Ser dotados de sinalização noturna e ter as portas de acesso a abrir para d
 
 ### CAPÍTULO V — NUMERAÇÃO POLICIAL
 
-Artigo III/77.º
-
-Da identificação
+###### Artigo III/77.º — Da identificação
 
 1 - É obrigatória a identificação de todo e qualquer vão de acesso à via pública aberto em prédios rústicos ou urbanos.
 
@@ -1665,9 +1607,7 @@ Da identificação
 
 3 - Excetuam-se deste procedimento os vãos abertos para as vias públicas não identificadas toponimicamente.
 
-Artigo III/78.º
-
-Da atribuição
+###### Artigo III/78.º — Da atribuição
 
 1 - A atribuição dos números de identificação dos vãos deve ser requerida através de formulário próprio, que no caso de edificação nova deve instruir a comunicação de utilização.
 
@@ -1677,35 +1617,25 @@ Da atribuição
 
 4 - Após a atribuição dos números pelos serviços municipais competentes, os proprietários ou usufrutuários ficam obrigados à colocação desses números no prazo máximo de 30 dias.
 
-Artigo III/79.º
-
-Do registo
+###### Artigo III/79.º — Do registo
 
 A autenticidade da numeração policial é comprovada pelos serviços municipais competentes através dos respetivos registos.
 
-Artigo III/80.º
-
-Da alteração da numeração
+###### Artigo III/80.º — Da alteração da numeração
 
 1 - A alteração ou retirada da numeração existente obedece às mesmas formalidades processuais da atribuição inicial, salvo se partir da iniciativa da própria Câmara Municipal.
 
 2 - Os eventuais prejuízos resultantes da alteração da numeração existente não conferem o direito a qualquer tipo de indemnização.
 
-Artigo III/81.º
-
-Deveres de conservação
+###### Artigo III/81.º — Deveres de conservação
 
 Os proprietários ou usufrutuários são obrigados a conservar sempre em bom estado os números de identificação dos prédios.
 
-Artigo III/82.º
-
-Dispensa
+###### Artigo III/82.º — Dispensa
 
 A Câmara Municipal pode isentar, caso a caso, deste tipo de identificação, edifícios de caráter público que pela sua própria configuração ou natureza se considerem perfeitamente identificados exclusivamente pela referenciação toponímica.
 
-Artigo III/83.º
-
-Critérios de atribuição
+###### Artigo III/83.º — Critérios de atribuição
 
 Na atribuição da numeração policial dos vãos são adotadas as seguintes regras:
 
@@ -1725,9 +1655,7 @@ Na atribuição da numeração policial dos vãos são adotadas as seguintes reg
 
 8 - Nos becos ou recantos, a numeração é designada pela série de números inteiros contados no sentido do movimento dos ponteiros do relógio, a partir da entrada desses becos ou recantos.
 
-Artigo III/84.º
-
-Colocação da numeração
+###### Artigo III/84.º — Colocação da numeração
 
 1 - Os algarismos, do tipo árabe, da numeração policial terão altura compreendida entre 7,5 cm e 15 cm e largura não inferior a 5 cm, feitos sobre placa em relevo ou em material recortado.
 
@@ -1741,9 +1669,7 @@ Colocação da numeração
 
 ### CAPÍTULO VI — EMISSÃO DE CERTIDÕES
 
-Artigo III/85.º
-
-Certidões de compropriedade
+###### Artigo III/85.º — Certidões de compropriedade
 
 1 - O pedido de emissão de certidões comprovativas de parecer favorável por parte da Câmara Municipal referentes à constituição de regime de compropriedade sobre prédios rústicos a que se reporta o artigo 54.º da [Lei n.º 91/95](https://diariodarepublica.pt/dr/detalhe/lei/91-1995-547220), de 2 de setembro, na sua redação atual, deve ser acompanhado dos seguintes elementos:
 
@@ -1761,15 +1687,11 @@ e) Extratos do PMOT com influência no local.
 
 ### CAPÍTULO VII — DISPOSIÇÕES FINAIS
 
-Artigo III/86.º
-
-Legislação posterior
+###### Artigo III/86.º — Legislação posterior
 
 Todas as referências feitas, pelo presente Livro, a diplomas legislativos consideram-se efetuadas à legislação que entre em vigor posteriormente à sua aprovação, que revogue e altere os mesmos.
 
-Artigo III/87.º
-
-Norma transitória
+###### Artigo III/87.º — Norma transitória
 
 1 - O disposto nas normas regulamentares presentes neste livro aplica-se aos processos que se iniciem após a entrada em vigor das mesmas normas, com exceção do disposto nos números seguintes.
 
@@ -1777,21 +1699,15 @@ Norma transitória
 
 3 - As normas que tenham impacto na liquidação de taxas ou compensações, são aplicadas, quando favoráveis ao particular, e a pedido destes, a todos os processos que, ainda que possam já ter sido comunicados ou licenciados e aprovadas as respetivas notas de liquidação das taxas ou compensações devidas, estas não tenham ainda sido pagas nem levantado os respetivos títulos.
 
-Artigo III/88.º
-
-Integração de lacunas
+###### Artigo III/88.º — Integração de lacunas
 
 Os casos omissos e as dúvidas suscitadas na aplicação do presente Livro são resolvidos pelo recurso aos critérios legais de interpretação e integração de lacunas.
 
-Artigo III/89.º
-
-Norma revogatória
+###### Artigo III/89.º — Norma revogatória
 
 São revogadas as normas previstas em outras normas regulamentares municipais, aprovados em data anterior à da entrada em vigor das presentes normas regulamentares, que o contrariem ou que com este sejam incompatíveis.
 
-Artigo III/90.º
-
-Contagem de prazos
+###### Artigo III/90.º — Contagem de prazos
 
 Todos os prazos procedimentais indicados no presente diploma em dias, são contados em dias úteis.”
 
@@ -1805,9 +1721,7 @@ Intervenção sobre o exercício de atividades privadas
 
 [...]
 
-Artigo IV/109.º
-
-Inspeções periódicas e reinspeções
+###### Artigo IV/109.º — Inspeções periódicas e reinspeções
 
 1 - As instalações são, obrigatoriamente, objeto de contrato de manutenção com entidades de manutenção de ascensores (EMA), inscritas na DGE.
 
@@ -1893,25 +1807,19 @@ Fiscalização e Sancionamento de infrações
 
 #### SECÇÃO II — URBANISMO
 
-Artigo VIII/19.º
-
-Âmbito
+###### Artigo VIII/19.º — Âmbito
 
 1 - A realização de quaisquer operações urbanísticas está sujeita a fiscalização administrativa, independentemente da sua sujeição a prévio licenciamento, comunicação prévia, autorização de utilização ou isenção de qualquer controlo prévio.
 
 2 - A atividade de fiscalização administrativa destina-se a assegurar a conformidade daquelas operações com as disposições legais e regulamentares aplicáveis e a prevenir os perigos que da sua realização possam resultar para a saúde e segurança das pessoas.
 
-Artigo VIII/20.º
-
-Deveres da Fiscalização
+###### Artigo VIII/20.º — Deveres da Fiscalização
 
 1 - A atividade fiscalizadora é exercida pelo órgão municipal competente com o auxílio dos Serviços de Fiscalização Municipal, sem prejuízo do dever de colaboração e de participação que impende sobre os demais trabalhadores que exercem funções públicas no Município.
 
 2 - Os trabalhadores incumbidos da atividade de fiscalização podem recorrer, solicitando a colaboração de autoridades policiais, sempre que necessário para o bom desempenho das suas funções.
 
-Artigo VIII/21.º
-
-Infrações
+###### Artigo VIII/21.º — Infrações
 
 1 - Os funcionários municipais responsáveis pela fiscalização levantam auto de notícia quando, no exercício das suas funções, verificarem ou comprovarem, pessoal e diretamente, ainda que não de forma imediata, quaisquer eventos ou circunstâncias suscetíveis de nos termos legais, implicar responsabilidade contraordenacional.
 
@@ -1923,17 +1831,13 @@ Infrações
 
 5 - Os funcionários responsáveis pela fiscalização podem exigir ao agente da contraordenação a respetiva identificação.
 
-Artigo VIII/22.º
-
-Oportunidade da fiscalização
+###### Artigo VIII/22.º — Oportunidade da fiscalização
 
 1 - As ações de fiscalização são efetuadas em qualquer momento e sem prévia notificação.
 
 2 - A realização de ação de fiscalização deve ser noticiada no processo que tem por objeto o controlo da operação urbanística em causa.
 
-Artigo VIII/23.º
-
-Deveres dos Intervenientes na Execução das Operações Urbanísticas
+###### Artigo VIII/23.º — Deveres dos Intervenientes na Execução das Operações Urbanísticas
 
 1 - O titular de alvará de licença ou de título de comunicação prévia, o técnico responsável pela direção técnica da obra e qualquer outra pessoa que execute os trabalhos são obrigados a facultar aos agentes encarregues da atividade de fiscalização o acesso à obra e a prestar todas as informações, incluindo a consulta da respetiva documentação.
 
@@ -1943,9 +1847,7 @@ Deveres dos Intervenientes na Execução das Operações Urbanísticas
 
 4 - Durante a execução de obras de urbanização, designadamente de rede viária, abastecimento público de água, de saneamento, recolha de águas pluviais e zonas verdes, o titular da licença ou de comunicação prévia, ou o diretor técnico da obra, devem solicitar a presença dos serviços municipais para verificação dos materiais a utilizar e fiscalização da sua aplicação.
 
-Artigo VIII/24.º
-
-Denúncias e Reclamações dos Particulares
+###### Artigo VIII/24.º — Denúncias e Reclamações dos Particulares
 
 Sem prejuízo do disposto em legislação especial, as denúncias e reclamações dos particulares, com fundamento em violação de normas legais e regulamentares, relativas ao Regime Jurídico da Urbanização e Edificação, devem ser apresentadas por escrito e conter os seguintes elementos:
 
@@ -1959,9 +1861,7 @@ d) Identificação clara e inequívoca do local objeto da denuncia ou reclamaç�
 
 e) Fotografias e outros documentos que sejam relevantes para a compreensão da exposição.
 
-Artigo VIII/25.º
-
-Contraordenações Urbanísticas
+###### Artigo VIII/25.º — Contraordenações Urbanísticas
 
 1 - Sem prejuízo do disposto no artigo 98.º do Regime Jurídico da Urbanização e da Edificação, são puníveis como contraordenação, nos termos do disposto na alínea g) do artigo 14.º da [Lei n.º 73/2013](https://diariodarepublica.pt/dr/detalhe/lei/73-2013-499528), de 3 de setembro, sempre que não se encontrem previstas em legislação especial, as seguintes infrações:
 
@@ -1977,9 +1877,7 @@ c) A violação do disposto no artigo III/76.º;
 
 4 - A tentativa e negligência são puníveis, no termos gerais.
 
-Artigo VIII/26.º
-
-Toponímia e numeração de prédios
+###### Artigo VIII/26.º — Toponímia e numeração de prédios
 
 1 - Sem prejuízo da responsabilidade civil, criminal ou disciplinar, são puníveis como contraordenações a prática dos seguintes atos:
 
@@ -2156,7 +2054,7 @@ b) A não colocação dos números de polícia no centro das padieiras ou das ba
 | 8.2 - Em função do prazo adicional, acresce ao montante previsto na alínea anterior, por cada período de 30 dias | 13,29 € |
 | 8.3 - Em função do valor orçamentado: acresce ainda ao previsto nas alíneas anteriores 1 % do valor orçamentado das obras a efetuar |  |
 | SECÇÃO V |  |
-| OBRAS DE EDIFICAÇÃO (CONSTRUÇÃO, RECONSTRUÇÃO, AMPLIAÇÃO E ALTERAÇÃO) E DE DEMOLIÇÃO DAS EDIFICAÇÕES |  |
+| OBRAS DE EDIFICAÇÃO (CONSTRUÇÃO, RECONSTRUÇÃO, AMPLIAÇÃO E ALTERAÇÃO)<br>E DE DEMOLIÇÃO DAS EDIFICAÇÕES |  |
 | 1 - Apresentação de Pedido de informação prévia: |  |
 | 1.1 - Nos termos do n.º 1 do artigo 14.º do RJUE | 100,00 € |
 | 1.2 - Nos termos do n.º 2 do artigo 14.º do RJUE (qualificado): | 200,00 € |
@@ -2314,3 +2212,5 @@ b) A não colocação dos números de polícia no centro das padieiras ou das ba
 | 8 - Emissão de certidões e informações diversas não previstas expressamente nos artigos anteriores, incluindo sobre informação geográfica (às quais acrescerá, sempre que necessário, o custo hora do técnico que tenha de efetuar trabalho de campo a determinar em função da remuneração mensal legalmente fixada para a tipologia de técnico que seja necessário deslocar-se ao local). | 50,00 € |
 | 9 - Comunicação prévia, no termos do artigo 4.º-A do [Decreto-Lei n.º 30-A/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906) de 18 de abril, na sua redação atual, para instalação de centros eletroprodutores de fontes de energia renováveis, de instalações de armazenamento, de UPAC e de instalações de produção de hidrogénio por eletrólise a partir da água nos termos dos artigos 8.º a 12.º-A, 13.º-B, 34.º e 35.º do Regime Jurídico da Urbanização e Edificação (RJUE). | 1 000,00 € |
 | a) Acresce pela dimensão da área de intervenção, por km² | 60,00 € |
+
+318338306

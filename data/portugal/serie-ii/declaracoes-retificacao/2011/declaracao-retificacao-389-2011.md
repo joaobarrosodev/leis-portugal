@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/389-2011-2360928
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-15T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a9d776a859f4d1095cbb1a1f7ec8d6a7016ebaf73337ad8b8fe825b39002e75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fa5e8072f089f987cc8b98dff174497083e89fd975105acfe174e734de77649
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:24Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +100,15 @@ a) TMU (euro) - é o valor, em euros, da taxa devida ao Município pela realiza�
 
 b) K1 - Coeficiente que traduz a influência do uso, tipologia e localização em áreas geográficas diferenciadas, de acordo com os valores constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf))](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
 
 c) K2 - Coeficiente traduz o nível de infra-estruturação do local, nomeadamente da existência e do funcionamento das seguintes infra-estruturas públicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf))](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
 
 d) K3 - Coeficiente traduz a influência das áreas cedidas para zonas verdes e ou instalação de equipamentos;
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf))](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
 
 e) K4 - Coeficiente traduz a influência do programa plurianual de actividades e das áreas correspondentes aos solos urbanizados ou cuja urbanização seja possível programar, e toma o valor de 0,40;
 
@@ -120,7 +120,9 @@ h) (Ómega)11 - área total do concelho (em hectares), com características de u
 
 i) (Ómega)12 - área total do terreno (em hectares) objecto da operação urbanística, com o máximo de 3000m2 para obras de edificação.
 
-###### Artigo 44.º — Taxa devida nas edificações não inseridas em loteamentos urbanos
+Artigo 44.º
+
+Taxa devida nas edificações não inseridas em loteamentos urbanos
 
 A taxa pela realização, manutenção e reforço de infra-estruturas urbanísticas é fixada para cada unidade territorial em função do custo das infra-estruturas e equipamentos gerais a executar pela Câmara Municipal, dos usos e tipologias das edificações, tendo ainda em conta o plano plurianual de investimentos municipais, de acordo com a seguinte fórmula:
 
@@ -144,15 +146,15 @@ a) TMU (euro) - é o valor, em euros, da taxa devida ao município pela realiza�
 
 b) K1 - coeficiente que traduz a influência do uso, tipologia e localização em áreas geográficas diferenciadas, de acordo com os valores constantes do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf))](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
 
 c) K2 - coeficiente traduz o nível de infra-estruturação do local, nomeadamente da existência e do funcionamento das seguintes infra-estruturas públicas:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf))](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
 
 d) K3 - coeficiente traduz a influência das áreas cedidas para zonas verdes e ou instalação de equipamentos:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf))](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/032000000/0809108092.pdf)
 
 e) K4 - coeficiente traduz a influência do programa plurianual de actividades e das áreas correspondentes aos solos urbanizados ou cuja urbanização seja possível programar, e toma o valor de 0,40;
 
@@ -164,7 +166,9 @@ h) (Ómega)1 - área total do concelho (em hectares), com características de ur
 
 i) (Ómega)2 - área total do terreno (em hectares) objecto da operação urbanística, com o máximo de 3000 m2 para obras de edificação.
 
-###### Artigo 44.º — Taxa devida nas edificações não inseridas em loteamentos urbanos
+Artigo 44.º
+
+Taxa devida nas edificações não inseridas em loteamentos urbanos
 
 A taxa pela realização, manutenção e reforço de infra-estruturas urbanísticas é fixada para cada unidade territorial em função do custo das infra-estruturas e equipamentos gerais a executar pela Câmara Municipal, dos usos e tipologias das edificações, tendo ainda em conta o plano plurianual de investimentos municipais, de acordo com a seguinte fórmula:
 
@@ -177,3 +181,5 @@ b) K1, K2, K4, S, V, (Ómega)1 e (Ómega)2, Programa plurianual - tem o mesmo si
 Mais se esclarece que se trata de um regulamento já aprovado pela Assembleia Municipal e não de um projecto de regulamento.
 
 3 de Fevereiro de 2011. - O Presidente da Câmara, Jacinto Manuel Lopes Cristas Flores.
+
+204322673

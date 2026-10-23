@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/069000000/0034600346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/279-2022-181755057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb422a42a412ab8551ab90eaa09e57eae6e2c9b3f47eb1929dafd89497e63fa6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11de00331247d48c64af50ec660e5d3fd74b93d7e44619b6951a1d77ae42f28f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:106434234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:179083232:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:55Z'
   warnings: []
   errors: []
 ---
@@ -93,3 +101,5 @@ deve ler-se:
 «3 - Conteúdo funcional e a remuneração - O conteúdo funcional e a remuneração são os estabelecidos no estatuto remuneratório para os cargos de direção intermédia de 1.º grau em vigor, bem como nos princípios e regras aplicáveis às unidades de saúde que integram o Serviço Nacional de Saúde com a natureza de entidade pública empresarial, conforme o [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), de 10 de fevereiro.»
 
 22 de março de 2022. - A Diretora do Serviço de Gestão Recursos Humanos, Ilda Maria Correia de Magalhães.
+
+315147862

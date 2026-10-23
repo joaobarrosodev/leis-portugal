@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/01/006b00/01500152.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/31/2002/01/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/31-2002-584985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-06-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 49542e27c38e08adb812fbded5bccfd3127b328f1ceb3e3b6bd22a4346dfc12e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5fdf9ae68aefd5a503832d4dad2a61a8ac7f417dd4aed66caf89ed9939035ca8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,11 +68,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Colheita de Órgãos Humanos
+- Doação de Órgãos
 - Gabinete de Coordenação de Colheita de Órgãos e Transplantação
 - Organização Portuguesa de Transplantação
-- Registo Nacional de não Dadores
 - Programa de Transplantes
-- Doação de Órgãos
+- Registo Nacional de não Dadores
 relationships:
 - type: amended_by
   target: pt:dre:496738:por
@@ -86,16 +86,40 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1245/1993/12/06/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1245/1993/12/06/p/dre
+- type: cites
+  target: pt:dre:554081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692651:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:249510:por
+  label: "Revogada a al. b) do art. 4º pela PORT.357/2008.09.05.2008.MS, DR.IS [90] de 09.05.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/357-2008-249510
+  date: '2008-05-09'
+- type: repealed_by
+  target: pt:dre:603264:por
+  label: "Revogados, na parte respeitante aos tecidos e células, os art.s 7º e 8º, pela LEI.12/2009.26.03.2009.AR, DR.IS [60]\
+    \ de 26.03.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2009-603264
+  date: '2009-03-26'
+- type: repealed_by
+  target: pt:dre:496738:por
+  label: Revogada pelo(a) Lei n.º 36/2013 - Diário da República n.º 112/2013, Série I de 2013-06-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2013-496738
+  date: '2013-06-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:26Z'
   warnings: []
   errors: []
 ---
@@ -148,7 +172,7 @@ d) Plano anual de actividades, quantificando o número de transplantes que se pr
 
 10.º É revogada a [Portaria n.º 1245/93](https://diariodarepublica.pt/dr/detalhe/portaria/1245-1993-554081), de 6 de Dezembro.
 
-**O Ministro da Saúde, António Fernando Correia de Campos, em 11 de Dezembro de 2001.**
+O Ministro da Saúde, António Fernando Correia de Campos, em 11 de Dezembro de 2001.
 
 ## ANEXO — (a que se refere o n.º 6.º)
 

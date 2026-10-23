@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/764/2002/07/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/764-2002-141473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-07-01T00:00:00Z'
+  retrieved_at: '2026-10-23T14:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9d2b05495205e25f61174d9ce771a829a783af66fff4660a7e62db83e41a4984
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e07024b465b797c27df4ac74d4614a4aaa4dc7b7813c02d2ed043d689408df9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,25 +68,29 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Distribuição de Energia Elétrica
-- TAXA de Distribuição
 - Energia Elétrica
 - Preço
 - Produção de Energia Elétrica
+- TAXA de Distribuição
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
+- type: cites
+  target: pt:dre:300583:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:43:16Z'
   warnings: []
   errors: []
 ---
@@ -153,4 +157,4 @@ Painéis solares fotovoltaicos - (euro) 0,20/kilowatt-hora;
 
 Outros equipamentos autónomos - (euro) 0,015/kilowatt-hora.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz, em 3 de Abril de 2002.**
+O Ministro da Economia, Luís Garcia Braga da Cruz, em 3 de Abril de 2002.

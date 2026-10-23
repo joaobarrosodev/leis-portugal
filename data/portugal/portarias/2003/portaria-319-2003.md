@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/319/2003/04/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/319-2003-239656
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-06-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72cde25d6143ba345d2b6502729cf030937c22db15e706647091d859a2d155cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34115d801f481493232d809b3539271ef50ad4528070d5f86205376eddef9cd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,20 +73,29 @@ relationships:
   target: pt:dre:271258:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:271258:por
+  label: "Alterado o quadro de pessoal pela PORT.692/2004.24.06.2004.MF, DR.IS-B [147] de 24.06.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/692-2004-271258
+  date: '2004-06-24'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/50/2001/02/13/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/50/2001/02/13/p/dre
+- type: cites
+  target: pt:dre:320736:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:31Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +114,7 @@ Manda o Governo, pelos Ministros de Estado e das Finanças e da Segurança Socia
 
 Em 26 de Março de 2003.
 
-**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.**
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.
 
 ## ANEXO I — Quadro de pessoal da Casa Pia de Lisboa
 

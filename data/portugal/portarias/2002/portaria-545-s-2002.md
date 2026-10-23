@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 124/2002, 1º Suplemento, Série I-B de 2002-05-29
   number: '124'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4768-(7) a 4768-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/2002/05/124b01/00070007.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/545-s/2002/05/29/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/545-s-2002-673198
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 634f5690e1b51a365fb6cd9e2aea45f88ba9ca4789bf0c7c211e1d166f08cedd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 027ed5972674a0df4cf649cfc088291be114c25546c655d009449083c4ffa1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -90,16 +90,37 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/254-bm/1996/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/254-bm/1996/07/15/p/dre
+- type: cites
+  target: pt:dre:157440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420674:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536243:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:173081:por
+  label: "Revogada pela PORT.1107/2002.2002.08.24.MADRP, DR.IS-B [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1107-2002-173081
+  date: '2002-08-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:56Z'
   warnings: []
   errors: []
 ---

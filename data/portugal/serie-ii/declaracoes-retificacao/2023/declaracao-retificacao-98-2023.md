@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/02/025000000/0045300453.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/98-2023-207025718
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7844a1bbf30361e582b5990d77bd374744c7bfffe69f8fc3ac3222dd03f84424
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4650e8cbcbf004b2bd14d69ad77b756c859049e97177bae235d8a84c6d403bf2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141209875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:141209876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168786315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177732025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184054110:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185969751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:200361456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205694752:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:04Z'
   warnings: []
   errors: []
 ---
@@ -117,3 +153,5 @@ f) [Despacho n.º 8558/2022](https://diariodarepublica.pt/dr/detalhe/despacho/85
 g) [Despacho n.º 10489/2022](https://diariodarepublica.pt/dr/detalhe/despacho/10489-2022-200361456), de 19 de agosto de 2022, publicado no Diário da República, 2.ª série, n.º 166, de 29 de agosto de 2022.»
 
 11 de janeiro de 2023. - O Reitor e Presidente do Conselho de Gestão, Prof. Doutor João Sàágua.
+
+316118088

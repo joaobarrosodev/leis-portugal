@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/092000000/2054520545.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/830-2011-3494790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-12T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08bfe6e890d9e98f2f395face56307460059ff0a63edf110e4e6f9b564a073e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 720f641c0644f3c981d64e4930ef768bfd38a9bcaa3ca683f4148dc817fcde1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:04Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 830/2011
 Por ter saído com inexactidão o despacho n.º 5190/2011, no Diário da República, 2.ª série, n.º 60, de 25 de Março de 2011, rectifica-se que onde se lê «ao abrigo do disposto no despacho do Almirante Chefe do Estado-Maior da Armada n.º 3503/2011 (2.ª série), de 22 de Fevereiro» deve ler-se «ao abrigo do disposto no despacho do almirante Chefe do Estado-Maior da Armada n.º 3502/2011 (2.ª série), de 22 de Fevereiro».
 
 29 de Abril de 2011. - O Vice-Chefe do Estado-Maior da Armada, João da Cruz de Carvalho Abreu, vice-almirante.
+
+204652376

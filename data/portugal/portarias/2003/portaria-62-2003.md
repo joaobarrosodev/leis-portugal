@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/62/2003/01/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2003-176505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 078d65613bb840cb9333398b4a630356ed9f9951dcb6aca9371e355aa010b62f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c40ecaa4f80966f90c9302b1f2f1f01f0864b679c0b9476d7cd6a7e47ee49b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,29 @@ relationships:
   target: pt:dre:305399:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:305399:por
+  label: "Alterado o nº 2 do presente diploma, pela Port.872-A/2006.30.08.2006.MOPTC, DR.IS [167-Supl] de 30.08.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/872-a-2006-305399
+  date: '2006-08-30'
+- type: cites
+  target: pt:dre:311177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474551:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:16Z'
   warnings: []
   errors: []
 ---
@@ -150,4 +163,4 @@ e) Associação Portuguesa de Projectistas e Consultores.
 
 7.º São revogadas as Portarias n.os [748/75](https://diariodarepublica.pt/dr/detalhe/portaria/748-1975-311177), de 16 de Dezembro, e [310/80](https://diariodarepublica.pt/dr/detalhe/portaria/310-1980-474551), de 30 de Maio.
 
-**O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira, em 23 de Dezembro de 2002.**
+O Ministro das Obras Públicas, Transportes e Habitação, Luís Francisco Valente de Oliveira, em 23 de Dezembro de 2002.

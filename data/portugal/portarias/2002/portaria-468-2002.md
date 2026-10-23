@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/2002/04/096b00/40614063.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/468/2002/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/468-2002-288001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T14:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c8f4cbbedf4dfb0af07ca92563c2cc59218e3f9db0eacf0b4ad6ba7894ac09e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34b183dc72e9830eb4075acca6392d6dd77dd9a1ed7967f7b0db07162a80e553
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
 subjects:
 - Armazenagem
 - Combustível
+- Equipamento sob Pressão
 - Licenciamento
 - Normas de Construção
 - Normas de Segurança
 - Regulamento
-- Equipamento sob Pressão
 - Segurança dos Edifícios
 - Utilidade Pública
 relationships:
@@ -91,16 +91,41 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/1270/2001/11/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/1270/2001/11/08/p/dre
+- type: cites
+  target: pt:dre:402091:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406096:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549405:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:595555:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:483924:por
+  label: "Revogada pela PORT.366/2013.23.12.2013.MAOTE, DR.IS [248] de 23.12.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/366-2013-483924
+  date: '2013-12-23'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:41:22Z'
   warnings: []
   errors: []
 ---
@@ -133,7 +158,7 @@ Manda o Governo, pelo Ministro da Economia, o seguinte:
 
 5.º O processo do licenciamento a que se refere o número anterior subordina-se às disposições do [Decreto-Lei n.º 232/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1990-575770), de 16 de Julho, com a redacção dada pelo [Decreto-Lei n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2000-406096), de 3 de Fevereiro, e, com as necessárias adaptações, segue o procedimento estabelecido para o licenciamento dos postos de abastecimento de combustíveis.
 
-**O Ministro da Economia, Luís Garcia Braga da Cruz, em 25 de Março de 2002**
+O Ministro da Economia, Luís Garcia Braga da Cruz, em 25 de Março de 2002
 
 ## ANEXO
 

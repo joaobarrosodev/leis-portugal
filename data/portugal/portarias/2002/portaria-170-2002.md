@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/170/2002/02/28/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2002-254780
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-02-28T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1833556964712097633c582de069630b30525bb068c7f5ecb00d6e1449d0baf0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46c3eb9835188d2fdb13646e23ac10ad4682cfec6cfb5060c1d4465e02e38507
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Apoio ao Investimento
+- Benefícios Fiscais
 - Contribuições da Segurança Social
 - Crédito ao Investimento
 - Criação de Empresas
 - Desenvolvimento Regional
-- Apoio ao Investimento
-- Sisa
+- Desertificação
+- Financiamento
 - Investimento
 - IRC
-- Desertificação
 - Jovem Empresário
 - Pequenas e Médias Empresas
-- Região Desfavorecida
 - PME
-- Benefícios Fiscais
+- Região Desfavorecida
+- Sisa
 relationships:
 - type: cites
   target: celex:32001R0069
@@ -97,13 +97,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:35Z'
   warnings: []
   errors: []
 ---
@@ -200,7 +200,7 @@ Caso a utilização dos incentivos previstos nos artigos 7.º a 9.º da Lei n.º
 
 Em 20 de Fevereiro de 2002.
 
-**O Ministro das Finanças, Guilherme d'Oliveira Martins. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.**
+O Ministro das Finanças, Guilherme d'Oliveira Martins. - A Ministra do Planeamento, Elisa Maria da Costa Guimarães Ferreira. - O Ministro do Trabalho e da Solidariedade, Paulo José Fernandes Pedroso.
 
 ## ANEXO — Taxas máximas de auxílios em percentagem das despesas elegíveis
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2024/12/236000000/0026800268.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1050-2024-898996929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2024-12-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:50:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 69c1cc6aaf07c70d944c9b63e9113db2c3ec63d00dc5c3d48741d827d9f11c80
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b86eb32a763f6fc49b316f0f1b6c0f919110f623c0cd563393521e07f30e9738
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:50:24Z'
   warnings: []
   errors: []
 ---
@@ -88,3 +88,5 @@ Declaração de retificação de aviso referente ao contrato por tempo indetermi
 Por ter sido publicado com inexatidão o Aviso (extrato) n.º 25722/2024/2, no Diário da República, 2.ª série, n.º 223, de 18 de novembro de 2024, retifica-se que onde se lê «teve início a 4 de outubro de 2024» deve ler-se «teve início a 4 de novembro de 2024».
 
 25 de novembro de 2024. - O Presidente da Câmara, Leopoldo Martins Rodrigues.
+
+318395599

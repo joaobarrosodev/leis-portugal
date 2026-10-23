@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/373-2011-1404328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e30f3d86037cd1b844b11505e1e4d204651a6bb0a441f8724d334d033142f774
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa60efd461d7eb4bea3a31eceeaf285e4600718b70e9c0c2b3c812fddf32e506
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:19Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +86,12 @@ Declaração de rectificação n.º 373/2011
 
 Por terem sido publicados com inexactidão no Diário da República, 2.ª série, n.º 8, de 13 de Janeiro de 2009, despacho n.º 1025/2009, dados referentes ao docente Paulo António da Silva Morais, que realizou a profissionalização em serviço, no ensino público, nos termos do despacho n.º 7718/2007, 2.ª série, de 15 de Março, publicado no Diário da República, 2.ª série, n.º 81, de 26 de Abril de 2007, rectifica-se que onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf))](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf))](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/02/031000000/0791807918.pdf)
 
 7 de Julho de 2010. - O Director-Geral, Mário Agostinho Alves Pereira.
+
+204319774

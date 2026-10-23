@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/04/066000000/0003200032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/260-2022-181572057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-04-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:40:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50c30458b9f064eaf91f430418d4933c73e3c97ca502bb125c4f59244f1b8f58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d5953717959c03b4d6cfc2118a4df304cd85de7f25fc1808ed4c9b0d4dc2a34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:40:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:174516739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177715338:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:40:50Z'
   warnings: []
   errors: []
 ---
@@ -103,3 +111,5 @@ Estes praças, uma vez promovidos e tal como vão ordenados, deverão ser coloca
 Com a delegação de competência conferida no ponto 16) da alínea a) do n.º 1 do [Despacho n.º 11345/2021](https://diariodarepublica.pt/dr/detalhe/despacho/11345-2021-174516739), de 5 de novembro, do Diretor de Pessoal, publicado no Diário da República, 2.ª série, n.º 224, de 18 de novembro de 2021.
 
 22 de março de 2022. - O Chefe da Repartição de Situações e Efetivos, Adelino Manuel Costa Cabral, Capitão-de-Mar-e-Guerra.
+
+315151952

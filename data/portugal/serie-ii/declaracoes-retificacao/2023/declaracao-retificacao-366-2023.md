@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/05/088000000/0016700167.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/366-2023-212694377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba7a1e00d799b27c518896faa78cd8e3c77bdf745cd00c5d04ffe25a250bef75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 126a344f38a85eacb4a92e49a15d37c5a40aa8a9763c042910cffe1295eb1c60
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:211842806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:27Z'
   warnings: []
   errors: []
 ---
@@ -85,3 +89,5 @@ validation:
 Por ter sido publicado com inexatidão o [Edital n.º 588/2023](https://diariodarepublica.pt/dr/detalhe/edital/588-2023-211842806), no Diário da República, 2.ª série, n.º 75, de 17 de abril de 2023, referente à abertura de concurso documental interno de promoção para um investigador principal na área disciplinar de Parasitologia Médica do Instituto de Higiene e Medicina Tropical da Universidade NOVA de Lisboa, retifica-se que, ponto iv, «Aprovação em mérito absoluto», n.º 4, onde se lê «Obrigatório - alíneas a) e e)» deve ler-se «Obrigatório - alíneas a) a e)» e, no ponto v, «Apresentação da candidatura», n.º 2, alínea a), onde se lê «Documentos comprovativos do preenchimento dos requisitos exigidos no ponto I;» deve ler-se «Documentos comprovativos do preenchimento dos requisitos exigidos no ponto iii;».
 
 26 de abril de 2023. - O Diretor do IHMT NOVA, Prof. Doutor Filomeno Fortes.
+
+316409291

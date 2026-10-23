@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/194/2002/03/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/194-2002-253028
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d69bd245a7cab25eee7821cd2d8672a5baf73c1a5e7cc01bb65b7b4c4646d132
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d14155c3ae9c95cec6be525c33ef4757ebf0fcb09abca43057e8d30eb55a92e8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -82,16 +82,28 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/533-a/2000/08/01/p/dre
   label: null
   source: http://data.dre.pt/eli/port/533-a/2000/08/01/p/dre
+- type: cites
+  target: pt:dre:267033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636255:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:42Z'
   warnings: []
   errors: []
 ---
@@ -106,14 +118,14 @@ Manda o Governo, pelo Secretário de Estado da Administração Interna, que os q
 
 a) Na data prevista na alínea a) do artigo 4.º do [Decreto-Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2002-276036), de 29 de Janeiro:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)
 
 b) Na data prevista na alínea b) do artigo 4.º do [Decreto-Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2002-276036), de 29 de Janeiro:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)
 
 c) Na data prevista na alínea c) do artigo 4.º do [Decreto-Lei n.º 15/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2002-276036), de 29 de Janeiro:
 
-[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)](https://files.diariodarepublica.pt/1s/2002/03/054b00/18441844.pdf)
 
-**O Secretário de Estado da Administração Interna, Rui Carlos Pereira, em 1 de Fevereiro de 2002.**
+O Secretário de Estado da Administração Interna, Rui Carlos Pereira, em 1 de Fevereiro de 2002.

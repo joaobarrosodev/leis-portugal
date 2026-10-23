@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2023/01/010000000/0023400234.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2023-206107505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-01-13T00:00:00Z'
+  retrieved_at: '2026-10-23T14:46:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82abf385d4383a21333a4aa071dca5648bd599132a3234363479ed09ff3251f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76d2da507aa76c61848a1fb424024277b753e5e7c75fecab12134dfc2f55dd30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:46:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:205378155:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205449879:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:46:56Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +95,5 @@ Recrutamento de um professor associado na área disciplinar de História, do Dep
 Por ter sido publicado em duplicado, procede-se à anulação do [Edital n.º 1925/2022](https://diariodarepublica.pt/dr/detalhe/edital/1925-2022-205449879), publicado no Diário da República, 2.ª série, n.º 250, de 29 de dezembro de 2022. Mantém-se válido o [Edital n.º 1916/2022](https://diariodarepublica.pt/dr/detalhe/edital/1916-2022-205378155), publicado no Diário da República, 2.ª série, n.º 249, de 28 de dezembro de 2022.
 
 9 de janeiro de 2023. - A Reitora do ISCTE - Instituto Universitário de Lisboa, Maria de Lurdes Rodrigues.
+
+316048144

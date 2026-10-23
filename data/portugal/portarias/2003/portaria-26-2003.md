@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/26/2003/01/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-2003-482465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-01-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:48:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 576883197cabea5d756156030454cf6343be5de520348ecf640df1a83378358a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efa2c7e6dbc4e03955f60161ec7c2625732ad160426610605b0d009fb0b100dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:48:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,25 @@ subjects:
 - Água Mineral
 - Caldas da Rainha
 - Zona de Proteção
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:333159:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:48:10Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +108,15 @@ Manda o Governo, pelos Ministros da Economia e das Cidades, Ordenamento do Terri
 
 Zona imediata - definida por um círculo de 30 m de raio, cujo centro é definido pela captação AC2:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)
 
 Zona intermédia - delimitada pelo polígono ABCD, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)
 
 Zona alargada - delimitada pelo polígono ACEFGHIJ, cujos vértices têm as seguintes coordenadas:
 
-[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)
+[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)](https://files.diariodarepublica.pt/1s/2003/01/009b00/01040105.pdf)
 
 Em 16 de Dezembro de 2002.
 

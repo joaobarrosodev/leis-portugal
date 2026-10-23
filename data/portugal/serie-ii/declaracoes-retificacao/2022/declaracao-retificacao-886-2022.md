@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2022/10/204000000/0027600285.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/886-2022-202511342
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 43173ed1d42010d808f8fe80c2372609e0dcf8eda926a2a85f749ccc63c653e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5129246f5a345b21b9767fc1967f7cc2289a9eaf41840100b0fa3a67dd53c8dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185371666:por
+  label: null
+  source: null
 article_structure:
-  article_count: 26
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:44:16Z'
   warnings: []
   errors: []
 ---
@@ -86,7 +90,9 @@ Por ter sido publicado com inexatidão o [Regulamento n.º 586/2022](https://dia
 
 «Livro I
 
-###### Artigo 10.º — Épocas de Avaliação
+Artigo 10.º
+
+Épocas de Avaliação
 
 1 - Existem três épocas de avaliação:
 
@@ -110,7 +116,9 @@ a) No caso dos Cursos de Licenciatura da Escola Superior de Saúde, não se cons
 
 [...]
 
-# Livro II — Artigo 9.º
+Livro II
+
+Artigo 9.º
 
 Anulação e suspensão de matrícula por decisão do estudante
 
@@ -142,13 +150,17 @@ A anulação e a suspensão não estão dependentes de aceitação, produzindo e
 
 [...]
 
-###### Artigo 181.º — Objeto e âmbito
+Artigo 181.º
+
+Objeto e âmbito
 
 A presente secção visa enquadrar as formações de curta duração conferentes de microcredenciais, ministradas nas Unidades Orgânicas de ensino e investigação do Instituto Politécnico de Setúbal.
 
 As formações curtas conferentes de microcredenciais devem promover a aprendizagem contínua ao longo da vida e as competências adquiridas nestas formações são certificadas pelo IPS.
 
-###### Artigo 182.º — Princípios
+Artigo 182.º
+
+Princípios
 
 As aprendizagens e o volume de trabalho exigidos pelas formações de curta duração conferentes de microcredenciais são traduzidos em créditos do Sistema Europeu de Transferência e Acumulação de Créditos (ECTS).
 
@@ -166,7 +178,9 @@ As microcredenciais podem ser combinadas em credenciais ou qualificações mais 
 
 As microcredenciais são controladas por um sistema de garantia de qualidade, de acordo com as recomendações da Comissão Europeia.
 
-###### Artigo 183.º — Criação e garantia de qualidade
+Artigo 183.º
+
+Criação e garantia de qualidade
 
 As formações de curta duração podem corresponder:
 
@@ -182,11 +196,15 @@ As formações de curta duração que correspondam à alínea c) do n.º 1 não 
 
 Formação enquadrada nos instrumentos de garantia de qualidade definidos no âmbito do Sistema Integrado de Gestão e Garantia da Qualidade do IPS, da responsabilidade do coordenador da formação.
 
-###### Artigo 184.º — Formações de curta duração disponíveis à frequência/inscrição
+Artigo 184.º
+
+Formações de curta duração disponíveis à frequência/inscrição
 
 O número de vagas para admissão de estudantes em formações de curta duração é fixado pelo Presidente do IPS mediante proposta do Diretor da Escola que ministra a formação.
 
-###### Artigo 185.º — Edital de candidaturas a formações de curta duração
+Artigo 185.º
+
+Edital de candidaturas a formações de curta duração
 
 O edital das formações conferentes de microcredencial são estabelecidos de acordo com o artigo 142.º
 
@@ -194,11 +212,15 @@ Nas situações em que as formações de curta duração coincidam com unidades 
 
 O edital de abertura da candidatura a formações de curta duração é divulgado no sítio na Internet do IPS.
 
-###### Artigo 186.º — Candidatura a formações de curta duração
+Artigo 186.º
+
+Candidatura a formações de curta duração
 
 As candidaturas a formações de curta duração são efetuadas online, devendo ser instruídas de acordo com o artigo 176.º
 
-###### Artigo 187.º — Apreciação das candidaturas a formações de curta duração
+Artigo 187.º
+
+Apreciação das candidaturas a formações de curta duração
 
 As candidaturas são analisadas e seriadas pelo coordenador da formação de curta duração.
 
@@ -206,17 +228,23 @@ Os candidatos são seriados com base na análise curricular.
 
 A lista de seriação será homologada pelo Presidente do IPS, com pareceres do Diretor da Escola e do Presidente do CTC.
 
-###### Artigo 188.º — Propina associada a formações de curta duração
+Artigo 188.º
+
+Propina associada a formações de curta duração
 
 O valor da propina de formações de curta duração é pago, na totalidade, no ato da inscrição.
 
-###### Artigo 189.º — Funcionamento das formações de curta duração
+Artigo 189.º
+
+Funcionamento das formações de curta duração
 
 As formações de curta duração funcionam em regime a distância (e-learning), misto (b-learning) ou presencial.
 
 A calendarização das formações de curta duração é aprovada pelo Diretor da Escola que ministra a formação, sob proposta dos respetivos coordenadores das formações.
 
-###### Artigo 190.º — Programa das formações de curta duração
+Artigo 190.º
+
+Programa das formações de curta duração
 
 O programa da formação de curta duração é disponibilizado no sítio da Internet do IPS e da Escola que ministra a formação, e nele consta a seguinte informação:
 
@@ -242,7 +270,9 @@ Nível da formação no Quadro Europeu de Qualificações (5 a 8);
 
 Outras informações.
 
-###### Artigo 191.º — Avaliação
+Artigo 191.º
+
+Avaliação
 
 A inscrição numa formação conferente de microcredencial permite o acesso apenas ao regime de avaliação definido para essa formação.
 
@@ -254,7 +284,9 @@ Para obter aprovação numa formação de curta duração, o estudante deve obte
 
 Os créditos atribuídos nas formações de curta duração podem ser objeto de creditação, para efeitos de prosseguimento de estudos, nos termos da Lei.
 
-###### Artigo 192.º — Certificação
+Artigo 192.º
+
+Certificação
 
 A frequência com aproveitamento de uma formação de curta duração, nos termos do presente regulamento, confere o direito à respetiva certificação através de microcredencial.
 
@@ -262,7 +294,7 @@ Os elementos normalizados de informação que integram a certificação referida
 
 Identificação do estudante;
 
-## Título da formação;
+Título da formação;
 
 País/região do emitente;
 
@@ -298,7 +330,9 @@ deve ler-se:
 
 «Livro I
 
-###### Artigo 10.º — Épocas de Avaliação
+Artigo 10.º
+
+Épocas de Avaliação
 
 1 - Existem três épocas de avaliação:
 
@@ -322,7 +356,9 @@ c) Época Especial, que ocorre após a 2.ª Época do 2.º semestre, destinando-
 
 [...]
 
-# Livro II — Artigo 9.º
+Livro II
+
+Artigo 9.º
 
 Anulação e suspensão de matrícula por decisão do estudante
 
@@ -354,13 +390,17 @@ Anulação e suspensão de matrícula por decisão do estudante
 
 [...]
 
-###### Artigo 181.º — Objeto e âmbito
+Artigo 181.º
+
+Objeto e âmbito
 
 1 - A presente secção visa enquadrar as formações de curta duração conferentes de microcredenciais, ministradas nas Unidades Orgânicas de ensino e investigação do Instituto Politécnico de Setúbal.
 
 2 - As formações curtas conferentes de microcredenciais devem promover a aprendizagem contínua ao longo da vida e as competências adquiridas nestas formações são certificadas pelo IPS.
 
-###### Artigo 182.º — Princípios
+Artigo 182.º
+
+Princípios
 
 1 - As aprendizagens e o volume de trabalho exigidos pelas formações de curta duração conferentes de microcredenciais são traduzidos em créditos do Sistema Europeu de Transferência e Acumulação de Créditos (ECTS).
 
@@ -378,7 +418,9 @@ Anulação e suspensão de matrícula por decisão do estudante
 
 8 - As microcredenciais são controladas por um sistema de garantia de qualidade, de acordo com as recomendações da Comissão Europeia.
 
-###### Artigo 183.º — Criação e garantia de qualidade
+Artigo 183.º
+
+Criação e garantia de qualidade
 
 1 - As formações de curta duração podem corresponder:
 
@@ -394,11 +436,15 @@ c) A unidades curriculares que integram a oferta formativa do IPS.
 
 4 - Formação enquadrada nos instrumentos de garantia de qualidade definidos no âmbito do Sistema Integrado de Gestão e Garantia da Qualidade do IPS, da responsabilidade do coordenador da formação.
 
-###### Artigo 184.º — Formações de curta duração disponíveis à frequência/inscrição
+Artigo 184.º
+
+Formações de curta duração disponíveis à frequência/inscrição
 
 O número de vagas para admissão de estudantes em formações de curta duração é fixado pelo Presidente do IPS mediante proposta do Diretor da Escola que ministra a formação.
 
-###### Artigo 185.º — Edital de candidaturas a formações de curta duração
+Artigo 185.º
+
+Edital de candidaturas a formações de curta duração
 
 1 - O edital de formações conferentes de microcredencial é estabelecido de acordo com o artigo 142.º
 
@@ -406,11 +452,15 @@ O número de vagas para admissão de estudantes em formações de curta duraçã
 
 3 - O edital de abertura da candidatura a formações de curta duração é divulgado no sítio na Internet do IPS.
 
-###### Artigo 186.º — Candidatura a formações de curta duração
+Artigo 186.º
+
+Candidatura a formações de curta duração
 
 As candidaturas a formações de curta duração são efetuadas online, devendo ser instruídas de acordo com o artigo 176.º
 
-###### Artigo 187.º — Apreciação das candidaturas a formações de curta duração
+Artigo 187.º
+
+Apreciação das candidaturas a formações de curta duração
 
 1 - As candidaturas são analisadas e seriadas pelo coordenador da formação de curta duração.
 
@@ -418,17 +468,23 @@ As candidaturas a formações de curta duração são efetuadas online, devendo 
 
 3 - A lista de seriação será homologada pelo Presidente do IPS, com pareceres do Diretor da Escola e do Presidente do CTC.
 
-###### Artigo 188.º — Propina associada a formações de curta duração
+Artigo 188.º
+
+Propina associada a formações de curta duração
 
 O valor da propina de formações de curta duração é pago, na totalidade, no ato da inscrição.
 
-###### Artigo 189.º — Funcionamento das formações de curta duração
+Artigo 189.º
+
+Funcionamento das formações de curta duração
 
 1 - As formações de curta duração funcionam em regime a distância (e-learning), misto (b-learning) ou presencial.
 
 2 - A calendarização das formações de curta duração é aprovada pelo Diretor da Escola que ministra a formação, sob proposta dos respetivos coordenadores das formações.
 
-###### Artigo 190.º — Programa das formações de curta duração
+Artigo 190.º
+
+Programa das formações de curta duração
 
 O programa da formação de curta duração é disponibilizado no sítio da Internet do IPS e da Escola que ministra a formação, e nele consta a seguinte informação:
 
@@ -454,7 +510,9 @@ j) Nível da formação no Quadro Europeu de Qualificações (5 a 8);
 
 k) Outras informações.
 
-###### Artigo 191.º — Avaliação
+Artigo 191.º
+
+Avaliação
 
 1 - A inscrição numa formação conferente de microcredencial permite o acesso apenas ao regime de avaliação definido para essa formação.
 
@@ -466,7 +524,9 @@ k) Outras informações.
 
 5 - Os créditos atribuídos nas formações de curta duração podem ser objeto de creditação, para efeitos de prosseguimento de estudos, nos termos da Lei.
 
-###### Artigo 192.º — Certificação
+Artigo 192.º
+
+Certificação
 
 1 - A frequência com aproveitamento de uma formação de curta duração, nos termos do presente regulamento, confere o direito à respetiva certificação através de microcredencial.
 
@@ -507,3 +567,5 @@ o) Informação adicional.
 4 - A informação relativa aos dados das microcredenciais fica disponível para verificação através de acesso online seguro e gratuito, de forma a garantir a transparência e o reconhecimento das mesmas.»
 
 7 de outubro de 2022. - A Presidente, Prof.ª Doutora Ângela Lemos.
+
+315780189

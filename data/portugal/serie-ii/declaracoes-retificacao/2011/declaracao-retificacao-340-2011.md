@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/02/028000000/0735207352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/340-2011-2913347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-02-09T00:00:00Z'
+  retrieved_at: '2026-10-23T14:36:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00f26b6879864867851aa68938d3ff6214db28378d7176efc44d6e360fca5b2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 320ab8eff9189c319d7e32417ac14a292d86d1855a9434d13fe957ded81955e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:36:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:36:08Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 340/2011
+# Declaração de rectificação n.º 340/2011
 
 Por ter saído com inexactidão a publicação da deliberação n.º 3323/2009, no Diário da República, 2.ª série, n.º 242, de 16 de Dezembro de 2009, republique-se a referida deliberação.
 
@@ -98,3 +102,5 @@ deve ler-se:
 a) No administrador para a acção social licenciado Luís Alberto do Nascimento Fernandes a competência para autorizar despesas previstas na alínea a) do n.º 1, na alínea a) do n.º 2 e na alínea a) do n.º 3 do artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Julho, decisão de contratar, aprovar as minutas dos contratos e representar o Estado na outorga do contrato.»
 
 4 de Janeiro de 2011. - A Directora de Serviços, Valentina Matoso.
+
+204306602

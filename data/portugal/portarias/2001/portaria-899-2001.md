@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/899/2001/07/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/899-2001-378923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b369cd726c7fdc80d8df9fdac8c9c9aa600a6a852c6dd4c61d932fa3e095ddc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c8664425fbd5646869b18c8259a060681cdf331ad5ec4f2db4c6a0b5be1a9dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,26 @@ relationships:
   target: pt:dre:142153:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:541396:por
+  label: "Renovada por um periodo de 12 anos a concess&#227;o de zona de ca&#231;a tur&#237;stica concessionada pela Port\
+    \ 615-D5/91 de 08-Jul, alterada pelo presente diploma, pela PORT.420/2003.2003.05.22.MECO, DR.IS-B [118]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/420-2003-541396
+  date: '2003-05-22'
+- type: amended_by
+  target: pt:dre:646486:por
+  label: "Anexados vários prédios rústicos à zona de caça atribuída pela Port 615-D5/91, de 08-Jul, alterada pelo presente\
+    \ diploma e renovada pela Port 420/2003 de 22-Mai, pela PORT.1173-C/2003.02.10.2003.MECO, DR.IS-B [228-SUPL] de 02.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1173-c-2003-646486
+  date: '2003-10-02'
+- type: amended_by
+  target: pt:dre:142153:por
+  label: "Transferida para José Manuel Loução Guerreiro Vilhena a concessão de zona de caça atribuída pela Port 615-D5/91\
+    \ de 08-Jul, com a redacção conferida pelo presente diploma, pela PORT.805/2005.05.09.2005.MADRP, DR.IS-B [170] de 05.09.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/805-2005-142153
+  date: '2005-09-05'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
   label: null
@@ -94,16 +114,36 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/615-d5/1991/07/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/615-d5/1991/07/08/p/dre
+- type: cites
+  target: pt:dre:205826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:20Z'
   warnings: []
   errors: []
 ---

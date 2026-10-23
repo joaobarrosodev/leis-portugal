@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/05/100000000/2239222393.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/900-2011-1175483
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fed5648d7901fc4cedef1bb23d617e1b90a20cb0c8ccbf6e44c16e9c668367b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 814482d03e163073da04b7af69b02a4cf55e8bf05e6f550f230ca940c89ae3bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,31 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:193663:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:29Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 900/2011
+# Declaração de rectificação n.º 900/2011
 
 Por ter saído com inexactidão a declaração de rectificação n.º 755/2011, inserta no Diário da República, 2.ª série, n.º 81, de 27 de Abril de 2011, a p. 18 442, rectifica-se que onde se lê «Jorge Manuel Baptista de Sousa, Assistente Graduado Sénior de Cirurgia Geral, [...] concedida a redução de horário de trabalho para 39 horas semanais [...] a partir da data da presente deliberação (17/12/2009)» deve ler-se «Jorge Manuel Baptista de Sousa, assistente graduado sénior de cirurgia geral, [...] concedida a redução de horário de trabalho para 39 horas semanais [...] a partir da data da presente deliberação (16 de Dezembro de 2010)».
 
 (Não está sujeito à fiscalização prévia do Tribunal de Contas, de acordo com o disposto no artigo 46.º, n.º 1, conjugado com o artigo 114.º, n.º 1, da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto).
 
 18 de Maio de 2011. - A Directora do Serviço de Gestão de Recursos Humanos, Paula Cristina Silva Ribeiro.
+
+204695299

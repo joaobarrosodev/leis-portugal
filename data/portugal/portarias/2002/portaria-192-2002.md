@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/192/2002/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/192-2002-251445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:39:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 782ebcdb166029ac31e8bef25d5cccc938af4d7416b7213bcb0676bf75a248b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4339f0773f836cbca45c8bdf42a83b8b2f397bbd86faf306864cd7a990164ec9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:39:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,30 +65,38 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Ensino Artístico
 - Bailado
+- Educação Pré-escolar
+- Ensino Artístico
+- Ensino Básico
 - Ensino Cooperativo
 - Ensino Oficial
 - Ensino Particular
 - Pessoal Docente
 - Qualificação Profissional
-- Ensino Básico
-- Educação Pré-escolar
 relationships:
 - type: amended_by
   target: pt:dre:224870952:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:452686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:39:41Z'
   warnings: []
   errors: []
 ---
@@ -111,48 +119,48 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 3.º As habilitações para a docência das disciplinas de iniciação da educação pré-escolar e do 1.º ciclo do ensino básico são as constantes do anexo III à presente portaria, que dela faz parte integrante.
 
-**O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus, em 6 de Fevereiro de 2002.**
+O Ministro da Educação, Júlio Domingos Pedrosa da Luz de Jesus, em 6 de Fevereiro de 2002.
 
-## ANEXO I — [(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+## ANEXO I — [[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 ## ANEXO II
 
 01 - Dança Clássica
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 02 - Dança Moderna
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 03 - Dança Contemporânea
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 04 - Criação Coreográfica
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 05 - Danças Tradicionais
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 06 - Música
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 07 - Expressões
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 08 - Produção
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 09 - História das Artes
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
 
 ## ANEXO III — Habilitações para os cursos de iniciação (educação pré-escolar e 1.º ciclo do ensino básico)
 
-[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)
+[[[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)](https://files.diariodarepublica.pt/1s/2002/03/053b00/17881791.pdf)

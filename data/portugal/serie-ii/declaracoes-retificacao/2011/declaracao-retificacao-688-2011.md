@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/04/071000000/1675816758.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/688-2011-1090598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-04-11T00:00:00Z'
+  retrieved_at: '2026-10-23T14:38:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 98575a09235540beedcd76122b1503e78f13502590c2d2a3c2cb4dead79eb2eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8656d35d62b5a1d2fa2fcb98621f5ed56a2d2515de4e16e4d2efea5276a0602b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:38:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:38:08Z'
   warnings: []
   errors: []
 ---
@@ -87,3 +87,5 @@ Declaração de rectificação n.º 688/2011
 Por ter saído com inexactidão o aviso n.º 8009/2011, publicado no Diário da República, 2.ª série, n.º 64, de 31 de Março de 2011,a p. 15 135, referente à abertura do concurso interno de ingresso para recrutamento de trabalhadores com relação jurídica de emprego público, por tempo indeterminado, para preenchimento de dois postos de trabalho da carreira de técnicos de diagnóstico e terapêutica, área de fisioterapia, rectifica-se que onde se lê «Formalização das candidaturas: As candidaturas devem ser formalizadas mediante requerimento, subscrito pelo candidato, dirigido ao presidente do conselho de administração do Hospital de José Luciano de Castro Anadia e entregue pessoalmente no Serviço de Gestão de Recursos Humanos (das 9 às 13 e das 14 às 17 horas) ou remetido pelo correio, com aviso de recepção, o qual se considera apresentado dentro do prazo legal se tiver sido expedido até ao último dia do prazo do concurso, dele devendo contar os seguintes elementos:» deve ler-se «Formalização das candidaturas: as candidaturas devem ser formalizadas mediante requerimento, subscrito pelo candidato, dirigido ao presidente do conselho de administração do Hospital de José Luciano de Castro Anadia, sito na Rua da Misericórdia, apartado 93, 3781-909 Anadia, entregue pessoalmente no Serviço de Gestão de Recursos Humanos (das 9 às 13 e das 14 às 17 horas) ou remetido pelo correio, com aviso de recepção, o qual se considera apresentado dentro do prazo legal se tiver sido expedido até ao último dia do prazo do concurso, dele devendo contar os seguintes elementos:».
 
 4 de Abril de 2011. - O Presidente do Conselho de Administração, José Afonso.
+
+204544881
