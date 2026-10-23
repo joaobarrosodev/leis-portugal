@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/718-2007-1502431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-25T00:00:00Z'
+  retrieved_at: '2026-10-23T17:10:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5126bd654aaeb91897f0560f87b2eebb9233d4ef59a71ac3f2f8c8fcddc94fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66439b3fbec47fce1b96c8d586f7987a94080a3ab6f1529572376c27ad47cd4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:10:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Encarregado de Missão
+- Estrutura de Missão Parcerias Saúde
+- Parceria Público-Privada
+- Parcerias Saúde
 relationships:
 - type: amended_by
   target: pt:dre:3120432:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:3120432:por
+  label: "Alterados os nº.s 1º, 3º, 4º e 5º pela PORT.749/2008.25.08.2008.MFAP, DR.IIS [163] de 25.08.2008. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/749-2008-3120432
+  date: '2008-08-25'
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:10:12Z'
   warnings: []
   errors: []
 ---
@@ -213,4 +228,4 @@ Ano 2012 até ao limite máximo de Euro 59 000.
 
 ## ANEXO — Repartição por ano e por procedimento concursal
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/08/164000000/2457024571.pdf))](https://files.diariodarepublica.pt/2s/2007/08/164000000/2457024571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/08/164000000/2457024571.pdf)

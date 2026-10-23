@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/193-2007-2452527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T17:07:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 129e7b23ddfee603c0c40112be98e1fa76bf5d5d6e59fe1cf4ebde85492e6021
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 609af5fff0d0468375ceb2797cc9c68d23c9dbe182fb067b57508f828bdc05ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:07:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Europol
+- Nomeação
+- Oficial de Ligação
 relationships:
 - type: amended_by
   target: pt:dre:2224247:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2149929:por
+  label: "Prorrogada a comissão de serviço, pela PORT.50/2010.15.01.2010.MNE, DR.IIS [10] de 15.01.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/50-2010-2149929
+  date: '2010-01-15'
+- type: amended_by
+  target: pt:dre:55025018:por
+  label: Prorrogada, a partir de 22.01.2013, e por um período de três anos, a comissão de serviço do inspetor António José
+    Coelho Duarte Alves, como oficial de ligação para a EUROPOL, nomeado pelo presente diploma, com a prorrogação efetuada
+    pela Port 50/2010 de 15-jan, pelo(a) Portaria n.º 560/2014 - Diário da República n.º 133/2014, Série II de 2014-07-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/560-2014-55025018
+  date: '2014-07-14'
+- type: amended_by
+  target: pt:dre:73301245:por
+  label: Prorrogada, a partir de 22.01.2016 e por um período de três anos, a comissão de serviço do Inspetor António José
+    Coelho Duarte Alves, como oficial de ligação para a EUROPOL, cuja nomeação foi efetuada pela presente portaria, e posteriormente
+    prorrogada pelas Port 50/2010 de 15-jan e 560/2014 de 14-jul, pelo(a) Portaria n.º 16/2016 - Diário da República n.º 18/2016,
+    Série II de 2016-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/16-2016-73301245
+  date: '2016-01-27'
+- type: cites
+  target: pt:dre:353541:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:2224247:por
+  label: "Rectificada [corrigido o nome do nomeado] a Port 50/2010, de 15-Jan DR.IIS [10], que prorroga a comissão de serviço\
+    \ do nomeado pelo presente diploma, pela DECL-RECT.517/2010.16.03.2010.MJ, DR.IIS [52] de 16.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/517-2010-2224247
+  date: '2010-03-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:07:14Z'
   warnings: []
   errors: []
 ---

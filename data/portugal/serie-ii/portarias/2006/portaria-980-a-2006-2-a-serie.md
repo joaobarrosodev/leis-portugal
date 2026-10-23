@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 114/2006, 2º Suplemento, Série II de 2006-06-14
   number: '114'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 8720-(12) a 8720-(14)
   pdf_url: https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf
 entry_into_force_dates: []
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/980-a-2006-1774736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T17:05:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ea311cef6cd6af0700d51f0b2a0f5ff259ac087cd720c32d79f757288096e13
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ac31774282c0cfa751bca667dd2a8bee86344429e752e4c74063deab2f085354
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:05:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:823878581:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:173280850:por
+  label: Alteradas, as figuras 5 e 7 do anexo ii e o anexo iii do presente diploma, pelo(a) Portaria n.º 460/2021 - Diário
+    da República n.º 206/2021, Série II de 2021-10-22 que procede à republicação dos anexos i, ii e iii do referido diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/460-2021-173280850
+  date: '2021-10-22'
+- type: amended_by
+  target: pt:dre:823878581:por
+  label: Alterados, a partir de 23 de dezembro de 2023, o artigo 5.º do regulamento de concessão da medalha de mérito de proteção
+    e socorro e o anexo iii pelo(a) Portaria n.º 860/2023 - Diário da República n.º 246/2023, Série II de 2023-12-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/860-2023-823878581
+  date: '2023-12-22'
 article_structure:
   article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:05:29Z'
   warnings: []
   errors: []
 ---
@@ -170,44 +183,44 @@ Anverso - resultante da combinação de formas sobrepostas em chapa por soldagem
 
 Reverso - lisa, contendo gravado o nome da pessoa distinguida com a sua concessão, o número de registo e a data da sua concessão.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 Insígnia de pescoço (concedida a pessoa individual no grau ouro) (figura 2)
 
 Descrição - gravata constituída por fita de seda ondeada na cor do distintivo concedido com a largura de 38 mm, da qual pende medalha de 50 mm de diâmetro e 4 mm de espessura.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 Gravata de bandeira (concedida a pessoa colectiva com bandeira ou estandarte) (figura 3)
 
 Descrição - gravata constituída por fita de suspensão de seda na cor do distintivo concedido com a largura de 100 mm e comprimento de 2 m, com a inscrição "Medalha de mérito de protecção e socorro - Ministério da Administração Interna - Portugal" bordada a fio de seda em ouro, prata ou cobre.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 Insígnia para peito (concedida a pessoa individual) (figura 4)
 
 Descrição - medalha de 30 mm de diâmetro pendente de uma fita de seda ondeada na cor do distintivo concedido com a largura de 30 mm e com o comprimento necessário para que seja de 90 mm a distância do topo superior da fita ao bordo inferior da medalha.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 Roseta (concedida a pessoa individual) (figura 5)
 
 Descrição - cilindro de 20 mm de diâmetro e com a altura de 7 mm forrado a seda ondeada na cor do distintivo.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 Miniatura (concedida a pessoa individual) (figura 6)
 
 Descrição - medalha de 15 mm de diâmetro pendente de fita de suspensão igual à da insígnia para o peito, com a largura máxima de 15 mm e com o comprimento necessário para que seja de 60 mm a distância do topo superior da fita ao bordo inferior da medalha.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 Fita simples (concedida a pessoa individual) (figura 7)
 
 Descrição - a fita simples de tecido igual ao da fita de suspensão da insígnia de peito, com 30 mm de cumprimento e 12 mm de largura, colocada em barra metálica ou de material plástico rígido, com alfinete de segurança para fixação.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
 
 ## ANEXO III — Diploma de concessão da medalha de mérito de protecção e socorro
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf))](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2006/06/114000002/0001200014.pdf)

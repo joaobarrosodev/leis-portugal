@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 226/2007, 2º Suplemento, Série II de 2007-11-23
   number: '226'
   series: II
-  supplement: 2º Suplemento
+  supplement: null
   pages: 34128-(28) a 34128-(28)
   pdf_url: https://files.diariodarepublica.pt/2s/2007/11/226000002/0002800028.pdf
 entry_into_force_dates: []
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1065-a-2007-1437654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-03-13T00:00:00Z'
+  retrieved_at: '2026-10-23T17:06:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24ac5ba4cd1fdabfdd3e9adb353ca6673ecbf34c4fe54cc7c77b485b673c76fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c2e257fcc4624dcb7eb3c5c196e1e3eae40ff3a06e081cdea7408bd60ff18a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:06:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Ministério das Finanças e da Administração Pública
+- Serviço de Telecomunicações Móveis
 relationships:
 - type: amended_by
   target: pt:dre:2201750:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:2201750:por
+  label: "Alterada a extensão dos encargos pela PORT.253/2008.13.03.2008.MFAP, DR.IIS [52] de 13.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/253-2008-2201750
+  date: '2008-03-13'
+- type: cites
+  target: pt:dre:287989:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313402:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:06:03Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +121,7 @@ Manda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do disposto 
 
 Ficam autorizadas as entidades abaixo mencionadas a assumir os encargos orçamentais decorrentes da contratação em causa, que não poderão, em cada ano económico, exceder as seguintes importâncias:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/11/226000002/0002800028.pdf))](https://files.diariodarepublica.pt/2s/2007/11/226000002/0002800028.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/11/226000002/0002800028.pdf)
 
 A importância fixada para o ano económico de 2009 poderá ser acrescida do saldo que se apurar na execução orçamental do ano anterior.
 

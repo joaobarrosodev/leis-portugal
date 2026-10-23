@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:2382899:por
-title: Portaria n.º 950/2006(2.ªsérie)
+title: Portaria n.º 950/2006 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,41 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/950-2006-2382899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-05-31T00:00:00Z'
+  retrieved_at: '2026-10-23T17:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9a2396e1a4241152069c660ff2ab80e059a5e128f8826e954f18054e509ad29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1860f75af6c5d978d28827146657a53ec450a3d57059f932f337915c56c9db6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Açores
+- Aquisição de Bens e Serviços
+- Comunicações
+- Instituto das Comunicações de Portugal
+- Madeira.região Autónoma
+- Ministério da Administração Interna
+- Segurança Pública
+- SIRESP
+relationships:
+- type: cites
+  target: pt:dre:223660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:05:18Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 950/2006(2.ªsérie)
+# Portaria n.º 950/2006 (2.ª série)
 
 Portaria n.º 950/2006 (2.ª série). - Através das Resoluções do Conselho de Ministros n.os [26/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2002-272426), de 5 de Fevereiro, e [56/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/56-2003-223660), de 8 de Abril, foram estabelecidas as condições de instalação do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal, de tecnologia trunking digital, concebido como uma rede nacional única em tecnologia trunking digital, partilhada, que permitirá, em caso de emergência, a centralização do comando e da coordenação das diversas forças e serviços de segurança.
 

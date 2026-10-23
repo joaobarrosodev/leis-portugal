@@ -48,25 +48,30 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/846-2007-1310567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T17:10:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a28b953081584aaa0cd92b5cdc85bee976f520f1de382f84ca3470e93a653c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24da7c44fce6a419e35f0a7e6cf3cd36de4b3e9d4127da41e5b359f050d2211a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:10:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Curso Profissional
+- Escola de Hotelaria e Turismo
+- Formação Profissional
+- Plano de Estudos
+- Qualificação Profissional
 relationships:
 - type: amended_by
   target: pt:dre:602746:por
@@ -76,16 +81,46 @@ relationships:
   target: celex:31985D0368
   label: null
   source: null
+- type: cites
+  target: pt:dre:210801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265288:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520229:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:602746:por
+  label: "Revogada, sem prejuízo do disposto no nº 2 do art. 13.º, pela PORT.57/2009.21.01.2009.MEI, DR.IS [14] de 21.01.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/57-2009-602746
+  date: '2009-01-21'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:10:56Z'
   warnings: []
   errors: []
 ---
@@ -124,15 +159,15 @@ b) O acesso ao exercício de profissões ou actividades profissionais do sector 
 
 ## ANEXO I — Plano curricular do curso de cozinha/pastelaria
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf))](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf)
 
 Plano curricular do curso de restaurante/bar
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf))](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf)
 
 Plano curricular do curso de hotelaria e turismo
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf))](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2007/09/181000000/2737727379.pdf)
 
 ## ANEXO II
 

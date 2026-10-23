@@ -1,7 +1,7 @@
 ---
 schema_version: '1.0'
 id: pt:dre:1182366:por
-title: Portaria n.º 966/2006(2.ªsérie)
+title: Portaria n.º 966/2006 (2.ª série)
 short_title: null
 summary: null
 jurisdiction: portugal
@@ -46,30 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/966-2006-1182366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T17:05:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e80c263c263b730c0e1c993d8bce9c623f6d9efd6136245d6e275b600f6e57ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c5d3815a9ccfb0ff26ab9d197c9b0424ab96c15e0ea4984a50ab360aef50a9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:05:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Água
+- Controlo de Qualidade
+- Instituto Regulador de Águas e Resíduos
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:611350:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:158586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631198:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611350:por
+  label: "Revogada, a partir de 24.03.2010, pela PORT.175/2010.23.03.2010.MAOT, DR.IS [57] de 23.03.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/175-2010-611350
+  date: '2010-03-23'
 - type: transposes
   target: celex:31998L0083
   label: null
@@ -77,18 +102,18 @@ relationships:
 article_structure:
   article_count: 10
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T17:05:23Z'
   warnings: []
   errors: []
 ---
 
-# Portaria n.º 966/2006(2.ªsérie)
+# Portaria n.º 966/2006 (2.ª série)
 
 Portaria n.º 966/2006 (2.ª série). - Por meio do [Decreto-Lei n.º 243/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2001-631198), de 5 de Setembro, diploma que transpôs para o direito interno a Directiva n.º 98/83/CE, do Conselho, de 3 de Novembro, foi o Instituto Regulador de Águas e Resíduos (IRAR) investido na qualidade de autoridade competente para a fiscalização e controlo da qualidade da água para consumo humano.
 
