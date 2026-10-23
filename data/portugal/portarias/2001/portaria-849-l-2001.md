@@ -20,7 +20,7 @@ publication:
   reference: Diário da República n.º 171/2001, 2º Suplemento, Série I-B de 2001-07-25
   number: '171'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4564-(11) a 4564-(11)
   pdf_url: https://files.diariodarepublica.pt/1s/2001/07/171b02/00110011.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/849-l/2001/07/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-l-2001-328806
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4728b1a9a399a944e4aad9d6d7debfce02db7fb3921d0b409cb4941b79fc688e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0769eedf0d02ee2cc8a97f57cccdab25ff22f958a5905ab40b0dd4919a569594
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,14 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cadaval
 - CAÇA
+- Cadaval
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:455623:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:641144:por
+  label: "Renovada por um período de 6 anos, a concessão da zona de caça criada pelo presente diploma, pela PORT.1036/2007.31.08.2007.MAOTDR,\
+    \ DR.IS [168] de 31.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1036-2007-641144
+  date: '2007-08-31'
+- type: amended_by
+  target: pt:dre:455623:por
+  label: "Excluídos vários prédios rústicos da zona de caça criada pelo presente diploma, pela PORT.883/2008.14.08.2008.MADRP,\
+    \ DR.IS [157] de 14.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/883-2008-455623
+  date: '2008-08-14'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -90,16 +102,32 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/467/2001/05/08/p/dre
   label: null
   source: http://data.dre.pt/eli/port/467/2001/05/08/p/dre
+- type: cites
+  target: pt:dre:316162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:558207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594974:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:01Z'
   warnings: []
   errors: []
 ---

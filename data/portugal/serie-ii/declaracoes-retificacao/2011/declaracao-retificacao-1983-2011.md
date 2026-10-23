@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/249000000/5078250782.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1983-2011-3434817
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1a2ce47960e5ecc0311d815f1757bee5edc202ba4a8a9f3ce56d6128920c619
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 15aca00a8a9dfa686f7c4ad8679d391f4b6857d12edd7a65bb7b59cb11a989d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:13Z'
   warnings: []
   errors: []
 ---
@@ -89,3 +89,5 @@ Tendo sido detectadas algumas inexactidões no edital n.º 1253/2011, publicado 
 No preâmbulo do referido edital, onde se lê «1 posto de trabalho de Professor Auxiliar na área disciplinar de Arqueologia Moderna da Faculdade de Ciências Sociais e Humanas desta Universidade» deve ler-se «um posto de trabalho de professor auxiliar na área disciplinar de Arqueologia - Arqueologia Moderna da Faculdade de Ciências Sociais e Humanas desta Universidade» e, na alínea a) do ponto i do citado edital, onde se lê «Ser titular do grau de doutor na área para que é aberto o concurso» deve ler-se «Ser titular do grau de doutor adequado à área para que é aberto o concurso».
 
 22 de Dezembro de 2011. - O Reitor, António Manuel Bensabat Rendas.
+
+205504277

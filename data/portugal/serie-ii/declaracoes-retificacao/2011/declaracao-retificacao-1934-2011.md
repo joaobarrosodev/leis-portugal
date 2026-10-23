@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1934-2011-2285610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T14:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e2b744e15f9095bc673bf9c8a5091173aa7babefe14a69f9593fe9164a6c8e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f355b23b4010de2764bf0536cc597f58e4bc6cafada3c10d6aa01724dd8227e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:34:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,31 +65,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:3143496:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:34:57Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1934/2011
+# Declaração de rectificação n.º 1934/2011
 
 Faz-se público que por despacho do Secretário de Estado da Saúde de 24 de Novembro de 2011, foi aprovada a alteração do mapa de vagas do concurso IM2011-A com vista ao ingresso no período de formação específica em 1 de Janeiro de 2012, em anexo ao aviso n.º 22412-A/2011, publicado no Diário da República, 2.ª série, n.º 218, suplemento, de 14 de Novembro de 2011, alterado pela [Declaração de Rectificação n.º 1792-A/2011](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1792-a-2011-3143496), publicada no Diário da República, 2.ª série, n.º 225, suplemento, de 23 de Novembro de 2011.
 
 Onde se lê:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf))](https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf)
 
 deve ler-se:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf))](https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/242000000/4931549316.pdf)
 
 6 de Dezembro de 2011. - O Presidente do Conselho Directivo, João Carvalho das Neves.
+
+205462149

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/244000000/4997349973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1957-2011-2344106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-22T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 910a1f7886a77d7a37053da93757ce1d312d81038d8e184ba832088df56acb65
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5405f1fe1fbd031ddc3de63ca5bb8751fdaaf1d6398df9cfc614a9f0b224737a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:03Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +101,15 @@ Ouvido o Conselho Académico, foram aprovadas as alterações aos artigos 9.º, 
 
 5 - ...
 
-###### Artigo 32.º — [...]
+Artigo 32.º
+
+[...]
 
 São revogadas todas as disposições regulamentares contrárias ao disposto no presente Regulamento, designadamente o Regulamento de Estudos Pós-Graduados aprovado em Plenário de Senado em 7 de Novembro de 2007.
 
-###### Artigo 33.º — [...]
+Artigo 33.º
+
+[...]
 
 1 - O presente Regulamento entra em vigor no ano lectivo de 2011-2012.
 
@@ -114,3 +118,5 @@ São revogadas todas as disposições regulamentares contrárias ao disposto no 
 3 - (Anterior n.º 2.)»
 
 16 de Dezembro de 2011. - O Reitor, Carlos Alberto Sequeira.
+
+205475417

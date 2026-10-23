@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1984-2011-3434821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bd1573a29a179c8807ba4160680f68c3c9576b02ab9780ff463978a3f8f749a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 86a3e230d955039c9f29d89cd3127fc248458eb5f2c93fe48b146eb6ece2261f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:13Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +88,14 @@ Por ter sido publicado com inexactidão no Diário da República, 2.ª série, n
 
 Especialidade em Desenvolvimento Sócio-Económico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf))](https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf)
 
 deve ler-se:
 
 Especialidade em Desenvolvimento Sócio-Económico
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf))](https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/249000000/5078450784.pdf)
 
 20 de Dezembro de 2011. - A Reitora, Helena Pereira.
+
+205500615

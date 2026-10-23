@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1970-2011-3357661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-26T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7262ced31e5cfecbc3da3fcb6742a2742cffa0978126b4e061d9d25019028083
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d31750c6a628abad5c1714046d5d8c43d3c030330d56602fa6242aca63db3400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:243887:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602059:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:08Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1970/2011
+# Declaração de rectificação n.º 1970/2011
 
 Rectificação do Regulamento do Plano de Urbanização de Évora
 
@@ -96,7 +108,7 @@ Assim, corrigidas as falhas detectadas, vai agora, em anexo, publicado na ínteg
 
 1 - Atento o disposto na [Portaria n.º 216-B/2008](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2008-243887) de 3 de Março, e no PDM de Évora, o número total de lugares de estacionamento a prever, em função dos usos e das actividades a instalar no âmbito da realização de operações urbanísticas, não deverá ser inferior ao definido no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf))](https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf)
 
 Notas
 
@@ -126,4 +138,6 @@ Notas
 
 6 - O dimensionamento das áreas de estacionamento deverá respeitar o estipulado em regulamento municipal.
 
-[([ver documento original](https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf))](https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2011/12/246000000/5034550346.pdf)
+
+605457857

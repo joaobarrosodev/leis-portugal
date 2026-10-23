@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/857/2001/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/857-2001-372811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-07-27T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a202ac02804840754988ea15a874d64166c0f5f9c8f6c22f9a6eb851a143b01b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d8acc1a3cdd0cd67c1ec3b939ce88c5922649de03d6ebb120dc79161463a5abc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,20 +65,24 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Serviço Postal
 - CTT
 - SELO Postal
-relationships: []
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:03Z'
   warnings: []
   errors: []
 ---
@@ -107,4 +111,4 @@ Taxas, motivos e quantidades:
 
 (Os dois selos da emissão serão integrados na mesma folha - 25 de cada selo.)
 
-**O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 11 de Julho de 2001.**
+O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues, em 11 de Julho de 2001.

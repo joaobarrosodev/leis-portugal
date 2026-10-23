@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/867/2001/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/867-2001-372843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e4bf52c4f7bccd0dfb79690f0b0dab657f8fc08224096d29148a518ae4430b57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e13160a45c44248e79cfe9411a5abf5a3cea605b3c19ca13e45e7c0ac585083e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,14 +67,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abrantes
-- Chamusca
 - CAÇA
+- Chamusca
 - ZONA de CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:638707:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:626823:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.1219/2002.2002.09.04.MADRP DR.IS-B [204]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1219-2002-626823
+  date: '2002-09-04'
+- type: amended_by
+  target: pt:dre:370874:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pela Port 764/95 de 11-Jul, renovada pelo presente\
+    \ diploma, pela PORT.598/2006.22.06.2006.MADRP, DR.IS-B [119] de 22.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/598-2006-370874
+  date: '2006-06-22'
+- type: amended_by
+  target: pt:dre:638707:por
+  label: "Renovada por seis anos a concessão da zona de caça atribuída pela Port 764/95 de 11-Jul, posteriormente renovada\
+    \ no presente diploma, pela PORT.670/2007.04.06.2007.MADRP, DR.IS [107] de 04.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-2007-638707
+  date: '2007-06-04'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -83,16 +101,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/764/1995/07/11/p/dre
   label: null
   source: http://data.dre.pt/eli/port/764/1995/07/11/p/dre
+- type: cites
+  target: pt:dre:466001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:10Z'
   warnings: []
   errors: []
 ---

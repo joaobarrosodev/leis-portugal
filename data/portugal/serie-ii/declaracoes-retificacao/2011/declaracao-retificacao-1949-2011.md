@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/243000000/4961649617.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1949-2011-3647063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-21T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22fc8f617b5309670a679e84ba6377de99a1f996cfb9ea41801a72557e9a324e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51f76d77672f252ef8acdaf9ed1b004d55b45d8a85795a6bef4d4323fbd109a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,22 +66,26 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:347306:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:02Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1949/2011
+# Declaração de rectificação n.º 1949/2011
 
 Por ter sido publicado com inexactidão o despacho (extracto) n.º 15588/2011, no Diário da República, 2.ª série, n.º 220, 16 de Novembro de 2011, procede-se à sua republicação.
 
@@ -134,3 +138,5 @@ Participou em diversos cursos e acções de formação, onde se destacam:
 «POC - Educação: Que desafios para os Institutos Superiores Politécnicos?»; «POC Educação - Interpretação e Análise de Gestão»; «Execução e Coordenação de Projectos de Inventariação»; «Regime Jurídico das Despesas Públicas em Aquisição de Bens e Serviços»; «Despesas e Obras Públicas: do Aviso à Adjudicação»; «Gestão e Controlo dos Dinheiros Públicos»; «Gestão de Tesouraria e Fundo de Maneio»; «Regras e Técnicas de Negociação em Contratação Pública»; «Alterações ao Contencioso Administrativo»; «Código do Procedimento Administrativo - CPA»; «O Novo SIADAP», «Qualidade no Atendimento ao Público»; «Processo de Bolonha»; «Gestão Académica».
 
 4 de Novembro de 2011. - A Directora da Escola Superior de Turismo e Tecnologia do Mar, Teresa Margarida Lopes da Silva Mouga.
+
+205463064

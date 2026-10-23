@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/2s/2011/12/249000000/5075950759.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: in_force
+legal_status: unknown
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1982-2011-3434549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca5e799c5b0d9a7912f588b711ebdbc587e3333c39b42049c9c7a9fb07dc97d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d4d4eeb6d583a3a92ac52044ee9839e7afcd477a2caf4998507c990a14aca09
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:13Z'
   warnings: []
   errors: []
 ---
 
-# Declaração de Rectificação n.º 1982/2011
+# Declaração de rectificação n.º 1982/2011
 
 Pelo presente se procede à anulação da publicação do aviso n.º 23884/2011, de 14 de Dezembro, publicado no Diário da República, 2.ª serie, n.º 238, de 14 de Dezembro de 2011, de acordo com o disposto na alínea b) do n.º 1 do artigo 76.º da [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro, conjugado com o n.º 1 da cláusula 6.ª do acordo colectivo de trabalho n.º 1/2009, de 28 de Setembro, e do regulamento de extensão n.º 1-A/2010, de 2 de Março, referente ao período experimental com a trabalhadora Maria Sofia Santos Gonçalves Martins, para o mapa de pessoal da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P., Agrupamento de Centros de Saúde da Grande Lisboa IX - Algueirão-Rio de Mouro.
 
 14 de Dezembro de 2011. - O Presidente do Conselho Directivo da ARSLVT, I. P., Luís Manuel de Paiva Gomes Cunha Ribeiro.
+
+205503612

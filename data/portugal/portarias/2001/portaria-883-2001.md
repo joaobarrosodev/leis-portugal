@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/883/2001/07/27/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/883-2001-372824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T14:35:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ef073226d8b1d130a1861129df96e9fa23fe8b26aeca459dd6b83ad318db054
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4dc9a43d4f9994b9d54519c145fa5ebf3b43e11f311debfa0de20236e2db09e6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:35:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,6 +74,12 @@ relationships:
   target: pt:dre:637389:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:637389:por
+  label: "Renovada por um período de 10 anos a concessão da zona de caça atribuída pela Portaria 675/91, de 15 de Julho, na\
+    \ redacção do presente diploma, pela PORT.839/2007.07.08.2007.MADRP, DR.IS [151] de 07.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/839-2007-637389
+  date: '2007-08-07'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/227-b/2000/09/15/p/dre
   label: null
@@ -82,16 +88,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/675/1991/07/15/p/dre
   label: null
   source: http://data.dre.pt/eli/port/675/1991/07/15/p/dre
+- type: cites
+  target: pt:dre:534644:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T14:35:15Z'
   warnings: []
   errors: []
 ---
