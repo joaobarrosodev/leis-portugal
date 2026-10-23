@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17811-1960-502665
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e95a63f0c58ce4ee9becd9a263767c498480cc0b4fe1499d5de64fbd9f51f976
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f6a88e7cf2ad51eca0739530b6b09c0cd27b7214ece8ae523b3192a80ca06bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:38Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +92,18 @@ Ministério da Educação Nacional, 11 de Julho de 1960. - O Ministro da Educaç
 
 Regulamento das Bolsas de Estudo e dos Prémios Lawton Mackall
 
-###### Artigo 1.º As bolsas de estudo e os prémios destinados pela Fundação Lawton Mackall a estudantes portugueses serão anualmente atribuídos a alunos dos seguintes estabelecimentos de ensino: Escola Técnica Elementar Eugénio dos Santos (Lisboa), Escola Industrial Josefa de Óbidos (Lisboa), Escola Industrial Afonso Domingues (Lisboa), Escola Industrial Machado de Castro (Lisboa), Escola Industrial Marquês de Pombal (Lisboa), Escola Comercial Ferreira Borges (Lisboa), Escola Comercial Veiga Beirão (Lisboa), Escola Industrial e Comercial de Ponta Delgada, Liceu Nacional de Ponta Delgada, Instituto Industrial de Lisboa e Instituto Comercial de Lisboa.
+Artigo 1.º As bolsas de estudo e os prémios destinados pela Fundação Lawton Mackall a estudantes portugueses serão anualmente atribuídos a alunos dos seguintes estabelecimentos de ensino: Escola Técnica Elementar Eugénio dos Santos (Lisboa), Escola Industrial Josefa de Óbidos (Lisboa), Escola Industrial Afonso Domingues (Lisboa), Escola Industrial Machado de Castro (Lisboa), Escola Industrial Marquês de Pombal (Lisboa), Escola Comercial Ferreira Borges (Lisboa), Escola Comercial Veiga Beirão (Lisboa), Escola Industrial e Comercial de Ponta Delgada, Liceu Nacional de Ponta Delgada, Instituto Industrial de Lisboa e Instituto Comercial de Lisboa.
 
-###### Art. 2.º O número de bolsas e de prémios e o quantitativo de cada um deles serão anualmente fixados pela Fundação, que, por intermédio dos seus delegados em Portugal, fará aos directores das escolas interessadas a correspondente comunicação.
+Art. 2.º O número de bolsas e de prémios e o quantitativo de cada um deles serão anualmente fixados pela Fundação, que, por intermédio dos seus delegados em Portugal, fará aos directores das escolas interessadas a correspondente comunicação.
 
-###### Art. 3.º - 1. A designação dos alunos a beneficiar será feita pela secção disciplinar do conselho escolar ou, na falta desta, pelo próprio conselho, atendendo à média das classificações do aproveitamento escolar, a qual não deverá ser inferior a 14 valores, e ao comportamento, bem como à situação económica dos alunos e suas famílias.
+Art. 3.º - 1. A designação dos alunos a beneficiar será feita pela secção disciplinar do conselho escolar ou, na falta desta, pelo próprio conselho, atendendo à média das classificações do aproveitamento escolar, a qual não deverá ser inferior a 14 valores, e ao comportamento, bem como à situação económica dos alunos e suas famílias.
 
 2. Para efeito de atribuição das bolsas de estudo gozarão de preferência os alunos a quem no ano anterior tenham sido concedidas.
 
 3. A atribuição do prémio Lawton Mackall não prejudica a concessão de qualquer outro benefício de natureza idêntica ou análoga.
 
-###### Art. 4.º A atribuição das bolsas e dos prémios será levada ao conhecimento dos delegados em Portugal da Fundação Lawton Mackall dentro de 30 dias após o recebimento da comunicação a que se refere o artigo 2.º, cumprindo aos directores das escolas tomar as disposições para isso necessárias.
+Art. 4.º A atribuição das bolsas e dos prémios será levada ao conhecimento dos delegados em Portugal da Fundação Lawton Mackall dentro de 30 dias após o recebimento da comunicação a que se refere o artigo 2.º, cumprindo aos directores das escolas tomar as disposições para isso necessárias.
 
-###### Art. 5.º Se alguma das bolsas ou dos prémios destinados às escolas mencionadas no artigo 1.º não puder, em qualquer ano, ser atribuído, reverterá, no próprio ano ou no seguinte, a favor de alunos de outras escolas, a designar, para o efeito, pela Fundação Lawton Mackall.
+Art. 5.º Se alguma das bolsas ou dos prémios destinados às escolas mencionadas no artigo 1.º não puder, em qualquer ano, ser atribuído, reverterá, no próprio ano ou no seguinte, a favor de alunos de outras escolas, a designar, para o efeito, pela Fundação Lawton Mackall.
 
 Secretaria-Geral do Ministério, 11 de Julho de 1960. - O Secretário-Geral, Carlos Proença.

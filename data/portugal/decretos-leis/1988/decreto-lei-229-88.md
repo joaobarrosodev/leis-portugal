@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14800/26482648.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1988-371643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca16c22e4523d131a410a71ec83c98a0052629ec25b8e5d33acdc3c25c2ed404
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 835b9042ee7b62ec625c49b65cccd7a1b0ac41afc01fa1c50383a260198b198a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Farmacêutico
 relationships:
 - type: amended_by
   target: pt:dre:478253:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:265130:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:478253:por
+  label: "Revogado pelo DEC LEI.72/91.08.02.1991.MS, DR.IS-A [33] de 08.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-1991-478253
+  date: '1991-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:00Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +110,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 60.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 60.º do [Decreto-Lei n.º 48547](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48547-1968-265130), de 27 de Agosto de 1968, passa a ter a seguinte redacção:
 
-###### Art. 60.º - 1 - ...
+Art. 60.º - 1 - ...
 
 2 - ...
 
@@ -113,18 +124,18 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - ...
 
-###### Art. 2.º As soluções endovenosas de grande volume incluídas na Farmacopeia Portuguesa e no Formulário Nacional necessitam de autorização de colocação no mercado, nos termos previstos no Decreto-Lei n.º 41448, de 18 de Dezembro de 1957.
+Art. 2.º As soluções endovenosas de grande volume incluídas na Farmacopeia Portuguesa e no Formulário Nacional necessitam de autorização de colocação no mercado, nos termos previstos no Decreto-Lei n.º 41448, de 18 de Dezembro de 1957.
 
-###### Art. 3.º Excepcionalmente, e durante 60 dias a contar da data de entrada em vigor deste diploma, as firmas produtoras de soluções endovenosas de grande volume previstas no artigo anterior e já comercializadas podem apresentar os pedidos de autorização acompanhados de processos sumariamente instruídos.
+Art. 3.º Excepcionalmente, e durante 60 dias a contar da data de entrada em vigor deste diploma, as firmas produtoras de soluções endovenosas de grande volume previstas no artigo anterior e já comercializadas podem apresentar os pedidos de autorização acompanhados de processos sumariamente instruídos.
 
 Visto e aprovado em Conselho de Ministros de 19 de Maio de 1988. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 9 de Junho de 1988.**
+Promulgado em 9 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Junho de 1988.**
+Referendado em 16 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

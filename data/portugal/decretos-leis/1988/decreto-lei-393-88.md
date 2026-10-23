@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/25800/44684471.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,119 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1988-358361
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6cc4fe545ce19950d472d52a40a3128c5b1d44632a4183113b644f5467cd3b3d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e3bacdcc4417f2be69ec01312b8b9350ad91804abefdb826be23bb353a8a2e2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Prevenção do Tabagismo
+- Orgânica
+- Saúde
+- Tabaco
+- Tabagismo
 relationships:
 - type: amended_by
   target: pt:dre:636938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573146:por
+  label: "Alterado o art. 8º do Dec Lei 226/83, de 27-Maio, na redacção do presente diploma, pelo DEC LEI.253/90.04.08.1990.MARN,\
+    \ DR.IS [[179]] de 04.08.1990\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1990-573146
+  date: '1990-08-04'
+- type: amended_by
+  target: pt:dre:630782:por
+  label: "Alterados os art.s 1º e 8º do Dec Lei 226/83, de 27-Maio, na redacção do presente diploma, pelo DEC LEI.200/91.29.05.1991.MS,\
+    \ DR.IS-A [123] de 29.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1991-630782
+  date: '1991-05-29'
+- type: amended_by
+  target: pt:dre:616446:por
+  label: "Alterados os arts. 9.º-B, 9.º-C, 13.º do Dec Lei 226/83, de 27-Mai, na redacção do presente diploma, pelo DEC LEI.276/92.12.12.1992.MS,\
+    \ DR.IS-A [286] de 12.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1992-616446
+  date: '1992-12-12'
+- type: amended_by
+  target: pt:dre:241406:por
+  label: "Alterado o art. 2º do Dec Lei 226/83 de 27-Mai, na redacção dada pelo presente diploma, pelo DEC LEI.283/98.1998.09.17.MEPAT,\
+    \ DR.IS-A [215]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/283-1998-241406
+  date: '1998-09-17'
+- type: amended_by
+  target: pt:dre:209590:por
+  label: "Alterado o art. 1º do Dec Lei 226/83 de 27-Mai, com a redacção deste diploma, pelo DEC LEI.25/2003.2003.02.04.MS\
+    \ DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2003-209590
+  date: '2003-02-04'
+- type: amended_by
+  target: pt:dre:538997:por
+  label: "Alterados os arts. 1º, 6º, 9º-A e 9º-B e revogado o art. 9º-C do Dec Lei 226/83 de 27-Mai, com a redacção conferida\
+    \ pelo presente diploma, pelo DEC LEI.14/2006.20.01.2006.MS, DR.IS-A [15] de 20.01.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-2006-538997
+  date: '2006-01-20'
+- type: cites
+  target: pt:dre:180980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663310:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:519057:por
+  label: Rectificado pela DECL.DD4068.1988.11.30.PCM DR.IS [277]4ºSUPL DE 30/NOV/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519057
+  date: '1988-11-30'
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogado, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:11Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +190,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 13.º, 15.º e 17.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 13.º, 15.º e 17.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — Conceitos
 
@@ -255,7 +334,7 @@ g) Ambiente.
 
 As despesas resultantes da execução deste diploma serão satisfeitas pelo orçamento do Instituto Nacional de Defesa do Consumidor, adiante designado abraviadamente por INDC.
 
-###### Art. 2.º A seguir ao artigo 9.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, são intercalados os artigos 9.º-A, 9.º-B e 9.º-C, com a seguinte redacção:
+Art. 2.º A seguir ao artigo 9.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, são intercalados os artigos 9.º-A, 9.º-B e 9.º-C, com a seguinte redacção:
 
 ###### Artigo 9.º-A — Das contra-ordenações
 
@@ -285,20 +364,20 @@ b) De 100000$00 a 1500000$00, para as infracções aos artigos 6.º a 8.º
 
 Do montante das coimas aplicadas pelas contra-ordenações previstas neste diploma 50% serão destinados para o INDC, revertendo o restante para os cofres do Estado.
 
-###### Art. 3.º São revogados o n.º 4 do artigo 2.º, o n.º 4 do artigo 6.º e os artigos 10.º e 11.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, e ainda o [Decreto-Lei n.º 333/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1985-180980), de 20 de Agosto.
+Art. 3.º São revogados o n.º 4 do artigo 2.º, o n.º 4 do artigo 6.º e os artigos 10.º e 11.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, e ainda o [Decreto-Lei n.º 333/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1985-180980), de 20 de Agosto.
 
-###### Art. 4.º - 1 - O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+Art. 4.º - 1 - O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
 
 2 - Fica exceptuada do disposto no número anterior a nova redacção dada ao artigo 8.º do [Decreto-Lei n.º 226/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1983-451801), de 27 de Maio, cuja entrada em vigor se difere por um prazo de 270 dias.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

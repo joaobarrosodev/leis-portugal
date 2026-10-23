@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/17600/31643164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1988-377970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f089418ce7d006de5afccccb447372fefe0f0789a7b8b0f13d3f650263c250
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2cc3190e134d67747d298e9e6ebb7354c457784678bb2cfae972eb8585842dc1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autarquia Local
+- JURO Bonificado
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:375631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:630632:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:05Z'
   warnings: []
   errors: []
 ---
@@ -100,26 +128,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º As bonificações a favor de municípios, previstas nos Decretos-Leis n.os [242/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1980-472358), de 21 de Julho, [369/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1982-375631), de 10 de Setembro, [463/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1983-630632), de 31 de Dezembro, [153/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1984-384058), de 16 de Maio, e [138/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1984-385042), de 7 de Maio, passam a ser reguladas da seguinte forma:
+Artigo 1.º As bonificações a favor de municípios, previstas nos Decretos-Leis n.os [242/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1980-472358), de 21 de Julho, [369/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1982-375631), de 10 de Setembro, [463/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1983-630632), de 31 de Dezembro, [153/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1984-384058), de 16 de Maio, e [138/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1984-385042), de 7 de Maio, passam a ser reguladas da seguinte forma:
 
 a) O Estado concede uma bonificação à taxa de juro contratual dos empréstimos integrados nas linhas de crédito previstas nestes diplomas, até ao limite máximo de 4%;
 
 b) A Caixa Geral de Depósitos concede igualmente uma bonificação à taxa de juro desses empréstimos, a fixar de acordo com as regras constantes dos protocolos das linhas de crédito e suas alterações.
 
-###### Art. 2.º A taxa de juro líquida a cargo dos municípios não pode ser inferior à soma as bonificações.
+Art. 2.º A taxa de juro líquida a cargo dos municípios não pode ser inferior à soma as bonificações.
 
-###### Art. 3.º A variação das taxas de bonificação abaixo dos limites fixados no artigo 1.º será regulada através de protocolo a celebrar entre as entidades bonificadoras, o qual deve ser homologado mediante despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
+Art. 3.º A variação das taxas de bonificação abaixo dos limites fixados no artigo 1.º será regulada através de protocolo a celebrar entre as entidades bonificadoras, o qual deve ser homologado mediante despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
 
-###### Art. 4.º O disposto no presente decreto-lei produz efeitos nos períodos de contagem de juros iniciados a partir de 16 de Outubro de 1987, inclusive.
+Art. 4.º O disposto no presente decreto-lei produz efeitos nos períodos de contagem de juros iniciados a partir de 16 de Outubro de 1987, inclusive.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 18 de Julho de 1988.**
+Promulgado em 18 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Julho de 1988.**
+Referendado em 18 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

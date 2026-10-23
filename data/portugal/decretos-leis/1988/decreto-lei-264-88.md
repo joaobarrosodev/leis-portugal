@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/17100/30103017.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1988-378281
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53bc99803b7f48ea1c2cbfd90712020f1905ddaede8d4558829cdaa868bd5471
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eb678f4f057ebc79706b7297291afe5595cc5eb103b0bb409f5ca48ed955ca77
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Ministério da Administração Interna
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:434011:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 853/89 DE 29-SET DR.IS [225]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1989-09-29'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL PELA PORT 442/92 DR.IS-B [126]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-06-01'
+- type: amended_by
+  target: pt:dre:689619:por
+  label: "Alterados os arts. 2º, 6º, 8º, 14º e revogado o art. 9º, pelo DEC LEI.117/93.1993.04.13.MAI, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1993-689619
+  date: '1993-04-13'
+- type: amended_by
+  target: pt:dre:581264:por
+  label: "Alterado o quadro anexo ao presente diploma pela PORT.53/97.1997.01.22.PCM, MF E MAI DR.IS-B [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/53-1997-581264
+  date: '1997-01-22'
+- type: amended_by
+  target: pt:dre:392575:por
+  label: "Alterado o quadro de pessoal publicado em anexo pelo presente diploma, pela PORT.468/99.1999.06.29.PCM DR.IS-B [149]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/468-1999-392575
+  date: '1999-06-29'
+- type: cites
+  target: pt:dre:169972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392849:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598109:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666153:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:434011:por
+  label: "Revogado pelo DEC LEI.330/99.1999.08.20.MAI DR.IS-A [194]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/330-1999-434011
+  date: '1999-08-20'
 article_structure:
   article_count: 20
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:00Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +171,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-### CAPÍTULO INatureza e atribuições
+CAPÍTULO INatureza e atribuições
 
 ###### Artigo 1.º — Natureza
 
@@ -378,7 +449,9 @@ a) Divisão de Documentação e Arquivo;
 
 b) Divisão de Informação e Relações Públicas.
 
-###### Artigo 11.º — Divisão de Documentação e Arquivo
+###### Artigo 11.º
+
+##### Divisão de Documentação e Arquivo
 
 1 - Compete à Divisão de Documentação e Arquivo em matéria de documentação:
 
@@ -424,7 +497,9 @@ d) Organizar um núcleo de arquivo histórico do Ministério;
 
 e) Satisfazer as requisições que lhe forem dirigidas, anotando em livro ou ficheiro próprio as entradas e saídas.
 
-###### Artigo 12.º — Divisão de Informação e Relações Públicas
+###### Artigo 12.º
+
+##### Divisão de Informação e Relações Públicas
 
 Compete à Divisão de Informação e Relações Públicas:
 
@@ -576,19 +651,19 @@ e) Repartição de Gestão Financeira e Patrimonial.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1988.**
+Referendado em 23 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Quadro a que se refere o artigo 15.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/17100/30103017.pdf))](https://files.diariodarepublica.pt/1s/1988/07/17100/30103017.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/17100/30103017.pdf)
 
 Conteúdo funcional da carreira de técnico auxiliar:
 

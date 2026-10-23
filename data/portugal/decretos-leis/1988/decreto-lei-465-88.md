@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28800/49404947.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1988-356353
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1edba8b0fe7d57914dea5dd60c180883b090410947d67b963e14ed0d5762cbb7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e972d593c89b856fce68353c7728fac0a5be79c1581efeb3f97b67af680bf132
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Arquitecto
+- Associação dos Arquitectos Portuguêses
+- Estatuto
+relationships:
+- type: repealed_by
+  target: pt:dre:487081:por
+  label: "Revogado pelo DEC LEI.176/98.1998.07.03.PCM DR.IS-A [151] de 03.07.1998, excepto as disposições referentes ao funcionamento\
+    \ dos actuais órgãos, as quais se manterão em vigor até à substituição dos respectivos titulares de acordo com as novas\
+    \ disposições estatutárias desse diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/176-1998-487081
+  date: '1980-07-03'
 article_structure:
-  article_count: 58
+  article_count: 57
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:01Z'
   warnings: []
   errors: []
 ---
@@ -96,33 +106,33 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 86/88, de 28 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A Associação dos Arquitectos Portugueses, adiante designada por AAP, criada por escritura pública de 25 de Fevereiro de 1978, é convertida em associação pública.
+Artigo 1.º - 1 - A Associação dos Arquitectos Portugueses, adiante designada por AAP, criada por escritura pública de 25 de Fevereiro de 1978, é convertida em associação pública.
 
 2 - É aprovado o respectivo Estatuto, que faz parte integrante do presente decreto-lei.
 
-###### Art. 2.º Até à delimitação das regiões administrativas ou à criação de novas secções regionais, nos termos do Estatuto anexo, os núcleos que tenham áreas geográficas não coincidentes com os limites das secções regionais actualmente existentes deverão ter os seus regulamentos aprovados pelo conselho directivo nacional.
+Art. 2.º Até à delimitação das regiões administrativas ou à criação de novas secções regionais, nos termos do Estatuto anexo, os núcleos que tenham áreas geográficas não coincidentes com os limites das secções regionais actualmente existentes deverão ter os seus regulamentos aprovados pelo conselho directivo nacional.
 
-###### Art. 3.º A convocação das primeiras eleições, ao abrigo das disposições estatutárias em anexo, será feita até 30 dias antes do termo do mandato dos actuais órgãos sociais da AAP.
+Art. 3.º A convocação das primeiras eleições, ao abrigo das disposições estatutárias em anexo, será feita até 30 dias antes do termo do mandato dos actuais órgãos sociais da AAP.
 
-###### Art. 4.º Às primeiras eleições realizadas ao abrigo do Estatuto não é aplicável o disposto no respectivo n.º 2 do artigo 11.º do Estatuto.
+Art. 4.º Às primeiras eleições realizadas ao abrigo do Estatuto não é aplicável o disposto no respectivo n.º 2 do artigo 11.º do Estatuto.
 
-###### Art. 5.º No prazo de 90 dias após a publicação do presente diploma, o conselho directivo nacional efectuará o registo dos arquitectos em livro próprio, para o que deverá publicar anúncio em três jornais de grande divulgação, fixando o período em que os interessados se devem registar, bem como a documentação necessária.
+Art. 5.º No prazo de 90 dias após a publicação do presente diploma, o conselho directivo nacional efectuará o registo dos arquitectos em livro próprio, para o que deverá publicar anúncio em três jornais de grande divulgação, fixando o período em que os interessados se devem registar, bem como a documentação necessária.
 
-###### Art. 6.º Os sócios da AAP, inscritos ao abrigo de disposições estatutárias anteriores, serão automaticamente considerados associados e registados nos termos do Estatuto.
+Art. 6.º Os sócios da AAP, inscritos ao abrigo de disposições estatutárias anteriores, serão automaticamente considerados associados e registados nos termos do Estatuto.
 
-###### Art. 7.º Findo o prazo estipulado no artigo 5.º, caducam as inscrições de arquitectos nas câmaras municipais que não estejam acompanhadas de declaração de registo emitida pela AAP, ao abrigo da alínea b) do artigo 3.º do Estatuto.
+Art. 7.º Findo o prazo estipulado no artigo 5.º, caducam as inscrições de arquitectos nas câmaras municipais que não estejam acompanhadas de declaração de registo emitida pela AAP, ao abrigo da alínea b) do artigo 3.º do Estatuto.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatuto da Associação dos Arquitectos Portugueses
 

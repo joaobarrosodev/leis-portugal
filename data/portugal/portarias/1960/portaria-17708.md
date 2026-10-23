@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17708-1960-505433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4cad05273e3f8a59468d452e47ba637ea8ebe44c4d728414ddecc2b0b442b681
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a0c713ea072a40f7d5de169a5408485fcea0329abbc3377fbace7ef51072f67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:22Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +86,6 @@ Manda o Governo da República Portuguesa, pelo Ministro das Finanças, que sejam
 
 Ministério das Finanças, 3 de Maio de 1960. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/10300/10371037.pdf))](https://files.diariodarepublica.pt/1s/1960/05/10300/10371037.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/10300/10371037.pdf)
 
 Ministério das Finanças, 3 de Maio de 1960. - O Ministro das Finanças, António Manuel Pinto Barbosa.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23800/42014201.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1988-355115
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f607547feda15ea28f3de798805c23aced36ae48e29de113249911a544edf111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74fe4567c6039084fd277db78decbbbcff90b5dfa572c78b164fb1fe41b99fcf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Trabalho a Prazo
+- Direcção Geral do Desenvolvimento Regional
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:31Z'
   warnings: []
   errors: []
 ---
@@ -105,24 +120,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Ministro do Planeamento e da Administração do Território pode autorizar, a título excepcional e durante o período de execução do Programa Nacional de Interesse Comunitário de Incentivos à Actividade Produtiva, a celebração de contratos de trabalho a termo certo de pessoal técnico superior e técnico auxiliar para prossecução das tarefas decorrentes da aplicação daquele Programa e recentemente atribuídas à DGDR e ao DAA.
+Artigo 1.º - 1 - O Ministro do Planeamento e da Administração do Território pode autorizar, a título excepcional e durante o período de execução do Programa Nacional de Interesse Comunitário de Incentivos à Actividade Produtiva, a celebração de contratos de trabalho a termo certo de pessoal técnico superior e técnico auxiliar para prossecução das tarefas decorrentes da aplicação daquele Programa e recentemente atribuídas à DGDR e ao DAA.
 
 2 - O número de unidades a contratar não poderá exceder vinte e a sua contratação será proposta caso a caso pelos respectivos directores-gerais.
 
-###### Art. 2.º Aos contratos de trabalho a termo certo aplica-se, em tudo o que não contrarie o presente diploma, o disposto no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, e, supletivamente, a legislação geral do trabalho.
+Art. 2.º Aos contratos de trabalho a termo certo aplica-se, em tudo o que não contrarie o presente diploma, o disposto no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, e, supletivamente, a legislação geral do trabalho.
 
-###### Art. 3.º A celebração de contratos nos termos deste diploma pode operar-se por urgente conveniência de serviço, aplicando-se o regime previsto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+Art. 3.º A celebração de contratos nos termos deste diploma pode operar-se por urgente conveniência de serviço, aplicando-se o regime previsto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
 
-###### Art. 4.º O Ministério do Planeamento e da Administração do Território, através da DGDR e do DAA, assegurará a execução orçamental do presente diploma.
+Art. 4.º O Ministério do Planeamento e da Administração do Território, através da DGDR e do DAA, assegurará a execução orçamental do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Francisco Valente de Oliveira.
 
-**Promulgado em 29 de Setembro de 1988.**
+Promulgado em 29 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1988.**
+Referendado em 3 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

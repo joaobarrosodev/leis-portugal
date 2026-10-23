@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1988-370436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1989-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44bfb252f0470e86bf7b56f4e8cc62e556ce3221653a1a783fd6a92f2bdd6662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2386303216aad7308481a71de0d03247545c2e60d7e7c02e89b0d7f7538e5c06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Betão
+- Construção Civil
+- Indústria da Construção
+- Material de Construção
+- Proteção do Consumidor
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:551255:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:356570:por
+  label: "Suspendida a vigência do presente diploma, pelo DEC LEI.457/88.13.12.1988.MOPTC, DR.IS [286] de 13.12.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1988-356570
+  date: '1988-12-13'
+- type: cites
+  target: pt:dre:182012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504317:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:551255:por
+  label: "Revogado pelo DEC LEI.445/89.30.12.1989.MOPTC, DR.IS [299] de 30.12.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/445-1989-551255
+  date: '1989-12-30'
 article_structure:
-  article_count: 43
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 42
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:00Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +124,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Betões de Ligantes Hidráulicos, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento de Betões de Ligantes Hidráulicos, que faz parte integrante do presente diploma.
 
-###### Art. 2.º É revogado o Regulamento de Betões de Ligantes Hidráulicos, aprovado pelo Decreto-Lei n.º 404/71, de 23 de Setembro.
+Art. 2.º É revogado o Regulamento de Betões de Ligantes Hidráulicos, aprovado pelo Decreto-Lei n.º 404/71, de 23 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - O Primeiro-Ministro, Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 8 de Agosto de 1988.**
+Promulgado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO AO DECRETO-LEI N.º 309/88 — Regulamento de Betões de Ligantes Hidráulicos
 
@@ -274,13 +298,13 @@ As dosagens de ligante devem satisfazer as condições indicadas nas alíneas se
 
 a) Nos betões do tipo B destinados a estruturas de betão armado e pré-esforçado, a dosagem mínima de ligante será dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 Em caso algum, porém, a dosagem poderá ser inferior aos valores mínimos estabelecidos nos regulamentos específicos daquelas estruturas;
 
 b) Nos betões do tipo BD, a dosagem mínima de ligante será dada pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 ###### Artigo 16.º — Valores máximos da razão água/ligante
 
@@ -636,7 +660,9 @@ f) Volume de betão fornecido, determinado por pesagem e pelo valor da massa vol
 
 5 - A guia de remessa deve ser elaborada em duplicado, devendo ambos os exemplares ser visados pelas entidades fornecedora e compradora, ficando cada uma delas na posse de um dos exemplares.
 
-###### Artigo 37.º — Livro de registo da obra
+###### Artigo 37.º
+
+## Livro de registo da obra
 
 1 - A entidade que executa os trabalhos terá de possuir um livro de registo da obra, onde são indicadas cronologicamente as ocorrências verificadas no decurso da obra e que interessem à realização desta.
 
@@ -746,7 +772,7 @@ f(índice cm) = (Sigma) f(índice ci)/n
 
 e determina-se o desvio padrão (Delta) pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 Admitindo que o valor da média e o quadrado do valor do desvio padrão assim determinados são boas estimas da média e da variância da distribuição estatística da população que as amostras representam e admitindo que esta distribuição é normal, o valor característico da tensão de rotura f(índice ck) - definido como valor que é atingido com a probabilidade de 95% - distará da média 1,64 desvios padrões.
 
@@ -920,43 +946,43 @@ Qualidades de betões
 
 Valores máximos dos parâmetros definidores da qualidade
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO II
 
 Qualidade de betões do tipo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO III
 
 Definição da agressividade química das águas em contacto com o betão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO IV
 
 Qualidade de betões do tipo BD
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO V
 
 Ligantes a utilizar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO VI
 
 Características dos inertes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO VII
 
 Quantidades máximas de impurezas na água da amassadura
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO VIII
 
@@ -964,7 +990,7 @@ Quantidades máximas de halogenetos, sulfuretos, sulfatos e álcalis admissívei
 
 (Percentagens referidas à massa de ligante)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO IX
 
@@ -972,19 +998,19 @@ Quantidades máximas de hologonetos, sulfuretos, sulfatos e álcalis admissívei
 
 (Percentagens referida à massa de ligante)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO X
 
 Valores de K para a determinação da dosagem mínima de ligante dos betões do tipo BD das classes 1 e 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO XI
 
 Valores máximos da razão água/ligante dos betões do tipo BD das classes 1 e 2(ver nota 1)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 (nota 1) Os valores indicados referem-se a inertes secos.
 
@@ -992,25 +1018,25 @@ QUADRO XII
 
 Curvas granulométricas aconselhadas para os inertes dos betões cuja composição não seja estudada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO XIII
 
 Módulos de finura aconselhados para os inertes dos betões cuja composição não seja estudada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO XIV
 
 Quantidade de ar a incorporar nos betões do tipo BD da classe 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO XV
 
 Precisão da medição dos componentes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 QUADRO XVI
 
@@ -1018,7 +1044,7 @@ Características de betões do tipo BD
 
 Tolerâncias na recepção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 ## ANEXO IV — Sugestões para organização de boletins de fabrico de betão
 
@@ -1028,17 +1054,17 @@ Boletim de fabrico do betão
 
 Modelo A
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 Boletim de fabrico do betão
 
 Modelo B
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 Boletim dos ensaios de recepção do betão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20300/36393655.pdf)
 
 ÍNDICE ALFABÉTICO
 
@@ -1108,7 +1134,7 @@ Juntas de betonagem ... 27.º e 28.º
 
 Ligantes ... 8.º, 10.º, 12.º, 15.º, 16.º, 20.º, 21.º, 23.º, 24.º, 39.º e 41.º
 
-# Livro de registo da obra ... 37.º
+Livro de registo da obra ... 37.º
 
 Moldes e cimbres ... 16.º, 21.º e 41.º
 

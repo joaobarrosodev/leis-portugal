@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28800/49254938.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-1988-356354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e1248ecea08b750b71393d36c83c917aa25e50871bd9579ff0fd508ba797fbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd1b5c5446193731a5ce70983eaf9758a34871601ef719fa0ca9eae86fb7898d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Regulamento
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:615041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:292114:por
+  label: Alterados os arts. 2.º, 3.º, 4.º, 6.º, 7.º, 12.º, 18.º, 19.º, 20.º, 26.º, 29.º, 30.º, 32.º, 33.º, 36.º, 37.º, 38.º,
+    39.º, 40.º, 44.º, 47.º, 49.º, 50.º, 51.º, 53.º, 54.º, 59.º, 62.º, 63.º, 67.º, 69.º, 88.º, 90.º e 92.º, aditados os arts.
+    36.º-A, 36.º-B, 36.º-C, 37.º-A e 40.º-A e revogados os arts. 41.º, n.º 2 do art. 77.º e art. 83.º, pelo(a) Decreto-Lei
+    n.º 143/92 - Diário da República n.º 165/1992, Série I-A de 1992-07-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1992-292114
+  date: '1992-07-20'
+- type: cites
+  target: pt:dre:272665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:244898:por
+  label: Rectificado pela DECL.DD3814.1989.02.17.PCM DR.IS [49]SUPL DE 28/FEV/1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-244898
+  date: '1989-02-17'
+- type: repealed_by
+  target: pt:dre:558204:por
+  label: "Revogada pela LEI.174/99.1999.09.21.AR DR.IS-A [221], sem prejuízo do art. 59.º e na data da sua entrada em vigor\
+    \ (início da vigência do diploma regulamentar)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/174-1999-558204
+  date: '1999-09-21'
+- type: repealed_by
+  target: pt:dre:615041:por
+  label: Revogado pelo DEC LEI.289/2000.2000.11.14.MDN DR.IS-A [263]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/289-2000-615041
+  date: '2000-11-14'
 article_structure:
   article_count: 98
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:56Z'
   warnings: []
   errors: []
 ---
@@ -148,15 +187,15 @@ As áreas de jurisdição dos DRM serão definidas por portaria do Ministro da D
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - António Fernando Couto dos Santos.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Regulamento da Lei do Serviço Militar
 
@@ -1310,4 +1349,4 @@ d) Convocação para a prestação do serviço militar;
 
 e) Mobilização militar.
 
-**O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.**
+O Ministro da Defesa Nacional, Eurico Silva Teixeira de Melo.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14800/26472648.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1988-371647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ae094ffc9819466b6dbdad70fe504ff813638857ed1ba7c42cb1521b87f8f0b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeb7247267e906b649fa96cf6c54f6272f42958e9414bffe1e8cec22f1450808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Ministério da Saúde
+- Monitor Oficinal
+- Pessoal Técnico Profissional
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:616417:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:00Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +113,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É criada a carreira de monitor oficinal.
+Artigo 1.º - 1 - É criada a carreira de monitor oficinal.
 
 2 - A carreira de monitor oficinal integra funções de natureza técnico-profissional e, para efeitos de estruturação dos respectivos quadros ou mapas de pessoal, integra-se no grupo de pessoal técnico-profissional, nível 4.
 
-###### Art. 2.º A carreira de monitor oficinal desenvolve-se pelas categorias de monitor oficinal especialista de 1.ª classe, especialista, principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras de vencimento G, H, I, K e L.
+Art. 2.º A carreira de monitor oficinal desenvolve-se pelas categorias de monitor oficinal especialista de 1.ª classe, especialista, principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras de vencimento G, H, I, K e L.
 
-###### Art. 3.º O monitor oficinal actua integrado numa equipa de saúde mental, enquadrada e sob prescrição do respectivo elemento médico, e cabe-lhe:
+Art. 3.º O monitor oficinal actua integrado numa equipa de saúde mental, enquadrada e sob prescrição do respectivo elemento médico, e cabe-lhe:
 
 a) Incentivar e desenvolver no recuperando hábitos de trabalho, autodisciplina e desejo de aperfeiçoamento;
 
@@ -124,13 +141,13 @@ i) Participar em reuniões de trabalho com os restantes elementos da equipa de a
 
 j) Adaptar os espaços de actividade às características da população assistida.
 
-###### Art. 4.º A carreira de monitor oficinal compreende as áreas de agro-pecuária, carpintaria, culinária, electromecânica, olaria, serralharia, tecelagem e tipografia.
+Art. 4.º A carreira de monitor oficinal compreende as áreas de agro-pecuária, carpintaria, culinária, electromecânica, olaria, serralharia, tecelagem e tipografia.
 
-###### Art. 5.º O ingresso e o acesso na carreira de monitor oficinal fazem-se nos termos do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 5.º O ingresso e o acesso na carreira de monitor oficinal fazem-se nos termos do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 6.º Os profissionais actualmente providos em lugares dos quadros ou mapas de pessoal dos serviços ou estabelecimentos de saúde mental dependentes do Ministério da Saúde correspondentes às áreas profissionais previstas no artigo 4.º do presente diploma ficam inseridos na carreira de monitor oficinal.
+Art. 6.º Os profissionais actualmente providos em lugares dos quadros ou mapas de pessoal dos serviços ou estabelecimentos de saúde mental dependentes do Ministério da Saúde correspondentes às áreas profissionais previstas no artigo 4.º do presente diploma ficam inseridos na carreira de monitor oficinal.
 
-###### Art. 7.º - 1 - Os profissionais actualmente providos em lugares dos quadros ou mapas de pessoal dos serviços ou estabelecimentos de saúde mental que possuam as habilitações previstas no [Despacho Normativo n.º 3/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1986-616417), de 7 de Janeiro, e cujas funções caibam no âmbito do artigo 3.º do presente diploma transitarão para a presente carreira nos seguintes moldes:
+Art. 7.º - 1 - Os profissionais actualmente providos em lugares dos quadros ou mapas de pessoal dos serviços ou estabelecimentos de saúde mental que possuam as habilitações previstas no [Despacho Normativo n.º 3/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1986-616417), de 7 de Janeiro, e cujas funções caibam no âmbito do artigo 3.º do presente diploma transitarão para a presente carreira nos seguintes moldes:
 
 a) Os monitores oficinais de 2.ª classe, letra M, os monitores de 2.ª classe, letra L, e os monitores de 3.ª classe, letra N, para monitores oficinais de 2.ª classe, letra L;
 
@@ -142,12 +159,12 @@ c) Os monitores oficinais principais, letra J, para monitores oficinais principa
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 9 de Junho de 1988.**
+Promulgado em 9 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Junho de 1988.**
+Referendado em 16 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17536-1960-277349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 34725d74db0dee865a3be93512654da7397ce9d7d38ad86fd55ca9435a372c18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c461a95a9e48c60b26579d85a87accaaf9ef697cd8247ece824edcd865addac7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:47Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Tendo em atenção a autorização dada pelo Conselho Económico em reunião de 
 
 Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, transferir a quantia de 3:300.000$00 da verba do capítulo 12.º, artigo 246.º, III), n.º 2), alínea a) «Plano de Fomento - Programa de execução da 2.ª fase, 1959 ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958) - Comunicações e transportes - Portos - Porto Grande de S. Vicente e Porto Novo», da tabela de despesa extraordinária do orçamento geral de 1959, para reforço, com as importâncias que se indicam, das seguintes verbas da mesma tabela de despesa:
 
-### Capítulo 12.º, artigo 246.º «Plano de Fomento - Programa de execução da 2.ª fase, 1959 ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958)»:
+Capítulo 12.º, artigo 246.º «Plano de Fomento - Programa de execução da 2.ª fase, 1959 ([Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958)»:
 
 II), n.º 1) «Aproveitamento de recursos - Agricultura, silvicultura e pecuária»:
 

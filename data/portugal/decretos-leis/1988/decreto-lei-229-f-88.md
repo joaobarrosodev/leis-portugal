@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(14) a 2732-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00140016.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-f-1988-644326
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 20d2bc686f7e31a3c0e84a7793a652735627a818fc39af94396c48507102d04e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a551583af29c59ef5b6a950dafb82cd2f5a0e8734ccd6dc00dfa494e2c785fae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Valores
+- Corretor
+- Obrigações
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:322323:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogado, a partir da data de entrada em vigor deste decreto-lei, e sem prejuízo dos regimes transitórios nele previstos,\
+    \ pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
 article_structure:
-  article_count: 14
+  article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:10Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +111,11 @@ Assim, ouvido o Conselho Nacional das Bolsas de Valores:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente decreto-lei aplica-se aos valores mobiliários que sejam objecto de um pedido de admissão à cotação oficial numa bolsa de valores, nos termos do artigo 34.º do Decreto-Lei n.º 8/74, de 14 de Janeiro.
+Artigo 1.º O presente decreto-lei aplica-se aos valores mobiliários que sejam objecto de um pedido de admissão à cotação oficial numa bolsa de valores, nos termos do artigo 34.º do Decreto-Lei n.º 8/74, de 14 de Janeiro.
 
-###### Art. 2.º As entidades emitentes de valores mobiliários admitidos à cotação oficial, anterior ou posteriormente à data da entrada em vigor do presente decreto-lei, ficam submetidas às disposições nele previstas.
+Art. 2.º As entidades emitentes de valores mobiliários admitidos à cotação oficial, anterior ou posteriormente à data da entrada em vigor do presente decreto-lei, ficam submetidas às disposições nele previstas.
 
-###### Art. 3.º Os artigos 34.º a 42.º, 45.º, 49.º, 50.º e 52.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 34.º a 42.º, 45.º, 49.º, 50.º e 52.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 34.º — Valores que podem ser admitidos à cotação
 
@@ -267,38 +277,38 @@ f) Os valores mobiliários em relação aos quais a comissão directiva consider
 
 3 - O Ministro das Finanças pode, mediante portaria e ouvido o Conselho Nacional das Bolsas de Valores, tornar obrigatória a realização, através das mesmas bolsas, da transacção da totalidade ou de parte dos valores mobiliários que nelas se encontrem cotados.
 
-###### Art. 4.º - 1 - As informações que as entidades emitentes de um valor mobiliário admitido à cotação oficial são obrigadas a pôr à disposição do público, em conformidade com o disposto na portaria a que se referem os n.os 2 dos artigos 36.º e 37.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, devem ser publicadas no boletim de cotações de uma das bolsas de valores em que estiver cotado e ser publicadas num ou mais jornais de circulação nacional ou de grande circulação, ou ser postas à disposição do público, por escrito, em locais indicados por anúncios a inserir nesses mesmos jornais.
+Art. 4.º - 1 - As informações que as entidades emitentes de um valor mobiliário admitido à cotação oficial são obrigadas a pôr à disposição do público, em conformidade com o disposto na portaria a que se referem os n.os 2 dos artigos 36.º e 37.º do Decreto-Lei n.º 8/74, de 14 de Janeiro, devem ser publicadas no boletim de cotações de uma das bolsas de valores em que estiver cotado e ser publicadas num ou mais jornais de circulação nacional ou de grande circulação, ou ser postas à disposição do público, por escrito, em locais indicados por anúncios a inserir nesses mesmos jornais.
 
 2 - As comissões directivas fixarão, por circular enviada sob registo e com aviso de recepção, às entidades cujos valores se encontrem admitidos à cotação a forma de dar execução às obrigações de informação do emitente de valores mobiliários previstas na portaria a que se refere o número anterior que não se encontrarem especialmente regulamentadas.
 
-###### Art. 5.º - 1 - Sempre que a protecção dos investidores ou o bom funcionamento do mercado o exigir, a entidade emitente pode ser obrigada pela comissão directiva a publicar determinadas informações na forma e no prazo que esta considere apropriados.
+Art. 5.º - 1 - Sempre que a protecção dos investidores ou o bom funcionamento do mercado o exigir, a entidade emitente pode ser obrigada pela comissão directiva a publicar determinadas informações na forma e no prazo que esta considere apropriados.
 
 2 - Se a entidade emitente não cumprir a decisão, a comissão directiva pode, depois de ter ouvido aquela entidade, proceder, a expensas da mesma, à publicação das informações.
 
-###### Art. 6.º - 1 - As comissões directivas das bolsas de valores devem assegurar a cooperação com as autoridades correspondentes dos outros Estados membros necessária ao cumprimento das suas funções e trocarão entre si as informações solicitadas.
+Art. 6.º - 1 - As comissões directivas das bolsas de valores devem assegurar a cooperação com as autoridades correspondentes dos outros Estados membros necessária ao cumprimento das suas funções e trocarão entre si as informações solicitadas.
 
 2 - As pessoas que exerçam ou tenham exercido actividades nas bolsas de valores estão obrigadas ao segredo profissional no que se refere à matéria regulada no presente decreto-lei, o que implica que as informações de natureza confidencial recebidas no exercício das suas funções não podem ser divulgadas, salvo por força de disposições legais.
 
 3 - O disposto no número anterior não impede que as comissões directivas e as autoridades correspondentes aos Estados membros comuniquem entre si as informações que venham a ser previstas na execução do presente decreto-lei ou através de acordos de informação mútua; as informações assim trocadas estão abrangidas pelo segredo profissional, no qual estão obrigadas as pessoas que exerçam ou tenham exercido actividades junto das entidades competentes que recebem estas informações.
 
-###### Art. 7.º - 1 - Sempre que para o mesmo valor mobiliário forem apresentados, ao mesmo tempo ou em datas aproximadas, pedidos de admissão à cotação oficial em bolsas situadas ou que funcionem em vários Estados membros da Comunidade, ou quando um pedido de admissão diga respeito a um valor mobiliário já cotado numa bolsa de valores de um Estado membro, a comissão directiva e as autoridades correspondentes desses Estados informar-se-ão mutuamente e tomarão as medidas necessárias para acelerar o processo, para simplificar ao máximo as formalidades e enventuais condições suplementares requeridas para a admissão do valor em questão.
+Art. 7.º - 1 - Sempre que para o mesmo valor mobiliário forem apresentados, ao mesmo tempo ou em datas aproximadas, pedidos de admissão à cotação oficial em bolsas situadas ou que funcionem em vários Estados membros da Comunidade, ou quando um pedido de admissão diga respeito a um valor mobiliário já cotado numa bolsa de valores de um Estado membro, a comissão directiva e as autoridades correspondentes desses Estados informar-se-ão mutuamente e tomarão as medidas necessárias para acelerar o processo, para simplificar ao máximo as formalidades e enventuais condições suplementares requeridas para a admissão do valor em questão.
 
 2 - A fim de facilitar o trabalho da comissão directiva e das autoridades correspondentes dos Estados membros, o pedido de admissão de um valor mobiliário à cotação oficial de uma bolsa de valores deve indicar se tal pedido foi feito simultaneamente ou anteriormente num outro Estado membro ou se o será num futuro próximo.
 
-###### Art. 8.º Sem prejuízo das sanções previstas na lei geral, as infecções ao disposto no presente decreto-lei são punidas em conformidade com os artigos 89.º e seguintes do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, e legislação complementar.
+Art. 8.º Sem prejuízo das sanções previstas na lei geral, as infecções ao disposto no presente decreto-lei são punidas em conformidade com os artigos 89.º e seguintes do Decreto-Lei n.º 42641, de 12 de Novembro de 1959, e legislação complementar.
 
-###### Art. 9.º Sem prejuízo do disposto no artigo anterior, no caso de não cumprimento pela entidade emitente das obrigações decorrentes da admissão à cotação oficial, a comissão directiva pode tornar público o facto de a entidade emitente não respeitar essas obrigações.
+Art. 9.º Sem prejuízo do disposto no artigo anterior, no caso de não cumprimento pela entidade emitente das obrigações decorrentes da admissão à cotação oficial, a comissão directiva pode tornar público o facto de a entidade emitente não respeitar essas obrigações.
 
-###### Art. 10.º O presente decreto-lei entra em vigor 120 dias após a data da sua publicação.
+Art. 10.º O presente decreto-lei entra em vigor 120 dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Junho de 1988.**
+Referendado em 25 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

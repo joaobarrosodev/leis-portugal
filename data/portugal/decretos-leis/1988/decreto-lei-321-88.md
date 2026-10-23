@@ -47,36 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1988-355488
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d81cc90e762b3f27acdc9ad071a580a876402ce203d35de9ea94f374fb7afb11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 355499ea20b023fa4cc61250111dd5143e956bcdc99fa3a0541cb62327b0f787
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Geral de Aposentações
+- Ensino Cooperativo
+- Ensino Particular
+- Montepio dos Servidores do Estado
+- Pensão de Aposentação
+- Pessoal Docente
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:180580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406157:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:458182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:25Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +130,11 @@ Considerando, por outro lado, que, de harmonia com o disposto no [Decreto-Lei n.
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O pessoal docente dos estabelecimentos de ensino não superior, particular ou cooperativo, devidamente legalizados, será inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado, ficando abrangido pelas disposições constantes dos respectivos estatutos em tudo o que não for contrariado pelo presente diploma.
+Artigo 1.º - 1 - O pessoal docente dos estabelecimentos de ensino não superior, particular ou cooperativo, devidamente legalizados, será inscrito na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado, ficando abrangido pelas disposições constantes dos respectivos estatutos em tudo o que não for contrariado pelo presente diploma.
 
 2 - O disposto no número anterior não é aplicável ao pessoal docente que exerça funções ao abrigo de mero contrato de prestação de serviços.
 
-###### Art. 2.º - 1 - Para efeitos de aposentação, é contado todo o tempo de serviço docente prestado anteriormente à data da entrada em vigor do presente diploma, desde que, cumulativamente, se verifiquem as seguintes condições:
+Art. 2.º - 1 - Para efeitos de aposentação, é contado todo o tempo de serviço docente prestado anteriormente à data da entrada em vigor do presente diploma, desde que, cumulativamente, se verifiquem as seguintes condições:
 
 a) O serviço tenha sido prestado nos estabelecimentos de ensino devidamente legalizados;
 
@@ -111,21 +146,21 @@ a) Certificar as condições a que se refere o número anterior;
 
 b) Certificar ainda, através dos elementos, pelo que deverão ser fornecidos em documento autenticado pelo respectivo estabelecimento de ensino, o tempo de serviço prestado como docente, com discriminação das circunstâncias em que o mesmo foi prestado, nomeadamente o número de horas semanais, faltas e licenças especificadas e os vencimentos sucessivamente auferidos.
 
-###### Art. 3.º Na contagem de tempo de serviço são considerados o período ou períodos de férias lectivas, ainda que não remunerados, de acordo com o último horário lectivo semanal distribuído ao interessado.
+Art. 3.º Na contagem de tempo de serviço são considerados o período ou períodos de férias lectivas, ainda que não remunerados, de acordo com o último horário lectivo semanal distribuído ao interessado.
 
-###### Art. 4.º - 1 - Para efeitos da contagem de tempo a que se refere o presente diploma, considera-se completo o horário lectivo semanal legalmente atribuído aos docentes que se encontram na 1.ª fase da carreira docente do respectivo grau de ensino.
+Art. 4.º - 1 - Para efeitos da contagem de tempo a que se refere o presente diploma, considera-se completo o horário lectivo semanal legalmente atribuído aos docentes que se encontram na 1.ª fase da carreira docente do respectivo grau de ensino.
 
 2 - Caso o serviço tenha sido prestado em regime de horário incompleto, aplica-se o disposto no n.º 2 do artigo 26.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
 3 - Na impossibilidade de determinar o horário lectivo semanal distribuído ao interessado, considera-se que o serviço foi prestado em regime de horário incompleto correspondente a 50% do número de horas lectivas referidas no n.º 1, desde que se verifiquem as demais condições previstas no artigo 2.º do presente diploma.
 
-###### Art. 5.º - 1 - O direito à contagem de tempo de serviço a que se refere o presente diploma depende de requerimento do interessado à Caixa Geral de Aposentações.
+Art. 5.º - 1 - O direito à contagem de tempo de serviço a que se refere o presente diploma depende de requerimento do interessado à Caixa Geral de Aposentações.
 
 2 - Pela contagem de tempo, para efeitos do presente diploma, é devido o pagamento das quotas, com excepção do período ou períodos em que os interessados contribuíram para a Segurança Social, a determinar com base nas remunerações do cargo do subscritor à data do seu requerimento e a taxa então vigente.
 
 3 - Os pedidos de contagem de tempo devem ser remetidos à Caixa Geral de Aposentações acompanhados de documento comprovativo em como o requerente reúne as condições exigidas pelo artigo 2.º, emitido pelos serviços competentes do Ministério da Educação, e de uma declaração devidamente autenticada emitida pelo Centro Nacional de Pensões, comprovativa do período ou períodos em que os interessados contribuíram para a Segurança Social.
 
-###### Art. 6.º - 1 - A pensão de aposentação devida ao pessoal abrangido pelo presente diploma será determinada e paga pela Caixa Geral de Aposentações.
+Art. 6.º - 1 - A pensão de aposentação devida ao pessoal abrangido pelo presente diploma será determinada e paga pela Caixa Geral de Aposentações.
 
 2 - No cálculo da pensão não poderão ser consideradas remunerações superiores às que respeitem à categoria e escalão da carreira docente instituída para o ensino oficial correspondentes ao mesmo tempo de serviço docente.
 
@@ -135,7 +170,7 @@ b) Certificar ainda, através dos elementos, pelo que deverão ser fornecidos em
 
 5 - A entrega das importâncias a que se referem os n.os 2 e 3 far-se-á através de contas correntes a abrir na Caixa Nacional de Previdência entre a Caixa Geral de Aposentações e o Centro Nacional de Pensões.
 
-###### Art. 7.º - 1 - O tempo de serviço a que se refere este diploma é igualmente contado para efeitos da pensão de sobrevivência, de acordo com o regime instituído pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, e legislação complementar.
+Art. 7.º - 1 - O tempo de serviço a que se refere este diploma é igualmente contado para efeitos da pensão de sobrevivência, de acordo com o regime instituído pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, e legislação complementar.
 
 2 - O tempo de serviço em que tenha havido desconto para a Previdência Social é isento de pagamento de contribuições para o Montepio dos Servidores do Estado.
 
@@ -143,24 +178,24 @@ b) Certificar ainda, através dos elementos, pelo que deverão ser fornecidos em
 
 4 - Para efeitos de aplicação do disposto no número anterior serão abertas na Caixa Nacional de Previdência contas correntes entre o Montepio dos Servidores do Estado e o Centro Nacional de Pensões.
 
-###### Art. 8.º Os estabelecimentos de ensino com pessoal docente abrangido pelo disposto no presente diploma ficam autorizados a celebrar acordos com a ADSE, destinados a fixar as condições em que o referido pessoal pode adquirir a qualidade de beneficiário da ADSE e gozar dos benefícios por esta assegurados, nos termos do artigo 4.º do [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro.
+Art. 8.º Os estabelecimentos de ensino com pessoal docente abrangido pelo disposto no presente diploma ficam autorizados a celebrar acordos com a ADSE, destinados a fixar as condições em que o referido pessoal pode adquirir a qualidade de beneficiário da ADSE e gozar dos benefícios por esta assegurados, nos termos do artigo 4.º do [Decreto-Lei n.º 118/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397), de 25 de Fevereiro.
 
-###### Art. 9.º Os estabelecimentos de ensino deduzirão aos vencimentos do pessoal docente abrangido pelo presente diploma as quotizações legalmente fixadas, devendo as respeitantes à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado ser remetidas a estas instituições no prazo fixado no n.º 1 do artigo 7.º do Estatuto da Aposentação e no n.º 1 do artigo 17.º do Estatuto das Pensões de Sobrevivência.
+Art. 9.º Os estabelecimentos de ensino deduzirão aos vencimentos do pessoal docente abrangido pelo presente diploma as quotizações legalmente fixadas, devendo as respeitantes à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado ser remetidas a estas instituições no prazo fixado no n.º 1 do artigo 7.º do Estatuto da Aposentação e no n.º 1 do artigo 17.º do Estatuto das Pensões de Sobrevivência.
 
-###### Art. 10.º Os estabelecimentos de ensino participam no financiamento do sistema nos termos da regulamentação a aprovar mediante portaria conjunta dos Ministros das Finanças e da Educação.
+Art. 10.º Os estabelecimentos de ensino participam no financiamento do sistema nos termos da regulamentação a aprovar mediante portaria conjunta dos Ministros das Finanças e da Educação.
 
-###### Art. 11.º - 1 - A não observância dos prazos a que se referem os artigos anteriores obriga os estabelecimentos de ensino abrangidos por este diploma ao pagamento de juros de mora à taxa consagrada na lei fiscal.
+Art. 11.º - 1 - A não observância dos prazos a que se referem os artigos anteriores obriga os estabelecimentos de ensino abrangidos por este diploma ao pagamento de juros de mora à taxa consagrada na lei fiscal.
 
 2 - As dívidas à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado, quando não satisfeitas voluntariamente, serão cobradas, a requisição da Caixa ou do Montepio, por meio de desconto às dotações do apoio financeiro do Estado àqueles estabelecimentos, eventualmente atribuídas através do Ministério da Educação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1988.**
+Referendado em 12 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1988-357556
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-12-10T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0608fc84085b007cf8656c006aadbd37b0dea2bfc86619aa42c7795b5badf4b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bdb136af938792d41743ecd7c6a3f4cee3b8617efdd70a592bb6d8c13a40e01f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carvão
+- Concurso
+- Contrato de Concessão
+- Gabinete da Área de Sines
+- Sines
+- Terminal de Carga
 relationships:
 - type: amended_by
   target: pt:dre:576279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:391579:por
+  label: "Alterada a base XIX do anexo ao presente diploma pelo DEC LEI.223/99.1999.06.22.MEPAT,DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1999-391579
+  date: '1999-06-22'
+- type: amended_by
+  target: pt:dre:576279:por
+  label: "Aditada a base V-A e alteradas a redacção das bases II, IX, X, XIX e XXXII do anexo deste diploma, com a redacção\
+    \ conferida pelo Dec Lei 223/99 de 22-Jun, pelo DEC LEI.311/2001.2001.12.10.MES DR.IS-A [284]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-2001-576279
+  date: '2001-12-10'
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:51Z'
   warnings: []
   errors: []
 ---
@@ -112,21 +129,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Fica autorizada a Administração do Porto de Sines (APS), no seguimento de consultas a realizar para o efeito, a celebrar contrato de concessão de exploração, em regime de serviço público, de um terminal multipurpose no porto de Sines.
+Artigo 1.º Fica autorizada a Administração do Porto de Sines (APS), no seguimento de consultas a realizar para o efeito, a celebrar contrato de concessão de exploração, em regime de serviço público, de um terminal multipurpose no porto de Sines.
 
-###### Art. 2.º A concessão será outorgada, após homologação da respectiva minuta contratual, pelo Ministro das Obras Públicas, Transportes e Comunicações, em conformidade com as bases anexas ao presente diploma, que dele fazem parte integrante.
+Art. 2.º A concessão será outorgada, após homologação da respectiva minuta contratual, pelo Ministro das Obras Públicas, Transportes e Comunicações, em conformidade com as bases anexas ao presente diploma, que dele fazem parte integrante.
 
-###### Art. 3.º - 1 - Para os efeitos referidos no artigo 1.º, serão consultados, através dos respectivos chefes de fila, os operadores portuários agrupados da mesma forma por que apresentaram propostas no último concurso aberto para o efeito.
+Art. 3.º - 1 - Para os efeitos referidos no artigo 1.º, serão consultados, através dos respectivos chefes de fila, os operadores portuários agrupados da mesma forma por que apresentaram propostas no último concurso aberto para o efeito.
 
 2 - Os grupos de operadores portuários a que alude o número anterior poderão incluir na sua composição outros operadores portuários.
 
 3 - Os chefes de fila representarão os grupos perante a APS.
 
-###### Art. 4.º - 1 - No caso de todos os grupos de operadores portuários referidos no artigo 3.º manifestarem interesse em tomar a concessão em conjunto, poderá a APS negociar directamente com os interessados o contrato em causa, respeitando as bases anexas ao presente decreto-lei e desde que daí resultem preços aceitáveis para os tráfegos previstos na base VI.
+Art. 4.º - 1 - No caso de todos os grupos de operadores portuários referidos no artigo 3.º manifestarem interesse em tomar a concessão em conjunto, poderá a APS negociar directamente com os interessados o contrato em causa, respeitando as bases anexas ao presente decreto-lei e desde que daí resultem preços aceitáveis para os tráfegos previstos na base VI.
 
 2 - O resultado destas negociações, que deverão ser acompanhadas pela EDP, como principal cliente das instalações em causa, carece de aprovação pelos Ministérios da Indústria e Energia e das Obras Públicas, Transportes e Comunicações.
 
-###### Art. 5.º - 1 - Os concorrentes, para além das bases de concessão anexas a este diploma, deverão preparar as suas propostas tendo em conta os seguintes elementos adicionais que lhes serão enviados:
+Art. 5.º - 1 - Os concorrentes, para além das bases de concessão anexas a este diploma, deverão preparar as suas propostas tendo em conta os seguintes elementos adicionais que lhes serão enviados:
 
 a) Anteprojectos de:
 
@@ -150,31 +167,35 @@ Especificações técnicas respeitantes a sistemas eléctricos.
 
 2 - Os elementos referidos no número anterior serão aprovados pela APS.
 
-###### Art. 6.º - 1 - A adjudicação da concessão será feita à proposta que, respeitando o disposto no artigo anterior, ofereça, à data do início da exploração, o mais baixo valor líquido das receitas dos serviços prestados durante o prazo de concessão.
+Art. 6.º - 1 - A adjudicação da concessão será feita à proposta que, respeitando o disposto no artigo anterior, ofereça, à data do início da exploração, o mais baixo valor líquido das receitas dos serviços prestados durante o prazo de concessão.
 
 2 - O valor referido no número anterior será calculado para os níveis médios das tonelagens previstas na alínea a) do n.º 1 da base VI, por aplicação das taxas básicas a que se refere o n.º 2 da base XVIII das bases anexas a este diploma.
 
-###### Art. 7.º - 1 - À entidade concedente fica reservado o direito de não proceder à adjudicação de nenhuma das propostas, se não forem consideradas convenientes para o interesse público.
+Art. 7.º - 1 - À entidade concedente fica reservado o direito de não proceder à adjudicação de nenhuma das propostas, se não forem consideradas convenientes para o interesse público.
 
 2 - À entidade concedente fica igualmente reservado o direito de proceder a eventuais reajustamentos à proposta preferida, desde que tais reajustamentos não conduzam à subversão dos critérios que levaram àquela preferência.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 27 de Outubro de 1988.**
+Promulgado em 27 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Outubro de 1988.**
+Referendado em 31 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## ANEXO — CAPÍTULO I
+## ANEXO
+
+### CAPÍTULO I
 
 Da concessão
 
-###### Base I — Objecto e âmbito da concessão
+Base I
+
+Objecto e âmbito da concessão
 
 1 - A concessão tem por objecto principal a atribuição do direito de exploração, em regime de serviço público, do terminal multipurpose do porto de Sines, implicando a construção das respectivas infra-estruturas terrestres, instalações e equipamento.
 
@@ -192,7 +213,9 @@ c) Operações complementares das anteriormente descritas.
 
 5 - A concessionária pode prestar, no âmbito da concessão, serviços complementares ou acessórios do seu objecto principal, desde que não prejudiquem a realização deste e sejam autorizados pelo concedente.
 
-###### Base II — Extensão da concessão
+Base II
+
+Extensão da concessão
 
 1 - A concessionária obriga-se a ampliar ou modificar as infra-estruturas, equipamentos e instalações cuja construção ou instalação constitui seu encargo contratual se durante o período da concessão tal for considerado necessário para fazer face à evolução do tráfego ou de outras circunstâncias relevantes ligadas à exploração do serviço público.
 
@@ -200,19 +223,25 @@ c) Operações complementares das anteriormente descritas.
 
 3 - O dever de actualização do serviço pela concessionária cessa para esta se a ampliação se traduzir em mudança do próprio objecto ou actividade concessionada ou num investimento manifestamente desproporcionado em relação aos níveis de tráfego razoavelmente previsíveis.
 
-###### Base III — Regime de concessão
+Base III
+
+Regime de concessão
 
 1 - A concessão é de serviço público e feita em regime de exclusivo para o tráfego de carvão e outro que, por razões técnicas e económicas, não deva ser desligado da utilização do equipamento, instalações e infra-estruturas considerados no estabelecimento da concessão.
 
 2 - As relações entre concedente e concessionária pautam-se, em tudo quanto não estiver especialmente regulado nestas bases, pelos documentos contratuais, pelas regras legais e pelos princípios gerais aplicáveis.
 
-###### Base IV — Estabelecimento da concessão
+Base IV
+
+Estabelecimento da concessão
 
 1 - O estabelecimento afecto à concessão é constituído pelas infra-estruturas terrestres, equipamento e instalações definidos na base V.
 
 2 - Com excepção do mobiliário, todo o estabelecimento da concessão, incluindo o que haja sido construído e instalado a expensas da empresa concessionária (equipamento fixo e móvel, edifícios e outras instalações e utensílios), está sujeito ao regime da impenhorabilidade e inalienabilidade, só podendo entrar no comércio jurídico-privado mediante desafectação originada em acto do concedente ou do Estado.
 
-###### Base V — Infra-estruturas, equipamento e instalações portuárias
+Base V
+
+Infra-estruturas, equipamento e instalações portuárias
 
 1 - As infra-estruturas portuárias já existentes onde virão a ser instalados o equipamento e as instalações do terminal multipurpose do porto de Sines são constituídas por:
 
@@ -248,7 +277,9 @@ c) Equipamento de manuseamento, incluindo fundações, e restantes componentes f
 
 6 - As obras, instalações e equipamentos referidos no número anterior serão construídos, conservados e operados pela concessionária e a suas expensas, mediante projecto e plano de trabalhos a aprovar pelo concedente com base nos anteprojectos e especificações submetidos a consulta.
 
-###### Base VI — Previsões de tráfego
+Base VI
+
+Previsões de tráfego
 
 1 - O tráfego a movimentar no terminal multipurpose, no âmbito da concessão, é o previsto nos seguintes termos:
 
@@ -284,7 +315,9 @@ c) Regime hidrológico;
 
 d) Qualidade do carvão.
 
-###### Base VII — Capacidade do terminal
+Base VII
+
+Capacidade do terminal
 
 Para garantir a gestão mais conveniente das várias componentes do terminal e prestar aos navios um serviço compatível com as suas características, de modo a retirar os maiores benefícios possíveis em economia de fretes e do custo do carvão nos mercados mais favoráveis, o anteprojecto do equipamento e instalações será estabelecido de modo a poder garantir os seguintes rendimentos médios diários de descarga:
 
@@ -294,7 +327,9 @@ Navios entre 40000 tdw e 60000 tdw - entre 20000 t/d e 30000 t/d;
 
 Navios com mais de 60000 tdw - entre 30000 t/d e 35000 t/d.
 
-###### Base VIII — Limites físicos da concessão
+Base VIII
+
+Limites físicos da concessão
 
 1 - O limite físico a considerar na concessão em regime de exclusivo será o que corresponder às áreas necessárias à execução dos projectos das várias fases de desenvolvimento do terminal.
 
@@ -326,7 +361,9 @@ Recepção marítima:
 
 Limite nos descarregadores de navios.
 
-###### Base IX — Prazo de concessão
+Base IX
+
+Prazo de concessão
 
 1 - O prazo de concessão é de 25 anos, contados da data de início de exploração comercial do terminal.
 
@@ -336,7 +373,9 @@ Limite nos descarregadores de navios.
 
 ### CAPÍTULO II — Da concessionária
 
-###### Base X — Sociedade concessionária
+Base X
+
+Sociedade concessionária
 
 1 - A concessionária constituir-se-á antes da celebração do contrato de concessão em sociedade comercial.
 
@@ -348,7 +387,9 @@ Limite nos descarregadores de navios.
 
 5 - A sociedade concessionária terá a sua sede em Sines e submeter-se-á, no que respeita ao contencioso de validade, execução e extinção deste contrato, à jurisdição portuguesa.
 
-###### Base XI — Responsabilidade da sociedade concessionária
+Base XI
+
+Responsabilidade da sociedade concessionária
 
 1 - A sociedade concessionária responde perante o concedente pelos actos e omissões dos seus administradores e agentes, bem como pelos actos e omissões daqueles que, por seu mandato, construírem obras ou fornecerem e montarem materiais e equipamentos, devendo para cobertura da respectiva responsabilidade contratar obrigatoriamente com empresa seguradora um seguro de montante a aprovar pela APS para cobertura de todos os riscos das instalações e equipamentos do terminal multipurpose do porto de Sines.
 
@@ -366,7 +407,9 @@ Limite nos descarregadores de navios.
 
 8 - A sociedade concessionária é responsável pela obtenção das licenças e autorizações necessárias ao exercício da actividade, bem como de todos os requisitos oficiais complementares.
 
-###### Base XII — Caução
+Base XII
+
+Caução
 
 1 - A caução, que a concessionária deve manter permanentemente actualizada, serve de garantia ao exacto e pontual cumprimento das obrigações por ela assumidas no contrato e ao pagamento das penalidades que lhe forem aplicadas pelo concedente, salvo se este optar ou a lei lhe impuser que opte por outro processo de execução.
 
@@ -376,7 +419,9 @@ Limite nos descarregadores de navios.
 
 4 - A caução será reposta pela concessionária no montante devido e no prazo de quinze dias após aviso que o concedente lhe faça para o efeito, sempre que dela seja levantada qualquer quantia.
 
-###### Base XIII — Capacidade de endividamento da concessionária e incomerciabilidade jurídico-privada dos bens e direitos afectos à concessão
+Base XIII
+
+Capacidade de endividamento da concessionária e incomerciabilidade jurídico-privada dos bens e direitos afectos à concessão
 
 1 - Os compromissos de financiamento assumidos pela concessionária com a apresentação da sua proposta serão firmados no pressuposto de que o Estado não garante, não avaliza nem participa em empréstimos internos ou externos, directos ou indirectos, mesmo que necessários à execução da concessão.
 
@@ -386,7 +431,9 @@ Limite nos descarregadores de navios.
 
 4 - Não podem ser objecto de arresto, penhora, arrolamento, sequestro, depósito ou qualquer outra providência cautelar os bens referidos no número anterior.
 
-###### Base XIV — Deliberações da concessionária a aprovar pelo concedente
+Base XIV
+
+Deliberações da concessionária a aprovar pelo concedente
 
 1 - Carecem de aprovação pelo concedente, para além de outras especialmente previstas, as deliberações da concessionária que tenham por fim ou efeito:
 
@@ -416,11 +463,15 @@ j) Os projectos de execução de obras a realizar no âmbito da concessão.
 
 ### CAPÍTULO III — Da exploração do serviço e da execução da concessão
 
-###### Base XV — Regime de exploração
+Base XV
+
+Regime de exploração
 
 A exploração do terminal multipurpose do porto de Sines será feita em regime de serviço público, a prestar, de forma regular e contínua, no âmbito da concessão e em conformidade com o regulamento a que se refere a base XVIII.
 
-###### Base XVI — Obrigações do serviço público
+Base XVI
+
+Obrigações do serviço público
 
 São obrigações do serviço público da sociedade concessionária:
 
@@ -432,7 +483,9 @@ c) Prestar aos utentes os serviços que integram o objecto da concessão;
 
 d) Assegurar que os serviços prestados no âmbito da concessão sejam realizados com a maior segurança, eficiência, economia e qualidade, segundo técnicas actualizadas e a custos concorrenciais compatíveis com o volume de tráfego oferecido e as capacidades disponíveis do terminal.
 
-###### Base XVII — Regulamento e regras de exploração do terminal
+Base XVII
+
+Regulamento e regras de exploração do terminal
 
 1 - O regulamento do funcionamento e utilização do serviço público concedido, adiante designado Regulamento de Exploração do Terminal Multipurpose do Porto de Sines, constará em anexo ao contrato de concessão.
 
@@ -442,7 +495,9 @@ d) Assegurar que os serviços prestados no âmbito da concessão sejam realizado
 
 4 - A concessionária poderá celebrar, com prévia aprovação do concedente, com a EDP, E. P., ou outros utentes, protocolos sobre as condições de prestação de serviços, desde que sejam respeitadas as cláusulas do contrato e do Regulamento de Exploração e tarifário a ele anexo.
 
-###### Base XVIII — Tarifário
+Base XVIII
+
+Tarifário
 
 1 - As taxas respeitantes à execução dos serviços a prestar pela concessionária, bem como as suas revisões, carecem, para poder ser aplicadas, da prévia aprovação do concedente.
 
@@ -538,7 +593,9 @@ Correcção negativa (desembolso da concessionária) se 0,9 Qpn =< QVn =< 1,1 QP
 
 11 - Para além das revisões e correcções previstas nos n.os 8 e 9, poderão efectuar-se ajustamentos de carácter extraordinário, atendendo à evolução entretanto verificada na movimentação do terminal e aos investimentos adicionais que por esse motivo a concessionária haja sido obrigada a efectuar nos termos da base II. Esta revisão extraordinária poderá ser desencadeada por iniciativa do concedente, a pedido da concessionária ou mesmo dos principais utentes, nomeadamente a EDP, E. P.
 
-###### Base XIX — Taxas de utilização a pagar pela concessionária
+Base XIX
+
+Taxas de utilização a pagar pela concessionária
 
 1 - A concessionária pagará anualmente ao concedente, a partir da data fixada no contrato de concessão para início de exploração, pela utilização das infra-estruturas postas ao seu serviço pelo concedente e referidas na base V:
 
@@ -552,7 +609,9 @@ b) 5% da receita bruta total anual de exploração.
 
 4 - Esta taxa poderá ser alterada se em futuras ampliações do terminal o concedente tiver de efectuar novos investimentos em infra-estruturas marítimas.
 
-###### Base XX — Deveres de conservação
+Base XX
+
+Deveres de conservação
 
 1 - A manutenção e a conservação do estabelecimento concessionado são da responsabilidade da concessionária.
 
@@ -562,7 +621,9 @@ b) 5% da receita bruta total anual de exploração.
 
 4 - A concessionária procederá a seu cargo à recuperação ou substituição imediata de todas as peças e ou equipamentos que se apresentarem defeituosos ou deteriorados e realizará todas as obras de reparação julgadas necessárias nas várias instalações, tudo por forma a não prejudicar a correcta prestação de serviço público aos utentes do terminal multipurpose e a garantir permanentemente uma perfeita operacionalidade e um bom resultado de funcionamento.
 
-###### Base XXI — Guarda e vigilância das instalações
+Base XXI
+
+Guarda e vigilância das instalações
 
 1 - A guarda e vigilância das instalações concedidas cabe, nos termos legalmente definidos, ao pessoal da concessionária e aos agentes das autoridades marítima, portuária e aduaneira.
 
@@ -570,7 +631,9 @@ b) 5% da receita bruta total anual de exploração.
 
 3 - As instalações e o equipamento do terminal não poderão, sem autorização expressa do concedente, ser utilizados em condições e para fins diferentes dos previstos na concessão, sendo da responsabilidade da concessionária garantir a segurança da sua utilização e funcionamento, bem como do pessoal afecto à concessão.
 
-###### Base XXII — Pessoal da concessionária
+Base XXII
+
+Pessoal da concessionária
 
 1 - O pessoal utilizado na exploração do terminal pertencerá aos quadros da concessionária ou será por ela recrutado, sob a sua responsabilidade.
 
@@ -578,7 +641,9 @@ b) 5% da receita bruta total anual de exploração.
 
 3 - A concessionária dará conhecimento ao concedente do seu quadro de pessoal, submetendo à sua aprovação o regime de trabalho adoptado no terminal.
 
-###### Base XXIII — Fiscalização
+Base XXIII
+
+Fiscalização
 
 1 - As instalações do terminal e as actividades que nele se exercem serão objecto de fiscalização por parte do concedente, cabendo à concessionária cumprir o que aquele lhe fixar, por escrito, dentro do prazo para o efeito determinado.
 
@@ -596,19 +661,25 @@ d) Efectuar, a pedido da fiscalização e, se esta o desejar, na presença de de
 
 e) Participar imediatamente ao concedente todas as reclamações escritas apresentadas pelos utentes do terminal e todos os eventos e deficiências que ameacem ou prejudiquem a regularidade e continuidade do serviço, bem como as interrupções que se verificarem, indicando as razões que se julga terem-nos causado e o processo conveniente para lhes pôr termo.
 
-###### Base XXIV — Indicadores de gestão
+Base XXIV
+
+Indicadores de gestão
 
 A concessionária obriga-se a manter actualizado, com a periodicidade que lhe for indicada pelo concedente, um sistema de indicadores de gestão do terminal.
 
 ### CAPÍTULO IV — Da modificação e extinção da concessão
 
-###### Base XXV — Modificação do contrato
+Base XXV
+
+Modificação do contrato
 
 1 - A modificação dos direitos e obrigações resultantes deste contrato só poderá fazer-se pelos processos e nas formas e medidas em que o permitam os princípios gerais de direito administrativo aplicáveis nesta matéria.
 
 2 - A modificação das obrigações do serviço público da concessionária por determinação unilateral do concedente ficará condicionada à revisão das cláusulas que respeitam ao equilíbrio das contrapartidas financeiras do contrato.
 
-###### Base XXVI — Traspasse e subconcessão
+Base XXVI
+
+Traspasse e subconcessão
 
 1 - A concessionária não pode conceder ou traspassar a concessão sem prévia autorização do concedente.
 
@@ -616,13 +687,17 @@ A concessionária obriga-se a manter actualizado, com a periodicidade que lhe fo
 
 3 - No caso de traspasse, consideram-se transmitidos para a nova concessionária os direitos e obrigações da anterior, assumindo aquela ainda os deveres, obrigações e encargos que eventualmente lhe venham a ser impostos como condição para a autorização do traspasse.
 
-###### Base XXVII — Caso de guerra ou de emergência grave
+Base XXVII
+
+Caso de guerra ou de emergência grave
 
 1 - Em caso de guerra ou de emergência grave, o concedente reserva-se o direito de gerir e explorar o terminal nas condições da legislação aplicável, mediante requisição dos serviços de pessoas, bens e organização afectos à concessão.
 
 2 - Durante o período em que o concedente exercer esse direito suspende-se, em relação a todo o objecto da concessão, o prazo a que se refere a base IX.
 
-###### Base XXVIII — Sequestro
+Base XXVIII
+
+Sequestro
 
 1 - O concedente poderá tomar conta da exploração do terminal quando se der ou estiver eminente a cessação ou interrupção total ou parcial dessa exploração ou se mostrarem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento susceptíveis de comprometer a regularidade da exploração.
 
@@ -632,21 +707,29 @@ A concessionária obriga-se a manter actualizado, com a periodicidade que lhe fo
 
 4 - Se a concessionária não quiser ou não puder retomar a exploração ou, quando o tiver feito, continuarem a verificar-se graves deficiências na organização e funcionamento do terminal, o concedente poderá declarar a imediata rescisão do contrato.
 
-###### Base XXIX — Termo da concessão e reversão do estabelecimento
+Base XXIX
+
+Termo da concessão e reversão do estabelecimento
 
 1 - A concessão termina nos casos gerais da cessação dos contratos, pela extinção do serviço, pela rescisão e pelo resgate.
 
 2 - No termo da concessão reverte para o concedente tudo o que nessa data constitua o estabelecimento da concessão, em cuja posse o concedente se investirá, sem dependência de qualquer outra formalidade que não seja a realização de uma vistoria ad perpetuam rei memoriam, para a qual serão convocados também os representantes da concessionária.
 
-###### Base XXX — Termo da concessão pelo decurso do prazo
+Base XXX
+
+Termo da concessão pelo decurso do prazo
 
 No termo da concessão pelo decurso do prazo, os bens afectos à concessão reverterão gratuitamente para o concedente, livres de quaisquer ónus ou encargos, salvo aqueles em que cuja oneração ele tiver consentido.
 
-###### Base XXXI — Extinção do serviço
+Base XXXI
+
+Extinção do serviço
 
 Se o Governo, por razões ligadas ao interesse público dos transportes ou do abastecimento de quaisquer mercadorias, resolver extinguir o serviço público da exploração do terminal, caducará automaticamente a concessão e a concessionária será indemnizada nos termos previstos para o resgate.
 
-###### Base XXXII — Resgate da concessão
+Base XXXII
+
+Resgate da concessão
 
 1 - O concedente poderá resgatar a concessão, sempre que motivos de interesse público o justifiquem e decorridos que sejam pelo menos dez anos a partir da data de início do respectivo prazo, mediante aviso feito à concessionária com, pelo menos, seis meses de antecedência.
 
@@ -656,7 +739,9 @@ Se o Governo, por razões ligadas ao interesse público dos transportes ou do ab
 
 4 - Não serão contabilizados para efeitos de aplicação da indemnização do resgate os bens e direitos que se encontrem anormalmente depreciados ou deteriorados.
 
-###### Base XXXIII — Rescisão do contrato
+Base XXXIII
+
+Rescisão do contrato
 
 1 - O concedente poderá dar por finda a concessão, mediante rescisão do contrato, quando reconheça ter ocorrido qualquer dos factos seguintes:
 
@@ -684,13 +769,17 @@ h) Violação grave da legislação aplicável à actividade objecto da concess�
 
 5 - Em caso de rescisão determinada por qualquer das causas referidas no n.º 1, o estabelecimento da concessão reverterá gratuitamente para o concedente, se e na medida em que o seu valor contabilístico, calculado nos termos dos n.os 3 e 4 da base XXXII, se revelar superior à indemnização e multas que a concessionária tiver de pagar ao concedente. Caso contrário, esse valor será deduzido aos quantitativos fixados a título de prejuízos e multas.
 
-###### Base XXXIV — Cessação por acordo
+Base XXXIV
+
+Cessação por acordo
 
 Concedente e concessionária poderão em qualquer momento fazer cessar o contrato por acordo.
 
 ### CAPÍTULO V — Contencioso do contrato
 
-###### Base XXXV — Contencioso do contrato
+Base XXXV
+
+Contencioso do contrato
 
 1 - Todas as questões que venham a suscitar-se entre a APS e a concessionária relativas ao contrato de concessão, salvo aquelas que sejam da competência obrigatória dos tribunais do Estado, serão resolvidas por um tribunal arbitral, composto por três membros, um nomeado pela APS, outro pela concessionária e um terceiro por acordo entre as duas partes ou, na falta de acordo, nos termos da lei geral.
 
@@ -698,4 +787,4 @@ Concedente e concessionária poderão em qualquer momento fazer cessar o contrat
 
 3 - O tribunal arbitral, salvo compromisso pontual em contrário, julgará segundo o direito e das suas decisões caberá recurso para os tribunais estaduais competentes.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.

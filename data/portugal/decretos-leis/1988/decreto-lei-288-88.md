@@ -47,36 +47,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1988-379950
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 264f3079c0a2eb857c14cbbafcacf7bf76745e2baa8c832e0bb2e8113ee1ae44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 902e12064e2baaa274671fe29f368ee05de8533f7d9e34298f3c85f7006f8599
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino
+- Menção Honrosa
+- Ministério da Educação
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:35Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +98,9 @@ Considerando, finalmente, que é de inteira justiça premiar a actividade dessas
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada, no âmbito do Ministério da Educação, a Menção Honrosa, com o fim de distinguir as pessoas singulares ou colectivas que, no âmbito da educação e do ensino, tenham prestado relevantes serviços.
+Artigo 1.º É criada, no âmbito do Ministério da Educação, a Menção Honrosa, com o fim de distinguir as pessoas singulares ou colectivas que, no âmbito da educação e do ensino, tenham prestado relevantes serviços.
 
-###### Art. 2.º A Menção Honrosa referida no artigo anterior possui três graus, assim discriminados por ordem crescente de valor:
+Art. 2.º A Menção Honrosa referida no artigo anterior possui três graus, assim discriminados por ordem crescente de valor:
 
 a) Carta de Reconhecimento de Bons Serviços;
 
@@ -105,30 +108,30 @@ b) Diploma de Mérito Pedagógico;
 
 c) Certificado de Excelência.
 
-###### Art. 3.º A Carta de Reconhecimento de Bons Serviços tem por fim distinguir as pessoas singulares ou colectivas que prestaram ou prestam bons serviços em favor do ensino e da educação.
+Art. 3.º A Carta de Reconhecimento de Bons Serviços tem por fim distinguir as pessoas singulares ou colectivas que prestaram ou prestam bons serviços em favor do ensino e da educação.
 
-###### Art. 4.º O Diploma de Mérito Pedagógico visa distinguir as pessoas singulares ou colectivas que tenham demonstrado ou demonstrem relevante mérito pedagógico no desempenho da sua actividade e que, por tal facto, marcadamente contribuam para a melhoria da qualidade do ensino e da educação.
+Art. 4.º O Diploma de Mérito Pedagógico visa distinguir as pessoas singulares ou colectivas que tenham demonstrado ou demonstrem relevante mérito pedagógico no desempenho da sua actividade e que, por tal facto, marcadamente contribuam para a melhoria da qualidade do ensino e da educação.
 
-###### Art. 5.º - 1 - O Certificado de Excelência visa distinguir as pessoas singulares ou colectivas que hajam prestado ou prestem altos serviços ao ensino e à educação e que imprimam à sua actividade relevante qualidade e elevado sentido humano.
+Art. 5.º - 1 - O Certificado de Excelência visa distinguir as pessoas singulares ou colectivas que hajam prestado ou prestem altos serviços ao ensino e à educação e que imprimam à sua actividade relevante qualidade e elevado sentido humano.
 
 2 - O certificado referido no número anterior só será atribuído se não houver justificação bastante para a propositura da Ordem de Instrução Pública.
 
-###### Art. 6.º A Menção Honrosa a que se refere o presente diploma é atribuída pelo Ministro da Educação.
+Art. 6.º A Menção Honrosa a que se refere o presente diploma é atribuída pelo Ministro da Educação.
 
-###### Art. 7.º A atribuição da Menção Honrosa é feita mediante despacho do Ministro da Educação, por sua livre iniciativa ou após proposta fundamentada, formulada por qualquer entidade.
+Art. 7.º A atribuição da Menção Honrosa é feita mediante despacho do Ministro da Educação, por sua livre iniciativa ou após proposta fundamentada, formulada por qualquer entidade.
 
-###### Art. 8.º Por cada atribuição da Menção Honrosa será lavrado documento autenticado e comprovativo dos motivos que determinaram a sua concessão.
+Art. 8.º Por cada atribuição da Menção Honrosa será lavrado documento autenticado e comprovativo dos motivos que determinaram a sua concessão.
 
-###### Art. 9.º Os modelos da Menção Honrosa relativamente a cada um dos graus mencionados no artigo 2.º deste decreto-lei serão aprovados por portaria do Ministro da Educação.
+Art. 9.º Os modelos da Menção Honrosa relativamente a cada um dos graus mencionados no artigo 2.º deste decreto-lei serão aprovados por portaria do Ministro da Educação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1988. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 30 de Julho de 1988.**
+Promulgado em 30 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 5 de Agosto de 1988.**
+Referendado em 5 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

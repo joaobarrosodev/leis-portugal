@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22500/39513956.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1988-355502
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6da4569d50c42642d843a0c4f19c2773b546dff77d9c7f45b3b3b51ee9b3995b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34598b8c5866bffa9b664e6c3a6c013ca2e2250d74639943875f86da63070338
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Azeite
+- Comércio
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- ÓLEO Comestivel
 relationships:
 - type: amended_by
   target: pt:dre:522852:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:333295:por
+  label: Alterado, com efeitos desde 01.01.1990, o art. 20.º pelo(a) Decreto-Lei n.º 96/90 - Diário da República n.º 66/1990,
+    Série I de 1990-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1990-333295
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:658903:por
+  label: "Alterado o art. 13º, pelo DEC LEI.217/91.17.06.1991.MAPA, DR.IS-A [136] de 17.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1991-658903
+  date: '1991-06-17'
+- type: corrected_by
+  target: pt:dre:220675:por
+  label: Rectificada a al. a) do n.º 2 do art. 8.º, a al. a), n.º 4 do art. 10.º e o art. 15.º pela DECL.DD795.31.10.1988.PCM,
+    DR.IS [252]2ºSupl de 31.10.1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-220675
+  date: '1988-10-31'
+- type: repealed_by
+  target: pt:dre:522852:por
+  label: "Revogado pelo DEC LEI.32/94.1994.02.05.MA, DR.IS-A [30], na data da entrada em vigor da regulamentação prevista\
+    \ no seu art. 3º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-1994-522852
+  date: '1994-02-05'
 article_structure:
   article_count: 20
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:56Z'
   warnings: []
   errors: []
 ---
@@ -403,12 +432,12 @@ m) Decreto-Lei n.º 407/83, de 19 de Novembro.
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Arlindo Marques Cunha - António José Fernandes de Sousa - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 15 de Setembro de 1988.**
+Promulgado em 15 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Setembro de 1988.**
+Referendado em 16 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

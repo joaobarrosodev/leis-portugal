@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22700/40314032.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1988-355676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 895cf1ece837883652e988bb8e4d7bad6166f21b10a354dfd6e9ea53e9e3064f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c03e1d10494a9fd27f53076e0297bd84e029221a5b10615de2c01638b4ffe18c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Desenvolvimento da Criança
+- Coimbra
+- Estabelecimento Hospitalar
+- Integração de Trabalhadores
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152348:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367801:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381561:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:663487:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:11Z'
   warnings: []
   errors: []
 ---
@@ -124,16 +194,16 @@ O regime de instalação do Centro de Desenvolvimento da Criança considera-se a
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Eurico Silva Teixeira de Melo - Rui Carlos Alvarez Carp - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 14 de Setembro de 1988.**
+Promulgado em 14 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Setembro de 1988.**
+Referendado em 16 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Quadro de pessoal do Centro Hospitalar de Coimbra
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40314032.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40314032.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40314032.pdf)

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26100/45324534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1988-357919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 203d4df743bec489689fcfd3d4c5b0996dd890ab5339cee84fa66ea02db92ddb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 105a266284ce1c284f10847128eede9fa56b025742b762b0d1593b11944d3f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio Externo
+- Estatística
+- Exportação
+- Importação
+- Operação Cambial
+- Registo Prévio
 relationships:
 - type: amended_by
   target: pt:dre:332001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332001:por
+  label: Revogado pelo DEC LEI.126/90.16.04.1990.MCT, DR.IS [88] de 16.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-1990-332001
+  date: '1990-04-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:51Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +122,17 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - As operações de importação e de exportação de mercadorias ficam sujeitas aos regimes estabelecidos no presente decreto-lei e seus diplomas regulamentares.
+Artigo 1.º - 1 - As operações de importação e de exportação de mercadorias ficam sujeitas aos regimes estabelecidos no presente decreto-lei e seus diplomas regulamentares.
 
 2 - Para efeitos de aplicação do presente decreto-lei, os termos «importação» e «exportação» incluem também a introdução e a expedição de mercadorias.
 
-###### Art. 2.º - 1 - Sem prejuízo do disposto no artigo 6.º, as operações de importação de mercadorias ficam sujeitas ao regime de registo prévio, que se destina a fins exclusivamente estatísticos.
+Art. 2.º - 1 - Sem prejuízo do disposto no artigo 6.º, as operações de importação de mercadorias ficam sujeitas ao regime de registo prévio, que se destina a fins exclusivamente estatísticos.
 
 2 - Exceptua-se do disposto no n.º 1 a importação dos produtos a que se refere o artigo 235.º do Acto de Adesão, salvo se ficarem sujeitos a um regime de vigilância nos termos da regulamentação comunitária.
 
 3 - O regime de registo prévio vigorará até 31 de Dezembro de 1988, mantendo-se para além daquela data no caso de aplicação de medidas de vigilância ou de salvaguarda, nos termos da legislação nacional ou da regulamentação comunitária.
 
-###### Art. 3.º - 1 - Ficam isentas de registo prévio:
+Art. 3.º - 1 - Ficam isentas de registo prévio:
 
 a) As operações de exportação de mercadorias não sujeitas a restrições quantitativas;
 
@@ -129,13 +152,13 @@ h) A importação de ouro em barra ou amoedado, a efectuar pelo Banco de Portuga
 
 2 - Exceptua-se do n.º 1 a exportação de mercadorias que, nos termos do Acto de Adesão ou da regulamentação comunitária, estejam ou venham a estar sujeitas a regime de controle ou de vigilância.
 
-###### Art. 4.º O Ministro do Comércio e Turismo, sob proposta da Direcção-Geral do Comércio Externo, poderá, mediante despacho:
+Art. 4.º O Ministro do Comércio e Turismo, sob proposta da Direcção-Geral do Comércio Externo, poderá, mediante despacho:
 
 a) Submeter a registo prévio, nos termos do Acto de Adesão, a importação ou exportação de determinadas mercadorias mesmo que ao abrigo dos regimes de aperfeiçoamento activo ou passivo, importação e exportação temporárias ou de trânsito;
 
 b) Isentar de registo prévio a importação de determinadas mercadorias.
 
-###### Art. 5.º - 1 - O registo prévio será requerido pelo interessado através do preenchimento de uma declaração de importação (DI) ou, nos casos em que for exigida, de uma declaração de exportação (DE), compostas de três exemplares, A, B e C.
+Art. 5.º - 1 - O registo prévio será requerido pelo interessado através do preenchimento de uma declaração de importação (DI) ou, nos casos em que for exigida, de uma declaração de exportação (DE), compostas de três exemplares, A, B e C.
 
 2 - Dos exemplares das declarações destinar-se-ão:
 
@@ -153,11 +176,11 @@ O B à entidade emissora.
 
 7 - Em relação aos produtos em que há lugar, por força da regulamentação da respectiva Organização Comum de Mercado ou da legislação nacional aplicável às importações da Comunidade, à emissão de certificados de importação, estes substituirão, para todos os efeitos legais, as DI, desde que aqueles mencionem o valor da mercadoria.
 
-###### Art. 6.º - 1 - Ficam subordinadas a emissão de licença as operações de importação e exportação de mercadorias submetidas a regimes restritivos.
+Art. 6.º - 1 - Ficam subordinadas a emissão de licença as operações de importação e exportação de mercadorias submetidas a regimes restritivos.
 
 2 - Nos casos em que a legislação nacional ou a regulamentação comunitária o admitam, poderão ser utilizados certificados.
 
-###### Art. 7.º - 1 - A emissão de licenças será requerida pelo interessado através do preenchimento dos seus exemplares marcados de A a E.
+Art. 7.º - 1 - A emissão de licenças será requerida pelo interessado através do preenchimento dos seus exemplares marcados de A a E.
 
 2 - Os exemplares da licença destinar-se-ão:
 
@@ -173,42 +196,42 @@ O E à entidade emissora.
 
 3 - Se houver lugar a utilizações parciais, a alfândega devolverá à entidade emissora, no prazo de cinco dias úteis após cada despacho, uma fotocópia do exemplar C da licença devidamente anotada com as quantidades despachadas; neste caso, o original do referido exemplar C apenas será devolvido à entidade emissora aquando da última utilização.
 
-###### Art. 8.º - 1 - As operações de importação e de exportação de mercadorias ficam sujeitas à emissão de certificado, nos casos em que a legislação nacional ou comunitária o exija.
+Art. 8.º - 1 - As operações de importação e de exportação de mercadorias ficam sujeitas à emissão de certificado, nos casos em que a legislação nacional ou comunitária o exija.
 
 2 - A alfândega remeterá à Direcção-Geral do Comércio Externo uma fotocópia do certificado com as imputações relativas às quantidades despachadas no prazo de cinco dias úteis a contar das datas referidas no n.º 2 do artigo 7.º
 
-###### Art. 9.º - 1 - O registo prévio, o licenciamento e a emissão de certificados são da competência da Direcção-Geral do Comércio Externo, que a poderá delegar noutras entidades, ficando estas sujeitas no exercício dessa competência à orientação daquela Direcção-Geral.
+Art. 9.º - 1 - O registo prévio, o licenciamento e a emissão de certificados são da competência da Direcção-Geral do Comércio Externo, que a poderá delegar noutras entidades, ficando estas sujeitas no exercício dessa competência à orientação daquela Direcção-Geral.
 
 2 - A competência para o registo prévio e o licenciamento das operações de importação de produtos destinados às Regiões Autónomas da Madeira e dos Açores, bem como das operações de exportação de produtos oriundos das mesmas regiões autónomas efectuadas por empresas ali sediadas, pertence às entidades a definir pelos respectivos governos regionais e processar-se-á de forma coordenada com a Direcção-Geral do Comércio Externo.
 
-###### Art. 10.º As alfândegas não poderão permitir o desembaraço aduaneiro das mercadorias sujeitas à emissão de licença e ou certificado sem a apresentação desses documentos.
+Art. 10.º As alfândegas não poderão permitir o desembaraço aduaneiro das mercadorias sujeitas à emissão de licença e ou certificado sem a apresentação desses documentos.
 
-###### Art. 11.º O prazo geral de validade para efeito de despacho aduaneiro das declarações e das licenças é de seis meses, podendo, em casos especiais, a Direcção-Geral do Comércio Externo fixar prazos diferentes.
+Art. 11.º O prazo geral de validade para efeito de despacho aduaneiro das declarações e das licenças é de seis meses, podendo, em casos especiais, a Direcção-Geral do Comércio Externo fixar prazos diferentes.
 
-###### Art. 12.º - 1 - Sempre que haja lugar à utilização de documento único, nos termos da regulamentação em vigor, os exemplares 2 e 7 deverão ser remetidos em separado ao Instituto Nacional de Estatística, pela estância aduaneira que processou a declaração, no prazo máximo de cinco dias após a data de autorização de saída das mercadorias.
+Art. 12.º - 1 - Sempre que haja lugar à utilização de documento único, nos termos da regulamentação em vigor, os exemplares 2 e 7 deverão ser remetidos em separado ao Instituto Nacional de Estatística, pela estância aduaneira que processou a declaração, no prazo máximo de cinco dias após a data de autorização de saída das mercadorias.
 
 2 - No caso de exportação efectuada por via postal em que não haja lugar à utilização de documento único, é da exclusiva responsabilidade dos CTT o envio do formulário destinado à recolha estatística dentro do prazo máximo de cinco dias após a data de saída das mercadorias.
 
-###### Art. 13.º A liquidação das operações de comércio externo é feita em conformidade com o regime cambial em vigor.
+Art. 13.º A liquidação das operações de comércio externo é feita em conformidade com o regime cambial em vigor.
 
-###### Art. 14.º Os exemplares das declarações, das licenças e dos certificados referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
+Art. 14.º Os exemplares das declarações, das licenças e dos certificados referidos no presente diploma são modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
-###### Art. 15.º Salvo se o facto estiver previsto em tipo legal de crime ou contravenção, designadamente no [Decreto-Lei n.º 630/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862), de 28 de Julho, a violação do disposto nos artigos 2.º, n.º 1, 5.º, n.º 1, 6.º, n.º 1, e 8.º, n.º 1, constitui contra-ordenação punível nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 15.º Salvo se o facto estiver previsto em tipo legal de crime ou contravenção, designadamente no [Decreto-Lei n.º 630/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/630-1976-430862), de 28 de Julho, a violação do disposto nos artigos 2.º, n.º 1, 5.º, n.º 1, 6.º, n.º 1, e 8.º, n.º 1, constitui contra-ordenação punível nos termos do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
-###### Art. 16.º O limite previsto na alínea c) do n.º 1 do artigo 3.º deste diploma será de 100000$00 até ao dia 31 de Dezembro de 1989.
+Art. 16.º O limite previsto na alínea c) do n.º 1 do artigo 3.º deste diploma será de 100000$00 até ao dia 31 de Dezembro de 1989.
 
-###### Art. 17.º É revogado o [Decreto-Lei n.º 524/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1985-546459), de 31 de Dezembro.
+Art. 17.º É revogado o [Decreto-Lei n.º 524/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1985-546459), de 31 de Dezembro.
 
-###### Art. 18.º O presente decreto-lei produz efeitos desde 1 de Janeiro de 1988.
+Art. 18.º O presente decreto-lei produz efeitos desde 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Outubro de 1988.**
+Referendado em 31 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

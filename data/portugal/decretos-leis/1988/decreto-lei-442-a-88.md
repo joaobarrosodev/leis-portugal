@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 277/1988, 1º Suplemento, Série I de 1988-11-30
   number: '277'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4754-(2) a 4754-(35)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf
 entry_into_force_dates: []
@@ -48,40 +48,1854 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2026-06-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b3fc578ad1f2d1c7bf0a7963cce78816ba73c71bdc32c3dc4adcadd84be468a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ffef68b6ea2aa35939031f8169715b9628e1e769bdd23a6b215e7dd9d4c5c43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IRS
+- IRS
+- Lei Geral Tributária
 relationships:
 - type: amended_by
   target: pt:dre:1129390702:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:401882:por
+  label: "Alterada a redacção do art. 73º pela LEI.114/88.1988.12.30.AR, DR.IS [301]3ºSupl (Nº 2 do art. 24º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-1988-401882
+  date: '1988-12-30'
+- type: amended_by
+  target: pt:dre:620928:por
+  label: "Alterados os arts. 2º e 21º do Código pelo DEC LEI.215/89.1989.07.01.MF, DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1989-620928
+  date: '1989-07-01'
+- type: amended_by
+  target: pt:dre:549010:por
+  label: Alterados os arts. 77.º, 78.º, 79.º, 81.º, 83.º, 90.º (este último rectificado pela Decl DD3805, de 28-Fev 1989),
+    94.º, 107.º e 114.º do Código, pelo DEC LEI.354/89.17.10.1989.MF, DR.IS [239] de 17.10.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1989-549010
+  date: '1989-10-17'
+- type: amended_by
+  target: pt:dre:590339:por
+  label: Alterados os n.ºs 3 e 4 do art. 4.º do presente diploma, bem como alterados os arts. 4.º, 12.º, 25.º, 51.º, 55.º,
+    58.º (este rectificado pela Decl DD3805, de 28-Fev 1989), 71.º, 80.º e 88.º do Código do IRS aprovado pelo presente diploma,
+    pela LEI.101/89.1989.12.29.AR DR.IS [298]2ºSUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/101-1989-590339
+  date: '1989-12-29'
+- type: amended_by
+  target: pt:dre:333296:por
+  label: Alterado o art. 4º (na redacção da Lei 101/89, de 29-Dez) e aditado um art. 3º-A ao diploma preambular e alterados
+    os arts. 60º e 74º do Código, pelo DEC LEI.95/90.1990.03.20.MF, DR.IS [66]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1990-333296
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:575301:por
+  label: "Alterados os arts. 2º (na redacção do Dec Lei 215/89, de 01-Jul), 6º, 9º, 10º, 14º, 17º (rectificado pela Decl DD3805,\
+    \ de 28-Fev 1989), 21º (na redacção do Dec Lei 215/89, de 01-Jul), 40º, 41º, 51º (na redacção da lei 101/89, de 29-Dez),\
+    \ 52º, 54º, 55º (na redacção da Lei 101/89, de 29-Dez), 57º, 58º (rectificado pela Decl DD3805, de 28-Fev 1989 e na redacção\
+    \ da Lei 101/89, de 29-Dez), 60º (na redacção do Dec Lei 95/90, de 20-Mar), 65º, 74º (na redacção do Dec Lei 95/90, de\
+    \ 20-Mar), 75º, 78º, 79º (estes dois últimos na redacção do Dec Lei 354/89, de 17-Out), 80º (este na redacção da Lei 101/89,\
+    \ de 29-Dez), 84º, 91º, 92º, 93º, 94º (este na redacção do Dec Lei 354/89, de 17-Out), 95º, 107º e 114º (estes dois últimos\
+    \ na redacção do Dec Lei 354/89, de 17-Out), assim como a lista a que se refere o nº 2 do art. 3º, todos do Código do\
+    \ IRS, pelo DEC LEI.206/90.26.06.1990.MF, DR.IS [145] de 26.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/206-1990-575301
+  date: '1990-06-26'
+- type: amended_by
+  target: pt:dre:565976:por
+  label: Alterado o art. 55º (na redacção da Lei 101/89, de 29 Dez e do Dec Lei 206/90, de 26-Jun) do Código do IRS, pelo
+    DEC LEI.331/90.29.10.1990.MF, DR.IS [250] de 29.10.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-1990-565976
+  date: '1990-10-29'
+- type: amended_by
+  target: pt:dre:689382:por
+  label: Alterado o art. 115º (rectificado pela Decl de 28-Fev 1989) do Código, pelo DEC LEI.377/90.30.11.1990.MF, DR.IS [277-Supl]
+    de 30.11.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1990-689382
+  date: '1990-11-30'
+- type: amended_by
+  target: pt:dre:469072:por
+  label: Alterados os arts. 14.º (na redacção do Dec Lei 206/90, de 26-Jun), 15.º, 17.º (este rectificado pela Decl de 28-Fev
+    1989 e na redacção do Dec Lei 206/90, de 26-Jun), 25.º (na redacção da Lei 101/89, de 29-Dez), 51.º (na redacção da Lei
+    101/89, de 29-Dez e do Dec Lei 206/90, de 26-Jun), 55.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun
+    e do Dec Lei 331/90, de 29-Out), 58.º (rectificado pela Decl de 28-Fev 1989, na redacção da Lei 101/89, de 25-Dez e do
+    Dec Lei 206/90, de 26-Jun), 63.º, 71.º (o último na redacção da Lei 101/89, de 29-Dez), 74.º (na redacção do Dec Lei 95/90,
+    de 20-Mar e do Dec Lei 206/90, de 26-Jun), 80.º (na redacção da Lei 101/89, de 29-Dez e do Dec Lei 206/90, de 26-Jun),
+    89.º, 91.º, 92.º, 93.º (os três últimos na redacção do Dec Lei 206/90, de 26-Jun) e 94.º (este na redacção do Dec Lei
+    354/89, de 17-Out e Dec Lei 206/90, de 26-Jun), todos do Código do IRS, aprovado pelo presente diploma, pela LEI.65/90.28.12.1990.AR,
+    DR.IS [298-3ºSupl] de 28.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1990-469072
+  date: '1990-12-28'
+- type: amended_by
+  target: pt:dre:691432:por
+  label: "Alterado o art. 56.º (rectificado pela Decl DD3805, de 28-Fev 1989) do Código do IRS, pela LEI.34/91.1991.07.27.AR\
+    \ DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-1991-691432
+  date: '1991-07-27'
+- type: amended_by
+  target: pt:dre:687806:por
+  label: "Alterados os arts. 3º, 4º (este último na redacção da Lei 101/89, de 29-Dez), 6º (na redacção do Dec Lei 206/90\
+    \ de 30-Nov), 20º, 21º (este último na redacção dos Dec Lei 215/89 de 01-Jul e do Dec Lei 206/90 de 30-Nov), 30º,(rectificado\
+    \ pela Decl DD3805 de 28-Fev 1989), 52º, 57º (os dois últimos na redacção do Dec Lei 206/90, de 26-Jun), 60º (este na\
+    \ redacção do Dec Lei 95/90 de 20-Mar e do Dec Lei 206/90 de 30-Nov), 65º (na redacção do Dec Lei 206/90 de 30-Nov), 72º,\
+    \ 74º (este último na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun e da Lei 65/90 de 28-Dez), 79º\
+    \ (na redacção dos Dec Lei 354/89 de 17-Out e 206/90 de 30-Nov), 80º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei\
+    \ 206/90, de 26-Jun e da Lei 65/90 de 28-Dez), 84º(na redacção do Dec Lei 206/90 de 30-Nov), 90º (rectificado pela Decl\
+    \ DD3805, de 28-Fev e na redacção do Dec Lei 354/89 de 17-Out), 96º, 97º e 114º(este último na redacção dos Dec Lei 354/89\
+    \ de 17-Out e 206/90 de 30-Nov) , revogado o nº 5 do art. 107º, todos do Código do IRS, pelo DEC LEI.267/91.06.08.1991.MF,\
+    \ DR.IS-A [179] de 06.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1991-687806
+  date: '1991-08-06'
+- type: amended_by
+  target: pt:dre:292879:por
+  label: "Alterados os arts. 7.º e 8.º do Código, pelo DEC LEI.360/91.28.09.1991.MF, DR.IS-A [224] de 28.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1991-292879
+  date: '1991-09-28'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterado o art. 3º-A (aditado pelo Dec Lei 95/90, de 20-Mar) do presente diploma, bem como alterados os arts. 25.º\
+    \ (na redacção da Lei 101/89, de 29-Dez e da Lei 65/90, de 28-Dez), 51.º (na redacção da Lei 101/89, de 29-Dez, do Dec\
+    \ Lei 206/90, de 26-Jun e da Lei 65/90, de 28-Dez), 55.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de\
+    \ 26-Jun, do Dec Lei 331/90, de 29-Out e da Lei 65/90, de 28-Dez), 58.º (rectificado pela Decl DD3805, de 28-Fev 1989,\
+    \ na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun e da Lei 65/90, de 28-Dez), 71.º (na redacção da\
+    \ 101/89, de 29-Dez e da Lei 65/90, de 28-Dez), 80.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun,\
+    \ da Lei 65/90, de 28-Dez e do Dec Lei 267/91, de 06-Ago) e 93.º (na redacção do Dec Lei 206/90, de 26-Jun e da Lei 65/90,\
+    \ de 28-Dez), e revogado o n.º 3 do art. 39.º do Código do IRS, pela LEI.2/92.1992.03.09.AR DR.IS-A [57]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:291943:por
+  label: "Alterado o art. 5.º do presente diploma, bem como alterados os arts. 4.º (este na redacção da Lei 101/89, de 29-Dez\
+    \ e do Dec Lei 267/91, de 06-Ago), 5.º, 10.º (este na redacção do Dec Lei 206/90, de 26-Jun), 32.º, 42.º, 47.º, 61.º,\
+    \ 66.º, 70.º, 86.º, 91.º(este último na redacção do Dec Lei 206/90, de 26-Jun e da Lei 65/90, de 28-Dez), 95.º (na redacção\
+    \ do Dec Lei 206/90, de 26-Jun), 114.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun e do Dec\
+    \ Lei 267/91, de 06-Ago) e 131.º e aditado um art. 44.º-A ao Código do IRS, pelo DEC LEI.141/92.17.07.1992.MF, DR.IS-A\
+    \ [163] de 17.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1992-291943
+  date: '1992-07-17'
+- type: amended_by
+  target: pt:dre:598158:por
+  label: "Alterados os arts. 6.º (na redacção do Dec Lei 206/90, de 26-Jun e do Dec Lei 267/91, de 06-Ago), 8.º (na redacção\
+    \ do Dec Lei 360/91, de 28-Set), 10.º (na redacção do Dec Lei 206/90, de 26-Jun e do Dec Lei 141/92, de 17-Jul) e 39.º\
+    \ (na redacção da Lei 2/92, de 09-Mar) do Código, pelo DEC LEI.263/92.24.11.1992.MF, DR.IS-A [272] de 24.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1992-598158
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterados os arts. 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul e do Dec Lei 263/92,\
+    \ de 24-Nov), 25.º (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez e da Lei 2/92, de 09-Mar), 51.º (na\
+    \ redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez e da Lei 2/92, de 09-Mar),\
+    \ 55.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, do dec Lei 331/90, de 29-Out, da Lei 65/90,\
+    \ de 28-Dez e da Lei 2/92, de 09-Mar), 58.º (rectificado pela Decl DD3805, de 28-Fev 1989, na redacção da Lei 101/89,\
+    \ de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez e da Lei 2/92, de 09-Mar), 71.º (na redacção da Lei\
+    \ 101/89, de 29-Dez, da Lei 65/90, de 28-Dez e da Lei 2/92, de 09-Mar), 74.º (na redacção do Dec Lei 95/90, de 20-Mar,\
+    \ do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez e do Dec Lei 267/91, de 06-Ago), 80.º (na redacção da Lei 101/89,\
+    \ de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago e da Lei 2/92, de 09-Mar),\
+    \ 93.º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez e da Lei 2/92, de 09-Mar), e alterada a lista\
+    \ a que se refere o art. 3.º (alterada pelo Dec Lei 206/90, de 26-Jun) do Código do IRS, pela LEI.30-C/92.1992.12.28.AR\
+    \ DR.IS-A [298]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:283563:por
+  label: "Alterado o art. 5.º (na redacção do Dec Lei 141/92, de 17-Jul) do presente diploma, bem como alterados os arts.\
+    \ 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov e da Lei\
+    \ 30-C/92, de 28-Dez) e 57.º (na redacção do Dec Lei 206/90, de 26-Jun e do Dec Lei 267/91, de 06-Ago) do Código do IRS,\
+    \ pelo DEC LEI.6/93.09.01.1993.MF, DR.IS-A [7] de 09.01.1993\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1993-283563
+  date: '1993-01-09'
+- type: amended_by
+  target: pt:dre:628039:por
+  label: "Alterado o art. 56.º (rectificado pela Decl DD3805, de 28-Fev 1989 e na redacção da Lei 34/91, de 27-Jul) do Código\
+    \ do IRS, pelo DEC LEI.65/93.10.03.1993.PCM, DR.IS-A [58] de 10.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1993-628039
+  date: '1993-03-10'
+- type: amended_by
+  target: pt:dre:373975:por
+  label: "Alterado o art. 91.º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez e do Dec Lei 141/92, de\
+    \ 17-Jul) do Código do IRS, pelo DEC LEI.232/93.02.07.1993.MF, DR.IS-A [153] de 02.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/232-1993-373975
+  date: '1993-07-02'
+- type: amended_by
+  target: pt:dre:593710:por
+  label: "Alterado o art. 10º do presente diploma, bem como alterado o art. 55º (na redacção da Lei 101/89, de 29-Dez, do\
+    \ Dec Lei 206/90, de 26-Jun, do Dec Lei 331/90, de 29-Out, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar e da Lei 30-C/92,\
+    \ de 28-Dez) do Código do IRS, pela LEI.71/93.1993.11.25.AR, DR.IS-A [277]Supl, de 26/Nov/1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-1993-593710
+  date: '1993-11-26'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterado o art. 3.º-A (na redacção do Dec Lei 95/90, de 20-Mar e da Lei 2/92, de 09-Mar) do presente diploma, bem\
+    \ como alterados os arts. 3º (na redacção do Dec Lei 267/91, de 06-Ago), 6º (na redacção do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 267/91, de 06-Ago e do Dec Lei 263/92, de 24-Nov), 10º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec\
+    \ Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92, de 28-Dez e do Dec Lei 6/93, de 09-Jan), 17º (rectificado\
+    \ pela Decl DD3805, de 28-Fev 1989, na redacção do Dec Lei 206/90, de 26-Jun e da Lei 65/90, de 28-Dez), 25º (na redacção\
+    \ da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar e da Lei 30-C/92, de 28-Dez), 26º, 40º (este\
+    \ na redacção do Dec Lei 206/90, de 26-Jun), 51º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar e da Lei 30-C/92, de 28-Dez), 54º (na redacção do Dec Lei 206/90,\
+    \ de 26-Jun), 55º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, do Dec Lei 331/90, de 29-Out, da\
+    \ Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez e da Lei 71/93, de 26-Nov), 58º (rectificado\
+    \ pela Decl DD3805, de 28-Fec 1989, na redacção Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de\
+    \ 28-Dez, da Lei 2/92, de 09-Mar e da Lei 30-C/92, de 28-Dez), 60º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei\
+    \ 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago), 71º (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez,\
+    \ da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez ), 74º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90,\
+    \ de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago e da Lei 30-C/92, de 28-Dez), 80º (na redacção da Lei\
+    \ 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 2/92,\
+    \ de 09-Mar e da Lei 30-C/92, de 28-Dez), 85º, 93º (este na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez,\
+    \ da Lei 2/92, de 09-Mar e da Lei 30-C/92, de 28-Dez) e 94º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90,\
+    \ de 26-Jun e da Lei 65/90, de 28-Dez) e alterada a lista a que se refere o n.º 2 do art. 3.º (alterada pelo Dec Lei 206/90,\
+    \ de 26-Jun e pela Lei 30-C/92, de 28-Dez) do Código do IRS, pela LEI.75/93.1993.12.20.AR, DR.I-A [295]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Prorrogado com referência aos anos de 1994 e 1995 para os rendimentos da categoria D, o regime transitório previsto\
+    \ no art. 4º, e alterado o art. 10º (na redacção da Lei 71/93, de 26-Nov) do presente diploma, bem como alterados os arts.\
+    \ 2.º (na redacção do Dec Lei 215/89, de 01-Jul e do Dec Lei 206/90, de 26-Jun), 6º (na redacção do Dec Lei 206/90, de\
+    \ 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 263/92, de 24-Nov e da Lei 75/93, de 20-Dez), 10º (na redacção do Dec\
+    \ Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec\
+    \ Lei 6/93, de 09-Jan e da Lei 75/93, de 20-Dez), 11º, 23º, 24º (este rectificado pela Decl DD3805, de 28-Fev 1989), 25º\
+    \ (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez e\
+    \ da Lei 75/93, de 20-Dez), 51º (redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez,\
+    \ da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez e da Lei 75/93, de 20-Dez), 52º (na redacção do Dec Lei 206/90, de\
+    \ 26-Jun e do Dec Lei 267/91, de 06-Ago), 55º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, do\
+    \ Dec Lei 331/90, de 29-Out, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 71/93,\
+    \ de 26-Nov e da Lei 75/93, de 20-Dez), 58º (rectificado pela Dec DD5803, de 28-Fev 1989, na redacção da Lei 101/89, de\
+    \ 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez e da\
+    \ Lei 75/93, de 20-Dez), 71º (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da\
+    \ Lei 30-C/92, de 28-Dez e da Lei 75/93, de 20-Dez), 74º (na redacção da Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun,\
+    \ da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 30-C/92, de 28-Dez e da Lei 75/93, de 20-Dez), 80º (na\
+    \ redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec ^Lei 267/91, de 06-Ago,\
+    \ da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez e da Lei 75/93, de 20-Dez), 91º (na redacção do Dec Lei 206/90, de\
+    \ 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 141/92, de 17-Jul e do Dec Lei 232/93, de 02-Jul), 92º (na redacção do Dec\
+    \ Lei 206/90, de 26-Jun e da Lei 65/90, de 28-Dez), 93º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez,\
+    \ da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, e da Lei 75/93, de 20-Dez), 94º (na redacção do Dec Lei 354/89, de\
+    \ 17-Out, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez e da Lei 75/93, de 20-Dez), 106º e 114º (este na redacção\
+    \ do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago e do Dec Lei 141/92, de 17-Jul),\
+    \ aditado o art. 35º-A, e alterada a lista prevista no art. 3.º (alterada pelo Dec Lei 206/90, de 26-Jun, pela Lei 30-C/92,\
+    \ de 28-Dez e pela Lei 75/93, de 28-Dez) do Código do IRS, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:197686:por
+  label: "Alterados os arts. 13º (rectificado pela Decl DD3895, de 28-Fev 1989) e 19º do Código do IRS, pelo DEC LEI.37/95.1995.02.14.MF,\
+    \ DR.IS-A [38]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1995-197686
+  date: '1995-02-14'
+- type: amended_by
+  target: pt:dre:434622:por
+  label: "Alterados os arts. 6º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 263/92,\
+    \ de 24-Nov, da Lei 75/93, de 20-Dez e da Lei 39-B/94, de 27-Dez), 8º (na redacção do Dec Lei 360/91, de 28-Set e do Dec\
+    \ Lei 263/92, de 24-Nov) e 74º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de\
+    \ 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez e da Lei 39-B/94, de 27-Dez)\
+    \ do Código do IRS, pela LEI.31/95.1995.08.18.AR, DR.IS-A [190]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-1995-434622
+  date: '1995-08-18'
+- type: amended_by
+  target: pt:dre:434634:por
+  label: "Suspensa a aplicação do art. 10º do Código do IRS, em relação aos proprietários dos terrenos incorporados na Base\
+    \ da Lajes, até à conclusão do processo de transmissão dos mesmos para o Estado, pela LEI.29/95.1995.08.18.AR, DR.IS-A\
+    \ [190]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/29-1995-434634
+  date: '1995-08-18'
+- type: amended_by
+  target: pt:dre:668111:por
+  label: "Aditado um art. 36º-A ao Código do IRS, pelo DEC LEI.280/95.26.10.1995.MF, DR.IS-A [248] de 26.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1995-668111
+  date: '1995-10-26'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 66º (na redacção do Dec Lei 141/92, de 17-Jul), 67º, 68º, 69º, 70º (este na redacção do Dec Lei\
+    \ 141/92, de 17-Jul), 78º (na redacção dos Dec Leis 354/89, de 17-Out ,e 206/90, de 30-Nov), 83º (na redacção do Dec Lei\
+    \ 354/89, de 17-Out), 95º (na redacção dos Dec Leis 206/90, de 30-Nov, e 141/92, de 17-Jul), 96º (na redacção do Dec Lei\
+    \ 267/91, de 06-Ago), 101º, 103º e 131º (o último na redacção do Dec Lei 141/92, de 17-Jul) do Código do IRS, pelo DEC\
+    \ LEI.7/96.1996.02.07.MF, DR.IS-A [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "MODIFICAÇÃO PRODUZIDAS NO CÓDIGO DO IRS - PARTE 2(CONTINUAÇÃO) Alterados os arts. 56.º (rectificado pela Decl DD3895,\
+    \ de 28-Fev 1989, Lei 34/91, de 27-Jul, do Dec Lei 65/93, de 10-Mar), 58.º (rectificado pela Decl DD3895, de 28-Fev 1989,\
+    \ na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar,\
+    \ da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez), 59.º, 71.º (este na redacção da Lei\
+    \ 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez,\
+    \ da Lei 39-B/94, de 27-Dez), 72.º (na redacção do Dec Lei 267/91, de 06-Ago), 80.º (na redacção da Lei 101/89, de 29-Dez,\
+    \ do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 2/92, de 09-Mar, da Lei\
+    \ 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez), 93.º (na redacção do Dec Lei 206/90, de 26-Jun,\
+    \ da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94,\
+    \ de 27-Dez), 114.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago,\
+    \ do Dec Lei 141/92, de 17-Jul, da Lei 39-B/94, de 27-Dez), 127.º e aditado o art. 25.º-A ao Código, pela LEI.10-B/96.23.03.1996.AR,\
+    \ DR.IS-A [71-2ºSupl] de 23.03.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Prorrogado, com referência ao ano de 1997, para os rendimentos da categoria D, o regime transitório previsto no\
+    \ art. 4º do presente diploma, bem como alterados os arts. 21.º (na redacção do Dec Lei 215/89, de 01-Jul, do Dec Lei\
+    \ 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, da Lei 10-B/96, de 23-Mar), 25.º (na redacção da Lei 101/89, de 29-Dez,\
+    \ da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94,\
+    \ de 27-Dez, da Lei 10-B/96, de 23-Mar), 30.º (rectificado pela Decl DD3895, de 28-Fev 1989, do Dec Lei 267/91, de 06-Ago,\
+    \ da Lei 10-B/96, de 23-Mar), 51.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90,\
+    \ de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da\
+    \ Lei 10-B/96, de 23-Mar), 55.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, do Dec Lei 331/90,\
+    \ de 29-Out, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 71/93, de 26-Nov, da Lei\
+    \ 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar), 58.º (rectificado pela Decl DD3895, de 28-Fev\
+    \ 1989, na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar,\
+    \ da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar), 71.º (na\
+    \ redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei\
+    \ 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar), 72.º (na redacção do Dec Lei 267/91, de 06-Ago,\
+    \ da Lei 10-B/96, de 23-Mar), 74.º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun, da Lei 65/90,\
+    \ de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 31/95, de 18-Ago), 80.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de\
+    \ 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da\
+    \ Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar) e 93.º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de\
+    \ 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei\
+    \ 10-B/96, de 23-Mar) do Código do IRS, pela LEI.52-C/96.1996.12.27.AR, DR.IS-A [299]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:276219:por
+  label: "Alterada a redacção dos arts. 4.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 267/91, de 06-Ago e do Dec Lei\
+    \ 141/92, de 17-Jul), 5.º (na redacção do Dec Lei 141/92, de 17-Jul), 6.º (na redacção do Dec Lei 206/90, de 26-Jun, do\
+    \ Dec Lei 267/91, de 06-Ago, do Dec Lei 263/92, de 24-Nov, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez e da Lei\
+    \ 31/95, de 18-Ago), 8.º (na redacção do Dec Lei 360/91, de 28-Set, do Dec Lei 263/92, de 24-Nov, da Lei 31/95, de 18-Ago\
+    \ e da Lei 10-B/96, de 23-Mar), 91.º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 141/92,\
+    \ de 17-Jul, do Dec Lei 232/93, de 02-Jul e da Lei 39-B/94, de 27-Dez) e 117.º do Código IRS, pelo DEC LEI.257-B/96.1996.12.31.MF,\
+    \ DR.IS-A [302]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-b-1996-276219
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:301798:por
+  label: "Alterada a redacção do art. 6.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec\
+    \ Lei 263/92, de 24-Nov, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 31/95, de 18-Ago, do Dec Lei 257-B/96,\
+    \ de 31-Dez) e do art. 80.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez,\
+    \ do Dec Lei 267/91, de 06-Ago, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94,\
+    \ de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez) do Código, pelo DEC LEI.3/97.1997.01.08.MF DR.IS-A\
+    \ [6]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1997-301798
+  date: '1997-01-08'
+- type: amended_by
+  target: pt:dre:581628:por
+  label: "Alterada a redacção dos arts. 26.º (na redacção da Lei 75/93, de 20-Dez), 75.º (na redacção do Dec Lei 206/90, de\
+    \ 26-Jun), 94.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei\
+    \ 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez) e 114.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de\
+    \ 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 141/92, de 17-Jul, da Lei 39-B/94, de 27-Dez e da Lei 10-B/96, de 23-Mar)\
+    \ do Código do IRS, pelo DEC LEI.18/97.1997.01.21.MF DR.IS-A [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1997-581628
+  date: '1997-01-21'
+- type: amended_by
+  target: pt:dre:581222:por
+  label: "Alterada a redacção dos arts. 68.º (na redacção do Dec Lei 7/96, de 07-Fev) e 70.º (na redacção do Dec Lei 141/92,\
+    \ de 17-Jul e do Dec Lei 7/96, de 07-Fev) e revogado o art 69º do Código IRS, pelo DEC LEI.23/97.1997.01.23.MF, DR.IS-A\
+    \ [19]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1997-581222
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Prorrogado, com referência ao ano de 1998, para os rendimentos da categoria D, o regime transitório previsto no\
+    \ art. 4.º e alterado o art. 3.º-A (aditado pelo Dec Lei 95/90, de 20-Mar, na redacção da Lei 2/92, de 09-Mar e da Lei\
+    \ 75/93, de 20-Dez) do presente diploma, bem como alterados os arts. 25.º (na redacção da Lei 101/89, de 29-Dez, da Lei\
+    \ 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar e da Lei 52-C/96, de 27-Dez), 26.º (na redacção da Lei 75/93, de 20-Dez e do Dec Lei 18/97,\
+    \ de 21-Jan), 51.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei\
+    \ 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar\
+    \ e da Lei 52-C/96, de 27-Dez), 55.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, do Dec Lei 331/90,\
+    \ de 29-Out, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 71/93, de 26-Nov, da Lei\
+    \ 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar e da Lei 52-C/96, de 27-Dez), 56.º (rectificado\
+    \ pela Decl DD3895, de 28-Fev 1989, Lei 34/91, de 27-Jul, do Dec Lei 65/93, de 10-Mar e da Lei 10-B/96, de 23-Mar), 71.º\
+    \ (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da\
+    \ Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar e da Lei 52-C/96, de 27-Dez), 74.º (na redacção\
+    \ do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da\
+    \ Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 31/95, de 18-Ago e da Lei 52-C/96,\
+    \ de 27-Dez,), 80.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec\
+    \ Lei 267/91, de 06-Ago, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de\
+    \ 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez e do Dec Lei 3/97, de 08-Jan) e 93.º (na redacção do Dec\
+    \ Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de\
+    \ 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar e da Lei 52-C/96, de 27-Dez), do Código do IRS, pela LEI.127-B/97.1997.12.20.AR\
+    \ DR.IS-A [293]2ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:229284:por
+  label: "Alterados os arts. 9.º (na redacção do Dec Lei 206/90, de 26-Jun), 10.º (na redacção do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da\
+    \ Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez e da Lei 10-B/96, de 23-Mar), 17.º (rectificado pela Decl DD3895, de\
+    \ 28-Fev 1989, na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 75/93, de 20-Dez), 21.º (na redacção\
+    \ do Dec Lei 215/89, de 01-Jul, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, da Lei 10-B/96, de 23-Mar\
+    \ e da Lei 52-C/96, de 27-Dez), 74.º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun, da Lei 65/90,\
+    \ de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 31/95, de 18-Ago, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez) e 80.º (na redacção da Lei 101/89, de\
+    \ 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 2/92, de 09-Mar,\
+    \ da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96,\
+    \ de 27-Dez, do Dec Lei 3/97, de 08-Jan e da Lei 127-B/97, de 20-Dez), do Código do IRS, pelo DEC LEI.25/98.1998.02.10.MF,\
+    \ DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:218484:por
+  label: "Alterados os arts. 23.º (na redacção da Lei 39-B/94, de 27-Dez), 66.º (na redacção do Dec Lei 141/92, de 17-Jul\
+    \ e do Dec Lei 7/96, de 07-Fev) e 114.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec\
+    \ Lei 267/91, de 06-Ago, do Dec Lei 141/92, de 17-Jul, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar e do Dec Lei\
+    \ 18/97, de 21-Jan), do Código do IRS, aprovado pelo presente diploma, pelo DEC LEI.45/98.1998.03.03.MF, DR.IS-A [52]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1998-218484
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:217935:por
+  label: "Alterado o art. 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92,\
+    \ de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev) do Código do IRS, pelo DEC LEI.366/98.1998.11.23.MF DR.IS-A\
+    \ [271]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1998-217935
+  date: '1998-11-23'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS - PARTE 2 (CONTINUAÇÃO) Alterados os arts. 71.º (na redacção da Lei 101/89,\
+    \ de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei\
+    \ 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez), 73.º (na redacção\
+    \ da Lei 114/88, de 30-Dez), 80.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de\
+    \ 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da\
+    \ Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, do Dec Lei 3/97, de 08-Jan, da Lei 127-B/97,\
+    \ de 20-Dez, do Dec Lei 25/98, de 10-Fev), 93.º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da\
+    \ Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96,\
+    \ de 23-Mar, da Lei 52-C/96, de 27-Dez e da Lei 127-B/97, de 20-Dez), 94.º (na redacção do Dec Lei 354/89, de 17-Out,\
+    \ do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez e do Dec Lei\
+    \ 18/97, de 21-Jan), 95.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul e do Dec Lei 7/96, de\
+    \ 07-Fev), 117.º (na redacção do Dec Lei 257-B/96, de 31-Dez) e 138.º, aditados os arts. 80.º-A a 80.º-J e revogado, a\
+    \ partir de 31.12.1999, o art. 58.º do Código do IRS, pela LEI.87-B/98.31.12.1998.AR, DR.IS-A [301-5ºSupl] de 31.12.1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:158040:por
+  label: "Alterados os arts. 57.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago e do Dec Lei 6/93,\
+    \ de 09-Jan), 58.º (rectificado pela Decl DD3895, de 28-Fev 1989, na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90,\
+    \ de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei\
+    \ 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, revogado, a partir de 31.12.1999 e pela Lei\
+    \ 87-B/98, de 31-Dez), 60.º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91,\
+    \ de 06-Ago e da Lei 75/93, de 20-Dez), 61.º (na redacção do Dec Lei 141/92, de 17-Jul) e 79.º (na redacção do Dec Lei\
+    \ 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun e do Dec Lei 267/91, de 06-Ago) do Código, pelo DEC LEI.67/99.1999.03.11.MF\
+    \ DR.IS-A [59]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1999-158040
+  date: '1999-03-11'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterada a redacção dos arts. 1.º, 28.º, 38.º, 68.º (na redacção do Dec Lei 7/96, de 07-Fev e do Dec Lei 23/97,\
+    \ de 23-Jan), 83.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 7/96, de 07-Fev), 84.º (na redacção do Dec Lei\
+    \ 206/90, de 26-Jun e do Dec Lei 267/91, de 06-Ago), 85.º (na redacção da Lei 75/93, de 20-Dez), 86.º (na redacção do\
+    \ Dec Lei 141/92, de 17-Jul), 95.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei\
+    \ 7/96, de 07-Fev e da Lei 87-B/98, de 31-Dez), 96.º (na redacção do Dec Lei 267/91, de 06-Ago e do Dec Lei 7/96, de 07-Fev),\
+    \ 103.º (na redacção do Dec Lei 7/96, de 07-Fev), 120.º (rectificado pela Decl DD3895, de 28-Fev 1989), 124.º, n.º 2 do\
+    \ art. 125.º e revogados os arts. 70.º e 87.º do Código do IRS, pelo DEC LEI.472/99.1999.11.08.MF, DR.IS-A [260]\0]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:682983:por
+  label: "Alterado o art. 117.º (na redacção do Dec Lei 257-B/96, de 31-Dez e da Lei 87-B/98, de 31-Dez) e o art. 129.º, ambos\
+    \ do Código do IRS aprovado pelo presente diploma, pelo DEC LEI.486/99.1999.11.13.MF DR.IS-A [265]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/486-1999-682983
+  date: '1999-11-13'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS – PARTE 2 (CONTINUAÇÃO) Alterados os arts. 26.º (na redacção da Lei 75/93,\
+    \ de 20-Dez, do Dec Lei 18/97, de 21-Jan, da Lei 127-B/97, de 20-Dez, da Lei 87-B/98, de 31-Dez), 51.º (na redacção da\
+    \ Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92,\
+    \ de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez,\
+    \ da Lei 127-B/97, de 20-Dez, da Lei 87-B/98, de 31-Dez), 59.º (na redacção da Lei 10-B/96, de 23-Mar), 71.º (na redacção\
+    \ da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93,\
+    \ de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez\
+    \ e da Lei 87-B/98, de 31-Dez), 73.º (na redacção da Lei 114/88, de 30-Dez e da Lei 87-B/98, de 31-Dez), 80.º (na redacção\
+    \ da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei\
+    \ 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar,\
+    \ da Lei 52-C/96, de 27-Dez, do Dec Lei 3/97, de 08-Jan, da Lei 127-B/97, de 20-Dez, do Dec Lei 25/98, de 10-Fev, da Lei\
+    \ 87-B/98, de 31-Dez), 80.º-A, 80.ºE, 80.º-F, 80.º-G, 80.º-H, 80.º-I, (os seis aditados pela Lei 87-B/98, de 31-Dez),\
+    \ 80.º-L, 92.º (este na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 39-B/94, de 27-Dez), 93.º\
+    \ (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez,\
+    \ da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97,\
+    \ de 20-Dez e da Lei 87-B/98, de 31-Dez), 95.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul,\
+    \ do Dec Lei 7/96, de 07-Fev, da Lei 87-B/98, de 31-Dez, do Dec Lei 472/99, de 08-Nov), 131.º (na redacção do Dec Lei\
+    \ 141/92, de 17-Jul e do Dec Lei 7/96, de 07-Fev) e aditados os arts.º 114.º-A, 115.º-A e 117.º-A ao Código do IRS, pela\
+    \ LEI.3-B/2000.04.04.2000.AR, DR.IS-A [80-2ºSupl] de 04.04.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterado o art. 114º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91,\
+    \ de 06-Ago, do Dec Lei 141/92, de 17-Jul, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, do Dec Lei 18/97, de\
+    \ 21-Jan e do Dec Lei 45/98, de 03-Mar) e aditados os arts. 105º-A e 119º-A ao Código do IRS, pelo DEC LEI.55/2000.2000.04.14.MF,DR.IS-A\
+    \ [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alterados os arts. 25º (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da\
+    \ Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96,\
+    \ de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr), 51º (na redacção da Lei\
+    \ 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de\
+    \ 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da\
+    \ Lei 127-B/97, de 20-Dez, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr), 71.º (na redacção da Lei 101/89, de\
+    \ 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei\
+    \ 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 87-B/98,\
+    \ de 31-Dez, da Lei 3-B/2000, de 04-Abr), 73.º (na redacção da Lei 114/88, de 30-Dez, da Lei 87-B/98, de 31-Dez, da Lei\
+    \ 3-B/2000, de 04-Abr), 75.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 18/97, de 21-Jan), 80.º (na redacção\
+    \ da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, da Lei\
+    \ 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar,\
+    \ da Lei 52-C/96, de 27-Dez, do Dec Lei 3/97, de 08-Jan, da Lei 127-B/97, de 20-Dez, do Dec Lei 25/98, de 10-Fev, da Lei\
+    \ 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr), 80º-A, 80º-E, 80º-F, 80º-G, 80º-H, 80º-I (os seis aditados pela Lei\
+    \ 87-B/98, de 31-Dez, na redacção da Lei 3-B/2000, de 04-Abr) 80º-L (na redacção da Lei 3-B/2000, de 04-Abr) e 93.º (na\
+    \ redacção do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da\
+    \ Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97,\
+    \ de 20-Dez, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr) do Código do IRS, pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A\
+    \ [299]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "MODIFICAÇÕES SOFRIDAS NO IRS- PARTE 1 -Alterado o art. 4º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 95/90,\
+    \ de 20-Mar) do presente diploma, bem como alterados os arts. 1.º (na redacção do Dec Lei 472/99, de 08-Nov), 2.º (na\
+    \ redacção do Dec Lei 215/89, de 01-Jul, Dec Lei 206/90, de 26-Jun, da Lei 39-B/94, de 27-Dez, da Lei 3-B/2000, de 04-Abr),\
+    \ 3.º (na redacção do Dec Lei 267/91, de 06-Ago, da Lei 75/93, de 20-Dez), 4.º (na redacção da Lei 101/89, de 29-Dez,\
+    \ do Dec Lei 267/91, de 06-Ago, do Dec Lei 257-B/96, de 31-Dez), 6.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec\
+    \ Lei 267/91, de 06-Ago, do Dec Lei 263/92, de 24-Nov, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 31/95,\
+    \ de 18-Ago, do Dec Lei 257-B/96, de 31-Dez, do Dec Lei 3/97, de 08-Jan), 7.º (na redacção do Dec Lei 360/91, de 28-Set),\
+    \ 8.º (na redacção do Dec Lei 360/91, de 28-Set, do Dec Lei 263/92, de 24-Nov, da Lei 31/95, de 18-Ago, da Lei 10-B/96,\
+    \ de 23-Mar, do Dec Lei 257-B/96, de 31-Dez), 9.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 25/98, de 10-Fev),\
+    \ 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92,\
+    \ de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar,\
+    \ do Dec Lei 25/98, de 10-Fev, do Dec Lei 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr) do\
+    \ Código do IRS, pela LEI.30-G/2000.2000.12.29.AR DR.IS-A [299]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:347542:por
+  label: "Aprovada a revisão e republicado o Código, pelo DEC LEI.198/2001.2001.07.03.MF, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2001-347542
+  date: '2001-07-03'
+- type: amended_by
+  target: pt:dre:564274:por
+  label: "Declarada, com força obrigatória geral, a inconstitucionalidade da norma da al. c) do nº 1 do art. 11º, na interpretação\
+    \ segundo a qual nela estão abrangidas as pensões de preço de sangue (previstas no Dec Lei 466/99, de 06-Nov) e limitada\
+    \ os efeitos da inconstitucionalidade declarada, os quais só se produzirão a partir da publicação desta decisão no Diário\
+    \ da República, com ressalva das situações litigiosas pendentes, pelo AC.308/2001.2001.07.03.TCS, DR.IS-A [269] de 20/Nov/2001\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/308-2001-564274
+  date: '2001-07-03'
+- type: amended_by
+  target: pt:dre:522865:por
+  label: "Alterado o art. 74.º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun, da Lei 65/90, de 28-Dez,\
+    \ do Dec Lei 267/91, de 06-Ago, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei\
+    \ 31/95, de 18-Ago, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, do Dec Lei 25/98, de 10-Fev, da Lei 30-G/2000,\
+    \ de 29-Dez) e revogado o n.º 2 do art. 85.º do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul,\
+    \ pela LEI.85/2001.2001.08.04.AR DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/85-2001-522865
+  date: '2001-08-04'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "Alterados os arts. 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92,\
+    \ de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev, do Dec Lei 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da\
+    \ Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez) e 43.º do Código do IRS aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.221/2001.2001.08.07.MF DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS – PARTE 1 Alterado o art. 4.º (na redacção da Lei 101/89, de 29-Dez, do Dec\
+    \ Lei 95/90, de 20-Mar, da Lei 30-G/2000, de 29-Dez) do presente diploma, bem como alterados os arts. 2.º (na redacção\
+    \ do Dec Lei 215/89, de 01-Jul, Dec Lei 206/90, de 26-Jun, da Lei 39-B/94, de 27-Dez, da Lei 3-B/2000, de 04-Abr e da\
+    \ Lei 30-G/2000, de 29-Dez), 3.º (na redacção do Dec Lei 267/91, de 06-Ago, da Lei 75/93, de 20-Dez e da Lei 30-G/2000,\
+    \ de 29-Dez), 5.º (na redacção do Dec Lei 141/92, de 17-Jul, do Dec Lei 257-B/96, de 31-Dez e da Lei 30-G/2000, de 29-Dez),\
+    \ 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92,\
+    \ de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar,\
+    \ do Dec Lei 25/98, de 10-Fev, do Dec Lei 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da\
+    \ Lei 30-G/2000, de 29-Dez e do Dec Lei 221/2001, de 07-Ago), do Código do IRS, aprovado pelo mesmo diploma, revisto e\
+    \ republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:533809:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS - PARTE 1 - Alterados os arts. 2.º (na redacção do Dec Lei 215/89, de 01-Jul,\
+    \ Dec Lei 206/90, de 26-Jun, da Lei 39-B/94, de 27-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, da Lei\
+    \ 109-B/2001, de 27-Dez), 38.º (na redacção do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000, 29-Dez, da Lei 109-B/2001,\
+    \ de 27-Dez), 40.º-A (na redacção da Lei 30-G/2000, de 29-Dez e da Lei 109-B/2001, de 27-Dez), 71.º (na redacção da Lei\
+    \ 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez,\
+    \ da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei\
+    \ 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez), 73.º (na\
+    \ redacção da Lei 114/88, de 30-Dez, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-C/2000, de 29-Dez,\
+    \ da Lei 109-B/2001, de 27-Dez) do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.16-A/2002.2002.05.31.AR,\
+    \ DR.IS-A [125]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-a-2002-533809
+  date: '2002-05-31'
+- type: amended_by
+  target: pt:dre:655747:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, quando interpretada no sentido do acórdão, da norma\
+    \ constante do art. 104º do Código do IRS, na redacção do Dec Lei 198/2001 de 2-Jul (art. 111º) pelo AC.362/2002.2002.09.17.TCS,\
+    \ DR.IS-A [239]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/362-2002-655747
+  date: '2002-09-17'
+- type: amended_by
+  target: pt:dre:425933:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS - PARTE 1- Alterados os arts. 10.º (na redacção do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da\
+    \ Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev, do Dec Lei\
+    \ 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, do Dec Lei 221/2001,\
+    \ de 07-Ago e da Lei 109-B/2001, de 27-Dez), 22.º (na redacção da Lei 109-B/2001, de 27-Dez), 43.º (na redacção do Dec\
+    \ Lei 221/2001, de 07-Ago e da Lei 109-B/2001, de 27-Dez), 55.º (na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90,\
+    \ de 26-Jun, do Dec Lei 331/90, de 29-Out, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez,\
+    \ da Lei 71/93, de 26-Nov, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96,\
+    \ de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 85/98, de 16-Dez, da Lei 87-B/98, de 31-Dez e da Lei 109-B/2001, de 27-Dez),\
+    \ do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.228/2002.2002.10.31.MF,DR.IS-A\
+    \ [252]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-2002-425933
+  date: '2002-10-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS - PARTE 3 - (CONTINUAÇÃO) Alterados os arts. 85.º (na redacção da Lei 75/93,\
+    \ de 20-Dez, do Dec Lei 472/99, de 08-Nov, da Lei 85/2001, de 04-Ago e da Lei 109-B/2001, de 27-Dez), 86.º (na redacção\
+    \ do Dec Lei 141/92, de 17-Jul, do Dec Lei 472/99, de 08-Nov e da Lei 109-B/2001, de 27-Dez), 87.º (na redacção do Dec\
+    \ Lei 472/99, de 08-Nov e da Lei 109-B/2001, de 27-Dez), 98.º (na redacção da Lei 109-B/2001, de 27-Dez e da Lei 16-A/2002,\
+    \ de 31-Mai), 100.º (na redacção da Lei 109-B/2001, de 27-Dez), 101.º (na redacção do Dec Lei 7/96, de 07-Fev, da Lei\
+    \ 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai e do Dec Lei 228/2002, de 31-Out), 119.º (na redacção da Lei 109-B/2001,\
+    \ de 27-Dez e da Lei 16-A/2002, de 31-Mai), 120.º (rectificado pela Decl DD3895, de 28-Fev 1989 e na redacção do Dec Lei\
+    \ 472/99, de 08-Nov), 125.º (na redacção do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez), aditados à secção\
+    \ III do cap. II os arts. 36.º-A e 36.º-B e revogado o art. 141.º do Código do IRS, revisto e republicado pelo Dec Lei\
+    \ 198/2001, de 03-Jul, pela LEI.32-B/2002.30.12.2002.AR, DR.IS-A [301-2ºSupl] de 30.12.2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterado o art. 101.º (na redacção do Dec Lei 7/96, de 07-Fev, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de\
+    \ 31-Mai, do Dec Lei 228/2002, de 31-Out e da Lei 32-B/2002, de 30-Dez) do Código do IRS, revisto e republicado pelo Dec\
+    \ Lei 198/2001, de 03-Jul, pelo DEC LEI.80/2003.2003.04.23.MF DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:670764:por
+  label: "Alterados os arts. 102.º (na redacção da Lei 109-B/2001, de 27-Dez) e 128º do Código do IRS, revisto e republicado\
+    \ pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.160/2003.2003.07.19.MF DR.IS-A [165]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/160-2003-670764
+  date: '2003-07-19'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterado o art. 31.º (na redacção da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, e da Lei 32-B/2002,\
+    \ de 30-Dez), o art. 32.º (na redacção do Dec Lei 141/92, de 17-Jul e da Lei 30-G/2000, de 29-Dez) e o art. 36.º-B (aditado\
+    \ pela Lei 32-B/2002, de 30-Dez) e aditado o art. 31.º-A, todos do Código do IRS, aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterados os arts. 9.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 25/98, de 10-Fev, da Lei 30-G/2000,\
+    \ de 29-Dez e da Lei 32-B/2002, de 30-Dez), 53.º (na redacção da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez\
+    \ e da Lei 32-B/2002, de 30-Dez), 68.º (na redacção do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei\
+    \ 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 70.º (na redacção do Dec Lei 141/92,\
+    \ de 17-Jul, do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001,\
+    \ de 27-Dez e da Lei 32-B/2002, de 30-Dez), 78.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 7/96, de 07-Fev, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez),\
+    \ 82.º (na redacção da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 84.º (na redacção do Dec Lei 206/90,\
+    \ de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez), 85.º (na redacção da Lei 75/93, de 20-Dez, do Dec Lei 472/99, de 08-Nov, da\
+    \ Lei 85/2001, de 04-Ago, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 86.º (na redacção do Dec Lei 141/92,\
+    \ de 17-Jul, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 87.º (na redacção\
+    \ do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez) e 100.º (na redacção da Lei\
+    \ 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez) do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de\
+    \ 03-Jul, pela LEI.107-B/2003.31.12.2003.AR, DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:603477:por
+  label: "Alterado o art. 119.º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai e da Lei 32-B/2002,\
+    \ de 30-Dez) do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.17/2004.15.01.2004.MF,\
+    \ DR.IS-A [12] de 15.01.2004\04\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/17-2004-603477
+  date: '2004-01-15'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS - PARTE 1 - Alterados os arts. 9.º (na redacção do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 25/98, de 10-Fev, da Lei 30-G/2000, de 29-Dez, da Lei 32-B/2002, de 30-Dez e da Lei 107-B/2003, de 31-Dez),\
+    \ 40.º-A (na redacção da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e da Lei 16-A/2002, de 31-Mai), 53.º (na\
+    \ redacção da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez e da Lei 107-B/2003,\
+    \ de 31-Dez), 56.º (rectificado pela Decl DD3895, de 28-Fev 1989, Lei 34/91, de 27-Jul, do Dec Lei 65/93, de 10-Mar, da\
+    \ Lei 10-B/96, de 23-Mar, da Lei 127-B/97, de 20-Dez, do Dec Lei 74/99, de 16-Mar e da Lei 109-B/2001, de 27-Dez), 68.º\
+    \ (na redacção do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez e da Lei 107-B/2003, de 31-Dez), 70.º (na redacção do Dec Lei 141/92, de 17-Jul,\
+    \ do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez,\
+    \ da Lei 32-B/2002, de 30-Dez e da Lei 107-B/2003, de 31-Dez), 72.º (na redacção do Dec Lei 267/91, de 06-Ago, da Lei\
+    \ 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out, da Lei\
+    \ 32-B/2002, de 30-Dez), do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR,\
+    \ DR.IS-A [304-2ºSupl] de 30.12.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:575550:por
+  label: "Alterado o art. 78º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 7/96, de\
+    \ 07-Fev, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de\
+    \ 31-Dez e da Lei 55-B/2004, de 30-Dez) do Código do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo\
+    \ DEC LEI.62/2005.11.03.2005.MFAP, DR.IS-A [50] de 11.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-2005-575550
+  date: '2005-03-11'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterados os arts. 10.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92,\
+    \ de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev, do Dec Lei 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da\
+    \ Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, do Dec Lei 221/2001, de 07-Ago, da Lei 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez) e 81.º (na redacção do Dec Lei 354/89, de 17-Out) do Código\
+    \ do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl\
+    \ de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterado o art. 134º e revogados os arts. 135º e 136º do Código do IRS, aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:583434:por
+  label: "Alterados os arts. 40º-A (na redacção da Lei 30-G/2000 de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002,\
+    \ de 31-Mai e da Lei 55-B/2004, de 30-Dez), 71º (na redacção da Lei 101/89, de 29-Dez, da Lei 65/90, de 28-Dez, da Lei\
+    \ 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar,\
+    \ da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei\
+    \ 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai e da Lei 32-B/2002, de 30-Dez), 72º\
+    \ (na redacção do Dec Lei 267/91, de 06-Ago, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 109-B/2001,\
+    \ de 27-Dez, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez e da Lei 55-B/2004, de 31-Dez) e 101º (na redacção\
+    \ do Dec Lei 7/96, de 07-Fev, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai, do Dec Lei 228/2002, de 31-Out,\
+    \ da Lei 32-B/2002, de 30-Dez e do Dec Lei 80/2003, de 23-Abr) todos do Código do IRS, revisto e republicado pelo Dec\
+    \ Lei 198/2001 de 03-Jul, pelo DEC LEI.192/2005.07.11.2005.MFAP, DR.IS-A [213] de 07.11.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterados os arts. 10º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92,\
+    \ de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev, do Dec Lei 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da\
+    \ Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, do Dec Lei 221/2001, de 07-Ago, da Lei 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez e da Lei 39-A/2005, de 29-Jul) e 28º (na redacção do Dec\
+    \ Lei 472/99, de 08-Nov, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez) do Código\
+    \ do IRS aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pelo DEC LEI.211/2005.07.12.2005.MFAP,\
+    \ DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os arts. 9º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 25/98, de 10-Fev, da Lei 30-G/2000,\
+    \ de 29-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 16º (na redacção\
+    \ da Lei 109-B/2001, de 27-Dez), 31º (na redacção da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002,\
+    \ de 30-Dez e do Dec Lei 287/2003, de 12-Nov), 53º (na redacção da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez,\
+    \ da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 68º (na redacção do Dec Lei\
+    \ 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002,\
+    \ de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 70º (na redacção do Dec Lei 141/92, de 17-Jul,\
+    \ do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez,\
+    \ da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 79º (na redacção do Dec Lei\
+    \ 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 67/99, de 11-Mar, da Lei 32-B/2002,\
+    \ de 30-Dez e da Lei 55-B/2004, de 30-Dez), 82º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez,\
+    \ da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 83º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei\
+    \ 7/96, de 07-Fev, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 84º (na\
+    \ redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000,\
+    \ de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004,\
+    \ de 30-Dez), 85º (na redacção da Lei 75/93, de 20-Dez, do Dec Lei 472/99, de 08-Nov, da Lei 85/2001, de 04-Ago, da Lei\
+    \ 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 86º\
+    \ (na redacção do Dec Lei 141/92, de 17-Jul, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002,\
+    \ de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), 100º (na redacção da Lei 109-B/2001, de 27-Dez,\
+    \ da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez e da Lei 55-B/2004, de 30-Dez), e 140º e revogado o art. 109º\
+    \ do Código do IRS, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl]\
+    \ de 30.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterados os arts. 31-ºA (aditado pelo Dec Lei 287/2003, de 12-Nov), 55º (na redacção da Lei 101/89, de 29-Dez,\
+    \ do Dec Lei 206/90, de 26-Jun, do Dec Lei 331/90, de 29-Out, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei\
+    \ 30-C/92, de 28-Dez, da Lei 71/93, de 26-Nov, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de\
+    \ 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 85/98, de 16-Dez, da Lei 87-B/98, de 31-Dez, da\
+    \ Lei 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out e da Lei 32-B/2002, de 30-Dez), 57º (na redacção do Dec Lei\
+    \ 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 6/93, de 09-Jan, do Dec Lei 67/99, de 11-Mar e da Lei 30-G/2000,\
+    \ de 29-Dez), 58º (rectificado pela Decl DD3895, de 28-Fev 1989, na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90,\
+    \ de 26-Jun, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei\
+    \ 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 87-B/98, de 31-Dez, do Dec Lei 67/99,\
+    \ de 11-Mar e da Lei 30-G/2000, de 29-Dez), 60º (na redacção do Dec Lei 95/90, de 20-Mar, do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 267/91, de 06-Ago, da Lei 75/93, de 20-Dez e do Dec Lei 67/99, de 11-Mar), 98º (na redacção da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 16-A/2002, de 31-Mai e da Lei 32-B/2002, de 30-Dez), 99º (na redacção da Lei 16-A/2002, de 31-Mai),\
+    \ 112º e 113.º (ambos na redacção da Lei 30-G/2000, de 29-Dez), 116º (na redacção da Lei 109-B/2001, de 27-Dez), 119º\
+    \ (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai, da Lei 32-B/2002, de 30-Dez e do Dec Lei 17/2004,\
+    \ de 15-Jan), 121º e 122º (este na redacção da Lei 16-A/2002, de 31-Mai) e revogado o nº 10 do art. 119º todos do Código\
+    \ do IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de\
+    \ 20.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os arts. 28º (na redacção do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez e do Dec Lei 211/2005, de 07-Dez), 31º (na redacção da Lei 30-G/2000, de 29-Dez,\
+    \ da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, do Dec Lei 287/2003, de 12-Nov e da Lei 60-A/2005, de 30-Dez),\
+    \ 31º-A (aditado pelo Dec Lei 287/2003, de 12-Nov e na redacção do Dec Lei 238/2006, de 20-Dez), 45º (na redacção da Lei\
+    \ 10-B/96, de 23-Mar, da Lei 87-B/98, de 31-Dez e da Lei 30-G/2000, 29-Dez), 53º (na redacção da Lei 30-G/2000, de 29-Dez,\
+    \ da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez\
+    \ e da Lei 60-A/2005, de 30-Dez), 54º (na redacção do Dec Lei 206/90, de 26-Jun, da Lei 75/93, de 20-Dez e da Lei 30-G/2000,\
+    \ 29-Dez), 65º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago e da Lei 30-G/2000, de 29-Dez),\
+    \ 68º (na redacção do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez e da Lei 60-A/2005,\
+    \ de 30-Dez), 70º (na redacção do Dec Lei 141/92, de 17-Jul, do Dec Lei 7/96, de 07-Fev, do Dec Lei 23/97, de 23-Jan,\
+    \ do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez,\
+    \ da Lei 55-B/2004, de 30-Dez e da Lei 60-A/2005, de 30-Dez), 72º (na redacção do Dec Lei 267/91, de 06-Ago, da Lei 10-B/96,\
+    \ de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002,\
+    \ de 30-Dez, da Lei 55-B/2004, de 31-Dez e do Dec Lei 192/2005, de 07-Nov), 76º, 77º (este último na redacção do Dec Lei\
+    \ 354/89, de 17-Out), 78º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 7/96, de\
+    \ 07-Fev, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de\
+    \ 31-Dez, da Lei 55-B/2004, de 30-Dez e do Dec Lei 62/2005, de 11-Mar), 79º (na redacção do Dec Lei 354/89, de 17-Out,\
+    \ do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 67/99, de 11-Mar, da Lei 32-B/2002, de 30-Dez,\
+    \ da Lei 55-B/2004, de 30-Dez e da Lei 60-A/2005, de 30-Dez), 82º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002,\
+    \ de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez e da Lei 60-A/2005, de 30-Dez), 84º (na redacção\
+    \ do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000, de 29-Dez,\
+    \ da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez\
+    \ e da Lei 60-A/2005, de 30-Dez)º, 85º (na redacção da Lei 75/93, de 20-Dez, do Dec Lei 472/99, de 08-Nov, da Lei 85/2001,\
+    \ de 04-Ago, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004,\
+    \ de 30-Dez e da Lei 60-A/2005, de 30-Dez), 86º (na redacção do Dec Lei 141/92, de 17-Jul, do Dec Lei 472/99, de 08-Nov,\
+    \ da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez\
+    \ e da Lei 60-A/2005, de 30-Dez), 96º (na redacção do Dec Lei 267/91, de 06-Ago, do Dec Lei 7/96, de 07-Fev e do Dec Lei\
+    \ 472/99, de 08-Nov), 97º (na redacção do Dec Lei 267/91, de 06-Ago), 100º (na redacção da Lei 109-B/2001, de 27-Dez,\
+    \ da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez e da Lei 60-A/2005, de 30-Dez)\
+    \ e 103º (na redacção do Dec Lei 7/96, de 07-Fev e do Dec Lei 472/99, de 08-Nov), aditado o art. 87º (revogado pelo Dec\
+    \ Lei 472/99, de 08-Nov, revisto pelo Dec Lei 198/2001, de 03-Jul, na redacção da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002,\
+    \ de 30-Dez e da Lei 107-B/2003, de 31-Dez e posteriormente revogado pela Lei 55-B/2004, de 30-Dez) bem como é aditada\
+    \ a actividade \"Designer\" na tabela de actividades a que se refere o art. 151º, revogado o nº 6 do art. 25º, o nº 3\
+    \ do art. 53º, o nº 3 do art. 65º e a al. b) do nº 1 e o nº 2 do art. 79º, todos do Código do IRS, revisto e republicado\
+    \ pelo Dec Lei 198/2001 de 03-Jul, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:629425:por
+  label: "Alterados os arts. 10º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92,\
+    \ de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev, do Dec Lei 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da\
+    \ Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, do Dec Lei 221/2001, de 07-Ago, da Lei 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez, da Lei 39-A/2005, de 29-Jul e do Dec Lei 211/2005, de 07-Dez),\
+    \ 57º º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 6/93, de 09-Jan, do Dec Lei\
+    \ 67/99, de 11-Mar e da Lei 30-G/2000, de 29-Dez) e 119º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002,\
+    \ de 31-Mai, da Lei 32-B/2002, de 30-Dez, do Dec Lei 17/2004, de 15-Jan e do Dec Lei 238/2006, de 20-Dez)do Código do\
+    \ IRS, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pelo DEC LEI.361/2007.02.11.2007.MFAP, DR.IS [211] de 02.11.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/361-2007-629425
+  date: '2007-11-02'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS (PARTE 2) Alterado o art. 72.º (na redacção do Dec Lei 267/91, de 06-Ago,\
+    \ da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out,\
+    \ da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 31-Dez, do Dec Lei 192/2005, de 07-Nov e da Lei 53-A/2006, de 29-Dez),\
+    \ art. 73.º (na redacção da Lei 114/88, de 30-Dez, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-C/2000,\
+    \ de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai e da Lei 55-B/2004, 30-Dez), art. 79.º (na redacção\
+    \ do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 67/99, de 11-Mar,\
+    \ da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez e da Lei 53-A/2006, de 29-Dez),\
+    \ art. 82.º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei\
+    \ 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez e da Lei 53-A/2006, de 29-Dez), art. 84.º (na redacção do Dec Lei\
+    \ 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005,\
+    \ de 30-Dez e da Lei 53-A/2006, de 29-Dez), art. 85.º (na redacção da Lei 75/93, de 20-Dez, do Dec Lei 472/99, de 08-Nov,\
+    \ da Lei 85/2001, de 04-Ago, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez,\
+    \ da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez e da Lei 53-A/2006, de 29-Dez), art. 86.º (na redacção do Dec\
+    \ Lei 141/92, de 17-Jul, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei\
+    \ 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez e da Lei 53-A/2006, de 29-Dez), art.\
+    \ 87º (na redacção do Dec Lei 472/99, de 08-Nov, revisto e republicado pelo Dec Lei 198/2001, de 03-jul, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez e da Lei 53-A/2006,\
+    \ de 29-Dez) art. 100.º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de\
+    \ 31-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez e da Lei 53-A/2006, de 29-Dez), art. 102º (na redacção\
+    \ da Lei 109-B/2001, de 27-Dez e do Dec Lei 160/2003, de 19-Jul), art. 127º (na redacção da Lei 10-B/96 de 23-Mar - esta\
+    \ alteração aplica-se às obrigações que devem ser cumpridas a partir de 01.01.2009), revoga as als c) e d) do nº 1 do\
+    \ art. 12º e as als c) e e) do nº 2 do art. 71º, bem como os arts. 121º e 122º, todos do Código dos IRS aprovado pelo\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl]\
+    \ de 31.12.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterados os art.s 73º (na redacção da Lei 114/88, de 30-Dez, Lei 87-B/98, de 31-Dez, Lei 3-B/2000, de 04-Abr, Lei\
+    \ 30-C/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 16-A/2002, de 31-Maio, Lei 55-B/2004, de 30-Dez, e Lei 67-A/2007,\
+    \ de 31-Dez), e 78º (na redacção do Dec Lei 354/89, de 17-Out, Dec Lei 206/90, de 26-Jun, Dec Lei 7/96, de 07- Fev, Lei\
+    \ 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de 31-Dez, Lei 55-B/2004,\
+    \ de 30-Dez, Dec Lei 62/2005, de 11-Mar, e Lei 53-A/2006, de 29-Dez), o art. 85º ( na redacção da Lei 75/93, de 20-Dez,\
+    \ Dec Lei 472/99, de 08-Nov, Lei 85/2001, de 04-Ago, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, 30-Dez, Lei 107-B/2003,\
+    \ de 31-Dez, Lei 55-B/2004, de 30-Dez, Lei 60-A/2005, de 30-Dez, Lei 53-A/2006, de 29-Dez, e Lei 67-A/2007, de 31-Dez)\
+    \ do Código IRS, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.64/2008.05.12.2008.AR, DR.IS [236] de\
+    \ 05.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS - PARTE 1 - Alterados os arts. 2.º (na redacção do Dec Lei 215/89, de 01-Jul,\
+    \ Dec Lei 206/90, de 26-Jun, da Lei 39-B/94, de 27-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, da Lei\
+    \ 109-B/2001, de 27-Dez e da Lei 16-A/2002, de 31-Mai), 9.º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 25/98,\
+    \ de 10-Fev, da Lei 30-G/2000, de 29-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004,\
+    \ de 30-Dez, da Lei 60-A/2005, de 30-Dez e da Lei 67-A/2007, de 31-Dez), 10.º (na redacção do Dec Lei 206/90, de 26-Jun,\
+    \ do Dec Lei 141/92, de 17-Jul, do Dec Lei 263/92, de 24-Nov, da Lei 30-C/92, de 28-Dez, do Dec Lei 6/93, de 09-Jan, da\
+    \ Lei 75/93, de 20-Dez, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, do Dec Lei 25/98, de 10-Fev, do Dec Lei\
+    \ 366/98, de 23-Nov, da Lei 87-B/98, de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, do Dec Lei 221/2001,\
+    \ de 07-Ago, da Lei 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez, da Lei 39-A/2005,\
+    \ de 29-Jul, do Dec Lei 211/2005, de 07-Dez e do Dec Lei 361/2007, de 02-Nov), 12.º (na redacção da Lei 101/89, de 29-Dez,\
+    \ da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e da Lei 67-A/2007, de 31-Dez), 20.º (na redacção do Dec Lei\
+    \ 267/91 de 06-Ago), 28.º (na redacção do Dec Lei 472/99, de 08-Nov, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de\
+    \ 27-Dez, da Lei 32-B/2002, de 30-Dez, do Dec Lei 211/2005, de 07-Dez e da Lei 53-A/2006, de 29-Dez), do Código do IRS,\
+    \ aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR,\
+    \ DR.IS [252-Supl] de 31.12.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:493013:por
+  label: "Alterados, a partir de 01.09.2009, os arts 9º (na redacção do Dec Lei 206/90, de 26-Jun, do Dec Lei 25/98, de 10-Fev,\
+    \ da Lei 30-G/2000, de 29-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez,\
+    \ da Lei 60-A/2005, de 30-Dez, da Lei 67-A/2007, de 31-Dez e da Lei 64-A/2008, de 31-Dez) e 71º (na redacção da Lei 101/89,\
+    \ de 29-Dez, da Lei 65/90, de 28-Dez, da Lei 2/92, de 09-Mar, da Lei 30-C/92, de 28-Dez, da Lei 75/93, de 20-Dez, da Lei\
+    \ 39-B/94, de 27-Dez, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 87-B/98,\
+    \ de 31-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-C/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002,\
+    \ de 31-Mai, da Lei 32-B/2002, de 30-Dez, do Dec Lei 192/2005, de 07-Nov, da Lei 67-A/2007, de 31-Dez e da Lei 64-A/2008,\
+    \ de 31-Dez) do Código do IRS, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul,\
+    \ pelo DEC LEI.175/2009.04.08.2009.MFAP, DR.IS [149] de 04.08.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-2009-493013
+  date: '2009-08-04'
+- type: amended_by
+  target: pt:dre:488505:por
+  label: "Alterado o art. 72º (na redacção do Dec Lei 267/91, de 06-Ago, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez,\
+    \ da Lei 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 30-Dez,\
+    \ da Lei 192/2005, de 07-Nov, da Lei 53-A/2006, de 29-Dez e da Lei 67-A/2007, de 31-Dez) do Código do IRS, aprovado pelo\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.94/2009.01.09.2009.AR, DR.IS [169]\
+    \ de 01.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/94-2009-488505
+  date: '2009-09-01'
+- type: amended_by
+  target: pt:dre:489219:por
+  label: "Alterados o art. 2º (com a redacção do Dec Lei 215/89, de 01-Jul, Dec Lei 206/90, de 26-Jun, da Lei 39-B/94, de\
+    \ 27-Dez, da Lei 3-B/2000, de 04-Abr, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de\
+    \ 31-Mai e da Lei 64-A/2008 de 31-Dez) e o art. 99º (com a redacção da Lei 16-A/2002 de 31-Mai e do Dec Lei 238/2006 de\
+    \ 20-Dez) do Código do IRS aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela\
+    \ LEI.100/2009.07.09.2009.AR, DR.IS [173] de 07.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2009-489219
+  date: '2009-09-07'
+- type: amended_by
+  target: pt:dre:489737:por
+  label: "Alterados, a partir do dia seguinte ao da publicação do diploma regulamentador da habilitação dos padrinhos, prevista\
+    \ no artigo 12.º, os arts.79.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91,\
+    \ de 06-Ago, do Dec Lei 67/99, de 11-Mar, da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005,\
+    \ de 30-Dez e da Lei 53-A/2006, de 29-Dez e Lei 67-A/2007 de 31-Dez), 82.º (na redacção das Leis Leis 67-A/2007 de 31-Dez,\
+    \ 53-A/2006 de 29-Dez, 60-A/2005 de 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez, 32-B/2002, de 30-Dez, 109-B/2001,\
+    \ de 27-Dez e Lei 64-A/2008 de 31-Dez) e 83º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 7/96, de 07-Fev, do\
+    \ Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez e Lei 60-A/2005 de 30-Dez), todos\
+    \ do Código do IRS, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.103/2009.11.09.2009.AR,\
+    \ DR.IS [177] de 11.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/103-2009-489737
+  date: '2009-09-11'
+- type: amended_by
+  target: pt:dre:490420:por
+  label: "Alterados os art.s 16º (na redacção da Lei 109-B/2001, de 27-Dez, e da Lei 60-A/2005, de 30-Dez), 22º (na redacção\
+    \ da Lei 109-B/2001 de 27-Dez, Dec Lei 228/2002 de 31-Out, Lei 32-B/2002 de 30-Dez, e Lei 67-A/2007, de 31-Dez), 72º (na\
+    \ redacção do Dec Lei 267/91, de 06-Ago, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 192/2005, de 07-Nov,\
+    \ da Lei 53-A/2006, de 29-Dez, da Lei 67-A/2007, de 31-Dez, e da Lei 94/2009, 01-Set) e 81º (na redacção do Dec Lei 354/89,\
+    \ de 17-Out, e da Lei 39-A/2005, de 29-Jul) do Código do IRS, aprovado pelo presente diploma, revisto e republicado pelo\
+    \ Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.249/2009.23.09.2009.MFAP, DR.IS [185] de 23.09.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-2009-490420
+  date: '2009-09-23'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterados, a partir de 18.10.2009, o art 5º (na redacção do Dec Lei 141/92, de 17-Jul, do Dec Lei 257-B/96, de 31-Dez,\
+    \ da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 12.º (na redacção da Lei 101/89, de 29-Dez, da Lei 109-B/2001,\
+    \ de 27-Dez e da Lei 67-A/2007, de 31-Dez), 27.º, 86.º (este último na redacção das Leis 67-A/2007 de 31-Dez, 53-A/2006\
+    \ de 29-Dez, 60-A/2005 de 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez, 32-B/2002, de 30-Dez, 109-B/2001, de 27-Dez,\
+    \ e dos Dec Leis 472/99, de 08-Nov e 141/92, de 17-Jul), 87.º (na redacção do Dec Lei 472/99, de 08-Nov, do Dec Lei 198/2001,\
+    \ de 03-Jul, da Lei 109-B/2001, de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004,\
+    \ de 30-Dez, da Lei 53-A/2006, de 29-Dez e da Lei 67-A/2007, de 31-Dez), 113.º (na redacção da Lei 30-G/2000 de 29-Dez\
+    \ - esta alteração entra em vigor em 01.01.2010, aplicando-se às obrigações declarativas a cumprir desde essa data), e\
+    \ 127.º (na redacção das Leis 167-A/2007 de 31-Dez e 10-B/96 de 23-Mar - esta alteração entra em vigor em 01.01.2010,\
+    \ aplicando-se às obrigações declarativas a cumprir desde essa data), todos do Código de IRS, aprovado pelo presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterados os arts. 3.º (na redacção do Dec Lei 267/91, de 06-Ago, das Leis 75/93, de 20-Dez, 30-G/2000, de 29-Dez,\
+    \ 109-B/2001, de 27-Dez e 32-B/2002 de 30-Dez), 28.º (na redacção do Dec Lei 472/99, de 08-Nov, das Leis 30-G/2000, de\
+    \ 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, do Dec Lei 211/2005, de 07-Dez, das Leis 53-A/2006, de 29-Dez e\
+    \ 64-A/2008 de 31-Dez), 30.º (rectificado pela Decl DD3895, de 28-Fev 1989, na redacção do Dec Lei 267/91, de 06-Ago,\
+    \ das Leis 10-B/96, de 23-Mar, 52-C/96, de 27-Dez, 30-G/2000, de 29-Dez e 32-B/2002 de 30-Dez), 31º (na redacção das Leis\
+    \ 30-G/2000 de 29-Dez, 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, do Dec Lei 287/2003, de 12-Nov, das Leis 60-A/2005 de\
+    \ 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez) 45º (na redacção das Leis 10-B/96, de 23-Mar, 87-B/98, de 31-Dez,\
+    \ 30-G/2000, 29-Dez e 53-A/2006 de 29-Dez) 53.º (na redacção das Leis 30-G/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002,\
+    \ de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez e 67-A/2007 de 31-Dez),\
+    \ 55.º (na redacção da Lei 101/89, de 29-Dez, dos Dec Lei 206/90, de 26-Jun, 331/90, de 29-Out, das Leis 65/90, de 28-Dez,\
+    \ 2/92, de 09-Mar, 30-C/92, de 28-Dez, 71/93, de 26-Nov, 75/93, de 20-Dez, 39-B/94, de 27-Dez, 10-B/96, de 23-Mar, 52-C/96,\
+    \ de 27-Dez, 127-B/97, de 20-Dez, 85/98, de 16-Dez, 87-B/98, de 31-Dez, 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de\
+    \ 31-Out, da Lei 32-B/2002, de 30-Dez, do Dec Lei 238/2006, de 20-Dez e Lei 64-A/2008 de 31-Dez), 58º (rectificado pela\
+    \ Decl DD3895, de 28-Fev 1989, na redacção da Lei 101/89, de 29-Dez, do Dec Lei 206/90, de 26-Jun, das Leis 65/90, de\
+    \ 28-Dez, 2/92, de 09-Mar, 30-C/92, de 28-Dez, 75/93, de 20-Dez, 39-B/94, de 27-Dez, 10-B/96, de 23-Mar, 52-C/96, de 27-Dez,\
+    \ 87-B/98, de 31-Dez, do Dec Lei 67/99, de 11-Mar, da Lei 30-G/2000, de 29-Dez e do Dec Lei 238/2006 de 20-Dez), 60º (na\
+    \ redacção dos Dec Lei 95/90, de 20-Mar, 206/90, de 26-Jun, 267/91, de 06-Ago, da Lei 75/93, de 20-Dez e dos Dec Lei 67/99,\
+    \ de 11-Mar e 238/2006 de 20-Dez - nos termos do nº 3 do art. 88.º da da presente LO, os prazos previstos no artigo 60.º\
+    \ do código do IRS, na presente redacção, aplicam-se a partir de 01.01.2010), 68.º (na redacção dos Dec Lei 7/96, de 07-Fev,\
+    \ 23/97, de 23-Jan, 472/99, de 08-Nov, das Leis 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004,\
+    \ de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez ,67-A/2007, de 31-Dez e 64-A/2008 de 31-Dez ), 70.º (na redacção\
+    \ dos Dec Lei 141/92, de 17-Jul, 7/96, de 07-Fev, 23/97, de 23-Jan, 472/99, de 08-Nov, das Leis 109-B/2001, de 27-Dez,\
+    \ 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez, Lei 67-A/2007,\
+    \ de 31-Dez e 64-A/2008 de 31-Dez), 71º (na redacção das Leis 101/89, de 29-Dez, 65/90, de 28-Dez, 2/92, de 09-Mar, 30-C/92,\
+    \ de 28-Dez, 75/93, de 20-Dez, 39-B/94, de 27-Dez, 10-B/96, de 23-Mar, 52-C/96, de 27-Dez, 127-B/97, de 20-Dez, 87-B/98,\
+    \ de 31-Dez, 3-B/2000, de 04-Abr, 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 16-A/2002, de 31-Mai, 32-B/2002, de 30-Dez,\
+    \ do Dec Lei 192/2005, de 07-Nov, das Leis 67-A/2007, de 31-Dez, 64-A/2008, de 31-Dez e do Dec Lei 175/2009 de 04-Ago)\
+    \ 72º (na redacção do Dec Lei 267/91, de 06-Ago, das Leis 10-B/96, de 23-Mar, 52-C/96, de 27-Dez, 109-B/2001, de 27-Dez,\
+    \ do Dec Lei 228/2002, de 31-Out, das Leis 32-B/2002, de 30-Dez, 55-B/2004, de 30-Dez, 192/2005, de 07-Nov, 53-A/2006,\
+    \ de 29-Dez, 67-A/2007, de 31-Dez, 94/2009, 01-Set e do Dec Lei 249/2009 de 23-Set) 74.º (na redacção dos Dec Lei 95/90,\
+    \ de 20-Mar 206/90, de 26-Jun, da Lei 65/90, de 28-Dez, do Dec Lei 267/91, de 06-Ago, das Leis 30-C/92, de 28-Dez, 75/93,\
+    \ de 20-Dez, 39-B/94, de 27-Dez, 31/95, de 18-Ago, 52-C/96, de 27-Dez, 127-B/97, de 20-Dez, do Dec Lei 25/98, de 10-Fev,\
+    \ das Leis 30-G/2000, de 29-Dez, 85/2001, de 04-Ago e 64-A/2008 de 31-Dez), 77º (na redacção do Dec Lei 354/89, de 17-Out\
+    \ e da Lei 53-A/2006 de 29-Dez - nos termos do nº 3 do art. 88.º da presente LO, os prazos previstos no artigo 77.º do\
+    \ código do IRS, na presente redacção, aplicam-se a partir de 01.01.2010), 82.º (na redacção das Leis 67-A/2007 de 31-Dez,\
+    \ 53-A/2006 de 29-Dez, 60-A/2005 de 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez, 32-B/2002, de 30-Dez, 109-B/2001,\
+    \ de 27-Dez, Lei 64-A/2008 de 31-Dez e 103/2009 de 11-Set) 84.º (na redacção dos Dec Lei 206/90, de 26-Jun, 267/91, de\
+    \ 06-Ago, 472/99, de 08-Nov, das Leis 30-G/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de\
+    \ 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez e 67-A/2007 de 31-Dez), 85.º (na redacção da\
+    \ Lei 75/93, de 20-Dez, Dec Lei 472/99, de 08-Nov, das Leis 85/2001, de 04-Ago, 109-B/2001, de 27-Dez, 32-B/2002, 30-Dez,\
+    \ 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez, 67-A/2007, de 31-Dez, 64/2008\
+    \ de 05-Dez e 64-A/2008 de 31-Dez), 86.º (na redacção das Leis 67-A/2007 de 31-Dez, 53-A/2006 de 29-Dez, 60-A/2005 de\
+    \ 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez, 32-B/2002, de 30-Dez, 109-B/2001, de 27-Dez, e dos Dec Leis 472/99,\
+    \ de 08-Nov, 141/92, de 17-Jul e 292/2009 de 13-Out), 92.º (na redacção do Dec Lei 206/90, de 26-Jun, das Leis 65/90,\
+    \ de 28-Dez, 39-B/94, de 27-Dez, 3-B/2000, de 04-Abr, 30-G/2000, de 29-Dez e 109-B/2001 de 27-Dez), 100.º (na redacção\
+    \ das Leis 67-A/2007 de 31-Dez , 53-A/2006 de 29-Dez, 60-A/2005 de 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez,\
+    \ 32-B/2002, de 30-Dez, 109-B/2001, de 27-Dez), 101º (na redacção do Dec Lei 7/96, de 07-Fev, das Leis 109-B/2001, de\
+    \ 27-Dez, 16-A/2002, de 31-Mai, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez e dos Dec Lei 80/2003, de\
+    \ 23-Abr e 192/2005 de 07-Nov) 115.º (rectificado pela Decl DD3895, de 28-Fev 1989, na redacção do Dec Lei 377/90, de\
+    \ 30-Nov e da Lei 30-G/2000 de 29-Dez), aditado o art. 85.º-A, revogados o nº 2 do art. 9.º, o nº 6 do art. 31.º, o nº\
+    \ 2 do art. 45.º e o nº 2 do art. 85.º e determinado que os rendimentos brutos de cada uma das categorias A, B e H auferidos\
+    \ por sujeitos passivos com deficiência sejam considerados, para efeitos de IRS, apenas por 90 % em 2010, todos do Código\
+    \ do IRS, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.3-B/2010.28.04.2010.AR,\
+    \ DR.IS [82-Supl] de 28.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:335437:por
+  label: "Alterado o art. 68º (na redacção dos Dec Lei 7/96, de 07-Fev, 23/97, de 23-Jan, 472/99, de 08-Nov, das Leis 109-B/2001,\
+    \ de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez\
+    \ ,67-A/2007, de 31-Dez, 64-A/2008 de 31-Dez e 3-B/2010, de 28-Abr ), do Código do IRS, aprovado pelo presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.11/2010.15.06.2010.AR, DR.IS [114] de 15.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/11-2010-335437
+  date: '2010-06-15'
+- type: amended_by
+  target: pt:dre:569757:por
+  label: "Dada nova redacção ao art. 119º (com a redacção conferida na Lei 109-B/2001, de 27-Dez, na Lei 16-A/2002, de 31-Mai,\
+    \ na Lei 32-B/2002, de 30-Dez, no Dec Lei 17/2004, de 15-Jan, no Dec Lei 238/2006, de 20-Dez e no Dec Lei 361/2007 de\
+    \ 02-Nov) do Código do IRS, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pelo\
+    \ DEC LEI.72-A/2010.18.06.2010.MFAP, DR.IS [117-Supl] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Alterados os arts. 68º (na redacção dos Dec Lei 7/96, de 07-Fev, 23/97, de 23-Jan, 472/99, de 08-Nov, das Leis 109-B/2001,\
+    \ de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez\
+    \ ,67-A/2007, de 31-Dez, 64-A/2008 de 31-Dez, 3-B/2010, de 28-Abr e 11/2010 de 15-Jun), 71º (na redacção das Leis 101/89,\
+    \ de 29-Dez, 65/90, de 28-Dez, 2/92, de 09-Mar, 30-C/92, de 28-Dez, 75/93, de 20-Dez, 39-B/94, de 27-Dez, 10-B/96, de\
+    \ 23-Mar, 52-C/96, de 27-Dez, 127-B/97, de 20-Dez, 87-B/98, de 31-Dez, 3-B/2000, de 04-Abr, 30-C/2000, de 29-Dez, 109-B/2001,\
+    \ de 27-Dez, 16-A/2002, de 31-Mai, 32-B/2002, de 30-Dez, do Dec Lei 192/2005, de 07-Nov, das Leis 67-A/2007, de 31-Dez,\
+    \ 64-A/2008, de 31-Dez, Dec Lei 175/2009 de 04-Ago e Lei 3-B/2010 de 28-Abr), 101º (na redacção do Dec Lei 7/96, de 07-Fev,\
+    \ das Leis 109-B/2001, de 27-Dez, 16-A/2002, de 31-Mai, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez e\
+    \ dos Dec Lei 80/2003, de 23-Abr e 192/2005 de 07-Nov e Lei 3-B/2010 de 28-Abr) e art. 102º (na redacção da Lei 109-B/2001,\
+    \ de 27-Dez, do Dec Lei 160/2003, de 19-Jul e da Lei 67-A/2007 de 31-Dez) todos do Código do IRS, aprovado pelo presente\
+    \ diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul pela LEI.12-A/2010.30.06.2010.AR, DR.IS [125-Supl] de\
+    \ 30.06.2010\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:334098:por
+  label: "Alterados o art. 10º (com a redacção constante do Dec Lei 206/90 de 26-Jun, do Dec Lei 141/92 de 17-Jul,do Dec Lei\
+    \ 263/92 de 24-Nov, da Lei 30-C/92 de 28-Dez, do Dec Lei 6/93 de 09-Jan, da Lei 75/93 de 20-Dez, da Lei 39-B/94 de 27-Dez,\
+    \ da Lei 10-B/96 de 23-Mar, do Dec Lei 25/98 de 10-Fev, do Dec Lei 366/98 de 23-Nov, da Lei 87-B/98 de 31-Dez, da Lei\
+    \ 3-B/2000 de 04-Abr, da Lei 30-G/2000 de 29-Dez, do Dec Lei 221/2001 de 07-Ago, da Lei 109-B/2001 de 27-Dez, do Dec Lei\
+    \ 228/2002 de 31-Out, da Lei 32-B/2002 de 30-Dez, da Lei 39-A/2005 de 29-Jul, do Dec Lei 211/2005 de 07-Dez, do Dec Lei\
+    \ 361/2007 de 02-Nov, e da Lei 64-A/2008 de 31-Dez), o art. 43º (com a redacção do Dec Lei 221/2001 de 07-Ago, da Lei\
+    \ 109-B/2001 de 27-Dez, do Dec Lei 228/2002 de 31-Out, e da Lei 32-B/2002 de 30-Dez), o art. 72º (com a redacção constante\
+    \ do Dec Lei 267/91 de 06-Ago, da Lei 10-B/96 de 23-Mar, da Lei 52-C/96 de 27-Dez, da Lei 109-B/2001 de 27-Dez, do Dec\
+    \ Lei 228/2002, de 31-Out, da Lei 32-B/2002 de 30-Dez, da Lei 55-B/2004 de 30-Dez, da Lei 192/2005 de 07-Nov, da Lei 53-A/2006,\
+    \ de 29-Dez, da Lei 67-A/2007 de 31-Dez, da Lei 94/2009 01-Set, do Dec Lei 249/2009 de 23-Set, e da Lei 3-B/2010 de 28-Abr),\
+    \ o art. 119º (com a redacção constante da Lei 109-B/2001 de 27-Dez, da Lei 16-A/2002 de 31-Mai, da Lei 32-B/2002 de 30-Dez,\
+    \ do Dec Lei 17/2004 de 15-Jan, do Dec Lei 238/2006 de 20-Dez, do Dec Lei 361/2007 de 02-Nov, e do Dec Lei 72-A/2010 de\
+    \ 18-Jun), e o art. 123º (com a redacção constante da Lei 64-A/2008 de 31-Dez), e revogados os nºs 2 e 12 do art. 10º\
+    \ todos do Código do IRS, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela\
+    \ LEI.15/2010.26.07.2010.AR, DR.IS [143] de 26.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2010-334098
+  date: '2010-07-26'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 12.º (na redacção das Leis 101/89, de 29-Dez, 109-B/2001, de 27-Dez, 67-A/2007, de 31-Dez e 64-A/2008,\
+    \ de 31-Dez), 13.º (rectificado pela Decl DD3805, de 28-Fev 1989, na redacção do Dec Lei 37/95, de 14-Fev e das Leis 10-B/96,\
+    \ de 23-Mar, 30-G/2000, de 29-Dez e 32-B/2002, de 30-Dez), 17.º-A (aditado pela LEI.64-A/2008, de 31-Dez), 25.º (na redacção\
+    \ das Leis 101/89, de 29-Dez, 65/90, de 28-Dez, 2/92, de 09-Mar, 30-C/92, de 28-Dez, 75/93, de 20-Dez, 39-B/94, de 27-Dez,\
+    \ da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez, 87-B/98, de 31-Dez, 3-B/2000, de 04-Abr,\
+    \ 30-C/2000, de 29-Dez, 109-B/2001, de 27- Dez e 32-B/2002, de 30-Dez), 46.º (na redacção da LEI.30-G/2000,29-Dez), 53.º\
+    \ (na redacção das Leis 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005,\
+    \ de 30-Dez, 53-A/2006, de 29-Dez, 67-A/2007 de 31-Dez e 3-B/2010, de 28-Abr), 55.º (na redacção da Lei 101/89, de 29-Dez,\
+    \ dos Dec Lei 206/90, de 26-Jun e 331/90, de 29-Out, das Leis 65/90, de 28-Dez, 2/92, de 09-Mar, 30-C/92, de 28-Dez, 71/93,\
+    \ de 26-Nov, 75/93, de 20-Dez, 39-B/94, de 27-Dez, 10-B/96, de 23-Mar, 52-C/96, de 27-Dez, 127-B/97, de 20-Dez, 85/98,\
+    \ de 16-Dez, 87-B/98, de 31-Dez, 109-B/2001, de 27-Dez, do Dec Lei 228/2002, de 31-Out, da Lei 32-B/2002, de 30-Dez, do\
+    \ Dec Lei 238/2006, de 20-Dez e das Leis 64-A/2008 de 31-Dez e 3-B/2010, de 28-Abr), 68.º (na redacção dos Dec Lei 7/96,\
+    \ de 07-Fev, 23/97, de 23-Jan, 472/99, de 08-Nov, das Leis 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de\
+    \ 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez, 67-A/2007, de 31-Dez, 64-A/2008 de 31-Dez,\
+    \ 3-B/2010, de 28-Abr, 11/2010 de 15-Jun e 12-A/2010, de 30-Jun), 71.º (na redacção das Leis 101/89, de 29-Dez, 65/90,\
+    \ de 28-Dez, 2/92, de 09-Mar, 30-C/92, de 28-Dez, 75/93, de 20-Dez, 39-B/94, de 27-Dez, 10-B/96, de 23-Mar, 52-C/96, de\
+    \ 27-Dez, 127-B/97, de 20-Dez, 87-B/98, de 31-Dez, 3-B/2000, de 04-Abr, 30-C/2000, de 29-Dez, 109-B/2001, de 27-Dez, 16-A/2002,\
+    \ de 31-Mai, 32-B/2002, de 30-Dez, do Dec Lei 192/2005, de 07-Nov, das Leis 67-A/2007, de 31-Dez e 64-A/2008, de 31-Dez,\
+    \ Dec Lei 175/2009 de 04-Ag, da Lei 3-B/2010 de 28-Abr e da Lei 12-A/2010, de 30-Jun), 72º (na redacção do Dec Lei 267/91\
+    \ de 06-Ago, da Lei 10-B/96 de 23-Mar, da Lei 52-C/96 de 27-Dez, da Lei 109-B/2001 de 27-Dez, do Dec Lei 228/2002, de\
+    \ 31-Out, da Lei 32-B/2002 de 30-Dez, da Lei 55-B/2004 de 30-Dez, da Lei 192/2005 de 07-Nov, da Lei 53-A/2006, de 29-Dez,\
+    \ da Lei 67-A/2007 de 31-Dez, da Lei 94/2009 01-Set, do Dec Lei 249/2009 de 23-Set, da Lei 3-B/2010 de 28-Abr e da Lei\
+    \ 15/2010, de 26-Jul), 78.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 7/96,\
+    \ de 07- Fev, e das Leis 30-G/2000, de 29-Dez, 109-B/2001, de 27-Dez, 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004,\
+    \ de 30-Dez, do Dec Lei 62/2005, de 11-Mar e das Leis 53-A/2006, de 29-Dez, 64/2008 de 05-Dez e 64-A/2008, de 31-Dez),\
+    \ 79.º (na redacção do Dec Lei 354/89, de 17-Out, do Dec Lei 206/90, de 26-Jun, do Dec Lei 267/91, de 06-Ago, do Dec Lei\
+    \ 67/99, de 11-Mar, da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez, da Lei 53-A/2006,\
+    \ de 29-Dez, da Lei 67-A/2007 de 31-Dez e da Lei 103/2009, de 11-Set), 82.º (na redacção das Leis 67-A/2007 de 31-Dez,\
+    \ 53-A/2006 de 29-Dez, 60-A/2005 de 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez, 32-B/2002, de 30-Dez, 109-B/2001,\
+    \ de 27-Dez, Lei 64-A/2008 de 31-Dez, 103/2009 de 11-Set e 3-B/2010, de 28-Abr), 83.º (na redacção do Dec Lei 354/89,\
+    \ de 17-Out, do Dec Lei 7/96, de 07-Fev, do Dec Lei 472/99, de 08-Nov, da Lei 109-B/2001, de 27-Dez e das Leis 32-B/2002,\
+    \ de 30-Dez, 60-A/2005 de 30-Dez e 103/2009, de 11-Set), 83.º-A (aditado pela Lei 64-A/2008, de 31-Dez), 84.º (na redacção\
+    \ dos Dec Lei 206/90, de 26-Jun, 267/91, de 06-Ago, 472/99, de 08-Nov, das Leis 30-G/2000, de 29-Dez, 109-B/2001, de 27-Dez,\
+    \ 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez, 60-A/2005, de 30-Dez, 53-A/2006, de 29-Dez e 67-A/2007\
+    \ de 31-Dez e 3-B/2010, de 28-Abr), 87.º ( renumerado, na redacção do Dec Lei 198/2001, de 03-Jul, da Lei 109-B/2001,\
+    \ de 27-Dez, da Lei 32-B/2002, de 30-Dez, da Lei 107-B/2003, de 31-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 53-A/2006,\
+    \ de 29-Dez , da Lei 67-A/2007, de 31-Dez, da Lei 64-A/2008, de 31-Dez e do Dec Lei 292/2009, de 13-Out), 88.º (na redacção\
+    \ da LEI.101/89, de 29-Dez), 98.º (na redacção da Lei 109-B/2001, de 27-Dez, da Lei 16-A/2002, de 31-Mai, da Lei 32-B/2002,\
+    \ de 30-Dez e do Dec Lei 238/2006, 20-Dez),100.º (na redacção das Leis 67-A/2007 de 31-Dez, 53-A/2006 de 29-Dez, 60-A/2005\
+    \ de 30-Dez, 55-B/2004 de 30-Dez, 107-B/2003, de 31-Dez, 32-B/2002, de 30-Dez, 109-B/2001, de 27-Dez e 3-B/2010, de 28-Abr,\
+    \ da Lei 64-A/2008, de 31-Dez e do Dec Lei 292/2009, de 13-Out ) e 127.º ( renumerado, na redacção das Leis 67-A/2007\
+    \ de 31-Dez e 10-B/96 de 23-Mar e 64-A/2008, de 31-Dez) e revogados os arts. 85º-A e 86º ( o último nos termos do art.\
+    \ 97º ), todos do Código do Imposto sobre o Rendimentos das Pessoas Singulares, aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:671669:por
+  label: "Aditados os art.s 72º-A e 99º-A ao presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela\
+    \ LEI.49/2011.07.09.2011.AR, DR.IS [172] de 07.09.2011, que se aplicam nos termos do nº 3 do seu art. 2º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-2011-671669
+  date: '2011-09-07'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRS – PARTE 2 (CONTINUAÇÃO) – Alterados os art.s 72º (na redacção do Dec Lei\
+    \ 267/91, de 06-Ago, Lei 10-B/96, de 23-Mar, Lei 52-C/96, de 27-Dez, Lei 109-B/2001, de 27-Dez, Dec Lei 228/2002, de 31-Out,\
+    \ Lei 32-B/2002, de 30-Dez, Lei 55-B/2004, de 30-Dez, Dec Lei 192/2005, de 07-Nov, Lei 53-A/2006, de 29-Dez, Lei 67-A/2007,\
+    \ de 31-Dez, Lei 94/2009, de 01-Set, Dec Lei 249/2009, de 23-Set, Lei 3-B/2010, de 28-Abr, Lei 15/2010, de 26-Jul, e Lei\
+    \ 55-A/2010, de 31-Dez), 77º (na redacção do Dec Lei 354/89, de 17-Out, Lei 53-A/2006, de 29-Dez, e Lei 3-B/2010, de 28-Abr),\
+    \ 78º (na redacção do Dec Lei 354/89, de 17-Out, Dec Lei 206/90, de 26-Jun, Dec Lei 7/96, de 07-Fev, Lei 30-G/2000, de\
+    \ 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de 31-Dez, Lei 55-B/2004, de 30-Dez, Dec\
+    \ Lei 62/2005, de 11-Mar, Lei 53-A/2006, de 29-Dez, Lei 64/2008, de 05-Dez, Lei 64-A/2008, de 31-Dez, e Lei 55-A/2010,\
+    \ de 31-Dez), 82º (na redacção da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de 31-Dez, Lei\
+    \ 55-B/2004, de 31-Dez, Lei 60-A/2005, de 30-Dez, Lei 53-A/2006, de 29-Dez, Lei 67-A/2007, de 31-Dez, Lei 64-A/2008, de\
+    \ 31-Dez, Lei 103/2009, de 11-Set, Lei 3-B/2010, de 28-Abr, e Lei 55-A/2010, de 31-Dez), 83º-A (na redacção da Lei 64-A/2008,\
+    \ de 31-Dez, e Lei 55-A/2010, de 31-Dez), 85º (na redacção da Lei 75/93, de 20-Dez, Dec Lei 472/99, de 08-Nov, Lei 85/2001,\
+    \ de 04-Ago, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de 31-Dez, Lei 55-B/2004, de 30-Dez,\
+    \ Lei 60-A/2005, de 30-Dez, Lei 53-A/2006, de 29-Dez, Lei 67-A/2007, de 31-Dez, Lei 64/2008, de 05-Dez, Lei 64-A/2008,\
+    \ de 31-Dez, e Lei 3-B/2010, de 28-Abr), 87º (na redacção da Lei 472/99, de 08-Nov, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002,\
+    \ de 30-Dez, Lei 107-B/2003, de 31-Dez, Lei 55-B/2004, de 30-Dez, Lei 53-A/2006, de 29-Dez, Lei 67-A/2007, de 31-Dez,\
+    \ Lei 64-A/2008, de 31-Dez, Dec Lei 292/2009, de 13-Out, e Lei 55-A/2010, de 31-Dez), 92º (na redacção do Dec Lei 206/90,\
+    \ de 26-Jun, Lei 65/90, de 28-Dez, Lei 39-B/94, de 27-Dez, Lei 3-B/2000, de 04-Abr, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001,\
+    \ de 27-Dez, e 3-B/2010, de 28-Abr), 97º (na redacção do Dec Lei 267/91, de 06-Ago, e Lei 53-A/2006, de 29-Dez), 101º\
+    \ (na redacção do Dec Lei 7/96, de 07-Fev, Lei 109-B/2001, de 27-Dez, Lei 16-A/2002, de 31-Maio, Lei 228/2002, de 31-Out,\
+    \ Lei 32-B/2002, de 30-Dez, Dec Lei 80/2003, de 23-Abr, Dec Lei 192/2005, de 07-Nov, Lei 3-B/2010, de 28-Abr, e Lei 12-A/2010,\
+    \ de 30-Jun), 115º (rectificado pela Decl DD3805, de 28-Fev de 1989, e na redacção do Dec Lei 377/90, de 30-Nov, Lei 30-G/2000,\
+    \ de 29-Dez, e Lei 3-B/2010, de 28-Abr), 117º (na redacção do Dec Lei 257-B/96, de 31-Dez, Lei 87-B/98, de 31-Dez, Dec\
+    \ Lei 486/99, de 13-Nov, Lei 3-B/2000, de 04-Abr, e Lei 30-G/2000, de 29-Dez), 119º (na redacção da Lei 109-B/2001, de\
+    \ 27-Dez, Lei 16-A/2002, de 31-Maio, Lei 32-B/2002, de 30-Dez, Dec Lei 17/2004, de 15-Jan, Dec Lei 238/2006, de 20-Dez,\
+    \ Dec Lei 361/2007, de 02-Nov, Lei 72-A/2010, de 18-Jun, e Lei 15/2010, de 26-Jul), 127º (na redacção da Lei 10-B/96,\
+    \ de 23-Mar, Lei 67-A/2007, de 31-Dez, Lei 64-A/2008, de 31-Dez, Dec Lei 292/2009, de 13-Out, e Lei 55-A/2010, de 31.Dez)\
+    \ e 130º, aditados os art.s 40º-B, 68º-A e 121º e revogados a al. b) do art. 77º, nº 6 do art. 85º, al. b) do nº 1 do\
+    \ art. 97º, nº 3 do art. 115º e nº 13 do art. 119º do Código do IRS - revisto e republicado pelo Dec Lei 198/2001, de\
+    \ 03-Jul -, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 16º ( na redação das Leis 109-B/2001, de 27-dez e 60-A/2005, de 30-dez e do Dec Lei 249/2009, de\
+    \ 23-Set) do Código do IRS, aprovado pelo presente diploma, pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.2012,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-jul \0ul \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterado, a partir de 01.01.2013, o art. 115º (retificado pela Decl DD3805, de 28-fev 1989, e na redação do Dec\
+    \ Lei 377/90, de 30-nov, Lei 30-G/2000, de 29-dez, Lei 3-B/2010, de 28-abr, e Lei 64-B/2011, de 30-dez) do Código do IRS,\
+    \ aprovado pelo presente diploma - revisto e republicado pelo Dec Lei 198/2001, de 03-jul -, pelo DEC LEI.197/2012.24.08.2012.MF,\
+    \ DR.IS [164] de 24.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterados, a partir de 30.10.2012, o art. 71º (na redacção da Lei 101/89, de 29-dez, Lei 65/90, de 28-dez, Lei 2/92,\
+    \ de 09-mar, Lei 30-C/92, de 28-dez, Lei 75/93, de 20-dez, Lei 39-B/94, de 27-dez, Lei 10-B/96, de 23-mar, Lei 52-C/96,\
+    \ de 27-dez, Lei 127-B/97, de 20-dez, Lei 87-B/98, de 31-dez, Lei 3-B/2000, de 04-aAbr, Lei 30-C/2000, de 29-dez, Lei\
+    \ 109-B/2001, de 27-dez, Lei 16-A/2002, de 31-maio, Lei 32-B/2002, de 30-dez, Dec Lei 192/2005, de 07-nov, Lei 67-A/2007,\
+    \ de 31-dez, Lei 64-A/2008, de 31-dez, Dec Lei 175/2009, de 04-ago, Lei 3-B/2010, de 28-abr, Lei 12-A/2010, de 30-jun,\
+    \ Lei 55-A/2010, de 31-dez e Lei 64-B/2011, de 30-dez) e com produção de efeitos desde 01.01. 2012, o art. 72º (na redacção\
+    \ do Dec Lei 267/91, de 06-ago, Lei 10-B/96, de 23-mar, Lei 52-C/96, de 27-dez, Lei 109-B/2001, de 27-dez, Dec Lei 228/2002,\
+    \ de 31-out, Lei 32-B/2002, de 30-dez, Lei 55-B/2004, de 30-dez, Dec Lei 192/2005, de 07-nov, Lei 53-A/2006, de 29-dez,\
+    \ Lei 67-A/2007, de 31-dez, Lei 94/2009, de 01-set, Dec Lei 249/2009, de 23-set, Lei 3-B/2010, de 28-abr, Lei 15/2010,\
+    \ de 26-jul, Lei 55-A/2010, de 31-dez e Lei 64-B/2011, de 30-dez) do Código do IRS, aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-jul e Lei 64-B/2011, de 30-dez, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl]\
+    \ de 29.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 2º (alterado pelos Dec Lei 215/89 de 01-jul e 206/90 de 26-jun, pelas Leis 39-B/94 de\
+    \ 27-dez, 3-B/2000 de 04-abr, 30-G/2000 de 29-dez, 109-B/2001 de 27-dez, 16-A/2002 de 31-mai, 64-A/2008 de 31-dez, 100/2009\
+    \ de 07-set e 64-B/2011 de 30-dez), 16º (alterado pelas Leis 109-B/2001 de 27-dez e 60-A/2005 de 30-dez, pelo Dec Lei\
+    \ 249/2009 de 23-set e pela Lei 20/2012 de 14-mai), 22º (alterado pela Lei 109-B/2001 de 27-dez, pelo Dec Lei 228/2002\
+    \ de 31-out, pelas Leis 32-B/2002 de 30-dez e 67-A/2007 de 31-dez, e pelo Dec Lei 249/2009 de 23-set), 25º (alterado pelas\
+    \ Leis 101/89 de 29-dez, 65/90 de 28-dez, 2/92 de 09-mar, 30-C/92 de 28-dez, 75/93 de 20-dez, 39-B/94 de 27-dez, 10-B/96\
+    \ de 23-mar, 52-C/96 de 27-dez, 127-B/97 de 20-dez, 87-B/98 de 31-dez, 3-B/2000 de 04-abr, 30-C/2000 de 29-dez, 109-B/2001\
+    \ de 27-dez, 32-B/2002 de 30-dez e 55-A/2010 de 31-dez), 31º (alterado pelas Leis 30-G/2000 de 29-dez, 109-B/2001 de 27-dez\
+    \ e 32-B/2002 de 30-dez, pelos Dec Lei 287/2003 de 12-nov, e pelas Leis 60-A/2005 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007\
+    \ de 31-dez e 3-B/2010 de 28-abr), 41º (alterado pelo Dec Lei 207/90 de 26-jun e pelas Leis 30-G/2000 de 29-dez e 64-B/2011\
+    \ de 30-dez), 68º (alterado pelos Dec Lei 7/96 de 07-fev, 23/97 de 23-jan, 472/99 de 08-nov, e pelas Leis 109-B/2001 de\
+    \ 27-dez, 32-B/2002 de 30-dez, 107-B/2003 de 31-dez, 55-B/2004 de 30-dez, 60-A/2005 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007\
+    \ de 31-dez, 64-A/2008 de 31-dez, 3-B/2010 de 28-abr, 11/2010 de 15-jun, 12-A/2010 de 30-jun e 55-A/2010 de 31-dez), 68º-A\
+    \ (aditado pela Lei 64-B/2011 de 30-dez,), 71º (alterado pelas Leis 101/89 de 29-dez, 65/90 de 28-dez, 2/92 de 09-mar,\
+    \ 30-C/92 de 28-dez, 75/93 de 20-dez, 39-B/94 de 27-dez, 10-B/96 de 23-mar, 52-C/96, de 27-dez, 127-B/97 de 20-dez, 87-B/98\
+    \ de 31-dez, 3-B/2000 de 04-abr, 30-C/2000 de 29-dez, 109-B/2001 de 27-dez, 16-A/2002 de 31-maio e 32-B/2002 de 30-dez,\
+    \ pelo Dec Lei 192/2005 de 07-nov, pelas Leis 67-A/2007 de 31-dez, 64-A/2008 de 31-dez, pelos Dec Lei 175/2009 de 04-ago,\
+    \ pelas Lei 3-B/2010 de 28-abr, 12-A/2010 de 30-jun, 55-A/2010 de 31-dez, 64-B/2011 de 30-dez e 55-A/2012 de 29-dez),\
+    \ 72º (alterado pelo Dec Lei 267/91 de 06-ago, pelas Leis 10-B/96 de 23-mar, 52-C/96 de 27-dez e 109-B/2001 de 27-dez,\
+    \ pelo Dec Lei 228/2002 de 31-out, pelas Leis 32-B/2002 de 30-dez e 55-B/2004 de 30-dez, pelo Dec Lei 192/2005 de 07-nov,\
+    \ pelas Leis 53-A/2006 de 29-dez, 67-A/2007 de 31-dez e 94/2009 de 01-set, pelo Dec Lei 249/2009 de 23-set, pelas Lei\
+    \ 3-B/2010 de 28-abr, 15/2010 de 26-jul, 55-A/2010 de 31-dez , 64-B/2011 de 30-dez e 55-A/2012 de 29-out), 78º (alterado\
+    \ pelos Dec Lei 354/89 de 117-out, 206/90 de 26-jun, 7/96 de 07-jun, pelas Leis 30-G/2000 de 29-dez, 109-B/2001 de 27-dez,\
+    \ 32-B/2002 de 30-dez, 107-B/2003 de 31-dez e 55-B/2004 de 30-dez, pelo Dec Lei 62/2005 de 11-mar, pela Lei 53-A/2006\
+    \ de 20-dez, 64/2008 de 05-dez, 64-A/2008 de 31-dez, 55-A/2010 de 31-dez e 64-B/2011 de 30-dez), 79º (alterado pelos Dec\
+    \ Lei 354/89 de 11-out, 206/90 de 26-jun,267/91 de 06-ago, 67/99 de 11-mar, pelas Leis 32-B/2002 de 30-dez, 55-B/2004\
+    \ de 30-dez, 60-A/2005 de 30-dez, 53-A/2006 de 20-dez, 67-A/2007 de 31-dez, 103/2009 de 11-set e 55-A/2010 de 31-dez),\
+    \ 81º (alterado pelo Dec Lei 354/89 de 11-out, pela Lei 39-A/2005 de 29-jul, pelo Dec Lei 249/2009 de 23-set), 83º (alterado\
+    \ pelos Dec Lei 354/89 de 11-out, 7/96 de 07-fev, 472/99 de 08-nov, pelas Leis 109-B/2001 de 27-dez, 32-B/2002, de 30-dez,\
+    \ 60-A/2005 de 30-dez, 103/2009 de 11-set e 55-A/2010 de 31-dez), 85º (alterado pela Lei 75/93 de 20-dez, pelo Dec Lei\
+    \ 472/99 de 08-nov, pelas Leis 109-B/2001 de 27-dez, 32-B/2002, de 30-dez, 107-B/2003 de 31-dez, 55-B/2004 de 30-dez,\
+    \ 60-A/2005 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007 de 31-dez, 64/2008 de 05-dez, 64-A/2008 de 31-dez, 3-B/2010 de 28-abr\
+    \ e 64-B/2011 de 30-dez), 88º (alterado pelas Leis 101/89 de 29-dez e 55-A/2010 de 31-dez), 101º (alterado pelo Dec Lei\
+    \ 7/96 de 07-fev, pelas Leis 109-B/2001 de 27-dez, 16-A/2002 de 31-mai, pelo Dec Lei 228/2002 de 31-out, pela Lei 32-B/2002\
+    \ de 30-dez, pelo Dec Lei 80/2003 de 23-abr, pelo Dec Lei 192/2005 de 07-nov, pela Lei 3-B/2010 de 28-abr, 12-A/2010 de\
+    \ 30-jun e 64-B/2011 de 30-dez), 119º (alterado pela Lei 109-B/2001 de 27-dez e 16-A/2002 de 31-mai, 32-B/2002 de 30-dez,\
+    \ pelos Dec Lei 17/2004 de 15-jan, 238/2006 de 20-dez, 72-A/2010 de 18-jun, pela Lei 12-A/2010 de 30-jun, pelos Dec Lei\
+    \ 238/2006 de 20-dez, 361/2007 de 02-nov e 72-A/2010 de 18-Jun, e pelas Leis 15/2010 de 26-jul, 64-B/2011 de 30-dez) e\
+    \ 124º (alterado pelo Dec Lei 472/99 de 08-nov e pela Lei 109-B/2001 de 27-dez); e revogada a al. c) do nº 7 do art. 85º\
+    \ do Código do IRS, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-jul, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\031.12.2012\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:256471:por
+  label: "Consideradas reportadas ao diretor da Unidade dos Grandes Contribuintes da Autoridade Tributária e Aduaneira, relativamente\
+    \ aos grandes contribuintes, as competências remetidas, expressa ou implicitamente, para os diretores de finanças e para\
+    \ o diretor dos Serviços de Inspeção Tributária, constantes do Código do Imposto sobre o Rendimento das Pessoas Singulares\
+    \ (IRS), pelo DEC LEI.6/2013.17.01.2013.MF, DR.IS [12] de 17.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2013-256471
+  date: '2013-01-17'
+- type: amended_by
+  target: pt:dre:498764:por
+  label: "Alterado o art. 115.º (retificado pela Decl DD3805, de 28-fev 1989, e na redação do Dec Lei 377/90, de 30-nov, Lei\
+    \ 30-G/2000, de 29-dez, Lei 3-B/2010, de 28-abr, Lei 64-B/2011, de 30-dez, e Dec Lei 197/2012, de 24-ago.) do Código do\
+    \ IRS, revisto e republicado pelo Dec Lei 198/2001 de 03-jul, pela LEI.51/2013.24.07.2013.AR, DR.IS [141] de 24.07.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-2013-498764
+  date: '2013-07-24'
+- type: amended_by
+  target: pt:dre:498733:por
+  label: "Dada nova redação ao art. 12º (alterado pelas Leis 101/89 de 29-dez, 109-B/2001 de 27-dez, 67-A/2007 de 31-dez e\
+    \ 64-A/2008 de 31-dez, pelo Dec Lei 292/2009 de 13-out, e pela Lei 55-A/2010 de 31-dez) do Código sobre o Rendimento das\
+    \ Pessoas Singulares, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-jul, pela LEI.53/2013.26.07.2013.AR,\
+    \ DR.IS [143] de 26.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-2013-498733
+  date: '2013-07-26'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: "Alterados os arts. 2.º (na redação dos Decs Lei 215/89 de 01-jul e 206/90 de 26-jun, e das Leis 39-B/94 de 27-dez,\
+    \ 3-B/2000 de 04-abr, 30-G/2000 de 29-dez, 109-B/2001 de 27-dez, 16-A/2002 de 31-mai, 64-A/2008 de 31-dez, 100/2009 de\
+    \ 07-set, 64-B/2011 de 30-dez e 66-B/2012, de 31-dez), 5º (na redacção dos Dec Lei 141/92, de 17-jul e 257-B/96, de 31-dez,\
+    \ das Lei 30-G/2000, de 29-dez, Lei 109-B/2001, de 27-dez, Lei 32-B/2002, de 30-dez, Lei 67-A/2007, de 31-dez, do Dec\
+    \ Lei 292/2009, de 13-out e da Lei 64-B/2011, de 30-dez),10.º(na redacção dos Decs Lei 206/90, de 26-jun, 141/92, de 17-jul,\
+    \ e 263/92, de 24-nov, da Lei 30-C/92, de 28-dez, do Dec Lei 6/93, de 09-jan, da Lei 75/93, de 20-dez, da Rect 4/94, de\
+    \ 19-fev, das Leis 39-B/94, de 27-dez e 10-B/96, de 23-mar, dos Decs Lei 25/98, de 10-fev e 366/98, de 23-nov, das Leis\
+    \ 87-B/98, de 31-dez, 3-B/2000, de 04-abr e 30-G/2000, de 29-dez, do Dec Lei 221/2001, de 07-ago, da Lei 109-B/2001, de\
+    \ 27-dez, do Dec Lei 228/2002, de 31-out, das Leis 32-B/2002, de 30-dez e 39-A/2005, de 29-jul, dos Decs Lei 211/2005,\
+    \ de 07-dez e 361/2007, de 02-nov e das Leis 64-A/2008, de 31-dez, 15/2010, de 26-jul e 64-B/2011, de 30-dez), 13.º (rectificado\
+    \ pela Decl DD3805, de 28-Fev de 1989 e na redacção do Dec Lei 37/95, de 14-fev, das Leis 10-B/96, de 23-mar, 30-G/2000,\
+    \ de 29-dez, 32-B/2002, de 30-dez, 55-A/2010, de 31-dez e 64-B/2011, de 30-dez), 17.º-A (aditado pela LEI.64-A/2008, de\
+    \ 31-dez, na redação da Lei 55-A/2010, de 31-dez), 22.º (na redação da Lei 109-B/2001 de 27-dez, do Dec Lei 228/2002 de\
+    \ 31-out, das Leis 32-B/2002 de 30-dez e 67-A/2007 de 31-dez, do Dec Lei 249/2009 de 23-set e da Lei 66-B/2012, de 31-dez),\
+    \ 28.º (na redacção do Dec Lei 472/99, de 08-nov, das Leis 30-G/2000, de 29-dez, 109-B/2001, de 27-dez, 32-B/2002, de\
+    \ 30-dez, do Dec Lei 211/2005, de 07-dez e das Leis 53-A/2006, de 29-dez, 64-A/2008 de 31-dez e 3-B/2010, de 28-abr),\
+    \ 31.º (na redação das Leis 30-G/2000 de 29-dez, 109-B/2001 de 27-dez e 32-B/2002 de 30-dez, do Dec Lei 287/2003 de 12-nov,\
+    \ e das Leis 60-A/2005 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007 de 31-dez, 3-B/2010 de 28-abr e 66-B/2012, de 31-dez),\
+    \ 40.º-A (na redacção das Leis 30-G/2000 de 29-dez, 109-B/2001, de 27-dez, 16-A/2002, de 31-mai e 55-B/2004, de 30-dez\
+    \ e do Dec Lei 192/2005, de 07-nov), 55.º(na redação da Lei 101/89, de 29-dez, dos Decs Lei 206/90, de 26-jun e 331/90,\
+    \ de 29-out, das Leis 65/90, de 28-dez, 2/92, de 09-mar, 30-C/92, de 28-dez, 71/93, de 26-nov, 75/93, de 20-dez, 39-B/94,\
+    \ de 27-dez, 10-B/96, de 23-mar, 52-C/96, de 27-dez, 127-B/97, de 20-dez, 85/98, de 16-dez, 87-B/98, de 31-dez e 109-B/2001,\
+    \ de 27-dez, dos Decs Lei 228/2002, de 31-out, 32-B/2002, de 30-dez, e 238/2006, de 20-dez e das Leis 64-A/2008, de 31-dez,\
+    \ 3-B/2010, de 28-abr, 55-A/2010, de 31-dez e 64-B/2011, de 30-dez), 73º (na redacção das Leis 114/88, de 30-dez, 87-B/98,\
+    \ de 31-dez, 3-B/2000, de 04-abr, 30-C/2000, de 29-dez, 109-B/2001, de 27-dez, 16-A/2002, de 31-mai, 55-B/2004, de 30-dez,\
+    \ 67-A/2007, de 31-dez e 64/2008, de 05-dez), 78º (na redação dos Decs Lei 354/89 de 17-out, 206/90 de 26-jun e 7/96 de\
+    \ 07-jun, das Leis 30-G/2000 de 29-dez, 109-B/2001 de 27-dez, 32-B/2002 de 30-dez, 107-B/2003 de 31-dez e 55-B/2004 de\
+    \ 30-dez, do Dec Lei 62/2005 de 11-mar, e das Leis 53-A/2006 de 20-dez, 64/2008 de 05-dez, 64-A/2008 de 31-dez, 55-A/2010\
+    \ de 31-dez, 64-B/2011 de 30-dez e 66-B/2012, de 31-dez), 81º (na redação do Dec Lei 354/89 de 11-out, da Lei 39-A/2005\
+    \ de 29-jul, do Dec Lei 249/2009 de 23-set e Lei 66-B/2012, de 31-dez) e 102.º (na redacção da Lei 109-B/2001, de 27-dez,\
+    \ do Dec Lei 160/2003, de 19-jul, da Lei 67-A/2007 de 31-dez e da Lei 12-A/2010, de 30-jun) e revogado o nº 5 do art.\
+    \ 31º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-jul, pela LEI.83-C/2013.31.12.2013.AR, DR.IS [253-Supl] de 31.12.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: "Dada nova redação ao art. 32.º (alterado pelo Dec Lei 141/92 de 17-jul, pela Lei 30-G/2000 de 29-dez e pelo Dec\
+    \ Lei 287/2003 de 12-nov) do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS) pela LEI.2/2014.16.01.2014.AR,\
+    \ DR.IS [11] de 16.01.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Dada nova redação ao art 73.º (alterado pela Lei 114/88 de 30-dez, pela Lei 87-B/98 de 31-dez, pela Lei 3-B/2000
+    de 04-abr, pela Lei 30-C/2000 de 29-dez, pela Lei 109-B/2001 de 27-dez, pela Lei 16-A/2002 de 31-mai, pela Lei 55-B/2004
+    de 30-dez, pela Lei 67-A/2007 de 31-dez, pela Lei 64/2008 de 05-dez, e pela Lei 83-C/2013 de 31-dez) do Código do Imposto
+    sobre o Rendimento das Pessoas Singulares (CIRS), aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001
+    de 03-jul, pelo(a) Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022085:por
+  label: Alterados os arts. 2.º (na redação das Leis 109-B/2001 de 27-dez, 16-A/2002 de 31-mai, 64-A/2008 de 31-dez, 100/2009
+    de 07-set, 64-B/2011 de 30-dez, 66-B/2012, de 31-dez e 83-C/2013, de 31-dez), 3.º (na redação das Leis 109-B/2001, de
+    27-dez, 32-B/2002, de 30-dez, 3-B/2010, de 28-abr e 64-B/2011, de 30-dez), 4.º (na redação da Lei 109-B/2001, de 27-dez),
+    5.º (na redação das Leis 109-B/2001, de 27-dez, 32-B/2002, de 30-dez, 67-A/2007, de 31-dez, do Dec Lei 292/2009, de 13-out,
+    da Lei 64-B/2011, de 30-dez e da Lei 83-C/2013, de 31-dez), 6.º, 8.º, 9.º (o último na redação das Leis 32-B/2002, de
+    30-dez, 107-B/2003, de 31-dez, 55-B/2004, de 30-dez, 60-A/2005, de 30-dez, 67-A/2007, de 31-dez e 64-A/2008, de 31-dez
+    e do Dec Lei 175/2009, de 04-ago), 10.º (na redação do Dec Lei 221/2001, de 07-ago, da Lei 109-B/2001, de 27-dez, do Dec
+    Lei 228/2002, de 31-out, das Leis 32-B/2002, de 30-dez e 39-A/2005, de 29-jul, dos Decs Leis 211/2005, de 07-dez e 361/2007,
+    de 02-nov e das Leis 64-A/2008, de 31-dez, 15/2010, de 26-jul, 64-B/2011, de 30-dez e 83-C/2013, de 31-dez), 11.º, 12.º
+    (este último alterado pelas Leis 109-B/2001 de 27-dez, 67-A/2007 de 31-dez e 64-A/2008 de 31-dez, pelo Dec Lei 292/2009
+    de 13-out e pelas Lei 55-A/2010 de 31-dez, 51/2013, de 24-ju e 53/2013, de 26-jul), 13.º (na redação das Leis 32-B/2002,
+    de 30-dez, 55-A/2010, de 31-dez, 64-B/2011, de 30-dez, 83-C/2013, de 21-dez e 83-C/2013, de 31-dez),14.º, 15.º, 16.º (este
+    último alterado pelas Leis 109-B/2001 de 27-dez e 60-A/2005 de 30-dez, pelo Dec Lei 249/2009 de 23-set e pelas Leis 20/2012
+    de 14-mai e 66-B/2012, de 31-dez), 17.º-A (aditado pela LEI.64-A/2008, de 31-dez, na redação das Leis 55-A/2010, de 31-dez
+    e 83-C/2013, de 31-dez), 18.º (na redação das Leis 109-B/2001, de 27-dez e 32-B/2002, de 30-dez), 20.º (na redação das
+    Leis 64-A/2008, de 31-dez e 64-B/2011, de 30-dez), 22.º (na redação da Lei 109-B/2001 de 27-dez, do Dec Lei 228/2002 de
+    31-out, das Leis 32-B/2002 de 30-dez e 67-A/2007 de 31-dez, do Dec Lei 249/2009 de 23-set e das Leis 66-B/2012, de 31-dez
+    e 83-C/2013, de 21-dez), 24.º (na redação das Leis 109-B/2001, de 27-dez, 32-B/2002, de 30-dez e 64-B/2011, de 30-dez),
+    25.º (na redação das Leis 109-B/2001 de 27-dez, 32-B/2002 de 30-dez, 55-A/2010 de 31-dez e 66-B/2012, de 31-dez), 28.º
+    (na redação das Leis 109-B/2001, de 27-dez, 32-B/2002, de 30-dez, do Dec Lei 211/2005, de 07-dez e das Leis 53-A/2006,
+    de 29-dez, 64-A/2008 de 31-dez, 3-B/2010,de 28-abr e 83-C/2013, de 31-dez), 30.º (na redação das Leis 32-B/2002 de 30-dez
+    e 3-B/2010, de 28-abr), 31.º(na redação das Leis 109-B/2001 de 27-dez e 32-B/2002 de 30-dez, do Dec Lei 287/2003 de 12-nov
+    e das Leis 60-A/2005 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007 de 31-dez, 3-B/2010 de 28-abr, 66-B/2012, de 31-dez e 83-C/2013,
+    de 31-dez), 31.º-A (aditado pelo Dec Lei 287/2003, de 12-nov, na redação do Dec Lei 238/2006, de 20-dez e das Leis Lei
+    53-A/2006, de 29-dez e 64-B/2011, de 30-dez), 33.º(na redação da Lei 109-B/2001, de 27-dez), 38.º(na redação das Leis
+    109-B/2001, de 27-dez, 16-A/2002, de 31-mai e 64-B/2011, de 30-dez), 40.º-A (aditado pela Lei 109-B/2001, de 27-dez, na
+    redação das Leis 16-A/2002, de 31-mai e 55-B/2004, de 30-dez, do Dec Lei 192/2005, de 07-nov e da Lei 83-C/2013, de 31-dez),
+    41.º (na redação da Lei 66-B/2012, de 31-dez), 43.º (na redação do Dec Lei 221/2001, de 07-ago, da Lei 109-B/2001, de
+    27-dez, do Dec Lei 228/2002, de 31-out e das Leis 32-B/2002, de 30-dez, 15/2010, de 26-jul e 64-B/2011, de 30-dez), 44.º
+    e 48.º (ambos na redação da Lei 109-B/2001, de 27-dez), 49.º, 50.º, 51.º, 52.º, 53.º (este último na redação das Leis
+    109-B/2001, de 27-dez, 32-B/2002, de 30-dez, 107-B/2003, de 31-dez, 55-B/2004, de 30-dez, 60-A/2005, de 30-dez, 53-A/2006,
+    de 29-dez, 67-A/2007 de 31-dez, 3-B/2010, de 28-abr, 55-A/2010, de 31-dez e 64-B/2011, de 30-dez), 55.º (na redação da
+    Lei 109-B/2001, de 27-dez, do Dec Lei 228/2002, de 31-out, da Lei 32-B/2002, de 30-dez, do Dec Lei 238/2006, de 20-dez,
+    da Lei 64-A/2008, de 31-dez, da Lei 3-B/2010, de 28-abr, da Lei 55-A/2010, de 31-dez e da Lei 83-C/2013, de 31-dez), 57.º
+    (na redação do Dec Lei 238/2006, de 20-dez e do Dec Lei 361/2007, de 02-nov), 58.º (na redação do Dec Lei 238/2006 de
+    20-dez e da Lei 3-B/2010, de 28-abr), 59.º(na redação da Lei 67-A/2007, de 31-dez), 60.º (na redação do Dec Lei 238/2006
+    de 20-dez e da Lei 3-B/2010, de 28-abr), 62.º, 63.º (este último na redação da Lei 109-B/2001, de 27-dez), 68.º-A (aditado
+    pela Lei 64-B/2011, de 30-dez, na redação da Lei 66-B/2012, de 31-dez), 69.º (na redação da Lei 64-B/2011, de 30-dez),
+    70.º (na redação das Leis 109-B/2001, de 27-dez, 32-B/2002, de 30-dez,107-B/2003, de 31-dez, 55-B/2004, de 30-dez, 76-A/2007,
+    de 31-dez, 64-A/2008, de 31-dez e 3-B/2010, de 28-abr), 71.º (na redação das Leis 109-B/2001 de 27-dez, 16-A/2002 de 31-mai
+    e 32-B/2002 de 30-dez, do Dec Lei 192/2005 de 07-nov, das Leis 67-A/2007 de 31-dez e 64-A/2008 de 31-dez, do Dec Lei 175/2009
+    de 04-ago e das Leis 3-B/2010 de 28-abr, 12-A/2010 de 30-jun, 55-A/2010 de 31-dez, 64-B/2011 de 30-dez, 55-A/2012 de 29-dez
+    e 66-B/2012, de 31-dez), 72.º (na redação da Lei 109-B/2001 de 27-dez, do Dec Lei 228/2002 de 31-out, das Leis 32-B/2002
+    de 30-dez e 55-B/2004 de 30-dez, do Dec Lei 192/2005 de 07-nov, das Leis 53-A/2006 de 29-dez, 67-A/2007 de 31-dez e 94/2009
+    de 01-set, do Dec Lei 249/2009 de 23-set e das Leis 3-B/2010 de 28-abr, 15/2010 de 26-jul, 55-A/2010 de 31-dez , 64-B/2011
+    de 30-dez, 55-A/2012 de 29-out e 66-B/2012, de 31-dez), 74.º (na redação das Leis 85/2001, de 04-ago, 64-A/2008, de 31-dez
+    e 3-B/2010, de 28-abr), 76.º (na redação da Lei 53-A/2006, de 29-dez), 78.º (na redação das Leis 109-B/2001 de 27-dez,
+    32-B/2002 de 30-dez, 107-B/2003 de 31-dez e 55-B/2004 de 30-dez, do Dec Lei 62/2005 de 11-mar e das Leis 53-A/2006 de
+    20-dez, 64/2008 de 05-dez, 64-A/2008 de 31-dez, 55-A/2010 de 31-dez, 64-B/2011 de 30-dez, 66-B/2012, de 31-dez e 83-C/2013,
+    de 31-dez), 81.º (na redação da Lei 39-A/2005 de 29-jul, do Dec Lei 249/2009 de 23-set e das Leis 66-B/2012, de 31-dez
+    e 83-C/2013, de 31-dez), 83.º-A (aditado pela Lei 64-A/2008, de 31-dez, na redação das Leis 55-A/2010, de 31-dez e 64-B/2011,
+    de 30-dez), 84.º (na redação das Leis 109-B/2001, de 27-dez, 32-B/2002, de 30-dez, 107-B/2003, de 31-dez, 55-B/2004, de
+    30-dez e 60-A/2005, de 30-dez, 67-A/2007, de 31-dez, 3-B/2010, de 28-abr e 55-A/2010, de 31-dez), 95.º, 98.º (este último
+    na redação das Leis 109-B/2001, de 27-dez, 16-A/2002, de 31-mai e 32-B/2002, de 30-dez, do Dec Lei 238/2006, 20-dez e
+    da Lei 55-A/2010, de 31-dez), 99.º (com a redação da Lei 16-A/2002 de 31-mai, do Dec Lei 238/2006 de 20-dez e da Lei 100/2009,
+    de 07-set), 101.º (na redação das Leis 109-B/2001, de 27-dez e 16-A/2002, de 31-mai, do Dec Lei 228/2002, de 31-out, da
+    Lei 32-B/2002, de 30-dez, dos Decs Leis 80/2003, de 23-abr e 192/2005, de 07-nov e das Leis 3-B/2010, de 28-abr, 12-A/2010,
+    de 30-jun e 66-B/2012, de 31-dez), 102.º (na redação da Lei 109-B/2001, de 27-dez, do Dec Lei 160/2003, de 19-jul e das
+    Leis 67-A/2007 de 31-dez, 12-A/2010, de 30-jun 67-A/2007 de 31-dez, 12-A/2010, de 30-jun e 83-C/2013, de 31-dez), 103.º
+    (na redação da Lei 53-A/2006, de 29-dez), 112.º (na redação Dec Lei 238/2006, de 20-dez), 115.º (na redação das Leis 3-B/2010,
+    de 28-abr e 64-B/2011, de 30-dez, do Dec Lei 197/2012, de 24-ago e da Lei 51/2013, de 24-jul), 116.º(na redação da Lei
+    109-B/2001, de 27-dez e do Dec Lei 238/2006, de 20-dez), 118.º, 119.º (este último na redação das Leis 109-B/2001, de
+    27-dez, 16-A/2002, de 31-mai e 32-B/2002, de 30-dez, dos Decs Leis 17/2004, de 15-jan, 361/2007, de 02-nov e 72-A/2010,
+    de 18-jun, da Lei 15/2010, de 26-jul e da Lei 66-B/2012, de 31-dez), 123.º (na redação das Leis 64-A/2008, de 31-dez e
+    15/2010, de 26-jul), 126.º, 127.º (este último na redação das Leis 67-A/2007 de 31-dez, 64-A/2008, de 31-dez, do Dec Lei
+    292/2009, de 13-out e da Lei 55-A/2010, de 31-dez), 128.º (na redação do Dec Lei 160/2003, de 19-jul), 140.º(na redação
+    da Lei 60-A/2005, de 30-dez) e 148.º, aditados os arts. 2.º-A, 10.º-A, 32.º-A, 39.º-A, 56.º-A, 78.º-A a 78.º-F, 99.º-B
+    a 99.º-F, 101.º-A a 101.º-D, 102.º-A a 102.º-C e 130.º-A e revogados os n.os 8 e 12 do art. 2.º, os n.os 7 e 9 do art.
+    5.º, a al. c) do n.º 6 do art. 10.º, o n.º 1 do art. 14.º, os n.os 9, 11, 12 e 13 do art. 28.º, o n.º 7 do art. 31.º,
+    os n.os 7 e 8 do art. 33.º, o n.º 5 do art. 53.º, os n.os 2, 3, 5 e 6 do art. 55.º, as als. c) e d) do n.º 1 e os n.os
+    2, 13 e 14 do art. 71.º, os n.os 4 e 7 do art. 72.º, o n.º 4 do art. 78.º, os arts. 79.º, 82.º, 83.º, 85.º e 88.º, o n.º
+    5 do art. 98.º, os n.os 2 e 3 do art. 103.º, os n.os 4 e 5 do art. 119.º, o n.º 2 do art. 127.º, os arts. 132.º a 134.º
+    e 137.º, os n.os 4 e 5 do art. 140.º, os arts. 142.º, 144.º, 145.º e 147.º, os n.os 1 e 2 do art. 148.º e o art. 149.º
+    do Código do IRS aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-jul, pelo(a) Lei n.º
+    82-E/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31, que o republica
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-e-2014-66022085
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:69727378:por
+  label: Alterados os arts. 78.º -C, 78.º -D e 78.º -F do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado
+    pelo presente diploma, aditados pela Lei 82-E/2014 de 31-dez, na versão republicada por esta lei, pelo(a) Lei n.º 67/2015
+    - Diário da República n.º 129/2015, Série I de 2015-07-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-2015-69727378
+  date: '2015-07-06'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 68.º, 68.º-A, 69.º, 76.º, 77.º, 78.º, 78.º-A, 78.º-C, 78.º-D (os dois últimos na redação da Lei
+    67/2015 de 06-jul), 78.º-E, 78.º-F (na redação da Lei 67/2015 de 06-jul), 87.º e 126.º, aditado o art. 152.º, e revogados
+    os n.ºs 4, 5 e 6.º do art. 68.º-A e os n.ºs 2, 4 e 5 do art. 69.º do Código do Imposto sobre o Rendimento das Pessoas
+    Singulares (Código do IRS) aprovado pelo presente diploma, na versão republicada do Código pela Lei 82-E/2014 de 31-dez,
+    pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterados os arts. 10.º-A, 16.º, 31.º, 38.º, 78.º (na redação da Lei 7-A/2016, de 30-mai), 78.º-B, 78.º-C e 78.º-D
+    (os dois últimos na redação da Lei 67/2015, de 06-jul e da Lei 7-A/2016, de 30-mar), 78.º-E (na redação da Lei 7-A/2016,
+    de 30-mar), 78.º-F (na redação das Leis 67/2015, de 06-jul e 7-A/2016, de 30-mar), 84.º, 101.º e 127.º (todos ainda alterados
+    e aditados respetivamente pela Lei 82-E/2014, de 31-dez) do Código do Imposto sobre o Rendimento das Pessoas Singulares
+    (Código do IRS), aprovado pelo presente diploma e republicado pela Lei 82-E/2014, de 31-dez pelo(a) Decreto-Lei n.º 41/2016
+    - Diário da República n.º 146/2016, Série I de 2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 3.º, 28.º, 31.º (na redação do Dec Lei 41/2016, de 01-ago), 33.º, 41.º, 43.º, 56.º-A, 59.º, 60.º,
+    68.º (na redação da Lei 7-A/2016, de 30-mar), 72.º, 73.º, 78.º (na redação da Lei 7-A/2016, de 30-mar e do Dec Lei 41/2016,
+    de 01-ago), 78.º-D (na redação da Lei 67/2015, de 06-jul, da Lei 7-A/2016, de 30-mar e do Dec Lei 41/2016, de 01-ago),
+    78.º-E (na redação da Lei 7-A/2016, de 30-mar e do Dec Lei 41/2016, de 01-ago), 78.º-F (na redação da Lei 67/2015, de
+    06-jul, da Lei 7-A/2016, de 30-mar e do Dec Lei 41/2016, de 01-ago) e 99.º-B, aditados os arts. 58.º-A e 153.º e revogada
+    a al. d) do n.º 2 do art. 59.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS) aprovado pelo presente
+    diploma, na versão republicada pela Lei 82-E/2014, de 31-dez pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016,
+    Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:108092658:por
+  label: Alterados os arts. 13.º, 22.º, 78.º (na redação da Lei 7-A/2016, de 30-mar, do Dec Lei 41/2016, de 01-ago e da Lei
+    42/2016, de 28-dez) e 78.º-A (na redação da Lei 7-A/2016, de 30-mar) do Código do IRS aprovado pelo presente diploma,
+    na versão republicada pela Lei 82-E/2014, de 31-dez pelo(a) Lei n.º 106/2017 - Diário da República n.º 170/2017, Série
+    I de 2017-09-04, nos termos do art. 4.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/106-2017-108092658
+  date: '2017-09-04'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 2.º-A, 10.º, 12.º, 18.º, 31.º (com a redação dada pelo Dec Lei 41/2016 de 01-ago e pela Lei 42/2016
+    de 28-dez), 68.º (com a redação dada pela Lei 7-A/2016 de 30-mar e pela Lei 42/2016 de 28-dez), 70.º, 72.º (com a redação
+    dada pela Lei 42/2016 de 28-dez) e 78.º-D (com a redação dada pela Lei 67/2015 de 06-jul, pela Lei 7-A/2016 de 30-mar,
+    pelo Dec Lei 41/2016 de 01-ago e pela Lei 42/2016 de 28-dez) do Código do Imposto sobre o Rendimento das Pessoas Singulares
+    (CIRS), aprovado pelo presente diploma, na versão republicada pela Lei 82-E/2014 de 31-dez, pelo(a) Lei n.º 114/2017 -
+    Diário da República n.º 249/2017, Série I de 2017-12-29, que introduziu, nos termos do seu art. 229.º medidas transitórias
+    sobre deduções à coleta a aplicar à declaração de rendimentos de imposto sobre o rendimento das pessoas singulares relativa
+    ao ano de 2017.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterados os arts. 10.º, 12.º (na redação da Lei 114/2017 de 29-dez), 13.º (na redação da Lei 106/2017 de 04-set),
+    43.º (na redação da Lei 42/2016 de 28-dez), 51.º, 57.º, 60.º (o último na redação da Lei 42/2016 de 28-dez), 71.º, 72.º
+    (este na redação das Leis 42/2016 de 28-dez e 114/2017 de 29-dez), 78.º-B (na redação do Dec Lei 41/2016 de 01-ago), 99.º-C,
+    101.º (o último na redação do Dec Lei 41/2016 de 01-ago) e 119.º e aditado o art. 12.º-A, nos termos do art. 259.º da
+    Lei 71/2018 de 31-dez, ao Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo presente
+    diploma, na versão republicada do código pela Lei 82-E/2014 de 31-dez pelo(a) Lei n.º 71/2018 - Diário da República n.º
+    251/2018, Série I de 2018-12-31, que introduz, nos termos dos seus arts. 260.º e 261.º, medidas transitórias sobre deduções
+    à coleta, e sobre despesas e encargos relacionados com a atividade empresarial ou profissional de sujeitos passivos de
+    IRS a aplicar à declaração de rendimentos de IRS relativa ao ano de 2018
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:117658784:por
+  label: Alterados, com efeitos a 01.01.2019, os arts. 9.º e 72.º (o último com a redação dada pela Lei 42/2016 de 28-dez,
+    pela Lei 114/2017 de 29-dez e pela Lei 71/2018 de 31-dez ) do Código do Imposto sobre o Rendimento das Pessoas Singulares
+    (CIRS), aprovado pelo presente diploma, na versão republicada pela Lei 82-E/2014 de 31-dez, pelo(a) Lei n.º 3/2019 - Diário
+    da República n.º 6/2019, Série I de 2019-01-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-2019-117658784
+  date: '2019-01-09'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterados, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, os arts. 78.º-B (na redação do Dec Lei
+    41/2016 de 01-ago e da Lei 71/2018, de 31-dez), e 118.º (na redação da Lei 82-E/2014, de 31-dez) e revogado o n.º 2 do
+    artigo 118.º do Código do do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), aprovado pelo presente
+    diploma, na versão republicada pela Lei 82-E/2014, de 31-dez pelo(a) Decreto-Lei n.º 28/2019 - Diário da República n.º
+    33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Alterados, a partir de 01.10.2019, os arts 9.º (na redação da Lei n.º 3/2019 de 09-jan) 22.º (na redação da Lei n.º
+    106/2017, de 04-set ) 57.º (na redação da Lei n.º 71/2018, de 31-dez) 58.º, 72.º (na redação da Lei 42/2016 de 28-dez,
+    da Lei 114/2017 de 29-dez, da Lei 71/2018 de 31-dez e da Lei n.º 3/2019, de 09-jan) 74.º, 81.º, 99.º-D, 101.º-C e 119.º
+    ( este último na redação da Lei n.º 71/2018, de 31-dez) e aditado o art. 143.º ao Código do Imposto sobre o Rendimento
+    das Pessoas Singulares (CIRS), aprovado pelo presente diploma, na versão republicada pela Lei 82-E/2014, de 31-dez, pelo(a)
+    Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/119-2019-124793094
+  date: '2019-09-18'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Alterados os arts. 3.º, 8.º, 10.º, 12.º, 22.º, 31.º, 68.º, 72.º, 78.º-A, 78.º-E, 78.º-F, 81.º, 99.º-F, 101.º, 102.º
+    e 115.º, aditado o art. 2.º-B e revogado o n.º 6 do art. 81.º do Código do Imposto sobre o Rendimento das Pessoas Singulares
+    (Código do IRS), aprovado pelo presente diploma, pelo(a) Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de
+    2020-03-31, nos termos do seu art. 329.º; Lei que introduziu, nos termos dos seus arts. 331.º e 332.º, medidas transitórias
+    sobre deduções à coleta e sobre despesas e encargos relacionados com a atividade empresarial ou profissional de sujeitos
+    passivos de IRS a aplicar à declaração de rendimentos de IRS relativa ao ano de 2019; e que determinou, nos termos do
+    seu art. 330.º, que as alterações aos arts. 22.º, 58.º, 72.º, 81.º e 119.º do Código do IRS aprovadas pela Lei 119/2019
+    de 18-set têm natureza interpretativa
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:140950563:por
+  label: Alterado, a partir de 23.09.2020, o art. 74.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS),
+    pelo(a) Lei n.º 48/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-2020-140950563
+  date: '2020-08-24'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Alterados os arts. 3.º, 10.º, 18.º, 29.º, 43.º, 47.º, 51.º e 78.º-F e revogado o n.º 9 do art. 3.º e o n.º 15 do
+    art. 10.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código do IRS), aprovado pelo presente diploma,
+    pelo(a) Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31;determinado, nos termos
+    do seu art. 365.º, que as alterações às als. a), b), c) e d) do n.º 7 e ao n.º 8 do art. 10.º, com exceção da al. d) do
+    n.º 7 do art. 10.º na parte relativa à duração da prestação regular periódica do Código do IRS, têm natureza interpretativa;
+    determinado nos termos do seu arts. 366.º, disposições relativas à dedução do valor suportado com máscaras e álcool gel
+    e nos termos do seu art. 367.º, disposições sobre o valor de referência do mínimo de existência; introduzida, nos termos
+    dos seus arts. 369.º, 370.º e 371.º, um regime transitório relativo às mais-valias que se encontram suspensas de tributação,
+    medidas transitórias sobre deduções à coleta e sobre despesas e encargos relacionados com a atividade empresarial ou profissional
+    de sujeitos passivos de IRS a aplicar à declaração de rendimentos de IRS relativa ao ano de 2020
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Alterados os arts. 10.º, 12.º-A, 13.º, 18.º, 22.º, 31.º, 43.º, 45.º, 55.º, 60.º, 68.º, 72.º, 78.º, 78.º-A, 78.º-C,
+    78.º-D, 78.º-E, 78.º-F, 84.º, 99.º-F e 119.º, aditados os arts. 12.º-B e 78.º-G e revogado o art. 2.º-B do Código do Imposto
+    sobre o Rendimento das Pessoas Singulares (Código) aprovado pelo presente diploma, na versão republicada do Código pela
+    Lei 82-E/2014 de 31-dez, e estabelecidas disposições transitórias no âmbito do imposto sobre o rendimento das pessoas
+    singulares pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27 nos termos do art. 280.º
+    desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:202455960:por
+  label: Determinado, que a partir de 22.10.2022, com efeitos entre 01.2023 e 31.12.2023, para efeitos de imposto sobre o
+    rendimento das pessoas singulares, os rendimentos prediais decorrentes de contratos de arrendamento enquadráveis na categoria
+    F, aos quais se aplicam as taxas previstas no n.º 1 do art. 68.º ou no n.º 1 do art. 72.º do CIRS, obtém-se através da
+    aplicação do coeficiente de 0,91 após as deduções a que se refere o art. 41.º do mesmo Código e aos rendimentos aos quais
+    se aplique uma das taxas especiais previstas nos n.ºs 2 a 5 do artigo 72.º do CIRS, constante do anexo ao presente diploma,
+    pelo(a) Lei n.º 19/2022 - Diário da República n.º 204/2022, Série I de 2022-10-21, e são aplicáveis os coeficientes de
+    apoio constantes da tabela publicada, no seu n.º 2 do art. 3.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2022-202455960
+  date: '2022-10-21'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Alterados os arts. 4.º, 5.º, 10.º, 12.º, 12.º-B, 22.º, 24.º, 31.º, 43.º, 49.º, 51.º, 52.º, 55.º, 68.º, 70.º (este
+    último com efeitos a partir de 01.01.2024), 71.º, 72.º, 78.º-A, 78.º-F, 99.º, 99.º-C, 101.º e 101.º-B, aditado o art.
+    124.º-A e revogada a al. a) do n.º 1 do art. 72.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (Código
+    do IRS) aprovado pelo presente diploma, na versão republicada pela Lei 82-E/2014 de 31-dez pelo(a) Lei n.º 24-D/2022 -
+    Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30, que estabelece, nos termos dos arts. 220.º e segs.,
+    disposições transitórias no âmbito do mesmo imposto
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-d-2022-205557192
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:213498830:por
+  label: Alterado, a partir de 26.05.2023, com efeitos a 01.01.2023, o art. 72.º do Código do Imposto sobre o Rendimento das
+    Pessoas Singulares, aprovado em anexo ao presente diploma, Supl pelo(a) Lei n.º 21/2023 - Diário da República n.º 101/2023,
+    Série I de 2023-05-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2023-213498830
+  date: '2023-05-25'
+- type: amended_by
+  target: pt:dre:222477692:por
+  label: Alterados, a partir de 07.10.2023, os arts. 10.º, 41.º e 72.º do Código do Imposto sobre o Rendimento das Pessoas
+    Singulares, aprovado em anexo ao presente diploma e determinada a suspensão, com efeitos a 01.01.2020, durante um período
+    de dois anos, da contagem do prazo para o reinvestimento previsto na al. b) do n.º 5 do art. 10.º do referido do Código,
+    pelo(a) Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06 nos termos dos n.ºs 6, 7 e 8 do art.
+    50.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2023-222477692
+  date: '2023-10-06'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Alterados, a partir de 1 de janeiro de 2024, os artigos 12.º-A, 12.º-B, 25.º, 53.º, 55.º, 57.º, 68.º, 70.º, 72.º,
+    76.º, 78.º, 78.º-D, 78.º-E, 78.º-F, 81.º, 87.º, 99.º, 101.º e 152.º, aditado o artigo 78.º-H e revogados os n.ºs 8, 9,
+    10, 11 e 12 do artigo 16.º, os n.ºs 10 e 12 do artigo 72.º, a alínea f) do n.º 1 do artigo 78.º-F e os n.ºs 7 e 8 do artigo
+    81.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, pelo(a) Lei n.º 82/2023 - Diário da República n.º
+    250/2023, Série I de 2023-12-29, e estabelecido, respetivamente nos artigos 235.º e 236.º desta, o regime da redução das
+    retenções na fonte para titulares de contrato de arrendamento para habitação permanente e uma disposição transitória no
+    âmbito do imposto sobre o rendimento das pessoas singulares
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:870265813:por
+  label: Alterados, a partir de 29 de junho de 2024, os artigos 10.º, 20.º e 43.º do Código pelo(a) Lei n.º 31/2024 - Diário
+    da República n.º 124/2024, Série I de 2024-06-28, nos termos do artigo 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/31-2024-870265813
+  date: '2024-06-28'
+- type: amended_by
+  target: pt:dre:875716576:por
+  label: Alterados, a partir de 08 de agosto 2024, os artigos 25.º e 53.º do Código do IRS, aprovado em anexo ao presente
+    diploma, pelo(a) Lei n.º 32/2024 - Diário da República n.º 152/2024, Série I de 2024-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2024-875716576
+  date: '2024-08-07'
+- type: amended_by
+  target: pt:dre:875716577:por
+  label: Alterados, a partir de 8 de agosto, os artigos 68.º e 70.º do Código do IRS, aprovado em anexo ao presente diploma,
+    pelo(a) Lei n.º 33/2024 - Diário da República n.º 152/2024, Série I de 2024-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-2024-875716577
+  date: '2024-08-07'
+- type: amended_by
+  target: pt:dre:875716580:por
+  label: Alterado, a partir de 01 de janeiro de 2025, o artigo 78.º-E do Código do IRS, aprovado em anexo ao presente diploma,
+    pelo(a) Lei n.º 36/2024 - Diário da República n.º 152/2024, Série I de 2024-08-07, nos termos dos seus artigos 2.º e 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2024-875716580
+  date: '2024-08-07'
+- type: amended_by
+  target: pt:dre:887319191:por
+  label: Alterados, a partir de 11 de setembro de 2024, os artigos 10.º, 41.º e revogada a alínea f) do n.º 5 do artigo 10.º
+    do Código do IRS, aprovado em anexo ao presente diploma, pelo(a) Decreto-Lei n.º 57/2024 - Diário da República n.º 175/2024,
+    Série I de 2024-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-2024-887319191
+  date: '2024-09-10'
+- type: amended_by
+  target: pt:dre:896613426:por
+  label: Alterado, a partir de 15 de novembro de 2024, o artigo 152.º do Código do Imposto sobre o Rendimento das Pessoas
+    Singulares pelo(a) Lei n.º 42/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14 nos termos do artigo 5.º
+    desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2024-896613426
+  date: '2024-11-14'
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Alterados, a partir de 1 de janeiro de 2025, os artigos 2.º, 10.º, 12.º-B , 25.º, 53.º, 68.º, 70.º, 71.º, 73.º, 99.º-C,
+    99.º-F, 101.º e 102.º e revogados os n.ºs 2, 6 e 7 do artigo 12.º-B, o n.º 7 do artigo 25.º, o n.º 8 do artigo 53.º e
+    o n.º 10 do artigo 99.º-C do Código do Imposto sobre o Rendimento das Pessoas Singulares pelo(a) Lei n.º 45-A/2024 - Diário
+    da República n.º 253/2024, Suplemento, Série I de 2024-12-31 nos termos dos n.ºs 1 e 2 do artigo 116.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-a-2024-901667918
+  date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:909816057:por
+  label: Alterados, a partir de 7 de março de 2025, os artigos 57.º, 58.º e 58.º-A do Código do Imposto sobre o Rendimento
+    das Pessoas Singulares pelo(a) Decreto-Lei n.º 13/2025 - Diário da República n.º 46/2025, Série I de 2025-03-06 nos termos
+    do artigo 3.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2025-909816057
+  date: '2025-03-06'
+- type: amended_by
+  target: pt:dre:912066244:por
+  label: Alterado, a partir de 29 de março de 2025, o artigo 116.º do Código do IRS, aprovado em anexo ao presente diploma
+    pelo(a) Decreto-Lei n.º 35/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-2025-912066244
+  date: '2025-03-24'
+- type: amended_by
+  target: pt:dre:912653926:por
+  label: Alterados, a partir de 1 de julho de 2025, os artigos 12.º, 22.º, 31.º, 58.º-A, 78.º, 78.º-B, 78.º-C, 78.º-D, 84.º,
+    101.º-B, 115.º, 119.º, 124.º-A e 127.º do Código pelo(a) Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série
+    I de 2025-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
+- type: amended_by
+  target: pt:dre:919680148:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, do n.º 2 do artigo 44.º do Código, na interpretação
+    segundo a qual, para efeitos da determinação dos ganhos sujeitos a Imposto sobre o Rendimento das Pessoas Singulares relativos
+    a mais-valias decorrentes da alienação onerosa de bens imóveis, ali se estabelece uma «presunção inilidível» pelo(a) Acórdão
+    do Tribunal Constitucional n.º 348/2025 - Diário da República n.º 102/2025, Série I de 2025-05-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/348-2025-919680148
+  date: '2025-05-28'
+- type: amended_by
+  target: pt:dre:925904929:por
+  label: Alterado, a partir de 23 de julho de 2025, o artigo 68.º do Código do IRS pelo(a) Lei n.º 55-A/2025 - Diário da República
+    n.º 139/2025, Suplemento, Série I de 2025-07-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2025-925904929
+  date: '2025-07-22'
+- type: amended_by
+  target: pt:dre:993270096:por
+  label: Alterado, a partir de 01 de janeiro de 2026, os artigos 12.º, 27.º, 68.º, 70.º e 78.º-F e revogado o n.º 19 do artigo
+    72.º do presente diploma pelo(a) Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-a-2025-993270096
+  date: '2025-12-30'
+- type: amended_by
+  target: pt:dre:1124493227:por
+  label: Alterados, com efeitos a partir de 1 de janeiro de 2026, os artigos 10.º, 43.º, 78.º-E e 101.º do Código pelo(a)
+    Decreto-Lei n.º 97/2026 - Diário da República n.º 97/2026, Série I de 2026-05-20, nos termos do n.º 1 do artigo 15.º e
+    do n.º 3 do artigo 18.º deste
+  source: null
+  date: '2026-05-20'
+- type: amended_by
+  target: pt:dre:1129390702:por
+  label: Alterado, a partir de 8 de junho de 2026, com efeitos a partir de 1 de janeiro de 2026, o artigo 124.º-A do Código
+    pelo(a) Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/26-2026-1129390702
+  date: '2026-06-03'
+- type: cites
+  target: pt:dre:228463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:519003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661163:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:244916:por
+  label: Rectificado o n.1 do art. 13.º do presente diploma, bem como o n.º 1 do art. 13.º, o n.º 2 do art. 17.º, o art. 24.º,
+    o n.º 1 do art. 30.º, o art. 33.º, o art. 34.º, a al. c) do n.º 2 do art. 56.º, a al. d9 do n.º 1 do art. 58.º, o n.º
+    3 do art. 90.º, o art. 115.º e o n.º 3 do art. 120.º do Código do IRS, pela DECL.DD3805.1989.02.16.PCM DR.IS [49]Supl
+    de 28.02.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-244916
+  date: '1989-02-16'
+- type: corrected_by
+  target: pt:dre:505254:por
+  label: Rectificado o art. 11.º do Dec Lei 215/89, de 01-Jul, na parte em que altera o art. 21.º do Código do IRS, aprovado
+    pelo presente diploma, pela DECL.DD3500.31.10.1989.PCM, DR.IS [251-2ºSupl] de 31.10.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-505254
+  date: '1989-10-31'
+- type: corrected_by
+  target: pt:dre:182462:por
+  label: Rectificado o n.º 2 do art. 1.º do Dec Lei 95/90, de 20-Mar, na parte em que altera o n.º 4 do art. 4.º do presente
+    diploma, pela DECL.DD3361.30.04.1990.PCM, DR.IS [99-2ºSupl] de 30.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-182462
+  date: '1990-04-30'
+- type: corrected_by
+  target: pt:dre:644099:por
+  label: "Rectificado o Dec Lei 206/90 de 26-Jun, na parte em que altera os n.ºs 2 e 3 do art. 95.º do Código do IRS, pela\
+    \ DECL.DD3195.31.07.1990.PCM, DR.IS [175-Supl] de 31.07.1990\00"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-644099
+  date: '1990-07-31'
+- type: corrected_by
+  target: pt:dre:302771:por
+  label: "Rectificado o art. 2.º da Lei 34/91, de 27-Jul, na parte em que altera o art. 56.º do Código do IRS, pela RECT.17/91.31.08.1991.AR,\
+    \ DR.IS-A [200] de 31.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/17-1991-302771
+  date: '1991-08-31'
+- type: corrected_by
+  target: pt:dre:410317:por
+  label: "Rectificado o art. 1.º do Dec Lei 267/91, de 06-Ago, na parte em que altera o n.º 1 do art. 30.º e a al. a) do n.º\
+    \ 1 do art. 90.º do Código do IRS, pela DECL-RECT.203/91.30.09.1991.PCM, DR.IS-A [225-Supl] de 30.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/203-1991-410317
+  date: '1991-09-30'
+- type: corrected_by
+  target: pt:dre:516032:por
+  label: "Rectificado o nº 1 do art. 22º da Lei 75/93 de 20-Dez, na parte em que altera a al. b) do n.º 1 do art. 10.º e a\
+    \ tabela constante do n.º 1 do art. 71º do Código do IRS, pela RECT.4/94.19.02.1994.AR, DR.IS-A [42] de 19.02.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/4-1994-516032
+  date: '1994-02-19'
+- type: corrected_by
+  target: pt:dre:181026:por
+  label: "Rectificado o art. 1.º do Dec Lei 280/95, de 26-Out, na parte em que adita o art. 36.º-A ao Código do IRS, pela\
+    \ DECL-RECT.156/95.30.12.1995.PCM, DR.IS-A [300-Supl] de 30.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/156-1995-181026
+  date: '1995-12-30'
+- type: corrected_by
+  target: pt:dre:389020:por
+  label: "Rectificado o art. 2.º do Dec Lei 7/96, de 07-Fev, na parte em que altera o n.º 5 do art. 83.º do Código do IRS,\
+    \ pela DECL-RECT.7-A/96.30.04.1996.PCM, DR.IS-A [101-Supl] de 30.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-1996-389020
+  date: '1996-04-30'
+- type: corrected_by
+  target: pt:dre:261286:por
+  label: "Rectificado o art. 1.º do Dec Lei 3/97 de 08-Jan, na parte em que altera o corpo do n.º 1 do art. 6.º do Código\
+    \ do IRS, pela DECL-RECT.4-D/97.31.01.1997.PCM, DR.IS-A [26-2ºSupl] de 31.01.1997\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-d-1997-261286
+  date: '1997-01-31'
+- type: corrected_by
+  target: pt:dre:517440:por
+  label: "Rectificado o n.º 3 do art. 29.º da Lei 52-C/96 de 27-Dez, na parte em que altera a redacção do n.º 8 do art. 80.º\
+    \ do Código do IRS, aprovado pelo presente diploma, pela DECL-RECT.6/97.19.03.1997.AR, DR.IS-A [66] de 19.03.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/6-1997-517440
+  date: '1997-03-19'
+- type: corrected_by
+  target: pt:dre:596725:por
+  label: "Rectificado o nº 1 do art. 1º do Dec Lei 472/99, de 08-Nov, na parte que altera o nº 1 do art. 84º, nº 1 do art.\
+    \ 96º e os nºs 2 e 3 do art. 124º do Código do IRS aprovado pelo presente diploma, pela DECL-RECT.4-C/2000.31.01.2000.PCM,\
+    \ DR.IS-A [25-Supl] de 31.01.2000\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-c-2000-596725
+  date: '2000-01-31'
+- type: corrected_by
+  target: pt:dre:389654:por
+  label: "Rectificado o nº 3 do art. 32º da Lei 30-C/2000, de 29-Dez, na parte que altera o nº 3 do art. 75º, al.s a) e b)\
+    \ do nº 1 e nº 2 todos do art. 80º-H do Código do IRS aprovado pelo presente diploma, pela DECL-RECT.7/2001.12.03.2001.AR,\
+    \ DR.IS-A [60] de 12.03.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-2001-389654
+  date: '2001-03-12'
+- type: corrected_by
+  target: pt:dre:390238:por
+  label: "Rectificado o nº 1 do art. 1º da Lei 30-G/2000, de 29-Dez, na parte que altera o nº 2 do art. 31º do Código do IRS\
+    \ aprovado pelo presente diploma, pela DECL-RECT.8/2001.13.03.2001.AR, DR.IS-A [61] de 13.03.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/8-2001-390238
+  date: '2001-03-13'
+- type: corrected_by
+  target: pt:dre:168629:por
+  label: "Rectificado o Dec Lei 198/2001, de 03-Jul, que revê e republica o presente diploma, pela DECL-RECT.14-C/2001.31.07.2001.PCM,\
+    \ DR.IS-A [176-3ºSupl] de 31.07.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-c-2001-168629
+  date: '2001-07-31'
+- type: corrected_by
+  target: pt:dre:214528:por
+  label: "Rectificado o art. 26º da Lei 32-B/2002, de 30-Dez, que altera o presente diploma, pela DECL-RECT.2/2003.15.03.2003.AR,\
+    \ DR.IS-A [63] de 15.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2003-214528
+  date: '2003-03-15'
+- type: corrected_by
+  target: pt:dre:248569:por
+  label: "Rectificado o art. 43.º da Lei 67-A/2007, de 31-Dez, na parte que altera a tabela constante do n.º 1 do art. 68.º\
+    \ do Código pela DECL-RECT.2/2008.28.01.2008.AR, DR.IS [19] de 28.01.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2008-248569
+  date: '2008-01-28'
+- type: repealed_by
+  target: pt:dre:219165:por
+  label: "Revogado, na parte respeitante às prestações devidas em resultado de contrtos celebrados com cooperativas de habitação,\
+    \ o nº 2 da al. e) do nº 1 do art. 55.º do Código do IRS, pela LEI.85/98.1998.12.16.AR DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/85-1998-219165
+  date: '1998-12-16'
+- type: repealed_by
+  target: pt:dre:144987:por
+  label: "Revogado o art. 56º do Código, pelo DEC LEI.74/99.1999.03.16.MF, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1999-144987
+  date: '1999-03-16'
+- type: repealed_by
+  target: pt:dre:679669:por
+  label: "Revogado o nº 1 do art. 12º do Dec Lei 486/99 de 13-Nov, repondo em vigor, na redacção dada pelo Dec Lei 257-B/96\
+    \ de 31-Dez e pela Lei 87-B/98 de 31-Dez, o art. 117º do Código do IRS, pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º\
+    \ Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
 article_structure:
   article_count: 157
-  section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 23
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:21Z'
   warnings: []
   errors: []
 ---
@@ -198,15 +2012,15 @@ As modificações que de futuro se fizerem sobre matéria contida no Código ser
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Novembro de 1988.**
+Promulgado em 30 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS SINGULARES
 
@@ -1354,7 +3168,7 @@ c) Os rendimentos declarados não correspondam aos efectivos ou se afastem dos p
 
 1 - As taxas do imposto são as constantes da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf)
 
 2 - O quantitativo do rendimento colectável, quando superior a 450 contos, será dividido em duas partes: uma, igual ao limite do maior dos escalões que nele couber, à qual se aplicará a taxa de coluna (B) correspondente a esse escalão; outra, igual ao excedente, a que se aplicará a taxa da coluna (A) respeitante ao escalão imediatamente superior.
 
@@ -1568,7 +3382,7 @@ c) Dezembro - as deduzidas nos meses de Outubro e Novembro.
 
 1 - Sem prejuízo do disposto no artigo anterior, as entidades que paguem ou ponham à disposição remunerações de trabalho dependente que não sejam fixas deverão, no momento do seu pagamento ou colocação à disposição, deduzir o imposto de harmonia com a tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27701/00020035.pdf)
 
 2 - A taxa a aplicar nos termos do n.º 1 será a correspondente à remuneração anual estimada no início de cada ano ou no início da actividade profissional do sujeito passivo, ou a correspondente ao somatório das remunerações já recebidas ou colocadas à disposição, acrescido das resultantes de eventuais aumentos verificados no ano a que respeite o imposto.
 
@@ -1676,7 +3490,9 @@ b) Registar nos livros a que se referem as alíneas c) e d) do n.º 1 do artigo 
 
 3 - As pessoas que paguem rendimentos previstos no n.º 1 do artigo 3.º são obrigadas a exigir os respectivos recibos e a conservá-los durante os cinco anos civis subsequentes, salvo se tiverem de dar-lhes outro destino devidamente justificado.
 
-###### Artigo 108.º — Livro de registo
+###### Artigo 108.º
+
+## Livro de registo
 
 A escrituração dos livros referidos na alínea b) do n.º 1 do artigo anterior obedecerá às seguintes regras:
 

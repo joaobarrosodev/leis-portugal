@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22100/39013901.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1988-355478
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3627a24ef93c3254360941b42d8c7844bda45a83db8818b6a05b765ec443e497
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c9cd217cc72763cfff55e8bac43160181c34b4f70ea7e82c626fd513c85b02f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Pessoal Civil
+- Reestruturação de Carreiras
+- Serviços Departamentais das Forças Armadas
 relationships:
 - type: amended_by
   target: pt:dre:453254:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:456561:por
+  label: "Revogado, a partir da entrada em vigor do Regime de Contrato de Trabalho em Funções Públicas (RCTFP), pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:30Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +117,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O disposto nos artigos 1.º a 17.º, 20.º a 41.º 42.º, n.º 3, e 46.º, n.os 4, 7 e 8, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, com as alterações estruturais decorrentes do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, é aplicável ao pessoal civil dos serviços departamentais das Forças Armadas.
+Artigo 1.º - 1 - O disposto nos artigos 1.º a 17.º, 20.º a 41.º 42.º, n.º 3, e 46.º, n.os 4, 7 e 8, do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, com as alterações estruturais decorrentes do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, é aplicável ao pessoal civil dos serviços departamentais das Forças Armadas.
 
 2 - As carreiras de regime geral que não tenham correspondência no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426) desenvolver-se-ão em termos análogos aos estabelecidos para as carreiras similares, em conformidade com o que vier a ser disposto nos diplomas previstos no artigo 2.º
 
-###### Art. 2.º - 1 - As alterações de carreiras e categorias resultantes da aplicação do presente decreto-lei serão objecto de decreto regulamentar.
+Art. 2.º - 1 - As alterações de carreiras e categorias resultantes da aplicação do presente decreto-lei serão objecto de decreto regulamentar.
 
 2 - No diploma referido no número anterior proceder-se-á também à uniformização das carreiras e categorias existentes para o pessoal civil dos serviços departamentais das Forças Armadas.
 
@@ -108,22 +129,22 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - As portarias que aprovarem os quadros do pessoal civil dos diversos serviços departamentais das Forças Armadas deverão conter a concretização, relativamente a cada carreira, das áreas funcionais em que elas se inserem e a definição das respectivas atribuições, com referência à caracterização genérica dos conteúdos funcionais constantes do mapa I anexo ao [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 3.º - 1 - As modificações operadas nas carreiras e categorias, incluindo a atribuição de novas letras de vencimento, só produzirão efeitos após a tomada de posse nos lugares ou cargos que vierem a ser criados mediante as portarias previstas no n.º 3 do artigo anterior.
+Art. 3.º - 1 - As modificações operadas nas carreiras e categorias, incluindo a atribuição de novas letras de vencimento, só produzirão efeitos após a tomada de posse nos lugares ou cargos que vierem a ser criados mediante as portarias previstas no n.º 3 do artigo anterior.
 
 2 - O tempo de serviço prestado nas actuais categorias conta, para todos os efeitos legais, nas categorias que lhes venham a corresponder pela aplicação do presente diploma.
 
-###### Art. 4.º - 1 - É revogado o [Decreto-Lei n.º 271/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1981-563653), de 26 de Setembro.
+Art. 4.º - 1 - É revogado o [Decreto-Lei n.º 271/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1981-563653), de 26 de Setembro.
 
 2 - É mantido em vigor o actual regime de classificação de serviço aplicável ao pessoal civil dos serviços departamentais das Forças Armadas até a sua ulterior revisão por decreto regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1988. - Aníbal António Cavaco Silva - Eugénio Manuel dos Santos Ramos - José de Oliveira Costa.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Setembro de 1988.**
+Referendado em 13 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

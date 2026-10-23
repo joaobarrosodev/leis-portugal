@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16900/29782978.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1988-372634
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-05-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a75d36f20f4109f990a3add913538b988dea3630f36f74e5fed231ea32cfd53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a9149e770338db3a651c397f7ff242f50bed08f7ae814c470ad022018da0de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equiparação de Cargos
+- Gestão Escolar
+- Instituto Politécnico
+- Pessoal Dirigente
 relationships:
 - type: amended_by
   target: pt:dre:347306:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619711:por
+  label: "Alargada a área de recrutamento para o lugar secretário da Escola Superior de Tecnologia pela PORT.500/89.1989.07.04.MF\
+    \ DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/500-1989-619711
+  date: '1989-07-04'
+- type: amended_by
+  target: pt:dre:619565:por
+  label: "Alargada a área de recrutamento para o cargo de Admnistrador do Instituto Politécnico de Leiria pela PORT.532/89.1989.07.12.MF\
+    \ DR.IS [158]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-1989-619565
+  date: '1989-07-12'
+- type: cites
+  target: pt:dre:147399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:347306:por
+  label: "Revogado pelo Dec Lei 129/97.1997.05.24.ME, DR.IS-A [120]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1997-347306
+  date: '1997-05-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:55Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +125,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O cargo de administrador dos institutos politécnicos é equiparado ao de director de serviços para todos os efeitos legais.
+Artigo 1.º - 1 - O cargo de administrador dos institutos politécnicos é equiparado ao de director de serviços para todos os efeitos legais.
 
 2 - Compete aos administradores dos institutos politécnicos:
 
@@ -110,7 +139,7 @@ d) Corresponder-se com serviços e entidades públicas e privadas no âmbito da 
 
 e) Dirigir o respectivo pessoal.
 
-###### Art. 2.º - 1 - O secretário das escolas superiores do ensino superior politécnico é equiparado a chefe de divisão para todos os efeitos legais.
+Art. 2.º - 1 - O secretário das escolas superiores do ensino superior politécnico é equiparado a chefe de divisão para todos os efeitos legais.
 
 2 - Compete ao secretário das escolas superiores:
 
@@ -132,24 +161,24 @@ h) Subscrever os diplomas de curso e termos de posse;
 
 i) Assegurar a boa arrumação e conservação do arquivo da escola.
 
-###### Art. 3.º - 1 - Os actuais administradores e secretários das instituições do ensino superior politécnico manter-se-ão em funções, ficando o exercício dos seus cargos, face ao disposto nos artigos anteriores, sujeito às regras previstas para o pessoal dirigente das categorias a que são equiparados.
+Art. 3.º - 1 - Os actuais administradores e secretários das instituições do ensino superior politécnico manter-se-ão em funções, ficando o exercício dos seus cargos, face ao disposto nos artigos anteriores, sujeito às regras previstas para o pessoal dirigente das categorias a que são equiparados.
 
 2 - O tempo de serviço prestado como administrador dos institutos politécnicos ou como secretário das respectivas escolas superiores até à data da entrada em vigor do presente diploma será contado para os efeitos do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### Art. 4.º Após a entrada em vigor do presente diploma, o recrutamento e provimento de novos administradores e secretários para estabelecimentos do ensino superior politécnico far-se-á nos termos legalmente previstos para o pessoal dirigente da categoria a que são equiparados.
+Art. 4.º Após a entrada em vigor do presente diploma, o recrutamento e provimento de novos administradores e secretários para estabelecimentos do ensino superior politécnico far-se-á nos termos legalmente previstos para o pessoal dirigente da categoria a que são equiparados.
 
-###### Art. 5.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas disponibilidades das verbas de pessoal do orçamento dos respectivos organismos.
+Art. 5.º Os encargos resultantes da execução do presente diploma serão satisfeitos pelas disponibilidades das verbas de pessoal do orçamento dos respectivos organismos.
 
-###### Art. 6.º São revogados os artigos 10.º, 11.º, 19.º e 20.º do [Decreto-Lei n.º 513-L1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-l1-1979-147399), de 27 de Dezembro.
+Art. 6.º São revogados os artigos 10.º, 11.º, 19.º e 20.º do [Decreto-Lei n.º 513-L1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-l1-1979-147399), de 27 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 8 de Julho de 1988.**
+Promulgado em 8 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 11 de Julho de 1988.**
+Referendado em 11 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

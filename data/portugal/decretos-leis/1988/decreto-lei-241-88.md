@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/241-1988-373399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b286142d264403fde4d5ed588a3080b489828ec1ca5518308d4119187397e88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7e7b62f53bc9f0e873e229024859c6050bd29bb5bf422aa5dbfcc72fa338d85
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alentejo
+- ÁREA de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina
+- Proteção do Ambiente
+- Zona de Proteção
 relationships:
 - type: amended_by
   target: pt:dre:574312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574312:por
+  label: "Alterado, por ratificação, o nº 1 do art. 6º e o art. 24º, pela LEI.51/90.1990.08.27.AR, DR.IS [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/51-1990-574312
+  date: '1990-08-27'
+- type: cites
+  target: pt:dre:222392:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:395896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419665:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452965:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220685:por
+  label: Rectificada pela DECL.DD4041.1988.10.06.PCM DR.IS [252]2ºSUPL DE 31/OUT/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-220685
+  date: '1988-10-06'
 article_structure:
   article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:30Z'
   warnings: []
   errors: []
 ---
@@ -518,15 +560,15 @@ O presente diploma será regulamentado por decreto regulamentar.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1988.**
+Referendado em 23 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Área de Paisagem Protegida do Sudoeste Alentejano e Costa Vicentina
 
@@ -678,4 +720,4 @@ Ruínas lusitano-romanas da Boca do Rio (MN);
 
 Forte do Burgau (IIP).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/15500/27812792.pdf))](https://files.diariodarepublica.pt/1s/1988/07/15500/27812792.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/15500/27812792.pdf)

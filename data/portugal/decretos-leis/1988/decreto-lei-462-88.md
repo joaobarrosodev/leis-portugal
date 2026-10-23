@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28700/49194920.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-1988-356694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5eb8fb9d20d2c4af1aadbfb5f1da3c65a9ade10e9ff677446e86bddfb624d5ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b4340168d11171624cdf6fdafd9bb3336f889be9b82e2ac62596ec91fd89aef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Inspecção Geral dos Serviços de Saúde
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417627:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:199614:por
+  label: Rectificado pela DECL.DD4113.1988.12.29.PCM, DR.IS [302]5ºSupl de 31/Dez/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-199614
+  date: '1988-12-29'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:56Z'
   warnings: []
   errors: []
 ---
@@ -95,20 +118,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A carreira de inspecção da Inspecção-Geral dos Serviços de Saúde passa a ter a estrutura do mapa anexo ao presente diploma, que dele faz parte integrante, sendo-lhe aplicáveis as disposições do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+Artigo 1.º A carreira de inspecção da Inspecção-Geral dos Serviços de Saúde passa a ter a estrutura do mapa anexo ao presente diploma, que dele faz parte integrante, sendo-lhe aplicáveis as disposições do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
 
-###### Art. 2.º Para efeitos de aplicação do disposto no artigo anterior, o quadro do pessoal da IGSS, a que se refere o artigo 22.º do [Decreto-Lei n.º 312/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1987-417627), de 18 de Agosto, considera-se automaticamente alterado de acordo com o mapa anexo ao presente diploma, devendo a dotação prevista para a categoria de inspector assessor principal ser acrescida do número de lugares actualmente previsto para a categoria de inspector assessor de 1.ª classe.
+Art. 2.º Para efeitos de aplicação do disposto no artigo anterior, o quadro do pessoal da IGSS, a que se refere o artigo 22.º do [Decreto-Lei n.º 312/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1987-417627), de 18 de Agosto, considera-se automaticamente alterado de acordo com o mapa anexo ao presente diploma, devendo a dotação prevista para a categoria de inspector assessor principal ser acrescida do número de lugares actualmente previsto para a categoria de inspector assessor de 1.ª classe.
 
-###### Art. 3.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1988.
+Art. 3.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

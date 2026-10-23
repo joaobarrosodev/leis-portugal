@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(18) a 2732-(22)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00180022.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-i-1988-644329
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-09-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e8bcd95d811f067e8e9245ff7ed0b32d2f6876ded0edc2caffc35b70aa164ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 337744e82f9b03f0816098ac4086db74e60614726b069fd228992d5ebe5ca06a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Sociedade Corretora
+- Sociedade Financeira de Corretagem
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:614360:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:497190:por
+  label: "Alterado o art. 27º pelo DEC LEI.39/91.1991.01.21.MF DR.IS-A [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-1991-497190
+  date: '1991-01-21'
+- type: amended_by
+  target: pt:dre:342174:por
+  label: "Alterados os arts. 2º, 3º, 7º, 11º, 12º, 14º e 16º, e revogado o art. 6º, pelo DEC LEI.417/91.1991.10.26.MF DR.IS-A\
+    \ [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1991-342174
+  date: '1991-10-26'
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240863:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283675:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:322323:por
+  label: "Revogados, a partir da data de entrada em vigor deste decreto-lei, e sem prejuízo dos regimes transitórios nele\
+    \ previstos, os art.s 8º, 10º e 18º a 25º pelo DEC LEI.142-A/91.10.04.1991.MF, DR.IS-A [83-Supl] de 10.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-a-1991-322323
+  date: '1991-04-10'
+- type: repealed_by
+  target: pt:dre:614360:por
+  label: "Revogado pelo DEC LEI.262/2001.2001.09.28.MF, DR.IS-A [226] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/262-2001-614360
+  date: '2001-09-28'
 article_structure:
   article_count: 27
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:15Z'
   warnings: []
   errors: []
 ---
@@ -380,12 +418,12 @@ c) Fiscalizar o cumprimento do Código de Ética e Deontologia.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado no Funchal em 2 de Julho de 1988.**
+Promulgado no Funchal em 2 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 2 de Julho de 1988.**
+Referendado em 2 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

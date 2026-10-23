@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/02700/03600361.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1988-282915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77e9b4e0f3088523f9a6e0461651f6c71fdb2672db7cd58b98f3f6d3a194119b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5af42cf9e466a4dcdfbdcc5b7835835c3cc814ff3dee677cb233e3b5ad8ac396
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado de Portugal para a Exposição Universal de Sevilha de 1992
+- Criação de Serviços
+- Descobrimentos Portugueses
+- Orgânica
+- Presidência do Conselho de Ministros
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:25Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +119,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criado, no âmbito da Presidência do Conselho de Ministros, o Comissariado de Portugal para a Exposição Universal de Sevilha de 1992, subordinada ao tema «A Era dos Descobrimentos».
+Artigo 1.º É criado, no âmbito da Presidência do Conselho de Ministros, o Comissariado de Portugal para a Exposição Universal de Sevilha de 1992, subordinada ao tema «A Era dos Descobrimentos».
 
-###### Art. 2.º O Comissariado goza de autonomia administrativa e financeira.
+Art. 2.º O Comissariado goza de autonomia administrativa e financeira.
 
-###### Art. 3.º Os serviços do Comissariado funcionarão em Lisboa, em local a designar pela Presidência do Conselho de Ministros.
+Art. 3.º Os serviços do Comissariado funcionarão em Lisboa, em local a designar pela Presidência do Conselho de Ministros.
 
-###### Art. 4.º São atribuições do Comissariado:
+Art. 4.º São atribuições do Comissariado:
 
 a) Assegurar a representação do País na Exposição Universal de Sevilha, de modo a expressar os valores histórico-culturais de Portugal ao serviço da Humanidade;
 
@@ -117,7 +135,7 @@ c) Celebrar em nome do Governo Português, com as entidades designadas pelo Gove
 
 d) Propor superiormente tudo o mais que considerar necessário ao bom desempenho da sua missão.
 
-###### Art. 5.º - 1 - O Comissariado é constituído por um comissário, que preside, por um comissário-adjunto e por sete vogais, em representação de cada um dos seguintes departamentos:
+Art. 5.º - 1 - O Comissariado é constituído por um comissário, que preside, por um comissário-adjunto e por sete vogais, em representação de cada um dos seguintes departamentos:
 
 a) Presidência do Conselho de Ministros;
 
@@ -143,7 +161,7 @@ h) Ministério do Comércio e Turismo.
 
 5 - Os cargos de comissário e comissário-adjunto serão exercidos em regime de comissão de serviço, sendo o respectivo regime remuneratório fixado por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças.
 
-###### Art. 6.º Compete ao comissário organizar e dirigir as actividades do Comissariado, incumbindo-lhe, designadamente:
+Art. 6.º Compete ao comissário organizar e dirigir as actividades do Comissariado, incumbindo-lhe, designadamente:
 
 a) Convocar as reuniões do Comissariado e presidir aos trabalhos;
 
@@ -167,32 +185,32 @@ j) Consultar e, quando necessário, solicitar a colaboração de técnicos sobre
 
 l) Promover as deslocações do pessoal, dentro e fora do País, que se mostrem indispensáveis, colhendo, para o efeito, as necessárias autorizações.
 
-###### Art. 7.º - 1 - Todos os serviços e organismos do Estado, museus, bibliotecas e arquivos oficiais existentes no território nacional, bem como as empresas públicas e demais institutos públicos, fornecerão ao Comissariado todos os elementos que, para a boa execução dos seus objectivos, lhes forem solicitados.
+Art. 7.º - 1 - Todos os serviços e organismos do Estado, museus, bibliotecas e arquivos oficiais existentes no território nacional, bem como as empresas públicas e demais institutos públicos, fornecerão ao Comissariado todos os elementos que, para a boa execução dos seus objectivos, lhes forem solicitados.
 
 2 - Os responsáveis pelos serviços, organismos e entidades referidos no número anterior colocarão à disposição do Comissariado, mediante termo de entrega, tudo aquilo que lhes for solicitado, devendo aquele tomar as devidas precauções para garantia, protecção e conservação dos elementos entregues.
 
-###### Art. 8.º O apoio técnico e administrativo ao comissário e ao Comissariado será prestado por pessoal destacado ou requisitado nos termos da lei geral.
+Art. 8.º O apoio técnico e administrativo ao comissário e ao Comissariado será prestado por pessoal destacado ou requisitado nos termos da lei geral.
 
-###### Art. 9.º No prazo de seis meses após o encerramento da Exposição o comissário apresentará ao Governo o relatório, devidamente quantificado, das actividades do Comissariado.
+Art. 9.º No prazo de seis meses após o encerramento da Exposição o comissário apresentará ao Governo o relatório, devidamente quantificado, das actividades do Comissariado.
 
-###### Art. 10.º - 1 - Cumpridas as formalidades previstas no artigo anterior considera-se, para todos os efeitos, extinto o Comissariado.
+Art. 10.º - 1 - Cumpridas as formalidades previstas no artigo anterior considera-se, para todos os efeitos, extinto o Comissariado.
 
 2 - Os funcionários e agentes requisitados regressarão aos respectivos serviços de origem e os contratos de outra natureza previstos neste diploma caducarão automaticamente pelo decurso do prazo respectivo ou extinguir-se-ão, neste caso sem prejuízo da percepção integral dos salários a que os contratados teriam direito até ao termo dos mesmos.
 
-###### Art. 11.º As dotações necessárias à prossecução das actividades do Comissariado serão movimentadas mediante requisições de fundos a enviar à Direcção-Geral da Contabilidade Pública, assinadas pelo comissário e pelo representante do Ministério das Finanças.
+Art. 11.º As dotações necessárias à prossecução das actividades do Comissariado serão movimentadas mediante requisições de fundos a enviar à Direcção-Geral da Contabilidade Pública, assinadas pelo comissário e pelo representante do Ministério das Finanças.
 
-###### Art. 12.º O Comissariado é considerado como instituição de interesse cultural para efeitos de aplicação dos benefícios fiscais previstos no [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto, aos donativos, subsídios e comparticipações que lhe sejam concedidos por quaisquer pessoas singulares ou colectivas.
+Art. 12.º O Comissariado é considerado como instituição de interesse cultural para efeitos de aplicação dos benefícios fiscais previstos no [Decreto-Lei n.º 258/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-1986-219140), de 28 de Agosto, aos donativos, subsídios e comparticipações que lhe sejam concedidos por quaisquer pessoas singulares ou colectivas.
 
-###### Art. 13.º O Primeiro-Ministro poderá delegar as competências que lhe são atribuídas pelo presente diploma noutro membro do Governo.
+Art. 13.º O Primeiro-Ministro poderá delegar as competências que lhe são atribuídas pelo presente diploma noutro membro do Governo.
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 19 de Janeiro de 1988.**
+Promulgado em 19 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Janeiro de 1988.**
+Referendado em 20 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

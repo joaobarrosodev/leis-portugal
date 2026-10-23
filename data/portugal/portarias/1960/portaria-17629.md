@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17629-1960-281870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4938bcf5864df13188566f3e976e1904b29dd4aeabfcc6a7a1fd838845c08211
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16a14497d71277a1d09b539cc3321eb8c7e5ccfb2d79e25025bb6ad4a06d2067
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:254659:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:42Z'
   warnings: []
   errors: []
 ---
@@ -85,6 +89,6 @@ validation:
 
 Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças, do Ultramar e das Comunicações, que o montante dos subsídios a conceder, nos termos dos artigos 9.º e 10.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, seja no ano de 1960 o seguidamente indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/03/05900/07690769.pdf))](https://files.diariodarepublica.pt/1s/1960/03/05900/07690769.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/03/05900/07690769.pdf)
 
 Presidência do Conselho e Ministérios das Finanças, do Ultramar e das Comunicações, 12 de Março de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Ultramar, Vasco Lopes Alves. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

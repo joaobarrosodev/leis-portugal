@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/01/02400/03090327.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1988-282771
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4153bf636cfeaf5a84fdc033f123d4de76f6c8b770cdc98b44e1aa8c3d3d465f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 538460142884ca5fd5ed078df0091cff83a45ebe6ab0381ccfa8f71b9f2d62d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contabilidade Pública
+- Criação de Serviços
+- Instituições de Previdência Social
+- Instituições de Segurança Social
+- Núcleo de Normalização Contabilística
+- Plano de Contas
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:239259:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:239259:por
+  label: "Revogado pelo DEC LEI.12/2002.2002.01.25.MF DR.IS-A [21]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2002-239259
+  date: '2002-01-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:25Z'
   warnings: []
   errors: []
 ---
@@ -108,32 +124,32 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Plano de Contas das Instituições de Segurança Social, adiante designado por PCISS, anexo ao presente diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o Plano de Contas das Instituições de Segurança Social, adiante designado por PCISS, anexo ao presente diploma e que dele faz parte integrante.
 
-###### Art. 2.º As instituições de segurança social e as instituições de previdência social de inscrição obrigatória, ainda não integradas, ficam obrigadas à aplicação do PCISS, incluindo a elaboração e apresentação ao Instituto de Gestão Financeira da Segurança Social das peças finais englobadas no mesmo, para efeitos de consolidação.
+Art. 2.º As instituições de segurança social e as instituições de previdência social de inscrição obrigatória, ainda não integradas, ficam obrigadas à aplicação do PCISS, incluindo a elaboração e apresentação ao Instituto de Gestão Financeira da Segurança Social das peças finais englobadas no mesmo, para efeitos de consolidação.
 
-###### Art. 3.º - 1 - É criado o Núcleo de Normalização Contabilística (NNC), ao qual compete assegurar o funcionamento e o aperfeiçoamento do PCISS e promover todas as alterações, nomeadamente as decorrentes de medidas legislativas, a aprovar por decreto regulamentar.
+Art. 3.º - 1 - É criado o Núcleo de Normalização Contabilística (NNC), ao qual compete assegurar o funcionamento e o aperfeiçoamento do PCISS e promover todas as alterações, nomeadamente as decorrentes de medidas legislativas, a aprovar por decreto regulamentar.
 
 2 - A composição, atribuições, organização e funcionamento do Núcleo serão objecto de decreto regulamentar.
 
-###### Art. 4.º O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, com as alterações decorrentes das transferências de competências do Governo da República para os Governos Regionais, sem prejuízo das adaptações que lhe venham a ser introduzidas por decreto legislativo regional.
+Art. 4.º O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, com as alterações decorrentes das transferências de competências do Governo da República para os Governos Regionais, sem prejuízo das adaptações que lhe venham a ser introduzidas por decreto legislativo regional.
 
-###### Art. 5.º - 1 - O PCISS será obrigatoriamente aplicável a partir de 1 de Janeiro de 1988.
+Art. 5.º - 1 - O PCISS será obrigatoriamente aplicável a partir de 1 de Janeiro de 1988.
 
 2 - Em casos devidamente justificados, poderá o Ministro do Emprego e da Segurança Social, ouvido o NNC, autorizar o adiamento da integral aplicação do PCISS para o ano económico de 1989.
 
 Visto e aprovado em Conselho de Ministros de 26 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 22 de Dezembro de 1987.**
+Promulgado em 22 de Dezembro de 1987.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Dezembro de 1987.**
+Referendado em 28 de Dezembro de 1987.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo ao Decreto-Lei n.º 24/88
+Anexo ao Decreto-Lei n.º 24/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/01/02400/03090327.pdf))](https://files.diariodarepublica.pt/1s/1988/01/02400/03090327.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/01/02400/03090327.pdf)

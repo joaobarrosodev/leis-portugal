@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1988-358754
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8311c6c88c0baa4e98b4c766038634a0cd9ee51edf50fd7efd80afc0a316527a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7455a19e8518d280592f0ca01c084315d56a31b52e092f70112ed993afb3f74f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Registo Automóvel
+- Veículo
+relationships:
+- type: cites
+  target: pt:dre:159881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:26Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +100,16 @@ Considerando que a supressão das formalidades na travessia das fronteiras se ad
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São revogados os artigos 24.º e 25.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro.
+Artigo único. São revogados os artigos 24.º e 25.º do [Decreto-Lei n.º 54/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1975-159881), de 12 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1988. - Aníbal António Cavaco Silva - José António da Silveira Godinho - Joaquim Fernando Nogueira.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

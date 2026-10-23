@@ -47,40 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1988-379913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a1aca8a227e3dfd0b72514f06c3abd2842213e273cb7e440390864732e20b26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3cea8cbe85dd9fea13be0c95201195a987d5653708171975453380beeb51aba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IVA
+- Ordem dos Advogados
 relationships:
 - type: amended_by
   target: pt:dre:2794333:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670072:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:35Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +121,11 @@ Assim:
 
 No uso da autorização legislativa concedida pela alínea a) do n.º 1 do artigo 34.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É eliminada a alínea a) do n.º 1 do artigo 9.º do Código do Imposto sobre o Valor Acrescentado (CIVA).
+Artigo 1.º É eliminada a alínea a) do n.º 1 do artigo 9.º do Código do Imposto sobre o Valor Acrescentado (CIVA).
 
-###### Art. 2.º O artigo 12.º do CIVA passa a ter a seguinte redacção:
+Art. 2.º O artigo 12.º do CIVA passa a ter a seguinte redacção:
 
-###### Art. 12.º - 1 - ...
+Art. 12.º - 1 - ...
 
 a) Os sujeitos passivos que efectuem as prestações de serviços referidas nas alíneas c) e d) do n.º 1 do artigo 9.º;
 
@@ -133,34 +143,34 @@ a) Os sujeitos passivos que efectuem as prestações de serviços referidas nas 
 
 7 - ...
 
-###### Art. 3.º A verba 3.3 da lista II anexa ao CIVA passa a ter a seguinte redacção:
+Art. 3.º A verba 3.3 da lista II anexa ao CIVA passa a ter a seguinte redacção:
 
 3.3 - Prestações de serviços referidas nas alíneas c) e d) do n.º 1 do artigo 9.º
 
-###### Art. 4.º É aditada à lista I anexa ao CIVA a verba 2.8, com a seguinte redacção:
+Art. 4.º É aditada à lista I anexa ao CIVA a verba 2.8, com a seguinte redacção:
 
 2.8 - Prestações de serviços, efectuadas no exercício das profissões de jurisconsulto, advogado e solicitador a reformados ou desempregados, indentificados como tais, às pessoas que beneficiem de assistência judiciária, a trabalhadores, no âmbito dos processos judiciais de natureza laboral, e a qualquer interessado, nos processos sobre o estado das pessoas.
 
-###### Art. 5.º É aditada à lista II anexa ao CIVA a verba 3.3-A, com a seguinte redacção:
+Art. 5.º É aditada à lista II anexa ao CIVA a verba 3.3-A, com a seguinte redacção:
 
 3.3-A - Prestações de serviços, efectuadas no exercício das profissões de jurisconsulto, advogado e solicitador, que não estejam nas condições previstas na verba 2.8 da lista I.
 
-###### Art. 6.º Sem prejuízo da tributação das respectivas actividades a partir da entrada em vigor do presente diploma, os jurisconsultos, advogados e solicitadores, anteriormente abrangidos pela alínea a) do n.º 1 do artigo 9.º do CIVA, agora eliminada, deverão entregar na repartição de finanças competente, até 30 de Setembro de 1988, a declaração de início de actividade prevista no artigo 30.º do mesmo Código, em que será mencionado, em termos de volume de negócios, o referente ao ano de 1987 ou, se a actividade tiver sido ou for iniciada em 1988, o previsto para o corrente ano.
+Art. 6.º Sem prejuízo da tributação das respectivas actividades a partir da entrada em vigor do presente diploma, os jurisconsultos, advogados e solicitadores, anteriormente abrangidos pela alínea a) do n.º 1 do artigo 9.º do CIVA, agora eliminada, deverão entregar na repartição de finanças competente, até 30 de Setembro de 1988, a declaração de início de actividade prevista no artigo 30.º do mesmo Código, em que será mencionado, em termos de volume de negócios, o referente ao ano de 1987 ou, se a actividade tiver sido ou for iniciada em 1988, o previsto para o corrente ano.
 
-###### Art. 7.º - 1 - Os advogados, jurisconsultos e solicitadores não podem recusar aos funcionários da administração fiscal a exibição de documentos e elementos comprovativos das despesas realizadas e dos honorários cobrados pelos serviços prestados, devendo, no entanto, recusar a revelação de factos, documentos ou outras coisas com eles relacionados directa ou indirectamente que estejam abrangidos pelo regime de segredo profissional, nos termos dos respectivos estatutos.
+Art. 7.º - 1 - Os advogados, jurisconsultos e solicitadores não podem recusar aos funcionários da administração fiscal a exibição de documentos e elementos comprovativos das despesas realizadas e dos honorários cobrados pelos serviços prestados, devendo, no entanto, recusar a revelação de factos, documentos ou outras coisas com eles relacionados directa ou indirectamente que estejam abrangidos pelo regime de segredo profissional, nos termos dos respectivos estatutos.
 
 2 - Em todas as situações, designadamente nas referidas no número anterior, ficam os funcionários obrigados ao dever de sigilo relativamente aos factos levados ao seu conhecimento.
 
-###### Art. 8.º O presente diploma entra em vigor no dia 15 de Setembro de 1988.
+Art. 8.º O presente diploma entra em vigor no dia 15 de Setembro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 6 de Agosto de 1988.**
+Promulgado em 6 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

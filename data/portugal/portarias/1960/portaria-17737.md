@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17737-1960-504360
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1bcd9685770580a86adaf6b79be93b6efe067a11e75e690b9f9bfa2df2679856
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0c3e2bd14eac42ed64f599dbd89450774378402b1723ebe2fe771fde357ab3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351557:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:03Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +93,7 @@ validation:
 
 Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, que, nos termos do § 4.º do artigo 48.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado para o § 5.º pelo [Decreto-Lei n.º 41758](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41758-1958-351557), de 25 de Julho de 1958, os conselhos administrativos das unidades e estabelecimentos da Força Aérea a seguir indicados sejam autorizados a sacar, em conta do capítulo 7.º do orçamento ordinário dos encargos gerais da Nação em vigor, as importâncias que lhes vão designadas:
 
-###### Artigo 147.º, n.º 3), alínea a):
+Artigo 147.º, n.º 3), alínea a):
 
 Base aérea n.º 1 ... 11427$00
 
@@ -93,11 +101,11 @@ Grupo de detecção, alerta e conduta da intercepção n.º 1 ... 207561$00
 
 Depósito Geral de Material da Força Aérea ... 223369$50
 
-###### Artigo 147.º, n.º 4), alínea c):
+Artigo 147.º, n.º 4), alínea c):
 
 Base aérea n.º 4 ... 90$00
 
-###### Artigo 150.º, n.º 2), alínea a):
+Artigo 150.º, n.º 2), alínea a):
 
 Base aérea n.º 6 ... 35000$00
 

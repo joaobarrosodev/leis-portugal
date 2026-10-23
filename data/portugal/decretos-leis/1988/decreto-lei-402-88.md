@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/25900/44894490.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1988-358759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d82dffd0f62434de181d7a20a43cb75083f18cae0dae52412aad6578a2011ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a3e03c17eeb51a2bb453c75dca2c82458cb29925f2693843ef038ff296ad808
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Funcionário Público
+- Inspeção Geral de Finanças
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:26Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +106,26 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A carreira de inspecção da Inspecção-Geral de Finanças passa a ter a estrutura constante do mapa anexo ao presente diploma, que dele faz parte integrante.
+Artigo 1.º - 1 - A carreira de inspecção da Inspecção-Geral de Finanças passa a ter a estrutura constante do mapa anexo ao presente diploma, que dele faz parte integrante.
 
 2 - Para efeitos de aplicação do número anterior, os quadros de pessoal dos serviços de inspecção consideram-se alterados no que respeita às letras de vencimento das categorias da carreira de inspecção.
 
-###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no tocante às revalorizações nele estabelecidas, desde de 1 Janeiro de 1988.
+Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos, no tocante às revalorizações nele estabelecidas, desde de 1 Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1988. - Aníbal António Cavaco Silva - José de Oliveira Costa.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa anexo
 
 Estrutura da carreira de inspecção da Inspecção-Geral de Finanças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/25900/44894490.pdf))](https://files.diariodarepublica.pt/1s/1988/11/25900/44894490.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/25900/44894490.pdf)

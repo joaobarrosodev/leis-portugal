@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1988-371645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-06-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3c5dd4e4e2a06c8e3f3495925528a62b9013a258db21286eccc1e2222a42e870
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89f381abc2d36759a47a2ff35291c637d8e8e304280940e76f4305eec761fe9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Licença de Pesca
+- Pescador
+- Pessoal do MAR
+relationships:
+- type: cites
+  target: pt:dre:220104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:00Z'
   warnings: []
   errors: []
 ---
@@ -92,32 +107,32 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A concessão das licenças previstas no n.º 3 do artigo 1.º do [Decreto-Lei n.º 151/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1984-385047), de 10 de Maio, na redacção que lhe foi dada pelo artigo único da [Lei n.º 33/86](https://diariodarepublica.pt/dr/detalhe/lei/33-1986-220104), de 2 de Setembro, compete aos capitães dos portos.
+Artigo 1.º A concessão das licenças previstas no n.º 3 do artigo 1.º do [Decreto-Lei n.º 151/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1984-385047), de 10 de Maio, na redacção que lhe foi dada pelo artigo único da [Lei n.º 33/86](https://diariodarepublica.pt/dr/detalhe/lei/33-1986-220104), de 2 de Setembro, compete aos capitães dos portos.
 
-###### Art. 2.º As licenças referidas no artigo anterior são emitidas no impresso em vigor para a emissão das licenças concedidas nos termos do artigo 204.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, devendo mencionar o respectivo prazo de validade.
+Art. 2.º As licenças referidas no artigo anterior são emitidas no impresso em vigor para a emissão das licenças concedidas nos termos do artigo 204.º do Regulamento de Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca (RIM), aprovado pelo [Decreto n.º 45969](https://diariodarepublica.pt/dr/detalhe/decreto/45969-1964-537224), de 15 de Outubro de 1964, devendo mencionar o respectivo prazo de validade.
 
-###### Art. 3.º O processo administrativo a organizar nas capitanias dos portos para a concessão das licenças é idêntico ao que é elaborado para a inscrição marítima, na categoria de pescador, com as seguintes alterações:
+Art. 3.º O processo administrativo a organizar nas capitanias dos portos para a concessão das licenças é idêntico ao que é elaborado para a inscrição marítima, na categoria de pescador, com as seguintes alterações:
 
 a) Não é exigido o documento a que faz referência a alínea e) do artigo 8.º do RIM;
 
 b) Do processo deve constar um documento assinado pelo requerente, no qual este declare conhecer perfeitamente as condições em que é concedi da a licença e ser a primeira vez que a requer.
 
-###### Art. 4.º A não obtenção das habilitações exigidas pela legislação em vigor no prazo previsto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 151/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1984-385047), na redacção que lhe foi dada pelo artigo único da [Lei n.º 33/86](https://diariodarepublica.pt/dr/detalhe/lei/33-1986-220104), implica, para além da caducidade da licença, a impossibilidade de a renovar e, bem assim, de obter nova licença ou a inscrição em qualquer categoria de marinhagem.
+Art. 4.º A não obtenção das habilitações exigidas pela legislação em vigor no prazo previsto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 151/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1984-385047), na redacção que lhe foi dada pelo artigo único da [Lei n.º 33/86](https://diariodarepublica.pt/dr/detalhe/lei/33-1986-220104), implica, para além da caducidade da licença, a impossibilidade de a renovar e, bem assim, de obter nova licença ou a inscrição em qualquer categoria de marinhagem.
 
-###### Art. 5.º As capitanias dos portos informarão mensalmente a Direcção-Geral do Pessoal do Mar e Estudos Náuticos (DGPMEN) do número de licenças concedidas, nos termos e em impresso idêntico ao que é utilizado para a comunicação das novas inscrições marítimas na categoria de pescador.
+Art. 5.º As capitanias dos portos informarão mensalmente a Direcção-Geral do Pessoal do Mar e Estudos Náuticos (DGPMEN) do número de licenças concedidas, nos termos e em impresso idêntico ao que é utilizado para a comunicação das novas inscrições marítimas na categoria de pescador.
 
-###### Art. 6.º - 1 - A DGPMEN deve manter um registo actualizado dos titulares que beneficiaram das licenças concedidas ao abrigo do presente diploma, para efeitos de controle geral dos licenciamentos.
+Art. 6.º - 1 - A DGPMEN deve manter um registo actualizado dos titulares que beneficiaram das licenças concedidas ao abrigo do presente diploma, para efeitos de controle geral dos licenciamentos.
 
 2 - Sempre que a referida Direcção-Geral detecte situações indiciadoras de obtenção de nova licença ou de inscrição em qualquer categoria de marinhagem em violação do disposto no artigo 4.º, deve comunicar tal facto à capitania do porto onde a mesma se verificou.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Junho de 1988.**
+Promulgado em 9 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Junho de 1988.**
+Referendado em 16 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

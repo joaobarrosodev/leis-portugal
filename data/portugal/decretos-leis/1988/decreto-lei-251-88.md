@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16300/28892892.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1988-372650
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-07-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01ff7f096dc0f05630915e5f34a65d949aa2cf3f004363d706a601e49f3044d7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48bc84f86a9f34d0076278f49fb4868f0cfd805d4fe3f18bc5dc42382ad256d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brucelose
+- CEE
+- Decisão CE
+- Direcção Geral da Pecuária
+- Direcção Regional de Agricultura
+- Gado Bovino
+- Ifadap
+- Iroma
+- Leucose Animal
+- Política Agrícola Comum
+- Saúde Animal
+- Tuberculose
 relationships:
 - type: amended_by
   target: pt:dre:487075:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575697:por
+  label: "Alterado o art. 10º pelo DEC LEI.228/90.10.07.1990.MAPA, DR.IS [157] de 10.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1990-575697
+  date: '1990-07-10'
+- type: repealed_by
+  target: pt:dre:487075:por
+  label: "Revogado pelo DEC LEI.180/98.1998.07.03.MADRP, DR.IS-A [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1998-487075
+  date: '1998-07-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:45Z'
   warnings: []
   errors: []
 ---
@@ -100,11 +122,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma destina-se a estabelecer a disciplina de execução material e financeira dos planos de erradicação da brucelose, da tuberculose e da leucose enzoótica dos bovinos.
+Artigo 1.º - 1 - O presente diploma destina-se a estabelecer a disciplina de execução material e financeira dos planos de erradicação da brucelose, da tuberculose e da leucose enzoótica dos bovinos.
 
 2 - Os planos referidos no número anterior correspondem à aplicação das medidas previstas, no âmbito da comparticipação da Comunidade Económica Europeia, através da Decisão n.º [86/649/CEE](http://data.europa.eu/eli/dir/1986/649/oj?locale=pt) do Conselho, de 16 de Dezembro, e da Decisão [87/58/CEE](http://data.europa.eu/eli/dir/1987/58/oj?locale=pt) do Conselho, de 22 de Dezembro.
 
-###### Art. 2.º A aplicação das decisões referidas no artigo anterior é atribuída, no continente, às seguintes entidades:
+Art. 2.º A aplicação das decisões referidas no artigo anterior é atribuída, no continente, às seguintes entidades:
 
 a) Direcção-Geral da Pecuária, adiante designada por DGP;
 
@@ -114,7 +136,7 @@ c) Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adi
 
 d) Instituto Regulador e Orientador dos Mercados Agrícolas, adiante designado por IROMA.
 
-###### Art. 3.º Para efeitos do disposto no artigo anterior, compete à DGP:
+Art. 3.º Para efeitos do disposto no artigo anterior, compete à DGP:
 
 a) Promover e assegurar, em colaboração com as DRAs, a elaboração dos planos de erradicação específica, bem como o necessário apoio técnico aos serviços envolvidos;
 
@@ -126,7 +148,7 @@ d) Acompanhar a sua execução, ou assegurá-la em casos especiais, fiscalizando
 
 e) Elaborar os relatórios anuais de execução para a sua apresentação à Comissão das Comunidades Europeias.
 
-###### Art. 4.º Para efeitos do disposto no artigo 2.º, compete às DRAs:
+Art. 4.º Para efeitos do disposto no artigo 2.º, compete às DRAs:
 
 a) Executar, ao nível da sua área de influência, as orientações da DGP no âmbito da alínea a) do artigo anterior:
 
@@ -134,7 +156,7 @@ b) Colaborar com a DGP, na respectiva área de influência, para a elaboração 
 
 c) Executar e promover, na respectiva área de influência, cada plano de erradicação no âmbito do estabelecido nas alíneas c) e d) do artigo 3.º
 
-###### Art. 5.º Para efeitos do disposto no artigo 2.º, compete ao IFADAP:
+Art. 5.º Para efeitos do disposto no artigo 2.º, compete ao IFADAP:
 
 a) Centralizar, como interlocutor do Fundo Europeu de Orientação e Garantia Agrícola, Secção Orientação, a documentação necessária à obtenção do reembolso das despesas efectuadas ao abrigo das referidas decisões;
 
@@ -146,7 +168,7 @@ d) Proceder a quaisquer acções de fiscalização da execução dos movimentos 
 
 e) Prestar todas as informações que lhe forem solicitadas pelo coordenador nacional.
 
-###### Art. 6.º Para efeitos do disposto no artigo 2.º, compete ao IROMA:
+Art. 6.º Para efeitos do disposto no artigo 2.º, compete ao IROMA:
 
 a) Efectuar a cobrança da taxa criada pelo Decreto-Lei n.º 240/82, de 22 de Junho;
 
@@ -160,7 +182,7 @@ c) Enviar mensalmente à DGP o mapa das cobranças efectuadas e por efectuar, be
 
 d) Cobrar aos destinatários as respectivas taxas, ao lançar no mercado as carnes provenientes dessas operações.
 
-###### Art. 7.º - 1 - O Ministro da Agricultura, Pescas e Alimentação nomeará o coordenador nacional de cada plano específico de erradicação, após proposta do director-geral da Pecuária.
+Art. 7.º - 1 - O Ministro da Agricultura, Pescas e Alimentação nomeará o coordenador nacional de cada plano específico de erradicação, após proposta do director-geral da Pecuária.
 
 2 - Os responsáveis regionais pela gestão das acções compreendidas em cada plano de erradicação, adiante designados por gestor, serão propostos pelo respectivo director regional de agricultura ao Ministro da Agricultura, Pescas e Alimentação.
 
@@ -168,7 +190,7 @@ d) Cobrar aos destinatários as respectivas taxas, ao lançar no mercado as carn
 
 4 - Ao coordenador nacional e aos gestores é aplicável o disposto nos n.os 4 e 5 do artigo 12.º do Decreto-Lei n.º 96/87, de 4 de Março, com as devidas adaptações.
 
-###### Art. 8.º Compete ao coordenador nacional de cada plano específico de erradicação:
+Art. 8.º Compete ao coordenador nacional de cada plano específico de erradicação:
 
 a) Coordenar a elaboração e aprovar o plano anual, bem como o respectivo orçamento;
 
@@ -178,7 +200,7 @@ c) Promover e acompanhar a execução do plano de erradicação e coordenar a el
 
 d) Emitir parecer sobre as comunicações previstas na alínea m) do artigo 9.º e enviá-los anualmente ao Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 9.º - 1 - Compete ao gestor:
+Art. 9.º - 1 - Compete ao gestor:
 
 a) Analisar e aprovar os projectos de investimento no âmbito dos planos;
 
@@ -206,7 +228,7 @@ m) Comunicar ao coordenador e ao IFADAP as medidas, acções e investimentos no 
 
 2 - Em situações que o justifiquem, um gestor pode ser responsável por mais um plano.
 
-###### Art. 10.º - 1 - O custo de cada plano específico envolve as verbas:
+Art. 10.º - 1 - O custo de cada plano específico envolve as verbas:
 
 a) Anualmente consignadas no PIDDAC;
 
@@ -214,11 +236,11 @@ b) Provenientes da cobrança da taxa prevista no Decreto-Lei n.º 240/82, de 22 
 
 2 - As verbas previstas na alínea a) são transferidas para o IFADAP, que as movimenta de acordo com as suas competências.
 
-###### Art. 11.º - 1 - Dos pagamentos efectuados pelo IFADAP directamente aos destinatários será dado conhecimento ao respectivo gestor.
+Art. 11.º - 1 - Dos pagamentos efectuados pelo IFADAP directamente aos destinatários será dado conhecimento ao respectivo gestor.
 
 2 - O IFADAP pode ser autorizado a cobrar uma comissão pelos serviços prestados, em termos a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 12.º - 1 - No caso de incumprimento, o gestor do programa notificará o beneficiário para, no prazo de 30 dias, restituir os montantes já recebidos a título de ajudas, acrescidos de juros de mora à taxa legal, contados da data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
+Art. 12.º - 1 - No caso de incumprimento, o gestor do programa notificará o beneficiário para, no prazo de 30 dias, restituir os montantes já recebidos a título de ajudas, acrescidos de juros de mora à taxa legal, contados da data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
 2 - Se a restituição não for feita no prazo indicado, passarão a incidir sobre as importâncias em dívida juros moratórios à taxa legalmente estabelecida, contados desde o termo do referido prazo até ao efectivo reembolso, constituindo-se ainda o beneficiário na obrigação de pagar cumulativamente os encargos resultantes do acompanhamento da execução do processo e as despesas extrajudiciais para cobrança dos montantes devidos, fixados em 10% do valor total das quantias recebidas pelos beneficiários.
 
@@ -228,26 +250,26 @@ b) Provenientes da cobrança da taxa prevista no Decreto-Lei n.º 240/82, de 22 
 
 5 - As execuções instauradas ao abrigo deste artigo seguem o processo das execuções fiscais.
 
-###### Art. 13.º Qualquer beneficiário poderá, por comunicação escrita ao gestor do plano de erradicação, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias que haja recebido, acrescidas de juros calculados à taxa máxima legal desde a data em que aquelas importâncias foram colocadas à sua disposição.
+Art. 13.º Qualquer beneficiário poderá, por comunicação escrita ao gestor do plano de erradicação, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias que haja recebido, acrescidas de juros calculados à taxa máxima legal desde a data em que aquelas importâncias foram colocadas à sua disposição.
 
-###### Art. 14.º Os planos de erradicação da brucelose, da tuberculose e da leucose enzoótica dos bovinos serão regulamentados, no prazo de 30 dias após a entrada em vigor do presente diploma, mediante portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 14.º Os planos de erradicação da brucelose, da tuberculose e da leucose enzoótica dos bovinos serão regulamentados, no prazo de 30 dias após a entrada em vigor do presente diploma, mediante portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 15.º - 1 - A aplicação de planos de erradicação, elaborados ou a elaborar, no âmbito das decisões comunitárias a que se refere o n.º 2 do artigo 1.º, efectuar-se-á nas regiões autónomas através dos competentes organismos regionais com intervenção nos sectores, os quais indicarão os gestores responsáveis pela execução dos planos.
+Art. 15.º - 1 - A aplicação de planos de erradicação, elaborados ou a elaborar, no âmbito das decisões comunitárias a que se refere o n.º 2 do artigo 1.º, efectuar-se-á nas regiões autónomas através dos competentes organismos regionais com intervenção nos sectores, os quais indicarão os gestores responsáveis pela execução dos planos.
 
 2 - Os gestores referidos no número anterior terão as competências definidas no artigo 9.º e serão os interlocutores do IFADAP.
 
 3 - O encargo correspondente à comparticipação financeira será assegurado pelos orçamentos das regiões autónomas e as verbas inscritas para o efeito serão colocadas à ordem do IFADAP, cuja delegação regional as administrará de acordo com as condições gerais estabelecidas por este diploma.
 
-###### Art. 16.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 16.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 29 de Junho de 1988.**
+Promulgado em 29 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Julho de 1988.**
+Referendado em 4 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

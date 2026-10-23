@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1988-370201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-08-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3ba5324429ecd4800c55b99d67cc4cab0b3bfae4fdef240d8a037385f6445d66
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14eb908ae8ad8c71a7732f8345441677472f966ca6a6e5b048f3165268e7373d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Batata
+- Comércio
+- Controlo de Qualidade
 relationships:
 - type: amended_by
   target: pt:dre:375406:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:640949:por
+  label: Alterados os arts 2º, 10º, 12º, 20.º e 21º e o n.º 2 do anexo I, retificada a designação do agente patogénico «Corynebacterium
+    michiganense pv. sepedomium» para «Clavibacter michiganensis subsp. sepedonicus» constante no anexo I e revogado o art.
+    28º pelo(a) Decreto-Lei n.º 178/91 - Diário da República n.º 110/1991, Série I-A de 1991-05-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1991-640949
+  date: '1991-05-14'
+- type: amended_by
+  target: pt:dre:478248:por
+  label: "Substituida a abreviatura \"CEE\" pela abreviatura \"CE\" na al. e) do art. 2º e nos nºs 1, 2 e 3 do anexo II, pelo\
+    \ DEC LEI.169/98.1998.06.25.MADRP, DR.IS-A [144]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-1998-478248
+  date: '1998-06-25'
+- type: corrected_by
+  target: pt:dre:199596:por
+  label: Rectificado pela DECL.DD4103.1988.12.19.PCM, DR.IS [302]5ºSupl de 31/Dez/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-199596
+  date: '1988-12-19'
+- type: repealed_by
+  target: pt:dre:375406:por
+  label: "Revogado, com excepção dos nºs 1, 2, 5 e 6 do art. 29º (que se mantêm em vigor até à publicação da Portaria referida\
+    \ no nº 1 do art. 23º) e do art. 30º (que se mantêm em vigor até à publicação do Despacho Normativo a que se refere o\
+    \ art. 24º), pelo DEC LEI.216/2001.2001.08.03.MADRP DR.IS-A [179]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-2001-375406
+  date: '2001-08-03'
 article_structure:
   article_count: 33
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:10Z'
   warnings: []
   errors: []
 ---
@@ -398,7 +427,7 @@ A LNVB considera-se constituída, até 31 de Dezembro de 1990, pelas variedades 
 
 ###### Artigo 30.º — Regulamentação
 
-**O Ministro da Agricultura, Pescas e Alimentação fixará, sob proposta do CNPPA e mediante despacho normativo, as normas técnicas necessárias à boa execução do presente diploma.**
+O Ministro da Agricultura, Pescas e Alimentação fixará, sob proposta do CNPPA e mediante despacho normativo, as normas técnicas necessárias à boa execução do presente diploma.
 
 ###### Artigo 31.º — Regiões autónomas
 
@@ -426,13 +455,13 @@ O presente diploma entra em vigor no dia 1 de Novembro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 19 de Agosto de 1988.**
+Promulgado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.
 
@@ -456,15 +485,15 @@ f) Viróide do tubérculo em fuso (PSTV).
 
 B - Tolerâncias relativas a pureza varietal e ocorrência de pés doentes, admitidas quando das inspecções de campo (percentagem de plantas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf)
 
 C - Tolerâncias relativas ao estado sanitário dos tubérculos admitidas quando do pós-controle (percentagem de tubérculos infectados por vírus ou de plantas com sintomas de viroses graves ou ligeiras).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf)
 
 D - Tolerâncias relativas à pureza varietal e ocorrência de pés doentes, admitidas no controle a posteriori (percentagem de plantas).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf))](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/20700/36943701.pdf)
 
 2 - Condições relativas à qualidade dos lotes de batata-semente
 

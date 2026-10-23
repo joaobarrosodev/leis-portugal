@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15300/27352738.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1988-373409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8fa357dfd6cffe85efe1cd80926c903b46afbf20f382c7ef043ae378cc8f4ee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3b12cd8f88d65661c0ad5f3e5990f158cda6dfe30327ce443eba670557e9b39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco Nacional Ultramarino
+- Estatuto
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307235:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:20Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +106,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O Banco Nacional Ultramarino, E. P., dotado com a natureza de pessoa colectiva de direito público, conforme o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, assume pelo presente diploma a forma de sociedade anónima de capitais exclusivamente públicos, passando a denominar-se Banco Nacional Ultramarino, S. A.
+Artigo 1.º - 1 - O Banco Nacional Ultramarino, E. P., dotado com a natureza de pessoa colectiva de direito público, conforme o disposto nos artigos 1.º e 2.º do [Decreto-Lei n.º 729-F/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/729-f-1975-307235), de 22 de Dezembro, assume pelo presente diploma a forma de sociedade anónima de capitais exclusivamente públicos, passando a denominar-se Banco Nacional Ultramarino, S. A.
 
 2 - O Banco Nacional Ultramarino, S. A., rege-se pelo presente diploma e, em tudo o que nele se não achar previsto pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pelas normas gerais e especiais aplicáveis às instituições de crédito.
 
-###### Art. 2.º - 1 - O Banco Nacional Ultramarino, S. A., mantém sob a forma referida no artigo anterior, e sem quebra de identidade, a personalidade jurídica do Banco Nacional Ultramarino, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e do passivo deste.
+Art. 2.º - 1 - O Banco Nacional Ultramarino, S. A., mantém sob a forma referida no artigo anterior, e sem quebra de identidade, a personalidade jurídica do Banco Nacional Ultramarino, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e do passivo deste.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser isentos de quaisquer taxas ou emolumentos e feitos pelas repartições competentes com base em simples comunicação subscrita por dois membros do conselho de administração do Banco Nacional Ultramarino, S. A.
 
-###### Art. 3.º - 1 - O Banco Nacional Ultramarino, S. A. tem inicialmente um capital social de 7000000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 3.º - 1 - O Banco Nacional Ultramarino, S. A. tem inicialmente um capital social de 7000000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - As acções representativas do capital subscrito pelo Estado serão mantidas na titularidade da Direcção-Geral do Tesouro, podendo, no entanto, a sua gestão ser cometida a uma entidade do sector público ou a sua titularidade ser transferida, desde que observado o disposto nos números seguintes.
 
@@ -110,7 +122,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - Os fundos públicos e organismos congéneres do sector público administrativo com receitas próprias, não integrados no Orçamento do Estado, e que, nos termos legais, apenas excepcionalmente possam recorrer a dotações do Estado podem subscrever acções representativas do capital do Banco Nacional Ultramarino, S. A., desde que, para o efeito, sejam autorizados por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - São aprovados os estatutos do Banco Nacional Ultramarino, S. A., anexos a este diploma, os quais entrarão em vigor na data em que produzir efeitos a transformação decretada por este decreto-lei.
+Art. 4.º - 1 - São aprovados os estatutos do Banco Nacional Ultramarino, S. A., anexos a este diploma, os quais entrarão em vigor na data em que produzir efeitos a transformação decretada por este decreto-lei.
 
 2 - Os estatutos anexos não carecem de redução a escritura pública, devendo o registo comercial competente ser feito com base no Diário da República em que hajam sido publicados.
 
@@ -118,7 +130,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 4 - As alterações previstas no número anterior devem sempre respeitar o disposto no presente decreto-lei.
 
-###### Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministério das Finanças, pelo menos quinze dias antes da data da assembleia geral, a quem cabe apreciar:
+Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos sócios, o conselho de administração enviará ao Ministério das Finanças, pelo menos quinze dias antes da data da assembleia geral, a quem cabe apreciar:
 
 a) O relatório e contas, com análise da forma como foram executados os orçamentos anuais aprovados;
 
@@ -128,43 +140,43 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 3 - O Ministro das Finanças definirá por despacho as regras a aplicar para efeitos do disposto nos números anteriores.
 
-###### Art. 6.º - 1 - Os trabalhadores e pensionistas do Banco Nacional Ultramarino, E. P., mantêm todos os seus direitos, obrigações e regalias emergentes dos contratos individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma.
+Art. 6.º - 1 - Os trabalhadores e pensionistas do Banco Nacional Ultramarino, E. P., mantêm todos os seus direitos, obrigações e regalias emergentes dos contratos individual e colectivo de trabalho que detiverem à data da entrada em vigor deste diploma.
 
 2 - Os funcionários do Estado, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas, podem ser autorizados a exercer funções no Banco Nacional Ultramarino, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros dos que usufruiriam por antiguidade se tivessem permanecido naquele quadro.
 
 3 - Os trabalhadores do Banco Nacional Ultramarino, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa em nada serão prejudicados por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 7.º - 1 - É por esta forma convocada a assembleia geral do Banco Nacional Ultramarino, S. A., a qual deve reunir na sede do Banco um mês após a data da entrada em vigor do presente diploma, com o objectivo de eleger os cargos sociais e aprovar o respectivo estatuto remuneratório.
+Art. 7.º - 1 - É por esta forma convocada a assembleia geral do Banco Nacional Ultramarino, S. A., a qual deve reunir na sede do Banco um mês após a data da entrada em vigor do presente diploma, com o objectivo de eleger os cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os actuais membros do conselho de gestão e da comissão de fiscalização do Banco Nacional Ultramarino, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais do Banco Nacional Ultramarino, S. A.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1988.**
+Referendado em 23 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de Banco Nacional Ultramarino, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima de responsabilidade limitada e a denominação de Banco Nacional Ultramarino, S. A.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é na cidade de Lisboa.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é na cidade de Lisboa.
 
 2 - Por deliberação do conselho de administração pode a sociedade mudar a sua sede e ainda criar e manter em qualquer ponto do território nacional, ou fora dele, agências, delegações ou qualquer forma de representação.
 
-###### Art. 3.º O objecto social será a realização de todas as operações do comércio bancário e, bem assim, a prática de quaisquer actos necessários ou acessórios dessas mesmas operações.
+Art. 3.º O objecto social será a realização de todas as operações do comércio bancário e, bem assim, a prática de quaisquer actos necessários ou acessórios dessas mesmas operações.
 
 ### CAPÍTULO II — Capital social e acções e obrigações
 
-###### Art. 4.º - 1 - O capital social é de 7000000000$00, estando integralmente subscrito e realizado pelo Estado à data da entrada em vigor do diploma de que são anexos os presentes estatutos, e fica representado por 7000000 de acções nominativas com o valor nominal de 1000$00 cada uma.
+Art. 4.º - 1 - O capital social é de 7000000000$00, estando integralmente subscrito e realizado pelo Estado à data da entrada em vigor do diploma de que são anexos os presentes estatutos, e fica representado por 7000000 de acções nominativas com o valor nominal de 1000$00 cada uma.
 
 2 - As acções representativas do capital social apenas podem pertencer ao Estado, a pessoas colectivas de direito público, a empresas públicas e a sociedades de capitais públicos.
 
@@ -172,23 +184,23 @@ ESTATUTOS
 
 4 - Poderá haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social.
 
-###### Art. 5.º - 1 - A sociedade terá um fundo de reserva, sem limite máximo, constituído pela transferência de lucros líquidos apurados em cada exercício, de acordo com a deliberação da assembleia geral.
+Art. 5.º - 1 - A sociedade terá um fundo de reserva, sem limite máximo, constituído pela transferência de lucros líquidos apurados em cada exercício, de acordo com a deliberação da assembleia geral.
 
 2 - Além do fundo referido no número anterior, pode o conselho de administração criar outros fundos e provisões necessários para prevenir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas.
 
-###### Art. 6.º- 1 - O conselho de administração fica autorizado a aumentar o capital social atrás referido, por uma ou mais vezes, até ao montante de 14000000000$00.
+Art. 6.º- 1 - O conselho de administração fica autorizado a aumentar o capital social atrás referido, por uma ou mais vezes, até ao montante de 14000000000$00.
 
 2 - Os aumentos de capital para além do limite definido no número anterior serão deliberados pela assembleia geral.
 
-###### Art. 7.º As acções a emitir por força de aumentos de capital serão nominativas, só podendo ser subscritas pelas entidades referidas no n.º 2 do artigo 4.º
+Art. 7.º As acções a emitir por força de aumentos de capital serão nominativas, só podendo ser subscritas pelas entidades referidas no n.º 2 do artigo 4.º
 
-###### Art. 8.º Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
+Art. 8.º Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem, salvo deliberação em contrário da assembleia geral.
 
-###### Art. 9.º A sociedade poderá emitir obrigações, nos termos e até aos limites legais, e bem assim efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
+Art. 9.º A sociedade poderá emitir obrigações, nos termos e até aos limites legais, e bem assim efectuar sobre obrigações próprias as operações que forem legalmente permitidas.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
+Art. 10.º - 1 - A assembleia geral é formada pelos accionistas com direito de voto.
 
 2 - A cada 1000 acções corresponde um voto na assembleia geral.
 
@@ -202,7 +214,7 @@ ESTATUTOS
 
 7 - Nenhum accionista se poderá fazer representar por duas ou mais pessoal.
 
-###### Art. 11.º - 1 - Compete à assembleia geral:
+Art. 11.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço, as contas e o parecer do conselho fiscal e decidir sobre a aplicação dos resultados do exercício;
 
@@ -218,19 +230,19 @@ f) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 2 - As deliberações serão tomadas por maioria de votos dos accionistas presentes ou representados na assembleia geral sempre que a lei não exija maior número.
 
-###### Art. 12.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, constituída ainda por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 12.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, constituída ainda por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - O mandato dos membros da mesa da assembleia geral é renovável.
 
-###### Art. 13.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e, extraordinariamente, sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
+Art. 13.º A assembleia geral reunirá ordinariamente pelo menos uma vez por ano e, extraordinariamente, sempre que os conselhos de administração ou fiscal o julguem necessário ou quando a reunião seja requerida por accionistas que representem, pelo menos, 10% do capital.
 
-###### Art. 14.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais, dos quais dois poderão ser eleitos sem funções executivas.
+Art. 14.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais, dos quais dois poderão ser eleitos sem funções executivas.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos pelo próprio conselho de administração até que a primeira assembleia geral sobre eles proveja definitivamente.
 
-###### Art. 15.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
+Art. 15.º - 1 - Ao conselho de administração compete, além das atribuições gerais que por lei lhe são conferidas:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -246,7 +258,7 @@ f) Constituir mandatários, com os poderes que julgue convenientes, incluindo os
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por alguns dos seus membros com funções executivas, ou em comissões especiais, constituídas por algum ou alguns dos seus membros e por empregados da sociedade, algum ou alguns dos seus poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
+Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -258,19 +270,19 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente ou por dois administradores.
+Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que seja convocado pelo presidente ou por dois administradores.
 
 2 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal expressamente reconhecido pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 3 - As deliberações do conselho de administração serão tomadas por maioria dos votos expressos, tendo o presidente ou quem legalmente o substituir voto de qualidade.
 
-###### Art. 18.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionam-se sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
+Art. 18.º - 1 - Nas actas do conselho de administração e das comissões executivas mencionam-se sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
 
 2 - As actas são assinadas por todos os membros do conselho de administração que participarem na reunião.
 
 3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções, sendo-lhes ainda facultado votar «vencido» quanto às decisões de que discordem.
 
-###### Art. 19.º - 1 - A sociedade obriga-se:
+Art. 19.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -282,7 +294,7 @@ b) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 4 - O conselho de administração poderá deliberar, em termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.
 
-###### Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 20.º - 1 - A fiscalização da actividade social compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos será revisor oficial de contas.
 
@@ -292,7 +304,7 @@ b) Pela assinatura dos mandatários constituídos no âmbito e nos termos do cor
 
 5 - Por deliberação da assembleia geral podem as funções do conselho fiscal ser cometidas a uma sociedade revisora de contas.
 
-###### Art. 21.º - 1 - Ao conselho fiscal compete, em especial:
+Art. 21.º - 1 - Ao conselho fiscal compete, em especial:
 
 a) Examinar, sempre que o julgue conveniente e pelo menos uma vez por mês, a escrituração do Banco;
 
@@ -312,11 +324,11 @@ h) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito ou por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 22.º As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
+Art. 22.º As deliberações do conselho fiscal serão tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-###### Art. 23.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na constituição da reserva legal, na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral, com observância dos seguintes princípios:
+Art. 23.º Os resultados do exercício, quando positivos, devem ser aplicados prioritariamente na constituição da reserva legal, na cobertura de prejuízos de anos anteriores, devendo o remanescente ser aplicado pela assembleia geral, com observância dos seguintes princípios:
 
 a) Pelo menos, 20% do remanescente serão aplicados na distribuição de dividendos aos accionistas;
 
@@ -324,10 +336,10 @@ b) Até 15% do remanescente serão aplicados como participação nos lucros dos 
 
 ### CAPÍTULO V — Disposições diversas e transitórias
 
-###### Art. 24.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
+Art. 24.º Os membros do conselho de administração e do conselho fiscal são dispensados de prestar caução pelo exercício dos seus cargos.
 
-###### Art. 25.º Em todos os casos omissos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem sobre os bancos e as suas operações.
+Art. 25.º Em todos os casos omissos nestes estatutos serão observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem sobre os bancos e as suas operações.
 
-###### Art. 26.º - 1 - A sociedade dissolve-se nos termos legais.
+Art. 26.º - 1 - A sociedade dissolve-se nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e destes estatutos e pelas deliberações da assembleia geral.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27700/47504751.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1988-357103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 111d31e76eb763520bfd264831ad6f1ce6d66e9b1d40cc0254ed05609a2da5b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 248323139b7d0b826bf778214bfbb3cb0a4108c43d269c3dae778cc187714f11
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial da Família
+- Conselho Consultivo dos Assuntos da Família
+- Ministério dos Assuntos Sociais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:241671:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:219554:por
+  label: "Colocado na dependência do Alto-Comissário para as Questões da Promoção da Igualdade e da Família o Conselho Consultivo\
+    \ dos Assuntos da Família (cuja orgânica consta do Dec Lei 304/82 de 31-Jul, na redacção dada pelo presente diploma),\
+    \ pelo DEC LEI.3-B/96.1996.01.26.PCM, DR.IS-A [22]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-b-1996-219554
+  date: '1996-01-26'
+- type: cites
+  target: pt:dre:397334:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241671:por
+  label: "Revogado pelo DEC LEI.163/96.1996.09.05.PCM, DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1996-241671
+  date: '1996-09-05'
 article_structure:
-  article_count: 5
+  article_count: 4
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:21Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +130,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 6.º, 7.º, 8.º e 10.º do [Decreto-Lei n.º 304/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334), de 31 de Julho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 6.º, 7.º, 8.º e 10.º do [Decreto-Lei n.º 304/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334), de 31 de Julho, passam a ter a seguinte redacção:
 
 ###### Artigo 6.º — [...]
 
@@ -184,12 +204,12 @@ O Conselho Consultivo dos Assuntos da Família reúne ordinariamente de três em
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - António Fernando Couto dos Santos.
 
-**Promulgado em 16 de Novembro de 1988.**
+Promulgado em 16 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Novembro de 1988.**
+Referendado em 18 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

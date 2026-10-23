@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/19500/35083510.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1988-379921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5df42fb00198bc84e0f5042bdae47dda22c610c9a55f931e6a44713710e69ced
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8abca847c1bea41e27f738b6cf5d3558885f0f0d62df739216747263c1e75ee6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Meteorologia e Geofísica
+- Licenciatura
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:430865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567458:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283524:por
+  label: "Revogado o Decreto-Lei n.° 633/76, de 28 de Julho, com excepção dos capítulos III, IV, V e VI, na redacção do presente\
+    \ diploma, pelo DEC LEI.192/93.24.05.1993.MARN, DR.IS-A [120] de 24.05.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1993-283524
+  date: '1993-05-24'
+- type: repealed_by
+  target: pt:dre:655942:por
+  label: "Revogadas as als b) e c) dos nºs 1 e 2 do art. 77º, os arts. 79º e 80º, as als b) e c) dos nºs 1 e 2 do art. 81º,\
+    \ os arts. 83º, 84º, 85º e 86º, e a al c) do art. 94º do Dec Lei 633/76 de 28-Jul, na redacção do presente diploma pelo\
+    \ DEC LEI.553/99.1999.12.15.MAM,DR.IS-A [290]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/553-1999-655942
+  date: '1999-12-15'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:45Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +131,7 @@ Considerando a economia de meios resultante da redução do tempo de frequência
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 77.º, 78.º, 81.º, 82.º, 85.º, 88.º e 93.º do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, com a redacção que lhes foi dada pelo [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), de 9 de Dezembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 77.º, 78.º, 81.º, 82.º, 85.º, 88.º e 93.º do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, com a redacção que lhes foi dada pelo [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), de 9 de Dezembro, passam a ter a seguinte redacção:
 
 ###### Artigo 77.º — [...]
 
@@ -182,12 +211,12 @@ c) Observador geofísico-adjunto: duração de um ano, sendo o primeiro período
 
 Visto e aprovado em Conselho de Ministros de 21 de Julho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 8 de Agosto de 1988.**
+Promulgado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

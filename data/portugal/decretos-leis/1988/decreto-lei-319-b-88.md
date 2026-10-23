@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 212/1988, 2º Suplemento, Série I de 1988-09-13
   number: '212'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3756-(4) a 3756-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/21202/00040013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-b-1988-507606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bad5af253740b779f246b0e8529b1e00d41aa2a6999a51c4978e83e8035705cc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b6949734e37f4be648cb58224dfa980aabd79f155357ceb00938ba541ed7114
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Covilhã
+- Instituto Politécnico
+- Orgânica
+- Universidade da Beira Interior
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL NAO DOCENTE DA UNIVERSIDADE DA BEIRA INTERIOR, PELA PORT 149/93 DE 10-FEV DR.IS-B [34]
+    NO QUE RESPEITA AS CARREIRAS DAS ÁREAS FUNCIONAIS DE BIBLIOTECA, ARQUIVO E DOCUMENTAÇÃO
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL NAO DOCENTE DA UBI, NO QUE SE REFERE AO PESSOAL DE INFORMÁTICA, PELA PORT 528/93 DE
+    18-MAI DR.IS-B [115]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-05-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL NAO DOCENTE DA UBI, PELA PORT 1168/95 DE 23-SET DR.IS-B [221]\0/95 DE 23-SET DR.IS-B\
+    \ [221]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-09-23'
+- type: amended_by
+  target: pt:dre:774556:por
+  label: "Alterado o quadro de pessoal pela PORT.920/97(2ªSÉRIE).1997.11.03.PCM, MF E ME DR.IIS [264] DE 14/NOV/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/920-1997-774556
+  date: '1997-11-03'
+- type: amended_by
+  target: pt:dre:218475:por
+  label: "Alterado o quadro de pessoal docente anexo ao presente diploma, pela PORT.120/98.1998.03.03.PCM DR.IS-B [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/120-1998-218475
+  date: '1998-03-03'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:308314:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:403163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682053:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220572:por
+  label: Rectificado pela DECL.DD4050.1988.10.24.PCM DR.IS [252]2ºSUPL DE 31/OUT/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-220572
+  date: '1988-10-24'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:20Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +198,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Da natureza e atribuições
 
-###### Artigo 1.º - 1 - A Universidade da Beira Interior, adiante designada abreviadamente por UBI, é um pessoa colectiva pública, dotada de património próprio, autonomia pedagógica, científica, administrativa e financeira, sob tutela do Ministro da Educação.
+Artigo 1.º - 1 - A Universidade da Beira Interior, adiante designada abreviadamente por UBI, é um pessoa colectiva pública, dotada de património próprio, autonomia pedagógica, científica, administrativa e financeira, sob tutela do Ministro da Educação.
 
 2 - A UBI tem por fins:
 
@@ -118,7 +212,7 @@ c) A prestação de serviços directos à comunidade numa base de valorização 
 
 ### CAPÍTULO II — Dos órgãos e serviços
 
-###### Art. 2.º - 1 - Para a prossecução das suas atribuições, a UBI dispõe de órgãos e serviços.
+Art. 2.º - 1 - Para a prossecução das suas atribuições, a UBI dispõe de órgãos e serviços.
 
 2 - São órgãos da UBI:
 
@@ -146,7 +240,7 @@ e) Os serviços de documentação e publicações;
 
 f) O centro de informática.
 
-###### Art. 3.º - 1 - O reitor é nomeado, por despacho do Ministro da Educação, de entre professores catedráticos de nomeação definitiva, precedendo eleição por escrutínio secreto em que participem todos os corpos da Universidade.
+Art. 3.º - 1 - O reitor é nomeado, por despacho do Ministro da Educação, de entre professores catedráticos de nomeação definitiva, precedendo eleição por escrutínio secreto em que participem todos os corpos da Universidade.
 
 2 - O processo de eleição a que se refere o número anterior será fixado por regulamento a aprovar por despacho do Ministro da Educação, sob proposta do senado universitário.
 
@@ -166,7 +260,7 @@ d) Exercer as competências que, por lei ou pelos estatutos, não sejam atribuí
 
 6 - É permitido ao reitor assistir às reuniões dos órgãos de gestão da UBI a que não presida por direito próprio, assumindo, nesse caso, a presidência das reuniões, com voto de qualidade.
 
-###### Art. 4.º - 1 - O reitor é coadjuvado por dois vice-reitores, nos quais pode delegar toda ou parte da sua competência.
+Art. 4.º - 1 - O reitor é coadjuvado por dois vice-reitores, nos quais pode delegar toda ou parte da sua competência.
 
 2 - Os vice-reitores são nomeados, por despacho do Ministro da Educação, de entre professores catedráticos ou associados em efectividade de funções na UBI, sob proposta do reitor.
 
@@ -174,7 +268,7 @@ d) Exercer as competências que, por lei ou pelos estatutos, não sejam atribuí
 
 4 - Por despacho do reitor, será designado o vice-reitor, que o deverá substituir nas suas ausências e impedimentos.
 
-###### Art. 5.º - 1 - O senado universitário é composto:
+Art. 5.º - 1 - O senado universitário é composto:
 
 a) Pelo reitor, que presidirá;
 
@@ -212,13 +306,13 @@ p) Por individualidades de reconhecido mérito, representativas de sectores da s
 
 4 - A duração do mandato dos representantes referidos no n.º 2, bem como das individualidades a que alude o n.º 3 deste artigo, é de dois anos.
 
-###### Art. 6.º - 1 - O senado universitário só pode reunir e deliberar validamente quando a maioria dos elementos presentes forem titulares de grau académico de doutor.
+Art. 6.º - 1 - O senado universitário só pode reunir e deliberar validamente quando a maioria dos elementos presentes forem titulares de grau académico de doutor.
 
 2 - Das reuniões do senado são elaboradas actas, que, depois de aprovadas, serão assinadas pelo presidente e pelo director dos serviços administrativos.
 
 3 - Servirá de secretário do senado o director dos serviços administrativos.
 
-###### Art. 7.º - 1 - Compete ao senado universitário:
+Art. 7.º - 1 - Compete ao senado universitário:
 
 a) Aprovar as alterações dos estatutos da UBI, a submeter a homologação ministerial;
 
@@ -256,7 +350,7 @@ q) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos para apreciaç
 
 3 - A competência prevista na alínea l) do n.º 1 deste artigo é reservada aos membros do senado referidos nas alíneas a) a j) do n.º 1 do artigo 5.º
 
-###### Art. 8.º - 1 - O conselho científico é constituído por todos os professores catedráticos, associados e auxiliares da UBI, bem como pelos professores convidados, em efectividade de funções, desde que habilitados com o grau de doutor.
+Art. 8.º - 1 - O conselho científico é constituído por todos os professores catedráticos, associados e auxiliares da UBI, bem como pelos professores convidados, em efectividade de funções, desde que habilitados com o grau de doutor.
 
 2 - Poderão ainda fazer parte do conselho científico da UBI professores e outras individualidades habilitadas com o grau de doutor expressamente designados para esse fim pelo senado universitário.
 
@@ -300,7 +394,7 @@ q) Pronunciar-se sobre qualquer assunto que lhe seja apresentado pelo reitor ou 
 
 6 - O conselho científico funcionará em plenário ou em comissões, em termos a definir por regulamento próprio, a aprovar pelo reitor, sob proposta do conselho.
 
-###### Art. 9.º - 1 - O conselho pedagógico da UBI é constituído por membros dos conselhos pedagógicos das unidades científico-pedagógicas da Universidade.
+Art. 9.º - 1 - O conselho pedagógico da UBI é constituído por membros dos conselhos pedagógicos das unidades científico-pedagógicas da Universidade.
 
 2 - As normas de funcionamento e processo de eleição dos membros do conselho pedagógico da UBI constarão de regulamento a aprovar pelo reitor.
 
@@ -318,7 +412,7 @@ e) Assegurar o regular funcionamento do ensino, tendo em conta a organização d
 
 f) Organizar conferências, estudos ou seminários de interesse didáctico ou científico para a UBI.
 
-###### Art. 10.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial da UBI.
+Art. 10.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial da UBI.
 
 2 - O conselho administrativo é composto:
 
@@ -350,7 +444,7 @@ h) Promover a reposição nos cofres do Tesouro dos saldos das dotações atribu
 
 i) Proceder periodicamente à verificação dos fundos, em cofre e em depósito, e fiscalizar a escrituração de contabilidade e de tesouraria.
 
-###### Art. 11.º - 1 - Para o exercício das actividades de ensino, investigação e prestação de serviços à comunidade, a UBI organiza-se em unidades científico-pedagógicas, criadas por portaria do Ministro da Educação.
+Art. 11.º - 1 - Para o exercício das actividades de ensino, investigação e prestação de serviços à comunidade, a UBI organiza-se em unidades científico-pedagógicas, criadas por portaria do Ministro da Educação.
 
 2 - Sem prejuízo do disposto no número anterior, entram desde já em funcionamento as seguintes unidades científico-pedagógicas:
 
@@ -368,11 +462,11 @@ f) Artes e Letras.
 
 3 - As unidades científico-pedagógicas disporão de conselhos pedagógicos próprios, cujas atribuições serão exercidas em articulação com as do conselho pedagógico da UBI.
 
-###### Art. 12.º - 1 - A gestão das unidades científico-pedagógicas incumbe a um presidente, assessorado por uma comissão constituída por dois docentes, um e outros a designar pelo reitor, ouvido o conselho científico.
+Art. 12.º - 1 - A gestão das unidades científico-pedagógicas incumbe a um presidente, assessorado por uma comissão constituída por dois docentes, um e outros a designar pelo reitor, ouvido o conselho científico.
 
 2 - As unidades científico-pedagógicas podem estruturar-se em departamentos, nas condições estabelecidas pelo [Decreto-Lei n.º 66/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1980-682053), de 9 de Abril.
 
-###### Art. 13.º - 1 - Os serviços de apoio à Reitoria compreendem:
+Art. 13.º - 1 - Os serviços de apoio à Reitoria compreendem:
 
 a) O Gabinete de Relações Públicas;
 
@@ -384,7 +478,7 @@ b) A Assessoria.
 
 4 - À Assessoria, que compreende um gabinete jurídico e um gabinete de planeamento, compete apoiar a Reitoria nos domínios jurídico e do planeamento técnico e financeiro, sendo cada um dos gabinetes orientado pelo técnico superior mais antigo e de categoria mais elevada nele colocado.
 
-###### Art. 14.º - 1 - Os serviços administrativos são dirigidos por um director de serviços e exercem a sua acção nos domínios da administração financeira e patrimonial, de pessoal e do expediente e arquivo.
+Art. 14.º - 1 - Os serviços administrativos são dirigidos por um director de serviços e exercem a sua acção nos domínios da administração financeira e patrimonial, de pessoal e do expediente e arquivo.
 
 2 - Os serviços administrativos compreendem:
 
@@ -396,7 +490,7 @@ b) A Repartição de Contabilidade e Património.
 
 4 - Por despacho do reitor será designado o funcionário que substituirá o tesoureiro nas suas faltas e impedimentos.
 
-###### Art. 15.º - 1 - A Repartição de Expediente e Pessoal é dirigida por um chefe de repartição e compreende:
+Art. 15.º - 1 - A Repartição de Expediente e Pessoal é dirigida por um chefe de repartição e compreende:
 
 a) A Secção de Expediente e Arquivo;
 
@@ -430,7 +524,7 @@ g) Instruir os processos relativos a horas extraordinárias, pagamento de servi�
 
 h) Realizar acções sistemáticas de formação e aperfeiçoamento do pessoal não docente da Universidade.
 
-###### Art. 16.º - 1 - A Repartição de Contabilidade e Património é dirigida por um chefe de repartição e compreende:
+Art. 16.º - 1 - A Repartição de Contabilidade e Património é dirigida por um chefe de repartição e compreende:
 
 a) A Secção de Contabilidade;
 
@@ -472,7 +566,7 @@ c) Velar pela conservação e aproveitamento do material e instalações;
 
 d) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis da Universidade.
 
-###### Art. 17.º - 1 - Os serviços académicos exercem funções de apoio nos domínios pedagógico, da actividade escolar dos alunos e das provas para a obtenção de títulos e graus académicos e respectivas equivalências.
+Art. 17.º - 1 - Os serviços académicos exercem funções de apoio nos domínios pedagógico, da actividade escolar dos alunos e das provas para a obtenção de títulos e graus académicos e respectivas equivalências.
 
 2 - Os serviços académicos são dirigidos por um director de serviços e compreendem:
 
@@ -480,7 +574,7 @@ a) A Repartição Pedagógica;
 
 b) A Repartição de Alunos.
 
-###### Art. 18.º À Repartição Pedagógica, que será dirigida por um chefe de repartição, compete:
+Art. 18.º À Repartição Pedagógica, que será dirigida por um chefe de repartição, compete:
 
 a) Manter actualizados os dados respeitantes aos programas e planos de estudo dos cursos ministrados na UBI;
 
@@ -490,7 +584,7 @@ c) Passar diplomas e cartas de doutor, de mestre e de licenciatura e respectivas
 
 d) Submeter a despacho os processos de equiparação a bolseiro.
 
-###### Art. 19.º À Repartição de Alunos, dirigida por um chefe de repartição, compete:
+Art. 19.º À Repartição de Alunos, dirigida por um chefe de repartição, compete:
 
 a) Prestar informações sobre as condições de ingresso e frequência nos cursos ministrados na UBI;
 
@@ -506,27 +600,27 @@ f) Organizar e manter actualizado o arquivo dos processos individuais dos alunos
 
 g) Passar certidões de matrículas, inscrição, frequência e outras, relativas a actos que constem do serviço e não sejam de natureza reservada.
 
-###### Art. 20.º - 1 - Os serviços técnicos são orientados pelo técnico superior mais antigo e de categoria mais elevada neles colocado.
+Art. 20.º - 1 - Os serviços técnicos são orientados pelo técnico superior mais antigo e de categoria mais elevada neles colocado.
 
 2 - Aos serviços técnicos estão cometidas funções nos domínios da fiscalização de obras, manutenção e conservação das instalações e equipamento, da coordenação e orientação das oficinas gerais e de reprografia e nos da elaboração de pequenos projectos.
 
-###### Art. 21.º - 1 - Os serviços de documentação e publicações são orientados pelo técnico superior de BAD mais antigo e de categoria mais elevada neles colocados.
+Art. 21.º - 1 - Os serviços de documentação e publicações são orientados pelo técnico superior de BAD mais antigo e de categoria mais elevada neles colocados.
 
 2 - Aos serviços de documentação e publicações estão cometidas funções nos domínios da edição e distribuição de obras de carácter pedagógico, científico e cultural, da recolha, tratamento e difusão da documentação e informação e ainda de coordenação técnica e funcional da biblioteca.
 
 3 - A execução e aquisição de obras e publicações pelos serviços a que se refere o número anterior carecem de parecer de um conselho consultivo, a nomear para o efeito pelo reitor, sob proposta do conselho científico.
 
-###### Art. 22.º - 1 - Ao centro de informática estão cometidas funções nos domínios da informatização dos serviços, do apoio às actividades pedagógicas, científicas e de investigação da UBI e da prestação de serviços à comunidade.
+Art. 22.º - 1 - Ao centro de informática estão cometidas funções nos domínios da informatização dos serviços, do apoio às actividades pedagógicas, científicas e de investigação da UBI e da prestação de serviços à comunidade.
 
 2 - O centro de informática é orientado por um professor da especialidade, a nomear pelo reitor, sob proposta do conselho científico.
 
-###### Art. 23.º Os serviços de apoio à Reitoria e o centro de informática ficam na directa dependência do reitor.
+Art. 23.º Os serviços de apoio à Reitoria e o centro de informática ficam na directa dependência do reitor.
 
 ### CAPÍTULO III — Da gestão administrativa, financeira e patrimonial
 
-###### Art. 24.º A UBI tem património próprio, que gere com plena autonomia, no qual estão integrados todos os bens e direitos que pelo Estado ou outras entidades públicas ou privadas sejam afectados à realização dos seus fins.
+Art. 24.º A UBI tem património próprio, que gere com plena autonomia, no qual estão integrados todos os bens e direitos que pelo Estado ou outras entidades públicas ou privadas sejam afectados à realização dos seus fins.
 
-###### Art. 25.º - 1 - Na gestão administrativa e financeira da UBI serão tidos em consideração os princípios de gestão por objectivos.
+Art. 25.º - 1 - Na gestão administrativa e financeira da UBI serão tidos em consideração os princípios de gestão por objectivos.
 
 2 - A gestão económica e financeira da UBI orientar-se-á pelos seguintes instrumentos de previsão:
 
@@ -540,13 +634,13 @@ c) Orçamentos privativos.
 
 4 - O conselho administrativo promoverá, com base no programa de actividades aprovado para cada ano económico, a elaboração de orçamentos privativos anuais para a aplicação das receitas próprias da UBI.
 
-###### Art. 26.º No uso da autonomia administrativa e financeira conferida pelo presente diploma, a UBI poderá:
+Art. 26.º No uso da autonomia administrativa e financeira conferida pelo presente diploma, a UBI poderá:
 
 a) Autorizar e efectuar directamente o pagamento das suas despesas mediante fundos requisitados por conta das dotações atribuídas no Orçamento do Estado, de cuja aplicação tem de prestar contas no termo de cada ano económico;
 
 b) Dispor de receitas próprias provenientes do exercício das suas actividades e aplicá-las na satisfação das suas despesas através de orçamentos privativos.
 
-###### Art. 27.º - 1 - A UBI arrecadará e administrará as suas receitas próprias e satisfará, por meio delas, as despesas inerentes à prossecução dos seus fins.
+Art. 27.º - 1 - A UBI arrecadará e administrará as suas receitas próprias e satisfará, por meio delas, as despesas inerentes à prossecução dos seus fins.
 
 2 - São receitas da UBI:
 
@@ -570,7 +664,7 @@ i) O produto de taxas, emolumentos, multas e penalidades ou de quaisquer outras 
 
 ### CAPÍTULO IV — Do pessoal (quadros de pessoal)
 
-###### Art. 28.º - 1 - Os quadros de pessoal docente, investigador e não docente da UBI são os constantes dos mapas I a III anexos a este diploma e que dele fazem parte integrante.
+Art. 28.º - 1 - Os quadros de pessoal docente, investigador e não docente da UBI são os constantes dos mapas I a III anexos a este diploma e que dele fazem parte integrante.
 
 2 - O pessoal não docente da UBI é agrupado do seguinte modo:
 
@@ -590,27 +684,27 @@ g) Pessoal auxiliar.
 
 3 - Além do pessoal a que se refere o número anterior, a Universidade poderá dispor ainda, em regime de contrato além do quadro, nomeadamente, de um capelão e de um regente de orquestra, com as remunerações e condições de prestação de serviço que forem fixadas nos diplomas de provimento.
 
-###### Art. 29.º As formas de recrutamento e os regimes de provimento do pessoal docente e do pessoal de investigação são os constantes do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e do [Decreto-Lei n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1983-308314), de 3 Março, respectivamente.
+Art. 29.º As formas de recrutamento e os regimes de provimento do pessoal docente e do pessoal de investigação são os constantes do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, e do [Decreto-Lei n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1983-308314), de 3 Março, respectivamente.
 
-###### Art. 30.º Ao recrutamento e selecção do restante pessoal da UBI é aplicável a lei geral, salvo o disposto nos artigos seguintes.
+Art. 30.º Ao recrutamento e selecção do restante pessoal da UBI é aplicável a lei geral, salvo o disposto nos artigos seguintes.
 
-###### Art. 31.º O recrutamento para o lugar de chefe de repartição será efectuado de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior e experiência adequada.
+Art. 31.º O recrutamento para o lugar de chefe de repartição será efectuado de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior e experiência adequada.
 
-###### Art. 32.º O recrutamento para os lugares do pessoal técnico superior e do pessoal técnico-profissional, dos serviços de bibliotecas, arquivo e documentação, será efectuado nos termos dos Decretos-Leis n.os [280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 32.º O recrutamento para os lugares do pessoal técnico superior e do pessoal técnico-profissional, dos serviços de bibliotecas, arquivo e documentação, será efectuado nos termos dos Decretos-Leis n.os [280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, e [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 33.º O recrutamento para os lugares das carreiras do pessoal de informática será efectuado nas condições estabelecidas nos Decretos-Leis n.os [110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, e [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 33.º O recrutamento para os lugares das carreiras do pessoal de informática será efectuado nas condições estabelecidas nos Decretos-Leis n.os [110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, e [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 34.º - 1 - O recrutamento para os lugares da carreira de técnico-adjunto de laboratório é feito de entre habilitados com os cursos técnico-profissionais de electrónica, química, equipamento têxtil e de produção e de óptica ocular.
+Art. 34.º - 1 - O recrutamento para os lugares da carreira de técnico-adjunto de laboratório é feito de entre habilitados com os cursos técnico-profissionais de electrónica, química, equipamento têxtil e de produção e de óptica ocular.
 
 2 - O recrutamento para a carreira de técnico auxiliar de laboratório é feito de entre habilitados com os cursos profissionais de metalomecânica, fresador, manutenção papeleira, mecânico de frio e climatização, electricidade, construção civil, preparador-montador e auxiliar de óptica ocular.
 
-###### Art. 35.º O recrutamento para os lugares de chefe de secção será efectuado nos termos do disposto no artigo 38.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 35.º O recrutamento para os lugares de chefe de secção será efectuado nos termos do disposto no artigo 38.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 36.º O recrutamento para os lugares da carreira de secretário-recepcionista será efectuado nos termos do disposto no artigo 5.º dos Decretos-Leis n.os [465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro, e [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 36.º O recrutamento para os lugares da carreira de secretário-recepcionista será efectuado nos termos do disposto no artigo 5.º dos Decretos-Leis n.os [465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro, e [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 37.º O recrutamento para os lugares da carreira de auxiliar de manutenção será efectuado nos termos estabelecidos para a carreira de auxiliar administrativo pelos n.os 2, 3 e 4 do artigo 27.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 37.º O recrutamento para os lugares da carreira de auxiliar de manutenção será efectuado nos termos estabelecidos para a carreira de auxiliar administrativo pelos n.os 2, 3 e 4 do artigo 27.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 38.º - 1 - O provimento do pessoal não docente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 38.º - 1 - O provimento do pessoal não docente a que se refere o presente diploma será feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -630,7 +724,7 @@ b) No lugar do quadro da Universidade em que vier a ser provido definitivamente,
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-###### Art. 39.º - 1 - A integração do pessoal actualmente em serviço na UBI em lugares do quadro constante do mapa III em anexo ao presente diploma far-se-á, sem prejuízo da lei geral, de acordo com as seguintes regras:
+Art. 39.º - 1 - A integração do pessoal actualmente em serviço na UBI em lugares do quadro constante do mapa III em anexo ao presente diploma far-se-á, sem prejuízo da lei geral, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -642,7 +736,7 @@ b) Para a categoria correspondente às funções que o funcionário ou agente ac
 
 4 - O tempo de serviço prestado na categoria que deu origem à transição conta como prestado na nova categoria, para efeitos de progressão na carreira, desde que no exercício efectivo de funções correspondentes às da categoria para que se operou a transição.
 
-###### Art. 40.º - 1 - Os actuais órgãos da UBI manterão a competência e as atribuições que lhes estão confiadas até à institucionalização e entrada em funcionamento dos órgãos previstos neste diploma.
+Art. 40.º - 1 - Os actuais órgãos da UBI manterão a competência e as atribuições que lhes estão confiadas até à institucionalização e entrada em funcionamento dos órgãos previstos neste diploma.
 
 2 - No prazo de seis meses a contar da publicação do presente diploma, a comissão instaladora elaborará os regulamentos dos processos de eleição do reitor e dos membros não permanentes do senado universitário e do conselho pedagógico.
 
@@ -650,19 +744,19 @@ b) Para a categoria correspondente às funções que o funcionário ou agente ac
 
 4 - Os regulamentos de eleições dos membros não permanentes do senado universitário e dos membros do conselho pedagógico serão aprovados por despacho do reitor.
 
-###### Art. 41.º É assegurado ao actual administrador da Universidade o direito ao provimento num lugar de assessor (letra B), com efeitos a partir da entrada em vigor do [Decreto-Lei n.º 582/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1980-226587), de 31 de Dezembro.
+Art. 41.º É assegurado ao actual administrador da Universidade o direito ao provimento num lugar de assessor (letra B), com efeitos a partir da entrada em vigor do [Decreto-Lei n.º 582/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1980-226587), de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1988.**
+Referendado em 12 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA I
 
@@ -688,4 +782,4 @@ MAPA III
 
 (a que se refere o artigo 28.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/21202/00040013.pdf))](https://files.diariodarepublica.pt/1s/1988/09/21202/00040013.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/21202/00040013.pdf)

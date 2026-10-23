@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22500/39693973.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1988-355506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a305d265f8bd0cc2d1863f30eaf8fdb70a83a0fb3c6b0671b084e001e9b0759
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0bc498c2d4fbf20a0a48d98a9dca0c57db5afc88e4cb680b3bad89ff86a4ccc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:341638:por
+  label: "Alterado quadro de pessoal da Reitoria e serviços centrais, pela PORT.1092/91.25.10.1991.MF, DR.IS-B [246] de 25.10.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1092-1991-341638
+  date: '1991-10-25'
+- type: amended_by
+  target: pt:dre:647284:por
+  label: "Alterado o quadro de pessoal, relativamente às carreiras das áreas funcionais de biblioteca, documentação e arquivo,\
+    \ pela PORT.148/93.1993.02.10.MF, DR.IS-B [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/148-1993-647284
+  date: '1993-02-10'
+- type: amended_by
+  target: pt:dre:509607:por
+  label: "Aditado um quadro de pessoal, pela PORT.38/94.1994.01.14.MF, DR.IS-B [11]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/38-1994-509607
+  date: '1994-01-14'
+- type: amended_by
+  target: pt:dre:944513:por
+  label: "Alterado o quadro de pessoal pelo DESP-REIT.9/S.Ad/UTL/95.29.09.1995.UTL, DR.IIS [226-Supl] de 29.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-reitoral/9-1995-944513
+  date: '1995-09-29'
+- type: amended_by
+  target: pt:dre:1428617:por
+  label: "Alterado o quadro de pessoal pela, PORT.211/99(2ªSÉRIE).1999.02.24.PCM, DR.IIS [62] de 15/Mar/1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/211-1999-1428617
+  date: '1999-02-24'
+- type: cites
+  target: pt:dre:180410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400032:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:00Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +150,7 @@ Atendendo a que, por esta forma, será mais fácil alcançar os objectivos preco
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São serviços da Universidade Técnica de Lisboa:
+Artigo 1.º São serviços da Universidade Técnica de Lisboa:
 
 a) A Secretaria-Geral;
 
@@ -112,7 +162,7 @@ d) A Assessoria de Planeamento;
 
 e) O Gabinete de Relações Públicas.
 
-###### Art. 2.º - 1 - A Secretaria-Geral exerce a sua acção nos domínios da administração financeira e patrimonial, do pessoal, do expediente e arquivo, das informações de carácter pedagógico, do fomento e apoio das actividades circum-escolares, da coordenação e execução das obras no âmbito da Universidade e nos de apoio administrativo ao reitor e ao serviços dele dependentes.
+Art. 2.º - 1 - A Secretaria-Geral exerce a sua acção nos domínios da administração financeira e patrimonial, do pessoal, do expediente e arquivo, das informações de carácter pedagógico, do fomento e apoio das actividades circum-escolares, da coordenação e execução das obras no âmbito da Universidade e nos de apoio administrativo ao reitor e ao serviços dele dependentes.
 
 2 - A Secretaria-Geral é dirigida por um administrador e compreende os seguintes serviços:
 
@@ -122,9 +172,9 @@ b) A Direcção dos Serviços Académicos;
 
 c) O Gabinete Técnico.
 
-###### Art. 3.º As competências e categoria do administrador são as previstas no artigo 8.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
+Art. 3.º As competências e categoria do administrador são as previstas no artigo 8.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
 
-###### Art. 4.º - 1 - A Direcção dos Serviços Administrativos exerce a sua acção nos domínios da administração financeira e patrimonial, do pessoal e do expediente e arquivo.
+Art. 4.º - 1 - A Direcção dos Serviços Administrativos exerce a sua acção nos domínios da administração financeira e patrimonial, do pessoal e do expediente e arquivo.
 
 2 - A Direcção dos Serviços Administrativos é dirigida por um director de serviços e compreende:
 
@@ -132,7 +182,7 @@ a) A Repartição de Recursos e Património;
 
 b) A Repartição de Expediente e Pessoal.
 
-###### Art. 5.º - 1 - A Repartição de Recursos e Património desenvolve a sua acção nos domínios da gestão e execução orçamental e nos da contabilidade, economato e património.
+Art. 5.º - 1 - A Repartição de Recursos e Património desenvolve a sua acção nos domínios da gestão e execução orçamental e nos da contabilidade, economato e património.
 
 2 - A Repartição de Recursos e Património é dirigida por um chefe de repartição e compreende:
 
@@ -140,7 +190,7 @@ a) A Secção de Orçamento e Contabilidade;
 
 b) A Secção de Economato e Património.
 
-###### Art. 6.º À Secção de Orçamento e Contabilidade compete:
+Art. 6.º À Secção de Orçamento e Contabilidade compete:
 
 a) Executar a escrituração respeitante à contabilidade de todos os serviços;
 
@@ -156,7 +206,7 @@ f) Organizar a conta de gerência;
 
 g) Elaborar as relações de documentos de despesa a submeter à apreciação e aprovação do conselho administrativo.
 
-###### Art. 7.º À Secção de Economato e Património compete:
+Art. 7.º À Secção de Economato e Património compete:
 
 a) Assegurar o apetrechamento dos serviços, centralizando os processos de aquisição nos termos das disposições legais vigentes;
 
@@ -166,7 +216,7 @@ c) Zelar pela conservação e aproveitamento do material e instalações;
 
 d) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos serviços.
 
-###### Art. 8.º - 1 - A Repartição de Expediente e Pessoal desenvolve a sua acção nos domínios da recepção e distribuição do expediente, da organização e movimento do arquivo e do pessoal.
+Art. 8.º - 1 - A Repartição de Expediente e Pessoal desenvolve a sua acção nos domínios da recepção e distribuição do expediente, da organização e movimento do arquivo e do pessoal.
 
 2 - A Repartição de Expediente e Pessoal é dirigida por um chefe de repartição e compreende as Secções de:
 
@@ -174,7 +224,7 @@ a) Pessoal;
 
 b) Expediente e Arquivo.
 
-###### Art. 9.º À Secção de Pessoal compete:
+Art. 9.º À Secção de Pessoal compete:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à promoção, recondução, prorrogação, transferência, exoneração, rescisão de contratos, demissão e aposentação do pessoal da Universidade e das escolas dela dependentes;
 
@@ -188,7 +238,7 @@ e) Elaborar os mapas de faltas e licenças do pessoal dos serviços centrais;
 
 f) Instruir os processos relativos a horas extraordinárias, pagamento de serviços, vencimentos de exercício e deslocações.
 
-###### Art. 10.º À Secção de Expediente e Arquivo compete:
+Art. 10.º À Secção de Expediente e Arquivo compete:
 
 a) Organizar e manter actualizado o cadastro do pessoal;
 
@@ -198,7 +248,7 @@ c) Elaborar as listas de antiguidade do pessoal;
 
 d) Preparar os elementos relativos a pessoal não docente para o Anuário e outras publicações da Universidade.
 
-###### Art. 11.º - 1 - A Direcção dos Serviços Académicos exerce a sua acção nos domínios dos assuntos pedagógicos e dos títulos e graus académicos, bem como nos do rendimento escolar dos alunos e do fomento e apoio das actividades circum-escolares.
+Art. 11.º - 1 - A Direcção dos Serviços Académicos exerce a sua acção nos domínios dos assuntos pedagógicos e dos títulos e graus académicos, bem como nos do rendimento escolar dos alunos e do fomento e apoio das actividades circum-escolares.
 
 2 - A Direcção dos Serviços Académicos é dirigida por um director de serviços e compreende:
 
@@ -206,7 +256,7 @@ a) A Repartição Pedagógica;
 
 b) A Repartição de Graus e Títulos Académicos.
 
-###### Art. 12.º - 1 - À Repartição Pedagógica, que é dirigida por um chefe de repartição, compete a organização e instrução dos processos relativos:
+Art. 12.º - 1 - À Repartição Pedagógica, que é dirigida por um chefe de repartição, compete a organização e instrução dos processos relativos:
 
 a) Aos programas e planos de estudo;
 
@@ -218,7 +268,7 @@ d) Ao fomento e apoio das actividades circum-escolares.
 
 2 - À Repartição de Graus e Títulos Académicos, que é dirigida por um chefe de repartição, compete a organização e instrução dos processos relativos a equivalências e equiparação de habilitações, à criação e funcionamento dos cursos de mestrado e à concessão de graus e títulos académicos.
 
-###### Art. 13.º Ao Gabinete Técnico, que é orientado pelo técnico ou técnico superior de maior categoria nele colocado, compete:
+Art. 13.º Ao Gabinete Técnico, que é orientado pelo técnico ou técnico superior de maior categoria nele colocado, compete:
 
 a) Submeter os planos de execução de obras à aprovação do reitor ou da comissão por ele designada;
 
@@ -236,11 +286,11 @@ g) Zelar pelo cumprimento das determinações relativas à segurança das instal
 
 h) Emitir parecer sobre a aquisição de imóveis.
 
-###### Art. 14.º - 1 - O Serviço de Documentação e Publicações é dirigido por um director de serviços e exerce a sua acção nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para a Universidade, bem como nos da coordenação técnica e da integração funcional das bibliotecas nela existentes ou a criar.
+Art. 14.º - 1 - O Serviço de Documentação e Publicações é dirigido por um director de serviços e exerce a sua acção nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para a Universidade, bem como nos da coordenação técnica e da integração funcional das bibliotecas nela existentes ou a criar.
 
 2 - Compete ao Serviço de Documentação e Publicações programar, coordenar e orientar as publicações de carácter pedagógico, científico e cultural da Universidade.
 
-###### Art. 15.º - 1 - A Assessoria Jurídica é dirigida pelo técnico superior de maior categoria nela colocado.
+Art. 15.º - 1 - A Assessoria Jurídica é dirigida pelo técnico superior de maior categoria nela colocado.
 
 2 - Compete à Assessoria Jurídica:
 
@@ -252,7 +302,7 @@ c) Recolher, sistematizar e divulgar a legislação com interesse para os servi�
 
 d) Executar outras funções de natureza jurídica de interesse geral da Universidade ou específico de qualquer das respectivas escolas.
 
-###### Art. 16.º - 1 - A Assessoria de Planeamento é dirigida pelo técnico superior de maior categoria nela colocado e exerce a sua acção nos domínios da programação e do planeamento do ensino superior.
+Art. 16.º - 1 - A Assessoria de Planeamento é dirigida pelo técnico superior de maior categoria nela colocado e exerce a sua acção nos domínios da programação e do planeamento do ensino superior.
 
 2 - Compete à Assessoria de Planeamento:
 
@@ -266,7 +316,7 @@ d) Colaborar com a Direcção-Geral do Ensino Superior no processo de planeament
 
 e) Coordenar localmente os processos de realização da gestão orçamental do ensino superior.
 
-###### Art. 17.º Ao Gabinete de Relações Públicas, que é orientado pelo técnico superior de maior categoria nele colocado, compete:
+Art. 17.º Ao Gabinete de Relações Públicas, que é orientado pelo técnico superior de maior categoria nele colocado, compete:
 
 a) Colaborar na organização de conferências, exposições, congressos, reuniões ou outras actividades de carácter científico e cultural ou recreativo promovidas ou apoiadas pela Reitoria;
 
@@ -276,15 +326,15 @@ c) Assegurar os contactos da Universidade com os meios de comunicação social e
 
 d) Assegurar o secretariado e expediente próprios do reitor e dos vice-reitores.
 
-###### Art. 18.º O quadro do pessoal da Reitoria e serviços centrais da Universidade Técnica de Lisboa é o constante do mapa anexo ao presente diploma, de que faz parte integrante.
+Art. 18.º O quadro do pessoal da Reitoria e serviços centrais da Universidade Técnica de Lisboa é o constante do mapa anexo ao presente diploma, de que faz parte integrante.
 
-###### Art. 19.º Ao recrutamento e selecção do pessoal constante do mapa a que se refere o artigo anterior é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nas alíneas seguintes:
+Art. 19.º Ao recrutamento e selecção do pessoal constante do mapa a que se refere o artigo anterior é aplicável a lei geral ou especial sobre carreiras, salvo o disposto nas alíneas seguintes:
 
 a) Os lugares de administrador e director de serviços são providos nos termos fixados pelos diplomas aplicáveis ao pessoal dirigente, podendo os lugares de director de serviços ser também providos de entre secretários das faculdades, escolas ou institutos integrados na Universidade;
 
 b) Os lugares de chefe de repartição são providos de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre diplomados com curso superior e experiência adequada.
 
-###### Art. 20.º - 1 - O provimento do pessoal a que se referem os artigos anteriores é feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+Art. 20.º - 1 - O provimento do pessoal a que se referem os artigos anteriores é feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -302,9 +352,9 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro em que vier a ser provido definitivamente, finda a comissão.
 
-###### Art. 21.º O pessoal actualmente provido em lugares do quadro da Reitoria e serviços centrais da Universidade Técnica de Lisboa transita para o quadro do pessoal anexo ao presente diploma na mesma categoria e sem prejuízo das alterações que resultarem da aplicação do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+Art. 21.º O pessoal actualmente provido em lugares do quadro da Reitoria e serviços centrais da Universidade Técnica de Lisboa transita para o quadro do pessoal anexo ao presente diploma na mesma categoria e sem prejuízo das alterações que resultarem da aplicação do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
 
-###### Art. 22.º São revogados:
+Art. 22.º São revogados:
 
 a) Os artigos 27.º a 32.º do [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro, e o n.º 1 do artigo 39.º do mesmo diploma, na parte relativa à Universidade Técnica de Lisboa;
 
@@ -312,19 +362,19 @@ b) O [Decreto-Lei n.º 331/85](https://diariodarepublica.pt/dr/detalhe/decreto-l
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 15 de Setembro de 1988.**
+Promulgado em 15 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Setembro de 1988.**
+Referendado em 16 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 MAPA ANEXO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22500/39693973.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22500/39693973.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22500/39693973.pdf)
 
 Conteúdo funcional
 

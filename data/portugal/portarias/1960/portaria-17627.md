@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17627-1960-281857
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-11T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48f290c3c8b3031224a92ff6647058bc4392b9b911a6b78e02c4ee319e0e5e44
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 908be4ca615615bf735bd23ca6a00f1cb5e8c4766b0ca5dd605c9d18e864ac56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:189366:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:42Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Considerando a necessidade urgente de preencher os quadros de marinheiros para c
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que, nos termos do artigo 239.º do [Decreto n.º 30261](https://diariodarepublica.pt/dr/detalhe/decreto/30261-1940-189366), de 9 de Janeiro de 1940, o artigo 93.º do Regulamento do Corpo de Marinheiros da Armada passe a ter a seguinte redacção:
 
-###### Art. 93.º O comando do Corpo de Marinheiros, consideradas superiormente as necessidades do serviço activo e as exigências de manutenção de uma reserva eficiente, designará os primeiros-grumetes que hão-de frequentar cada um dos cursos do 1.º grau. A designação recairá nos que tenham melhor valorização final na instrução técnica elementar, independentemente da incorporação a que pertençam, e classificação de comportamento não inferior à 2.ª classe, sem faltas de carácter grave, e, de um modo geral, hajam revelado boas qualidades militares e profissionais, tendo em vista o seu aproveitamento na preparação de graduados.
+Art. 93.º O comando do Corpo de Marinheiros, consideradas superiormente as necessidades do serviço activo e as exigências de manutenção de uma reserva eficiente, designará os primeiros-grumetes que hão-de frequentar cada um dos cursos do 1.º grau. A designação recairá nos que tenham melhor valorização final na instrução técnica elementar, independentemente da incorporação a que pertençam, e classificação de comportamento não inferior à 2.ª classe, sem faltas de carácter grave, e, de um modo geral, hajam revelado boas qualidades militares e profissionais, tendo em vista o seu aproveitamento na preparação de graduados.
 
 § 1.º Quando o número de primeiros-grumetes for insuficiente poderão ser designados segundos-grumetes com, pelo menos, um ano de serviço e satisfazendo às condições indicadas no corpo deste artigo, até ser completado o número de alunos fixado para a frequência de cada curso do 1.º grau.
 

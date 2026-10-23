@@ -47,40 +47,89 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1988-380135
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2022-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee560092825b5140918a299025788b82f9d41c554894de7ebb1ded865ea7978d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5165f31444e915b4f8b5a04506f4a388dbbe48965bbccc4a1cd916e414c47911
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Preparatório
+- Pessoal Docente
 relationships:
 - type: amended_by
   target: pt:dre:187368943:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:548825:por
+  label: "Alterados os arts. 36º, 43º e 50º pelo DEC LEI.345/89.11.10.1989.ME, DR.IS [234] de 11.10.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/345-1989-548825
+  date: '1989-10-11'
+- type: amended_by
+  target: pt:dre:352900:por
+  label: "Alterados os arts. 1º, 3º, 16º, 19º e 21º pelo DEC LEI.15-A/99.1999.01.19.ME, DR.IS-A [15]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-a-1999-352900
+  date: '1999-01-19'
+- type: amended_by
+  target: pt:dre:301017:por
+  label: "Alterados os arts. 14º e 42º pelo DEC LEI.127/2000.2000.07.06.ME,DR.IS-A [154]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/127-2000-301017
+  date: '2000-07-06'
+- type: cites
+  target: pt:dre:195779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:275864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406111:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506397:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599749:por
+  label: null
+  source: null
 article_structure:
   article_count: 52
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:35Z'
   warnings: []
   errors: []
 ---
@@ -623,12 +672,12 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação e consi
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda.
 
-**Promulgado em 2 de Agosto de 1988.**
+Promulgado em 2 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Agosto de 1988.**
+Referendado em 4 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

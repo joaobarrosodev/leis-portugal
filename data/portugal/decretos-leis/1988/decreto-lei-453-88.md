@@ -46,40 +46,139 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1988-356568
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 262c5dabf0aa799d26149883231b4d4334192cfe18eea519d3c581eda191915b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 005b9438eaca14ba594c9e33831783c92782e46f7e5378929f976cde88465252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Dívida Pública
+- Fundo de Regularização da Dívida Pública
+- Obrigações do Tesouro
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:57701290:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:565576:por
+  label: Alterado o art. 3.º pelo DEC LEI.324/90.1990.10.19.MF DR.IS [242]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1990-565576
+  date: '1990-10-19'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 3 PELO DEC LEI 36/93 DE 13-FEV DR.IS-A [37] NA REDACÇÃO QUE LHE FOI DADA PELO ART 1 DO DEC LEI 324/90
+    DE 09-OUT
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-02-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ART 3 PELO DEC LEI 236/93 DE 03-JUL DR.IS-A [154]\0.IS-A [154]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-07-03'
+- type: amended_by
+  target: pt:dre:147253:por
+  label: "Alterado o art. 3º, com as alterações introduzidas pelos Dec Lei 324/90 de 19-Out, 36/93 de 13-Fev, e 236/93 de\
+    \ 03-Jul, pelo DEC LEI.2/95.1995.01.14.MF, DR.IS-A [12]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1995-147253
+  date: '1995-01-14'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Alterado o art. 6.º, pelo DEC LEI.158/96.1996.09.03.MF DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterado o art. 3º, com as redacções introduzidas pelos Dec Leis 324/90, de 19-Out, 36/93, de 13-Fev, 236/93 de\
+    \ 03-Jul e 2/95, de 14-Jan, pelo nº 2 do art. 59º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "Alterado o art. 3.º do presente diploma, na redacção dos Dec Lei 324/90 de 09-Out, 36/93 de 13-Fev, 236/93 de 03-Jul,\
+    \ 2/95 de 14-Jan e Leis 127-B/97 de 20-Dez e 53-A/2006 de 29-Dez, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de\
+    \ 31.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: cites
+  target: pt:dre:168809:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685257:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:197511:por
+  label: "Revogado o nº 5 do art. 3º do presente diploma, na redacção dos Dec Lei 324/90 de 19-Out, 36/93 de 13-Fev, 236/93\
+    \ de 03-Jul, 2/95 de 14-Jan e Lei 127-B/97 de 20-Dez, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: repealed_by
+  target: pt:dre:57701290:por
+  label: Revogadas as als. d) e e) do n.º 2 do art. 3.º (alterado pelo Dec Lei 324/90 de 19-out, pelo Dec Lei 36/93 de 13-fev,
+    pelo Dec Lei 236/93 de 03-jul, pelo Dec Lei 2/95 de 14-jan, pela Lei 127-B/97 de 20-dez, pela Lei 53-A/2006 de 29-dez
+    e pela Lei 64-A/2008 de 31-dez) pelo (a) Lei n.º 75-A/2014 - Diário da República n.º 188/2014, 1º Suplemento, Série I
+    de 2014-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-a-2014-57701290
+  date: '2014-09-30'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:46Z'
   warnings: []
   errors: []
 ---
@@ -218,12 +317,12 @@ b) O conselho consultivo, constituído por sete membros, em representação do B
 
 Visto e aprovado em Conselho de Ministros de 10 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

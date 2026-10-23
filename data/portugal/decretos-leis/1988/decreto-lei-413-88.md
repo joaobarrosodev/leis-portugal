@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26000/45044504.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1988-357912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2942f1ed5ada71cb602c90b02b32129b526c98c5b7f9b150688b98609d8fc6b5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3994c1df6ab4f615f0bc17f58c43c12b6e011ab5c92a3b269b8ec614d40c7a30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Comunitária
+- CEE
+- Ifadap
+- Juros
+- Pagamento
+- Política Agrícola Comum
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:41Z'
   warnings: []
   errors: []
 ---
@@ -101,20 +113,20 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O Estado assume a obrigação do pagamento dos juros decorrentes do empréstimo de 5 milhões de contos contraído em 1987 pelo IFADAP junto de instituições de crédito, destinado ao pagamento atempado das ajudas instituídas pelo Regulamento (CEE) n.º [797/85](https://data.europa.eu/eli/reg/1985/797/oj?locale=pt), de 12 de Março.
+Artigo 1.º O Estado assume a obrigação do pagamento dos juros decorrentes do empréstimo de 5 milhões de contos contraído em 1987 pelo IFADAP junto de instituições de crédito, destinado ao pagamento atempado das ajudas instituídas pelo Regulamento (CEE) n.º [797/85](https://data.europa.eu/eli/reg/1985/797/oj?locale=pt), de 12 de Março.
 
-###### Art. 2.º As importâncias correspondentes ao reembolso do FEOGA - Secção Orientação destinadas às acções em causa serão afectadas prioritariamente às amortizações do empréstimo referido no artigo anterior.
+Art. 2.º As importâncias correspondentes ao reembolso do FEOGA - Secção Orientação destinadas às acções em causa serão afectadas prioritariamente às amortizações do empréstimo referido no artigo anterior.
 
-###### Art. 3.º Para satisfação dos encargos previstos no artigo 1.º, fica a Direcção-Geral do Tesouro autorizada a inscrever no Orçamento do Estado as verbas necessárias.
+Art. 3.º Para satisfação dos encargos previstos no artigo 1.º, fica a Direcção-Geral do Tesouro autorizada a inscrever no Orçamento do Estado as verbas necessárias.
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

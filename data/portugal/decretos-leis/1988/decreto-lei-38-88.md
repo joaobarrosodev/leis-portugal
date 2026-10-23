@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03100/04160417.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1988-283083
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7d7e72172c5f51c012e5fe85926c9547d72a1f598b59b75eb75b1dc9d6f5d841
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a419197bf19adabe43d22a4149e7dc7c25cd9fc227677459668f6c2e5db310d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuição para o Audio-visual
+- Isenção Fiscal
+- RTP
+- Serviço Público
+- TAXA de Televisão
+- Televisão
 relationships:
 - type: amended_by
   target: pt:dre:508236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:369786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379110:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:508236:por
+  label: "Revogado pelo DEC LEI.53/91.26.01.1991.PCM, DR.IS-A [22] de 26.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/53-1991-508236
+  date: '1991-01-26'
 article_structure:
-  article_count: 7
+  article_count: 6
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:56Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +122,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 8.º, 9.º e 13.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 8.º, 9.º e 13.º do [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Registo
 
@@ -151,7 +170,7 @@ e) As cooperativas, as pessoas colectivas de utilidade pública, as pessoas cole
 
 3 - As isenções referidas nos números anteriores pressupõem e exigem o prévio ou simultâneo registo do ou dos aparelhos de televisão, para além de ficarem sempre dependentes de requerimento do interessado, devidamente instruído nos termos do artigo seguinte, e só serão válidas após despacho favorável do conselho de gerência da Radiotelevisão Portuguesa, E. P., ou da pessoa em quem aquele delegar tal competência.
 
-###### Art. 2.º São aditados os artigos 13.º-A e 13.º-B ao [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, com a seguinte redacção:
+Art. 2.º São aditados os artigos 13.º-A e 13.º-B ao [Decreto-Lei n.º 401/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1979-369786), de 21 de Setembro, com a seguinte redacção:
 
 ###### Artigo 13.º-A — Procedimentos
 
@@ -183,18 +202,18 @@ e) As cooperativas, as pessoas colectivas de utilidade pública, as pessoas cole
 
 3 - A Radiotelevisão Portuguesa, E. P., procederá à regularização dos valores correspondentes à redução a conceder, de acordo com a comunicação referida no número anterior.
 
-###### Art. 3.º Fica revogado o [Decreto-Lei n.º 472/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1982-379110), de 26 de Dezembro.
+Art. 3.º Fica revogado o [Decreto-Lei n.º 472/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1982-379110), de 26 de Dezembro.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - António Fernando Couto dos Santos.
 
-**Promulgado em 26 de Janeiro de 1988.**
+Promulgado em 26 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Janeiro de 1988.**
+Referendado em 28 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

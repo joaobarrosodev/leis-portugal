@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17618-1960-281854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 511c57b0ddf841d3f207be857bdea5f294befef2fbf429a04d81bcec7a04c56f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4368c112102d3f041819ffe3918e0f4c97daada8561703ef0aa7e3fb48893fc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:32Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +109,13 @@ a) Reforçar com as quantias que se indicam as seguintes verbas da tabela de des
 
 Despesas com o pessoal:
 
-###### Artigo 242.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 115.000$00
+Artigo 242.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei» ... 115.000$00
 
-###### Artigo 244.º, n.º 2) «Outras despesas com o pessoal - Alimentação a praças» ... 12.000$00
+Artigo 244.º, n.º 2) «Outras despesas com o pessoal - Alimentação a praças» ... 12.000$00
 
 Encargos gerais:
 
-###### Artigo 254.º, n.º 3), alínea a), 2.ª «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 95.000$00
+Artigo 254.º, n.º 3), alínea a), 2.ª «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 95.000$00
 
 ... 222.000$00
 
@@ -109,15 +125,15 @@ tomando como contrapartida as disponibilidades que se discriminam da referida ta
 
 Despesas com o pessoal:
 
-###### Artigo 243.º, n.º 4) «Remunerações acidentais - Gratificações de readmissão a praças indígenas» ... 15.000$00
+Artigo 243.º, n.º 4) «Remunerações acidentais - Gratificações de readmissão a praças indígenas» ... 15.000$00
 
-###### Artigo 244.º, n.º 3 «Outras despesas com o pessoal - Fardamento e calçado às praças» ... 150.000$00
+Artigo 244.º, n.º 3 «Outras despesas com o pessoal - Fardamento e calçado às praças» ... 150.000$00
 
 Despesas com o material:
 
-###### Artigo 245.º «Construções e obras novas» ... 46.000$00
+Artigo 245.º «Construções e obras novas» ... 46.000$00
 
-###### Artigo 247.º, n.º 3) «Despesas de conservação e aproveitamento - De móveis» ... 11.000$00
+Artigo 247.º, n.º 3) «Despesas de conservação e aproveitamento - De móveis» ... 11.000$00
 
 ... 222.000$00
 
@@ -127,11 +143,11 @@ b) Reforçar com as quantias que se indicam as seguintes verbas da tabela de des
 
 Despesas com o pessoal:
 
-###### Artigo 1481.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 2:000.000$00
+Artigo 1481.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 2:000.000$00
 
 Pagamento de serviços:
 
-###### Artigo 1490.º, n.º 4) «Diversos serviços - Despesas com a instrução complementar dos quadros milicianos» ... 700.000$00
+Artigo 1490.º, n.º 4) «Diversos serviços - Despesas com a instrução complementar dos quadros milicianos» ... 700.000$00
 
 ... 2:700.000$00
 

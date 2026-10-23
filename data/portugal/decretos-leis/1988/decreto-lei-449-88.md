@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28400/48864887.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1988-356513
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c4676a72817486d3ae4ba641a5a359e3a39780a1bf2fa562c393caeab4be98f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1a07bff60022cd0a397f950e5fe3414d4c8dfdd7552e820ea06b110ea35c164c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condicionamento Industrial
+- Iniciativa Privada
+- Setor Privado
+- Setor Público
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Alterado o artigo 4.º pelo Decreto-Lei 339/91, de 10 de Setembro, DR.IS-A [208], na redacção do presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-09-10'
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:250456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649103:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:36Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +135,9 @@ Assim:
 
 No uso da autorização legislativa concedida pela [Lei n.º 110/88](https://diariodarepublica.pt/dr/detalhe/lei/110-1988-649103), de 29 de Setembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 4.º, 5.º, 7.º e 9.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 4.º, 5.º, 7.º e 9.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas:
+Art. 4.º - 1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas:
 
 a) Captação, tratamento e distribuição de água para consumo público, através de redes fixas;
 
@@ -128,28 +155,28 @@ g) Exploração de portos marítimos e aeroportos.
 
 2 - As actividades de telecomunicações e de transporte aéreo regular referidas nas alíneas d) e e) do n.º 1, e que se mantêm vedadas a empresas privadas e a outras entidades da mesma natureza, podem ser exercidas por empresas que resultem da associação de entidades do sector público, em posição obrigatoriamente maioritária no capital social da nova sociedade, com outras entidades.
 
-###### Art. 5.º - 1 - É vedado a empresas privadas e outras entidades da mesma natureza o acesso à indústria de armamento, podendo o Governo autorizar, contudo, em casos excepcionais e por razões imperativas, o exercício da actividade a empresas que resultem da associação do sector público, em posição obrigatoriamente maioritária no capital social, com outras entidades, designadamente estrangeiras, desde que disponham de exclusivos de natureza tecnológica não negociáveis de forma adequada ou detenham posição dominante em mercados internacionais de estrutura oligopolista em que o sector público não tenha, por si só, capacidade de penetração.
+Art. 5.º - 1 - É vedado a empresas privadas e outras entidades da mesma natureza o acesso à indústria de armamento, podendo o Governo autorizar, contudo, em casos excepcionais e por razões imperativas, o exercício da actividade a empresas que resultem da associação do sector público, em posição obrigatoriamente maioritária no capital social, com outras entidades, designadamente estrangeiras, desde que disponham de exclusivos de natureza tecnológica não negociáveis de forma adequada ou detenham posição dominante em mercados internacionais de estrutura oligopolista em que o sector público não tenha, por si só, capacidade de penetração.
 
 2 - A indústria de armamento, para efeitos do presente artigo, será definida mediante decreto-lei.
 
-###### Art. 7.º - 1 - A exploração dos recursos do subsolo e dos outros recursos naturais que, nos termos constitucionais, são pertencentes ao Estado será sempre sujeita ao regime de concessão ou outro que não envolva a transmissão de propriedade dos recursos a explorar, mesmo quando a referida exploração seja realizada por empresas do sector público ou de economia mista.
+Art. 7.º - 1 - A exploração dos recursos do subsolo e dos outros recursos naturais que, nos termos constitucionais, são pertencentes ao Estado será sempre sujeita ao regime de concessão ou outro que não envolva a transmissão de propriedade dos recursos a explorar, mesmo quando a referida exploração seja realizada por empresas do sector público ou de economia mista.
 
 2 - As empresas directamente nacionalizadas que exerçam actividades no âmbito da indústria petroquímica de base podem ser objecto de exploração ou gestão, em regime de concessão, por entidades privadas.
 
-###### Art. 9.º - 1 - Para além do disposto no n.º 2 do artigo 7.º, a exploração e gestão de outras empresas referidas no artigo 2.º poderá, ouvidos os trabalhadores, ser confiada pelo Governo, em termos a definir por decreto-lei, a entidades privadas, em casos excepcionais e nunca com carácter definitivo, desde que tal se mostre necessário para uma melhor realização do interesse público e dos objectivos do Plano.
+Art. 9.º - 1 - Para além do disposto no n.º 2 do artigo 7.º, a exploração e gestão de outras empresas referidas no artigo 2.º poderá, ouvidos os trabalhadores, ser confiada pelo Governo, em termos a definir por decreto-lei, a entidades privadas, em casos excepcionais e nunca com carácter definitivo, desde que tal se mostre necessário para uma melhor realização do interesse público e dos objectivos do Plano.
 
 2 - O regime excepcional previsto no número anterior não é aplicável a empresas que desenvolvam a sua actividade nos sectores fundamentais a que se referem os artigos 4.º e 5.º, com excepção da alínea g) do artigo 4.º
 
-###### Art. 2.º É revogado o n.º 3 do artigo 4.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho.
+Art. 2.º É revogado o n.º 3 do artigo 4.º da [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Julho.
 
 Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Eurico Silva Teixeira de Melo - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

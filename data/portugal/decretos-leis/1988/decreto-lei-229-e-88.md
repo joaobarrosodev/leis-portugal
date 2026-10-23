@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(12) a 2732-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00120014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-e-1988-644325
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-06-04T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78d4941bd9ad1ddc2d13746dfe06e3f9521403120d20936ebaa8a7a07a1f01bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4d0c6fd10702ed9cf173a6112e8b5f192dac835f1ae5c22e126e99de402b1f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regime Jurídico
+- Sociedade Gestora de Patrimónios
+- Sociedade Parabancária
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:301411:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342174:por
+  label: "Alterados os arts. 2º, 3º, 4º e 10º, pelo DEC LEI.417/91.1991.10.26.MF DR.IS-A [247]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1991-342174
+  date: '1991-10-26'
+- type: repealed_by
+  target: pt:dre:301411:por
+  label: "Revogado pelo DEC LEI.163/94.1994.06.04.MF, DR.IS-A [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1994-301411
+  date: '1994-06-04'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:10Z'
   warnings: []
   errors: []
 ---
@@ -236,12 +250,12 @@ Verificando-se alguma situação de desequilíbrio susceptível de afectar o reg
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1988.**
+Referendado em 23 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

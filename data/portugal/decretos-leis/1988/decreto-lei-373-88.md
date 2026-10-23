@@ -46,36 +46,93 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1988-354169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b08ee67ef92368f6101c21951817a878fefc41c8548046df1cb7ac3bffb85f32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f34fbca81402a9fe167aa62416de3ec114172597dc15eb566e9472caadc198a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autonomia Universitária
+- Conselho Científico
+- Conselho Consultivo
+- Ensino Superior
+- Ensino Superior Politécnico
+- Escola Superior de Educação
+- Escola Superior de Gestão Hotelaria e Turismo
+- Escola Superior de Tecnologia
+- Faro
+- Instituto Politécnico
+- Orgânica
+- Regime de Instalação
+- Universidade do Algarve
+relationships:
+- type: cites
+  target: pt:dre:172090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226587:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382868:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401035:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406102:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:44Z'
   warnings: []
   errors: []
 ---
@@ -100,15 +157,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - A Universidade do Algarve e o Instituto Politécnico de Faro, adiante designados abreviadamente por Universidade e por Instituto, são articulados, para efeitos de gestão comum, nos termos do presente diploma.
+Artigo 1.º - 1 - A Universidade do Algarve e o Instituto Politécnico de Faro, adiante designados abreviadamente por Universidade e por Instituto, são articulados, para efeitos de gestão comum, nos termos do presente diploma.
 
 2 - A articulação a que se refere o número anterior é feita sem perda da autonomia e das características próprias do ensino universitário e do ensino politécnico ministrado por aquelas instituições.
 
-###### Art. 2.º - 1 - A Universidade e o Instituto são dotados de personalidade jurídica e gozam de autonomia pedagógica e científica.
+Art. 2.º - 1 - A Universidade e o Instituto são dotados de personalidade jurídica e gozam de autonomia pedagógica e científica.
 
 2 - A Universidade e o Instituto gozam ainda de autonomia administrativa e financeira e dispõem de património e orçamento comuns.
 
-###### Art. 3.º A Universidade e o Instituto têm por fins:
+Art. 3.º A Universidade e o Instituto têm por fins:
 
 a) A organização e o funcionamento de actividades de ensino superior;
 
@@ -118,7 +175,7 @@ c) A prestação de serviços à comunidade;
 
 d) A formação permanente nas áreas em que se exerce a sua acção.
 
-###### Art. 4.º Para a prossecução dos fins previstos no artigo anterior, compete essencialmente à Universidade e ao Instituto:
+Art. 4.º Para a prossecução dos fins previstos no artigo anterior, compete essencialmente à Universidade e ao Instituto:
 
 a) Ministrar, respectivamente, cursos de ensino universitário e de ensino politécnico;
 
@@ -130,9 +187,9 @@ d) Realizar cursos de pós-graduação, de especialização ou de actualização
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 5.º A Universidade e o Instituo dispõem de órgãos e serviços comuns.
+Art. 5.º A Universidade e o Instituo dispõem de órgãos e serviços comuns.
 
-###### Art. 6.º - 1 - São órgãos comuns da Universidade e do Instituto:
+Art. 6.º - 1 - São órgãos comuns da Universidade e do Instituto:
 
 a) O reitor;
 
@@ -142,7 +199,7 @@ c) O conselho administrativo.
 
 2 - Durante o período de instalação, podem ser criados pelo reitor conselhos consultivos cuja composição, atribuições e duração serão fixadas no despacho que proceder à sua criação.
 
-###### Art. 7.º - 1 - Durante o período de instalação, o reitor é nomeado e exonerado livremente por despacho do Ministro da Educação de entre professores catedráticos de nomeação definitiva.
+Art. 7.º - 1 - Durante o período de instalação, o reitor é nomeado e exonerado livremente por despacho do Ministro da Educação de entre professores catedráticos de nomeação definitiva.
 
 2 - O reitor será coadjuvado por dois vice-reitores, nomeados e exonerados por despacho do Ministro da Educação, sob proposta do reitor.
 
@@ -154,7 +211,7 @@ c) O conselho administrativo.
 
 6 - O reitor goza ainda das competência atribuídas por lei aos presidentes dos institutos politécnicos.
 
-###### Art. 8.º - 1 - A comissão instaladora é constituída:
+Art. 8.º - 1 - A comissão instaladora é constituída:
 
 a) Pelo reitor, que preside;
 
@@ -174,9 +231,9 @@ e) Pelo administrador, que exerce a função de secretário da comissão.
 
 5 - É reconhecido aos membros da comissão instaladora o direito de opção pelos vencimentos dos lugares de origem.
 
-###### Art. 9.º O conselho administrativo é o órgão de gestão financeira e patrimonial da Universidade e do Instituto.
+Art. 9.º O conselho administrativo é o órgão de gestão financeira e patrimonial da Universidade e do Instituto.
 
-###### Art. 10.º - 1 - O conselho administrativo é composto:
+Art. 10.º - 1 - O conselho administrativo é composto:
 
 a) Pelo reitor, que preside;
 
@@ -190,7 +247,7 @@ d) Pelo director dos serviços administrativos, que exerce a função de secret�
 
 3 - É aplicável às reuniões do conselho administrativo, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 8.º do presente diploma.
 
-###### Art. 11.º - 1 - São serviços comuns da Universidade e do Instituto:
+Art. 11.º - 1 - São serviços comuns da Universidade e do Instituto:
 
 a) Os serviços administrativos;
 
@@ -208,21 +265,21 @@ g) Os serviços gráficos.
 
 2 - A Universidade e o Instituto dispõem ainda de serviços sociais comuns.
 
-###### Art. 12.º - 1 - Os serviços a que se referem as alíneas a) a e) do n.º 1 do artigo anterior constituem direcções de serviços, competindo ao administrador a coordenação e superintendência dos serviços administrativos e dos serviços académicos.
+Art. 12.º - 1 - Os serviços a que se referem as alíneas a) a e) do n.º 1 do artigo anterior constituem direcções de serviços, competindo ao administrador a coordenação e superintendência dos serviços administrativos e dos serviços académicos.
 
 2 - A superintendência dos serviços referidos nas alíneas f) e g) do n.º 1 do artigo anterior competirá a docentes ou a técnicos superiores, a designar por despacho do reitor.
 
-###### Art. 13.º É aplicável ao administrador o [Decreto-Lei n.º 582/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1980-226587), de 31 de Dezembro, em tudo o que não contrarie o disposto no presente diploma.
+Art. 13.º É aplicável ao administrador o [Decreto-Lei n.º 582/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1980-226587), de 31 de Dezembro, em tudo o que não contrarie o disposto no presente diploma.
 
 ### CAPÍTULO III — Composição
 
-###### Art. 14.º - 1 - Para o exercício das suas atribuições, a Universidade é constituída por unidades estruturais e o Instituto por escolas superiores.
+Art. 14.º - 1 - Para o exercício das suas atribuições, a Universidade é constituída por unidades estruturais e o Instituto por escolas superiores.
 
 2 - As unidades estruturais e as escolas superiores, adiante designadas por unidades e escolas, respectivamente, são de natureza interdisciplinar, em domínios especializados de ensino, de investigação e de prestação de serviços à comunidade.
 
 3 - As unidades e as escolas gozam de autonomia científica e pedagógica, sem prejuízo do direito de os órgãos comuns da Universidade e do Instituto procederem à fixação de orientações gerais, que por elas deverão ser observadas na prossecução dos seus objectivos.
 
-###### Art. 15.º A Universidade é constituída seguintes unidades:
+Art. 15.º A Universidade é constituída seguintes unidades:
 
 a) Unidade de Ciências e Tecnologias Agrárias;
 
@@ -232,7 +289,7 @@ c) Unidade de Economia e Administração;
 
 d) Unidade de Ciênicas Exactas e Humanas.
 
-###### Art. 16.º - 1 - O Instituto é constituído pelas seguintes escolas:
+Art. 16.º - 1 - O Instituto é constituído pelas seguintes escolas:
 
 a) Escola Superior de Educação;
 
@@ -242,7 +299,7 @@ c) Escola Superior de Gestão, Hotelaria e Turismo.
 
 2 - A Escola Superior de Tecnologia e a Escola Superior de Gestão, Hotelaria e Turismo resultam da reconversão da Escola Superior de Tecnologia e Gestão e da Escola Superior de Hotelaria e Turismo, criadas, respectivamente, pelo [Decreto-Lei n.º 513-T/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-t-1979-430025), de 26 de Dezembro, e pelo [Decreto do Governo n.º 46/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/46-1985-172090), de 22 de Novembro.
 
-###### Art. 17.º São órgãos de cada unidade ou escola:
+Art. 17.º São órgãos de cada unidade ou escola:
 
 a) A comissão instaladora;
 
@@ -250,7 +307,7 @@ b) O conselho científico;
 
 c) O conselho consultivo.
 
-###### Art. 18.º - 1 - Cada comissão instaladora é constituída por um presidente e dois vogais, nomeados e exonerados por despacho do Ministro da Educação, sob proposta do reitor, de entre professores do ensino superior ou personalidades de reconhecido mérito científico ou profissional.
+Art. 18.º - 1 - Cada comissão instaladora é constituída por um presidente e dois vogais, nomeados e exonerados por despacho do Ministro da Educação, sob proposta do reitor, de entre professores do ensino superior ou personalidades de reconhecido mérito científico ou profissional.
 
 2 - As nomeações a que se refere o número anterior serão efectuadas em regime de comissão de serviço, a menos que recaiam sobre gestores ou técnicos do sector empresarial público ou privado, caso em que se considerarão efectuadas em regime de requisição.
 
@@ -262,7 +319,7 @@ c) O conselho consultivo.
 
 6 - É aplicável às reuniões das comissões instaladoras das unidades ou escolas o disposto nos n.os 2 e 3 do artigo 8.º do presente diploma.
 
-###### Art. 19.º - 1 - O conselho científico de cada unidade ou escola é constituído por todos os professores em efectividade de funções e pelos membros da comissão instaladora da respectiva unidade ou escola.
+Art. 19.º - 1 - O conselho científico de cada unidade ou escola é constituído por todos os professores em efectividade de funções e pelos membros da comissão instaladora da respectiva unidade ou escola.
 
 2 - Podem fazer parte do conselho científico de uma unidade ou escola professores de outra unidade ou escola, desde que designados por despacho do reitor, sob proposta da comissão instaladora competente.
 
@@ -278,7 +335,7 @@ b) Enquanto não se verificar a situação prevista na alínea anterior, as comp
 
 6 - Aos membros dos conselhos científicos a que se refere o n.º 3 do presente artigo é aplicável o disposto no n.º 2 do artigo 43.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, sendo a ajuda de custo a correspondente à letra B sempre que se trate de elementos não vinculados à função pública.
 
-###### Art. 20.º - 1 - O conselho consultivo é constituído:
+Art. 20.º - 1 - O conselho consultivo é constituído:
 
 a) Por docentes da unidade ou escola, até ao máximo de dois por curso nela professado;
 
@@ -290,7 +347,7 @@ b) Por personalidades não pertencentes à instituição, de reconhecido mérito
 
 4 - Aos membros dos conselhos consultivos a que se refere a alínea b) do n.º 1 do presente artigo é aplicável o disposto no n.º 2 do artigo 43.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, sendo a ajuda de custo a correspondente à letra B sempre que se trate de elementos não vinculados à função pública.
 
-###### Art. 21.º - 1 - As unidades ou escolas que contarem, pelo menos, com 25 elementos de pessoal docente disporão de um secretário.
+Art. 21.º - 1 - As unidades ou escolas que contarem, pelo menos, com 25 elementos de pessoal docente disporão de um secretário.
 
 2 - Os secretários têm a categoria e as atribuições previstas nos Decretos-Leis n.os [375/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1984-401035), de 29 de Novembro, e [260/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1988-372634), de 23 de Julho, competindo-lhes ainda secretariar as reuniões da comissão instaladora da unidade ou escola, sem direito a voto.
 
@@ -298,9 +355,9 @@ b) Por personalidades não pertencentes à instituição, de reconhecido mérito
 
 ### CAPÍTULO IV — Administração das unidades e das escolas
 
-###### Art. 22.º As unidades e as escolas gozam de autonomia administrativa.
+Art. 22.º As unidades e as escolas gozam de autonomia administrativa.
 
-###### Art. 23.º No âmbito da autonomia prevista no número anterior, cada unidade ou escola:
+Art. 23.º No âmbito da autonomia prevista no número anterior, cada unidade ou escola:
 
 a) Dispõe de orçamento anual fixado pelo conselho administrativo da Universidade e do Instituto;
 
@@ -316,54 +373,54 @@ f) Promove a realização dos actos tendentes à aquisição de bens e serviços
 
 g) Autoriza despesas nos termos legais, até ao limite das verbas inscritas nas rubricas adequadas do respectivo orçamento.
 
-###### Art. 24.º Durante o período de instalação, as competências a que se refere o artigo anterior serão exercidas pela comissão instaladora da unidade ou escola.
+Art. 24.º Durante o período de instalação, as competências a que se refere o artigo anterior serão exercidas pela comissão instaladora da unidade ou escola.
 
 ### CAPÍTULO V — Pessoal
 
-###### Art. 25.º Até ao termo do período de instalação serão fixados os quadros do pessoal docente da Universidade e do Instituto e o quadro comum do pessoal não docente das duas instituições.
+Art. 25.º Até ao termo do período de instalação serão fixados os quadros do pessoal docente da Universidade e do Instituto e o quadro comum do pessoal não docente das duas instituições.
 
-###### Art. 26.º Sem prejuízo do disposto no artigo anterior, é criado desde já o quadro de pessoal dirigente da Universidade e do Instituto, constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+Art. 26.º Sem prejuízo do disposto no artigo anterior, é criado desde já o quadro de pessoal dirigente da Universidade e do Instituto, constante do mapa anexo ao presente diploma, do qual faz parte integrante.
 
-###### Art. 27.º - 1 - Nos quadros do pessoal docente da Universidade e do Instituto serão criados os lugares indispensáveis à satisfação das necessidades previsíveis a curto prazo das unidades e das escolas.
+Art. 27.º - 1 - Nos quadros do pessoal docente da Universidade e do Instituto serão criados os lugares indispensáveis à satisfação das necessidades previsíveis a curto prazo das unidades e das escolas.
 
 2 - É permitida a intercomunicabilidade das carreiras previstas no número anterior, desde que observados os requisitos estabelecidos para o provimento nos respectivos lugares.
 
-###### Art. 28.º - 1 - O serviço docente nas respectivas unidades e escolas deve ser preferencialmente assegurado pelo pessoal docente que lhes está afecto, sem prejuízo de poder ser também assegurado por pessoal de outras unidades ou escolas, independentemente da carreira, universitária ou politécnica, em que esse pessoal estiver integrado.
+Art. 28.º - 1 - O serviço docente nas respectivas unidades e escolas deve ser preferencialmente assegurado pelo pessoal docente que lhes está afecto, sem prejuízo de poder ser também assegurado por pessoal de outras unidades ou escolas, independentemente da carreira, universitária ou politécnica, em que esse pessoal estiver integrado.
 
 2 - Neste último caso, a carga horária semanal de cada docente é calculada pela soma dos serviços docentes prestados nas diferentes unidades e escolas.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### Art. 29.º A Universidade e o Instituto mantêm-se em regime de instalação até que, ao abrigo do disposto no [Decreto-Lei n.º 419/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1987-406102), de 31 de Dezembro, seja posto termo ao referido regime.
+Art. 29.º A Universidade e o Instituto mantêm-se em regime de instalação até que, ao abrigo do disposto no [Decreto-Lei n.º 419/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1987-406102), de 31 de Dezembro, seja posto termo ao referido regime.
 
-###### Art. 30.º É aplicável à Universidade e ao Instituto o disposto no [Decreto-Lei n.º 307/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1987-417049), de 6 de Agosto.
+Art. 30.º É aplicável à Universidade e ao Instituto o disposto no [Decreto-Lei n.º 307/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1987-417049), de 6 de Agosto.
 
-###### Art. 31.º - 1 - Os actuais reitor, vice-reitores, administrador e directores de serviços da Universidade serão integrados em lugares correspondentes do quadro a que se refere o artigo 26.º do presente diploma, com dispensa de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
+Art. 31.º - 1 - Os actuais reitor, vice-reitores, administrador e directores de serviços da Universidade serão integrados em lugares correspondentes do quadro a que se refere o artigo 26.º do presente diploma, com dispensa de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.
 
 2 - O actual administrador do Instituto e os actuais secretários das escolas nele integradas transitam, respectivamente, para os lugares de director dos serviços administrativos e de secretário previstos naquele quadro, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas.
 
-###### Art. 32.º - 1 - A admissão de pessoal docente pela Universidade e de pessoal não docente pela Universidade e pelo Instituto regula-se pela [Resolução do Conselho de Ministros n.º 87/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-1986-221309), de 15 de Dezembro.
+Art. 32.º - 1 - A admissão de pessoal docente pela Universidade e de pessoal não docente pela Universidade e pelo Instituto regula-se pela [Resolução do Conselho de Ministros n.º 87/86](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-1986-221309), de 15 de Dezembro.
 
 2 - A admissão de pessoal docente pelo Instituto está sujeita às regras de descongelamento estabelecidas para os restantes institutos politécnicos.
 
-###### Art. 33.º - 1 - O património, incluindo as instalações e o equipamento, bem como os direitos e as obrigações, da Universidade e do Instituto, passa a constituir um património comum.
+Art. 33.º - 1 - O património, incluindo as instalações e o equipamento, bem como os direitos e as obrigações, da Universidade e do Instituto, passa a constituir um património comum.
 
 2 - Os saldos das dotações orçamentais da Universidade e do Instituto para o corrente ano económico passam a constituir um orçamento comum.
 
-###### Art. 34.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 34.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 29 de Setembro de 1988.**
+Promulgado em 29 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1988.**
+Referendado em 3 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa de pessoal a que se refere o artigo 26.º do Decreto-Lei n.º 373/88, de 17 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24000/42334236.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24000/42334236.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42334236.pdf)

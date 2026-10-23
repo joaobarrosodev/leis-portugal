@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1988-378095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-12-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32013d01b1ac386f645052c5a2948588a587bbfe415c38112eb901b68a8b74c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d02eed5316282a40d5fc51f021ff77bc7662d8bc9c87b23e7daa4bb127b5a311
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bolsa de Estudos
+- Bolseiro
+- Equiparação a Bolseiro
+- Função Pública
+- Funcionário Público
 relationships:
 - type: amended_by
   target: pt:dre:72909748:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:307782:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385431:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400032:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451811:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:15Z'
   warnings: []
   errors: []
 ---
@@ -100,32 +125,32 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Aos funcionários e agentes do Estado e das demais pessoas colectivas de direito público poderá ser concedida a equiparação a bolseiro no País, quando se proponham realizar programas de trabalho e estudo, bem como frequentar cursos ou estágios de reconhecido interesse público.
+Artigo 1.º - 1 - Aos funcionários e agentes do Estado e das demais pessoas colectivas de direito público poderá ser concedida a equiparação a bolseiro no País, quando se proponham realizar programas de trabalho e estudo, bem como frequentar cursos ou estágios de reconhecido interesse público.
 
 2 - A autorização referida no número anterior não poderá ser concedida para a realização de programas de trabalho e estudo, cursos ou estágios, com duração inferior a três meses.
 
-###### Art. 2.º - 1 - A equiparação a bolseiro caracteriza-se pela dispensa temporária, total ou parcial, do exercício das funções, sem prejuízo das regalias inerentes ao seu efectivo desempenho, designadamente o abono da respectiva remuneração e a contagem de tempo de serviço para todos os efeitos legais.
+Art. 2.º - 1 - A equiparação a bolseiro caracteriza-se pela dispensa temporária, total ou parcial, do exercício das funções, sem prejuízo das regalias inerentes ao seu efectivo desempenho, designadamente o abono da respectiva remuneração e a contagem de tempo de serviço para todos os efeitos legais.
 
 2 - A equiparação a bolseiro é temporária e não dá origem à abertura de vaga, podendo, no entanto, o respectivo lugar ser preenchido em regime de substituição nos termos gerais, no caso de se tratar de cargos dirigentes.
 
-###### Art. 3.º - 1 - Compete ao membro do Governo responsável pelo sector, mediante requerimento do interessado e parecer da unidade orgânica em que este está integrado, autorizar, com faculdade de delegação, a equiparação a bolseiro, mediante despacho que fixará a respectiva duração, condições e termos.
+Art. 3.º - 1 - Compete ao membro do Governo responsável pelo sector, mediante requerimento do interessado e parecer da unidade orgânica em que este está integrado, autorizar, com faculdade de delegação, a equiparação a bolseiro, mediante despacho que fixará a respectiva duração, condições e termos.
 
 2 - A autorização de equiparação a bolseiro é revogável a todo o tempo, com fundamento no incumprimento das obrigações a que ficou sujeito o equiparado.
 
 3 - O despacho que concede a equiparação a bolseiro será objecto de publicação na 2.ª série do Diário da República, quando envolva dispensa total do exercício das respectivas funções ou seja concedida por período igual ou superior a seis meses.
 
-###### Art. 4.º - 1 - O disposto no presente diploma não prejudica o regime constante do [Decreto-Lei n.º 29/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1983-307782), de 22 de Janeiro, e do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro.
+Art. 4.º - 1 - O disposto no presente diploma não prejudica o regime constante do [Decreto-Lei n.º 29/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1983-307782), de 22 de Janeiro, e do [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro.
 
 2 - É revogado o [Decreto-Lei n.º 218/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1983-451811), de 25 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 18 de Julho de 1988.**
+Promulgado em 18 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Julho de 1988.**
+Referendado em 20 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

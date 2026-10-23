@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/20800/37093709.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1988-370257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 24a23a089145c0b1874d8dcd5a8d1359a394f658a3d397cc92b248dec59bdfb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 99ac46fa7455221688ae736cfdc9080d7813a4f29552297fc2aa1d190b11f5ac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cargo Público
+- Governador Civil
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:15Z'
   warnings: []
   errors: []
 ---
@@ -98,22 +114,22 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 399-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), de 23 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 399-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-b-1984-621936), de 23 de Dezembro, passam a ter a seguinte redacção:
 
-###### Art. 3.º - 1 - A remuneração base do governador civil é fixada em 75% do vencimento mensal ilíquido correspondente ao cargo de secretário de Estado.
+Art. 3.º - 1 - A remuneração base do governador civil é fixada em 75% do vencimento mensal ilíquido correspondente ao cargo de secretário de Estado.
 
 2 - A remuneração base do vice-governador civil é fixada em 60% do vencimento mensal ilíquido correspondente ao cargo de secretário de Estado.
 
-###### Art. 2.º O disposto no artigo anterior produz efeitos desde 1 de Janeiro de 1988.
+Art. 2.º O disposto no artigo anterior produz efeitos desde 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
 
-**Promulgado em 24 de Agosto de 1988.**
+Promulgado em 24 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Agosto de 1988.**
+Referendado em 26 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.

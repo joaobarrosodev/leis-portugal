@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1988-354112
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-25T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f0f2a9004689aa4730127b6e36e8e7c275b0b73f049787e76407a2e618a2f34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37de39d8238cb031c00ba72d95071f5ee2d4b788551ea34dad8653de8ffb9a6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Confisco de BENS
+- Sociedade Comercial Estrangeira
+relationships:
+- type: cites
+  target: pt:dre:251186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661161:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684061:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:01Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +117,13 @@ Entretanto, e apenas para evitar a tão inconveniente dispersão legislativa, ap
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - Os bens situados em Portugal que pertençam a sociedades estrangeiras cujo património tenha sido objecto de providências de confisco ou equiparadas nos respectivos países respondem pelas obrigações regularmente contraídas pela sociedade em Portugal.
+Artigo 1.º - 1 - Os bens situados em Portugal que pertençam a sociedades estrangeiras cujo património tenha sido objecto de providências de confisco ou equiparadas nos respectivos países respondem pelas obrigações regularmente contraídas pela sociedade em Portugal.
 
 2 - São equiparados ao confisco do património da sociedade o confisco total ou parcial de títulos ou partes representativas de capital, bem como outras providências que, por qualquer modo, alterem, sem prévio acordo com os sócios, o domínio da sociedade.
 
 3 - As obrigações referidas no n.º 1 deste artigo são as que resultam de contratos celebrados em Portugal, ou de responsabilidade civil, contratual ou extracontratual, por factos ilícitos ocorridos em Portugal, desde que à data das providências de confisco ou equiparadas já estivessem vencidas ou para a sua exigibilidade apenas faltasse o decurso de algum prazo.
 
-###### Art. 2.º Para os efeitos previstos no presente diploma, consideram-se bens situados em Portugal, designadamente:
+Art. 2.º Para os efeitos previstos no presente diploma, consideram-se bens situados em Portugal, designadamente:
 
 a) Os créditos da sociedade sobre devedores portugueses ou residentes em Portugal e, bem assim, as participações em sociedades com sede em Portugal;
 
@@ -119,7 +133,7 @@ c) Os bens sub-rogados no lugar de bens inicial ou posteriormente submetidos à 
 
 d) Os bens que, pertencendo a terceiros ou à própria sociedade, sejam detidos pela administração especial, como caução ou garantia de débitos, reembolsos ou substituições para com ou relativamente ao património especial sujeito à administração especial prevista no artigo 3.º
 
-###### Art. 3.º - 1 - A administração e disposição dos bens referidos no artigo anterior, até à verificação de qualquer dos factos previstos no n.º 1 do artigo 5.º e no artigo 11.º, compete unicamente a qualquer das pessoas que à data da providência referida no n.º 1 do artigo 1.º estejam eleitas ou designadas administradores ou gerentes da sociedade estrangeira, desde que:
+Art. 3.º - 1 - A administração e disposição dos bens referidos no artigo anterior, até à verificação de qualquer dos factos previstos no n.º 1 do artigo 5.º e no artigo 11.º, compete unicamente a qualquer das pessoas que à data da providência referida no n.º 1 do artigo 1.º estejam eleitas ou designadas administradores ou gerentes da sociedade estrangeira, desde que:
 
 a) Tendo nacionalidade portuguesa, não residam nem se encontrem à data da providência mencionada no território do Estado confiscante;
 
@@ -129,9 +143,9 @@ b) Não tendo nacionalidade portuguesa, à data da mencionada providência resid
 
 3 - Os requisitos previstos no número anterior são exigidos quer a providência seja anterior ou posterior à entrada em vigor do [Decreto-Lei n.º 301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, e qualquer que seja a sua modalidade.
 
-###### Art. 4.º A administração dos bens compreende, designadamente, o pagamento das dívidas contraídas regularmente em Portugal, realizando os fundos necessários para esse efeito, e o exercício dos cargos de gerente ou administrador que à sociedade competiam em sociedades suas subsidiárias com sede em Portugal.
+Art. 4.º A administração dos bens compreende, designadamente, o pagamento das dívidas contraídas regularmente em Portugal, realizando os fundos necessários para esse efeito, e o exercício dos cargos de gerente ou administrador que à sociedade competiam em sociedades suas subsidiárias com sede em Portugal.
 
-###### Art. 5.º - 1 - Com ressalva da previsão do n.º 1 do artigo 8.º deste diploma, os sócios portugueses ou residentes em Portugal que representem, pelo menos, 5% do capital social podem convocar uma reunião dos sócios para ser deliberada a constituição de uma nova sociedade com o activo e o passivo que a sociedade tenha em Portugal.
+Art. 5.º - 1 - Com ressalva da previsão do n.º 1 do artigo 8.º deste diploma, os sócios portugueses ou residentes em Portugal que representem, pelo menos, 5% do capital social podem convocar uma reunião dos sócios para ser deliberada a constituição de uma nova sociedade com o activo e o passivo que a sociedade tenha em Portugal.
 
 2 - A convocação será publicada em jornais de Lisboa e Porto, com antecedência não inferior a 30 dias.
 
@@ -141,52 +155,52 @@ b) Não tendo nacionalidade portuguesa, à data da mencionada providência resid
 
 5 - Aos administradores instituídos de acordo com o artigo 3.º compete administrar a nova sociedade até à primeira assembleia geral ordinária desta, à qual os administradores prestarão contas da administração por si desenvolvida até à constituição da nova sociedade.
 
-###### Art. 6.º Operada a cisão, considerar-se-ão automaticamente transferidos para a nova sociedade, sem observância de quaisquer formalidades especiais, todos os direitos e obrigações que integrem o património da anterior sociedade existente em Portugal.
+Art. 6.º Operada a cisão, considerar-se-ão automaticamente transferidos para a nova sociedade, sem observância de quaisquer formalidades especiais, todos os direitos e obrigações que integrem o património da anterior sociedade existente em Portugal.
 
-###### Art. 7.º - 1 - A constituição da nova sociedade só pode verificar-se seis meses após a providência de confisco ou equiparada, se entretanto não tiver sobrevindo acordo com os sócios.
+Art. 7.º - 1 - A constituição da nova sociedade só pode verificar-se seis meses após a providência de confisco ou equiparada, se entretanto não tiver sobrevindo acordo com os sócios.
 
 2 - O acordo referido no número anterior fará, igualmente, terminar a administração especial de bens referida no artigo 3.º e impede a aplicação da disposição do artigo 11.º
 
-###### Art. 8.º - 1 - No prazo de dois anos a contar da utilização por cada sociedade dos mecanismos previstos nos Decretos-Leis n.os [301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186) e [357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), a cisão da sociedade facultada pelo n.º 1 do artigo 5.º só pode ser promovida pelos administradores, instituídos nos termos do artigo 3.º, se os houver.
+Art. 8.º - 1 - No prazo de dois anos a contar da utilização por cada sociedade dos mecanismos previstos nos Decretos-Leis n.os [301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186) e [357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), a cisão da sociedade facultada pelo n.º 1 do artigo 5.º só pode ser promovida pelos administradores, instituídos nos termos do artigo 3.º, se os houver.
 
 2 - Os administradores proporão à reunião dos sócios a atribuição das participações na nova sociedade, de harmonia com o estabelecido neste diploma.
 
 3 - No caso de ser utilizada a faculdade conferida pelo n.º 1 do artigo 9.º, e entre os outros sócios se contarem entidades do sector público português, a proposta deve ter obtido previamente o acordo do Ministro das Finanças e, não sendo ela aprovada pela maioria absoluta do capital presente ou representado na reunião, sobrestar-se-á no processo de cisão, devendo os administradores, nos quinze dias seguintes, submeter a divergência a Conselho de Ministros, que decidirá definitivamente.
 
-###### Art. 9.º - 1 - A atribuição das acções da nova sociedade ou do saldo da liquidação referida no artigo 11.º poderá ser feita não só aos sócios directamente atingidos pela providência de confisco ou equiparada, mas também a outros sócios, na medida em que, atentas as circunstâncias do caso, for considerada bastante para evitar exagerada redução do valor das suas participações sociais causada pela cisão do património social ou for determinado pelo interesse da nova sociedade em manter esses sócios.
+Art. 9.º - 1 - A atribuição das acções da nova sociedade ou do saldo da liquidação referida no artigo 11.º poderá ser feita não só aos sócios directamente atingidos pela providência de confisco ou equiparada, mas também a outros sócios, na medida em que, atentas as circunstâncias do caso, for considerada bastante para evitar exagerada redução do valor das suas participações sociais causada pela cisão do património social ou for determinado pelo interesse da nova sociedade em manter esses sócios.
 
 2 - Contando-se entidades do sector público português entre os outros sócios referidos no número anterior, presume-se a existência do interesse previsto na parte final do mesmo número.
 
 3 - Sob proposta dos administradores especiais, a reunião dos sócios a que se refere o n.º 1 do artigo 5.º poderá atribuir àqueles cujas acções foram objecto de providência de confisco ou equiparada uma parte do activo, em dinheiro, não excedente a 10% do activo total, desde que não seja necessária para satisfação dos credores sociais.
 
-###### Art. 10.º - 1 - A faculdade atribuída pelo n.º 1 do artigo 5.º pode ser exercida em qualquer tempo, desde que não esteja proposta a acção de liquidação judicial prevista no artigo 11.º
+Art. 10.º - 1 - A faculdade atribuída pelo n.º 1 do artigo 5.º pode ser exercida em qualquer tempo, desde que não esteja proposta a acção de liquidação judicial prevista no artigo 11.º
 
 2 - O acto de propositura da acção de liquidação judicial só produz efeitos relativamente aos sócios a partir da data para que for convocada a reunião, nos termos do n.º 2 do artigo 1123.º do Código de Processo Civil.
 
 3 - A reunião a que se refere o número anterior é, nestes casos, obrigatória.
 
-###### Art. 11.º - 1 - Passados quatro anos sobre os factos previstos no n.º 1 do artigo 1.º sem que se tenha operado a cisão autorizada pelo artigo 5.º, pode o tribunal, a requerimento de qualquer interessado ou do Ministério Público, ordenar que o património existente em Portugal seja liquidado pelo processo estabelecido nos artigos 1122.º e seguintes do Código de Processo Civil.
+Art. 11.º - 1 - Passados quatro anos sobre os factos previstos no n.º 1 do artigo 1.º sem que se tenha operado a cisão autorizada pelo artigo 5.º, pode o tribunal, a requerimento de qualquer interessado ou do Ministério Público, ordenar que o património existente em Portugal seja liquidado pelo processo estabelecido nos artigos 1122.º e seguintes do Código de Processo Civil.
 
 2 - O tribunal nomeará liquidatário a pessoa proposta pelos titulares da maioria do capital representado na reunião convocada nos termos do n.º 2 do artigo 1123.º do Código de Processo Civil ou, na falta de proposta, um administrador de falências.
 
 3 - Depois de satisfeito todo o passivo conhecido, e embora o activo não esteja ainda totalmente realizado em dinheiro, pode o tribunal autorizar o liquidatário, mediante proposta deste, a efectuar distribuições de fundos existentes, mantendo-se, contudo, a parte destes estimada necessária para a satisfação dos encargos judiciais.
 
-###### Art. 12.º A administração assumida por força do disposto no artigo 3.º termina, conforme os casos previstos no n.º 1 do artigo 5.º e no artigo 10.º, ou nos termos do n.º 3 do artigo 7.º ou pela entrega dos bens ao liquidatário judicialmente nomeado, respectivamente.
+Art. 12.º A administração assumida por força do disposto no artigo 3.º termina, conforme os casos previstos no n.º 1 do artigo 5.º e no artigo 10.º, ou nos termos do n.º 3 do artigo 7.º ou pela entrega dos bens ao liquidatário judicialmente nomeado, respectivamente.
 
-###### Art. 13.º O disposto no presente diploma aplica-se igualmente a bens situados em Macau.
+Art. 13.º O disposto no presente diploma aplica-se igualmente a bens situados em Macau.
 
-###### Art. 14.º O presente diploma revoga os Decretos-Leis n.os [301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, [357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), de 31 de Agosto, e 103-A/78, de 23 de Maio, e os artigos 1.º e 2.º do [Decreto-Lei n.º 197-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-1986-661161), de 18 de Julho, mantendo-se a sua aplicação aos processos pendentes, de acordo com o regime fixado pelo presente diploma.
+Art. 14.º O presente diploma revoga os Decretos-Leis n.os [301/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1977-251186), de 27 de Julho, [357-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-a-1977-684061), de 31 de Agosto, e 103-A/78, de 23 de Maio, e os artigos 1.º e 2.º do [Decreto-Lei n.º 197-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-1986-661161), de 18 de Julho, mantendo-se a sua aplicação aos processos pendentes, de acordo com o regime fixado pelo presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - José Manuel Durão Barroso.
 
-**Promulgado em 12 de Outubro de 1988.**
+Promulgado em 12 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1988.**
+Referendado em 14 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Para ser publicado no Boletim Oficial de Macau.

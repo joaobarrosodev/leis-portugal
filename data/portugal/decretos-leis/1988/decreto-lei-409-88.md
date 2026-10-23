@@ -48,36 +48,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1988-358747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b8fdf01d85d6a7d729ee2a7b71dc130456232d78accb804f8aab58507b522e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0d9d02e6edc81c5083e045bbe34dedb2407ff832b4e9b0ef42b418fec1b59d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- Licenciamento
+- Transporte Aéreo
+- Transporte de Correio
+- Transporte de Passageiros
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:31Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +105,7 @@ Ouvidos os órgãos de governo próprio das Regiões Autónomas da Madeira e dos
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Qualquer companhia aérea nacional de Estado membro da CEE pode operar serviços aéreos regulares entre o território europeu desse Estado membro e Portugal, para o transporte de passageiros, ou de passageiros e de correio e ou de carga, desde que sejam explorados:
+Artigo 1.º Qualquer companhia aérea nacional de Estado membro da CEE pode operar serviços aéreos regulares entre o território europeu desse Estado membro e Portugal, para o transporte de passageiros, ou de passageiros e de correio e ou de carga, desde que sejam explorados:
 
 a) Em percursos de mais de 400 km cada, ou em percursos inferiores a 400 km, desde que, neste último caso, o transporte aéreo permita um ganho substancial de tempo em relação aos transportes de superfície, em virtude de obstáculos naturais tais como o mar ou montanhas;
 
@@ -108,7 +113,7 @@ b) Por meio de aeronaves com uma capacidade não superior a 70 lugares ou cujo p
 
 c) Entre um aeroporto nacional e um aeroporto situado noutro Estado membro da CEE, respectivamente das categorias 2 e 2, 2 e 3 ou 3 e 3, abertos ao tráfego internacional regular, de acordo com a classificação dos aeroportos constantes do anexo a este diploma.
 
-###### Art. 2.º Para efeitos deste diploma entende-se por:
+Art. 2.º Para efeitos deste diploma entende-se por:
 
 a) Serviço aéreo regular: uma série de voos possuindo, cada um, todas as seguintes características:
 
@@ -122,9 +127,9 @@ c) Companhia aérea: qualquer empresa de transporte aéreo que tenha a sua admin
 
 d) Estado de nacionalidade da companhia aérea: o Estado comunitário no qual a companhia aérea está estabelecida na qualidade de transportador aéreo com fins comerciais.
 
-###### Art. 3.º Os pedidos de exploração de um serviço aéreo inter-regional, desde que aprovados previamente pelo Estado de nacionalidade da companhia aérea requerente, serão por este apresentados ao ministro responsável pelo sector dos transportes.
+Art. 3.º Os pedidos de exploração de um serviço aéreo inter-regional, desde que aprovados previamente pelo Estado de nacionalidade da companhia aérea requerente, serão por este apresentados ao ministro responsável pelo sector dos transportes.
 
-###### Art. 4.º - 1 - Ao ministro responsável pelo sector dos transportes compete apreciar e decidir o pedido de autorização para exploração de serviço aéreo inter-regional, no prazo de três meses contado da data da respectiva recepção.
+Art. 4.º - 1 - Ao ministro responsável pelo sector dos transportes compete apreciar e decidir o pedido de autorização para exploração de serviço aéreo inter-regional, no prazo de três meses contado da data da respectiva recepção.
 
 2 - A autorização poderá não ser concedida com um dos seguintes fundamentos:
 
@@ -148,15 +153,15 @@ ii) Entre dois outros aeroportos situados, cada um deles, num raio de 50 km de c
 
 3 - A decisão será notificada ao Estado de nacionalidade da companhia requerente e à Comissão da CEE.
 
-###### Art. 5.º A recusa de uma autorização para a exploração de um serviço aéreo inter-regional com fundamento no disposto nas alíneas a), b) e c) do n.º 2 do artigo anterior não poderá discriminar os serviços aéreos inter-regionais face a outros serviços aéreos regulares existentes.
+Art. 5.º A recusa de uma autorização para a exploração de um serviço aéreo inter-regional com fundamento no disposto nas alíneas a), b) e c) do n.º 2 do artigo anterior não poderá discriminar os serviços aéreos inter-regionais face a outros serviços aéreos regulares existentes.
 
-###### Art. 6.º Se uma companhia aérea nacional for autorizada por outro Estado membro da Comunidade a explorar um serviço aéreo inter-regional, o ministro responsável pelo sector dos transportes pode autorizar, em igualdade de circunstâncias, um serviço aéreo inter-regional no mesmo itinerário que venha a ser requerido por uma companhia aérea daquele Estado membro.
+Art. 6.º Se uma companhia aérea nacional for autorizada por outro Estado membro da Comunidade a explorar um serviço aéreo inter-regional, o ministro responsável pelo sector dos transportes pode autorizar, em igualdade de circunstâncias, um serviço aéreo inter-regional no mesmo itinerário que venha a ser requerido por uma companhia aérea daquele Estado membro.
 
-###### Art. 7.º - 1 - As autorizações concedidas serão válidas por período não interior a três anos, salvo se a companhia aérea interessada requerer um período de validade mais curto, sem prejuízo de revogação devida ao facto de o serviço em causa já não corresponder às condições que justificaram a autorização.
+Art. 7.º - 1 - As autorizações concedidas serão válidas por período não interior a três anos, salvo se a companhia aérea interessada requerer um período de validade mais curto, sem prejuízo de revogação devida ao facto de o serviço em causa já não corresponder às condições que justificaram a autorização.
 
 2 - A autorização caduca se, no prazo de um ano contado da data na mesma prevista, a companhia aérea interessada não iniciar a exploração.
 
-###### Art. 8.º - 1 - As tarifas a praticar, sem subvenção exterior, serão aprovadas pela autoridade nacional competente para aprovar tarifas internacionais e pelo Estado de nacionalidade da companhia aérea, desde que:
+Art. 8.º - 1 - As tarifas a praticar, sem subvenção exterior, serão aprovadas pela autoridade nacional competente para aprovar tarifas internacionais e pelo Estado de nacionalidade da companhia aérea, desde que:
 
 a) Estejam em relação razoável com os custos de exploração da companhia aérea para o serviço pretendido, sem ajuda directa ou indirecta do Estado, e permitam ao mesmo tempo uma remuneração adequada do capital;
 
@@ -166,7 +171,7 @@ b) Não tenha um carácter de dumping.
 
 3 - A companhia aérea interessada submeterá à aprovação da Direcção-Geral da Aviação Civil os horários para cada serviço, bem como as respectivas modificações, as quais lhe serão submetidas em prazo não interior a 30 dias antes da data proposta para a sua entrada em vigor.
 
-###### Art. 9.º - 1 - O disposto no presente diploma não se aplica:
+Art. 9.º - 1 - O disposto no presente diploma não se aplica:
 
 a) Aos aeroportos da Região Autónoma dos Açores até 1 de Julho de 1993, podendo verificar-se prorrogação por dois períodos sucessivos de cinco anos cada um, sem prejuízo, porém, de determinação em contrário do Conselho de Ministros da Comunidade;
 
@@ -176,15 +181,15 @@ b) Ao Aeroporto do Porto até 1 de Janeiro de 1993.
 
 Visto e aprovado em Conselho de Ministros de 22 de Setembro de 1988. - Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Listas das categorias de aeroportos (a que se refere o artigo 1.º)
 

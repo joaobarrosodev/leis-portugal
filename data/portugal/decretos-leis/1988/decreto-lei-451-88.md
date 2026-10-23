@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28600/49004900.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1988-356571
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 598b57424b7dc8be2ed4db911aff3145d78baf4cfd262c8e1dfbc8ce36c39b4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b09ad2b23cb3dcda1a5cb5429ed8a8c938d8070f63e7cff3eeda58636a1ed248
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Objector de Consciência
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:234917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:152300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662739:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:234917:por
+  label: "Revogado pelo DEC LEI.191/92.08.09.1992.PCM, DR.IS-A [207] de 08.09.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-1992-234917
+  date: '1992-09-08'
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:41Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +120,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 3.º, 4.º, 5.º, 13.º e 17.º do [Decreto-Lei n.º 91/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1987-662739), de 27 de Fevereiro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 3.º, 4.º, 5.º, 13.º e 17.º do [Decreto-Lei n.º 91/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1987-662739), de 27 de Fevereiro, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Duração
 
@@ -147,16 +170,16 @@ d) Reserva geral.
 
 2 - As competências previstas no número anterior podem ser delegadas no membro do Governo responsável pela área da juventude, com possibilidade de subdelegação.
 
-###### Art. 2.º É revogado o artigo 16.º do [Decreto-Lei n.º 91/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1987-662739), de 27 de Fevereiro.
+Art. 2.º É revogado o artigo 16.º do [Decreto-Lei n.º 91/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1987-662739), de 27 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 27 de Outubro de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - José António da Silveira Godinho - Joaquim Fernando Nogueira - António Fernando Couto dos Santos.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Repúbica, MÁRIO SOARES.**
+O Presidente da Repúbica, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17577-1960-279179
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae515e79c68702fc62d7593330361b576b7af42fd11d34c04aa229113d696c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27c293586d730442d03b3c458aa086d37f60fd5ee46cab0f477cad8744e3c4ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550611:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:37Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +110,13 @@ a) Um de 860.000$00 para reforçar, com as quantias que se indicam, as seguintes
 
 ### CAPÍTULO 4.º — Inspecção de Administração Ultramarina, Financeira, das Alfândegas, de Fomento, de Saúde, do Ensino e de Serviços Judiciais
 
-###### Artigo 62.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 210.000$00
+Artigo 62.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos dos inspectores e respectivos secretários» ... 210.000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1623.º, n.º 4), alínea b) «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 300.000$00
+Artigo 1623.º, n.º 4), alínea b) «Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na província» ... 300.000$00
 
-###### Artigo 1624.º, n.º 3), alínea b) «Diversas despesas - Diferenças de câmbios e outras despesas com transferências de fundos - A pagar na província» ... 350.000$00
+Artigo 1624.º, n.º 3), alínea b) «Diversas despesas - Diferenças de câmbios e outras despesas com transferências de fundos - A pagar na província» ... 350.000$00
 
 ... 860.000$00
 
@@ -110,11 +126,11 @@ b) Um de 2:307.243$13 para reforçar, com as quantias que se indicam, as seguint
 
 ### CAPÍTULO 8.º — Serviços militares
 
-###### Artigo 1496.º «Abono de família» ... 1:500.000$00
+Artigo 1496.º «Abono de família» ... 1:500.000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1624.º, n.º 20) «Diversas despesas - Para ocorrer aos encargos da publicação do Boletim Oficial e actas do Conselho Legislativo» ... 807.243$13
+Artigo 1624.º, n.º 20) «Diversas despesas - Para ocorrer aos encargos da publicação do Boletim Oficial e actas do Conselho Legislativo» ... 807.243$13
 
 ... 2:307.248$13
 
@@ -122,11 +138,11 @@ tomando como contrapartida o excesso de cobrança sobre a previsão das verbas q
 
 ### CAPÍTULO 1.º — Impostos directos gerais
 
-###### Artigo 7.º «Imposto suplementar» ... 1:500.000$00
+Artigo 7.º «Imposto suplementar» ... 1:500.000$00
 
 ### CAPÍTULO 2.º — Impostos indirectos
 
-###### Artigo 18.º, alínea b) «Imposto do selo - Letras seladas e impressão» ... 807.243$13
+Artigo 18.º, alínea b) «Imposto do selo - Letras seladas e impressão» ... 807.243$13
 
 ... 2:307.243$13
 
@@ -134,13 +150,13 @@ c) Um de 4:467.738$00 para reforçar, com as quantias que se indicam, as seguint
 
 ### CAPÍTULO 8.º — Serviços militares
 
-###### Artigo 1484.º, n.º 1) «Despesas com o material - Construções e grandes reparações nos aquartelamentos e edifícios militares» ... 2:775.000$00
+Artigo 1484.º, n.º 1) «Despesas com o material - Construções e grandes reparações nos aquartelamentos e edifícios militares» ... 2:775.000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1624.º, n.º 25) «Diversas despesas - Para pagamento aos municípios da compensação referida no artigo 49.º do Regulamento do Código da Estrada, aprovado pela [Portaria n.º 10696](https://diariodarepublica.pt/dr/detalhe/portaria/10696-1944-550611), de 31 de Dezembro de 1954» ... 1:172.738$00
+Artigo 1624.º, n.º 25) «Diversas despesas - Para pagamento aos municípios da compensação referida no artigo 49.º do Regulamento do Código da Estrada, aprovado pela [Portaria n.º 10696](https://diariodarepublica.pt/dr/detalhe/portaria/10696-1944-550611), de 31 de Dezembro de 1954» ... 1:172.738$00
 
-###### Artigo 1629.º, n.º 1) «Complemento de vencimentos» ... 520.000$00
+Artigo 1629.º, n.º 1) «Complemento de vencimentos» ... 520.000$00
 
 ... 4:467.738$00
 
@@ -150,13 +166,13 @@ d) Um de 9:542.500$00 para reforçar, com as quantias que se indicam, as seguint
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1623.º, n.º 2), alínea b) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na província» ... 200.000$00
+Artigo 1623.º, n.º 2), alínea b) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na província» ... 200.000$00
 
-###### Artigo 1624.º, n.º 6) «Diversas despesas - Restituição dos rendimentos indevidamente cobrados» ... 2:500.000$00
+Artigo 1624.º, n.º 6) «Diversas despesas - Restituição dos rendimentos indevidamente cobrados» ... 2:500.000$00
 
-###### Artigo 1625.º «Gratificação de isolamento» ... 892.500$00
+Artigo 1625.º «Gratificação de isolamento» ... 892.500$00
 
-###### Artigo 1627.º «Abono de família» ... 5:950.000$00
+Artigo 1627.º «Abono de família» ... 5:950.000$00
 
 ... 9:542.500$00
 

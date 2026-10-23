@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17835-1960-501986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: adf5470ceb62c6a8c2331c90512968bb104ab69025c8715ffd4e90b97a3c703f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b2c958f749ca2b4146097c944558db956b59359b1ff0fe4408ea04fa5d7ebee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,20 @@ relationships:
   target: pt:dre:477347:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:442540:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:46:08Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +98,7 @@ Ministério da Marinha, 19 de Julho de 1960. - O Ministro da Marinha, Fernando Q
 
 Regulamento da Direcção do Serviço de Administração Naval
 
-###### Artigo 1.º A Direcção do Serviço de Administração Naval, organismo integrado na Superintendência dos Serviços da Armada, compreende:
+Artigo 1.º A Direcção do Serviço de Administração Naval, organismo integrado na Superintendência dos Serviços da Armada, compreende:
 
 a) O director;
 
@@ -110,7 +114,7 @@ e) A secretaria.
 
 § 2.º A constituição da Comissão Técnica de Administração Naval será fixada por despacho do Ministro da Marinha.
 
-###### Art. 2.º Ao director do Serviço de Administração Naval, oficial general da classe de administração naval e consultor do chefe do Estado-Maior da Armada nos assuntos de carácter operacional respeitantes ao serviço, compete:
+Art. 2.º Ao director do Serviço de Administração Naval, oficial general da classe de administração naval e consultor do chefe do Estado-Maior da Armada nos assuntos de carácter operacional respeitantes ao serviço, compete:
 
 a) Orientar e coordenar todas as actividades do serviço de administração naval, dedicando especial atenção à solução eficiente dos problemas concernentes à logística dos abastecimentos;
 
@@ -128,9 +132,9 @@ g) Corresponder-se directamente com as entidades do Ministério e outros departa
 
 § único. O director do Serviço de Administração Naval é secretariado por um oficial de administração naval de sua escolha de entre os que prestam serviço na Direcção.
 
-###### Art. 3.º O director do Serviço de Administração Naval despacha directamente com o Ministro da Marinha os assuntos da competência da sua Direcção, sempre que não seja determinado procedimento diferente.
+Art. 3.º O director do Serviço de Administração Naval despacha directamente com o Ministro da Marinha os assuntos da competência da sua Direcção, sempre que não seja determinado procedimento diferente.
 
-###### Art. 4.º Ao subdirector, capitão-de-mar-e-guerra de administração naval, compete:
+Art. 4.º Ao subdirector, capitão-de-mar-e-guerra de administração naval, compete:
 
 a) Coadjuvar o director do Serviço e substituí-lo nos seus impedimentos;
 
@@ -138,7 +142,7 @@ b) Exercer as funções de presidente do conselho administrativo da Direcção;
 
 c) Orientar os serviços da secretaria da Direcção.
 
-###### Art. 5.º À 1.ª Repartição, chefiada por um oficial superior de administração naval, compete:
+Art. 5.º À 1.ª Repartição, chefiada por um oficial superior de administração naval, compete:
 
 a) O esclarecimento de dúvidas suscitadas na interpretação de diplomas legais relativos a assuntos do serviço de administração naval e na elaboração de cadernos de encargos, minutas e respectivos contratos de fornecimento, obras, prestação de serviços ou vendas;
 
@@ -158,7 +162,7 @@ h) A elaboração de instruções aos chefes do serviço de abastecimentos de na
 
 i) O estudo e informação de todos os assuntos do serviço de administração naval não especificados nas alíneas anteriores.
 
-###### Art. 6.º À 2.ª Repartição, chefiada por um oficial superior de administração naval, compete:
+Art. 6.º À 2.ª Repartição, chefiada por um oficial superior de administração naval, compete:
 
 a) O processamento e liquidação de vencimentos e outros abonos ao pessoal militar e civil em serviço nos organismos centrais do Ministério e em outros que não disponham de conselho administrativo próprio ou de encarregado de toda a administração;
 
@@ -182,7 +186,7 @@ j) A transferência de fundos e de vencimentos do pessoal para o continente e pa
 
 § único. Os assuntos da competência da 2.ª Repartição serão distribuídos por duas secções.
 
-###### Art. 7.º À 3.ª Repartição, chefiada por um oficial superior ou primeiro-tenente de administração naval, compete:
+Art. 7.º À 3.ª Repartição, chefiada por um oficial superior ou primeiro-tenente de administração naval, compete:
 
 a) O processamento e liquidação das despesas classificadas orçamentalmente como «Despesas com o material» e «Pagamento de serviços e diversos encargos» dos organismos centrais do Ministério e de outros que não disponham de conselho administrativo próprio ou de encarregado de toda a administração;
 
@@ -198,7 +202,7 @@ f) O estudo e a coordenação com os outros ramos das forças armadas, segundo a
 
 § único. Os assuntos da competência da 3.ª Repartição serão distribuídos por três secções, uma das quais se ocupará, exclusivamente, dos assuntos respeitantes à catalogação do material.
 
-###### Art. 8.º O conselho administrativo da Direcção terá a seguinte composição:
+Art. 8.º O conselho administrativo da Direcção terá a seguinte composição:
 
 Presidente - o subdirector;
 
@@ -206,7 +210,7 @@ Vogal - o oficial que se seguir em graduação ou antiguidade;
 
 Secretário-tesoureiro - um primeiro-tenente de administração naval.
 
-###### Art. 9.º Além dos deveres gerais consignados no Regulamento de Administração da Fazenda Naval, compete especialmente ao conselho administrativo da Direcção:
+Art. 9.º Além dos deveres gerais consignados no Regulamento de Administração da Fazenda Naval, compete especialmente ao conselho administrativo da Direcção:
 
 a) O pagamento de vencimentos e outros abonos de todo o pessoal prestando serviço nos organismos centrais do Ministério e em outros que não disponham de conselho administrativo próprio ou de encarregado de toda a administração, mediante títulos remetidos para o efeito pela 2.ª Repartição da Direcção;
 
@@ -224,7 +228,7 @@ f) A requisição dos cheques para pagamento no estrangeiro de despesas processa
 
 § 2.º Até ao dia 20 de cada mês, deve este conselho administrativo enviar, a cada um dos organismos cuja dotação administra, nota das respectivas disponibilidades em relação ao último dia do mês anterior, bem como os documentos de receita do material que lhes tenha sido fornecido.
 
-###### Art. 10.º À secretaria compete:
+Art. 10.º À secretaria compete:
 
 a) O registo de entrada e distribuição de expediente;
 
@@ -232,6 +236,6 @@ b) O registo de saída de expediente;
 
 c) A organização e o arquivo dos processos da Direcção.
 
-###### Art. 11.º A Direcção disporá do pessoal militar e civil que for necessário para a boa execução dos serviços, sendo a respectiva lotação aprovada por portaria do Ministro da Marinha.
+Art. 11.º A Direcção disporá do pessoal militar e civil que for necessário para a boa execução dos serviços, sendo a respectiva lotação aprovada por portaria do Ministro da Marinha.
 
 Ministério da Marinha, 19 de Julho de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

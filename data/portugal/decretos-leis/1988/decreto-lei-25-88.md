@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1988-282875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0df97db9e54173a1ae96c0db99a393fee8b0b19f362a91856f721d483ad8370e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a88b86945d2e9d4bb4477dbe06e060378d281d7bc9815dedafe1f1bf187f77a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjunto de Gabinete
+- Assessor de Gabinete
+- Chefe da CASA Civil
+- Chefe da CASA Militar
+- Chefe de Gabinete
+- Gabinete do Presidente da República
+- Gabinete Governamental
+- Membros do Governo
+- Pessoal de Gabinete
+- Presidente da República
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:544382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:305451:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:544376:por
+  label: "Revogado, na parte aplicável aos gabinetes dos membros do Governo, pelo DEC LEI.11/2012.20.01.2012.PCM, DR.IS [15]\
+    \ de 20.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2012-544376
+  date: '2012-01-20'
+- type: repealed_by
+  target: pt:dre:544382:por
+  label: "Revogado, na parte aplicável ao Gabinete do Primeiro-Ministro, pelo DEC LEI.12/2012.20.01.2012.PCM, DR.IS [15] de\
+    \ 20.01.2012, nos termos do nº 2 do seu art. 11º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-2012-544382
+  date: '2012-01-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:40Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +129,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os vencimentos mensais ilíquidos dos membros das Casas Civil e Militar do Presidente da República e dos gabinetes serão determinados em percentagem do valor padrão (100%) fixado para o cargo de director-geral nos termos do [Decreto-Lei n.º 383-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-a-1987-305451), de 23 de Dezembro.
+Artigo 1.º Os vencimentos mensais ilíquidos dos membros das Casas Civil e Militar do Presidente da República e dos gabinetes serão determinados em percentagem do valor padrão (100%) fixado para o cargo de director-geral nos termos do [Decreto-Lei n.º 383-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-a-1987-305451), de 23 de Dezembro.
 
-###### Art. 2.º Para os efeitos do disposto no artigo anterior são estabelecidas as percentagens seguintes:
+Art. 2.º Para os efeitos do disposto no artigo anterior são estabelecidas as percentagens seguintes:
 
 a) Chefes das Casas Civil e Militar do Presidente da República e chefes de gabinete - 100%;
 
@@ -114,16 +141,16 @@ c) Adjuntos de gabinete - 80%;
 
 d) Secretários pessoais - 55%.
 
-###### Art. 3.º O presente diploma produz os seus efeitos a partir do dia 1 de Janeiro de 1988.
+Art. 3.º O presente diploma produz os seus efeitos a partir do dia 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 7 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 20 de Janeiro de 1988.**
+Promulgado em 20 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 21 de Janeiro de 1988.**
+Referendado em 21 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

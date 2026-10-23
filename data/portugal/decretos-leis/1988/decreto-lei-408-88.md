@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1988-358760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cba1eeb19ca54cf0ee6719e4f6b585b82a127288ba5269f7bced8268bb68adab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0cc4a488834474be06b2ee84d737b54087255b92da80cd2456c7f117f76a504a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Educador de Infância
+- Escola Superior de Educação de JOÃO de DEUS
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:344954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:187955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:226874:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:31Z'
   warnings: []
   errors: []
 ---
@@ -110,34 +130,34 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É autorizada a criação de um estabelecimento particular de ensino superior denominado Escola Superior de Educação de João de Deus, de que é titular a Associação de Jardins-Escolas de João de Deus.
+Artigo 1.º - 1 - É autorizada a criação de um estabelecimento particular de ensino superior denominado Escola Superior de Educação de João de Deus, de que é titular a Associação de Jardins-Escolas de João de Deus.
 
 2 - É autorizada a criação e o funcionamento no mesmo estabelecimento dos cursos de educadores de infância e de professores do ensino básico (1.º ciclo).
 
 3 - As habilitações mínimas exigidas para o ingresso em qualquer daqueles cursos são as estabelecidas para os cursos equivalentes do ensino público, sem prejuízo de outros requisitos complementares que sejam previstos no regulamento interno da Escola.
 
-###### Art. 2.º Aos diplomas emitidos pela Escola Superior de Educação de João de Deus pela conclusão de qualquer dos cursos acima autorizados é reconhecida a produção de efeitos correspondentes aos da titularidade do grau de bacharelato do ensino público.
+Art. 2.º Aos diplomas emitidos pela Escola Superior de Educação de João de Deus pela conclusão de qualquer dos cursos acima autorizados é reconhecida a produção de efeitos correspondentes aos da titularidade do grau de bacharelato do ensino público.
 
-###### Art. 3.º - 1 - As autorizações ora concedidos são válidas pelo prazo de três anos, considerando-se automaticamente renovadas pelo mesmo período se não for justificadamente decidido o contrário.
+Art. 3.º - 1 - As autorizações ora concedidos são válidas pelo prazo de três anos, considerando-se automaticamente renovadas pelo mesmo período se não for justificadamente decidido o contrário.
 
 2 - As autorizações e reconhecimento conferidos pelo presente diploma não prejudicam, sob pena de revogação, o cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação de parecer das comissões de especialistas, ouvidas nos termos do [Decreto-Lei n.º 100-B/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-b-1985-187955), de 8 de Abril, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com o citado diploma e legislação complementar.
 
-###### Art. 4.º - 1 - Os planos de estudos dos cursos ora autorizados são os constantes do quadro anexo ao presente diploma, que dele faz parte integrante.
+Art. 4.º - 1 - Os planos de estudos dos cursos ora autorizados são os constantes do quadro anexo ao presente diploma, que dele faz parte integrante.
 
 2 - A quaisquer eventuais alterações curriculares é aplicável o disposto no n.º 1.º da [Portaria n.º 269/86](https://diariodarepublica.pt/dr/detalhe/portaria/269-1986-226856), de 3 de Junho.
 
-###### Art. 5.º Os números máximos de alunos admitidos à matricula e à frequência total de cada um dos cursos autorizados serão fixados em portaria do Ministro da Educação, nos termos dos artigos 1.º e 3.º do [Decreto-Lei n.º 121/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1986-226874), de 28 de Maio.
+Art. 5.º Os números máximos de alunos admitidos à matricula e à frequência total de cada um dos cursos autorizados serão fixados em portaria do Ministro da Educação, nos termos dos artigos 1.º e 3.º do [Decreto-Lei n.º 121/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1986-226874), de 28 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1988. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-## Anexo — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/25900/44944497.pdf))](https://files.diariodarepublica.pt/1s/1988/11/25900/44944497.pdf)
+## Anexo — [(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/25900/44944497.pdf)

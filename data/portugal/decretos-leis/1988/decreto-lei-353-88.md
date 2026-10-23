@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1988-354763
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: edeb0cd2c04d554671ff54d85da1ea5341247f9c86828f3c2954770372340e36
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19c9bb4544ab31327b1c3b188b324a8ed7e944245cd3baa27d2e28be969749b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- Privatização
+- Sociedade Anónima
+- Unicer
 relationships:
 - type: amended_by
   target: pt:dre:303601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:612829:por
+  label: Dada nova redacção aos arts. 5º e 6º do presente diploma, assim como à al. b) do nº 1 do art. 4º dos Estatutos da
+    UNICER por ele aprovados pelo DEC LEI.71/89.03.03.1989.MF, DR.IS [52] de 03.03.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/71-1989-612829
+  date: '1989-03-03'
+- type: amended_by
+  target: pt:dre:303601:por
+  label: "Reduzido para um ano o prazo previsto no nº 2 do art. 6º pelo DEC LEI.170-A/90.26.05.1990.MF, DR.IS [121-Supl] de\
+    \ 26.05.1990\090\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/170-a-1990-303601
+  date: '1990-05-26'
+- type: cites
+  target: pt:dre:276643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372781:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:11Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +122,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - A UNICER - União Cervejeira, E. P., criada pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se UNICER - União Cervejeira, S. A.
+Artigo 1.º - 1 - A UNICER - União Cervejeira, E. P., criada pelo [Decreto-Lei n.º 531/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643), de 30 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se UNICER - União Cervejeira, S. A.
 
 2 - A UNICER - União Cervejeira, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado que regulam as sociedades anónimas.
 
-###### Art. 2.º - 1 - A UNICER - União Cervejeira, S. A., sucede automática e globalmente à empresa pública UNICER - União Cervejeira, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos bens, direitos e obrigações legais, estatutários e contratuais, integrantes do seu activo e passivo, de que esta era titular no momento da transformação.
+Art. 2.º - 1 - A UNICER - União Cervejeira, S. A., sucede automática e globalmente à empresa pública UNICER - União Cervejeira, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos bens, direitos e obrigações legais, estatutários e contratuais, integrantes do seu activo e passivo, de que esta era titular no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da UNICER - União Cervejeira, S. A.
 
-###### Art. 3.º Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho do Ministro das Finanças.
+Art. 3.º Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho do Ministro das Finanças.
 
-###### Art. 4.º - 1 - A UNICER - União Cervejeira, S. A., tem inicialmente um capital social de 6500000000$00, que se encontra integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
+Art. 4.º - 1 - A UNICER - União Cervejeira, S. A., tem inicialmente um capital social de 6500000000$00, que se encontra integralmente subscrito e realizado pelo Estado à data da entrada em vigor deste diploma.
 
 2 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou outra entidade que, por imposição legal, deva pertencer ao sector público.
 
-###### Art. 5.º - 1 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 5.º - 1 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A são nominativas e delas apenas podem ser titulares o Estado, pessoas colectivas de direito público ou outras entidades que, por imposição legal, devam pertencer ao sector público;
 
@@ -120,7 +148,7 @@ a) As acções correspondentes ao capital social da empresa que foi objecto de n
 
 b) As acções adicionais necessárias para que 51% do capital social existente em cada momento sejam detidos pelas entidades referidas na alínea a) do n.º 1.
 
-###### Art. 6.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
+Art. 6.º - 1 - O Estado e outras entidades pertencentes ao sector público podem alienar as acções do tipo B de que sejam titulares, devendo ser observadas as seguintes regras:
 
 a) Pelo menos, 20% das acções a alienar serão reservadas a pequenos subscritores, a trabalhadores da UNICER - União Cervejeira, S. A., e àqueles que o tenham sido da UNICER - União Cervejeira, E. P., durante mais de três anos;
 
@@ -138,21 +166,21 @@ e) As percentagens exactas das acções a alienar nos termos das alíneas a) e b
 
 5 - Caso não seja subscrita a totalidade das acções reservadas nos termos das alíneas a) e b) do n.º 1, poderão as acções remanescentes ser alienadas nos termos gerais.
 
-###### Art. 7.º - 1 - Para efeitos do disposto no artigo anterior, compete ao conselho de administração da UNICER - União Cervejeira, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes tecnicamente habilitadas, a escolher de entre as que forem pré-qualificadas por despacho do Ministro das Finanças.
+Art. 7.º - 1 - Para efeitos do disposto no artigo anterior, compete ao conselho de administração da UNICER - União Cervejeira, S. A., propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes tecnicamente habilitadas, a escolher de entre as que forem pré-qualificadas por despacho do Ministro das Finanças.
 
 2 - O valor da empresa, bem como o preço, o montante e as formas e condições de alienação de parte do capital social detido pelo sector público, será fixado por resolução do Conselho de Ministros, mediante proposta do Ministro das Finanças.
 
-###### Art. 8.º A participação no capital social da UNICER - União Cervejeira, S. A., fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+Art. 8.º A participação no capital social da UNICER - União Cervejeira, S. A., fica sujeita ao disposto no n.º 5 do artigo 5.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
-###### Art. 9.º - 1 - A maioria absoluta dos votos emergentes das acções emitidas deve sempre pertencer aos titulares de acções do tipo A.
+Art. 9.º - 1 - A maioria absoluta dos votos emergentes das acções emitidas deve sempre pertencer aos titulares de acções do tipo A.
 
 2 - A eleição dos titulares dos órgãos sociais cabe sempre à maioria dos votos expressos em assembleia geral, consignando os estatutos a designação de alguns desses titulares aos possuidores de acções do tipo B, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 2.º da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 3 - Para efeitos de eleição dos órgãos sociais, as assembleias gerais só se podem reunir estando presentes accionistas que representem, pelo menos 51% do capital social.
 
-###### Art. 10.º A UNICER - União Cervejeira, S. A., tem como órgãos a assembleia geral, o conselho de administração e o conselho fiscal, com competências fixadas na lei e nos estatutos.
+Art. 10.º A UNICER - União Cervejeira, S. A., tem como órgãos a assembleia geral, o conselho de administração e o conselho fiscal, com competências fixadas na lei e nos estatutos.
 
-###### Art. 11.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+Art. 11.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -160,47 +188,47 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controles efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-###### Art. 12.º - 1 - Os trabalhadores ao serviço e os pensionistas da UNICER - União Cervejeira, E. P., mantêm todos os direitos e obrigações em vigor à data da entrada em funcionamento da UNICER - União Cervejeira, S. A.
+Art. 12.º - 1 - Os trabalhadores ao serviço e os pensionistas da UNICER - União Cervejeira, E. P., mantêm todos os direitos e obrigações em vigor à data da entrada em funcionamento da UNICER - União Cervejeira, S. A.
 
 2 - Os funcionários do Estado, das autarquias locais, de institutos públicos, de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer funções na UNICER - União Cervejeira, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem.
 
 3 - A situação dos trabalhadores da UNICER - União Cervejeira, S. A., que sejam chamados a ocupar cargos nos órgãos sociais da empresa em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o seu mandato.
 
-###### Art. 13.º - 1 - São aprovados os estatutos da UNICER - União Cervejeira, S. A., anexos a este diploma, que entrarão em vigor na data em que produzir efeitos a transformação operada por este decreto-lei.
+Art. 13.º - 1 - São aprovados os estatutos da UNICER - União Cervejeira, S. A., anexos a este diploma, que entrarão em vigor na data em que produzir efeitos a transformação operada por este decreto-lei.
 
 2 - As eventuais alterações aos presentes estatutos produzirão todos os seus efeitos desde que deliberadas nos termos dos estatutos e com observância do disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, na lei comercial e no presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-###### Art. 14.º - 1 - Fica desde já convocada a assembleia geral da UNICER - União Cervejeira, S. A., para eleger os corpos sociais e deliberar sobre a respectiva remuneração, a qual reunirá até 30 dias após a data da publicação do presente diploma, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e da comissão de fiscalização da UNICER - União Cervejeira, E. P.
+Art. 14.º - 1 - Fica desde já convocada a assembleia geral da UNICER - União Cervejeira, S. A., para eleger os corpos sociais e deliberar sobre a respectiva remuneração, a qual reunirá até 30 dias após a data da publicação do presente diploma, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e da comissão de fiscalização da UNICER - União Cervejeira, E. P.
 
 2 - No prazo de 30 dias após a realização das operações de alienação de, pelo menos, 30% de acções do tipo B que o Estado promova no âmbito do presente decreto-lei será convocada nova assembleia geral para eleger os corpos sociais e deliberar sobre a respectiva remuneração.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 16 de Setembro de 1988.**
+Promulgado em 16 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 19 de Setembro de 1988.**
+Referendado em 19 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos
 
 ### CAPÍTULO I — Denominação, sede, duração e objecto
 
-###### Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de UNICER - União Cervejeira, S. A.
+Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de UNICER - União Cervejeira, S. A.
 
-###### Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Leça do Bailio, Matosinhos.
+Art. 2.º - 1 - A duração da sociedade é por tempo indeterminado e a sua sede é em Leça do Bailio, Matosinhos.
 
 2 - Por deliberação do conselho de administração pode a sociedade mudar a sua sede e criar em qualquer ponto do território nacional ou fora dele agências, delegações ou qualquer forma de representação.
 
-###### Art. 3.º A sociedade tem por objecto a produção e comercialização de bebidas em geral.
+Art. 3.º A sociedade tem por objecto a produção e comercialização de bebidas em geral.
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-###### Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social será, em qualquer momento, representado por acções do tipo A e do tipo B, com as seguintes características:
 
 a) As acções do tipo A serão nominativas e só podem ser detidas pelo Estado, por pessoas colectivas públicas ou por outras entidades que, por imposição legal, devam pertencer ao sector público;
 
@@ -216,7 +244,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 4 - No caso de transmissão para entidades privadas, nos termos da lei, de acções detidas pelo Estado, os outros accionistas poderão gozar, com respeito a tal transmissão, de direito de preferência, na proporção do número de acções de cada um, sem prejuízo das disposições legais que reservem para certas categorias de adquirentes uma percentagem das acções a alienar.
 
-###### Art. 5.º - 1 - O capital da sociedade é de 6500000000$00 e está totalmente subscrito e realizado à data da entrada em vigor deste diploma.
+Art. 5.º - 1 - O capital da sociedade é de 6500000000$00 e está totalmente subscrito e realizado à data da entrada em vigor deste diploma.
 
 2 - O capital está representado por 6500000 acções com o valor nominal de 1000$00 cada uma, sendo 3315000 do tipo A e 3185000 do tipo B.
 
@@ -228,17 +256,17 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 6 - O custo das operações de registo das transmissões, conversões ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-###### Art. 6.º A sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
+Art. 6.º A sociedade pode emitir, interna ou externamente, obrigações e outros títulos de dívida, nos termos da legislação aplicável.
 
 ### CAPÍTULO III — Órgãos sociais
 
-###### Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - Os accionistas detentores de acções do tipo B poderão ter um representante na mesa da assembleia geral e no conselho fiscal e até dois representantes no conselho de administração, a eleger pela assembleia geral.
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto na assembleia geral.
 
@@ -254,7 +282,7 @@ b) As acções adicionais necessárias para que 51% do capital social existente 
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e poderão participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-###### Art. 9.º - 1 - Compete à assembleia geral:
+Art. 9.º - 1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -274,25 +302,25 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, como for decidido pelo presidente.
 
-###### Art. 10.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
+Art. 10.º - 1 - A assembleia geral é convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela própria assembleia e cujas faltas serão supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
 3 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
-###### Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o entenderem necessário ou quando a reunião seja requerida por accionistas que possuam, pelo menos, acções correspondentes ao valor mínimo imposto por lei imperativa ou, na falta deste, correspondentes a 5% do capital social e que o requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
+Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que os conselhos de administração ou fiscal o entenderem necessário ou quando a reunião seja requerida por accionistas que possuam, pelo menos, acções correspondentes ao valor mínimo imposto por lei imperativa ou, na falta deste, correspondentes a 5% do capital social e que o requeiram em carta, com assinatura reconhecida pelo notário ou autenticada por instituição de crédito, em que se indiquem com precisão os assuntos a incluir na ordem do dia e se justifique a necessidade de reunir a assembleia.
 
 2 - Para efeitos de eleição de titulares dos órgãos sociais, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem, pelo menos, 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-###### Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro vogais.
+Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável, subsistindo até à tomada de posse dos membros que os venham substituir.
 
 3 - Os administradores representantes do Estado são dispensados da prestação de caução.
 
-###### Art. 13.º - 1 - Ao conselho de administração compete especialmente:
+Art. 13.º - 1 - Ao conselho de administração compete especialmente:
 
 a) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -308,7 +336,7 @@ f) Exercer as demais competências que lhe sejam atribuídas pela lei ou pelos s
 
 2 - O conselho de administração poderá delegar numa comissão executiva constituída por três administradores, sendo dois deles obrigatoriamente representantes da parte pública, algum ou alguns poderes que lhe são conferidos pelo número anterior, definindo em acta os limites e condições de tal delegação.
 
-###### Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração
+Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -320,11 +348,11 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-###### Art. 15.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
+Art. 15.º - 1 - O conselho de administração não poderá funcionar sem a presença da maioria dos seus membros em exercício, salvo por motivo de urgência, como tal reconhecida pelo presidente, caso em que os votos podem ser expressos por correspondência ou por procuração passada a outro administrador.
 
 2 - As deliberações do conselho de administração constarão sempre de acta e serão tomadas por maioria dos votos presentes, tendo o presidente, ou quem legalmente o substitui, voto de qualidade.
 
-###### Art. 16.º - 1 - A sociedade obriga-se:
+Art. 16.º - 1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração, que deverão integrar a comissão executiva, quando esta existir;
 
@@ -336,7 +364,7 @@ b) Pela assinatura dos mandatários constituídos, no âmbito do correspondente 
 
 #### SECÇÃO III — Conselho fiscal
 
-###### Art. 17.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
+Art. 17.º - 1 - A fiscalização da actividade social compete a um conselho fiscal composto por um presidente, dois vogais efectivos e um suplente, todos eleitos em assembleia geral.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
@@ -344,7 +372,7 @@ b) Pela assinatura dos mandatários constituídos, no âmbito do correspondente 
 
 4 - O presidente do conselho fiscal será designado pela assembleia geral que proceder à eleição do mesmo conselho.
 
-###### Art. 18.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
+Art. 18.º - 1 - Além das atribuições constantes da lei geral, compete, especialmente, ao conselho fiscal:
 
 a) Assistir às reuniões do conselho de administração, sempre que o entenda conveniente;
 
@@ -354,11 +382,11 @@ c) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 2 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-###### Art. 19.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
+Art. 19.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 20.º O regime jurídico do pessoal é definido:
+Art. 20.º O regime jurídico do pessoal é definido:
 
 a) Pelas leis gerais do contrato individual de trabalho;
 
@@ -368,7 +396,7 @@ c) Pelas normas de cada contrato individual de trabalho.
 
 ### CAPÍTULO V — Aplicação dos resultados
 
-###### Art. 21.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
+Art. 21.º Os lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:
 
 1) Um mínimo de 10% para constituição de reserva legal até atingir o montante exigível;
 
@@ -380,18 +408,18 @@ c) Pelas normas de cada contrato individual de trabalho.
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 22.º - 1 - O mandato dos membros eleitos dos órgãos sociais tem a duração de três anos, sendo permitida a reeleição.
+Art. 22.º - 1 - O mandato dos membros eleitos dos órgãos sociais tem a duração de três anos, sendo permitida a reeleição.
 
 2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecerão no exercício das funções até à eleição de quem deva substituí-los.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 23.º - 1 - Os titulares de acções que não pertençam ao sector público têm o direito de subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral reunida para o efeito.
+Art. 23.º - 1 - Os titulares de acções que não pertençam ao sector público têm o direito de subscrever listas para a eleição de até dois administradores e de as propor à assembleia geral reunida para o efeito.
 
 2 - Durante o 1.º triénio de actividade da sociedade, se as listas propostas pelos titulares das acções que não pertençam ao sector público não obtiverem o número mínimo de votos exigido no Código das Sociedades Comerciais para eleição de administradores, mas se a sua votação ultrapassar os 5% do capital da sociedade, a assembleia geral poderá, em votação posteriormente tomada, considerar eleitos os administradores propostas nas listas mais votadas.
 
 3 - O exercício dos direitos consagrados no número anterior só se verificará se na composição das listas a submeter à assembleia geral pelo Estado e por outras entidades públicas que detenham acções do tipo A não estiverem integrados um ou dois representantes do sector privado.
 
-###### Art. 24.º - 1 - A sociedade dissolve-se nos casos e termos legais.
+Art. 24.º - 1 - A sociedade dissolve-se nos casos e termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

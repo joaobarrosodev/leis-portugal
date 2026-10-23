@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17793-1960-502449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f780c019fcf6abb5e80a86fbe42409976c7f819515993dd8eca30adb7221555c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f602bc943ed5608c938e6157caf88006e209de9eb0f3dcbf3818e13c84f33713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281645:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:13Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Ministério do Exército, 5 de Julho de 1960. - O Ministro do Exército, Afonso 
 
 Centro de instrução de operações especiais (C. I. O. E.)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/15400/16601662.pdf))](https://files.diariodarepublica.pt/1s/1960/07/15400/16601662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/15400/16601662.pdf)
 
 Ministério do Exército, 5 de Julho de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.
 
@@ -96,6 +100,6 @@ CENTRO DE INSTRUÇÃO DE OPERAÇÕES ESPECIAIS (C. I. O. E.)
 
 ORGANIZAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/15400/16601662.pdf))](https://files.diariodarepublica.pt/1s/1960/07/15400/16601662.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/15400/16601662.pdf)
 
 Ministério do Exército, 5 de Julho de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.

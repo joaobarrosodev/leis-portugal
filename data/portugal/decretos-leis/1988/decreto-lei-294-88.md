@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1988-379923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-04-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfcf269e11e03e5eaa14f709be10078938032866e6862e3910d5aa0dc2ff5a7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5bcb962b161a9c0e4c836092e33926f8a5508d755ff035009ca08948f0717024
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo de Qualidade
+- Embalagem
+- Etiquetagem
+- Pesticida
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:239792:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O ART 1 PELO DEC LEI 303/91 DE 16-AGO DR.IS-A [187].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-16'
+- type: cites
+  target: pt:dre:201660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:519058:por
+  label: Rectificado pela DECL.DD4069.1988.11.24.PCMDR.IS [277]4.ºSUPL DE 30/NOV/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519058
+  date: '1988-11-24'
+- type: repealed_by
+  target: pt:dre:350901:por
+  label: "Revogada a al a) do art 5.º pelo DEC LEI.131/97.1997.05.30.MADRP DR.IS-A [124]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1997-350901
+  date: '1997-05-30'
+- type: repealed_by
+  target: pt:dre:239792:por
+  label: "Revogado pelo DEC LEI.82/2003.2003.04.23.MECO DR.IS-A [95]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2003-239792
+  date: '2003-04-23'
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:40Z'
   warnings: []
   errors: []
 ---
@@ -248,7 +289,7 @@ k) Para os pesticidas muito tóxicos, tóxicos e nocivos, a indicação de que a
 
 5 - As dimensões do rótulo devem corresponder aos formatos seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf))](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
 
 6 - Cada símbolo deve ocupar, pelo menos, um décimo da superfície total ocupada pelas condições referidas no n.º 2 do artigo 7.º sem, no entanto, ser inferior a 1 cm2.
 
@@ -310,19 +351,19 @@ c) 50% para os cofres do Estado.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 8 de Agosto de 1988.**
+Promulgado em 8 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 10 de Agosto de 1988.**
+Referendado em 10 de Agosto de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Classificação dos pesticidas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf))](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
 
 ## ANEXO II — Classificação, por cálculo, dos pesticidas com base numa única substância activa
 
@@ -362,7 +403,7 @@ Os valores dos índices I(índice 1) ou I(índice 2) são indicados no quadro se
 
 Quadro dos índices de classificação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf))](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
 
 3 - São considerados como tóxicos os pesticidas com base numa ou várias substâncias activas, referidas no n.º 5 do artigo 3.º deste diploma, se a soma dos produtos obtidos multiplicando a percentagem em peso P das diferentes substâncias activas presentes no pesticida pelos índices respectivos I(índice 1) ou I(índice 2) for superior a 500, ou seja:
 
@@ -384,7 +425,7 @@ Nos rótulos dos pesticidas considerados como perigosos nos termos do presente d
 
 Se forem necessárias várias frases, poderão ser combinadas de acordo com o previsto no [Decreto-Lei n.º 280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf))](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
 
 ## ANEXO V — Conselhos de prudência
 
@@ -392,4 +433,4 @@ Para os pesticidas que são classificados como muito tóxicos, tóxicos, nocivos
 
 Se várias frases forem necessárias, podem ser combinadas de acordo com o [Decreto-Lei n.º 280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf))](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/08/19500/35043508.pdf)

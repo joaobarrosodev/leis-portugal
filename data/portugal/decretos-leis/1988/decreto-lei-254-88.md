@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1988-372660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0970ed2750d626e245ac266d167e343e0b913dca0102e033b3608a4617204dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9e4dd4fc010dc91a3f031c40e7ce92c4ea30974145f59f91dc5b776afc07626
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contrato de Concessão
+- Junta Autónoma dos Portos do Barlavento do Algarve
+- Lagos
+- Marina
+- Navegação de Recreio
+- Portos
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:50Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +105,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Fica a Junta Autónoma dos Portos do Barlavento do Algarve (JAPBA) autorizada a celebrar, no seguimento de concurso público, contrato de concessão de construção e exploração, em regime de serviço público, de um porto destinado à navegação de recreio situado na margem esquerda da ribeira de Bensafrim, junto à cidade de Lagos, designado por Marina de Lagos.
+Artigo 1.º - 1 - Fica a Junta Autónoma dos Portos do Barlavento do Algarve (JAPBA) autorizada a celebrar, no seguimento de concurso público, contrato de concessão de construção e exploração, em regime de serviço público, de um porto destinado à navegação de recreio situado na margem esquerda da ribeira de Bensafrim, junto à cidade de Lagos, designado por Marina de Lagos.
 
 2 - O concurso público referido no número anterior será aberto no prazo máximo de três meses a contar da publicação do presente decreto-lei.
 
-###### Art. 2.º - 1 - A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante.
+Art. 2.º - 1 - A concessão será outorgada em conformidade com as bases anexas ao presente decreto-lei, que dele fazem parte integrante.
 
 2 - A concessão será outorgada após homologação pelo ministro responsável pelo sector.
 
-###### Art. 3.º - 1 - Serão consideradas como condições de preferência na adjudicação da concessão, por ordem decrescente da sua importância:
+Art. 3.º - 1 - Serão consideradas como condições de preferência na adjudicação da concessão, por ordem decrescente da sua importância:
 
 a) O nível técnico do projecto do empreendimento;
 
@@ -123,29 +129,35 @@ e) A taxa a pagar à JAPBA como contrapartida pela ocupação da área dominial 
 
 Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 29 de Junho de 1988.**
+Promulgado em 29 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Julho de 1988.**
+Referendado em 1 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Bases anexas
 
 ### CAPÍTULO I — Objecto da concessão
 
-###### Base I — Âmbito
+Base I
+
+Âmbito
 
 A presente concessão tem por objecto a construção e exploração, em regime de serviço público, de um porto destinado à navegação de recreio e de instalações de apoio a ele afectas, na zona do porto de Lagos, adiante designada por Marina.
 
-###### Base II — Localização da Marina
+Base II
+
+Localização da Marina
 
 A localização da Marina e a identificação das parcelas dominiais por ela ocupadas são as que constam da planta anexa às presentes bases e que delas fazem parte integrante.
 
-###### Base III — Estabelecimento
+Base III
+
+Estabelecimento
 
 Compreende-se no estabelecimento o conjunto dos bens que pelo Estado ou pela concessionária estão ou vierem a ser implementados nos terrenos da concessão ou a ser-lhe afectos, destinados à exploração, designadamente:
 
@@ -153,7 +165,9 @@ a) Acessos e redes de energia eléctrica, água e esgotos que a Junta Autónoma 
 
 b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de reserva, vedações e outros bens afectos de modo permanente e necessário à exploração dos serviços concedidos e que competirá à concessionária construir ou adquirir e afectar-lhe, nos termos da base IV seguinte.
 
-###### Base IV — Plano de obras, instalações e equipamentos
+Base IV
+
+Plano de obras, instalações e equipamentos
 
 1 - Compete à concessionária elaborar os projectos e executar as obras necessárias à realização do objecto do contrato, nomeadamente as relativas ao porto de recreio, respectivos serviços de apoio às instalações e equipamentos exigidos pelo seu funcionamento e operacionalidade, de acordo com as necessidades do turismo náutico e as especificações constantes da base V.
 
@@ -161,7 +175,9 @@ b) Edifícios, instalações, maquinismos, ferramentas, utensílios, peças de r
 
 3 - O plano geral do estabelecimento e os prazos dentro dos quais deverá ser executado constarão do contrato de concessão.
 
-###### Base V — Especificações obrigatórias
+Base V
+
+Especificações obrigatórias
 
 1 - Os projectos de obras deverão ser elaborados tendo em atenção o seguinte:
 
@@ -209,43 +225,57 @@ o) Armazéns.
 
 5 - Os projectos a apresentar pela concessionária deverão ser acompanhados de estudo de impacte ambiental nos termos da legislação em vigor.
 
-###### Base VI — Aprovação dos projectos
+Base VI
+
+Aprovação dos projectos
 
 1 - As obras a realizar na zona dominial só poderão ser iniciadas após a aprovação dos respectivos projectos pela JAPBA e a emissão das licenças correspondentes.
 
 2 - Tais licenças não dispensam a concessionária de obter das entidades competentes as licenças e autorizações legalmente exigidas.
 
-###### Base VII — Execução das obras
+Base VII
+
+Execução das obras
 
 A concessionária pode contratar a execução das obras e a implantação ou montagem de instalações e equipamentos com empresas de reconhecida competência, devendo, porém, informar previamente a JAPBA da identidade do contraente.
 
 ### CAPÍTULO II — Exploração
 
-###### Base VIII — Regime de exploração
+Base VIII
+
+Regime de exploração
 
 1 - O regime de exploração da Marina será o de serviço público, o que se traduzirá na total obrigatoriedade de prestação generalizada dos serviços a todos os potenciais utilizadores e no correspondente controle por parte das entidades oficiais.
 
 2 - A concessionária obriga-se a explorar a Marina segundo métodos racionais de empresa industrial e comercial, conforme os processos técnicos adoptados em estabelecimentos similares.
 
-###### Base IX — Licenciamento da exploração
+Base IX
+
+Licenciamento da exploração
 
 1 - A exploração da Marina só poderá iniciar-se quando a concessionária estiver munida das licenças e autorizações exigidas por lei para o exercício das actividades nela compreendidas.
 
 2 - A concessionária dará conhecimento à JAPBA do início da exploração com, pelo menos, 30 dias de antecedência.
 
-###### Base X — Regulamentos de exploração
+Base X
+
+Regulamentos de exploração
 
 1 - Antes da entrada em funcionamento da Marina, a JAPBA apreciará e aprovará os regulamentos que contenham as condições de prestação dos serviços a que a concessão der lugar.
 
 2 - Os regulamentos de exploração, depois de aprovados, deverão ser facultados a todos os potenciais utentes, ficando a concessionária obrigada a tê-los patentes nas suas instalações.
 
-###### Base XI — Regulamento de tarifas
+Base XI
+
+Regulamento de tarifas
 
 1 - Os limites máximos das tarifas a cobrar pela concessionária pelos serviços que prestar e pela utilização das instalações e equipamentos que apoiam a Marina, assim como as respectivas regras gerais de aplicação, serão fixados em regulamento de tarifas aprovado pela JAPBA, sob proposta da concessionária.
 
 2 - Na fixação dos limites tarifários máximos e na revisão dos mesmos deverá ter-se em conta a evolução previsível e normal do custo dos factores produtivos.
 
-###### Base XII — Conservação dos bens afectos à concessão
+Base XII
+
+Conservação dos bens afectos à concessão
 
 1 - A concessionária obriga-se a manter em permanente estado de bom funcionamento, conservação e segurança os bens que constituem o estabelecimento e a substituir, de sua conta e responsabilidade, todos os que se destruírem ou mostrarem inadequados para os fins a que se destinam por desgaste físico, avaria, deterioração ou obsolescência.
 
@@ -261,17 +291,23 @@ A concessionária pode contratar a execução das obras e a implantação ou mon
 
 7 - A JAPBA poderá determinar a retirada de qualquer equipamento que se mostre inadequado ao fim a que se destina e à regular e eficiente exploração dos serviços concedidos, impondo, se o tiver por conveniente, a sua substituição; igualmente poderá a JAPBA impor à concessionária a execução, no prazo que fixar, das reparações e beneficiações que se justificarem nos bens afectos à concessão.
 
-###### Base XIII — Fundo de conservação e renovação
+Base XIII
+
+Fundo de conservação e renovação
 
 1 - Para ocorrer aos encargos emergentes das obrigações de reparação, conservação e reapetrechamento deverá a concessionária afectar parte dos lucros anuais à constituição de um fundo de amortização e renovação, em termos a estabelecer pela JAPBA, sob proposta da concessionária.
 
 2 - Com a autorização da JAPBA poderá o fundo ser investido em novas aquisições ou ter outra aplicação reputada útil.
 
-###### Base XIV — Policiamento
+Base XIV
+
+Policiamento
 
 Competirá à concessionária suportar os encargos com o policiamento da Marina e assegurar a observância pelos utentes dos regulamentos de exploração.
 
-###### Base XV — Fiscalização
+Base XV
+
+Fiscalização
 
 1 - As instalações e as actividades exercidas pela concessionária no âmbito da concessão serão fiscalizadas pelos serviços da JAPBA, cujas instruções e intimações a concessionária se obriga a cumprir.
 
@@ -279,11 +315,15 @@ Competirá à concessionária suportar os encargos com o policiamento da Marina 
 
 3 - O exercício da fiscalização, pela JAPBA da exploração dos serviços concedidos não dispensa a concessionária de se subordinar à fiscalização de quaisquer outros serviços oficiais competentes.
 
-###### Base XVI — Vistorias
+Base XVI
+
+Vistorias
 
 Constituirão encargo da concessionária as despesas com vistorias extraordinárias, nomeadamente as que resultarem de reclamações de terceiros, desde que a vistoria conclua pela existência de irregularidades imputáveis à concessionária.
 
-###### Base XVII — Exploração por terceiros
+Base XVII
+
+Exploração por terceiros
 
 1 - A concessionária poderá subconceder a entidades especializadas a exploração de serviços de apoio ao porto de recreio, devendo comunicar à JAPBA a identidade das subconcessionárias e as condições dos respectivos contratos.
 
@@ -293,11 +333,15 @@ Constituirão encargo da concessionária as despesas com vistorias extraordinár
 
 ### CAPÍTULO III — Duração da concessão
 
-###### Base XVIII — Prazo
+Base XVIII
+
+Prazo
 
 O prazo da concessão será de 75 anos a contar da aprovação pela JAPBA dos regulamentos de exploração referidos na base X, podendo ser prorrogado por períodos de dez anos, desde que nisso acordem mutuamente concedente e concessionária até pelo menos um ano antes do termo do prazo da concessão ou das suas prorrogações.
 
-###### Base XIX — Termo da concessão
+Base XIX
+
+Termo da concessão
 
 1 - Finda a concessão pelo decurso do prazo, a JAPBA entrará imediatamente na posse das obras, edifícios, instalações, equipamentos, apetrechamentos e demais bens afectos à concessão, que para ela reverterão gratuitamente, livres de quaisquer ónus ou encargos, em estado de bom funcionamento, conservação e segurança, não podendo a concessionária reclamar indemnização alguma ou invocar, com qualquer fundamento, o direito de retenção.
 
@@ -321,7 +365,9 @@ O prazo da concessão será de 75 anos a contar da aprovação pela JAPBA dos re
 
 11 - As condições de cedência referida no número anterior e a fixação do valor das instalações a que se refere o n.º 9 serão reguladas por acordo ou, na sua falta, nos termos do disposto do n.º 1 da base XXX.
 
-###### Base XX — Resgate
+Base XX
+
+Resgate
 
 1 - A JAPBA poderá resgatar a concessão após decorridos 30 anos do início da concessão, mediante autorização do Ministro das Obras Públicas, Transportes e Comunicações, o que só produzirá efeitos decorridos dois anos sobre a data da notificação.
 
@@ -343,7 +389,9 @@ O prazo da concessão será de 75 anos a contar da aprovação pela JAPBA dos re
 
 10 - A JAPBA poderá liquidar os encargos da aquisição e da indemnização a que se referem, respectivamente, os n.os 5 e 7 desta base, por uma só vez ou em anuidades, até ao limite previsto para o termo do prazo da concessão, vencendo as importâncias em débito juros calculados a uma taxa igual à taxa básica de desconto do Banco de Portugal, adicionada de 1%.
 
-###### Base XXI — Rescisão
+Base XXI
+
+Rescisão
 
 1 - A JAPBA, autorizada pelo Ministro das Obras Públicas, Transportes e Comunicações, poderá rescindir o contrato de concessão sempre que do não cumprimento das obrigações essenciais da concessionária resultem graves perturbações na organização e no funcionamento dos serviços concedidos.
 
@@ -375,7 +423,9 @@ f) Interrupção injustificada da exploração do estabelecimento.
 
 ### CAPÍTULO IV — Suspensão excepcional da concessão
 
-###### Base XXII — Sequestro
+Base XXII
+
+Sequestro
 
 1 - A JAPBA poderá tomar conta da administração das instalações e promover a exploração dos serviços concedidos quando se verifique ou esteja eminente a sua cessação total ou parcial por causa imputável à concessionária ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações ou do equipamento susceptíveis de comprometerem a regularidade da exploração que não possam ser cobertas pelas receitas cobradas.
 
@@ -387,7 +437,9 @@ f) Interrupção injustificada da exploração do estabelecimento.
 
 5 - A declaração da situação de sequestro da concessão, bem como a declaração imediata de rescisão prevista no número anterior, carecem de autorização do Ministro das Obras Públicas, Transportes e Comunicações.
 
-###### Base XXIII — Caso de guerra ou emergência grave
+Base XXIII
+
+Caso de guerra ou emergência grave
 
 1 - De acordo com o previsto na legislação especial aplicável, a JAPBA ou outra entidade para o efeito designada pode, em situação de estado de guerra, estado de sítio ou estado de emergência, ser investida na gerência ou exploração dos serviços concedidos.
 
@@ -395,7 +447,9 @@ f) Interrupção injustificada da exploração do estabelecimento.
 
 ### CAPÍTULO V — Obrigações especiais
 
-###### Base XXIV — Contrapartida pela concessão
+Base XXIV
+
+Contrapartida pela concessão
 
 1 - A concessionária pagará à JAPBA, como contrapartida pela concessão, uma anuidade correspondente à soma das duas parcelas seguintes:
 
@@ -413,7 +467,9 @@ b) Mês a mês, após 60 dias depois do fim do mês a que respeita, pelo que se 
 
 4 - O pagamento das importâncias das anuidades de que trata a presente base efectuar-se-á a partir do início da exploração.
 
-###### Base XXV — Deliberações a aprovar ou autorizar pela JAPBA
+Base XXV
+
+Deliberações a aprovar ou autorizar pela JAPBA
 
 1 - Carecem de aprovação pela JAPBA as deliberações da concessionária que visem:
 
@@ -433,11 +489,15 @@ d) A emissão de obrigações.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Base XXVI — Direitos de terceiros
+Base XXVI
+
+Direitos de terceiros
 
 A concessionária será inteiramente responsável pelos prejuízos ou danos causados a terceiros pelo exercício dos poderes que lhe são conferidos pela concessão.
 
-###### Base XXVII — Caução
+Base XXVII
+
+Caução
 
 1 - A concessionária depositará na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da JAPBA, no prazo de seis meses a contar da data da assinatura do contrato, a importância de 6000 contos, que servirá de garantia ao efectivo cumprimento das obrigações emergentes da concessão e ao pagamento das multas que lhe forem impostas.
 
@@ -447,7 +507,9 @@ A concessionária será inteiramente responsável pelos prejuízos ou danos caus
 
 4 - O valor da caução será actualizado de cinco em cinco anos, segundo a variação do índice de preços no consumidor, sem habitação, nesse período.
 
-###### Base XXVIII — Incumprimento das obrigações
+Base XXVIII
+
+Incumprimento das obrigações
 
 1 - À falta de cumprimento das obrigações assumidas pela concessionária, quando lhe não correspondam sanções mais graves, nos termos das bases anteriores ou do regulamento de exploração, poderá ser aplicada multa de 50 a 1000 contos, segundo a gravidade e a frequência da infracção, mediante deliberação da JAPBA, a qual, comunicada, por escrito, à concessionária, produzirá os seus efeitos independentemente de qualquer outra formalidade. Os limites das multas atrás referidas serão actualizados em 1 de Janeiro de cada ano, de acordo com a taxa de inflação esperada.
 
@@ -455,12 +517,16 @@ A concessionária será inteiramente responsável pelos prejuízos ou danos caus
 
 3 - O pagamento das multas não isenta a concessionária da responsabilidade civil em que incorrer, nem prejudica a competência de outras autoridades para julgamento das infracções em que lhes caiba intervir.
 
-###### Base XXIX — Elementos estatísticos
+Base XXIX
+
+Elementos estatísticos
 
 A concessionária obriga-se a fornecer à JAPBA até ao dia 15 do mês seguinte àquele a que digam respeito os elementos estatísticos referentes ao movimento havido na Marina, bem como os elementos contabilísticos que traduzam o resultado da exploração.
 
-###### Base XXX — Arbitragem
+Base XXX
+
+Arbitragem
 
 As questões suscitadas entre a JAPBA e a concessionária sobre a interpretação e a execução do contrato de concessão serão resolvidas por arbitragem, nos termos gerais de direito.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/07/16500/29062910.pdf))](https://files.diariodarepublica.pt/1s/1988/07/16500/29062910.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/07/16500/29062910.pdf)

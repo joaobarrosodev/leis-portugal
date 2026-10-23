@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22700/40004002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1988-355675
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfbc5c5abebd5a1ff4ec84fc6f8b8f0b6d911fdf233db9a71a8d673838a871e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68a4af42d0e872b5dbec01df87e6899a3e0233f35b42de50eb99f181da1640f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Borba
+- Estatuto
+- Portalegre
+- Redondo
+- Reguengos de Monsaraz
+- Vidigueira
+- Vinha
+- Vinho
+- ZONA Vitivinícola
 relationships:
 - type: amended_by
   target: pt:dre:144977:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355570:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:144977:por
+  label: "Revogado pelo DEC LEI.12/95.1995.01.21.MA, DR.IS-A [18]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/12-1995-144977
+  date: '1995-01-21'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:06Z'
   warnings: []
   errors: []
 ---
@@ -104,29 +130,29 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º São aprovados os estatutos do conjunto das zonas vitivinícolas de Portalegre, Borba, Redondo, Reguengos e Vidigueira anexos a este decreto-lei e dele fazendo parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas da nomenclatura comunitária, abreviadamente designados VQPRD.
+Artigo 1.º São aprovados os estatutos do conjunto das zonas vitivinícolas de Portalegre, Borba, Redondo, Reguengos e Vidigueira anexos a este decreto-lei e dele fazendo parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas da nomenclatura comunitária, abreviadamente designados VQPRD.
 
-###### Art. 2.º A entidade competente a que se alude nos estatutos aprovados pelo presente diploma e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controle dos seus vinhos, é a Comissão Vitivinícola Regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570).
+Art. 2.º A entidade competente a que se alude nos estatutos aprovados pelo presente diploma e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controle dos seus vinhos, é a Comissão Vitivinícola Regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570).
 
-###### Art. 3.º - 1 - Com a entrada em vigor do presente diploma inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio, em ligação com a qual foram elaborados os estatutos das zonas vitivinícolas, ora aprovados.
+Art. 3.º - 1 - Com a entrada em vigor do presente diploma inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio, em ligação com a qual foram elaborados os estatutos das zonas vitivinícolas, ora aprovados.
 
 2 - Incumbe à comissão instaladora elaborar e propor os estatutos da CVR.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Setembro de 1988.**
+Referendado em 12 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Estatutos das zonas vitivinícolas de Portalegre, Borba, Redondo, Reguengos e Vidigueira
 
-###### Artigo 1.º - 1 - No Alentejo são reconhecidas como indicações de proveniência regulamentada (IPR) para a produção de vinhos a integrar na categoria dos chamados vinhos de qualidade produzidos em regiões determinadas (VQPRD) da nomenclatura comunitária as seguintes denominações, de que poderão usufruir os vinhos tintos e brancos produzidos nas respectivas zonas vitivinícolas que satisfaçam as disposições dos presentes estatutos e outros requisitos legais aplicáveis aos vinhos em geral e, em particular, aos VQPRD:
+Artigo 1.º - 1 - No Alentejo são reconhecidas como indicações de proveniência regulamentada (IPR) para a produção de vinhos a integrar na categoria dos chamados vinhos de qualidade produzidos em regiões determinadas (VQPRD) da nomenclatura comunitária as seguintes denominações, de que poderão usufruir os vinhos tintos e brancos produzidos nas respectivas zonas vitivinícolas que satisfaçam as disposições dos presentes estatutos e outros requisitos legais aplicáveis aos vinhos em geral e, em particular, aos VQPRD:
 
 a) Portalegre;
 
@@ -140,7 +166,7 @@ e) Vidigueira.
 
 2 - Fica proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos nestes estatutos, induzirem a confusão do consumidor, mesmo que precedidos dos termos tipo, estilo ou outros análogos.
 
-###### Art. 2.º - 1 - A área geográfica correspondente a cada uma das denominações ora consideradas, conforme representação cartográfica em anexo, abrange:
+Art. 2.º - 1 - A área geográfica correspondente a cada uma das denominações ora consideradas, conforme representação cartográfica em anexo, abrange:
 
 a) Portalegre:
 
@@ -196,7 +222,7 @@ Os limites naturais a separar a zona de Redondo das zonas vizinhas de Reguengos 
 
 Os limites naturais da zona de Reguengos são os seguintes: a norte, a albufeira da Vigia e manchas de litossolos (solos esqueléticos) de xistos associados a afloramentos rochosos; a sudoeste, litossolos (solos esqueléticos) de xistos associados a afloramentos rochosos da bacia do rio Degebe; a este e su-sueste, o rio Guadiana e as manchas de solos associados a afloramentos rochosos, e a oeste, a mancha de barros que se estende da Vendinha até Montoito.
 
-###### Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes estatutos devem estar ou ser instaladas em solos com as características a seguir referidas e com a exposição aconselhável para a produção de vinhos de qualidade:
+Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes estatutos devem estar ou ser instaladas em solos com as características a seguir referidas e com a exposição aconselhável para a produção de vinhos de qualidade:
 
 a) Portalegre - solos dominantemente de origem granítica e algumas manchas de derivados de xistos e de quartzitos;
 
@@ -208,7 +234,7 @@ d) Reguengos - solos dominantemente derivados de rochas eruptivas, de que se des
 
 e) Vidigueira - solos de variadas composições, mas principalmente de origem eruptiva ou metamórfica.
 
-###### Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade de cada uma das zonas são as seguintes:
+Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade de cada uma das zonas são as seguintes:
 
 a) Portalegre:
 
@@ -282,31 +308,31 @@ Castas autorizadas: Boal de Alicante, Diagalves, Fernão Pires, Larião Mourisco
 
 2 - A comercialização de vinhos com referência a uma ou duas castas só poderá ser feita em relação às recomendadas, com prévia autorização da entidade competente e a observância das disposições de âmbito geral aplicáveis.
 
-###### Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas as vinhas deverão ser estremes, em forma baixa, em taça ou cordão.
+Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas as vinhas deverão ser estremes, em forma baixa, em taça ou cordão.
 
 2 - As práticas culturais deverão ser as tradicionais ou recomendadas pela entidade competente, em ligação com os serviços regionais de agricultura.
 
 3 - A rega da vinha só pode ser efectuada em condições excepcionais reconhecidas pelo Instituto da Vinha e do Vinho (IVV) e sob autorização prévia, caso a caso, da entidade competente, à qual incumbe velar pelo cumprimento das normas que para o efeito vierem a ser definidas.
 
-###### Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
+Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
 
 2 - Sempre que se verifiquem alterações na constituição das vinhas cadastradas e aprovadas, será do facto dado conhecimento pelos respectivos viticultores, sem o que os seus vinhos deixarão de ter direito à denominação.
 
-###### Art. 7.º - 1 - Os vinhos protegidos por estes estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais, a estudar pela entidade competente, deverá decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito e que ficarão sob o controle da referida entidade.
+Art. 7.º - 1 - Os vinhos protegidos por estes estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais, a estudar pela entidade competente, deverá decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito e que ficarão sob o controle da referida entidade.
 
 2 - Na elaboração serão seguidos os métodos e práticas enológicos tradicionais legalmente autorizados.
 
 3 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação, a entidade competente estabelecerá os termos em que deverá decorrer a vinificação, devendo os referidos vinhos ser conservados em secções separadas, em vasilhas com a devida identificação e de que constem, nomeadamente, as indicações relativas ao volume da vasilha, à espécie de vinho contido e ao ano de colheita.
 
-###### Art. 8.º Os mostos destinados aos vinhos de denominação devem ter um teor alcoólico volumétrico mínimo natural de 11,5% vol. para os vinhos tintos e de 11% vol. para os vinhos brancos.
+Art. 8.º Os mostos destinados aos vinhos de denominação devem ter um teor alcoólico volumétrico mínimo natural de 11,5% vol. para os vinhos tintos e de 11% vol. para os vinhos brancos.
 
-###### Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação é fixado em 55 hl para os vinhos tintos e 60 hl para os vinhos brancos.
+Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação é fixado em 55 hl para os vinhos tintos e 60 hl para os vinhos brancos.
 
 2 - No caso de a produção exceder o quantitativo fixado, não pode ser utilizada a denominação para a totalidade da colheita, salvo em anos de produção excepcional, em que o IVV, sob proposta da entidade regional competente, estabelecerá o limite de produção com direito à utilização da denominação e o destino da produção excedentária.
 
-###### Art. 10.º O vinho tinto só pode ser engarrafado após o estágio mínimo de doze meses.
+Art. 10.º O vinho tinto só pode ser engarrafado após o estágio mínimo de doze meses.
 
-###### Art. 11.º - 1 - Os vinhos de denominação devem ter o teor alcoólico volumétrico mínimo de:
+Art. 11.º - 1 - Os vinhos de denominação devem ter o teor alcoólico volumétrico mínimo de:
 
 a) Vinhos tintos - 11,5º;
 
@@ -316,14 +342,14 @@ b) Vinhos brancos - 11,0º.
 
 3 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, à limpidez, ao aroma e ao sabor, a definir por regulamento interno da CVR.
 
-###### Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua inscrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
+Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua inscrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
 
-###### Art. 13.º Os vinhos de qualidade objecto dos presentes estatutos só podem ser postos em circulação e comercializados desde que nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
+Art. 13.º Os vinhos de qualidade objecto dos presentes estatutos só podem ser postos em circulação e comercializados desde que nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
 
-###### Art. 14.º - 1 - O engarrafamento só poderá ser feito após a aprovação do respectivo vinho, confirmando satisfazer as necessárias exigências.
+Art. 14.º - 1 - O engarrafamento só poderá ser feito após a aprovação do respectivo vinho, confirmando satisfazer as necessárias exigências.
 
 2 - Os rótulos a utilizar deverão ser apresentados à apreciação prévia da entidade competente.
 
-###### Art. 15.º Não obstante o disposto no artigo 2.º quanto aos limites das áreas geográficas das zonas vitivinícolas definidas nos presentes estatutos, a entidade competente poderá considerar, a título excepcional, como fazendo parte das mesmas zonas, e enquanto existirem, as vinhas situadas na periferia das respectivas áreas que satisfaçam todos os restantes requisitos exigidos e cuja produção tenha vindo tradicionalmente a ser destinada aos vinhos de qualidade regionais objecto dos presentes estatutos.
+Art. 15.º Não obstante o disposto no artigo 2.º quanto aos limites das áreas geográficas das zonas vitivinícolas definidas nos presentes estatutos, a entidade competente poderá considerar, a título excepcional, como fazendo parte das mesmas zonas, e enquanto existirem, as vinhas situadas na periferia das respectivas áreas que satisfaçam todos os restantes requisitos exigidos e cuja produção tenha vindo tradicionalmente a ser destinada aos vinhos de qualidade regionais objecto dos presentes estatutos.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22700/40004002.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22700/40004002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22700/40004002.pdf)

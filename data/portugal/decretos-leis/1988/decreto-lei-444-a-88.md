@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 278/1988, 1º Suplemento, Série I de 1988-12-02
   number: '278'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4770-(2) a 4770-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/27801/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-a-1988-229924
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 392d039003ae55ab902bee099674c15a95da2dd087e60d08744b06a4a141fb9e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6c1a8b6048197b1846d0167977162e72ae42cf02ac947e0a5842f6273b364a79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Obrigações do Tesouro
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:283919:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:26Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +106,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 2.º e 4.º do [Decreto-Lei n.º 321-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1985-283919), de 5 de Agosto, passam a ter a seguinte redacção:
+Artigo único. Os artigos 2.º e 4.º do [Decreto-Lei n.º 321-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-a-1985-283919), de 5 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Os bilhetes do Tesouro são emitidos pelos prazos de 91, 182 e 364 dias, sendo as respectivas taxas máximas de juro anuais bem como o limite máximo de emissão fixados pelo Ministro das Finanças.
+Art. 2.º - 1 - Os bilhetes do Tesouro são emitidos pelos prazos de 91, 182 e 364 dias, sendo as respectivas taxas máximas de juro anuais bem como o limite máximo de emissão fixados pelo Ministro das Finanças.
 
 2 - Excepcionalmente, mas respeitando o disposto no número seguinte, poderá ser previamente acordado que uma dada emissão seja tomada firme pelo Banco de Portugal.
 
@@ -106,16 +116,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ...
 
-###### Art. 4.º As propostas de compra de bilhetes do Tesouro devem ser apresentadas ao Banco de Portugal, nos termos que este fixar, antes do início de cada sessão do respectivo mercado.
+Art. 4.º As propostas de compra de bilhetes do Tesouro devem ser apresentadas ao Banco de Portugal, nos termos que este fixar, antes do início de cada sessão do respectivo mercado.
 
 Visto e aprovado em Conselho de Ministros de 13 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

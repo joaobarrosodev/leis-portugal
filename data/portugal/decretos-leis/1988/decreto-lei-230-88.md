@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15300/27342734.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/230-1988-373417
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a78fdf39635704a108b7a2ff1ae02afefd2f39c2ee89af48cc70c86bfc0ec16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4905932c5b286667407736cfe0267b364fd600e7328da4e3e8439ca423648410
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Cooperativo
+- Cooperativa
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:462212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676035:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 4
+  article_count: 3
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:15Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +117,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 10.º, 30.º e 43.º do Código Cooperativo, aprovado pelo [Decreto-Lei n.º 454/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212), de 9 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 238/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1981-576534), de 10 de Agosto, e pela [Lei n.º 1/83](https://diariodarepublica.pt/dr/detalhe/lei/1-1983-676035), de 10 de Janeiro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 10.º, 30.º e 43.º do Código Cooperativo, aprovado pelo [Decreto-Lei n.º 454/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/454-1980-462212), de 9 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 238/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1981-576534), de 10 de Agosto, e pela [Lei n.º 1/83](https://diariodarepublica.pt/dr/detalhe/lei/1-1983-676035), de 10 de Janeiro, passam a ter a seguinte redacção:
 
 ###### Artigo 10.º — [...]
 
@@ -130,12 +149,12 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1988.**
+Referendado em 23 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

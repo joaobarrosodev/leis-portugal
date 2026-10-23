@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 263/1988, 2º Suplemento, Série I de 1988-11-14
   number: '263'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4566-(6) a 4566-(8)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26302/00060008.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1988-514652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a5a0e22438d1c3f534adcf1f4f9ec0a66fc02405e0fd77f066303675aa6d5e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1d18cde64c61721cbd33c6df02960b1d9e4414da5e0df7dde77f5c63b1c5355
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Educação
+- Educação
+- Ministério da Educação e das Universidades
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:667947:por
+  label: "Alterado o art. 10º do Dec Lei 125/82 de 22-Abr, alterado pelo presente diploma, pelo DEC LEI.244/91.06.07.1991.ME,\
+    \ DR.IS-A [[153]] de 06.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1991-667947
+  date: '1991-07-06'
+- type: amended_by
+  target: pt:dre:197538:por
+  label: "Alterada a redacção dos art 1, 2, 5, 10, 10-A, 12, 12-A, 17, 23, 24 e 24-A do Dec Lei 125/82, de 22-Abr (na versão\
+    \ dada pela, Lei 31/87, de 09-Jul e com as alterações introduzidas pelos Dec Leis 89/88, de 10-Mar e 244/91, de 06-Jul),\
+    \ pelo Dec Lei 241/96.1996.12.17.ME, DR.IS-A [291].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/241-1996-197538
+  date: '1996-12-17'
+- type: amended_by
+  target: pt:dre:603224:por
+  label: "Alterado o art. 5.º do Dec Lei 125/82 de 22-Abr, na redacção do presente diploma, pela LEI.13/2009.01.04.2009.AR,\
+    \ DR.IS [64] de 01.04.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/13-2009-603224
+  date: '2009-04-01'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287173:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:420041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606530:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 12
+  article_count: 11
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:51Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +156,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 5.º, 12.º, 17.º e 23.º da nova versão do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), de 22 de Abril, dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), de 9 de Julho, bem como os seus artigos 10.º e 24.º, alterados pelo [Decreto-Lei n.º 89/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1988-287173), de 10 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 5.º, 12.º, 17.º e 23.º da nova versão do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), de 22 de Abril, dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), de 9 de Julho, bem como os seus artigos 10.º e 24.º, alterados pelo [Decreto-Lei n.º 89/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1988-287173), de 10 de Março, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º — [...]
 
@@ -242,7 +298,7 @@ b) As que resultem da aquisição, reparação e conservação dos bens móveis 
 
 10 - O Conselho poderá dispor de um quadro de pessoal, a aprovar por portaria conjunta dos Ministros das Finanças e da Educação, o qual acrescerá ao quadro único do Ministério da Educação.
 
-###### Art. 2.º São aditados ao [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), de 22 de Abril, na versão dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), de 9 de Julho, os seguintes artigos:
+Art. 2.º São aditados ao [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), de 22 de Abril, na versão dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), de 9 de Julho, os seguintes artigos:
 
 ###### Artigo 10.º-A — Conselho administrativo
 
@@ -314,16 +370,16 @@ i) Exercer quaisquer outras competências que lhe sejam delegadas pelo president
 
 2 - Poderá ainda o Conselho, nos termos da lei geral, recorrer à aquisição de serviços em regime de contrato, tarefa ou avença, ficando o pessoal contratado ou tarefeiro abrangido pelo regime geral da Segurança Social.
 
-###### Art. 3.º (disposição transitória) - Enquanto não forem criadas as regiões administrativas, a designação dos elementos a que se refere a alínea e) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na redacção dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), competirá a cada uma das comissões de coordenação regional.
+Art. 3.º (disposição transitória) - Enquanto não forem criadas as regiões administrativas, a designação dos elementos a que se refere a alínea e) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 125/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1982-606530), na redacção dada pela [Lei n.º 31/87](https://diariodarepublica.pt/dr/detalhe/lei/31-1987-420041), competirá a cada uma das comissões de coordenação regional.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 11 de Novembro de 1988.**
+Promulgado em 11 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Novembro de 1988.**
+Referendado em 12 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

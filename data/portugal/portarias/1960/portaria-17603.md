@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17603-1960-282125
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6eae03599648d8b78f839984eb51777c65b59b2f6855140b6ec11aaad9893c33
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 649adab1816afb86d5e0c56e28d2a910d5cf5c334e6b4d46e1b3d9da68e23bdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:12Z'
   warnings: []
   errors: []
 ---
@@ -91,25 +111,25 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
 
 Despesas com o pessoal:
 
-###### Artigo 244.º, n.º 1 «Outras despesas com o pessoal - Ajudas de custo» ... 45.000$00
+Artigo 244.º, n.º 1 «Outras despesas com o pessoal - Ajudas de custo» ... 45.000$00
 
 Despesas com o material:
 
-###### Artigo 247.º, n.º 4) «Despesas de conservação e aproveitamento - De material de defesa e segurança pública» ... 45.420$00
+Artigo 247.º, n.º 4) «Despesas de conservação e aproveitamento - De material de defesa e segurança pública» ... 45.420$00
 
-###### Artigo 248.º «Material de consumo corrente» ... 20.000$00
+Artigo 248.º «Material de consumo corrente» ... 20.000$00
 
 Pagamento de serviços:
 
-###### Artigo 251.º, n.º 2) «Diversos serviços - Despesa de instrução» ... 4.976$40
+Artigo 251.º, n.º 2) «Diversos serviços - Despesa de instrução» ... 4.976$40
 
 Encargos gerais:
 
-###### Artigo 253.º, n.º 1), alínea b) «Despesas de comunicação fora da província - Portes de correios e telégrafos - Telégrafos» ... 22.000$00
+Artigo 253.º, n.º 1), alínea b) «Despesas de comunicação fora da província - Portes de correios e telégrafos - Telégrafos» ... 22.000$00
 
-###### Artigo 254.º, n.º 1), alínea b) «Deslocações de pessoal - Ajudas de custo inerentes às deslocações fora da província - A pagar na província» ... 23.000$00
+Artigo 254.º, n.º 1), alínea b) «Deslocações de pessoal - Ajudas de custo inerentes às deslocações fora da província - A pagar na província» ... 23.000$00
 
-###### Artigo 256.º «Abono de família» ... 97.000$00
+Artigo 256.º «Abono de família» ... 97.000$00
 
 ... 257.396$40
 
@@ -119,7 +139,7 @@ tomando como contrapartida as disponibilidades que se discriminam da referida ta
 
 Despesas com o pessoal:
 
-###### Artigo 243.º «Remunerações acidentais»:
+Artigo 243.º «Remunerações acidentais»:
 
 N.º 1) «Gratificações de comando ou comissão» ... 15.000$00
 
@@ -129,19 +149,19 @@ N.º 3), alínea a) «Gratificações especiais e de classe - Gratificação de 
 
 N.º 4) «Gratificações de readmissão a praças indígenas» ... 90.420$00
 
-###### Artigo 244.º, n.º 2) «Outras despesas com o pessoal» ... 120.000$00
+Artigo 244.º, n.º 2) «Outras despesas com o pessoal» ... 120.000$00
 
 Pagamento de serviços:
 
-###### Artigo 250.º «Despesas de comunicação dentro da província» ... 4.000$00
+Artigo 250.º «Despesas de comunicação dentro da província» ... 4.000$00
 
 Diversos encargos:
 
-###### Artigo 254.º, n.º 2) «Deslocações de pessoal - Passagens dentro da província» ... 9.000$00
+Artigo 254.º, n.º 2) «Deslocações de pessoal - Passagens dentro da província» ... 9.000$00
 
-###### Artigo 255.º, n.º 1) «Diversas despesas - Despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 3.000$00
+Artigo 255.º, n.º 1) «Diversas despesas - Despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 3.000$00
 
-###### Artigo 260.º «Duplicação de vencimentos» ... 11.000$00
+Artigo 260.º «Duplicação de vencimentos» ... 11.000$00
 
 ... 257.396$40
 
@@ -151,7 +171,7 @@ Diversos encargos:
 
 Encargos gerais:
 
-###### Artigo 254.º - Deslocações de pessoal:
+Artigo 254.º - Deslocações de pessoal:
 
 N.º 1), alínea a) «Ajudas de custo inerentes às deslocações fora da província - A pagar na metrópole» ... 50.000$00
 

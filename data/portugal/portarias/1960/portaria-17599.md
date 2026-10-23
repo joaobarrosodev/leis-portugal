@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17599-1960-282109
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7fcb3a63ee469b29745c188442edc10acb2b1e94cc20bd89e60a795844b1d62d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4feb4eb630ac1f26ddbf65374e8e04170856bb2fdb89f95330486fee3a4c8eca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201018:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 8
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:07Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +107,7 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 8.º — Serviços militares
 
-###### Artigo 204.º «Encargos gerais - Deslocações do pessoal»:
+Artigo 204.º «Encargos gerais - Deslocações do pessoal»:
 
 N.º 2), alínea a) «Ajudas de custo inerentes às deslocações fora da província - A pagar na metrópole» ... 20.000$00
 
@@ -101,7 +121,7 @@ tomando como contrapartida as disponibilidades a seguir discriminadas da referid
 
 Despesas com o pessoal:
 
-###### Artigo 193.º «Outras despesas com o pessoal dentro da província»:
+Artigo 193.º «Outras despesas com o pessoal dentro da província»:
 
 N.º 1) «Subsídio extraordinário para alimentação a 26 sargentos e furriéis, a $ 3,00 diários» ... 53.144$00
 
@@ -111,13 +131,13 @@ N.º 4), alínea b) «Subsídio para funerais de oficiais e praças do activo - 
 
 Despesas com o material:
 
-###### Artigo 196.º, n.º 4) «Despesas de conservação e aproveitamento - De material de defesa e segurança pública» ... 11.200$00
+Artigo 196.º, n.º 4) «Despesas de conservação e aproveitamento - De material de defesa e segurança pública» ... 11.200$00
 
-###### Artigo 197.º «Material de consumo corrente» ... 44.124$80
+Artigo 197.º «Material de consumo corrente» ... 44.124$80
 
 Pagamento de serviços:
 
-###### Artigo 200.º «Diversos serviços»:
+Artigo 200.º «Diversos serviços»:
 
 N.º 1) «Força motriz» ... 746$80
 
@@ -127,7 +147,7 @@ N.º 4) «Despesas com a preparação militar do pessoal a incorporar na provín
 
 Encargos gerais:
 
-###### Artigo 204.º «Deslocações do pessoal»:
+Artigo 204.º «Deslocações do pessoal»:
 
 N.º 1) «Ajudas de custo dentro da província» ... 7.000$00
 
@@ -137,13 +157,13 @@ N.º 4), alínea a), 2.ª «Passagens de ou para o exterior - Por motivo de lice
 
 N.º 5), alínea b) «Subsídios de viagem e de demora em portos de escala inerentes às deslocações fora da província - A pagar na província» ... 5.600$00
 
-###### Artigo 205.º «Diversas despesas»:
+Artigo 205.º «Diversas despesas»:
 
 N.º 1), alínea b) «Diferenças de câmbio e outras despesas de transferências de fundos - A pagar na província» ... 18.666$90
 
 N.º 3) «Para pagamento das despesas determinadas pelos artigos 4.º e 5.º do [Decreto n.º 30832](https://diariodarepublica.pt/dr/detalhe/decreto/30832-1940-201018), de 30 de Outubro de 1940» ... 28.738$70
 
-###### Artigo 207.º «Duplicação de vencimentos» ... 10.853$20
+Artigo 207.º «Duplicação de vencimentos» ... 10.853$20
 
 ... 220.000$00
 

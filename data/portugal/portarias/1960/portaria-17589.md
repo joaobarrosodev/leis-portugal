@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17589-1960-278565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2267cbd547ecc3c22a9bbf795ebcab370682f0a85b3b664ea4806c34ccce65be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8944a9a10257d05e5759ca9dea6bdac6cd3ebef53356b4a1f1f993ef2002dfc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:52Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +91,11 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 4.º — Serviços de economia e estatística geral
 
-###### Artigo 584.º, n.º 3) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 948$38
+Artigo 584.º, n.º 3) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal assalariado» ... 948$38
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 1621.º, n.º 1), alínea b) «Subsídios e pensões - Pensões a pensionistas e sinistrados - A conceder no decurso do ano económico» ... 4.800$00
+Artigo 1621.º, n.º 1), alínea b) «Subsídios e pensões - Pensões a pensionistas e sinistrados - A conceder no decurso do ano económico» ... 4.800$00
 
 ... 5.748$38
 

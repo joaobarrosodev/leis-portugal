@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17788-1960-502413
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-03-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f86736dd812e27fc2f98939be33d645d5032bd85b73f19d4d0acac55a3dc33d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: faf0cb82f276d321aad99ad9f9dec6e9fed60e9bd1eb6ccad95302c4a551af1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comando Geral da Polícia de Segurança Pública
+- Exame Médico
+- Protecção na Doença
+- PSP
+- Regulamento
+- Serviço de Saúde
 relationships:
 - type: amended_by
   target: pt:dre:609303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:156244:por
+  label: "Alterada a alínea c) do artigo 3.º do Regulamento, pela PORT.19469.30.10.1962.MI, DG.IS [250] de 30.10.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19469-1962-156244
+  date: '1962-10-30'
+- type: amended_by
+  target: pt:dre:504307:por
+  label: "Alterados os artigos 28.º e seu § único, 29.º e 30.º do Regulamento, pela PORT.22533.24.02.1967.MI, DG.IS [47] de\
+    \ 24.02.1967 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22533-1967-504307
+  date: '1967-02-24'
+- type: amended_by
+  target: pt:dre:251406:por
+  label: "Alterada a alínea c) do artigo 4.º do Regulamento, pela PORT.477/77.29.07.1977.MAI, DR.IS [174] de 29.07.1977\0\
+    7\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/477-1977-251406
+  date: '1977-07-29'
+- type: amended_by
+  target: pt:dre:382666:por
+  label: "Alterados os artigos 56.º e 57.º do Regulamento, pela PORT.190/79.20.04.1979.MAI, DR.IS [92] de 20.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/190-1979-382666
+  date: '1979-04-20'
+- type: amended_by
+  target: pt:dre:609303:por
+  label: "Alteradas as alíneas a) e b) do artigo 55.º do Regulamento, pela PORT.284/82.16.03.1982.MAI, DR.IS [62] de 16.03.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-1982-609303
+  date: '1982-03-16'
+- type: cites
+  target: pt:dre:281470:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:08Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +140,17 @@ Regulamento do Serviço de Saúde da Polícia de Segurança Pública
 
 ### CAPÍTULO I — Natureza e fins
 
-###### Artigo 1.º O serviço de saúde na Polícia de Segurança Pública será executado em harmonia com o presente regulamento.
+Artigo 1.º O serviço de saúde na Polícia de Segurança Pública será executado em harmonia com o presente regulamento.
 
 § único. Os casos não previstos neste regulamento serão regulados pela legislação sanitária que vigorar no Exército e os duvidosos esclarecidos pelo Comando-Geral.
 
-###### Art. 2.º O serviço de saúde tem por missão:
+Art. 2.º O serviço de saúde tem por missão:
 
 1) Estudar, propor e pôr em prática medidas que assegurem a manutenção da saúde e a assistência na doença a oficiais, agentes e pessoal civil da corporação e pessoas de sua família a seu exclusivo cargo, nas condições dos artigos 3.º, 4.º e 5.º;
 
 2) Organizar e manter a respectiva estatística médica.
 
-###### Art. 3.º Têm direito a assistência médica gratuita prestada pelos oficiais médicos ou médicos civis contratados da Polícia de Segurança Pública:
+Art. 3.º Têm direito a assistência médica gratuita prestada pelos oficiais médicos ou médicos civis contratados da Polícia de Segurança Pública:
 
 a) Os oficiais, enquanto durarem as suas comissões;
 
@@ -120,7 +166,7 @@ Número de médicos existentes;
 
 Disponibilidades financeiras.
 
-###### Art. 4.º Aos agentes e pessoal civil ao serviço e às pessoas de sua família referidas na alínea c) do artigo anterior serão concedidos gratuitamente, sempre que possível, ou em regime de comparticipação, na percentagem que o Comando-Geral fixar:
+Art. 4.º Aos agentes e pessoal civil ao serviço e às pessoas de sua família referidas na alínea c) do artigo anterior serão concedidos gratuitamente, sempre que possível, ou em regime de comparticipação, na percentagem que o Comando-Geral fixar:
 
 a) Medicamentos (com exclusão de material de penso);
 
@@ -128,7 +174,7 @@ b) Análises laboratoriais;
 
 c) Exames radiológicos e agentes físicos.
 
-###### Art. 5.º Podem frequentar as consultas externas dos hospitais, nas condições acordadas com os Ministérios do Exército e da Saúde e Assistência, os agentes e pessoal civil da Polícia de Segurança Pública, bem como as pessoas de sua família referidas na alínea c) do artigo 3.º, devendo para esse efeito ser portadores de guia modelo n.º 1.
+Art. 5.º Podem frequentar as consultas externas dos hospitais, nas condições acordadas com os Ministérios do Exército e da Saúde e Assistência, os agentes e pessoal civil da Polícia de Segurança Pública, bem como as pessoas de sua família referidas na alínea c) do artigo 3.º, devendo para esse efeito ser portadores de guia modelo n.º 1.
 
 § 1.º Os agentes e o pessoal civil da corporação só podem frequentar as consultas externas dos hospitais com autorização dos comandantes ou chefes sob cujas ordens sirvam, sem que daí resulte prejuízo para o serviço ou dispêndio para a Fazenda Nacional.
 
@@ -138,11 +184,11 @@ c) Exames radiológicos e agentes físicos.
 
 A) Da organização geral
 
-###### Art. 6.º A chefia do serviço de saúde tem a sua sede no Comando-Geral da Polícia de Segurança Pública e está a cargo de um major médico, que desempenha cumulativamente as funções de inspector-geral de saúde.
+Art. 6.º A chefia do serviço de saúde tem a sua sede no Comando-Geral da Polícia de Segurança Pública e está a cargo de um major médico, que desempenha cumulativamente as funções de inspector-geral de saúde.
 
 § único. O chefe do serviço de saúde depende do comandante-geral da Polícia de Segurança Pública.
 
-###### Art. 7.º Para efeitos de uma mais perfeita coordenação e inspecção dos serviços médicos, serão constituídas as seguintes zonas:
+Art. 7.º Para efeitos de uma mais perfeita coordenação e inspecção dos serviços médicos, serão constituídas as seguintes zonas:
 
 a) Zona norte, com sede no comando distrital do Porto e abrangendo os seguintes comandos distritais:
 
@@ -194,21 +240,21 @@ f) Comando distrital da Horta;
 
 g) Comando distrital de Ponta Delgada.
 
-###### Art. 8.º Haverá postos clínicos no Comando-Geral, nos comandos distritais e nas divisões e em todos os outros corpos de polícia sempre que tal se torne conveniente.
+Art. 8.º Haverá postos clínicos no Comando-Geral, nos comandos distritais e nas divisões e em todos os outros corpos de polícia sempre que tal se torne conveniente.
 
-###### Art. 9.º Quando se julgar oportuno e as verbas orçamentais o possam comportar, serão criadas consultas de especialidades, que poderão funcionar anexas aos postos clínicos.
+Art. 9.º Quando se julgar oportuno e as verbas orçamentais o possam comportar, serão criadas consultas de especialidades, que poderão funcionar anexas aos postos clínicos.
 
 § único. Nestes postos haverá, para cada uma das especialidades, um livro de registo do movimento de doentes, do modelo n.º 6, onde serão registados todos os doentes que neles sejam assistidos.
 
-###### Art. 10.º Para os serviços de especialidade e outros que dispensem o internamento dos doentes nos hospitais ou nestes não tenham lugar poderá o comandante-geral mandar efectuar contratos com médicos especialistas, dentro das possibilidades orçamentais.
+Art. 10.º Para os serviços de especialidade e outros que dispensem o internamento dos doentes nos hospitais ou nestes não tenham lugar poderá o comandante-geral mandar efectuar contratos com médicos especialistas, dentro das possibilidades orçamentais.
 
-###### Art. 11.º Nas cidades de Lisboa e Porto dispor-se-á de enfermarias, para apoio dos agentes e funcionários civis da Polícia de Segurança Pública; nas restantes localidades, só naquelas em que o número de agentes e funcionários imponha a sua criação como muito conveniente.
+Art. 11.º Nas cidades de Lisboa e Porto dispor-se-á de enfermarias, para apoio dos agentes e funcionários civis da Polícia de Segurança Pública; nas restantes localidades, só naquelas em que o número de agentes e funcionários imponha a sua criação como muito conveniente.
 
 B) Da chefia do serviço de saúde
 
-###### Art. 12.º A chefia do serviço de saúde dispõe de uma secretaria e de um arquivo.
+Art. 12.º A chefia do serviço de saúde dispõe de uma secretaria e de um arquivo.
 
-###### Art. 13.º A secretaria da chefia do serviço de saúde tem, fundamentalmente, a seu cargo:
+Art. 13.º A secretaria da chefia do serviço de saúde tem, fundamentalmente, a seu cargo:
 
 a) A organização e revisão dos processos para a junta superior de saúde e o registo das decisões nos respectivos livros;
 
@@ -220,11 +266,11 @@ d) A recepção, escrituração e arquivo de toda a correspondência;
 
 e) A guarda das ordens, regulamentos e disposições indispensáveis para a execução dos serviços.
 
-###### Art. 14.º O arquivo será organizado nos mesmos moldes do Comando-Geral e terá a seu exclusivo cargo os ficheiros.
+Art. 14.º O arquivo será organizado nos mesmos moldes do Comando-Geral e terá a seu exclusivo cargo os ficheiros.
 
 C) Das zonas
 
-###### Art. 15.º Cada zona de inspecção disporá de um inspector. Esta função será desempenhada nas zonas norte e sul respectivamente pelos capitães médicos dos comandos do Porto e de Lisboa e na zona centro pelo tenente médico do comando de Coimbra.
+Art. 15.º Cada zona de inspecção disporá de um inspector. Esta função será desempenhada nas zonas norte e sul respectivamente pelos capitães médicos dos comandos do Porto e de Lisboa e na zona centro pelo tenente médico do comando de Coimbra.
 
 § 1.º Na falta de médicos militares, recairão aquelas funções em médicos civis a contratar pelo Comando-Geral.
 
@@ -232,7 +278,7 @@ C) Das zonas
 
 D) Dos postos clínicos
 
-###### Art. 16.º Os postos clínicos devem compreender, sempre que necessário, os seguintes compartimentos:
+Art. 16.º Os postos clínicos devem compreender, sempre que necessário, os seguintes compartimentos:
 
 a) Gabinetes de consulta e observação médica;
 
@@ -244,21 +290,21 @@ d) Secretaria e arquivo;
 
 e) Sanitários.
 
-###### Art. 17.º Nos postos clínicos serão feitas diàriamente consultas médicas e tratamentos de doenças ou lesões de pouca gravidade aos oficiais, agentes e pessoal civil da Polícia de Segurança Pública, bem como às pessoas de sua família referidas na alínea c) do artigo 3.º que para tal fim ali compareçam às horas fixadas.
+Art. 17.º Nos postos clínicos serão feitas diàriamente consultas médicas e tratamentos de doenças ou lesões de pouca gravidade aos oficiais, agentes e pessoal civil da Polícia de Segurança Pública, bem como às pessoas de sua família referidas na alínea c) do artigo 3.º que para tal fim ali compareçam às horas fixadas.
 
-###### Art. 18.º Os agentes e pessoal civil da corporação deverão utilizar os postos clínicos do respectivo comando ou divisão, cujo médico será o único competente para tomar decisões susceptíveis de ter consequências regulamentares ou disciplinares.
+Art. 18.º Os agentes e pessoal civil da corporação deverão utilizar os postos clínicos do respectivo comando ou divisão, cujo médico será o único competente para tomar decisões susceptíveis de ter consequências regulamentares ou disciplinares.
 
-###### Art. 19.º Nos postos clínicos haverá dois livros de registo geral do movimento de doentes e feridos, dos modelos n.os 2 e 3, sendo um destinado ao registo do pessoal da Polícia de Segurança Pública e o outro ao registo das pessoas de sua família e dos indivíduos a que se refere o artigo 123.º
+Art. 19.º Nos postos clínicos haverá dois livros de registo geral do movimento de doentes e feridos, dos modelos n.os 2 e 3, sendo um destinado ao registo do pessoal da Polícia de Segurança Pública e o outro ao registo das pessoas de sua família e dos indivíduos a que se refere o artigo 123.º
 
-###### Art. 20.º Em cada posto clínico haverá um livro de registo de medicamentos, modelo n.º 5, a cargo do enfermeiro ou graduado a quem compita a sua escrituração.
+Art. 20.º Em cada posto clínico haverá um livro de registo de medicamentos, modelo n.º 5, a cargo do enfermeiro ou graduado a quem compita a sua escrituração.
 
-###### Art. 21.º O serviço a prestar pelos médicos da Polícia de Segurança Pública, o horário e instruções de funcionamento dos postos clínicos, etc., serão regulados por ordens do Comando-Geral, mediante proposta do chefe do serviço de saúde.
+Art. 21.º O serviço a prestar pelos médicos da Polícia de Segurança Pública, o horário e instruções de funcionamento dos postos clínicos, etc., serão regulados por ordens do Comando-Geral, mediante proposta do chefe do serviço de saúde.
 
 E) Das enfermarias
 
-###### Art. 22.º As enfermarias são destinadas a receber doentes portadores de doenças não contagiosas e de curta duração e compatíveis com as possibilidades das mesmas.
+Art. 22.º As enfermarias são destinadas a receber doentes portadores de doenças não contagiosas e de curta duração e compatíveis com as possibilidades das mesmas.
 
-###### Art. 23.º As enfermarias devem compreender, sempre que possível, os seguintes compartimentos:
+Art. 23.º As enfermarias devem compreender, sempre que possível, os seguintes compartimentos:
 
 a) Um gabinete para o médico;
 
@@ -278,37 +324,37 @@ h) Arrecadação para roupas;
 
 i) Sanitários.
 
-###### Art. 24.º A assistência médica dos doentes será prestada pelos médicos da Polícia de Segurança Pública em serviço na localidade onde a enfermaria está instalada. A orientação e a coordenação ficam a cargo de um médico do respectivo comando, para esse efeito nomeado, e que será o director da enfermaria.
+Art. 24.º A assistência médica dos doentes será prestada pelos médicos da Polícia de Segurança Pública em serviço na localidade onde a enfermaria está instalada. A orientação e a coordenação ficam a cargo de um médico do respectivo comando, para esse efeito nomeado, e que será o director da enfermaria.
 
-###### Art. 25.º O enfermeiro mais graduado ou o mais antigo será o responsável pelas cargas, conservação e manutenção, de material de hospitalização e sanitário, dando imediato conhecimento ao director da enfermaria de qualquer ocorrência que surja.
+Art. 25.º O enfermeiro mais graduado ou o mais antigo será o responsável pelas cargas, conservação e manutenção, de material de hospitalização e sanitário, dando imediato conhecimento ao director da enfermaria de qualquer ocorrência que surja.
 
-###### Art. 26.º O serviço de escrituração, requisições de medicamentos e artigos de limpeza fica também a cargo do enfermeiro mais graduado ou antigo.
+Art. 26.º O serviço de escrituração, requisições de medicamentos e artigos de limpeza fica também a cargo do enfermeiro mais graduado ou antigo.
 
-###### Art. 27.º Nas enfermarias haverá um livro de registo geral do movimento de doentes e feridos, do modelo n.º 8.
+Art. 27.º Nas enfermarias haverá um livro de registo geral do movimento de doentes e feridos, do modelo n.º 8.
 
 F) Dos serviços farmacêuticos e outros
 
-###### Art. 28.º Em Lisboa e no Porto serão criadas uma farmácia em cada localidade, com laboratórios de análises anexos; em Coimbra será montada uma delegação. Nas restantes localidades poderão ser montadas cantinas farmacêuticas.
+Art. 28.º Em Lisboa e no Porto serão criadas uma farmácia em cada localidade, com laboratórios de análises anexos; em Coimbra será montada uma delegação. Nas restantes localidades poderão ser montadas cantinas farmacêuticas.
 
 § único. As farmácias e as delegações, sempre que as disponibilidades financeiras o permitam, serão dirigidas por técnico farmacêutico competente; as cantinas, por graduados farmacêuticos.
 
-###### Art. 29.º Compete aos técnicos farmacêuticos dirigir e orientar os órgãos do respectivo serviço, de modo a poderem fornecer medicamentos às cantinas, a todo o pessoal em serviço na Polícia de Segurança Pública e aos familiares a seu cargo a que se refere a alínea c) do artigo 3.º
+Art. 29.º Compete aos técnicos farmacêuticos dirigir e orientar os órgãos do respectivo serviço, de modo a poderem fornecer medicamentos às cantinas, a todo o pessoal em serviço na Polícia de Segurança Pública e aos familiares a seu cargo a que se refere a alínea c) do artigo 3.º
 
-###### Art. 30.º Os órgãos do serviço farmacêutico ficarão subordinados tècnicamente à chefia do serviço de saúde, disciplinarmente ao Comando-Geral e administrativamente aos conselhos administrativos junto dos quais funcionem.
+Art. 30.º Os órgãos do serviço farmacêutico ficarão subordinados tècnicamente à chefia do serviço de saúde, disciplinarmente ao Comando-Geral e administrativamente aos conselhos administrativos junto dos quais funcionem.
 
-###### Art. 31.º As análises clínicas serão feitas dentro das possibilidades dos laboratórios e mediante requisição feita por qualquer médico da Polícia de Segurança Pública.
+Art. 31.º As análises clínicas serão feitas dentro das possibilidades dos laboratórios e mediante requisição feita por qualquer médico da Polícia de Segurança Pública.
 
 § único. As restantes poderão ser feitas noutros laboratórios, em regime a estabelecer.
 
-###### Art. 32.º Nas localidades em que existam órgãos do serviço farmacêutico militar poderão, de acordo com o Ministério do Exército, os mesmos ser utilizados, quer pelos órgãos do serviço farmacêutico da Polícia de Segurança Pública, quer pelos agentes e pessoal civil.
+Art. 32.º Nas localidades em que existam órgãos do serviço farmacêutico militar poderão, de acordo com o Ministério do Exército, os mesmos ser utilizados, quer pelos órgãos do serviço farmacêutico da Polícia de Segurança Pública, quer pelos agentes e pessoal civil.
 
-###### Art. 33.º O reabastecimento dos órgãos de saúde será feito normalmente pelas farmácias deste serviço, salvo em casos de reconhecida urgência, devidamente justificados.
+Art. 33.º O reabastecimento dos órgãos de saúde será feito normalmente pelas farmácias deste serviço, salvo em casos de reconhecida urgência, devidamente justificados.
 
 ### CAPÍTULO III — Assistência
 
 A) Da prestação da assistência
 
-###### Art. 34.º A assistência médica será prestada gratuitamente:
+Art. 34.º A assistência médica será prestada gratuitamente:
 
 a) Nas localidades onde existam órgãos do serviço de saúde:
 
@@ -324,9 +370,9 @@ Pelo médico municipal ou, na sua falta ou impedimento, pelo subdelegado de saú
 
 B) Dos doentes
 
-###### Art. 35.º Todos os agentes ou funcionários da Polícia de Segurança Pública que se encontrem internados nos hospitais, sanatórios, enfermarias, etc., devem acatar as prescrições médicas e os regulamentos em vigor nos referidos estabelecimentos.
+Art. 35.º Todos os agentes ou funcionários da Polícia de Segurança Pública que se encontrem internados nos hospitais, sanatórios, enfermarias, etc., devem acatar as prescrições médicas e os regulamentos em vigor nos referidos estabelecimentos.
 
-###### Art. 36.º Os pedidos de visita domiciliária normal devem ser feitos por intermédio do comando respectivo, mediante minuta modelo n.º 9, indicando em termos bem legíveis a morada do doente e o grau de parentesco, quando se trate de familiar, documento este que será entregue ao médico até à hora em que se realize a inspecção de saúde diária.
+Art. 36.º Os pedidos de visita domiciliária normal devem ser feitos por intermédio do comando respectivo, mediante minuta modelo n.º 9, indicando em termos bem legíveis a morada do doente e o grau de parentesco, quando se trate de familiar, documento este que será entregue ao médico até à hora em que se realize a inspecção de saúde diária.
 
 § 1.º Os pedidos urgentes serão formulados ao oficial ou graduado de serviço, que providenciará por forma a tornar possível, no mais curto prazo de tempo, a comparência do médico que apoia o doente, ou do médico de serviço, por ordem de prioridade.
 
@@ -334,7 +380,7 @@ B) Dos doentes
 
 § 3.º Quando não seja possível fornecer transporte, a Polícia de Segurança Pública custeará, dentro das possibilidades orçamentais, as deslocações dos médicos na execução do serviço clínico domiciliário.
 
-###### Art. 37.º Sempre que surja qualquer caso suspeito ou caracterizado de doença infecto-contagiosa, o médico da Polícia de Segurança Pública tomará as seguintes disposições:
+Art. 37.º Sempre que surja qualquer caso suspeito ou caracterizado de doença infecto-contagiosa, o médico da Polícia de Segurança Pública tomará as seguintes disposições:
 
 1) Isolamento do doente ou doentes o mais ràpidamente possível até remoção para hospital apropriado;
 
@@ -344,51 +390,51 @@ B) Dos doentes
 
 § único. Para tal, o médico comunicará o facto ao respectivo comandante, solicitando-lhe os meios para o exacto cumprimento desta disposição.
 
-###### Art. 38.º Sempre que para o serviço de desinfecção se torne indispensável pessoal habilitado, será este requisitado ao comando, fazendo acompanhar o pedido das sugestões técnicas que forem julgadas convenientes, a fim de serem tomadas as devidas providências.
+Art. 38.º Sempre que para o serviço de desinfecção se torne indispensável pessoal habilitado, será este requisitado ao comando, fazendo acompanhar o pedido das sugestões técnicas que forem julgadas convenientes, a fim de serem tomadas as devidas providências.
 
-###### Art. 39.º O médico participará imediatamente ao chefe do serviço de saúde e ao subdelegado de saúde do concelho ou bairro o aparecimento do caso, se for de declaração oficial obrigatória, o resultado das averiguações a que procedeu e as medidas profilácticas que tomou.
+Art. 39.º O médico participará imediatamente ao chefe do serviço de saúde e ao subdelegado de saúde do concelho ou bairro o aparecimento do caso, se for de declaração oficial obrigatória, o resultado das averiguações a que procedeu e as medidas profilácticas que tomou.
 
-###### Art. 40.º Em circunstâncias normais, nenhum doente poderá baixar ao hospital ou enfermaria sem que o seu título de baixa (modelo n.º 7) seja devidamente rubricado pelo médico da Polícia de Segurança Pública, com indicação da moléstia que a motivou e, caso haja necessidade de fornecimento de transporte, indicar qual o meio a utilizar.
+Art. 40.º Em circunstâncias normais, nenhum doente poderá baixar ao hospital ou enfermaria sem que o seu título de baixa (modelo n.º 7) seja devidamente rubricado pelo médico da Polícia de Segurança Pública, com indicação da moléstia que a motivou e, caso haja necessidade de fornecimento de transporte, indicar qual o meio a utilizar.
 
 § único. Nos casos de reconhecida urgência, a baixa, com indicação de baixa extraordinária, é assinada por quem a promoveu.
 
-###### Art. 41.º Quando o doente esteja no gozo de licença da junta e a interrompa, será mencionada esta circunstância no título de baixa e, bem assim, o número de dias de licença que lhe foram concedidos e seu começo.
+Art. 41.º Quando o doente esteja no gozo de licença da junta e a interrompa, será mencionada esta circunstância no título de baixa e, bem assim, o número de dias de licença que lhe foram concedidos e seu começo.
 
-###### Art. 42.º Quando pelo médico que baixa o doente for julgado conveniente que este seja acompanhado, tal circunstância deve ser indicada no título de baixa, assim como certos cuidados que devem ser respeitados.
+Art. 42.º Quando pelo médico que baixa o doente for julgado conveniente que este seja acompanhado, tal circunstância deve ser indicada no título de baixa, assim como certos cuidados que devem ser respeitados.
 
-###### Art. 43.º Sempre que se verifique qualquer transferência de hospital ou enfermaria, a mesma deve ser comunicada ao comando a que o doente está subordinado.
+Art. 43.º Sempre que se verifique qualquer transferência de hospital ou enfermaria, a mesma deve ser comunicada ao comando a que o doente está subordinado.
 
-###### Art. 44.º Sempre que o doente tenha alta da enfermaria deve ser portador de um título de alta modelo n.º 10.
+Art. 44.º Sempre que o doente tenha alta da enfermaria deve ser portador de um título de alta modelo n.º 10.
 
-###### Art. 45.º Todo o agente que tenha alta do hospital ou enfermaria deve efectuar a sua apresentação imediatamente no comando a que pertence e ser presente à primeira inspecção sanitária que tenha lugar após aquela apresentação.
+Art. 45.º Todo o agente que tenha alta do hospital ou enfermaria deve efectuar a sua apresentação imediatamente no comando a que pertence e ser presente à primeira inspecção sanitária que tenha lugar após aquela apresentação.
 
-###### Art. 46.º Sempre que seja arbitrada convalescença por um médico estranho à corporação é indispensável que o médico da Polícia de Segurança Pública confirme ou altere a sua duração.
+Art. 46.º Sempre que seja arbitrada convalescença por um médico estranho à corporação é indispensável que o médico da Polícia de Segurança Pública confirme ou altere a sua duração.
 
 § único. No último dia de convalescença deve o doente apresentar-se ao médico da Polícia de Segurança Pública, para este o observar e verificar se está em condições de poder retomar o serviço.
 
-###### Art. 47.º A alimentação dos doentes com baixa à enfermaria ficará a cargo da mesma quando esta esteja habilitada a poder fornecê-la; caso contrário, será ao comando a que a enfermaria esteja subordinada para efeitos administrativos.
+Art. 47.º A alimentação dos doentes com baixa à enfermaria ficará a cargo da mesma quando esta esteja habilitada a poder fornecê-la; caso contrário, será ao comando a que a enfermaria esteja subordinada para efeitos administrativos.
 
-###### Art. 48.º As dietas dos doentes serão prescritas pelo médico que os trata, sendo obrigatório que as mesmas constem do boletim clínico.
+Art. 48.º As dietas dos doentes serão prescritas pelo médico que os trata, sendo obrigatório que as mesmas constem do boletim clínico.
 
-###### Art. 49.º O tipo de dietas a usar nas enfermarias será fixado pelo Comando-Geral, mediante proposta do chefe do serviço de saúde.
+Art. 49.º O tipo de dietas a usar nas enfermarias será fixado pelo Comando-Geral, mediante proposta do chefe do serviço de saúde.
 
 C) Dos transportes
 
-###### Art. 50.º O transporte de oficiais, agentes e pessoal civil da Polícia de Segurança Pública, quando doentes ou feridos por motivo de serviço, constitui encargo dos respectivos comandos.
+Art. 50.º O transporte de oficiais, agentes e pessoal civil da Polícia de Segurança Pública, quando doentes ou feridos por motivo de serviço, constitui encargo dos respectivos comandos.
 
 § único. Este serviço poderá ser desempenhado por uma ambulância, quando dela se disponha, por outra viatura cuja adaptação a tal fim possa ser improvisada, ou ainda recorrendo aos serviços locais, de harmonia com as instruções que forem dadas pelo Comando-Geral.
 
-###### Art. 51.º Em todos os outros casos em que o ferimento ou doença não possam ser imputados ao serviço, o apoio a fornecer será função das possibilidades existentes e da apreciação de cada caso por parte dos comandos respectivos.
+Art. 51.º Em todos os outros casos em que o ferimento ou doença não possam ser imputados ao serviço, o apoio a fornecer será função das possibilidades existentes e da apreciação de cada caso por parte dos comandos respectivos.
 
-###### Art. 52.º As viaturas auto de transporte de feridos da Polícia de Segurança Pública podem, em casos de reconhecida urgência, socorrer outros doentes ou feridos, mediante autorização do comandante e sem dispêndio para a Fazenda Nacional.
+Art. 52.º As viaturas auto de transporte de feridos da Polícia de Segurança Pública podem, em casos de reconhecida urgência, socorrer outros doentes ou feridos, mediante autorização do comandante e sem dispêndio para a Fazenda Nacional.
 
 ### CAPÍTULO IV — Juntas de saúde
 
 A) Da sua constituição
 
-###### Art. 53.º As juntas de saúde da Polícia de Segurança Pública julgarão todo o pessoal da corporação que lhes seja presente, de harmonia com a competência que lhes é atribuída pelo presente regulamento.
+Art. 53.º As juntas de saúde da Polícia de Segurança Pública julgarão todo o pessoal da corporação que lhes seja presente, de harmonia com a competência que lhes é atribuída pelo presente regulamento.
 
-###### Art. 54.º As juntas de saúde da Polícia de Segurança Pública serão as seguintes:
+Art. 54.º As juntas de saúde da Polícia de Segurança Pública serão as seguintes:
 
 a) Junta superior de saúde;
 
@@ -396,7 +442,7 @@ b) Juntas do Comando-Geral e de comando distrital;
 
 c) Juntas de recrutamento.
 
-###### Art. 55.º As juntas a que se refere o artigo anterior terão a seguinte constituição:
+Art. 55.º As juntas a que se refere o artigo anterior terão a seguinte constituição:
 
 a) Junta superior de saúde:
 
@@ -438,7 +484,7 @@ Secretário (sem voto): a designar, ou os chefes de secretaria nos comandos de L
 
 B) Da sua reunião e competência
 
-###### Art. 56.º À junta superior de saúde compete especialmente:
+Art. 56.º À junta superior de saúde compete especialmente:
 
 a) Deliberar, em recurso, das decisões das outras juntas de saúde da Polícia de Segurança Pública;
 
@@ -450,7 +496,7 @@ c) Pronunciar-se sobre a situação do pessoal que tenha completado 180 dias de 
 
 § 2.º O comandante-geral poderá, quando o julgar conveniente, delegar nas juntas distritais as atribuições da junta superior de saúde, podendo neste caso fazer parte da mesma a chefe do serviço de saúde, como vogal e delegado do Comando-Geral.
 
-###### Art. 57.º Às juntas do Comando-Geral e do comando distrital compete:
+Art. 57.º Às juntas do Comando-Geral e do comando distrital compete:
 
 a) Emitir parecer sobre a concessão de licenças por motivo de saúde até 15 dias e, excepcionalmente, até 30, prorrogáveis por mais 30 dias;
 
@@ -460,17 +506,17 @@ c) Deliberar sobre a aptidão física do pessoal quando se verifiquem passagens 
 
 d) Pronunciar-se sobre a incapacidade do pessoal que não esteja em condições de continuar a prestar serviço, ao qual deve ser dada baixa ao efectivo, se não tiver direito à aposentação.
 
-###### Art. 58.º As juntas de recrutamento têm como missão observar os candidatos à Polícia de Segurança Pública, tendo em atenção as disposições em vigor, e a sua acção tem por finalidade seleccionar, entre os concorrentes, os que devam considerar-se mais fortes e saudáveis e com melhor aspecto militar para servir a Polícia de Segurança Pública. Deliberam sobre a aptidão física do pessoal.
+Art. 58.º As juntas de recrutamento têm como missão observar os candidatos à Polícia de Segurança Pública, tendo em atenção as disposições em vigor, e a sua acção tem por finalidade seleccionar, entre os concorrentes, os que devam considerar-se mais fortes e saudáveis e com melhor aspecto militar para servir a Polícia de Segurança Pública. Deliberam sobre a aptidão física do pessoal.
 
 Estas juntas deverão usar do maior rigor e isenção no cumprimento da sua missão.
 
-###### Art. 59.º As decisões das juntas devem ser afixadas, finda a reunião.
+Art. 59.º As decisões das juntas devem ser afixadas, finda a reunião.
 
-###### Art. 60.º As juntas de saúde, nas suas deliberações, tomarão em conta as situações dos agentes e do pessoal civil, tempo e qualidade de serviço, procurando não lhes prejudicar o futuro quando por mais algum tempo de serviço possam adquirir vantagens para a reforma.
+Art. 60.º As juntas de saúde, nas suas deliberações, tomarão em conta as situações dos agentes e do pessoal civil, tempo e qualidade de serviço, procurando não lhes prejudicar o futuro quando por mais algum tempo de serviço possam adquirir vantagens para a reforma.
 
-###### Art. 61.º As decisões das juntas de saúde deverão ser fundamentadas, claras, precisas e concisas e utilizar para o efeito as expressões usadas na legislação sanitária em vigor no Exército, devidamente adaptadas.
+Art. 61.º As decisões das juntas de saúde deverão ser fundamentadas, claras, precisas e concisas e utilizar para o efeito as expressões usadas na legislação sanitária em vigor no Exército, devidamente adaptadas.
 
-###### Art. 62.º Das decisões que forem tomadas por cada uma das juntas referidas no presente regulamento poderá ser interposto recurso para a junta superior de saúde.
+Art. 62.º Das decisões que forem tomadas por cada uma das juntas referidas no presente regulamento poderá ser interposto recurso para a junta superior de saúde.
 
 § 1.º Os recursos sobre as decisões das juntas devem ser interpostos no prazo máximo de três dias, contado a partir da publicação daquelas, podendo ser acompanhados de relatório médico justificativo, com assinatura reconhecida, e de outros documentos que o recorrente entenda necessários.
 
@@ -482,43 +528,43 @@ Estas juntas deverão usar do maior rigor e isenção no cumprimento da sua miss
 
 § 5.º Das decisões da junta superior de saúde não há recurso.
 
-###### Art. 63.º O Comando-Geral pode promover nova apreciação de qualquer caso julgado numa determinada junta, por intermédio da junta superior de saúde.
+Art. 63.º O Comando-Geral pode promover nova apreciação de qualquer caso julgado numa determinada junta, por intermédio da junta superior de saúde.
 
-###### Art. 64.º Mediante ordem expressa do Comando-Geral e a título excepcional, pode a junta deslocar-se até ao doente ou delegar num dos seus membros esse encargo, devendo ele apresentar à junta relatório do exame a que houver procedido para a habilitar a decidir.
+Art. 64.º Mediante ordem expressa do Comando-Geral e a título excepcional, pode a junta deslocar-se até ao doente ou delegar num dos seus membros esse encargo, devendo ele apresentar à junta relatório do exame a que houver procedido para a habilitar a decidir.
 
-###### Art. 65.º A junta superior de saúde reúne por ordem do comandante-geral.
+Art. 65.º A junta superior de saúde reúne por ordem do comandante-geral.
 
-###### Art. 66.º As juntas do Comando-Geral e distritais reúnem ordinàriamente no dia 5 de cada mês ou no dia imediato, se aquele for domingo ou feriado, e extraordinàriamente quando for julgado necessário.
+Art. 66.º As juntas do Comando-Geral e distritais reúnem ordinàriamente no dia 5 de cada mês ou no dia imediato, se aquele for domingo ou feriado, e extraordinàriamente quando for julgado necessário.
 
-###### Art. 67.º As reuniões das juntas serão precedidas de publicação em ordem de serviço, com a devida oportunidade, e as respectivas decisões exaradas no livro de actas modelo n.º 11 e no mapa modelo n.º 11-A e publicadas também em ordem de serviço.
+Art. 67.º As reuniões das juntas serão precedidas de publicação em ordem de serviço, com a devida oportunidade, e as respectivas decisões exaradas no livro de actas modelo n.º 11 e no mapa modelo n.º 11-A e publicadas também em ordem de serviço.
 
-###### Art. 68.º Sempre que se verifique discordância nos membros da junta quanto à decisão tomada, poderá o membro vencido recorrer, de harmonia com o disposto no artigo 62.º, fazendo acompanhar o seu recurso de relatório circunstanciado, no prazo de 48 horas.
+Art. 68.º Sempre que se verifique discordância nos membros da junta quanto à decisão tomada, poderá o membro vencido recorrer, de harmonia com o disposto no artigo 62.º, fazendo acompanhar o seu recurso de relatório circunstanciado, no prazo de 48 horas.
 
-###### Art. 69.º A tabela de inaptidão para efeitos de admissão à Polícia de Segurança Pública será aprovada por despacho do Comando-Geral, mediante proposta do chefe do serviço de saúde.
+Art. 69.º A tabela de inaptidão para efeitos de admissão à Polícia de Segurança Pública será aprovada por despacho do Comando-Geral, mediante proposta do chefe do serviço de saúde.
 
-###### Art. 70.º As juntas só poderão tomar uma decisão desde que estejam presente todos os seus elementos.
+Art. 70.º As juntas só poderão tomar uma decisão desde que estejam presente todos os seus elementos.
 
 § único. É vedada a entrada na sala de sessões da junta, durante o seu funcionamento, a qualquer elemento estranho à mesma.
 
 C) Da apresentação às juntas
 
-###### Art. 71.º Nenhum agente ou funcionário civil da corporação pode ser presente às juntas de saúde da Polícia de Segurança Pública sem ser superiormente autorizado pelo comando de que directamente depende.
+Art. 71.º Nenhum agente ou funcionário civil da corporação pode ser presente às juntas de saúde da Polícia de Segurança Pública sem ser superiormente autorizado pelo comando de que directamente depende.
 
 § 1.º O comandante-geral manda apresentar à junta qualquer agente ou funcionário civil quando o entenda.
 
 § 2.º Os comandantes de polícia podem propor a apresentação à junta de saúde distrital de qualquer agente ou funcionário civil que sirva sob as suas ordens.
 
-###### Art. 72.º Os agentes ou funcionários civis da Polícia de Segurança Pública devem apresentar-se às juntas de saúde com a respectiva guia de marcha, na qual será exarada a apresentação e deliberações da junta, assinadas pelo presidente.
+Art. 72.º Os agentes ou funcionários civis da Polícia de Segurança Pública devem apresentar-se às juntas de saúde com a respectiva guia de marcha, na qual será exarada a apresentação e deliberações da junta, assinadas pelo presidente.
 
-###### Art. 73.º Os agentes ou funcionários civis que tenham tido alta dos hospitais ou enfermarias com indicação de deverem ser presentes à junta sê-lo-ão acompanhados de relatório do médico do respectivo comando.
+Art. 73.º Os agentes ou funcionários civis que tenham tido alta dos hospitais ou enfermarias com indicação de deverem ser presentes à junta sê-lo-ão acompanhados de relatório do médico do respectivo comando.
 
-###### Art. 74.º Mediante proposta do médico do comando, devidamente fundamentada em relatório, o pessoal em serviço na Polícia de Segurança Pública pode ser presente à junta do Comando-Geral e às juntas distritais, ou ainda directamente à junta superior de saúde, após autorização superior.
+Art. 74.º Mediante proposta do médico do comando, devidamente fundamentada em relatório, o pessoal em serviço na Polícia de Segurança Pública pode ser presente à junta do Comando-Geral e às juntas distritais, ou ainda directamente à junta superior de saúde, após autorização superior.
 
 § 1.º No caso de a doença ou lesão ter sido contraída por motivo de serviço ou de manutenção da ordem pública, deverá proceder-se em conformidade com a doutrina expressa no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352).
 
 § 2.º Os médicos da Polícia de Segurança Pública, quando proponham à junta qualquer agente ou funcionário civil, deverão declarar em todos os casos se a lesão ou doença foi ou não adquirida por motivo de serviço ou de manutenção da ordem pública.
 
-###### Art. 75.º Sempre que qualquer oficial, agente ou funcionário civil seja mandado apresentar às juntas da Polícia de Segurança Pública será organizado um processo e dele devem constar os seguintes documentos:
+Art. 75.º Sempre que qualquer oficial, agente ou funcionário civil seja mandado apresentar às juntas da Polícia de Segurança Pública será organizado um processo e dele devem constar os seguintes documentos:
 
 a) Proposta médica modelo n.º 12, elaborada pelo médico do respectivo comando;
 
@@ -528,15 +574,15 @@ c) Mapa modelo n.º 13;
 
 d) Ficha sanitária.
 
-###### Art. 76.º À secretaria do comando respectivo compete a organização do processo sanitário referido no artigo anterior e o seu envio à junta a que o doente vai ser presente.
+Art. 76.º À secretaria do comando respectivo compete a organização do processo sanitário referido no artigo anterior e o seu envio à junta a que o doente vai ser presente.
 
-###### Art. 77.º Pelo comando competente será enviada à respectiva junta uma relação numérica e nominal dos casos a apreciar.
+Art. 77.º Pelo comando competente será enviada à respectiva junta uma relação numérica e nominal dos casos a apreciar.
 
 ### CAPÍTULO V — Pessoal
 
 A) Do chefe do serviço de saúde
 
-###### Art. 78.º O chefe do serviço de saúde da Polícia de Segurança Pública tem as seguintes atribuições:
+Art. 78.º O chefe do serviço de saúde da Polícia de Segurança Pública tem as seguintes atribuições:
 
 1.º Dirigir, orientar e coordenar os serviços de saúde da Polícia de Segurança Pública;
 
@@ -578,17 +624,17 @@ A) Do chefe do serviço de saúde
 
 B) Dos inspectores
 
-###### Art. 79.º Aos inspectores, além das atribuições a que se refere o artigo 84.º, compete ainda fiscalizar e controlar, do ponto de vista técnico, toda a actividade do serviço de saúde na zona que lhes é atribuída no artigo 7.º do presente regulamento.
+Art. 79.º Aos inspectores, além das atribuições a que se refere o artigo 84.º, compete ainda fiscalizar e controlar, do ponto de vista técnico, toda a actividade do serviço de saúde na zona que lhes é atribuída no artigo 7.º do presente regulamento.
 
 § único. Os inspectores de zona dependem, no canal de comando, do Comando-Geral da Polícia de Segurança Pública, por intermédio do inspector-geral de Saúde.
 
-###### Art. 80.º Quando no recurso de uma inspecção haja que tomar uma decisão de reconhecida urgência, a fim de obter efeitos imediatos, deverão os inspectores comunicar o facto ao Comando-Geral para homologação.
+Art. 80.º Quando no recurso de uma inspecção haja que tomar uma decisão de reconhecida urgência, a fim de obter efeitos imediatos, deverão os inspectores comunicar o facto ao Comando-Geral para homologação.
 
 § único. Em todos os restantes casos será elaborado um relatório de inspecção, do qual deverão constar todas as propostas que sejam julgadas convenientes.
 
 C) Dos chefes dos postos clínicos
 
-###### Art. 81.º Cada posto clínico é chefiado pelo médico adstrito ao respectivo corpo de polícia sede do comando on divisão, ao qual competem, em especial, as seguintes atribuições:
+Art. 81.º Cada posto clínico é chefiado pelo médico adstrito ao respectivo corpo de polícia sede do comando on divisão, ao qual competem, em especial, as seguintes atribuições:
 
 a) Dirigir o seu funcionamento;
 
@@ -598,15 +644,15 @@ c) Promover a apresentação dos doentes nas consultas das especialidades, assim
 
 D) Dos directores das enfermarias
 
-###### Art. 82.º Os directores das enfermarias terão a seu cargo a direcção técnica e administrativa da enfermaria, dependendo do Comando-Geral.
+Art. 82.º Os directores das enfermarias terão a seu cargo a direcção técnica e administrativa da enfermaria, dependendo do Comando-Geral.
 
 § único. A dependência pode ser directa ou por delegação através do comando distrital.
 
-###### Art. 83.º As funções de director da enfermaria serão desempenhadas por um dos médicos em serviço na localidade em que aquela funciona, para tal nomeado pelo Comando-Geral, sob proposta do chefe do serviço de saúde. São os responsáveis, perante o escalão de que dependem, pelo funcionamento dos serviços, sua eficiência e higiene.
+Art. 83.º As funções de director da enfermaria serão desempenhadas por um dos médicos em serviço na localidade em que aquela funciona, para tal nomeado pelo Comando-Geral, sob proposta do chefe do serviço de saúde. São os responsáveis, perante o escalão de que dependem, pelo funcionamento dos serviços, sua eficiência e higiene.
 
 E) Dos médicos da Polícia de Segurança Pública
 
-###### Art. 84.º Aos médicos compete:
+Art. 84.º Aos médicos compete:
 
 a) Inspeccionar diàriamente todo o pessoal a que se referem os artigos 3.º, 4.º e 5.º deste regulamento que lhes seja presente para consulta e tratamento, ao qual devem prestar todos os cuidados de assistência de que careçam;
 
@@ -662,19 +708,19 @@ o) Reconhecendo-se que um agente ou funcionário presente à inspecção de saú
 
 § único. Quando o médico suspeite de simulação e o agente ou funcionário civil insista no seu propósito, deverá comunicar ao comando respectivo e propor as medidas que julgar mais convenientes para completo esclarecimento do caso.
 
-###### Art. 85.º Compete ainda aos médicos examinar os agentes que desejam fazer parte da banda de música ou ser corneteiros, sob o ponto de vista de integridade dos órgãos da respiração e circulação e da sua aptidão física para poderem desempenhar as funções de músico, tomando as seguintes deliberações:
+Art. 85.º Compete ainda aos médicos examinar os agentes que desejam fazer parte da banda de música ou ser corneteiros, sob o ponto de vista de integridade dos órgãos da respiração e circulação e da sua aptidão física para poderem desempenhar as funções de músico, tomando as seguintes deliberações:
 
 1) Apto;
 
 2) Inapto.
 
-###### Art. 86.º No caso de alteração da ordem pública, os médicos ficarão de prevenção para poderem acorrer com prontidão aonde forem solicitados pelos respectivos comandos de que dependem, sendo-lhes fornecido transporte auto para as deslocações que tenham de fazer.
+Art. 86.º No caso de alteração da ordem pública, os médicos ficarão de prevenção para poderem acorrer com prontidão aonde forem solicitados pelos respectivos comandos de que dependem, sendo-lhes fornecido transporte auto para as deslocações que tenham de fazer.
 
-###### Art. 87.º Além do serviço normal que lhes competir pelo presente regulamento, os médicos do serviço de saúde da Polícia de Segurança Pública desempenharão qualquer outro da sua especialidade, eventualmente, desde que lhes seja ordenado pelo Comando-Geral.
+Art. 87.º Além do serviço normal que lhes competir pelo presente regulamento, os médicos do serviço de saúde da Polícia de Segurança Pública desempenharão qualquer outro da sua especialidade, eventualmente, desde que lhes seja ordenado pelo Comando-Geral.
 
-###### Art. 88.º Nos corpos de polícia onde não haja médico privativo, ou na sua ausência, será o médico municipal ou o subdelegado de saúde que terá a seu cargo as atribuições daquele, na parte que lhe seja aplicável.
+Art. 88.º Nos corpos de polícia onde não haja médico privativo, ou na sua ausência, será o médico municipal ou o subdelegado de saúde que terá a seu cargo as atribuições daquele, na parte que lhe seja aplicável.
 
-###### Art. 89.º Os médicos da Polícia de Segurança Pública corresponder-se-ão com o chefe do serviço, para:
+Art. 89.º Os médicos da Polícia de Segurança Pública corresponder-se-ão com o chefe do serviço, para:
 
 1) Informarem sobre o modo como é desempenhado o serviço;
 
@@ -690,15 +736,15 @@ o) Reconhecendo-se que um agente ou funcionário presente à inspecção de saú
 
 F) Do médico de serviço ao comando
 
-###### Art. 90.º Nos comandos de polícia de Lisboa e Porto será organizada uma escala de médicos em serviço no comando, a fim de ser nomeado um médico de serviço diàriamente, para um período de 24 horas, com início às 9 horas, cumulativamente com os serviços que têm a seu cargo.
+Art. 90.º Nos comandos de polícia de Lisboa e Porto será organizada uma escala de médicos em serviço no comando, a fim de ser nomeado um médico de serviço diàriamente, para um período de 24 horas, com início às 9 horas, cumulativamente com os serviços que têm a seu cargo.
 
-###### Art. 91.º Ao médico de serviço compete a obrigação de:
+Art. 91.º Ao médico de serviço compete a obrigação de:
 
 a) Estar em estreita ligação com o oficial de serviço, a fim de poderem satisfazer prontamente os pedidos de chamadas para os agentes em serviço ou nomeados para serviço e que adoeçam, sejam vítimas de acidente ou necessitem de observação médica.
 
 b) Socorrer em caso de urgência qualquer agente, funcionário civil ou familiar a seu exclusivo cargo, na falta ou impedimento do médico que os apoia.
 
-###### Art. 92.º O médico de serviço que for chamado com urgência para socorrer um oficial, agente ou funcionário civil da Polícia de Segurança Pública tomará a respeito deles uma ou algumas das resoluções a seguir indicadas:
+Art. 92.º O médico de serviço que for chamado com urgência para socorrer um oficial, agente ou funcionário civil da Polícia de Segurança Pública tomará a respeito deles uma ou algumas das resoluções a seguir indicadas:
 
 a) Prontos para o serviço;
 
@@ -712,61 +758,61 @@ e) Comunicar ao comando ou ao oficial de serviço, por escrito, qual a resoluç�
 
 § único. Se a chamada for para um doente internado na enfermaria da Polícia de Segurança Pública, deverá relatar a observação a que procedeu e a medicação que preconizou, no boletim clínico do doente, com a indicação da hora e assinando a seguir.
 
-###### Art. 93.º O oficial, agente ou funcionário civil que receba ordem de marcha e se declare doente só deixará de seguir ao seu destino quando observado imediatamente pelo médico e ele verificar que o seu estado de saúde periga realizando a marcha, o que deve declarar por escrito ao comando que a ordenou.
+Art. 93.º O oficial, agente ou funcionário civil que receba ordem de marcha e se declare doente só deixará de seguir ao seu destino quando observado imediatamente pelo médico e ele verificar que o seu estado de saúde periga realizando a marcha, o que deve declarar por escrito ao comando que a ordenou.
 
-###### Art. 94.º Em caso de alteração da ordem pública, o médico de serviço aos comandos de Lisboa e Porto é inseparável do respectivo comando.
+Art. 94.º Em caso de alteração da ordem pública, o médico de serviço aos comandos de Lisboa e Porto é inseparável do respectivo comando.
 
 G) Do pessoal de enfermagem do serviço de saúde
 
-###### Art. 95.º O recrutamento de enfermeiros e auxiliares de enfermeiro para os postos clínicos e enfermarias far-se-á entre agentes da corporação que provem possuir habilitações da especialidade e que mostrem, através de provas a que serão sujeitos, ser competentes para o desempenho de tais funções.
+Art. 95.º O recrutamento de enfermeiros e auxiliares de enfermeiro para os postos clínicos e enfermarias far-se-á entre agentes da corporação que provem possuir habilitações da especialidade e que mostrem, através de provas a que serão sujeitos, ser competentes para o desempenho de tais funções.
 
 § único. O júri que apreciar tais provas será constituído pelo chefe do serviço de saúde e dois médicos nomeados pelo Comando-Geral. Será lavrada acta donde conste a decisão, que será aprovado ou reprovado.
 
 H) Dos enfermeiros dos postos clínicos
 
-###### Art. 96.º Os enfermeiros, além do serviço de enfermagem que prestem sob a direcção do médico do posto, têm a seu cargo a conservação de material, a escrituração e registo nos respectivos livros e a elaboração de mapas, orientados nesta última parte pelo médico.
+Art. 96.º Os enfermeiros, além do serviço de enfermagem que prestem sob a direcção do médico do posto, têm a seu cargo a conservação de material, a escrituração e registo nos respectivos livros e a elaboração de mapas, orientados nesta última parte pelo médico.
 
-###### Art. 97.º Quando no posto clínico haja auxiliares de enfermeiro, estes auxiliam os enfermeiros no serviço da sua especialidade e têm a seu cargo a limpeza de todo o material sanitário e sua arrumação.
+Art. 97.º Quando no posto clínico haja auxiliares de enfermeiro, estes auxiliam os enfermeiros no serviço da sua especialidade e têm a seu cargo a limpeza de todo o material sanitário e sua arrumação.
 
-###### Art. 98.º Os enfermeiros e auxiliares de enfermeiro dependem directamente do médico do posto, executando os serviços que lhes forem ordenados, quer no posto, quer nos domicílios. Disciplinarmente dependem do respectivo comando.
+Art. 98.º Os enfermeiros e auxiliares de enfermeiro dependem directamente do médico do posto, executando os serviços que lhes forem ordenados, quer no posto, quer nos domicílios. Disciplinarmente dependem do respectivo comando.
 
 I) Dos enfermeiros e auxiliares de enfermeiro das enfermarias
 
-###### Art. 99.º O serviço de enfermagem nas enfermarias da Polícia de Segurança Pública está exclusivamente a cargo dos enfermeiros, sob orientação médica.
+Art. 99.º O serviço de enfermagem nas enfermarias da Polícia de Segurança Pública está exclusivamente a cargo dos enfermeiros, sob orientação médica.
 
 § único. O enfermeiro mais graduado ou mais antigo será o responsável pelas cargas, conservação e manutenção do material de hospitalização e sanitário, dando imediato conhecimento ao director da enfermaria de todas as ocorrências.
 
 O serviço de escrituração, requisições, medicamentos e artigos de limpeza, etc., fica também a seu cargo ou de um agente nomeado para tal fim pelo director da enfermaria.
 
-###### Art. 100.º Os enfermeiros, além de prestarem todo o serviço da sua especialidade, sempre sob a direcção dos médicos, têm a seu cargo pugnar pela conservação e limpeza de todos os artigos existentes na enfermaria e pela disciplina da mesma, dando conhecimento imediato ao director de todas as ocorrências.
+Art. 100.º Os enfermeiros, além de prestarem todo o serviço da sua especialidade, sempre sob a direcção dos médicos, têm a seu cargo pugnar pela conservação e limpeza de todos os artigos existentes na enfermaria e pela disciplina da mesma, dando conhecimento imediato ao director de todas as ocorrências.
 
-###### Art. 101.º Será diàriamente nomeado um enfermeiro de serviço para cada período de 24 horas, o qual é inseparável da enfermaria. A hora de início terá lugar pelas 9 horas.
+Art. 101.º Será diàriamente nomeado um enfermeiro de serviço para cada período de 24 horas, o qual é inseparável da enfermaria. A hora de início terá lugar pelas 9 horas.
 
-###### Art. 102.º O enfermeiro de serviço efectuará a sua apresentação ao director da enfermaria e acompanhará os médicos na revista sanitária aos doentes, anotando as prescrições estipuladas para cada um, a dieta de que ficam abonados e os cuidados a ter com eles, transmitindo ao que o render as alterações introduzidas.
+Art. 102.º O enfermeiro de serviço efectuará a sua apresentação ao director da enfermaria e acompanhará os médicos na revista sanitária aos doentes, anotando as prescrições estipuladas para cada um, a dieta de que ficam abonados e os cuidados a ter com eles, transmitindo ao que o render as alterações introduzidas.
 
-###### Art. 103.º O enfermeiro de serviço tem também a seu cargo a disciplina na enfermaria, na parte aplicável não só aos doentes como ao pessoal ali em serviço, comunicando ao director toda e qualquer alteração que se dê durante o período de serviço.
+Art. 103.º O enfermeiro de serviço tem também a seu cargo a disciplina na enfermaria, na parte aplicável não só aos doentes como ao pessoal ali em serviço, comunicando ao director toda e qualquer alteração que se dê durante o período de serviço.
 
-###### Art. 104.º Sempre que verifique que o estado de saúde de qualquer doente se agrava e carece de assistência médica urgente, deve providenciar para que o médico assistente do referido doente ali compareça para o observar. Na falta deste, recorrerá, por intermédio do oficial de serviço à polícia, ao médico que se encontre de serviço nesse dia ao comando.
+Art. 104.º Sempre que verifique que o estado de saúde de qualquer doente se agrava e carece de assistência médica urgente, deve providenciar para que o médico assistente do referido doente ali compareça para o observar. Na falta deste, recorrerá, por intermédio do oficial de serviço à polícia, ao médico que se encontre de serviço nesse dia ao comando.
 
-###### Art. 105.º Depois de ter tomado conta do serviço, providenciará para que lhe sejam fornecidos os medicamentos que devem ser ministrados aos doentes no seu dia de serviço e promoverá, logo após a revista médica, a requisição dos que se tornarem necessários para o dia seguinte.
+Art. 105.º Depois de ter tomado conta do serviço, providenciará para que lhe sejam fornecidos os medicamentos que devem ser ministrados aos doentes no seu dia de serviço e promoverá, logo após a revista médica, a requisição dos que se tornarem necessários para o dia seguinte.
 
-###### Art. 106.º Não permitirá a entrada de visitas fora das horas que se encontrem determinadas, nem que as mesmas levem consigo quaisquer alimentos aos doentes que vão visitar.
+Art. 106.º Não permitirá a entrada de visitas fora das horas que se encontrem determinadas, nem que as mesmas levem consigo quaisquer alimentos aos doentes que vão visitar.
 
-###### Art. 107.º Os auxiliares de enfermeiro coadjuvam os enfermeiros no serviço da sua especialidade e têm a seu cargo a limpeza de todo o material sanitário e sua arrumação.
+Art. 107.º Os auxiliares de enfermeiro coadjuvam os enfermeiros no serviço da sua especialidade e têm a seu cargo a limpeza de todo o material sanitário e sua arrumação.
 
-###### Art. 108.º Sempre que for julgado necessário, poderá o director da enfermaria nomear por escala um auxiliar de enfermeiro de serviço diário para cada período de 24 horas, que coadjuvará o enfermeiro de serviço. O início desta actividade deve ter lugar às 9 horas.
+Art. 108.º Sempre que for julgado necessário, poderá o director da enfermaria nomear por escala um auxiliar de enfermeiro de serviço diário para cada período de 24 horas, que coadjuvará o enfermeiro de serviço. O início desta actividade deve ter lugar às 9 horas.
 
 J) Do restante pessoal
 
-###### Art. 109.º Os serventes são encarregados da limpeza dos postos ou enfermarias onde prestem serviço, da sua conservação e, bem assim, de outros serviços que lhes sejam ordenados pelos chefes de que dependem.
+Art. 109.º Os serventes são encarregados da limpeza dos postos ou enfermarias onde prestem serviço, da sua conservação e, bem assim, de outros serviços que lhes sejam ordenados pelos chefes de que dependem.
 
-###### Art. 110.º Os criados colaboram no serviço de limpeza das enfermarias onde prestem serviço, nos despejos e lavagem de louças, além de outros serviços que lhes sejam ordenados pelos chefes de que dependam.
+Art. 110.º Os criados colaboram no serviço de limpeza das enfermarias onde prestem serviço, nos despejos e lavagem de louças, além de outros serviços que lhes sejam ordenados pelos chefes de que dependam.
 
-###### Art. 111.º Os cozinheiros têm a seu cargo a confecção das dietas para os doentes, limpeza dos utensílios de cozinha e das dependências que ocupam, podendo ser auxiliados por um ajudante de cozinha ou criado, quando for julgado necessário.
+Art. 111.º Os cozinheiros têm a seu cargo a confecção das dietas para os doentes, limpeza dos utensílios de cozinha e das dependências que ocupam, podendo ser auxiliados por um ajudante de cozinha ou criado, quando for julgado necessário.
 
 K) Dos uniformes
 
-###### Art. 112.º Todo o pessoal do serviço de saúde tem obrigação de se apresentar devidamente limpo e uniformizado:
+Art. 112.º Todo o pessoal do serviço de saúde tem obrigação de se apresentar devidamente limpo e uniformizado:
 
 a) Os médicos usarão batas de fazenda branca, do padrão usado na Polícia de Segurança Pública, devendo, quando oficiais, usar nas platinas o distintivo do seu posto. Os clínicos civis usarão as mesmas batas, tendo bordada, a linha amarela, no lugar do peito e lado esquerdo, a palavra «médico»;
 
@@ -780,21 +826,21 @@ e) Os criados usarão bata de cotim cinzento, com cinto, mas de tamanho curto.
 
 L) Da competência disciplinar
 
-###### Art. 113.º O chefe do serviço de saúde, os inspectores, o director de enfermaria e os chefes dos postos clínicos têm competência técnica sobre o pessoal de saúde que lhes está directamente subordinado.
+Art. 113.º O chefe do serviço de saúde, os inspectores, o director de enfermaria e os chefes dos postos clínicos têm competência técnica sobre o pessoal de saúde que lhes está directamente subordinado.
 
 § único. Sempre que haja faltas a punir, devem as mesmas ser participadas aos comandos a que os órgãos se encontrem adstritos, a fim de que os respectivos comandantes usem da competência disciplinar que lhes está consignada no regulamento disciplinar da Polícia de Segurança Pública.
 
-###### Art. 114.º O director da enfermaria pode conceder e sancionar, ou não, até ao limite de quinze dias, a convalescença arbitrada pelos médicos em serviço na enfermaria ao pessoal que dela tenha alta.
+Art. 114.º O director da enfermaria pode conceder e sancionar, ou não, até ao limite de quinze dias, a convalescença arbitrada pelos médicos em serviço na enfermaria ao pessoal que dela tenha alta.
 
-###### Art. 115.º Quando julgue que a convalescença a arbitrar aos agentes que têm alta da enfermaria deve ser superior a quinze dias, proporá a sua apresentação à junta, para que esta lha conceda.
+Art. 115.º Quando julgue que a convalescença a arbitrar aos agentes que têm alta da enfermaria deve ser superior a quinze dias, proporá a sua apresentação à junta, para que esta lha conceda.
 
 ### CAPÍTULO VI — Administração
 
-###### Art. 116.º A gerência administrativa dos postos clínicos e das enfermarias fica a cargo do conselho administrativo do comando a que a mesma estiver subordinada.
+Art. 116.º A gerência administrativa dos postos clínicos e das enfermarias fica a cargo do conselho administrativo do comando a que a mesma estiver subordinada.
 
-###### Art. 117.º As receitas ordinárias da enfermaria serão constituídas pelas importâncias da diária de tratamento em relação aos doentes de cada classe.
+Art. 117.º As receitas ordinárias da enfermaria serão constituídas pelas importâncias da diária de tratamento em relação aos doentes de cada classe.
 
-###### Art. 118.º As diárias serão abonadas por cada doente pela verba atribuída no Orçamento Geral do Estado para serviços clínicos e de hospitalização ao Comando-Geral da Polícia de Segurança Pública:
+Art. 118.º As diárias serão abonadas por cada doente pela verba atribuída no Orçamento Geral do Estado para serviços clínicos e de hospitalização ao Comando-Geral da Polícia de Segurança Pública:
 
 a) Pela totalidade, em caso doença ocasionada por desastre ou ferimento em serviço;
 
@@ -804,48 +850,48 @@ c) Até 60 por cento, quando os agentes forem solteiros e sem encargos de famíl
 
 § único. Os agentes pagarão a diferença respectiva para completar a diária de tratamento, que lhes será descontada nos respectivos vencimentos.
 
-###### Art. 119.º As diárias referidas no artigo anterior serão fixadas no começo de cada ano, por despacho do Ministro do Interior, mediante proposta do Comando-Geral.
+Art. 119.º As diárias referidas no artigo anterior serão fixadas no começo de cada ano, por despacho do Ministro do Interior, mediante proposta do Comando-Geral.
 
-###### Art. 120.º As receitas anteriores destinam-se ao pagamento das seguintes despesas:
+Art. 120.º As receitas anteriores destinam-se ao pagamento das seguintes despesas:
 
 a) Alimentação e tratamento de doentes;
 
 b) Aquisição de material de aquartelamento e beneficiações do mesmo material.
 
-###### Art. 121.º Pelo Comando-Geral serão atribuídas, por conta das dotações globais inscritas no Orçamento Geral do Estado para o Comando-Geral da Polícia de Segurança Pública, as verbas para impressos, artigos de expediente e diverso material não especificado e luz, aquecimento, água, lavagem e limpeza, indispensáveis para a melhor comodidade dos doentes e boa execução dos serviços.
+Art. 121.º Pelo Comando-Geral serão atribuídas, por conta das dotações globais inscritas no Orçamento Geral do Estado para o Comando-Geral da Polícia de Segurança Pública, as verbas para impressos, artigos de expediente e diverso material não especificado e luz, aquecimento, água, lavagem e limpeza, indispensáveis para a melhor comodidade dos doentes e boa execução dos serviços.
 
 ### CAPÍTULO VII — Diversos
 
-###### Art. 122.º Sempre que se verifique a necessidade de recorrer a serviços de especialidades, que não existam no serviço de saúde, deverá o médico fazer uma proposta modelo n.º 1, acompanhada de relatório justificativo; a satisfação dos encargos resultantes será regulada pelo Comando-Geral.
+Art. 122.º Sempre que se verifique a necessidade de recorrer a serviços de especialidades, que não existam no serviço de saúde, deverá o médico fazer uma proposta modelo n.º 1, acompanhada de relatório justificativo; a satisfação dos encargos resultantes será regulada pelo Comando-Geral.
 
-###### Art. 123.º Nos postos clínicos serão prestados gratuitamente socorros de urgência a qualquer indivíduo que ali seja conduzido por doença súbita ou acidente que exija tratamento imediato.
+Art. 123.º Nos postos clínicos serão prestados gratuitamente socorros de urgência a qualquer indivíduo que ali seja conduzido por doença súbita ou acidente que exija tratamento imediato.
 
-###### Art. 124.º Até ao dia 5 de cada mês serão enviados pelas entidades que a seguir se indicam, ao chefe do serviço de saúde da Polícia de Segurança Pública, os mapas abaixo citados, com o movimento de doentes e feridos:
+Art. 124.º Até ao dia 5 de cada mês serão enviados pelas entidades que a seguir se indicam, ao chefe do serviço de saúde da Polícia de Segurança Pública, os mapas abaixo citados, com o movimento de doentes e feridos:
 
 a) Chefe do posto clínico - um mapa modelo n.º 15, referente ao pessoal da Polícia de Segurança Pública, às pessoas de família daquele e aos indivíduos a que se refere o artigo anterior;
 
 b) Director da enfermaria - o mapa modelo n.º 16.
 
-###### Art. 125.º Nos postos clínicos e enfermarias haverá material sanitário, médico-cirúrgico, roupas, utensílios, medicamentos, material de penso e o mobiliário julgado necessário e cuja dotação será fixada pelo Comando-Geral.
+Art. 125.º Nos postos clínicos e enfermarias haverá material sanitário, médico-cirúrgico, roupas, utensílios, medicamentos, material de penso e o mobiliário julgado necessário e cuja dotação será fixada pelo Comando-Geral.
 
-###### Art. 126.º O material distribuído aos postos clínicos e enfermarias fica em carga nos comandos a que estejam adstritos.
+Art. 126.º O material distribuído aos postos clínicos e enfermarias fica em carga nos comandos a que estejam adstritos.
 
 § 1.º O aumento ou abate de artigos, bem como a substituição dos que tenham sido julgados incapazes, não poderão realizar-se sem autorização do Comando-Geral, ao qual, para tal fim, serão enviados, em duplicado, os respectivos pedidos no mapa modelo n.º 17.
 
 § 2.º As requisições serão do modelo n.º 18 e enviadas por intermédio dos conselhos administrativos a que digam respeito ao Comando-Geral, no último mês de cada trimestre.
 
-###### Art. 127.º A requisição de medicamentos, artigos de penso e desinfectantes para os postos clínicos e enfermarias será feita em requisição modelo n.º 19 aos conselhos administrativos a que estejam adstritos, nos primeiros dias de cada mês, salvo os julgados urgentes.
+Art. 127.º A requisição de medicamentos, artigos de penso e desinfectantes para os postos clínicos e enfermarias será feita em requisição modelo n.º 19 aos conselhos administrativos a que estejam adstritos, nos primeiros dias de cada mês, salvo os julgados urgentes.
 
 § único. A substituição de artigos julgada urgente far-se-á mediante requisição imediata enviada ao Comando-Geral por intermédio dos conselhos administrativos e acompanhada de nota justificativa.
 
-###### Art. 128.º Para a inutilização ou incapacidade do material sanitário, ou de outro em carga nos postos de socorros, seguir-se-ão as normas em vigor na Polícia de Segurança Pública.
+Art. 128.º Para a inutilização ou incapacidade do material sanitário, ou de outro em carga nos postos de socorros, seguir-se-ão as normas em vigor na Polícia de Segurança Pública.
 
-###### Art. 129.º A dispensa de serviço por doença faz com que o pessoal da Polícia de Segurança Pública seja considerado na situação de convalescente.
+Art. 129.º A dispensa de serviço por doença faz com que o pessoal da Polícia de Segurança Pública seja considerado na situação de convalescente.
 
-###### Art. 130.º Os médicos chefes dos postos e os directores das enfermarias são os responsáveis pela conservação e manutenção de todo o material de hospitalização e sanitário em carga, respectivamente nos postos e enfermarias, promovendo os aumentos e abates dos artigos, bem como a substituição dos que tenham sido julgados incapazes.
+Art. 130.º Os médicos chefes dos postos e os directores das enfermarias são os responsáveis pela conservação e manutenção de todo o material de hospitalização e sanitário em carga, respectivamente nos postos e enfermarias, promovendo os aumentos e abates dos artigos, bem como a substituição dos que tenham sido julgados incapazes.
 
 Ministério do Interior, 4 de Julho de 1960. - O Ministro do Interior, Arnaldo Schulz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/15300/16361652.pdf))](https://files.diariodarepublica.pt/1s/1960/07/15300/16361652.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/15300/16361652.pdf)
 
 Ministério do Interior, 4 de Julho de 1960. - O Ministro do Interior, Arnaldo Schulz.

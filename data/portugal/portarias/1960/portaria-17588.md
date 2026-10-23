@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17588-1960-278564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e8195dc3769f6a2341e5aa5dcffa7a92cb8344a95131f534cdbe869d77f4219
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cfa764d1f5ec513a9076044a978a88465de9a849166fa83039613e75d85c03ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:52Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +101,13 @@ a) Um de 72.000$00, em Cabo Verde, destinado a reforçar, com as quantias que se
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 238.º «Deslocações do pessoal»:
+Artigo 238.º «Deslocações do pessoal»:
 
 N.º 1) «Ajudas de custo dentro da província» ... 12.000$00
 
 N.º 3) «Passagens dentro da província» ... 20.000$00
 
-###### Artigo 240.º «Abono de família» ... 40.000$00
+Artigo 240.º «Abono de família» ... 40.000$00
 
 ... 72.000$00
 
@@ -109,9 +117,9 @@ b) Um de 677.000$00, na Guiné, destinado a reforçar, com as quantias que se in
 
 ### CAPÍTULO 4.º — Serviços de saúde e higiene
 
-###### Artigo 106.º «Despesas com o material - Material de consumo corrente» ... 203.000$00
+Artigo 106.º «Despesas com o material - Material de consumo corrente» ... 203.000$00
 
-###### Artigo 107.º «Pagamento de serviços - Despesas de higiene, saúde e conforto»:
+Artigo 107.º «Pagamento de serviços - Despesas de higiene, saúde e conforto»:
 
 N.º 2) «Dietas, combustível e utensílios de cozinha» ... 340.000$00
 

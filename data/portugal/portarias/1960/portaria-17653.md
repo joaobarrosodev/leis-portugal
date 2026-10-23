@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17653-1960-282327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f5c5c986e46286537a594e9d6d89adc1af25ca68589cbe82fa576c84436faa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c5a09e4150ecd6cc77d59e00568977d40d4810dd3f4a0202ff22d8076f0ae611
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:282328:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:12Z'
   warnings: []
   errors: []
 ---
@@ -202,7 +206,7 @@ I) Respiração por movimento dos braços (método de Sylvester-Brosch):
 
 2.º Seguidamente ajoelhar atrás da cabeça da vítima, voltado para esta, agarrar-lhe os braços, abaixo dos cotovelos, e puxá-los para trás, por cima da cabeça, até tocarem o chão (Inspiração - fig. 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf))](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
 
 Figura 1
 
@@ -214,7 +218,7 @@ Inspiração
 
 4.º Após esta pausa, mover os braços da vítima em sentido contrário, apertando os cotovelos, com o próprio peso do corpo, contra os lados do peito da vítima (Expiração - fig. 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf))](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
 
 Figura 2
 
@@ -234,7 +238,7 @@ II) Respiração por compressão periódica do tórax (método de Schaefer):
 
 3.º Aplicar progressivamente durante dois a três segundos (contando, por exemplo, em voz alta os números, seguidos, 151 152) o peso do corpo sobre a parte inferior da caixa torácica da vítima, de modo a provocar a expiração (fig. 3).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf))](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
 
 Figura 3
 
@@ -244,7 +248,7 @@ Expiração
 
 4.º Em seguida, deixando de aplicar o peso do corpo, endireitar-se ràpidamente, aliviando as mãos: a inspiração produz-se então pela elasticidade do tórax (fig. 4).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf))](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/03/07500/08370840.pdf)
 
 Figura 4
 

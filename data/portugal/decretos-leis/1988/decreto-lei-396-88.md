@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/25800/44774479.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-1988-358363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9db98e932ef97aec868ffd31f0e1b4d1fe5e8367c29b8f0531f5c5691f01c5ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66692c93080f9173fcfc150bc388bc97ada77bac97f2f8097505f2c03138ce03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Gestão de Empresas
+- Instituto Superior de Estudos Empresariais
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1718852:por
+  label: "Extinto o Instituto Superior de Estudos Empresariais criado pelo presente diploma, pelo DESP.14407/2000(2ªSÉRIE).2000.06.19.SEES-ME\
+    \ DR.IIS [162] DE 15/JUL/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/14407-2000-1718852
+  date: '2000-06-19'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:16Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +116,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º É criado o Instituto Superior de Estudos Empresariais da Universidade do Porto, adiante designado por ISEEUP.
+Artigo 1.º É criado o Instituto Superior de Estudos Empresariais da Universidade do Porto, adiante designado por ISEEUP.
 
-###### Art. 2.º O ISEEUP goza de autonomia pedagógica, administrativa e financeira, nos termos da lei.
+Art. 2.º O ISEEUP goza de autonomia pedagógica, administrativa e financeira, nos termos da lei.
 
-###### Art. 3.º São atribuições específicas do ISEEUP:
+Art. 3.º São atribuições específicas do ISEEUP:
 
 a) Realizar cursos de pós-graduação no âmbito da actualização ou especialização de gestores e quadros técnicos empresariais conducentes ou não à obtenção do grau de mestre;
 
@@ -118,7 +132,7 @@ d) Criar um centro de documentação no domínio da gestão de empresas;
 
 e) Promover a realização de conferências, seminários, workshops, encontros e congressos.
 
-###### Art. 4.º São órgãos de gestão do ISEEUP:
+Art. 4.º São órgãos de gestão do ISEEUP:
 
 a) O conselho geral;
 
@@ -128,7 +142,7 @@ c) A direcção.
 
 ### CAPÍTULO II — Conselho geral
 
-###### Art. 5.º - 1 - O conselho geral é constituído pelo reitor da Universidade do Porto e por um número ímpar de individualidades, entre cinco e nove, escolhidas entre professores, gestores, empresários e representantes de organismos públicos ou privados.
+Art. 5.º - 1 - O conselho geral é constituído pelo reitor da Universidade do Porto e por um número ímpar de individualidades, entre cinco e nove, escolhidas entre professores, gestores, empresários e representantes de organismos públicos ou privados.
 
 2 - O conselho geral é presidido pelo reitor da Universidade do Porto, podendo este delegar essa competência num dos vice-reitores.
 
@@ -136,7 +150,7 @@ c) A direcção.
 
 4 - As individualidades exteriores à Universidade serão escolhidas depois de ouvida a comunidade empresarial, bem como organismos públicos ou privados empenhados no processo de desenvolvimento do País e da região do Norte, tendo em consideração protocolos estabelecidos entre a Universidade do Porto e diferentes entidades representativas da comunidade em que esta se insere.
 
-###### Art. 6.º São atribuições do conselho geral:
+Art. 6.º São atribuições do conselho geral:
 
 a) Propor, na sequência de eleição, os membros da direcção;
 
@@ -148,27 +162,27 @@ d) Aprovar os planos e relatórios de actividade que lhe forem submetidos pela d
 
 e) Ratificar o regulamento interno do ISEEUP.
 
-###### Art. 7.º O conselho geral é convocado por iniciativa do presidente ou a solicitação da maioria dos seus membros.
+Art. 7.º O conselho geral é convocado por iniciativa do presidente ou a solicitação da maioria dos seus membros.
 
-###### Art. 8.º O conselho geral só pode deliberar estando presente mais de metade dos seus membros, sendo as deliberações tomadas por maioria simples de votos, tendo o presidente voto de qualidade em caso de empate.
+Art. 8.º O conselho geral só pode deliberar estando presente mais de metade dos seus membros, sendo as deliberações tomadas por maioria simples de votos, tendo o presidente voto de qualidade em caso de empate.
 
 ### CAPÍTULO III — Conselho académico
 
-###### Art. 9.º O conselho académico é composto:
+Art. 9.º O conselho académico é composto:
 
 a) Por todos os professores que prestem serviço no ISEEUP em regime de tempo integral;
 
 b) Por representantes dos assistentes que prestem serviço no ISEEUP em regime de tempo integral, em número que não poderá exceder a quarta parte dos professores que integram este conselho.
 
-###### Art. 10.º - 1 - Os membros do conselho académico elegerão um presidente entre os professores que dele fazem parte.
+Art. 10.º - 1 - Os membros do conselho académico elegerão um presidente entre os professores que dele fazem parte.
 
 2 - Ao presidente incumbe a direcção das reuniões e a representação oficial do conselho.
 
 3 - A duração do mandato do presidente do conselho académico é de três anos.
 
-###### Art. 11.º O conselho académico só pode deliberar estando presente mais de metade dos seus membros, tendo o presidente voto de qualidade em caso de empate.
+Art. 11.º O conselho académico só pode deliberar estando presente mais de metade dos seus membros, tendo o presidente voto de qualidade em caso de empate.
 
-###### Art. 12.º Compete ao conselho académico:
+Art. 12.º Compete ao conselho académico:
 
 a) Estabelecer a política geral da orientação científica e pedagógica do ISEEUP;
 
@@ -178,17 +192,17 @@ c) Estabelecer planos de formação dos docentes do ISEEUP;
 
 d) Cooperar com a direcção na definição dos planos de actividade do ISEEUP e dar parecer sobre os mesmos.
 
-###### Art. 13.º - 1 - Os assistentes em regime de tempo integral elegerão entre si os seus representantes no conselho académico.
+Art. 13.º - 1 - Os assistentes em regime de tempo integral elegerão entre si os seus representantes no conselho académico.
 
 2 - O número e o modo como os representantes dos assistentes integram o conselho académico serão estabelecidos no regulamento interno do ISEEUP.
 
 ### CAPÍTULO IV — Direcção
 
-###### Art. 14.º A direcção é constituída por um presidente e dois vogais.
+Art. 14.º A direcção é constituída por um presidente e dois vogais.
 
-###### Art. 15.º Os membros da direcção são nomeados pelo reitor, pelo período de três anos, na sequência da eleição a que se refere a alínea a) do artigo 6.º
+Art. 15.º Os membros da direcção são nomeados pelo reitor, pelo período de três anos, na sequência da eleição a que se refere a alínea a) do artigo 6.º
 
-###### Art. 16.º Compete à direcção:
+Art. 16.º Compete à direcção:
 
 a) Administrar e gerir o ISEEUP, assegurando o seu regular funcionamento, em particular propondo e executando o respectivo orçamento e recrutando todo o pessoal docente e não docente;
 
@@ -202,11 +216,11 @@ e) Promover a realização de protocolos de colaboração com outras escolas, ce
 
 f) Promover a realização de contratos de investigação e desenvolvimento (I & D).
 
-###### Art. 17.º Compete ao presidente convocar e dirigir as reuniões da direcção e representar o ISEEUP.
+Art. 17.º Compete ao presidente convocar e dirigir as reuniões da direcção e representar o ISEEUP.
 
 ### CAPÍTULO V — Do pessoal
 
-###### Art. 18.º Integrarão o corpo docente do ISEEUP:
+Art. 18.º Integrarão o corpo docente do ISEEUP:
 
 a) Docentes da Universidade do Porto oriundos dos quadros das diferentes faculdades;
 
@@ -214,11 +228,11 @@ b) Docentes, técnicos e investigadores pertencentes a outras instituições pú
 
 c) Professores, gestores e consultores, nacionais ou estrangeiros, com sólida experiência profissional e capacidade técnica e pedagógica, contratados por entidades privadas para desempenhar funções de docência no ISEEUP e por este explicitamente aceites.
 
-###### Art. 19.º Os docentes poderão prestar serviço no ISEEUP em regime de exclusividade, tempo integral ou tempo parcial.
+Art. 19.º Os docentes poderão prestar serviço no ISEEUP em regime de exclusividade, tempo integral ou tempo parcial.
 
-###### Art. 20.º O pessoal docente e não docente necessário ao funcionamento do ISEEUP será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos em geral e da Universidade do Porto em particular, não abrindo, no entanto, vaga no lugar de origem.
+Art. 20.º O pessoal docente e não docente necessário ao funcionamento do ISEEUP será recrutado ao abrigo das disposições legais aplicáveis sobre instrumentos de mobilidade entre funcionários ou agentes de serviços e organismos públicos em geral e da Universidade do Porto em particular, não abrindo, no entanto, vaga no lugar de origem.
 
-###### Art. 21.º O pessoal, docente e não docente, que irá prestar serviço no ISEEUP será afectado com recurso a um dos mecanismos seguintes:
+Art. 21.º O pessoal, docente e não docente, que irá prestar serviço no ISEEUP será afectado com recurso a um dos mecanismos seguintes:
 
 a) Celebração de protocolos com outros estabelecimentos da Universidade do Porto ou com outras instituições públicas;
 
@@ -226,7 +240,7 @@ b) Contratação ao abrigo da Lei Geral do Trabalho, não conferindo, neste caso
 
 ### CAPÍTULO VI — Das receitas
 
-###### Art. 22.º - 1 - Constituem receitas do ISEEUP:
+Art. 22.º - 1 - Constituem receitas do ISEEUP:
 
 a) As provenientes do pagamento de propinas;
 
@@ -242,18 +256,18 @@ e) Os juros de contas de depósito.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-###### Art. 23.º - 1 - O reitor da Universidade do Porto nomeará uma comissão composta por cinco membros incumbida da instalação do ISEEUP.
+Art. 23.º - 1 - O reitor da Universidade do Porto nomeará uma comissão composta por cinco membros incumbida da instalação do ISEEUP.
 
 2 - A comissão terá o prazo máximo de 60 dias para tomar as resoluções e propor as medidas necessárias ao início de funcionamento normal do ISEEUP e elaborará, dentro desse prazo, o regulamento interno, que será submetido, para aprovação, ao conselho geral.
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

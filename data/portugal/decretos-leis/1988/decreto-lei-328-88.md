@@ -46,40 +46,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1988-355521
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-05-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b78eb6cd805d8cca37a4a53fd31271ba5575f076fab8912c13142ee935067ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55d23b71516eaaeefd5dc86b3f00168368b7c366e67b0bec5e5382d73aae9b98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Participações do Estado
+- Empresa Participada
+- Privatização
+- Setor Público
 relationships:
 - type: amended_by
   target: pt:dre:302156:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:546984:por
+  label: "Alterados os arts. 5º e 10º pelo DEC LEI.290/89.02.09.1989.MF, DR.IS [202] de 02.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/290-1989-546984
+  date: '1989-09-02'
+- type: cites
+  target: pt:dre:374423:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:220688:por
+  label: Rectificado pela DECL.DD4038.1988.10.28.PCM DR.IS [252]2ºSUPL DE 31/OUT/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-220688
+  date: '1988-10-28'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:35Z'
   warnings: []
   errors: []
 ---
@@ -192,15 +210,15 @@ As entidades estrangeiras que pretendam intervir nas operações previstas no pr
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Setembro de 1988.**
+Referendado em 13 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Anúncio
 
@@ -286,7 +304,7 @@ Relação do pessoal;
 
 O preço base de alienação será o que à participação corresponder em função do valor da sociedade objecto de participação, calculado segundo a aplicação da seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22400/39303934.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22400/39303934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22400/39303934.pdf)
 
 1 - Determinação do valor substancial (S). - Este valor calculado com base no valor contabilístico do património líquido da respectiva empresa apurado no último exercício, em relação ao qual haverá que:
 
@@ -306,7 +324,7 @@ d) Adicionar o resultado líquido esperado desde o encerramento do último exerc
 
 2.3 - Utilizar-se-á a seguinte fórmula:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22400/39303934.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22400/39303934.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22400/39303934.pdf)
 
 2.4 - O valor de L(índice t) deverá ser estimado de acordo com as perspectivas de mercado e com as potencialidades da empresa, em termos de capacidade instalada, tendo em consideração as reintegrações do activo fixo que resultem da reavaliação referida no n.º 1, alínea a), deste anexo.
 

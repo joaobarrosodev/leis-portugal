@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17600-1960-282110
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 559aa1bc155a7c20b1cc3c0b97fe2331c4d99462fb346b0ad93081ff2a1e2116
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cf4167212ebefa5afec8812170a78649e23b104a8d223160941ae9d4ea672056
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:430032:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:07Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, substituir 
 
 Despesas com o material:
 
-###### Artigo 1485.º, n.º 3) «Aquisições de utilização permanente - Material de defesa e segurança pública» ... 600.000$00
+Artigo 1485.º, n.º 3) «Aquisições de utilização permanente - Material de defesa e segurança pública» ... 600.000$00
 
 Encargos gerais:
 
-###### Artigo 1495.º, n.º 6) «Diversas despesas - Vencimentos e alimentação de praças em comissão e indígenas incorporadas na secção disciplinar» ... 150.000$00
+Artigo 1495.º, n.º 6) «Diversas despesas - Vencimentos e alimentação de praças em comissão e indígenas incorporadas na secção disciplinar» ... 150.000$00
 
-###### Artigo 1496.º «Abono de família» ... 1:600.000$00
+Artigo 1496.º «Abono de família» ... 1:600.000$00
 
 ... 2:350.000$00
 
@@ -105,9 +109,9 @@ tomando como contrapartida as disponibilidades existentes nas seguintes verbas d
 
 Despesas com o pessoal:
 
-###### Artigo 1481.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1:600.000$00
+Artigo 1481.º, n.º 1), alínea a) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 1:600.000$00
 
-###### Artigo 1483.º, n.º 1) «Outras despesas com o pessoal dentro da província - Alimentação»:
+Artigo 1483.º, n.º 1) «Outras despesas com o pessoal dentro da província - Alimentação»:
 
 Alínea a) «A cabos e soldados continentais e ultramarinos» ... 600.000$00
 

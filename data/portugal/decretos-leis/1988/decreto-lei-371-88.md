@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1988-354164
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d519ef8f97d6d4531bdd95a0733158dcaad550f18416e88cd80837944b5610e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7cdf8f028729f1f31b4b43847ce6ecc89da97a11e6a4be6f67799925cd80b66e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Importação
+- Pauta dos Direitos de Importação
+relationships:
+- type: corrected_by
+  target: pt:dre:519066:por
+  label: Rectificado pela DECL.DD4074.1988.11.02.PCM DR.IS [277]4.ºSUPL DE 30/NOV/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519066
+  date: '1988-11-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:36Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +105,17 @@ Assim:
 
 No uso da autorização legislativa concedida pelas alíneas a) e b) do artigo 32.º da Lei n.º 2/88, de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro, é alterada nos termos dos anexos I a IV ao presente diploma, com referência à separata do Diário da República publicada nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 389/87, de 31 de Dezembro.
+Artigo 1.º A Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro, é alterada nos termos dos anexos I a IV ao presente diploma, com referência à separata do Diário da República publicada nos termos do n.º 2 do artigo 1.º do Decreto-Lei n.º 389/87, de 31 de Dezembro.
 
-###### Art. 2.º O artigo 10.º da tabela II anexa à Reforma Aduaneira, com a redacção dada pela alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 368/87, de 27 de Novembro, passa a ter a seguinte redacção:
+Art. 2.º O artigo 10.º da tabela II anexa à Reforma Aduaneira, com a redacção dada pela alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 368/87, de 27 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 10.º - 1 - As mercadorias declaradas para consumo ficam sujeitas ao pagamento de um emolumento de despacho geral de 0,9% ad valorem até 31 de Dezembro de 1988, de 0,6% entre esta data e 31 de Dezembro de 1989 e de 0,3% entre a última data e 31 de Dezembro de 1990, considerando-se este emolumento integralmente suprimido em 1 de Janeiro de 1991.
+Art. 10.º - 1 - As mercadorias declaradas para consumo ficam sujeitas ao pagamento de um emolumento de despacho geral de 0,9% ad valorem até 31 de Dezembro de 1988, de 0,6% entre esta data e 31 de Dezembro de 1989 e de 0,3% entre a última data e 31 de Dezembro de 1990, considerando-se este emolumento integralmente suprimido em 1 de Janeiro de 1991.
 
 2 - Excluem-se do disposto no número anterior as mercadorias referidas no título II, letras A e B, das Disposições Preliminares da Pauta dos Direitos de Importação, aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro.
 
-###### Art. 3.º É revogado o Decreto-Lei n.º 45/87, de 29 de Janeiro.
+Art. 3.º É revogado o Decreto-Lei n.º 45/87, de 29 de Janeiro.
 
-###### Art. 4.º - 1 - O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+Art. 4.º - 1 - O presente diploma produz efeitos desde 1 de Janeiro de 1988.
 
 2 - Exceptuam-se do disposto no número anterior:
 
@@ -120,27 +127,27 @@ c) As alterações respeitantes aos códigos 85.19.91.91 e 86.09.00.90 constante
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernando Mira Amaral - Licínio Alberto de Almeida Cunha.
 
-**Promulgado em 29 de Setembro de 1988.**
+Promulgado em 29 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1988.**
+Referendado em 3 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro a que se refere o n.º 1 do ponto A do título II das Disposições Preliminares e que deverá constituir a p. 13-A da Pauta dos Direitos de Importação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
 
 ## ANEXO II — Alterações a introduzir na Tabela de Direitos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
 
 ## ANEXO III — Alterações das notas às subposições
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/10/24000/42264231.pdf)
 
 ## ANEXO IV — Notas complementares a introduzir
 

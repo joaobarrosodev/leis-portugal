@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17798-1960-502462
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-07-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e578361b4098ca59ae11ec56d79fb1610283ef142686938c1ab6a83fb9812ab0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: edde6629137977aa44e856467d0c91b7cb3cbc78d16da9ce28e452f3b9ed0362
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:23Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +87,6 @@ Tendo-se reconhecido a conveniência de autorizar a ligação de gravadores de c
 
 Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, que no sistema tarifário dos serviços telefónicos concessionados à The Anglo Portuguese Telephone Company, Ltd., se incluam as taxas que a seguir se indicam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/07/15500/16701670.pdf))](https://files.diariodarepublica.pt/1s/1960/07/15500/16701670.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/07/15500/16701670.pdf)
 
 Ministério das Comunicações, 6 de Julho de 1960. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

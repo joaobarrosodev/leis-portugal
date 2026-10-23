@@ -46,36 +46,39 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1988-373418
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-07-05T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 870fc17b4b583379f51bb59636b8fd27f19abd166dd1149de67cb42fc4633370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 609459c253c9455305b8dc599b5368f81b3123735f9c841c303bdee5a2c94305
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Avião
+- Direitos de Importação
+- Material Aeronáutico
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:20Z'
   warnings: []
   errors: []
 ---
@@ -94,22 +97,22 @@ Atendendo a que é conveniente para as empresas nacionais do sector em causa e p
 
 No uso da autorização legislativa concedida pela alínea a) do artigo 32.º da Lei n.º 2/88, de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - É suspensa a cobrança dos direitos da pauta aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro, nas condições e ao nível indicados no Regulamento (CEE) n.º [3705/87](http://data.europa.eu/eli/reg/1987/3705/oj?locale=pt) do Conselho, de 30 de Novembro, e seus anexos, relativo à suspensão temporária dos direitos autónomos da Pauta Aduaneira Comum para um determinado número de produtos destinados à construção, manutenção e reparação de aeronaves.
+Artigo 1.º - 1 - É suspensa a cobrança dos direitos da pauta aprovada pelo Decreto-Lei n.º 389/87, de 31 de Dezembro, nas condições e ao nível indicados no Regulamento (CEE) n.º [3705/87](http://data.europa.eu/eli/reg/1987/3705/oj?locale=pt) do Conselho, de 30 de Novembro, e seus anexos, relativo à suspensão temporária dos direitos autónomos da Pauta Aduaneira Comum para um determinado número de produtos destinados à construção, manutenção e reparação de aeronaves.
 
 2 - Fica igualmente suspensa a cobrança da totalidade dos direitos que possam recair sobre os produtos referidos no número anterior quando estejam nas condições dos artigos 9.º e 10.º do tratado que institui a Comunidade Económica Europeia ou sejam originários dos países com os quais a mesma Comunidade concluiu acordos preferenciais.
 
-###### Art. 2.º A importação dos produtos que, em virtude do seu destino especial, beneficiam do regime pautal previsto no presente diploma está sujeita às condições estabelecidas nos Regulamentos (CEE) n.os [4141/87](http://data.europa.eu/eli/reg/1987/4141/oj?locale=pt) e [4142/87](http://data.europa.eu/eli/reg/1987/4142/oj?locale=pt) da Comissão, de 9 de Dezembro, com as alterações que lhes foram introduzidas, bem como às medidas a determinar pela Direcção-Geral das Alfândegas, com vista a possibilitar a fiscalização da sua aplicação.
+Art. 2.º A importação dos produtos que, em virtude do seu destino especial, beneficiam do regime pautal previsto no presente diploma está sujeita às condições estabelecidas nos Regulamentos (CEE) n.os [4141/87](http://data.europa.eu/eli/reg/1987/4141/oj?locale=pt) e [4142/87](http://data.europa.eu/eli/reg/1987/4142/oj?locale=pt) da Comissão, de 9 de Dezembro, com as alterações que lhes foram introduzidas, bem como às medidas a determinar pela Direcção-Geral das Alfândegas, com vista a possibilitar a fiscalização da sua aplicação.
 
-###### Art. 3.º As disposições do presente diploma são aplicáveis aos regulamentos (CEE) publicados anualmente sobre matéria idêntica à do regulamento referido no artigo 1.º e às alterações introduzidas nos seus anexos.
+Art. 3.º As disposições do presente diploma são aplicáveis aos regulamentos (CEE) publicados anualmente sobre matéria idêntica à do regulamento referido no artigo 1.º e às alterações introduzidas nos seus anexos.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Junho de 1988.**
+Referendado em 23 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

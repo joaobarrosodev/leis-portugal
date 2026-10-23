@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26100/45214522.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1988-357917
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-24T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebda26de5f6a8fbb983a6d758881d6c57cb11386529c868a416cb1747a8a284a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1d6388a94ff2519cc5062a22e2f84e192a0966e9eb00e4deebd2ff1deeaf3df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional da Organização Marítima Internacional
+- Definição de Competências
+- Ministério dos Negócios Estrangeiros
+- OMI
+- Reestruturação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:515471:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O ARTIGO 5 PELO DECRETO LEI 429/91, PUBLICADO NO DR.IS-A, 251.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-10-31'
+- type: cites
+  target: pt:dre:578150:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515471:por
+  label: "Revogado pelo DEC LEI.48/94.1994.02.24.MNE, DR.IS-A [46]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48-1994-515471
+  date: '1994-02-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:46Z'
   warnings: []
   errors: []
 ---
@@ -105,9 +124,9 @@ Comissão Nacional da Organização Marítima Internacional
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º A Comissão Nacional da Organização Marítima Internacional, abreviadamente designada por CNIMO, criada pela [Portaria n.º 546/81](https://diariodarepublica.pt/dr/detalhe/portaria/546-1981-578150), de 3 de Julho, funciona no âmbito do Ministério dos Negócios Estrangeiros e tem como principal atribuição a coordenação em Portugal das actividades referentes à Organização Marítima Internacional (IMO), cujo objectivo fundamental consiste na instituição de um sistema de colaboração entre os governos no campo da regulamentação e dos procedimentos, para melhorar as medidas de segurança marítima e de prevenção da poluição do mar pelos navios.
+Artigo 1.º A Comissão Nacional da Organização Marítima Internacional, abreviadamente designada por CNIMO, criada pela [Portaria n.º 546/81](https://diariodarepublica.pt/dr/detalhe/portaria/546-1981-578150), de 3 de Julho, funciona no âmbito do Ministério dos Negócios Estrangeiros e tem como principal atribuição a coordenação em Portugal das actividades referentes à Organização Marítima Internacional (IMO), cujo objectivo fundamental consiste na instituição de um sistema de colaboração entre os governos no campo da regulamentação e dos procedimentos, para melhorar as medidas de segurança marítima e de prevenção da poluição do mar pelos navios.
 
-###### Art. 2.º - 1 - Para o desempenho das suas atribuições compete à CNIMO:
+Art. 2.º - 1 - Para o desempenho das suas atribuições compete à CNIMO:
 
 a) Apoiar a coordenação, a nível nacional, de todos os programas e realizações da IMO;
 
@@ -123,7 +142,7 @@ e) Propor superiormente a constituição das delegações nacionais às reuniõe
 
 ### CAPÍTULO II — Órgãos e serviços
 
-###### Art. 3.º A CNIMO tem os seguintes órgãos:
+Art. 3.º A CNIMO tem os seguintes órgãos:
 
 a) O presidente;
 
@@ -131,7 +150,7 @@ b) O conselho coordenador;
 
 c) O secretário executivo.
 
-###### Art. 4.º - 1 - Ao presidente compete:
+Art. 4.º - 1 - Ao presidente compete:
 
 a) Dirigir os trabalhos da CNIMO e representá-la publicamente;
 
@@ -145,7 +164,7 @@ e) Assegurar o despacho corrente dos assuntos relativos à CNIMO.
 
 2 - Nas suas faltas ou impedimentos o presidente é substituído, nas suas funções administrativas, pelo secretário executivo e na presidência do conselho coordenador por um dos vogais eleito anualmente pelo próprio conselho.
 
-###### Art. 5.º - 1 - O conselho coordenador é constituído pelos seguintes membros:
+Art. 5.º - 1 - O conselho coordenador é constituído pelos seguintes membros:
 
 a) O presidente da CNIMO;
 
@@ -179,7 +198,7 @@ i) Um vogal representante do ministro competente na área das pescas.
 
 8 - Sem prejuízo da sua inserção na orgânica do Ministério dos Negócios Estrangeiros e das atribuições cometidas por lei aos ministérios nela representados, a CNIMO articula-se com estes ministérios, para efeitos de coordenação interministerial, por intermédio dos seus representantes no conselho coordenador.
 
-###### Art. 6.º Ao conselho coordenador compete:
+Art. 6.º Ao conselho coordenador compete:
 
 a) Analisar os assuntos correntes e dar parecer sobre acções a tomar ou a propor superiormente, no campo das atribuições da CNIMO, nomeadamente sobre as medidas para promover a efectiva cooperação de Portugal nos trabalhos da IMO;
 
@@ -187,40 +206,40 @@ b) Impulsionar e acompanhar os processos de aprovação dos instrumentos jurídi
 
 c) Aprovar a constituição das delegações nacionais às reuniões de órgãos da IMO, a propor superiormente.
 
-###### Art. 7.º - 1 - O conselho coordenador reúne ordinariamente uma vez por mês e delibera por maioria absoluta dos seus membros, estando presente o presidente ou o seu substituto.
+Art. 7.º - 1 - O conselho coordenador reúne ordinariamente uma vez por mês e delibera por maioria absoluta dos seus membros, estando presente o presidente ou o seu substituto.
 
 2 - Para efeitos de aplicação da regra enunciada no número anterior, o presidente substituto não se inclui no número de representantes dos ministérios.
 
 3 - O presidente tem voto de qualidade.
 
-###### Art. 8.º Para além das competências previstas no n.º 2 do artigo 4.º e no n.º 2 do artigo 5.º, ao secretário executivo da CNIMO cabe ainda a coadjuvação do presidente.
+Art. 8.º Para além das competências previstas no n.º 2 do artigo 4.º e no n.º 2 do artigo 5.º, ao secretário executivo da CNIMO cabe ainda a coadjuvação do presidente.
 
-###### Art. 9.º O apoio técnico-administrativo à CNIMO, designadamente nas áreas de expediente, documentação e arquivo, será prestado pelos serviços competentes do Ministério dos Negócios Estrangeiros mediante a afectação do pessoal que for considerado necessário ao seu funcionamento.
+Art. 9.º O apoio técnico-administrativo à CNIMO, designadamente nas áreas de expediente, documentação e arquivo, será prestado pelos serviços competentes do Ministério dos Negócios Estrangeiros mediante a afectação do pessoal que for considerado necessário ao seu funcionamento.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 10.º - 1 - O presidente da CNIMO será designado de entre personalidades de reconhecida competência por despacho conjunto dos titulares das pastas da Defesa Nacional, dos Negócios Estrangeiros e daquelas em que estejam inseridas a indústria e energia, os transportes exteriores, as pescas e os portos.
+Art. 10.º - 1 - O presidente da CNIMO será designado de entre personalidades de reconhecida competência por despacho conjunto dos titulares das pastas da Defesa Nacional, dos Negócios Estrangeiros e daquelas em que estejam inseridas a indústria e energia, os transportes exteriores, as pescas e os portos.
 
 2 - Para os efeitos protocolares ou de representação, o presidente da CNIMO tem as prerrogativas inerentes à categoria de director-geral.
 
-###### Art. 11.º As funções de secretário executivo serão desempenhadas por um funcionário diplomático ou por um técnico superior do Ministério dos Negócios Estrangeiros.
+Art. 11.º As funções de secretário executivo serão desempenhadas por um funcionário diplomático ou por um técnico superior do Ministério dos Negócios Estrangeiros.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 12.º As despesas com delegações às reuniões dos órgãos da IMO constituirão encargos dos ministérios a que pertençam os respectivos membros.
+Art. 12.º As despesas com delegações às reuniões dos órgãos da IMO constituirão encargos dos ministérios a que pertençam os respectivos membros.
 
-###### Art. 13.º É revogada a [Portaria n.º 546/81](https://diariodarepublica.pt/dr/detalhe/portaria/546-1981-578150), de 3 de Julho.
+Art. 13.º É revogada a [Portaria n.º 546/81](https://diariodarepublica.pt/dr/detalhe/portaria/546-1981-578150), de 3 de Julho.
 
-###### Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 14.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Eurico Silva Teixeira de Melo - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 31 de Outubro de 1988.**
+Referendado em 31 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

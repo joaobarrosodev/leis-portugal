@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/25800/44804484.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1988-358359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b29c472d297f24b1e52244b9ce76eb92ff3079f68ff949b8f6c8ba8f1909b48
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 02278b150afc3db7fa915269dd7774224ea612c7f19e7bc2ae57c5fccff1e4ba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ensino Artístico
+- Ensino Profissional
+- Gabinete de Educação Tecnológica Artística e Profissional
+- Ministério da Educação
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:665342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665342:por
+  label: "Revogado pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993, e extinto o gabinete criado no presente\
+    \ diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:16Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +133,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-###### Artigo 1.º - 1 - É criado, como serviço central do Ministério da Educação, o Gabinete de Educação Tecnológica, Artística e Profissional, adiante abreviadamente designado por GETAP.
+Artigo 1.º - 1 - É criado, como serviço central do Ministério da Educação, o Gabinete de Educação Tecnológica, Artística e Profissional, adiante abreviadamente designado por GETAP.
 
 2 - O GETAP é um serviço de concepção, orientação e coordenação do sistema de ensino não superior, na área da educação tecnológica, artística e profissional.
 
 3 - O GETAP goza de autonomia administrativa.
 
-###### Art. 2.º - 1 - São atribuições do GETAP:
+Art. 2.º - 1 - São atribuições do GETAP:
 
 a) Conceber, planear, coordenar e avaliar acções de sensibilização ao mundo do trabalho e das profissões nos seus aspectos de educação tecnológica, de iniciação profissional, de formação técnica e profissionalizante e de ensino profissional no âmbito da educação;
 
@@ -154,7 +181,7 @@ e) Afectar aos estabelecimentos de ensino não superior as dotações em bens e 
 
 ### CAPÍTULO II — Órgãos, serviços e suas competências
 
-###### Art. 3.º Para o exercício das suas atribuições, o GETAP compreende os seguintes órgãos e serviços:
+Art. 3.º Para o exercício das suas atribuições, o GETAP compreende os seguintes órgãos e serviços:
 
 1) Órgãos:
 
@@ -174,7 +201,7 @@ c) Repartição Administrativo-Financeira.
 
 3 - O GETAP funcionará por equipas de projecto a constituir tendo em vista os seus objectivos e seus programas de actividades.
 
-###### Art. 4.º - 1 - O director é o órgão que dirige o GETAP de harmonia com as orientações superiores, competindo-lhe, designadamente:
+Art. 4.º - 1 - O director é o órgão que dirige o GETAP de harmonia com as orientações superiores, competindo-lhe, designadamente:
 
 a) Submeter a despacho ministerial todos os assuntos que careçam de resolução superior;
 
@@ -190,7 +217,7 @@ c) Emitir ordens de serviço e instruções necessárias ao bom funcionamento do
 
 5 - O subdirector que para tal for designado substitui o director nas faltas ou impedimentos deste.
 
-###### Art. 5.º O conselho administrativo tem a seguinte composição:
+Art. 5.º O conselho administrativo tem a seguinte composição:
 
 a) O director, que presidirá;
 
@@ -200,7 +227,7 @@ c) O director de serviços do Departamento de Apoio Técnico;
 
 d) O chefe da Repartição Administrativo-Financeira.
 
-###### Art. 6.º - 1 - Compete ao conselho administrativo:
+Art. 6.º - 1 - Compete ao conselho administrativo:
 
 a) Orientar a preparação dos projectos de orçamento;
 
@@ -214,7 +241,7 @@ e) Deliberar sobre o montante do fundo de maneio.
 
 2 - O presidente do conselho administrativo pode delegar nos seus membros e no pessoal dirigente e de chefia parte das suas competências, desde que fixe os limites do respectivo exercício.
 
-###### Art. 7.º - 1 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente.
+Art. 7.º - 1 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente.
 
 2 - As deliberações do conselho administrativo são tomadas por maioria de votos dos membros presentes, tendo o presidente, em caso de empate, voto de qualidade.
 
@@ -230,7 +257,7 @@ e) Deliberar sobre o montante do fundo de maneio.
 
 8 - O presidente pode determinar que funcionários do GETAP tomem parte em reuniões do conselho administrativo, não tendo os mesmos direito de voto.
 
-###### Art. 8.º - 1 - Junto do GETAP funciona um conselho consultivo para o ensino tecnológico, artístico e profissional, adiante designado por conselho consultivo, que é o órgão consultivo por excelência do GETAP.
+Art. 8.º - 1 - Junto do GETAP funciona um conselho consultivo para o ensino tecnológico, artístico e profissional, adiante designado por conselho consultivo, que é o órgão consultivo por excelência do GETAP.
 
 2 - O conselho consultivo é constituído por:
 
@@ -260,7 +287,7 @@ l) Duas individualidades de reconhecido mérito, nomeadas pelo Ministro da Educa
 
 4 - O conselho consultivo articulará a sua acção com estruturas participativas do Ministério do Emprego e da Segurança Social e com o Conselho Nacional de Educação, com objectivos consensuais relativamente às políticas de educação tecnológica, artística e profissional.
 
-###### Art. 9.º - 1 - Ao conselho consultivo compete:
+Art. 9.º - 1 - Ao conselho consultivo compete:
 
 a) Pronunciar-se sobre a política a seguir pelo GETAP e elaborar recomendações em ordem ao desenvolvimento do ensino tecnológico, artístico e profissional do País;
 
@@ -280,7 +307,7 @@ c) Dar parecer, sempre que solicitado por despacho ministerial ou por sua inicia
 
 7 - Os membros do conselho consultivo têm direito ao pagamento de ajudas de custo e de despesas de deslocação no valor igual à dos funcionários da letra A da função pública, quando não se trate de funcionários ou agentes, relativamente aos quais se aplicam as competentes disposições da lei geral.
 
-###### Art. 10.º - 1 - A nível regional funcionam os conselhos consultivos regionais de ensino tecnológico, artístico e profissional.
+Art. 10.º - 1 - A nível regional funcionam os conselhos consultivos regionais de ensino tecnológico, artístico e profissional.
 
 2 - Enquanto não forem concretizadas as regiões Plano, são consideradas para o efeito as constantes no artigo 27.º do [Decreto-Lei n.º 3/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1987-599716), de 3 de Janeiro.
 
@@ -316,7 +343,7 @@ d) Emitir parecer sempre que tal lhe for solicitado pelo director do GETAP.
 
 7 - Na parte não especialmente prevista são aplicáveis aos conselhos consultivos regionais as regras do artigo anterior, com as necessárias adaptações.
 
-###### Art. 11.º - 1 - Ao Departamento de Apoio Técnico compete, com carácter permanente, apoiar as equipas de projecto nas áreas de financiamento de projectos, prospectiva sobre necessidades educativas, habilitação pedagógica e formação contínua de formadores, documentação e ficheiros e produção de materiais de orientação escolar e profissional.
+Art. 11.º - 1 - Ao Departamento de Apoio Técnico compete, com carácter permanente, apoiar as equipas de projecto nas áreas de financiamento de projectos, prospectiva sobre necessidades educativas, habilitação pedagógica e formação contínua de formadores, documentação e ficheiros e produção de materiais de orientação escolar e profissional.
 
 2 - O Departamento de Apoio Técnico tem as seguintes competências:
 
@@ -338,7 +365,7 @@ h) Difundir a informação devidamente tratada, nomeadamente através da publica
 
 3 - O Departamento de Apoio Técnico é dirigido por um director de serviços.
 
-###### Art. 12.º - 1 - A Assessoria Jurídica é um serviço de consulta e de assessoria relativa às actividades desenvolvidas pelo GETAP, competindo-lhe, nomeadamente:
+Art. 12.º - 1 - A Assessoria Jurídica é um serviço de consulta e de assessoria relativa às actividades desenvolvidas pelo GETAP, competindo-lhe, nomeadamente:
 
 a) Apoiar juridicamente os órgãos do GETAP;
 
@@ -352,7 +379,7 @@ e) Realizar os estudos de natureza periódica que lhe sejam determinados.
 
 2 - Os pedidos de parecer à Assessoria jurídica necessitam de ser sancionados por despacho do director do GETAP.
 
-###### Art. 13.º - 1 - À Repartição Administrativo-Financeira incumbe, nomeadamente:
+Art. 13.º - 1 - À Repartição Administrativo-Financeira incumbe, nomeadamente:
 
 a) Assegurar as tarefas inerentes à classificação, circulação, expediente e arquivo de todo o GETAP;
 
@@ -384,7 +411,7 @@ a) Secção de Pessoal, Expediente Geral e Arquivo, à qual cabe desempenhar as 
 
 b) Secção de Contabilidade e Controle Orçamental, à qual cabe desempenhar as competências previstas nas alíneas g) a m) do número anterior.
 
-###### Art. 14.º - 1 - Às equipas de projecto referidas no n.º 3 do artigo 3.º incumbe:
+Art. 14.º - 1 - Às equipas de projecto referidas no n.º 3 do artigo 3.º incumbe:
 
 a) Avaliar e promover programas e projectos de ensino tecnológico, artístico e profissional, procurando obter os financiamentos necessários à concretização dos mesmos;
 
@@ -404,38 +431,38 @@ d) Definir, no âmbito da educação escolar, áreas de formação, níveis de i
 
 ### CAPÍTULO III — Gestão financeira
 
-###### Art. 15.º As dotações em bens e equipamentos, bem como as verbas destinadas ao reforço e desenvolvimento da educação tecnológica, artística e profissional, a que se refere a alínea e) do n.º 3 do artigo 2.º, serão inscritas em orçamento privativo, nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, e inscritas em contas de ordem.
+Art. 15.º As dotações em bens e equipamentos, bem como as verbas destinadas ao reforço e desenvolvimento da educação tecnológica, artística e profissional, a que se refere a alínea e) do n.º 3 do artigo 2.º, serão inscritas em orçamento privativo, nos termos do [Decreto-Lei n.º 459/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148), de 26 de Novembro, e inscritas em contas de ordem.
 
-###### Art. 16.º - 1 - Os pagamentos serão efectuados, em regra, por meio de cheque.
+Art. 16.º - 1 - Os pagamentos serão efectuados, em regra, por meio de cheque.
 
 2 - Os cheques serão nominativos e assinados sempre por dois membros do conselho administrativo.
 
 3 - Todos os documentos relativos a levantamento de fundos, recebimentos e pagamentos serão assinados e visados por dois membros do conselho administrativo.
 
-###### Art. 17.º Por despacho conjunto dos Ministros das Finanças e da Educação serão transferidas para o GETAP as verbas respeitantes ao ensino técnico e profissional atribuídas à Direcção-Geral do Ensino Básico e Secundário.
+Art. 17.º Por despacho conjunto dos Ministros das Finanças e da Educação serão transferidas para o GETAP as verbas respeitantes ao ensino técnico e profissional atribuídas à Direcção-Geral do Ensino Básico e Secundário.
 
 ### CAPÍTULO IV — Pessoal
 
-###### Art. 18.º - 1 - O GETAP tem o pessoal constante da dotação que lhe vier a ser atribuída e que se integra no quadro único do Ministério da Educação, a que se refere o [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro.
+Art. 18.º - 1 - O GETAP tem o pessoal constante da dotação que lhe vier a ser atribuída e que se integra no quadro único do Ministério da Educação, a que se refere o [Decreto-Lei n.º 81/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1983-310790), de 10 de Fevereiro.
 
 2 - Sem prejuízo do disposto no número anterior, são desde já criados os lugares do pessoal dirigente e de chefia constante do mapa anexo ao presente diploma.
 
-###### Art. 19.º O regime de pessoal em serviço do GETAP é o estabelecido genericamente para o Ministério da Educação e ainda o que vigora na lei geral aplicável à função pública.
+Art. 19.º O regime de pessoal em serviço do GETAP é o estabelecido genericamente para o Ministério da Educação e ainda o que vigora na lei geral aplicável à função pública.
 
-###### Art. 20.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 20.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto - Roberto Artur da Luz Carneiro - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 Mapa a que se refere o n.º 2 do artigo 18.º do Decreto-Lei n.º 397/88
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/25800/44804484.pdf))](https://files.diariodarepublica.pt/1s/1988/11/25800/44804484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/25800/44804484.pdf)

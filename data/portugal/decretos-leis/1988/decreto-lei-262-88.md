@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 169/1988, 1º Suplemento, Série I de 1988-07-23
   number: '169'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2988-(2) a 2988-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16901/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2017-12-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5f4754a294dba27f292a3ec62c7f6a45757941359059b32f57305d3bd73707b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feb6d08b7459b29d90eb964268088b6bd37e136b9aa3e23b0f57005bdd30f348
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete Governamental
+- Orgânica
+- Pessoal de Gabinete
 relationships:
 - type: amended_by
   target: pt:dre:114425586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:569757:por
+  label: "Determinado, nos termos do disposto do art. 58º Lei 12-A/2008 de 27-Fev, que a expressão \"requisição e destacamento,referidos\
+    \ a trabalhadores que exercem funções públicas\" contida no nº 4 do art. 6º e nos arts 10º e 11º deste diploma, passe\
+    \ a ler-se \"cedência de interesse público\" pelo DEC LEI.72-A/2010.18.06.2010.MFAP, DR.IS [117-Supl] de 18.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Aditado o art. 12.º-A ao presente diploma pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de
+    2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:316358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:347279:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553464:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:272073:por
+  label: Rectificado pela DECL.DD3228.1988.09.16.PCM, DR.IS [227]2ºSupl de 30/Set/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-272073
+  date: '1988-09-16'
+- type: repealed_by
+  target: pt:dre:544376:por
+  label: "Revogado, com excepção do nº 3 do seu artigo 9º e do art. 12º, pelo DEC LEI.11/2012.20.01.2012.PCM, DR.IS [15] de\
+    \ 20.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2012-544376
+  date: '2012-01-20'
 article_structure:
   article_count: 13
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:00Z'
   warnings: []
   errors: []
 ---
@@ -206,12 +258,12 @@ São revogados o [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detal
 
 Visto e aprovado em Conselho de Ministros de 3 de Junho de 1988. - Eurico Silva Teixeira de Melo - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Joaquim Fernando Nogueira - Eurico Silva Teixeira de Melo - António d'Orey Capucho - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda - Joaquim Martins Ferreira do Amaral - António Fernando Couto dos Santos.
 
-**Promulgado em 15 de Julho de 1988.**
+Promulgado em 15 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Julho de 1988.**
+Referendado em 18 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

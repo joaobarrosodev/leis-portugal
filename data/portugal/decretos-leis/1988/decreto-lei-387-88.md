@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24700/43354341.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,140 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1988-354114
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-04-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f923ded07ff8cfcfa588d5773b7132d999ac274297ebead2cdddd3185fc4379
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 69ea6e579a10e634bf7b853ee0ca27d7e238c812d82eec52513b0a99cdfcdeb7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- IAPMEI
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:520986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO PELO DEC LEI 285/91 DE 09-AGO DR.IS-A [182].
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-08-09'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:534596:por
+  label: "Alterados os arts. 7º e 10º pelo DEC LEI.129/99.1999.04.21.MECO, DR.IS-A [93]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/129-1999-534596
+  date: '1999-04-21'
+- type: amended_by
+  target: pt:dre:425883:por
+  label: "Transferida para a API as atribuições conferidas por Lei, em matéria de granfes projectos de investimento definidos\
+    \ no nº 2 do art. 5º dos estatutos anexos, no IAPMEI pelo DEC LEI.225/2002.2002.10.30.MECO, DR.IS-A [251]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/225-2002-425883
+  date: '2002-10-30'
+- type: amended_by
+  target: pt:dre:361880:por
+  label: "Alterados os arts. 4º, 5º e 7º, com a redacção dada pelo Dec Lei 129/99 de 21-Abr, e aditado um art. 36-ºA, pelo\
+    \ DEC LEI.35-A/2003.2003.02.27.MECO DR.IS-A [49]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/35-a-2003-361880
+  date: '2003-02-27'
+- type: amended_by
+  target: pt:dre:654681:por
+  label: "Extinto o Conselho Geral do IAPMEI pelo DEC LEI.186/2003.2003.08.20.MECO DR.IS-A [191]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-2003-654681
+  date: '2003-08-20'
+- type: amended_by
+  target: pt:dre:480912:por
+  label: "Alterado o art 3º pelo DEC LEI.191/2004.17.08.2004.MECO, DR.IS-A [193] de 17.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/191-2004-480912
+  date: '2004-08-17'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinado que competência para a definição das orientações estratégicas do Instituto, no que respeita aos centros\
+    \ de formalidades de empresas, bem como o acompanhamento da sua execução, seja exercida pelo Ministro da Economia e da\
+    \ Inovação em articulação com o Ministro de Estado e da Administração Interna, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545649:por
+  label: "Reestruturado o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento, criado pelo presente diploma,\
+    \ sendo as suas atribuições relativas aos Centros de Formalidades das Empresas e a estrutura de gestão da respectiva rede\
+    \ nacional transferidas para a Agência da Modernização Administrativa, I.P., no âmbito da Presidência do Conselho de Ministros,\
+    \ pelo DEC LEI.208/2006.27.10.2006.MEI, DR.IS [208] de 27.10.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/208-2006-545649
+  date: '2006-10-27'
+- type: amended_by
+  target: pt:dre:521024:por
+  label: "Determinado que a Agência para a Modernização Administrativa (AMA, IP)suceda nas atribuições do Instituto de Apoio\
+    \ às Pequenas e Médias Empresas e ao Investimento (IAPMEI), relativas aos centros de formalidades de empresas e à estrutura\
+    \ de gestão da respectiva rede nacional, cujas atribuições constam do presente diploma, pelo Dec Lei DEC LEI.116/2007.27.04.2007.PCM,\
+    \ DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2007-521024
+  date: '2007-04-27'
+- type: cites
+  target: pt:dre:159907:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182031:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417631:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520986:por
+  label: "Revogado, a partir de 01.05.2007, pelo DEC LEI.140/2007.27.04.2007.MEI, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2007-520986
+  date: '2007-04-27'
 article_structure:
   article_count: 38
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:01Z'
   warnings: []
   errors: []
 ---
@@ -492,12 +592,12 @@ São automaticamente transferidos para o Instituto de Apoio às Pequenas e Médi
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Fernando Manuel Barbosa Faria de Oliveira - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 12 de Outubro de 1988.**
+Promulgado em 12 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 15 de Outubro de 1988.**
+Referendado em 15 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

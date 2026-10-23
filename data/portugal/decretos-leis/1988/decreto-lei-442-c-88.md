@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 277/1988, 3º Suplemento, Série I de 1988-11-30
   number: '277'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 4754-(74) a 4754-(81)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27703/00740081.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,163 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-12T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 724acdb70d76f5040dbad81718f0448e203ce5e9c561703dba091b207ee9ab71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 42fb912615c4e4f2cb5dad258567d5f15875593550113da55042e040d1338d36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código da Contribuição Autárquica
+- Contribuição Autárquica
+- Lei Geral Tributária
+- Política Fiscal
 relationships:
 - type: amended_by
   target: pt:dre:447325:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:575357:por
+  label: "Alterados os arts. 10º, 12º, 17º e 22º do Código da Contribuição Autárquica pelo DEC LEI.211/90.27.06.1990.MF, DR.IS\
+    \ [146] de 27.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1990-575357
+  date: '1990-06-27'
+- type: amended_by
+  target: pt:dre:663340:por
+  label: "Alterado o art. 12º (na redacção do Dec Lei 211/90 de 27-Jun) e revogado o art. 11º, ambos do presente diploma,\
+    \ pelo DEC LEI.254/91.18.07.1991.MF, DR.IS-A [[163]] de 18.07.1991\091\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1991-663340
+  date: '1991-07-18'
+- type: amended_by
+  target: pt:dre:291941:por
+  label: "Alterados os artigos 12.º, 23.º e aditado o artigo 21.º-A ao Código pelo DEC LEI.140/92.17.07.1992.MF, DR.IS-A [163]\
+    \ de 17.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-1992-291941
+  date: '1992-07-17'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterados os artigos 10.º e 12.º do Código pela LEI.75/93.20.12.1993.AR, DR.IS-A [295]Supl de 20.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterados os arts. 6º, 10º, 12º e 16º do Código, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:462035:por
+  label: "Remetidas para a Direcção-Geral das Contribuições e Impostos as referências feitas ao Instituto Português de Cartografia\
+    \ e Cadastro no art. 28º do Código da Contribuição Autárquica pelo DEC LEI.172/95.18.07.1995.MPLAT, DR.IS-A [164] de 18.07.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1995-462035
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os arts. 10º, 20º, 21º-A, 23º, 28º, 31º e 32º do Código da Contribuição Autárquica, pela LEI.10-B/96.1996.03.23.AR,\
+    \ DR.IS-A [71]2ºSupl\0upl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:213804:por
+  label: "Alterado o art. 27º pelo DEC LEI.186/96.1996.09.27.MF, DR.IS-A [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1996-213804
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterada a redacção do art 16º do Código aprovado pelo presente diploma, pela LEI.52-C/96.1996.12.27.AR DR.IS-A\
+    \ [299]3ºSupl (OE 1997 - Art 45º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterado o art. 23º, pelo art. 41º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterada a redacção dos arts. 9.º e 12.º do Código da Contribuição Autárquica aprovado pelo presente diploma, pela\
+    \ Lei 87-B/98 da AR de 31-Dez DR.IS-A [301]5.ºSUPL (OE 1999 - Art. 40.º)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterada a redacção dos arts. 21º, 21º-A, 25º, 31º e 34º e aditados os arts. 23º-A e 55º ao Código da Contribuição\
+    \ Autárquica, aprovado pelo presente diploma, pelo DEC LEI.472/99.1999.11.08.MF, DR.IS-A [260]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "Alterado o nº 3 do art. 12º do Código da Contribuição Autárquica pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º\
+    \ Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:212013:por
+  label: "Alteradas as als b) e d) do nº 1 do art. 10º e aditada a al i) ao nº 1 do art. 14º do Código da Contribuição Autárquica\
+    \ pela LEI.30-C/2000.2000.12.29.AR,DR.IS-A [299]2º Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-2000-212013
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "Alterados os arts. 10º, 14º, 16º, 19º, 20º, 22º, 23º, 31º e 34º e revogado o art. 12º, todos do Código da Contribuição\
+    \ Autárquica, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A [298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: cites
+  target: pt:dre:356142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693241:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:428662:por
+  label: "Rectificado nº 1 do art. 45º da Lei 10-B/96, de 23-Mar, (na redacção dada ao nº 1 do art. 32º do Código aprovado\
+    \ pelo presente diploma), pela DECL-RECT.11/96.1996.06.17.AR, DR.IS-A [149] de 29/Jun/1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/11-1996-428662
+  date: '1996-06-17'
+- type: corrected_by
+  target: pt:dre:596725:por
+  label: "Rectificado o art. 5º do Dec Lei 472/99, de 08-Nov, na parte que altera a epígrafe do art. 21º do Código da Contribuição\
+    \ Autárquica aprovado pelopresente diploma, pela DECL-RECT.4-C/2000.31.01.2000.PCM, DR.IS-A [25-Supl] de 31.01.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-c-2000-596725
+  date: '2000-01-31'
+- type: repealed_by
+  target: pt:dre:447325:por
+  label: "Revogado, na parte ainda vigente, a partir da data da entrada em vigor do CIMI, o Código da Contribuição Autárquica,\
+    \ aprovado pelo presente diploma, considerando-se a contribuição autárquica substituída pelo imposto municipal sobre imóveis\
+    \ (IMI) para todos os efeitos legais e mantendo-se em vigor os benefícios fiscais relativos à contribuição autárquica\
+    \ agora reportados ao IMI, pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
 article_structure:
-  article_count: 35
+  article_count: 34
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:21Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +213,13 @@ de 30 de Novembro
 
 No uso da autorização legislativa concedida nos termos do artigo 37.º da [Lei n.º 106/88](https://diariodarepublica.pt/dr/detalhe/lei/106-1988-356142), de 17 de Setembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É aprovado o Código da Contribuição Autárquica, que faz parte integrante do presente decreto-lei.
+Artigo 1.º É aprovado o Código da Contribuição Autárquica, que faz parte integrante do presente decreto-lei.
 
-###### Art. 2.º O Código da Contribuição Autárquica entra em vigor em 1 de Janeiro de 1989.
+Art. 2.º O Código da Contribuição Autárquica entra em vigor em 1 de Janeiro de 1989.
 
-###### Art. 3.º As isenções temporárias que tenham sido concedidas ao abrigo de disposições do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, e demais legislação anterior ao presente diploma, manter-se-ão até à sua extinção, referidas à contribuição autárquica.
+Art. 3.º As isenções temporárias que tenham sido concedidas ao abrigo de disposições do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, e demais legislação anterior ao presente diploma, manter-se-ão até à sua extinção, referidas à contribuição autárquica.
 
-###### Art. 4.º Em relação aos prédios urbanos habitacionais construídos ou adquiridos para residência permanente do sujeito passivo ou do seu agregado familiar antes da entrada em vigor do Código da Contribuição Autárquica, proceder-se-á da seguinte forma:
+Art. 4.º Em relação aos prédios urbanos habitacionais construídos ou adquiridos para residência permanente do sujeito passivo ou do seu agregado familiar antes da entrada em vigor do Código da Contribuição Autárquica, proceder-se-á da seguinte forma:
 
 a) As situações pendentes serão apreciadas com base nas disposições do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola e demais legislação aplicável ou com base nas disposições do Código da Contribuição Autárquica, consoante o que resultar mais favorável para o requerente, considerando-se, no caso de deferimento, o prédio isento de contribuição predial pelo período decorrido desde o início da isenção até ao fim da vigência do respectivo Código e de contribuição autárquica pelo período restante;
 
@@ -104,27 +227,27 @@ b) No caso de a isenção já concedida ter duração inferior à que resultaria
 
 c) O disposto na alínea anterior é aplicável aos casos de indeferimento sempre que da aplicação das normas contidas no Código da Contribuição Autárquica possa ainda resultar para o sujeito passivo o benefício de um período de isenção.
 
-###### Art. 5.º As isenções de contribuição predial resultantes de acordo celebrado pelo Estado são mantidas na forma da respectiva lei, referidas à contribuição autárquica.
+Art. 5.º As isenções de contribuição predial resultantes de acordo celebrado pelo Estado são mantidas na forma da respectiva lei, referidas à contribuição autárquica.
 
-###### Art. 6.º - 1 - O valor tributável dos prédios urbanos, enquanto não for determinado de acordo com as regras do Código das Avaliações, será o que resultar da capitalização do rendimento colectável, actualizado com referência a 31 de Dezembro de 1988, através da aplicação do factor 15.
+Art. 6.º - 1 - O valor tributável dos prédios urbanos, enquanto não for determinado de acordo com as regras do Código das Avaliações, será o que resultar da capitalização do rendimento colectável, actualizado com referência a 31 de Dezembro de 1988, através da aplicação do factor 15.
 
 2 - O rendimento colectável dos prédios urbanos não arrendados, reportado a 31 de Dezembro de 1988, é desde já objecto de uma actualização provisória de 4% ao ano, cumulativo, com o limite máximo de 100%, desde a última avaliação ou actualização, não se considerando para o efeito a que resultou da aplicação do disposto no n.º 1 do artigo 69.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 28 de Janeiro.
 
-###### Art. 7.º - 1 - O valor tributável dos prédios rústicos, enquanto não for determinado de acordo com as regras do Código das Avaliações, será o que resultar da capitalização do rendimento colectável, actualizado com referência a 31 de Dezembro de 1988, através da aplicação do factor 20.
+Art. 7.º - 1 - O valor tributável dos prédios rústicos, enquanto não for determinado de acordo com as regras do Código das Avaliações, será o que resultar da capitalização do rendimento colectável, actualizado com referência a 31 de Dezembro de 1988, através da aplicação do factor 20.
 
 2 - O rendimento colectável dos prédios rústicos, reportado a 31 de Dezembro de 1988, é desde já objecto de uma actualização provisória de 2% ao ano, cumulativa, com o limite máximo de 100%, desde a última avaliação ou actualização, não se considerando para o efeito a que resultou da aplicação do disposto no n.º 1 do artigo 69.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 28 de Janeiro.
 
-###### Art. 8.º - 1 - Enquanto não entrar em vigor o Código das Avaliações, os prédios continuarão a ser avaliados segundo as correspondentes regras do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, determinando-se o seu valor tributável de acordo com o disposto nos n.os 1 dos artigos 6.º e 7.º do presente decreto-lei.
+Art. 8.º - 1 - Enquanto não entrar em vigor o Código das Avaliações, os prédios continuarão a ser avaliados segundo as correspondentes regras do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963, determinando-se o seu valor tributável de acordo com o disposto nos n.os 1 dos artigos 6.º e 7.º do presente decreto-lei.
 
 2 - No caso de terrenos para construção, o seu valor tributável será determinado por aplicação das regras contidas no Código da Sisa e do Imposto sobre as Sucessões e Doações.
 
-###### Art. 9.º Até à entrada em vigor da nova legislação que as regulamente, a organização e conservação das matrizes será feita por aplicação das correspondentes normas do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963.
+Art. 9.º Até à entrada em vigor da nova legislação que as regulamente, a organização e conservação das matrizes será feita por aplicação das correspondentes normas do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, aprovado pelo [Decreto-Lei n.º 45104](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45104-1963-693241), de 1 de Julho de 1963.
 
-###### Art. 10.º - 1 - Enquanto não entrar em vigor a legislação mencionada no artigo anterior, não serão enviadas as listas referidas no n.º 2 do artigo 22.º do Código da Contribuição Autárquica e o aviso para pagamento previsto no n.º 1 do mesmo artigo apenas conterá os elementos relativos ao valor tributável global dos prédios situados no mesmo município e respectiva colecta, devendo ser enviado até 15 de Março do ano seguinte àquele a que respeita a contribuição.
+Art. 10.º - 1 - Enquanto não entrar em vigor a legislação mencionada no artigo anterior, não serão enviadas as listas referidas no n.º 2 do artigo 22.º do Código da Contribuição Autárquica e o aviso para pagamento previsto no n.º 1 do mesmo artigo apenas conterá os elementos relativos ao valor tributável global dos prédios situados no mesmo município e respectiva colecta, devendo ser enviado até 15 de Março do ano seguinte àquele a que respeita a contribuição.
 
 2 - Caso o contribuinte necessite, para qualquer efeito, designadamente para documentar a dedução da contribuição autárquica à colecta do imposto sobre o rendimento das pessoas singulares ou do imposto sobre o rendimento das pessoas colectivas, prevista nos respectivos Códigos, solicitará, na repartição de finanças da área da situação dos prédios, a indicação dos elementos pretendidos, através de impresso de modelo aprovado, que lhe serão fornecidos no prazo máximo de dez dias.
 
-###### Art. 11.º - 1 - Os proprietários ou usufrutuários de prédios sem inscrição matricial, designadamente terrenos para construção, deverão requerê-la ao chefe da repartição de finanças da área da situação de tais prédios, até 30 de Agosto de 1989.
+Art. 11.º - 1 - Os proprietários ou usufrutuários de prédios sem inscrição matricial, designadamente terrenos para construção, deverão requerê-la ao chefe da repartição de finanças da área da situação de tais prédios, até 30 de Agosto de 1989.
 
 2 - O não cumprimento ou o cumprimento fora do prazo do disposto no número anterior será punido com multa de 10000$00 a 100000$00, a graduar conforme as circunstâncias.
 
@@ -134,21 +257,21 @@ c) O disposto na alínea anterior é aplicável aos casos de indeferimento sempr
 
 5 - O levantamento de autos de notícia por infracção ao disposto neste artigo depende de prévia autorização do director-geral das Contribuições e Impostos, que a concederá quando tenha havido culpa grave.
 
-###### Art. 12.º Os modelos de impressos exigidos para dar cumprimento às obrigações impostas pelo Código da Contribuição Autárquica serão aprovados por despacho do Ministro das Finanças.
+Art. 12.º Os modelos de impressos exigidos para dar cumprimento às obrigações impostas pelo Código da Contribuição Autárquica serão aprovados por despacho do Ministro das Finanças.
 
-###### Art. 13.º As modificações que de futuro se fizerem sobre matéria contida no Código da Contribuição Autárquica serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos inúteis ou pelo aditamento dos que forem necessários.
+Art. 13.º As modificações que de futuro se fizerem sobre matéria contida no Código da Contribuição Autárquica serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos inúteis ou pelo aditamento dos que forem necessários.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Novembro de 1988.**
+Promulgado em 30 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DA CONTRIBUIÇÃO AUTÁRQUICA
 

@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1988-354113
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 79f15cbb54f77b2209d1b7617f714589f13cd3126e8013223fad4a137a11a633
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db305f92ff409ac4d037221e3932b8e4294facfa3e5bf8ff9ce4f3a2146b1469
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Agricultura
+- Emparcelamento
+- Exploração Agrícola
+- Prédio Rústico
 relationships:
 - type: amended_by
   target: pt:dre:70128394:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:156585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163451:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274872:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666148:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:70128394:por
+  label: Revogado, a partir de 26.09.2015, pelo(a) Lei n.º 111/2015 - Diário da República n.º 167/2015, Série I de 2015-08-27
+    nos termos do art. 62.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/111-2015-70128394
+  date: '2015-08-27'
 article_structure:
   article_count: 25
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:01Z'
   warnings: []
   errors: []
 ---
@@ -348,12 +378,12 @@ São revogados a [Lei n.º 2116](https://diariodarepublica.pt/dr/detalhe/lei/211
 
 Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 10 de Outubro de 1988.**
+Promulgado em 10 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 14 de Outubro de 1988.**
+Referendado em 14 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

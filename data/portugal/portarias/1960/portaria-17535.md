@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17535-1960-277341
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65e0d5a7936cc542547955633812c63d33aa7b6f36f0d20ce1974a4df08e9613
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78dbbeeded24e6327b586d082753def30760d69e6a80e25b41cf71dbb672cbfa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:282544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397136:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635429:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:47Z'
   warnings: []
   errors: []
 ---
@@ -159,7 +179,7 @@ Para ser publicada no Boletim Oficial de Timor. - Carlos Abecasis.
 
 Quadro a que se refere o n.º 8.º da Portaria n.º 17535
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/01/01100/00510052.pdf))](https://files.diariodarepublica.pt/1s/1960/01/01100/00510052.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/01/01100/00510052.pdf)
 
 Nota. - As letras inscritas na primeira coluna, referenciando as categorias, destinam-se apenas à atribuição dos vencimentos metropolitanos.
 

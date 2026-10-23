@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1988-357728
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9272b192d8bceb02b48255c531900ae3569e6d073de1165bc68c8922e4a75ef4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8838a33180827ded2a8a7b321e79ffde6b30bd84c0e392f9f4d498f953f4580b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Pública
+- Comissão para a Igualdade no Trabalho e no Emprego
+- Definição de Competências
+- Discriminação Sexual
+- Igualdade de Tratamento
+- Luta contra a Discriminação
+- Mulher Trabalhadora
+relationships:
+- type: cites
+  target: pt:dre:369814:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:56Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +109,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O presente diploma tem por objectivo garantir a igualdade de oportunidade e tratamento na admissão e no exercício de funções públicas, como consequência do princípio da igualdade e do direito ao trabalho consagrado na Constituição.
+Artigo 1.º O presente diploma tem por objectivo garantir a igualdade de oportunidade e tratamento na admissão e no exercício de funções públicas, como consequência do princípio da igualdade e do direito ao trabalho consagrado na Constituição.
 
-###### Art. 2.º O disposto no presente diploma é aplicável aos funcionários e agentes da administração directa e indirecta do Estado, à administração autónoma regional ou local e às instituições de previdência social.
+Art. 2.º O disposto no presente diploma é aplicável aos funcionários e agentes da administração directa e indirecta do Estado, à administração autónoma regional ou local e às instituições de previdência social.
 
-###### Art. 3.º Para efeitos de aplicação do presente diploma, entende-se por:
+Art. 3.º Para efeitos de aplicação do presente diploma, entende-se por:
 
 a) Exercício de funções públicas: o exercício de funções nas entidades referidas no artigo 2.º, sob a orientação e direcção dos órgãos respectivos;
 
@@ -114,47 +125,47 @@ d) Trabalho igual: trabalho em que são iguais ou de natureza objectivamente sem
 
 e) Trabalho de valor igual: trabalho em que as funções ou os cargos exercidos, embora de forma diversa, são considerados equivalentes em resultado da aplicação de critérios objectivos de avaliação de funções.
 
-###### Art. 4.º - 1 - O direito ao trabalho implica a ausência de qualquer discriminação baseada no sexo, quer directa, quer indirecta, nomeadamente pela referência ao estado civil ou à situação familiar.
+Art. 4.º - 1 - O direito ao trabalho implica a ausência de qualquer discriminação baseada no sexo, quer directa, quer indirecta, nomeadamente pela referência ao estado civil ou à situação familiar.
 
 2 - Não são consideradas discriminatórias as disposições de carácter temporário que estabeleçam uma preferência em razão do sexo, imposta pela necessidade de corrigir uma desigualdade do facto, bem como as medidas que visem proteger a maternidade enquanto valor social.
 
 3 - Os serviços, organismos e entidades referidos no artigo 2.º devem assegurar aos trabalhadores do sexo feminino as mesmas oportunidades e o mesmo tratamento concedidos aos trabalhadores do sexo masculino, no que se refere às condições de trabalho, orientação e formação profissional.
 
-###### Art. 5.º Com excepção do disposto no artigo 8.º e no n.º 3 do artigo 9.º, são nulas as disposições regulamentares e os actos administrativos que limitem por qualquer forma o acesso das mulheres ao exercício de quaisquer funções ou cargos públicos.
+Art. 5.º Com excepção do disposto no artigo 8.º e no n.º 3 do artigo 9.º, são nulas as disposições regulamentares e os actos administrativos que limitem por qualquer forma o acesso das mulheres ao exercício de quaisquer funções ou cargos públicos.
 
-###### Art. 6.º - 1 - É assegurada igualdade de remuneração entre os trabalhadores do sexo masculino e do sexo feminino por um trabalho igual ou de valor igual.
+Art. 6.º - 1 - É assegurada igualdade de remuneração entre os trabalhadores do sexo masculino e do sexo feminino por um trabalho igual ou de valor igual.
 
 2 - As variações de remuneração efectiva não constituem discriminação se assentes em critérios objectivos de atribuição, comuns a homens e a mulheres.
 
 3 - Os sistemas de descrições de tarefas e de avaliação de funções devem assentar em critérios objectivos comuns a homens e a mulheres, de forma a excluir qualquer discriminação baseada no sexo.
 
-###### Art. 7.º - 1 - É garantido aos trabalhadores do sexo feminino, nas mesmas condições que aos do sexo masculino, o desenvolvimento de uma carreira profissional que lhes permita atingir o mais elevado nível hierárquico.
+Art. 7.º - 1 - É garantido aos trabalhadores do sexo feminino, nas mesmas condições que aos do sexo masculino, o desenvolvimento de uma carreira profissional que lhes permita atingir o mais elevado nível hierárquico.
 
 2 - O direito reconhecido no número anterior estende-se ao preenchimento de lugares de direcção e chefia e a mudança de carreira profissional.
 
-###### Art. 8.º - 1 - São proibidos ou condicionados os trabalhos que, por diploma legal, sejam considerados como implicando riscos efectivos ou potenciais para a função genética.
+Art. 8.º - 1 - São proibidos ou condicionados os trabalhos que, por diploma legal, sejam considerados como implicando riscos efectivos ou potenciais para a função genética.
 
 2 - As disposições legais, regulamentares ou administrativas previstas no número anterior devem ser revistas periodicamente em função do progresso dos conhecimentos científicos e técnicos, a fim de serem actualizadas.
 
-###### Art. 9.º - 1 - Os avisos dos concursos de ingresso e de acesso e os anúncios de ofertas de emprego e outras formas de publicidade ligada à pré-selecção e ao recrutamento não podem conter, directa ou indirectamente, qualquer restrição, especificação ou preferência baseada no sexo.
+Art. 9.º - 1 - Os avisos dos concursos de ingresso e de acesso e os anúncios de ofertas de emprego e outras formas de publicidade ligada à pré-selecção e ao recrutamento não podem conter, directa ou indirectamente, qualquer restrição, especificação ou preferência baseada no sexo.
 
 2 - O recrutamento far-se-á exclusivamente com base em critérios objectivos, não sendo permitida a formulação de exigências físicas que não tenham relação com as funções a exercer ou com as condições do seu exercício.
 
 3 - Não constitui discriminação o facto de se condicionar o recrutamento a um ou outro sexo quando tal seja essencial à natureza das funções ou cargos a exercer, tornando-os qualitativamente diferentes quando prestados por um homem ou por uma mulher.
 
-###### Art. 10.º Compete ao trabalhador ou trabalhadora que alegue a discriminação fundamentar tal alegação por referência ao trabalhador ou trabalhadora em relação ao qual se considera discriminado, incumbindo à entidade a quem presta serviço provar que as diferenças de estatuto efectivo assentam em factos diversos do sexo.
+Art. 10.º Compete ao trabalhador ou trabalhadora que alegue a discriminação fundamentar tal alegação por referência ao trabalhador ou trabalhadora em relação ao qual se considera discriminado, incumbindo à entidade a quem presta serviço provar que as diferenças de estatuto efectivo assentam em factos diversos do sexo.
 
-###### Art. 11.º - 1 - Compete aos trabalhadores objecto de discriminação interpor as acções necessárias para assegurar os respectivos direitos.
+Art. 11.º - 1 - Compete aos trabalhadores objecto de discriminação interpor as acções necessárias para assegurar os respectivos direitos.
 
 2 - Os trabalhadores e candidatos ao ingresso na função pública podem reclamar ou recorrer, nos termos da lei, dos actos dos órgãos das entidades referidas no artigo 2.º que considerem discriminatórios em face das garantias concedidas pelo presente diploma.
 
 3 - Os direitos de acção, reclamação e recurso a que se referem os números anteriores podem ser exercidos pelo trabalhador que se considere discriminado ou, se este assim o entender, pela associação sindical que o representante, nos termos da lei processual aplicável.
 
-###### Art. 12.º - 1 - É vedado a qualquer entidade proceder disciplinarmente, aplicar sanções ou por qualquer outra forma prejudicar um trabalhador por motivo de este haver reclamado, recorrido ou intentado acção alegando discriminação.
+Art. 12.º - 1 - É vedado a qualquer entidade proceder disciplinarmente, aplicar sanções ou por qualquer outra forma prejudicar um trabalhador por motivo de este haver reclamado, recorrido ou intentado acção alegando discriminação.
 
 2 - Serão sujeitos a procedimento disciplinar os dirigentes e trabalhadores cuja actuação tiver sido julgada discriminatória nos termos do presente diploma.
 
-###### Art. 13.º - 1 - Compete à Comissão para a Igualdade no Trabalho e no Emprego promover a execução das disponibilidades constantes do presente diploma, bem como recomendar ao membro do Governo que tiver a sua cargo a função pública a adopção de medidas legislativas, regulamentares e administrativas, tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma.
+Art. 13.º - 1 - Compete à Comissão para a Igualdade no Trabalho e no Emprego promover a execução das disponibilidades constantes do presente diploma, bem como recomendar ao membro do Governo que tiver a sua cargo a função pública a adopção de medidas legislativas, regulamentares e administrativas, tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma.
 
 2 - À Comissão competirá, ainda, emitir parecer, em matérias de igualdade no trabalho e no emprego na função pública, sempre que solicitada pelo departamento governamental que tiver a seu cargo a função pública ou por qualquer outro departamento de Estado, ou ainda pelas associações sindicais representativas dos trabalhadores.
 
@@ -162,7 +173,7 @@ e) Trabalho de valor igual: trabalho em que as funções ou os cargos exercidos,
 
 4 - Quando as entidades referidas no artigo 2.º tiverem fundadas dúvidas quanto à eventual existência de uma situação ou prática discriminatória, bem como em todos os casos de reclamação, recurso ou acção previstos no artigo 12.º, será obrigatoriamente ouvida a Comissão para a Igualdade no Trabalho e no Emprego, que sobre a matéria emitirá parecer.
 
-###### Art. 14.º - 1 - A Comissão para a Igualdade no Trabalho e no Emprego passa a ter a seguinte constituição:
+Art. 14.º - 1 - A Comissão para a Igualdade no Trabalho e no Emprego passa a ter a seguinte constituição:
 
 a) Dois representantes do Ministério do Emprego e da Segurança Social, um dos quais presidirá;
 
@@ -184,9 +195,9 @@ f) Dois representantes das associações patronais.
 
 5 - O regulamento de funcionamento da Comissão será aprovado por despacho conjunto do Ministro do Emprego e da Segurança Social e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 15.º O artigo 15.º do [Decreto-Lei n.º 392/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1979-369814), de 20 de Setembro, passa a ter a seguinte redacção:
+Art. 15.º O artigo 15.º do [Decreto-Lei n.º 392/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1979-369814), de 20 de Setembro, passa a ter a seguinte redacção:
 
-###### Art. 15.º - 1 - Compete à comissão para a Igualdade no Trabalho e no Emprego:
+Art. 15.º - 1 - Compete à comissão para a Igualdade no Trabalho e no Emprego:
 
 a) Recomendar ao ministro responsável pelo sector do trabalho a adopção de providências legislativas, regulamentares e administrativas tendentes a aperfeiçoar a aplicação das normas consignadas no presente diploma;
 
@@ -210,16 +221,16 @@ h) Assegurar o expediente, superintender nos respectivos serviços e, em geral, 
 
 4 - Em matéria de emprego, a Comissão deverá articular as suas acções com o Conselho Nacional do Plano.
 
-###### Art. 16.º São revogados os n.os 2 a 5 do artigo 14.º do [Decreto-Lei n.º 392/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1979-369814), de 20 de Setembro.
+Art. 16.º São revogados os n.os 2 a 5 do artigo 14.º do [Decreto-Lei n.º 392/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1979-369814), de 20 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José Albino da Silva Peneda.
 
-**Promulgado em 5 de Novembro de 1988.**
+Promulgado em 5 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Novembro de 1988.**
+Referendado em 9 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1988-357136
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67216d44d4792eceabf74c4b0e36043788fd6906d191d49aca58ffc8609dd2e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4d0ccd794cfa81746173137f475c9f09797db894201535b60e88ba03f6b1d5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Reforma Aduaneira
+- Regulamento
+- Regulamento das Alfândegas
+relationships:
+- type: cites
+  target: pt:dre:469185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:26Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +105,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. Os artigos 9.º, 59.º, 66.º, 102.º e 113.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
+Artigo único. Os artigos 9.º, 59.º, 66.º, 102.º e 113.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ter a seguinte redacção:
 
-###### Art. 9.º No prazo de 24 horas a contar da chegada das embarcações ao porto, os capitães ou mestres das referidas embarcações entregarão no serviço aduaneiro competente:
+Art. 9.º No prazo de 24 horas a contar da chegada das embarcações ao porto, os capitães ou mestres das referidas embarcações entregarão no serviço aduaneiro competente:
 
 1.º Declaração donde conste:
 
@@ -171,15 +179,15 @@ Das cópias dos conhecimentos aludidos no n.º 2.º devem constar, designadament
 
 § 8.º A documentação prescrita neste artigo será entregue, em Lisboa e Porto, na 1.ª Secção da respectiva Alfândega.
 
-###### Art. 59.º Quatro dias após a concessão do alvará de saída deverão os armadores, seus agentes ou representantes, apresentar cópia dos manifestos da carga carregada, em língua portuguesa, com a designação dos carregadores e consignatários.
+Art. 59.º Quatro dias após a concessão do alvará de saída deverão os armadores, seus agentes ou representantes, apresentar cópia dos manifestos da carga carregada, em língua portuguesa, com a designação dos carregadores e consignatários.
 
 § único. As estâncias aduaneiras verificarão se as indicações exaradas nas cópias dos manifestos conferem com as que figuram nas guias dos despachos, sendo consideradas como transgressões fiscais as divergências que se verificarem, salvo quando relevadas pelos chefes das estâncias aduaneiras respectivas.
 
-###### Art. 66.º As bagagens dos oficiais, sargentos e praças dos navios de guerra vindos dos portos do estrangeiro, bem como quaisquer objectos sujeitos a direitos vindos a bordo, deverão ser apresentados na estância aduaneira mais próxima, onde se procederá à sua revisão.
+Art. 66.º As bagagens dos oficiais, sargentos e praças dos navios de guerra vindos dos portos do estrangeiro, bem como quaisquer objectos sujeitos a direitos vindos a bordo, deverão ser apresentados na estância aduaneira mais próxima, onde se procederá à sua revisão.
 
 § único. O disposto no corpo deste artigo é extensivo às bagagens e outros objectos dos passageiros que eventualmente sejam conduzidos nos navios de guerra.
 
-###### Art. 102.º Com a declaração referida no artigo antecedente apresentará o comandante os seguintes documentos:
+Art. 102.º Com a declaração referida no artigo antecedente apresentará o comandante os seguintes documentos:
 
 1.º Manifesto, de cada procedência, da carga embarcada, com designação dos respectivos destinos, acompanhado, quanto à carga desembarcada no aeroporto, das declarações para as alfândegas ou dos duplicados das cartas de porte.
 
@@ -199,7 +207,7 @@ e) Os documentos de origem que acompanham as mercadorias.
 
 § 2.º Quando a aeronave não transporte mercadorias, apresentará manifesto negativo.
 
-###### Art. 113.º Antes da saída, o comandante da aeronave apresentará à respectiva estância aduaneira:
+Art. 113.º Antes da saída, o comandante da aeronave apresentará à respectiva estância aduaneira:
 
 1.º O diário de bordo;
 
@@ -211,12 +219,12 @@ e) Os documentos de origem que acompanham as mercadorias.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 16 de Novembro de 1988.**
+Promulgado em 16 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Novembro de 1988.**
+Referendado em 17 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1988-358755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c507d0fec75fe03d19a693ee050dcfb46d737b6c98dba9e2c491cea8348f7a34
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28eb376153269b9d996591d6f3e6f37e9c10f90cae3cc28c88760d52aceec6bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- DIA Nacional do Estudante
+- Estudante
+relationships:
+- type: cites
+  target: pt:dre:420231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421862:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:21Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +102,17 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 19/87](https://diariodarepublica.pt/dr/detalhe/lei/19-1987-421862), de 1 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma regulamenta a [Lei n.º 19/87](https://diariodarepublica.pt/dr/detalhe/lei/19-1987-421862), de 1 de Junho, que consagra o dia 24 de Março como o Dia Nacional do Estudante.
+Artigo 1.º - 1 - O presente diploma regulamenta a [Lei n.º 19/87](https://diariodarepublica.pt/dr/detalhe/lei/19-1987-421862), de 1 de Junho, que consagra o dia 24 de Março como o Dia Nacional do Estudante.
 
 2 - No dia 24 de Março, Dia Nacional do Estudante, o período normal de aulas pode ser preenchido com actividades inseridas nas respectivas comemorações.
 
-###### Art. 2.º - 1 - Compete às associações de estudantes, designadas por AAEE nos termos da [Lei n.º 33/87](https://diariodarepublica.pt/dr/detalhe/lei/33-1987-420231), de 11 de Julho, promover as comemorações para o Dia Nacional do Estudante.
+Art. 2.º - 1 - Compete às associações de estudantes, designadas por AAEE nos termos da [Lei n.º 33/87](https://diariodarepublica.pt/dr/detalhe/lei/33-1987-420231), de 11 de Julho, promover as comemorações para o Dia Nacional do Estudante.
 
 2 - As escolas que não tenham AAEE são representadas para efeitos do disposto no número anterior por uma comissão de cinco alunos, eleitos por maioria simples em assembleia de delegados de turma expressamente convocada para o efeito.
 
 3 - A assembleia referida no número anterior deve realizar-se até 31 de Dezembro de cada ano.
 
-###### Art. 3.º - 1 - Os órgãos de gestão da escola devem apoiar as acções a desenvolver para as comemorações do Dia Nacional do Estudante através de, nomeadamente:
+Art. 3.º - 1 - Os órgãos de gestão da escola devem apoiar as acções a desenvolver para as comemorações do Dia Nacional do Estudante através de, nomeadamente:
 
 a) Cedência de instalações;
 
@@ -112,7 +122,7 @@ c) Cedência de equipamento.
 
 2 - O tipo de instalações, material e equipamento a ceder pelos órgãos de gestão das escolas é por estes determinado tendo em conta as disponibilidades das mesmas e as acções a desenvolver.
 
-###### Art. 4.º - 1 - Até 31 de Outubro de cada ano deve ser nomeada uma comissão para as comemorações do Dia do Estudante, adiante designada por CCDE, à qual compete:
+Art. 4.º - 1 - Até 31 de Outubro de cada ano deve ser nomeada uma comissão para as comemorações do Dia do Estudante, adiante designada por CCDE, à qual compete:
 
 a) Coordenar e acompanhar as acções a desenvolver para as comemorações do Dia Nacional do Estudante;
 
@@ -128,7 +138,7 @@ e) Avaliar as acções a desenvolver.
 
 3 - A CCDE deve apresentar aos membros do Governo referidos no número anterior um relatório de actividades até 60 dias após a realização das acções.
 
-###### Art. 5.º - 1 - O apoio a conceder para as comemorações do Dia Nacional do Estudante é da responsabilidade do Ministro da Educação e do membro do Governo responsável pela área da juventude, podando revestir as seguintes formas:
+Art. 5.º - 1 - O apoio a conceder para as comemorações do Dia Nacional do Estudante é da responsabilidade do Ministro da Educação e do membro do Governo responsável pela área da juventude, podando revestir as seguintes formas:
 
 a) Apoio técnico e material;
 
@@ -150,9 +160,9 @@ d) Outras fontes de financiamento.
 
 5 - Até 31 de Janeiro de cada ano deve a CCDE remeter às entidades referidas no n.º 1 os pedidos de apoio financeiro, acompanhados do respectivo parecer, devendo a decisão sobre a concessão do apoio ser comunicada aos interessados até 30 dias antes da realização das acções.
 
-###### Art. 6.º As entidades apoiadas obrigam-se a apresentar à OCDE, até 30 dias após as comemorações, um relatório sobre a execução das acções, justificando a aplicação dos apoios concedidos.
+Art. 6.º As entidades apoiadas obrigam-se a apresentar à OCDE, até 30 dias após as comemorações, um relatório sobre a execução das acções, justificando a aplicação dos apoios concedidos.
 
-###### Art. 7.º - 1 - A nível nacional e distrital são instituídos prémios anuais para os melhores trabalhos escritos sobre temática estudantil.
+Art. 7.º - 1 - A nível nacional e distrital são instituídos prémios anuais para os melhores trabalhos escritos sobre temática estudantil.
 
 2 - O prémio atribuído ao melhor trabalho de âmbito nacional resulta da selecção dos melhores trabalhos apresentados a nível distrital.
 
@@ -166,12 +176,12 @@ d) Outras fontes de financiamento.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro - António Fernando Couto dos Santos.
 
-**Promulgado em 27 de Outubro de 1988.**
+Promulgado em 27 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Outubro de 1988.**
+Referendado em 28 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

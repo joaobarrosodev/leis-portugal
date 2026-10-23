@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 283/1988, 1º Suplemento, Série I de 1988-12-09
   number: '283'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4882-(2) a 4882-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28301/00020002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-a-1988-346711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 95caf16a4bad096b6d103a21c6fc93e16575bf004764cc19ef9eea6b4f85fea1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9fd186d38c628787bca2c755aa6409f19fae894d3b6e8e10ada0b1563b1e7a8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ALTA Autoridade contra a Corrupção
+- Autorização de Despesas
+- Corrupção
+- Gabinete Governamental
+- Gratificação
+- Livre Trânsito
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660292:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:36Z'
   warnings: []
   errors: []
 ---
@@ -97,30 +129,30 @@ Reformula-se, simultaneamente, em consequência das disposições legais vigente
 
 Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 1.º e 3.º do [Decreto-Lei n.º 327/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1984-399993), de 12 de Outubro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º e 3.º do [Decreto-Lei n.º 327/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1984-399993), de 12 de Outubro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - É aplicável à Alta Autoridade contra a Corrupção o disposto nos artigos 1.º a 9.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, na parte referente aos gabinetes dos ministros.
+Artigo 1.º - 1 - É aplicável à Alta Autoridade contra a Corrupção o disposto nos artigos 1.º a 9.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, na parte referente aos gabinetes dos ministros.
 
 2 - A designação em comissão de serviço de magistrados judiciais e do Ministério Público para exercer funções na Alta Autoridade contra a Corrupção não determina a abertura de vaga no lugar de origem.
 
-###### Art. 3.º O Alto-Comissário contra a Corrupção pode autorizar as despesas referidas no [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, dentro dos limites estabelecidos para os ministros.
+Art. 3.º O Alto-Comissário contra a Corrupção pode autorizar as despesas referidas no [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho, dentro dos limites estabelecidos para os ministros.
 
-###### Art. 2.º - 1 - O cartão de identificação especial a que se refere o n.º 7 do artigo 12.º da [Lei n.º 45/86](https://diariodarepublica.pt/dr/detalhe/lei/45-1986-221701), de 1 de Outubro, é o constante do modelo anexo ao presente diploma, de que faz parte integrante.
+Art. 2.º - 1 - O cartão de identificação especial a que se refere o n.º 7 do artigo 12.º da [Lei n.º 45/86](https://diariodarepublica.pt/dr/detalhe/lei/45-1986-221701), de 1 de Outubro, é o constante do modelo anexo ao presente diploma, de que faz parte integrante.
 
 2 - São revogados o artigo 12.º do [Decreto Regulamentar n.º 3/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-1984-660292), de 12 de Janeiro, e os modelos anexos ao mesmo diploma legal.
 
 Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 9 de Dezembro de 1988.**
+Promulgado em 9 de Dezembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 9 de Dezembro de 1988.**
+Referendado em 9 de Dezembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Modelo do cartão a que se refere o artigo 2.º, n.º 1, do Decreto-Lei n.º 446-A/88, de 9 de Dezembro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/28301/00020002.pdf))](https://files.diariodarepublica.pt/1s/1988/12/28301/00020002.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/28301/00020002.pdf)

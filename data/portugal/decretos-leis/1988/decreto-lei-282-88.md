@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/08/18600/33503356.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-03-27T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4d7dee90adc78e6808e42dff1267fe0f7dfcc5d89fd7b4d097050b67b76a565
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e887ce08c08cf0b6a88e203e52097801d4dbea6117eedf6f37f168d2a8b1eaf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Consultiva do Mercado da Carne de Aves
+- Comissão Consultiva do Mercado da Carne de Bovino
+- Comissão Consultiva do Mercado da Carne de Suíno
+- Comissão Consultiva do Mercado da Carne dos Pequenos Ruminantes
+- Comissão Consultiva do Mercado dos Ovos
+- Comissão de Fiscalização
+- Comissão Permanente da Produção Comercialização e Industrialização da Batata
+- Comissão Permanente da Produção e Comercialização da Banana
+- Comissão Permanente da Produção e Comercialização do Ananás
+- Comissão Permanente da Produção Transformação e Comércio do Tomate
+- Comissão Permanente de Abastecimento de Leite e Lacticínios
+- Conselho Consultivo da Produção e Comercialização da Banana
+- Conselho Consultivo da Produção e Comercialização do Ananás
+- Conselho Diretivo
+- Estatuto
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Inspeção Geral de Finanças
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Iroma
+- Orgânica
+- Organismo de Intervenção do Açúcar
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:198118:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620726:por
+  label: Tornadas extensivas às Regiões Autónomas dos Açores e da Madeira as atribuições e competências constantes dos artigos
+    4.º, 5.º e 6.º do presente diploma pelo DEC LEI.199/89.22.06.1989.MF, DR.IS [[141]] de 22.06.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/199-1989-620726
+  date: '1989-06-22'
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Transferidas para a DGMAIAA todas as atribuições e competências no domínio da gestão dos mercados agrícolas e da
+    concepção, proposta e elaboração dos respectivos mecanismos de orientação, regularização e organização que haviam sido
+    conferidas ao IROMA e posteriormente ao INGA (cujo estatuto foi aprovado pelo presente diploma, e com a orgânica constante
+    do DR 9/89 de 31-mar), por qualquer disposição legal ou administrativa, incluindo aquelas que, neste mesmo âmbito, haviam
+    anteriormente sido conferidas aos extintos organismos de coordenação económica (Junta Nacional dos Produtos Pecuários,
+    Junta Nacional das Frutas, e Insituto do Azeite e Produtos Oleaginosos) pelo DEC LEI 56/90.13.02.1990.MAPA, DR.IS [37]
+    de 13.02.1990, que alterou artigos 4.º, 5.º, 6.º e 26.º do presente diploma, e determinou a revogação, com a entrada em
+    vigor da regulamentação prevista no seu art. 3.º, da al. c) do art. 4.º, as als. g) e h) do art. 5.º, as als. b), c),
+    d) e l) do art. 6.º, al. b) do art. 7.º, os arts. 12.º e 13.º, nºs 1 e 6 do art. 26.º e o art. 27.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:460999:por
+  label: "Alterados os arts. 4.º, 5.º, 6.º e o nº 1 do art. 14.º pelo DEC LEI.331-B/95.1995.12.22.MF, DR.IS-A [294]2ºSupl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/331-b-1995-460999
+  date: '1995-12-22'
+- type: repealed_by
+  target: pt:dre:198118:por
+  label: "Revogado pelo DEC LEI.78/98.1998.03.27.MADRP, DR.IS-A [73], com as alterações introduzidas pelo Dec Lei 56/90 de\
+    \ 13-Fev e Dec Lei 331-B/95 de 22-Dez\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/78-1998-198118
+  date: '1998-03-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:25Z'
   warnings: []
   errors: []
 ---
@@ -110,15 +166,15 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Denominação, natureza, sede e delegações
 
-###### Artigo 1.º - 1 - O INGA - Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, é um instituto público dotado de personalidade jurídica, de património próprio e de autonomia administrativa e financeira.
+Artigo 1.º - 1 - O INGA - Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, é um instituto público dotado de personalidade jurídica, de património próprio e de autonomia administrativa e financeira.
 
 2 - O INGA fica sob tutela conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 2.º - 1 - Para efeitos do disposto no n.º 2 do artigo anterior, a tutela do Ministro das Finanças é exercida através da análise e aprovação dos orçamentos anuais, e ainda do controle mensal da execução dos mesmos, nomeadamente no que respeita ao financiamento do INGA e respectivas modalidades.
+Art. 2.º - 1 - Para efeitos do disposto no n.º 2 do artigo anterior, a tutela do Ministro das Finanças é exercida através da análise e aprovação dos orçamentos anuais, e ainda do controle mensal da execução dos mesmos, nomeadamente no que respeita ao financiamento do INGA e respectivas modalidades.
 
 2 - Sem prejuízo do disposto no artigo 19.º, a tutela do Ministro da Agricultura, Pescas e Alimentação é exercida sobre os actos relacionados com a gestão corrente do INGA, nomeadamente com a definição e execução das acções empreendidas no domínio da regularização e organização dos mercados agrícolas em aplicação dos mecanismos e instrumentos previstos nas organizações nacionais e comunitárias de mercado.
 
-###### Art. 3.º - 1 - O INGA tem sede em Lisboa.
+Art. 3.º - 1 - O INGA tem sede em Lisboa.
 
 2 - O INGA pode ter delegações, agências ou qualquer outra forma de representação no território nacional, sem prejuízo da coordenação da sua acção com os serviços das direcções regionais de agricultura, sob proposta do conselho directivo do INGA.
 
@@ -126,7 +182,7 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO II — Atribuições e competências
 
-###### Art. 4.º No quadro das políticas agrícolas nacional e comunitária, o INGA tem por fins:
+Art. 4.º No quadro das políticas agrícolas nacional e comunitária, o INGA tem por fins:
 
 a) A orientação, regularização e organização dos mercados agrícolas mediante a gestão e aplicação dos mecanismos e instrumentos previstos nas organizações de mercado a que se encontram submetidos os produtos agrícolas, pecuários e da pesca;
 
@@ -134,7 +190,7 @@ b) O financiamento, mediante a utilização de recursos nacionais e comunitário
 
 c) A análise e tratamento da informação sobre os mercados agrícolas e pecuários.
 
-###### Art. 5.º - 1 - O INGA prossegue ainda as seguintes atribuições:
+Art. 5.º - 1 - O INGA prossegue ainda as seguintes atribuições:
 
 a) Colaboração na gestão dos mercados agrícolas e pecuários ao nível nacional e comunitário, nos termos definidos pelas respectivas organizações de mercado, através da aplicação dos correspondentes instrumentos de orientação e regularização;
 
@@ -154,7 +210,7 @@ h) Integração institucional das organizações representativas dos agentes eco
 
 2 - No desempenho das suas atribuições, o INGA actuará de modo concertado e articulado com as direcções regionais de agricultura e as demais entidades públicas e privadas intervenientes no sector agrícola.
 
-###### Art. 6.º Para a prossecução das suas atribuições, compete aos órgãos do INGA:
+Art. 6.º Para a prossecução das suas atribuições, compete aos órgãos do INGA:
 
 a) Assegurar a aplicação de todos os instrumentos de orientação, regularização e organização dos mercados agrícolas e pecuários previstos nas organizações nacionais e comuns de mercado;
 
@@ -180,7 +236,7 @@ l) Proceder à análise e tratamento da informação recebida, tendo em atençã
 
 ### CAPÍTULO III — Órgãos
 
-###### Art. 7.º São órgãos do INGA:
+Art. 7.º São órgãos do INGA:
 
 a) O conselho directivo;
 
@@ -190,7 +246,7 @@ c) A comissão de fiscalização.
 
 #### SECÇÃO I — Conselho directivo
 
-###### Art. 8.º - 1 - O conselho directivo do INGA é constituído por um presidente e por um mínimo de dois e um máximo de quatro vogais, considerando-se validamente constituído desde que esteja nomeada a maioria dos seus membros.
+Art. 8.º - 1 - O conselho directivo do INGA é constituído por um presidente e por um mínimo de dois e um máximo de quatro vogais, considerando-se validamente constituído desde que esteja nomeada a maioria dos seus membros.
 
 2 - O presidente é nomeado por despacho conjunto do Primeiro-Ministro e dos ministros da tutela.
 
@@ -202,7 +258,7 @@ c) A comissão de fiscalização.
 
 6 - A cessação do mandato do presidente implica a cessação simultânea dos mandatos dos vogais.
 
-###### Art. 9.º Compete ao conselho directivo:
+Art. 9.º Compete ao conselho directivo:
 
 a) Submeter à aprovação do Governo os planos de actividades, o orçamento, o relatório e a conta de gerência do INGA;
 
@@ -222,11 +278,11 @@ h) Representar o INGA em juízo e fora dele, activa ou passivamente, podendo tra
 
 i) Gerir e praticar os demais actos referentes às atribuições e competências do INGA.
 
-###### Art. 10.º - 1 - O conselho directivo do INGA reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de outro dos seus membros.
+Art. 10.º - 1 - O conselho directivo do INGA reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de outro dos seus membros.
 
 2 - As deliberações do conselho serão tomadas por maioria simples dos votos dos seus membros, tendo o presidente, ou quem o substitua, voto de qualidade.
 
-###### Art. 11.º - 1 - Compete especialmente ao presidente do INGA:
+Art. 11.º - 1 - Compete especialmente ao presidente do INGA:
 
 a) Convocar, presidir e dirigir as reuniões do conselho directivo;
 
@@ -240,13 +296,13 @@ b) Assegurar as relações do INGA com o Governo e com os demais serviços da Ad
 
 #### SECÇÃO II — Comissões consultivas de mercado
 
-###### Art. 12.º - 1 - As CCM são órgãos consultivos do conselho directivo relativamente ao funcionamento de cada uma das organizações nacionais e comuns de mercado.
+Art. 12.º - 1 - As CCM são órgãos consultivos do conselho directivo relativamente ao funcionamento de cada uma das organizações nacionais e comuns de mercado.
 
 2 - As CCM são presididas pelo presidente ou pelo vogal do conselho directivo do INGA, ou funcionário dirigente em quem ele delegar, e integram os representantes da produção, comércio e indústria do respectivo sector de mercado e, ainda, os representantes dos Ministérios das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
 3 - Os elementos que integram as CCM serão nomeados por despacho conjunto dos Ministros da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-###### Art. 13.º - 1 - Às CCM compete acompanhar de forma permanente o funcionamento dos mercados agrícolas e pecuários da sua especialidade, emitindo pareceres e recomendações e apreciando todos os assuntos que lhes forem submetidos para apreciação pelo seu presidente.
+Art. 13.º - 1 - Às CCM compete acompanhar de forma permanente o funcionamento dos mercados agrícolas e pecuários da sua especialidade, emitindo pareceres e recomendações e apreciando todos os assuntos que lhes forem submetidos para apreciação pelo seu presidente.
 
 2 - As CCM reunirão sempre que convocadas pelo seu presidente, mas o intervalo entre cada reunião não deverá ultrapassar 60 dias, no máximo.
 
@@ -254,7 +310,7 @@ b) Assegurar as relações do INGA com o Governo e com os demais serviços da Ad
 
 #### SECÇÃO III — Comissão de fiscalização
 
-###### Art. 14.º - 1 - A comissão de fiscalização do INGA é composta por três membros nomeados pelo Ministro das Finanças, um dos quais será obrigatoriamente revisor oficial de contas.
+Art. 14.º - 1 - A comissão de fiscalização do INGA é composta por três membros nomeados pelo Ministro das Finanças, um dos quais será obrigatoriamente revisor oficial de contas.
 
 2 - Compete à comissão de fiscalização:
 
@@ -280,11 +336,11 @@ b) Guardar sigilo dos factos de que tiverem conhecimento no exercício das suas 
 
 ### CAPÍTULO IV — Fiscalização
 
-###### Art. 15.º Sem prejuízo dos poderes cometidos à comissão de fiscalização, o INGA fica submetido à fiscalização da Inspecção-Geral de Finanças, nos termos previstos no artigo 18.º do Decreto-Lei n.º 513-Z/79, de 27 de Dezembro.
+Art. 15.º Sem prejuízo dos poderes cometidos à comissão de fiscalização, o INGA fica submetido à fiscalização da Inspecção-Geral de Finanças, nos termos previstos no artigo 18.º do Decreto-Lei n.º 513-Z/79, de 27 de Dezembro.
 
 ### CAPÍTULO V — Vinculação
 
-###### Art. 16.º - 1 - O INGA obriga-se:
+Art. 16.º - 1 - O INGA obriga-se:
 
 a) Pela assinatura conjunta de dois membros do conselho directivo ou de um dos membros e um representante com poderes para esse efeito;
 
@@ -294,9 +350,9 @@ b) Pela assinatura de um membro do conselho directivo, que para tanto tenha rece
 
 ### CAPÍTULO VI — Gestão patrimonial e financeira
 
-###### Art. 17.º O património do INGA é constituído pela universalidade dos seus bens, direitos e obrigações.
+Art. 17.º O património do INGA é constituído pela universalidade dos seus bens, direitos e obrigações.
 
-###### Art. 18.º Além de dotações transferidas do Orçamento do Estado, constituem receitas do INGA:
+Art. 18.º Além de dotações transferidas do Orçamento do Estado, constituem receitas do INGA:
 
 a) As taxas e outras imposições parafiscais cuja percepção lhe esteja ou venha a ser concedida;
 
@@ -312,25 +368,25 @@ f) O produto da venda de bens ou serviços;
 
 g) Os juros e rendimentos de capitais e bens próprios.
 
-###### Art. 19.º São despesas do INGA:
+Art. 19.º São despesas do INGA:
 
 a) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições que lhe estão confiadas;
 
 b) Os custos de aquisição, manutenção e conservação dos bens, equipamentos ou serviços que tenha de utilizar.
 
-###### Art. 20.º Os orçamentos e a conta de gerência carecem da aprovação dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 20.º Os orçamentos e a conta de gerência carecem da aprovação dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 21.º O conselho directivo submeterá a visto do Tribunal de Contas (TC) apenas os orçamentos, a conta de gerência e os actos e contratos relativos ao pessoal do INGA.
+Art. 21.º O conselho directivo submeterá a visto do Tribunal de Contas (TC) apenas os orçamentos, a conta de gerência e os actos e contratos relativos ao pessoal do INGA.
 
-###### Art. 22.º Os saldos apurados no final de cada gerência, relativamente às receitas inscritas no Orçamento do Estado, a favor do INGA poderão ser despendidos no ano económico ou anos económicos seguintes.
+Art. 22.º Os saldos apurados no final de cada gerência, relativamente às receitas inscritas no Orçamento do Estado, a favor do INGA poderão ser despendidos no ano económico ou anos económicos seguintes.
 
 ### CAPÍTULO VII — Pessoal
 
-###### Art. 23.º - 1 - O pessoal do INGA rege-se pelas normas aplicáveis aos trabalhadores da função pública, sendo-lhe aplicável o estatuto remuneratório que vigorava para os funcionários do Instituto Nacional de Garantia Agrícola, criado pelo Decreto-Lei n.º 96/86, de 13 de Maio.
+Art. 23.º - 1 - O pessoal do INGA rege-se pelas normas aplicáveis aos trabalhadores da função pública, sendo-lhe aplicável o estatuto remuneratório que vigorava para os funcionários do Instituto Nacional de Garantia Agrícola, criado pelo Decreto-Lei n.º 96/86, de 13 de Maio.
 
 2 - O disposto no número anterior não é aplicável aos membros do conselho directivo do INGA.
 
-###### Art. 24.º - 1 - Os funcionários pertencentes ao quadro do Instituto Nacional de Garantia Agrícola, criado pelo Decreto-Lei n.º 96/86, de 13 de Maio, bem como os funcionários requisitados que se encontrem a prestar serviço naquele organismo à data da publicação do presente diploma, transitam para o quadro de pessoal do INGA aprovado pela portaria a que se refere o n.º 2 do artigo 30.º sem dependência de quaisquer formalidades, incluindo o visto do TC, salvo a anotação e publicação no Diário da República.
+Art. 24.º - 1 - Os funcionários pertencentes ao quadro do Instituto Nacional de Garantia Agrícola, criado pelo Decreto-Lei n.º 96/86, de 13 de Maio, bem como os funcionários requisitados que se encontrem a prestar serviço naquele organismo à data da publicação do presente diploma, transitam para o quadro de pessoal do INGA aprovado pela portaria a que se refere o n.º 2 do artigo 30.º sem dependência de quaisquer formalidades, incluindo o visto do TC, salvo a anotação e publicação no Diário da República.
 
 2 - O pessoal pertencente aos quadros dos organismos extintos pelo artigo 12.º do Decreto-Lei n.º 15/87, de 9 de Janeiro, e que se encontra a prestar serviço no Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA) transitará para o INGA, de acordo com as necessidades decorrentes da prossecução das suas atribuições e competências.
 
@@ -346,13 +402,13 @@ b) Para categoria com designação diferente, mas remunerada com a mesma letra d
 
 ### CAPÍTULO VIII — Disposições finais e transitórias
 
-###### Art. 25.º - 1 - É extinto o Organismo de Intervenção do Açúcar (OIA), criado pelo Decreto-Lei n.º 382-A/86, de 14 de Novembro, sem pendência de qualquer processo de liquidação.
+Art. 25.º - 1 - É extinto o Organismo de Intervenção do Açúcar (OIA), criado pelo Decreto-Lei n.º 382-A/86, de 14 de Novembro, sem pendência de qualquer processo de liquidação.
 
 2 - São transferidas para o INGA todas as atribuições e competências que tenham sido conferidas por qualquer disposição legal ou administrativa ao OIA.
 
 3 - São transferidos para o INGA, sem observância de quaisquer outras formalidades, todos os arquivos e documentos que se encontravam em poder do OIA, bem como o respectivo orçamento cambial.
 
-###### Art. 26.º - 1 - São transferidas para o INGA todas as atribuições e competências no domínio da orientação, regularização e organização dos mercados agrícolas e pecuários que foram conferidas ao IROMA por qualquer disposição legal ou administrativa, incluindo aquelas que, neste mesmo âmbito, haviam anteriormente sido conferidas aos organismos de coordenação económica extintos pelo artigo 12.º do Decreto-Lei n.º 15/87, de 9 de Janeiro.
+Art. 26.º - 1 - São transferidas para o INGA todas as atribuições e competências no domínio da orientação, regularização e organização dos mercados agrícolas e pecuários que foram conferidas ao IROMA por qualquer disposição legal ou administrativa, incluindo aquelas que, neste mesmo âmbito, haviam anteriormente sido conferidas aos organismos de coordenação económica extintos pelo artigo 12.º do Decreto-Lei n.º 15/87, de 9 de Janeiro.
 
 2 - Nos termos do disposto no número anterior, é nomeadamente conferida ao INGA a totalidade das atribuições e competências relativas à aplicação dos mecanismos previstos nas organizações nacionais e comuns dos mercados agrícolas e pecuários nos domínios da intervenção, concessão de ajudas, prémios e subsídios, cálculo e emissão de direitos niveladores e da regulação do comércio externo em geral dos produtos agrícolas e pecuários.
 
@@ -366,7 +422,7 @@ b) Para categoria com designação diferente, mas remunerada com a mesma letra d
 
 7 - Sem pendência de qualquer processo de liquidação, transitam para o INGA os orçamentos aprovados, os contratos de qualquer natureza, bem como os processos de contabilização e de apuramento de contas do Instituto Nacional de Garantia Agrícola, criado pelo Decreto-Lei n.º 96/86, de 13 de Maio.
 
-###### Art. 27.º - 1 - São assumidas pelo INGA todas as atribuições e competências que se encontravam conferidas aos organismos de coordenação económica extintos pelo artigo 12.º do Decreto-Lei n.º 15/87, de 9 de Janeiro, relativamente às seguintes comissões e conselhos:
+Art. 27.º - 1 - São assumidas pelo INGA todas as atribuições e competências que se encontravam conferidas aos organismos de coordenação económica extintos pelo artigo 12.º do Decreto-Lei n.º 15/87, de 9 de Janeiro, relativamente às seguintes comissões e conselhos:
 
 a) Comissão Consultiva do Mercado da Carne de Suíno, a que se refere a Portaria n.º 609/81, de 20 de Julho;
 
@@ -394,19 +450,19 @@ m) Conselho Consultivo da Produção e Comercialização do Ananás, a que se re
 
 2 - Passa a funcionar na dependência do INGA a Comissão do Mercado do Lúpulo, criada pelo despacho conjunto dos Secretários de Estado da Alimentação, da Agricultura e do Comércio Interno de 21 de Fevereiro de 1986, publicado no Diário da República, 2.ª série, n.º 55, de 7 de Março de 1986.
 
-###### Art. 28.º - 1 - A cobrança coerciva das dívidas ao INGA é feita pelo processo das execuções fiscais, através dos serviços e tribunais competentes, tendo por base uma certidão de dívida.
+Art. 28.º - 1 - A cobrança coerciva das dívidas ao INGA é feita pelo processo das execuções fiscais, através dos serviços e tribunais competentes, tendo por base uma certidão de dívida.
 
 2 - O INGA beneficia de todas as isenções e reduções nos termos da lei.
 
-###### Art. 29.º - 1 - O actual conselho directivo do Instituto Nacional de Garantia Agrícola manter-se-á em funções até à posse do conselho directivo do INGA, nomeado nos termos do presente diploma.
+Art. 29.º - 1 - O actual conselho directivo do Instituto Nacional de Garantia Agrícola manter-se-á em funções até à posse do conselho directivo do INGA, nomeado nos termos do presente diploma.
 
 2 - As comissões de serviço do pessoal dirigente do INGA e daquele a que se refere o n.º 2 do artigo 24.º manter-se-ão transitoriamente até à publicação da portaria a que se refere o n.º 2 do artigo 30.º do presente diploma.
 
-###### Art. 30.º - 1 - O Governo, mediante decreto regulamentar, aprovará a Lei Orgânica do INGA no prazo de 60 dias a partir da data da entrada em vigor do presente diploma.
+Art. 30.º - 1 - O Governo, mediante decreto regulamentar, aprovará a Lei Orgânica do INGA no prazo de 60 dias a partir da data da entrada em vigor do presente diploma.
 
 2 - O quadro de pessoal do INGA e respectivos regulamentos internos constarão de portaria conjunta dos ministros da tutela, a publicar no prazo de 90 dias.
 
-###### Art. 31.º Com a entrada em vigor do presente diploma são revogadas as seguintes normas legais:
+Art. 31.º Com a entrada em vigor do presente diploma são revogadas as seguintes normas legais:
 
 a) Decreto-Lei n.º 96/86, de 13 de Maio;
 
@@ -418,12 +474,12 @@ d) Decretos Regulamentares n.os 24-A/86, de 30 de Julho, e 58/87, de 18 de Agost
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Julho de 1988.**
+Promulgado em 27 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1988.**
+Referendado em 29 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

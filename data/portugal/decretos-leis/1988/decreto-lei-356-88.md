@@ -46,40 +46,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1988-355098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-02-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e79de5c89433cc8eafbcfdfdf3dc63973d6370bfb6705d2ba34fffb590afd1df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0cfc93856e141c88e8e11b0dda88509546357e760396053f1abc6c1ed129ef2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Chiado
+- Fundo Extraordinário de Ajuda à Reconstrução do Chiado
+- Incêndio
+- Regime Jurídico
+- Renovação Urbana
 relationships:
 - type: amended_by
   target: pt:dre:414405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:574762:por
+  label: "Alterados os arts. 2º e 3º pelo DEC LEI.174/90.04.06.1990.MF, DR.IS [128] de 04.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1990-574762
+  date: '1990-06-04'
+- type: amended_by
+  target: pt:dre:646301:por
+  label: "Dada nova redacção aos arts 2.º, 3.º (alterados pelo Dec Lei 174/90 de 04-Jun) e 12.º pelo DEC LEI.342/93.01.10.1993.MF,\
+    \ DR.IS-A [231] de 01.10.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/342-1993-646301
+  date: '1993-10-01'
+- type: amended_by
+  target: pt:dre:463664:por
+  label: "Dada nova redacção aos arts. 2.º, 3.º (alterados pelos Dec Lei 174/90 de 04-Jun e 342/93 de 01-Out) e 12.º (alterado\
+    \ pelo Dec lei 342/93 de 01-Out) pelo DEC LEI.161/95.1995.07.06.MF DR.IS-A [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/161-1995-463664
+  date: '1995-07-06'
+- type: amended_by
+  target: pt:dre:213800:por
+  label: "Dada nova redacção ao art. 2º (alterado pelos Dec Lei 174/90, de 04-Jun, do Dec Lei 342/93, de 01-Out e do Dec Lei\
+    \ 161/95 de 06-Jul) pelo DEC LEI.184/96.1996.09.27.MF, DR.IS-A [225]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/184-1996-213800
+  date: '1996-09-27'
+- type: amended_by
+  target: pt:dre:229285:por
+  label: "Dada nova redacção aos arts. 2º (alterado pelos Dec Lei 174/90, de 04-Jun, 342/93 de 01-Out, 161/95 de 06-Jul e\
+    \ 184/96 de 27-Set), 3º (alterado pelos Dec Lei 174/90, de 04-Jun, 342/93 de 01-Out e 161/95 de 06-Jul) e 12º (alterado\
+    \ pelo Dec Lei 342/93 de 01-Out e 161/95 de 06-Jul) pelo DEC LEI.26/98.1998.02.10.MF DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1998-229285
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:414405:por
+  label: Alterados, com efeitos a 01.01.2000, os arts. 2.º e 12.º do presente diploma pelo DEC LEI.13/2000.2000.02.21.MTS
+    DR.IS-A [43]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-2000-414405
+  date: '2000-02-21'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:16Z'
   warnings: []
   errors: []
 ---
@@ -226,12 +267,12 @@ As funções dos membros da comissão directiva e do conselho consultivo não s�
 
 Visto e aprovado em Conselho de Ministros de 8 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 29 de Setembro de 1988.**
+Promulgado em 29 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Setembro de 1988.**
+Referendado em 30 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva**
+O Primeiro-Ministro, Aníbal António Cavaco Silva

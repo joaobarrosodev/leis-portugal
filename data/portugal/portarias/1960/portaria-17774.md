@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17774-1960-503411
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6f763788b87e091749d0398921b9808f09d34723a1357eb06cf6ac651de0f3f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f5936bac3471b3235127553a1365f893d5b346a4ae7f4778c1444334862a3d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:443530:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:53Z'
   warnings: []
   errors: []
 ---
@@ -86,15 +90,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO ÚNICO — Despesas com o pessoal
 
-###### Artigo 1.º, n.º 5) «Remunerações certas ao pessoal em exercício - Eventual (pessoal dos serviços de enfermagem de laboratórios e gerais, nos temos do artigo 16.º do Regulamento do Hospital)» ... 30000$00
+Artigo 1.º, n.º 5) «Remunerações certas ao pessoal em exercício - Eventual (pessoal dos serviços de enfermagem de laboratórios e gerais, nos temos do artigo 16.º do Regulamento do Hospital)» ... 30000$00
 
 Despesas com o material
 
 Antigo 4.º, n.º 1) «Construções e obras novas - Edifícios e outras construções» ... 2500000$00
 
-###### Artigo 5.º, n.º 2), alínea f) «Aquisições de utilização permanente - Aquisição de móveis - Apetrechamento dos novos serviços de cirurgia, radiologia, agentes físicos, análises clínicas e infecto-contagiosas, isótopos, etc.» ... 1000000$00
+Artigo 5.º, n.º 2), alínea f) «Aquisições de utilização permanente - Aquisição de móveis - Apetrechamento dos novos serviços de cirurgia, radiologia, agentes físicos, análises clínicas e infecto-contagiosas, isótopos, etc.» ... 1000000$00
 
-###### Artigo 6.º «Despesas de conservação e aproveitamento do material»:
+Artigo 6.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 1), alínea b) «De imóveis - Prédios urbanos, incluindo reparações nos edifícios, canalização de água, instalação eléctrica, etc.» ... 30000$00
 
@@ -104,7 +108,7 @@ Alínea a) «Conserto de máquinas, móveis, aparelhos, instrumentos e outros» 
 
 Alínea b) «Mobiliário» ... 20000$00
 
-###### Artigo 7.º «Material de consumo corrente»:
+Artigo 7.º «Material de consumo corrente»:
 
 N.º 4) «Combustível, lubrificantes e sobresselentes» ... 15000$00
 
@@ -112,7 +116,7 @@ N.º 6) «Diversos, não especificados, incluindo desenho, fotografia e filmagem
 
 Pagamento de serviços
 
-###### Artigo 8.º «Despesas de higiene, saúde e conforto»:
+Artigo 8.º «Despesas de higiene, saúde e conforto»:
 
 N.º 1) «Aquisição, conserto e lavagem de roupas» ... 50000$00
 
@@ -124,7 +128,7 @@ N.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, ut
 
 Diversos encargos
 
-###### Artigo 10.º, n.º 2) «Encargos administrativos - Funerais dos funcionários civis que não tenham direito a vencimentos por motivo de doença, ou que os abonos a receber à data do falecimento sejam insuficientes para ocorrer à sua despesa, e ainda os dos doentes pobres que não tenham qualquer pessoa que se prontifique a satisfazê-la» ... 3000$00
+Artigo 10.º, n.º 2) «Encargos administrativos - Funerais dos funcionários civis que não tenham direito a vencimentos por motivo de doença, ou que os abonos a receber à data do falecimento sejam insuficientes para ocorrer à sua despesa, e ainda os dos doentes pobres que não tenham qualquer pessoa que se prontifique a satisfazê-la» ... 3000$00
 
 ... 4368000$00
 

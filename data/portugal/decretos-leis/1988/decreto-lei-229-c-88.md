@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(4) a 2732-(9)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00040009.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-c-1988-644323
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05e28f47cf4cf4b6d2b3499bfbcae41069d541899135cb47c8c328286f5d6610
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 67f3d47a9a5da9d212d747318870d53c14434f64e68cac2fa0ef10f43e6eca71
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Investimento Imobiliário
+- Fundo de Investimento Mobiliário
+- Orgânica
+- Sociedade de Investimento
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:342174:por
+  label: "Alterados os arts. 6º, 11º, 12º, 13º, 14º, 19º, 25º, 26º, 29º e 30º, pelo DEC LEI.417/91.1991.10.26.MF DR.IS-A [247]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/417-1991-342174
+  date: '1991-10-26'
+- type: amended_by
+  target: pt:dre:621311:por
+  label: "Mantida a vigência relativamente aos fundos, referidos no nº 2 do art. 1º do DEC LEI.276/94.1994.11.02.MF, DR.IS-A\
+    \ [253], pelo mesmo diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/276-1994-621311
+  date: '1994-11-02'
+- type: cites
+  target: pt:dre:152331:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:157029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182653:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:193813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421466:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
   article_count: 32
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:05Z'
   warnings: []
   errors: []
 ---
@@ -458,12 +500,12 @@ São revogados os Decretos-Leis n.os [134/85](https://diariodarepublica.pt/dr/de
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 22 de Junho de 1988.**
+Promulgado em 22 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 25 de Junho de 1988.**
+Referendado em 25 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

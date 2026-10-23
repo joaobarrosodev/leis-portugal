@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14600/26182620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1988-371598
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-11-17T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f8b10d554f23d0b1c3dc8f984e78373adf9cd1dd26aeb3e18d4c079ac0043476
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a81073ec3a766a6eca9593bb096927eca37ae19465aaa2dfb650dbd0cee99ba1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Proteção do Ambiente
+- Reserva Natural
+- Reserva Natural do PAUL de Arzila
 relationships:
 - type: amended_by
   target: pt:dre:685041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:685041:por
+  label: "Revogado, com excepção do nº 3 do art. 2º e do art. 9º, pelo DR.45/97.1997.11.17.MAM, DR.IS-B [266], em tudo o que\
+    \ não contrarie o disposto naquele diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/45-1997-685041
+  date: '1997-11-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:50Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +117,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É criada a Reserva Natural do Paul de Arzila, adiante designada por Reserva.
+Artigo 1.º É criada a Reserva Natural do Paul de Arzila, adiante designada por Reserva.
 
-###### Art. 2.º - 1 - Os limites da Reserva são os indicados no mapa anexo ao presente diploma, que dele faz parte integrante.
+Art. 2.º - 1 - Os limites da Reserva são os indicados no mapa anexo ao presente diploma, que dele faz parte integrante.
 
 2 - Os originais do mapa anexo são feitos à escala de 1/25000 e ficam arquivados no Serviço Nacional de Parques, Reservas e Conservação da Natureza, adiante designado por SNPRCN.
 
 3 - São definidas duas áreas principais, denominadas «zona de protecção» e «núcleo central», com os limites indicados no mapa anexo.
 
-###### Art. 3.º A criação da Reserva tem por fins:
+Art. 3.º A criação da Reserva tem por fins:
 
 a) Proteger e conservar os valores naturais e científicos nela contidos;
 
@@ -126,7 +135,7 @@ c) Promover o ordenamento do seu território para que o seu uso seja feito sem p
 
 d) Promover a divulgação dos seus valores naturais, estéticos e científicos e criar condições para que seja visitada de forma ordenada para fins recreativos e científicos pelo público nacional e estrangeiro.
 
-###### Art. 4.º - 1 - A Reserva será dotada com um plano de ordenamento onde se definirão os usos adequados do território e dos seus recursos naturais.
+Art. 4.º - 1 - A Reserva será dotada com um plano de ordenamento onde se definirão os usos adequados do território e dos seus recursos naturais.
 
 2 - No plano de ordenamento poderão ser definidas zonas de protecção integral, onde não seja permitida a intervenção humana, salvo para fins científicos.
 
@@ -138,7 +147,7 @@ d) Promover a divulgação dos seus valores naturais, estéticos e científicos 
 
 6 - O plano de ordenamento será aprovado por portaria do membro do Governo responsável pela área do ambiente.
 
-###### Art. 5.º - 1 - São órgãos da Reserva:
+Art. 5.º - 1 - São órgãos da Reserva:
 
 a) O director;
 
@@ -154,13 +163,13 @@ c) A comissão científica.
 
 5 - A composição, a forma de designação dos representantes e o funcionamento dos órgãos constarão de regulamento aprovado por portaria do membro do Governo responsável pela área do ambiente.
 
-###### Art. 6.º A prossecução dos fins da Reserva referidos no artigo 3.º e a administração dos interesses específicos asseguradas pelo director, sob a superintendência do SNPRCN, pelo conselho geral e pela comissão científica.
+Art. 6.º A prossecução dos fins da Reserva referidos no artigo 3.º e a administração dos interesses específicos asseguradas pelo director, sob a superintendência do SNPRCN, pelo conselho geral e pela comissão científica.
 
-###### Art. 7.º - 1 - Ao director compete, em geral, a administração dos interesses relativos à prossecução dos fins da Reserva estabelecidos no artigo 3.º do presente diploma.
+Art. 7.º - 1 - Ao director compete, em geral, a administração dos interesses relativos à prossecução dos fins da Reserva estabelecidos no artigo 3.º do presente diploma.
 
 2 - Compete, em especial, ao director o processamento das contra-ordenações e a aplicação das coimas e sanções acessórias previstas neste diploma.
 
-###### Art. 8.º - 1 - Na Reserva é proibido:
+Art. 8.º - 1 - Na Reserva é proibido:
 
 a) Lançar águas residuais, industriais ou de uso doméstico, poluentes e não devidamente tratadas;
 
@@ -176,7 +185,7 @@ f) Transitar com quaisquer veículos, salvo em serviço da Reserva ou das explor
 
 2 - A proibição constante da alínea a) do número anterior é extensiva a áreas fora da Reserva em relação aos cursos de água que nela passem ou desagúem.
 
-###### Art. 9.º Na área do núcleo central da Reserva é proibido:
+Art. 9.º Na área do núcleo central da Reserva é proibido:
 
 a) Edificar, construir ou reconstruir quaisquer construções ou equipamentos;
 
@@ -192,13 +201,13 @@ f) Introduzir espécies zoológicas exóticas, domésticas ou não, salvo em cas
 
 g) Cortar ou colher espécies botânicas não cultivadas, salvo a colheita de bunho feita de forma tradicional pela população local, e introduzir espécies botânicas exóticas de cultivo ou silvestres.
 
-###### Art. 10.º - 1 - Na área da zona de protecção da Reserva dependem de autorização do director as actividades ou actos enunciados no artigo anterior.
+Art. 10.º - 1 - Na área da zona de protecção da Reserva dependem de autorização do director as actividades ou actos enunciados no artigo anterior.
 
 2 - Consideram-se autorizados os actos ou actividades relativamente aos quais não tenha sido comunicada, por escrito, ao requerente decisão expressa em contrário no prazo de 60 dias após a recepção do pedido de autorização.
 
 3 - As autorizações a que se referem os números anteriores não dispensam as licenças, autorizações ou pareceres exigíveis nos termos da lei e, por outro lado, a existência destes não legitima a prática das actividades ou actos condicionados ou proibidos pelo presente diploma.
 
-###### Art. 11.º - 1 - Constituem contra-ordenação punível com coima:
+Art. 11.º - 1 - Constituem contra-ordenação punível com coima:
 
 a) De 200000$00 a 3000000$00 a infracção ao disposto nas alíneas a) e b) do n.º 1 do artigo 8.º, no n.º 2 do mesmo artigo e na alínea b) do artigo 9.º;
 
@@ -220,11 +229,11 @@ f) De 5000$00 a 50000$00 a infracção ao disposto nas alíneas e) e f) do n.º 
 
 5 - Poderão ser apreendidos e declarados perdidos a favor do SNPRCN os objectos utilizados ou produzidos durante a infracção.
 
-###### Art. 12.º - 1 - Por decisão do presidente do SNPRCN, sob proposta do director e ouvido o conselho geral, pode ser requerida judicialmente a remoção de elementos construídos pelo homem, preexistentes à data deste diploma, bem como a cessação de quaisquer actividades industriais ou outras que tenham impacte negativo no ambiente da Reserva.
+Art. 12.º - 1 - Por decisão do presidente do SNPRCN, sob proposta do director e ouvido o conselho geral, pode ser requerida judicialmente a remoção de elementos construídos pelo homem, preexistentes à data deste diploma, bem como a cessação de quaisquer actividades industriais ou outras que tenham impacte negativo no ambiente da Reserva.
 
 2 - Nos casos de remoção e cessação referidos no número anterior, os titulares de direitos legalmente constituídos serão indemnizados pelos prejuízos sofridos.
 
-###### Art. 13.º - 1 - O policiamento e fiscalização do disposto neste diploma competem aos funcionários das entidades representadas no conselho geral e à GNR.
+Art. 13.º - 1 - O policiamento e fiscalização do disposto neste diploma competem aos funcionários das entidades representadas no conselho geral e à GNR.
 
 2 - Para os efeitos previstos no número anterior o conceito de funcionário é o do artigo 437.º do Código Penal.
 
@@ -232,14 +241,14 @@ f) De 5000$00 a 50000$00 a infracção ao disposto nas alíneas e) e f) do n.º 
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins.
 
-**Promulgado em 9 de Junho de 1988.**
+Promulgado em 9 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Junho de 1988.**
+Referendado em 16 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/06/14600/26182620.pdf))](https://files.diariodarepublica.pt/1s/1988/06/14600/26182620.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/14600/26182620.pdf)

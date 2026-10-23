@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17676-1960-281639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5c675dc8ca2019d857340c1b0de7806332d4f2c0cde8d369311bbcb2eabb4af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6ffc6c8a510e7619a00cb7e4f24941c1951512bd88794dab568428ead1700e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:252394:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:42Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +98,27 @@ Manda o Governo de República Portuguesa, pelo Ministro do Ultramar, instituir n
 
 Regulamento do Prémio D. João II
 
-###### Artigo 1.º É, pela Agência-Geral do Ultramar, instituído o Prémio D. João II, destinado a galardoar o melhor estudo sobre o tema «Unidade nacional».
+Artigo 1.º É, pela Agência-Geral do Ultramar, instituído o Prémio D. João II, destinado a galardoar o melhor estudo sobre o tema «Unidade nacional».
 
 § único. A expressão «unidade nacional» deve entender-se como significando o conjunto de princípios que informam todo o processo da nossa política tradicional ultramarina, no que ela, através dos tempos, contribuiu para estruturar e estreitar os elos que ligam todas as parcelas do território nacional. Neste desiderato político-filosófico pode incluir-se todo o esforço tendente a interpretar, embora parcelarmente, os princípios fundamentais relacionados com o tema proposto.
 
-###### Art. 2.º O referido prémio, na importância de 50000$00, será atribuído de dois em dois anos e a ele só poderão concorrer portugueses com obras escritas em português.
+Art. 2.º O referido prémio, na importância de 50000$00, será atribuído de dois em dois anos e a ele só poderão concorrer portugueses com obras escritas em português.
 
 § 1.º O anúncio da abertura do respectivo concurso será publicado no Diário do Governo e no Boletim Oficial das províncias ultramarinas, indicando as condições que devem ser observadas, tanto na apresentação das obras como na atribuição do prémio.
 
 § 2.º O prazo da abertura começará no dia 1 de Maio e encerrar-se-á em 30 de Setembro do ano imediato.
 
-###### Art. 3.º Poderão ser admitidas obras impressas ou dactilografadas de que se apresentem, no prazo legal, dez exemplares, quando se trate de obras impressas, e três das outras.
+Art. 3.º Poderão ser admitidas obras impressas ou dactilografadas de que se apresentem, no prazo legal, dez exemplares, quando se trate de obras impressas, e três das outras.
 
 § único. Os originais, tanto dactilografados como impressos, deverão constar, pelo menos, de 200 páginas, com o mínimo de 25 linhas cada uma, excluindo-se da contagem a transcrição ou reprodução de documentos.
 
-###### Art. 4.º A Agência-Geral do Ultramar reserva-se o direito de publicar, em uma ou mais edições, tanto em português como em versão estrangeira, a obra premiada. Por essa publicação não será devida qualquer remuneração, recebendo apenas o autor 100 exemplares da obra ou obras impressas.
+Art. 4.º A Agência-Geral do Ultramar reserva-se o direito de publicar, em uma ou mais edições, tanto em português como em versão estrangeira, a obra premiada. Por essa publicação não será devida qualquer remuneração, recebendo apenas o autor 100 exemplares da obra ou obras impressas.
 
-###### Art. 5.º Não poderão ser admitidos trabalhos que tenham sido objecto de apreciação em concursos anteriores e ainda aqueles cuja publicação seja anterior à data de abertura do respectivo concurso.
+Art. 5.º Não poderão ser admitidos trabalhos que tenham sido objecto de apreciação em concursos anteriores e ainda aqueles cuja publicação seja anterior à data de abertura do respectivo concurso.
 
-###### Art. 6.º Não serão igualmente admitidas a concurso as obras editadas pela Agência-Geral do Ultramar, aquelas cuja forma literária for julgada inferior, as que forem contrárias ao espírito do concurso, as que não obedecerem às demais condições exigidas pelo presente regulamento e ainda as que forem contrárias ao interesse nacional.
+Art. 6.º Não serão igualmente admitidas a concurso as obras editadas pela Agência-Geral do Ultramar, aquelas cuja forma literária for julgada inferior, as que forem contrárias ao espírito do concurso, as que não obedecerem às demais condições exigidas pelo presente regulamento e ainda as que forem contrárias ao interesse nacional.
 
-###### Art. 7.º Para constituição do júri serão convidados representantes das seguintes entidades:
+Art. 7.º Para constituição do júri serão convidados representantes das seguintes entidades:
 
 Academia das Ciências de Lisboa.
 
@@ -130,11 +134,11 @@ Centro de Estudos Políticos e Sociais da Junta de Investigações do Ultramar.
 
 Gabinete dos Negócios Políticos do Ministério do Ultramar.
 
-###### Art. 8.º A lista da constituição do júri deverá ser publicada no Diário do Governo após o encerramento do prazo do concurso.
+Art. 8.º A lista da constituição do júri deverá ser publicada no Diário do Governo após o encerramento do prazo do concurso.
 
-###### Art. 9.º A primeira reunião do júri, a promover pela Agência-Geral do Ultramar, realizar-se-á no mês de Novembro seguinte ao encerramento do prazo do concurso e destinar-se-á à eleição do seu presidente e à distribuição, para leitura, dos trabalhos recebidos.
+Art. 9.º A primeira reunião do júri, a promover pela Agência-Geral do Ultramar, realizar-se-á no mês de Novembro seguinte ao encerramento do prazo do concurso e destinar-se-á à eleição do seu presidente e à distribuição, para leitura, dos trabalhos recebidos.
 
-###### Art. 10.º As subsequentes reuniões de trabalho deverão ter lugar nos meses de Janeiro e Fevereiro seguintes.
+Art. 10.º As subsequentes reuniões de trabalho deverão ter lugar nos meses de Janeiro e Fevereiro seguintes.
 
 § 1.º De todas elas, incluindo a primeira, serão lavradas actas, que, na parte referente ao julgamento dos trabalhos, deverão ser publicadas no Diário do Governo, após homologação pelo Ministro do Ultramar.
 
@@ -142,17 +146,17 @@ Gabinete dos Negócios Políticos do Ministério do Ultramar.
 
 § 3.º Não há recurso das decisões do júri quanto à admissão e julgamento das obras apresentadas a concurso.
 
-###### Art. 11.º O júri poderá reunir, dentro do prazo estabelecido neste regulamento, todas as vezes que julgar necessárias.
+Art. 11.º O júri poderá reunir, dentro do prazo estabelecido neste regulamento, todas as vezes que julgar necessárias.
 
 § único. No caso de empate na votação, o presidente do júri usará do voto de qualidade, para o efeito do desempate.
 
-###### Art. 12.º O júri reserva-se o direito de não conferir o prémio, quando entenda que nenhum dos trabalhos admitidos a concurso reúne o nível formal e de conteúdo que a sua dignidade exige.
+Art. 12.º O júri reserva-se o direito de não conferir o prémio, quando entenda que nenhum dos trabalhos admitidos a concurso reúne o nível formal e de conteúdo que a sua dignidade exige.
 
-###### Art. 13.º Os exemplares dos trabalhos apresentados a concurso não serão devolvidos aos seus autores.
+Art. 13.º Os exemplares dos trabalhos apresentados a concurso não serão devolvidos aos seus autores.
 
-###### Art. 14.º Cada membro do júri receberá, pela sua colaboração, a remuneração de 1000$00.
+Art. 14.º Cada membro do júri receberá, pela sua colaboração, a remuneração de 1000$00.
 
-###### Art. 15.º Os casos e dúvidas na interpretação deste regulamento serão resolvidos pelo júri, ficando a sua decisão sujeita a homologação do Ministro do Ultramar.
+Art. 15.º Os casos e dúvidas na interpretação deste regulamento serão resolvidos pelo júri, ficando a sua decisão sujeita a homologação do Ministro do Ultramar.
 
 Ministério do Ultramar, 15 de Abril de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.
 

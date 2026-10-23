@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22400/39363936.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1988-355514
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8edeeb9b2dddf6d3d69d611f37a55ad791741a2d175ba87753b0beec8361b6b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430c3e2ae26f0621dbb7a867638b80157238cb9c0e889891423891f760decc84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral do Ensino Superior
+- Ensino Superior
+- Pessoal Docente
+- Quadro de Efectivos Interdepartamentais
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:324353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327146:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:45Z'
   warnings: []
   errors: []
 ---
@@ -103,24 +128,24 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 124/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1985-324353), de 23 de Abril, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 5.º do [Decreto-Lei n.º 124/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1985-324353), de 23 de Abril, passa a ter a seguinte redacção:
 
-###### Art. 5.º - 1 - A integração processa-se na categoria de técnico superior de 1.ª classe.
+Art. 5.º - 1 - A integração processa-se na categoria de técnico superior de 1.ª classe.
 
 2 - O tempo de serviço prestado como assistente ou assistente de investigação é contado como se tivesse sido prestado na categoria de técnico superior de 1.ª classe.
 
-###### Art. 2.º A contagem de tempo prevista no n.º 2 do artigo 5.º do [Decreto-Lei n.º 124/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1985-324353), de 23 de Abril, na redacção que lhe é dada pelo artigo anterior, é aplicável aos assistentes e assistentes de investigação integrados na categoria de técnico superior de 1.ª classe antes da entrada em vigor do presente diploma.
+Art. 2.º A contagem de tempo prevista no n.º 2 do artigo 5.º do [Decreto-Lei n.º 124/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1985-324353), de 23 de Abril, na redacção que lhe é dada pelo artigo anterior, é aplicável aos assistentes e assistentes de investigação integrados na categoria de técnico superior de 1.ª classe antes da entrada em vigor do presente diploma.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 25 de Agosto de 1988. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 14 de Setembro de 1988.**
+Promulgado em 14 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Setembro de 1988.**
+Referendado em 16 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

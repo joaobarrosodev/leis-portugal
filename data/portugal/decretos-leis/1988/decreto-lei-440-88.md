@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27700/47444746.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1988-357111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-05-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e44a5815542598da7ac1bd937d622fa32b1802f0b45e0735b1c7b4c756e651b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce5654250240557dc21a25c56db0c15bf8272a45b519313ee13fa512c5d9e99b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Justiça
+- Pessoal Contratado
+- Pessoal Tarefeiro
 relationships:
 - type: amended_by
   target: pt:dre:163561196:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:183214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662751:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:16Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +154,11 @@ Assim:
 
 No uso da autorização legislativa concedida pela n.º 2 do artigo 70.º da [Lei n.º 2/88](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), de 26 de Janeiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O disposto no presente diploma aplica-se a todas as pessoas contratadas por qualquer serviço do Ministério da Justiça, a qualquer título, inclusivamente os contratos previstos no artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e o contrato de trabalho a prazo certo previsto no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, e qualquer que seja a forma da sua celebração, que neste desempenhem funções, ininterruptamente, desde 31 de Dezembro de 1986 e que o façam em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do respectivo serviço e que correspondam a necessidades permanentes dos serviços.
+Artigo 1.º - 1 - O disposto no presente diploma aplica-se a todas as pessoas contratadas por qualquer serviço do Ministério da Justiça, a qualquer título, inclusivamente os contratos previstos no artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e o contrato de trabalho a prazo certo previsto no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, e qualquer que seja a forma da sua celebração, que neste desempenhem funções, ininterruptamente, desde 31 de Dezembro de 1986 e que o façam em regime de tempo completo, com sujeição à disciplina, hierarquia e horário do respectivo serviço e que correspondam a necessidades permanentes dos serviços.
 
 2 - Nas condições previstas no número anterior, as simples alterações de cláusulas contratuais, a prorrogação do contrato de avença, a celebração de novos contratos de tarefa ou de trabalho a prazo certo e a mudança de serviço no âmbito do Ministério da Justiça não prejudicam a aplicação do disposto no presente diploma.
 
-###### Art. 2.º - 1 - No prazo de 30 dias a contar da data da entrada em vigor do presente diploma, o Ministro da Justiça homologará, por direcções-gerais ou serviços equiparados, listas nominativas do pessoal abrangido pela disposição do artigo 1.º
+Art. 2.º - 1 - No prazo de 30 dias a contar da data da entrada em vigor do presente diploma, o Ministro da Justiça homologará, por direcções-gerais ou serviços equiparados, listas nominativas do pessoal abrangido pela disposição do artigo 1.º
 
 2 - Cada serviço fará constar da respectiva lista os contratados que nele prestem serviço, ainda que a entidade que tenha outorgado o contrato inicial tenha sido outro serviço do Ministério da Justiça.
 
@@ -121,7 +166,7 @@ No uso da autorização legislativa concedida pela n.º 2 do artigo 70.º da [Le
 
 4 - A Secretaria-Geral do Ministério da Justiça coordenará a elaboração das listas.
 
-###### Art. 3.º - 1 - Cada direcção-geral ou serviço equiparado, relativamente ao pessoal constante da lista homologada, celebrará novos contratos, pelo prazo de um ano, prorrogável, nos termos do artigo 4.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+Art. 3.º - 1 - Cada direcção-geral ou serviço equiparado, relativamente ao pessoal constante da lista homologada, celebrará novos contratos, pelo prazo de um ano, prorrogável, nos termos do artigo 4.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
 2 - Ao pessoal contratado nos termos do n.º 1 e até à sua eventual integração nos quadros, que, quando se mostre necessário, poderão ser alterados, é aplicável o regime previsto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, tendo este pessoal direito a quaisquer outros abonos ou remunerações acessórias ou complementares a que têm direito os funcionários do Ministério da Justiça que desempenhem actividades de conteúdo funcional equivalente.
 
@@ -129,11 +174,11 @@ No uso da autorização legislativa concedida pela n.º 2 do artigo 70.º da [Le
 
 4 - Os contratos, acompanhados da lista homologada, deverão ser sujeitos a visto do Tribunal de Contas.
 
-###### Art. 4.º Os subsídios de férias e de Natal, bem como o gozo efectivo do direito a férias, serão concedidos nos termos do regime geral, mas presumindo-se, apenas para este efeito, que a relação contratual se iniciou um ano antes da data da entrada em vigor do presente diploma.
+Art. 4.º Os subsídios de férias e de Natal, bem como o gozo efectivo do direito a férias, serão concedidos nos termos do regime geral, mas presumindo-se, apenas para este efeito, que a relação contratual se iniciou um ano antes da data da entrada em vigor do presente diploma.
 
-###### Art. 5.º A partir da concessão do visto aos contratos referidos no artigo 3.º, por coordenação da Secretaria-Geral do Ministério da Justiça, poderão, com as necessárias adaptações, ser aplicados os instrumentos de mobilidade previstos na lei, mas apenas no âmbito deste Ministério.
+Art. 5.º A partir da concessão do visto aos contratos referidos no artigo 3.º, por coordenação da Secretaria-Geral do Ministério da Justiça, poderão, com as necessárias adaptações, ser aplicados os instrumentos de mobilidade previstos na lei, mas apenas no âmbito deste Ministério.
 
-###### Art. 6.º - 1 - O pessoal contratado nos termos do artigo 3.º poderá candidatar-se a concursos internos de ingresso, a abrir pelas direcções-gerais ou serviços equiparados do Ministério da Justiça no prazo de seis meses a contar da data da entrada em vigor do presente diploma, independentemente da existência de vagas nos respectivos quadros de pessoal à data da sua abertura.
+Art. 6.º - 1 - O pessoal contratado nos termos do artigo 3.º poderá candidatar-se a concursos internos de ingresso, a abrir pelas direcções-gerais ou serviços equiparados do Ministério da Justiça no prazo de seis meses a contar da data da entrada em vigor do presente diploma, independentemente da existência de vagas nos respectivos quadros de pessoal à data da sua abertura.
 
 2 - O pessoal referido no número anterior que tenha sido aprovado nos respectivos concursos, mas ainda não provido por inexistência de lugares vagos, ingressa no quadro de efectivos interdepartamentais do Ministério da Justiça, para os efeitos do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
 
@@ -143,22 +188,22 @@ No uso da autorização legislativa concedida pela n.º 2 do artigo 70.º da [Le
 
 5 - As direcções-gerais e serviços equiparados do Ministério da Justiça que não abrirem os concursos no prazo previsto no n.º 1 poderão ser objecto de auditorias de gestão solicitadas conjuntamente pelos Ministros das Finanças e da Justiça.
 
-###### Art. 7.º - 1 - Cessará automaticamente o vínculo do pessoal que se recuse a celebrar os contratos previstos no artigo 3.º, salvo se a sua situação se enquadrar nalgum dos contratos previstos no artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, ou no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho.
+Art. 7.º - 1 - Cessará automaticamente o vínculo do pessoal que se recuse a celebrar os contratos previstos no artigo 3.º, salvo se a sua situação se enquadrar nalgum dos contratos previstos no artigo 17.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, ou no [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho.
 
 2 - Os contratos celebrados ao abrigo do artigo 3.º não poderão ser prorrogados quando o pessoal por eles abrangido não se candidatar aos concursos a que se refere o artigo 6.º ou neles não for aprovado.
 
-###### Art. 8.º As despesas resultantes da aplicação do regime previsto neste diploma serão suportadas pelo Gabinete de Gestão Financeira do Ministério da Justiça enquanto não for inscrita verba no Orçamento do Estado para esse fim.
+Art. 8.º As despesas resultantes da aplicação do regime previsto neste diploma serão suportadas pelo Gabinete de Gestão Financeira do Ministério da Justiça enquanto não for inscrita verba no Orçamento do Estado para esse fim.
 
-###### Art. 9.º O disposto no presente diploma não se aplica ao pessoal abrangido pelo artigo 183.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
+Art. 9.º O disposto no presente diploma não se aplica ao pessoal abrangido pelo artigo 183.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 16 de Novembro de 1988.**
+Promulgado em 16 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 17 de Novembro de 1988.**
+Referendado em 17 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

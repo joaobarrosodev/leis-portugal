@@ -46,36 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1988-354954
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-15T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d6f6629656939eb9015245aabdfa3c8cedbe4e0aae097ae662ca88b5b550464
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6a4b0ba14d293ab41f85031fe9e13ac7dc0b43f3b988fe3585f7c91ac817d7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Carne
+- Comércio
+- Proteção do Consumidor
+relationships:
+- type: cites
+  target: pt:dre:181042:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381747:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659911:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:519062:por
+  label: Rectificado pela DECL.DD4072.1988.11.07.PCM DR.IS [277]4.ºSUPL DE 30/NOV/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-519062
+  date: '1988-11-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:31Z'
   warnings: []
   errors: []
 ---
@@ -98,19 +130,19 @@ Ouvida a Comissão para o Combate ao Contrabando de Gado/Carne:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A venda de carnes e seus produtos pode ser efectuada com recurso a unidades móveis, nas condições previstas no presente diploma:
+Artigo 1.º A venda de carnes e seus produtos pode ser efectuada com recurso a unidades móveis, nas condições previstas no presente diploma:
 
 a) Em feiras e mercados descobertos, pelos feirantes a que se refere a alínea c) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 339/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1985-181042), de 21 de Agosto;
 
 b) Nas localidades onde não existam estabelecimentos de comercialização de carnes e seus produtos ou em que o abastecimento seja manifestamente insuficiente, pelos agentes económicos a que se refere a alínea b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 339/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/339-1985-181042).
 
-###### Art. 2.º - 1 - Consideram-se unidades móveis os veículos automóveis ligeiros ou pesados de mercadorias, reboque ou semi-reboque adaptados para o efeito de acordo com os requisitos estabelecidos neste diploma.
+Art. 2.º - 1 - Consideram-se unidades móveis os veículos automóveis ligeiros ou pesados de mercadorias, reboque ou semi-reboque adaptados para o efeito de acordo com os requisitos estabelecidos neste diploma.
 
 2 - As unidades móveis não podem estacionar para efectuar a venda junto de locais onde se libertem cheiros, poeiras, fumos ou gases susceptíveis de conspurcar ou alterar os produtos, podendo as câmaras municipais fixar os locais exclusivamente destinados àquele tipo de actividade.
 
-###### Art. 3.º As unidades móveis de venda de carnes e seus produtos só podem ser abastecidas em estabelecimentos industriais de desossagem, desmancha, corte, preembalagem, preparação e ou transformação de carnes e centros de abate de aves e coelhos licenciados pela Direcção-Geral da Pecuária.
+Art. 3.º As unidades móveis de venda de carnes e seus produtos só podem ser abastecidas em estabelecimentos industriais de desossagem, desmancha, corte, preembalagem, preparação e ou transformação de carnes e centros de abate de aves e coelhos licenciados pela Direcção-Geral da Pecuária.
 
-###### Art. 4.º - 1 - Os interessados no exercício das actividades referidas no artigo 1.º e previstas nos Decretos-Leis n.os [252/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1986-219122), de 25 de Agosto, e [122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de Maio, deverão requerer a respectiva autorização à câmara municipal em cuja circunscrição territorial as pretendam exercer.
+Art. 4.º - 1 - Os interessados no exercício das actividades referidas no artigo 1.º e previstas nos Decretos-Leis n.os [252/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1986-219122), de 25 de Agosto, e [122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de Maio, deverão requerer a respectiva autorização à câmara municipal em cuja circunscrição territorial as pretendam exercer.
 
 2 - Do requerimento constará a respectiva identificação do interessado, o número de identificação de pessoa colectiva ou de empresário individual, bem como a capacidade estimada de frio e de armazenagem de carnes e seus produtos a utilizar.
 
@@ -120,15 +152,15 @@ b) Nas localidades onde não existam estabelecimentos de comercialização de ca
 
 5 - O efectivo exercício de actividade ficará ainda sujeito à concessão do cartão previsto no artigo 8.º
 
-###### Art. 5.º As unidades móveis e as caixas dos veículos devem satisfazer, quanto ao equipamento instalado, os requisitos constantes dos n.os 1 e 2 do anexo a este diploma.
+Art. 5.º As unidades móveis e as caixas dos veículos devem satisfazer, quanto ao equipamento instalado, os requisitos constantes dos n.os 1 e 2 do anexo a este diploma.
 
-###### Art. 6.º - 1 - Os interessados deverão solicitar a vistoria às unidades móveis em requerimento dirigido ao director-geral da Pecuária e entregue na câmara municipal competente, nos termos do artigo 4.º
+Art. 6.º - 1 - Os interessados deverão solicitar a vistoria às unidades móveis em requerimento dirigido ao director-geral da Pecuária e entregue na câmara municipal competente, nos termos do artigo 4.º
 
 2 - Do requerimento deverão constar os elementos previstos no n.º 3 do anexo a este diploma.
 
 3 - No prazo máximo de 30 dias a contar da data da recepção do requerimento a que se refere o n.º 1 poderá a Direcção-Geral da Pecuária solicitar quaisquer elementos nos termos da legislação em vigor sobre as condições de instalação e funcionamento e do transporte de carnes, na parte aplicável.
 
-###### Art. 7.º - 1 - A vistoria sanitária será efectuada no prazo máximo de 90 dias a contar da data da entrada do requerimento ou da recepção dos elementos solicitados nos termos do n.º 3 do artigo anterior, devendo para o efeito a respectiva câmara municipal convocar os representantes da Direcção-Geral da Pecuária e, sempre que necessário, solicitar a intervenção de outras entidades.
+Art. 7.º - 1 - A vistoria sanitária será efectuada no prazo máximo de 90 dias a contar da data da entrada do requerimento ou da recepção dos elementos solicitados nos termos do n.º 3 do artigo anterior, devendo para o efeito a respectiva câmara municipal convocar os representantes da Direcção-Geral da Pecuária e, sempre que necessário, solicitar a intervenção de outras entidades.
 
 2 - Da vistoria será lavrado auto em duplicado, sendo o original enviado à Direcção-Geral da Pecuária e ficando o duplicado na câmara municipal respectiva.
 
@@ -136,7 +168,7 @@ b) Nas localidades onde não existam estabelecimentos de comercialização de ca
 
 4 - A manutenção das condições hígio-sanitárias é verificada pelo médico veterinário municipal do concelho onde se encontre inscrita a unidade móvel, com a periodicidade julgada adequada, mas nunca por períodos superiores a seis meses.
 
-###### Art. 8.º - 1 - Compete às câmaras municipais emitir e renovar o cartão para o exercício das actividades previstas no artigo 1.º, o qual será válido apenas para a área dos respectivos municípios e para o período de um ano a contar da data da sua emissão ou revogação.
+Art. 8.º - 1 - Compete às câmaras municipais emitir e renovar o cartão para o exercício das actividades previstas no artigo 1.º, o qual será válido apenas para a área dos respectivos municípios e para o período de um ano a contar da data da sua emissão ou revogação.
 
 2 - Do cartão, com as dimensões de 10,5 cm x 7,5 cm deverão constar os elementos identificativos necessários, designadamente o seu titular, o domicílio ou sede, o local de actividade e o período de validade.
 
@@ -150,15 +182,15 @@ b) Nas localidades onde não existam estabelecimentos de comercialização de ca
 
 7 - É aplicável ao pedido de renovação do cartão o disposto no n.º 4 do artigo 4.º
 
-###### Art. 9.º - 1 - As câmaras municipais deverão organizar um registo de todos os feirantes e vendedores ambulantes que se encontrem autorizados a exercer a sua actividade na área do respectivo município.
+Art. 9.º - 1 - As câmaras municipais deverão organizar um registo de todos os feirantes e vendedores ambulantes que se encontrem autorizados a exercer a sua actividade na área do respectivo município.
 
 2 - As câmaras municipais comunicarão à Direcção-Geral do Comércio Interno e à Comissão para o Combate ao Contrabando de Gado/Carne a ocorrência de cada emissão e renovação do cartão 30 dias após a mesma.
 
-###### Art. 10.º - 1 - Em tudo o que não contrariar o disposto no presente diploma nem a natureza móvel destas unidades são aplicáveis os anexos I, II, IV e V ao [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho.
+Art. 10.º - 1 - Em tudo o que não contrariar o disposto no presente diploma nem a natureza móvel destas unidades são aplicáveis os anexos I, II, IV e V ao [Decreto-Lei n.º 261/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1984-381747), de 31 de Julho.
 
 2 - O n.º 1 do artigo 2.º do [Decreto-Lei n.º 122/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1979-383043), de 8 de Maio, não é aplicável aos agentes económicos que exerçam a actividade de venda de carne e seus produtos em unidades móveis.
 
-###### Art. 11.º - 1 - A infracção ao disposto nos artigos 1.º, 2.º, n.º 2, e 3.º é punível nos termos do artigo 68.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
+Art. 11.º - 1 - A infracção ao disposto nos artigos 1.º, 2.º, n.º 2, e 3.º é punível nos termos do artigo 68.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
 2 - A infracção ao disposto no artigo 4.º é punível nos termos do artigo 66.º do [Decreto-Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-1984-659911), de 20 de Janeiro.
 
@@ -172,21 +204,21 @@ b) Nas localidades onde não existam estabelecimentos de comercialização de ca
 
 7 - A aplicação das coimas e sanções acessórias previstas nos n.os 1, 2, e 3 compete ao presidente da câmara municipal em cuja circunscrição a infracção foi praticada ou descoberta.
 
-###### Art. 12.º Do montante das coimas aplicadas pelas contra-ordenações previstas neste diploma serão destinados 25% à Direcção-Geral de Inspecção Económica e 25% à câmara municipal prevista nos termos do n.º 7 do artigo anterior, revertendo o restante para os cofres do Estado.
+Art. 12.º Do montante das coimas aplicadas pelas contra-ordenações previstas neste diploma serão destinados 25% à Direcção-Geral de Inspecção Económica e 25% à câmara municipal prevista nos termos do n.º 7 do artigo anterior, revertendo o restante para os cofres do Estado.
 
-###### Art. 13.º O presente diploma entra em vigor 60 dias após a sua publicação e aplica-se nas regiões autónomas com as adaptações decorrentes da transferência de competências do Governo para os respectivos governos regionais.
+Art. 13.º O presente diploma entra em vigor 60 dias após a sua publicação e aplica-se nas regiões autónomas com as adaptações decorrentes da transferência de competências do Governo para os respectivos governos regionais.
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1988. - Aníbal António Cavaco Silva - José Manuel Nunes Liberato - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 29 de Setembro de 1988.**
+Promulgado em 29 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1988.**
+Referendado em 3 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO
 

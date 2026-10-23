@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14500/25942594.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1988-371592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T00:39:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e11c4ad786f111909a794eac6b18d09d515797a54c301b1ff87c9b4316759d4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e0ea8c8483766945eab93eff83479da7eaeba1b34783e58e05a96cf74c3c565
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:39:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Análise
+- Crédito Agrícola
+- Crédito PAR
+- Extinção de Serviços
+- Ifadap
+- Programa de Financiamento a Arrendatarios Agrícolas
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:159993990:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256209:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447691:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:39:45Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +128,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º É extinta a Comissão de Avaliação do Crédito PAR, transitando para o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) as suas competências e atribuições, o qual passará também a exercer e a prosseguir as que actualmente pertencem, nesta matéria, à Direcção-Geral do Tesouro em consequência da extinção da Direcção do Crédito CIFRE.
+Artigo 1.º É extinta a Comissão de Avaliação do Crédito PAR, transitando para o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) as suas competências e atribuições, o qual passará também a exercer e a prosseguir as que actualmente pertencem, nesta matéria, à Direcção-Geral do Tesouro em consequência da extinção da Direcção do Crédito CIFRE.
 
-###### Art. 2.º Ao IFADAP, no âmbito do Programa de Financiamento a Arrendatários Rurais (PAR), incumbe, nomeadamente:
+Art. 2.º Ao IFADAP, no âmbito do Programa de Financiamento a Arrendatários Rurais (PAR), incumbe, nomeadamente:
 
 a) Propor ao Governo as medidas que tiver por convenientes para o bom funcionamento do crédito PAR;
 
@@ -126,30 +146,30 @@ f) Adoptar, em ligação com as instituições bancárias, as medidas que consid
 
 g) Elaborar a informação contabilística e estatística necessária ao conhecimento da situação financeira do Programa.
 
-###### Art. 3.º Às direcções regionais de agricultura, no âmbito do Programa de Financiamento a Arrendatários Rurais (PAR), compete, nomeadamente:
+Art. 3.º Às direcções regionais de agricultura, no âmbito do Programa de Financiamento a Arrendatários Rurais (PAR), compete, nomeadamente:
 
 a) Apreciar a capacidade empresarial dos proponentes e analisar a viabilidade técnico-económica das correspondentes explorações;
 
 b) Aferir o valor de transacção dos prédios e pronunciar-se sobre a conformidade das declarações dos proponentes.
 
-###### Art. 4.º - 1 - O Governo fixará anualmente, por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o montante global para o financiamento do Crédito PAR.
+Art. 4.º - 1 - O Governo fixará anualmente, por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o montante global para o financiamento do Crédito PAR.
 
 2 - Para a execução do Programa, o IFADAP receberá, trimestralmente, através da Direcção-Geral do Tesouro, o proporcional ao montante global fixado nos termos do número anterior.
 
 3 - O IFADAP deve apresentar à Direcção-Geral do Tesouro, no início de cada trimestre, uma relação discriminada das verbas aplicadas e importâncias recebidas no trimestre anterior.
 
-###### Art. 5.º Pelos serviços prestados no âmbito deste Programa receberá o IFADAP, trimestralmente, uma comissão determinada em função do montante global dos fundos mutuados em dívida, a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 5.º Pelos serviços prestados no âmbito deste Programa receberá o IFADAP, trimestralmente, uma comissão determinada em função do montante global dos fundos mutuados em dívida, a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 6.º Mantém-se em vigor toda a regulamentação existente relativa ao Programa PAR no que não contrarie as disposições do presente diploma.
+Art. 6.º Mantém-se em vigor toda a regulamentação existente relativa ao Programa PAR no que não contrarie as disposições do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 21 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 13 de Maio de 1988.**
+Promulgado em 13 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 16 de Maio de 1988.**
+Referendado em 16 de Maio de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

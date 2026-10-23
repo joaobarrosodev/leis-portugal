@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17555-1960-279264
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-28T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 092a28a9262ac21714ecc1d7d89788b41bf1afc671de14799ebafe9f5a26a7e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 294a2b03ec9725e7b33be434dc61d08f4b711c9071f50bb98de6d0b86f38c1db
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:12Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +103,15 @@ Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos 
 
 ### CAPÍTULO 12.º
 
-###### Artigo 1415.º, n.º 1) «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958: Conhecimento científico do território - Revisão da cartografia geral» ... 6:624.976$44
+Artigo 1415.º, n.º 1) «II Plano de Fomento Nacional - [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958: Conhecimento científico do território - Revisão da cartografia geral» ... 6:624.976$44
 
-###### Artigo 1416.º, n.º 1) «Aproveitamento de recursos: Agricultura, silvicultura e pecuária»:
+Artigo 1416.º, n.º 1) «Aproveitamento de recursos: Agricultura, silvicultura e pecuária»:
 
 Alínea b) «Fomento pecuário» ... 417.900$90
 
 Alínea f) 3.ª «Aproveitamento hidroagrícola do Cuanza-Bengo» ... 701.218$93
 
-###### Artigo 1418.º «Comunicações e transportes»:
+Artigo 1418.º «Comunicações e transportes»:
 
 N.º 1) «Execução do plano rodoviário» ... 441.290$00
 
@@ -111,7 +123,7 @@ Alínea e) «Melhoramentos e apetrechamento de portos secundários» ... 3:700.0
 
 N.º 6) «Aeroportos e material aeronáutico» ... 276.566$45
 
-###### Artigo 1420.º, n.º 1) «Melhoramentos locais - Participação no estudo, projecto e execução de obras de interesse local» ... 13:808.713$07
+Artigo 1420.º, n.º 1) «Melhoramentos locais - Participação no estudo, projecto e execução de obras de interesse local» ... 13:808.713$07
 
 ... 27:770.665$79
 

@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1988-357130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 782d0fca969a0396d810bf5df464ed504950ba318fa01f04f8fa8229cab229af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f02153c0d95a9cd10ca3316a10bbdce7e1e49a2dd5fd3a662e92c97403f4b383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Ensino Superior
+- Universidade Aberta
 relationships:
 - type: amended_by
   target: pt:dre:666168:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619721:por
+  label: "Alargada a área de recrutamento para o cargo de director de Unidade de Apoio ao Sistema Educativo constante do quadro\
+    \ de pessoal pela PORT.499/89.1989.07.04.MF DR.IS [151]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/499-1989-619721
+  date: '1989-07-04'
+- type: cites
+  target: pt:dre:157039:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599716:por
+  label: null
+  source: null
 article_structure:
   article_count: 47
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:26Z'
   warnings: []
   errors: []
 ---
@@ -306,13 +343,17 @@ b) Divisão de Exploração;
 
 c) Gabinete Técnico.
 
-###### Artigo 12.º — Divisão de Mediatização
+###### Artigo 12.º
+
+##### Divisão de Mediatização
 
 1 - Compete à Divisão de Mediatização, chefiada por um chefe de divisão, a produção e realização de materiais didácticos mediatizados, bem como a prossecução das actividades com elas relacionadas.
 
 2 - Nas acções relacionadas com a produção de documentos mediatizados, a Divisão beneficiará do apoio de técnicos de pedagogia e tecnologia.
 
-###### Artigo 13.º — Divisão de Exploração
+###### Artigo 13.º
+
+##### Divisão de Exploração
 
 Compete à Divisão de Exploração, chefiada por um chefe de divisão:
 
@@ -430,7 +471,9 @@ e) Assegurar a formação recorrente de docentes e investigadores em serviço na
 
 3 - Adstrita à Unidade de Investigação funciona a Divisão de Documentação.
 
-###### Artigo 19.º — Divisão de Documentação
+###### Artigo 19.º
+
+##### Divisão de Documentação
 
 À Divisão de Documentação, chefiada por um chefe de divisão, compete:
 
@@ -728,16 +771,16 @@ O plano de actividades da Universidade Aberta para o remanescente do ano de 1988
 
 Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 16 de Novembro de 1988.**
+Promulgado em 16 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Novembro de 1988.**
+Referendado em 18 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO — Mapa a que se refere o artigo 39.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/12/27800/47594768.pdf))](https://files.diariodarepublica.pt/1s/1988/12/27800/47594768.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/12/27800/47594768.pdf)

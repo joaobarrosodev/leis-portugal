@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
   number: '152'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2732-(2) a 2732-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00020004.pdf
 entry_into_force_dates: []
@@ -46,40 +46,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-b-1988-644322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1af014adb51d1d04fdafdf5e167501f903cd89d3ec685e45d63382ae48f1ed4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91b60d4d7403fcac454b89f9b8ef5180e54b4f1de7b4d0c9fd8fc661613460e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código das Sociedades Comerciais
+- Sociedade Comercial
 relationships:
 - type: amended_by
   target: pt:dre:66443115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:223195:por
+  label: "Alterado o art. 295º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86 de 02-Set, na redacção do\
+    \ presente diploma, pelo DEC LEI.343/98.06.11.1998.MF, DR.IS-A [257] de 06.11.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/343-1998-223195
+  date: '1998-11-06'
+- type: amended_by
+  target: pt:dre:620286:por
+  label: Alterado o art. 372º-A do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86 de 02-Set, aditado pelo
+    presente diploma, pelo DEC LEI.76-A/2006.29.03.2006.MFAP, DR.IS-A [63-Supl] de 29.03.2006
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-a-2006-620286
+  date: '2006-03-29'
+- type: amended_by
+  target: pt:dre:614975:por
+  label: "Alterado, a partir de 24.05.2010, o art. 295º do Código das Sociedades Comerciais, aprovado pelo Dec Lei 262/86,\
+    \ de 02-Set, na redacção do presente diploma, pelo DEC LEI.49/2010.19.05.2010.MFAP, DR.IS [97] de 19.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2010-614975
+  date: '2010-05-19'
+- type: amended_by
+  target: pt:dre:66443115:por
+  label: Alterados a partir de 2015-03-02 os arts. 360.º e 372.º-A do Código das Sociedades Comerciais aprovado pelo Dec Lei
+    262/86, de 02-set, na redação do presente diploma pelo(a) Decreto-Lei n.º 26/2015 - Diário da República n.º 26/2015, Série
+    I de 2015-02-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-2015-66443115
+  date: '2015-02-06'
+- type: cites
+  target: pt:dre:220107:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241222:por
+  label: "Revogado o nº 2 do art. 372º-A do Código das Sociedades Comerciais aprovado pelo Dec Lei 262/86 de 02-Set, com as\
+    \ alterações constantes dio presente diploma, pelo DEC LEI.357-A/2007.31.10.2007.MFAP, DR.IS [210-2ºSupl] de 31.10.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/357-a-2007-241222
+  date: '2007-10-31'
 article_structure:
-  article_count: 8
+  article_count: 7
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:05Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +136,7 @@ Assim, ouvido o Conselho Nacional das Bolsas de Valores:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Os artigos 109.º, 295.º, 314.º, 315.º e 360.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 109.º, 295.º, 314.º, 315.º e 360.º do Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, passam a ter a seguinte redacção:
 
 ###### Artigo 109.º — Credores obrigacionistas
 
@@ -162,7 +200,7 @@ d) Confiram o direito a subscrever uma ou várias acções;
 
 e) Apresentem prémios de emissão.
 
-###### Art. 2.º São aditados ao Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, os artigos seguintes:
+Art. 2.º São aditados ao Código das Sociedades Comerciais, aprovado pelo [Decreto-Lei n.º 262/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1986-220107), de 2 de Setembro, os artigos seguintes:
 
 ###### Artigo 372.º-A — Obrigações com direito de subscrição de acções
 
@@ -182,12 +220,12 @@ As obrigações referidas na alínea d) do artigo 360.º só podem ser emitidas 
 
 Visto e aprovado em Conselho de Ministros de 28 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
 
-**Promulgado em 27 de Maio de 1988.**
+Promulgado em 27 de Maio de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Junho de 1988.**
+Referendado em 1 de Junho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

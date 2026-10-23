@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 277/1988, 2º Suplemento, Série I de 1988-11-30
   number: '277'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 4754-(38) a 4754-(71)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27702/00380071.pdf
 entry_into_force_dates: []
@@ -48,40 +48,1499 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-b-1988-519003
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-12-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d6780912f2150249968d32900b138f2eb907a87b074d54d3fbea76611af612e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4885b58c9ef49ae5762a8e2d096f79b152fbfb1abc12082b4bb767df658de9ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do IRC
+- IRC
+- Lei Geral Tributária
 relationships:
 - type: amended_by
   target: pt:dre:993270096:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:620928:por
+  label: "Alterados os arts. 2º e 8º do Código, pelo DEC LEI.215/89.1989.07.01.MF, DR.IS [149]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1989-620928
+  date: '1989-07-01'
+- type: amended_by
+  target: pt:dre:590339:por
+  label: Alterado o art. 69º do Código, pela LEI.101/89.29.12.1989.AR, DR.IS [298-2ºSupl] de 29.12.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/101-1989-590339
+  date: '1989-12-29'
+- type: amended_by
+  target: pt:dre:333296:por
+  label: Alterado o art. 18º do diploma preambular e o art. 41º do Código, pelo DEC LEI.95/90.1990.03.20.MF, DR.IS [66]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1990-333296
+  date: '1990-03-20'
+- type: amended_by
+  target: pt:dre:575148:por
+  label: "Alterados o art. 9º do diploma preambular e os art.s 9º, 18º, 28º, 35º, 40º, 76º, 88º, 95º e 102º do Código, pelo\
+    \ DEC LEI.192/90.1990.06.09.MF, DR.IS [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-1990-575148
+  date: '1990-06-09'
+- type: amended_by
+  target: pt:dre:689382:por
+  label: Alterados o art. 18.º do diploma preambular (na redacção do Dec Lei 95/90, de 20-Mar) e os arts. 43.º e 45.º do Código
+    pelo DEC LEI.377/90.1990.11.30.MF,DR.IS [277]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/377-1990-689382
+  date: '1990-11-30'
+- type: amended_by
+  target: pt:dre:469072:por
+  label: Alterado o art. 69.º do Código, na redacção da Lei 101/89 de 29-Dez, pela LEI.65/90.28.12.1990.AR, DR.IS [298-3ºSupl]
+    de 28.12.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/65-1990-469072
+  date: '1990-12-28'
+- type: amended_by
+  target: pt:dre:522614:por
+  label: "Alterados os arts. 22º, 41º (este último na redacção do Dec Lei 95/90 de 20-Mar), 45º (na redacção do Dec Lei 377/90\
+    \ de 30-Nov), 59º, 60º, 71º, 72º, 82º, 83º, 84º, 86º, 87º, 96º e 97º do Código, pelo DEC LEI.251-A/91.16.07.1991.MF, DR.IS-A\
+    \ [161]Supl de 16.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-1991-522614
+  date: '1991-07-16'
+- type: amended_by
+  target: pt:dre:691432:por
+  label: "Alterados os arts. 38.º e 40.º(este último na redacção do Dec Lei 192/90 de 09-Jun) do Código, pela LEI.34/91.1991.07.27.AR\
+    \ DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/34-1991-691432
+  date: '1991-07-27'
+- type: amended_by
+  target: pt:dre:292879:por
+  label: "Alterados os art.s 43º (na redacção do Dec Lei 377/90, de 30-Nov) e 69º (na redacção da Lei 101/89, de 29-Dez, e\
+    \ Lei 65/90, de 28-Dez) do Código e aditado um art. 18.º-A ao diploma preambular, pelo DEC LEI.360/91.28.09.1991.MF, DR.IS-A\
+    \ [224] de 28.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/360-1991-292879
+  date: '1991-09-28'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterados os art.s 4º e 40º (o último na redacção do Dec Lei 192/90 de 09-Jun, e da Lei 34/91, de 27-Jul) do Código,\
+    \ pela LEI.2/92.1992.03.09.AR DR.IS-A [57] Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:291940:por
+  label: "Alterado o art. 18º-A ( na redacção do Dec Lei 360/91, de 28-Set) do diploma preambular bem como os art.s 8º (na\
+    \ redacção do Dec Lei 215/89, de 01-Jul), 19º, 32º, 41º (o último na redacção do Dec Lei 95/90, de 20-Mar, e Dec Lei 251-A/91,\
+    \ de 16-Jul), 71º, 82º (os dois na redacção do Dec Lei 251-A/91, de 16-Jul), 85º, 86.º, 87º (os dois últimos na redacção\
+    \ do Dec Lei 251-A/91, de 16-Jul), 96º (na redacção do Dec Lei 251-A/91, de 16-Jul) e 111º do Código, pelo DEC LEI.138/92.17.06.1992.MF,\
+    \ DR.IS-A [163] de 17.06.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/138-1992-291940
+  date: '1992-06-17'
+- type: amended_by
+  target: pt:dre:291848:por
+  label: "Alterados os art.s 45º (na redacção do Dec Lei 377/90, de 30-Nov, e Dec Lei 251-A/91, de 16-Jul), 62º, 63º, 64º,\
+    \ 69º (o último na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, e Dec Lei 360/91, de 28-Set), 75º e 96º (o\
+    \ último na redacção do Dec Lei 251-A/91, de 16-Jul, e Dec Lei 138/92, de 17-Jun) e aditado um art. 62º-A ao Código, pelo\
+    \ DEC LEI.123/92.02.07.1992.MF, DR.IS-A [150] de 02.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-1992-291848
+  date: '1992-07-02'
+- type: amended_by
+  target: pt:dre:598158:por
+  label: "Alterados os art.s 42º, 71º (o último na redacção do Dec Lei 251-A/91, de 16-Jul, e Dec Lei 138/92, de 17-Jul) e\
+    \ 75º (na redacção do Dec Lei 123/92, de 02-Jul) do Código, pelo DEC LEI.263/92.24.11.1992.MF, DR.IS-A [272] de 24.11.1992\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1992-598158
+  date: '1992-11-24'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterados os art.s 24º, 46º, 62º (o último na redacção do Dec Lei 123/92., de 02-Jul), 72º (na redacção do Dec Lei\
+    \ 251-A/91, 16-Jul) e 80º do Código, pela LEI.30-C/92.1992.12.28.AR DR.IS-A [298]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:283563:por
+  label: "Alterado o art. 18.º-A (na redacção do Dec Lei 360/91, de 28-Set, e Dec Lei 138/92, de 17-Jun) do diploma preambular\
+    \ bem como os art.s 43º (na redacção do Dec Lei 377/90, de 30-Nov, e Dec Lei 123/92, de 02-Jul) e 64º (na redacção do\
+    \ Dec Lei 123/92, de 02-Jul) e a epígrafe da subsecção IV da secção VI do capítulo III, que passa a ser «Fusões, cisões,\
+    \ entradas de activos e permutas de acções», e aditados os art.s 62º-B e 64º-A ao Código, pelo DEC LEI.6/93.09.01.1993.MF,\
+    \ DR.IS-A [7] de 09.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-1993-283563
+  date: '1993-01-09'
+- type: amended_by
+  target: pt:dre:648479:por
+  label: "Determinada a data de entrada em vigor (01.01.1994) do regime previsto no ponto 2 da al. f) do nº 1 do art. 41º\
+    \ do Código, na redacção do Dec Lei 138/92, de 17-Jan, pelo DEC LEI.29/93.12.02.1993.MF, DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1993-648479
+  date: '1993-02-12'
+- type: amended_by
+  target: pt:dre:628034:por
+  label: "Alterado o art. 41º do Código, na redacção do Dec Lei 95/90, de 20-Mar, Dec Lei 251-A/91, de 16-Jul, e Dec Lei 138/92,\
+    \ de 17-Jun, pelo DEC LEI.67/93.10.03.1993.MF, DR.IS-A [58] de 10.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/67-1993-628034
+  date: '1993-03-10'
+- type: amended_by
+  target: pt:dre:628039:por
+  label: "Alterados os art.s 39º e 40º ( o último na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, e Lei 2/92,\
+    \ de 09-Mar) do Código, pelo DEC LEI.65/93.10.03.1993.PCM, DR.IS-A [58] de 10.03.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/65-1993-628039
+  date: '1993-03-10'
+- type: amended_by
+  target: pt:dre:593710:por
+  label: "Alterado o art. 5º do diploma preambular bem como os art.s 32º (na redacção do Dec Lei 138/92, de 17-Jun), 33º,\
+    \ 42º (o último na redacção do Dec Lei 263/92, de 24-Nov), 44º, 59º, 60º (os dois últimos na redacção do Dec Lei 251-A/91,\
+    \ de 16-Jul) e aditado um art. 59º-A ao Código, pela LEI.71/93.1993.11.25.AR, DR.IS-A [277]Supl, de 26.11.1993\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-1993-593710
+  date: '1993-11-26'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterados os art.s 11º, 36º, 58º, 62º (o último na redacção do Dec Lei 123/92, de 02-Jul, e Lei 30-C/92, de 28-Dez)\
+    \ e 73º e aditado um nº 7 ao art. 18º do Código, pela LEI.75/93.1993.12.20.AR, DR.IS-A [295] Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: amended_by
+  target: pt:dre:168776:por
+  label: "Alterados os art.s 23º e 42º (o último na redacção do Dec Lei 263/92, de 24-Nov, e Lei 71/93, de 26-Nov), aditado\
+    \ um art. 24º-A e revogadas a al. e) do nº 1 do art. 32º e a al. f) do nº 1 do art. 41º do Código, pelo DEC LEI.420/93.28.12.1993.MF,\
+    \ DR.IS-A [301] de 28.12.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/420-1993-168776
+  date: '1993-12-28'
+- type: amended_by
+  target: pt:dre:302276:por
+  label: "Alterados os art.s 102º (na redacção do Dec Lei 192/90, de 09-Jun) e 104º do Código, pelo DEC LEI.166/94.1994.06.09.MF,\
+    \ DR.IS-A [133]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/166-1994-302276
+  date: '1994-06-09'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: "Alterado o art. 5º do diploma preambular (na redacção da Lei 71/93, de 26-Nov) bem como os art.s 4º (na redacção\
+    \ da Lei 2/92, de 09-Mar), 7º, 9º (o último na redacção do Dec Lei 192/90, de 09-Jun), 11º (na redacção da Lei 75/93,\
+    \ de 20-Dez), 23º, 24º-A (os dois na redacção do Dec Lei 420/93, de 28-Dez), 38º (na redacção da Lei 34/91, de 27-Jul),\
+    \ 41º (na redacção do Dec Lei 95/90, de 20-Mar, Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, e Dec Lei 67/93,\
+    \ de 10-Mar), 44º (na redacção da Lei 71/93, de 26-Nov), 46º (na redacção da Lei 30-C/92, de 28-Dez), 69º (na redacção\
+    \ da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 27-Set, e Dec Lei 123/92, de 02-Jul), 72º (na redacção\
+    \ do Dec Lei 251-A/91, de 16-Jul, e Lei 30-C/92, de 28-Dez), 75º (na redacção do Dec Lei 123/92, de 02-Jul, e Dec Lei\
+    \ 263/92, de 24-Nov), 88º (na redacção do Dec Lei 192/90, de 09-Jun), 94º, 95º (o último na redacção do Dec Lei 192/90,\
+    \ de 09-Jun), 96º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, e Dec Lei 123/92, de 02-Jul)\
+    \ e revogado o art. 97º do Código, pela LEI.39-B/94.1994.12.27.AR, DR.IS-A [298]2ºSupl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:197686:por
+  label: "Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, e Lei 39-B/94, de 27-Dez) e 75º (na redacção do Dec Lei\
+    \ 123/92, de 02-Jul, Dec Lei 263/92, de 24-Nov, e Lei 39-B/94, de 27-Dez) e aditados os art.s 57º-A e 57º-B ao Código,\
+    \ pelo DEC LEI.37/95.1995.02.14.MF, DR.IS-A [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1995-197686
+  date: '1995-02-14'
+- type: amended_by
+  target: pt:dre:527410:por
+  label: "Alterados os art.s 70º, 71º (o último na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, e Dec\
+    \ Lei 263/92, de 24-Nov), 72º (na redacção do Dec Lei 251-A/91, de 16-Jul, Lei 30-C/92, de 28-Dez, e Lei 39-B/94, de 27-Dez),\
+    \ 74º e 105º do Código, pelo DEC LEI.121/95.31.05.1995.MF, DR.IS-A [126] de 31.05.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1995-527410
+  date: '1995-05-31'
+- type: amended_by
+  target: pt:dre:668111:por
+  label: "Aditada uma subsecção VI, constituída pelo art. 68º-A, à secção VI do capítulo III do Código, pelo DEC LEI.280/95.26.10.1995.MF,\
+    \ DR.IS-A [248] de 26.10.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/280-1995-668111
+  date: '1995-10-26'
+- type: amended_by
+  target: pt:dre:603518:por
+  label: "Aditado um art. 57º-C ao Código, pelo DEC LEI.5/96.1996.01.29.MF, DR.IS-A [24]\04]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/5-1996-603518
+  date: '1996-01-29'
+- type: amended_by
+  target: pt:dre:595337:por
+  label: "Alterados os art.s 54º, 70º (o último na redacção do Dec Lei 121/95, de 31-Maio), 71º (na redacção do Dec Lei 251-A/91,\
+    \ de 16-Jul, Dec Lei 138/92, de 17-Jul, Dec Lei 263/92, de 24-Nov, e Dec Lei 121/95, de 31-Maio), 80º (na redacção da\
+    \ Lei 30-C/92, de 28-Dez), 81º, 82º (o último na redacção do Dec Lei 251-A/91, de 16-Jul, e Dec Lei 138/92, de 17-Jun),\
+    \ 84º (na redacção do Dec Lei 251-A/91, de 16-Jul), 85º (na redacção do Dec Lei 138/92, de 17-Jun), 86º (na redacção do\
+    \ Dec Lei 251-A/91, de 16-Jul ,e Dec Lei 138/92, de 17-Jun), 87º (na redacção do Dec Lei 251-A/91, de 16-Jul, e Dec Lei\
+    \ 138/92, de 17-Jun), 91º, 94º (o último na redacção da Lei 39-B/94, de 27-Dez), 97º (na redacção do Dec Lei 251-A/91,\
+    \ de 16-Jul, e Lei 39-B/94, de 27-Dez), 111º (na redacção do Dec Lei 138/92, de 17-Jun) e 112º do Código, pelo DEC LEI.7/96.1996.02.07.MF,\
+    \ DR.IS-A [32]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-1996-595337
+  date: '1996-02-07'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: "Alterados os arts. 9º (na redacção do Dec Lei 192/90, de 09-Jun, e Lei 39-B/94, de 27-Dez), 10º, 31º, 32º (o último\
+    \ na redacção do Dec Lei 138/92, de 17-Jun, e Lei 71/93, de 26-Nov), 38º (na redacção da Lei 34/91, de 27-Jul, e Lei 39-B/94,\
+    \ de 27-Dez), 40º (na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, Lei 2/92, de 09-Mar, e Dec Lei 65/93,\
+    \ de 10-Mar), 41º (na redacção do Dec Lei 95/90, de 20-Mar, Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec\
+    \ Lei 67/93, de 10-Mar, e Lei 39-B/94, de 27-Dez), 57º-C (na redacção do Dec Lei 5/96, de 29-Jan) e aditado o art. 39º-A\
+    \ ao Código, pela LEI.10-B/96.1996.03.23.AR, DR.IS-A [71]2ºSupl\0pl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:583042:por
+  label: "Alterados os art.s 11º (na redacção da Lei 75/93, de 20-Dez, e Lei 39-B/94, de 27-Dez), 39º-A (na redacção da Lei\
+    \ 10-B/96, de 23-Mar), 40º (na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, Lei 2/92, de 09-Mar, Dec Lei\
+    \ 65/93, de 10-Mar, e Lei 10-B/96, de 23-Mar), 44º (na redacção da Lei 71/93, de 26-Nov, e Lei 39-B/94, de 27-Dez), 59º,\
+    \ 60º (os dois na redacção do Dec Lei 251-A/91, de 16-Jul, e Lei 71/93, de 26-Nov), 67º, 94º (o último na redacção do\
+    \ Dec Lei 251-A/91, de 16-Jul, Lei 39-B/94, de 27-Dez, e Dec Lei 7/96, de 07-Fev) e 97º (na redacção do Dec Lei 251-A/91,\
+    \ de 16-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 7/96, de 07-Fev) e aditado um art. 40º-A ao Código, pela LEI.52-C/96.1996.12.27.AR\
+    \ DR.IS-A [299]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/52-c-1996-583042
+  date: '1996-12-27'
+- type: amended_by
+  target: pt:dre:276219:por
+  label: "Aditada uma subsecção VII - constituída pelo art.s 68º-B e 68º-C - à secção VI do capítulo III, «Determinação da\
+    \ matéria colectável», do Código, pelo Dec Lei.257-B/96.1996.12.31.MF, DR.IS-A [302]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-b-1996-276219
+  date: '1996-12-31'
+- type: amended_by
+  target: pt:dre:301798:por
+  label: "Alterados os art.s 20º, 21º, 24º (o último na redacção da Lei 30-C/92, de 28-Dez), 45º (na redacção do Dec Lei 377/90,\
+    \ de 30-Nov, Dec Lei 251-A/91, de 16-Jul, e Dec Lei 123/92, de 02-Jul) e 72º (na redacção do Dec Lei 251-A/91, de 16-Jul,\
+    \ Lei 30-C/92, de 28-Dez, Lei 39-B/94, de 27-Dez, e Dec Lei 121/95, de 31-Maio) do Código, pelo DEC LEI.3/97.1997.01.08.MF\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-1997-301798
+  date: '1997-01-08'
+- type: amended_by
+  target: pt:dre:581623:por
+  label: "Alterados os art.s 33º (na redacção da Lei 71/93, de 26-Nov), 44º (na redacção da Lei 71/93, de 26-Nov, Lei 39-B/94,\
+    \ de 27-Dez, e Dec Lei 52-C/96, de 27-Dez) e aditado um art. 36º-A ao Código, pelo Dec Lei 21/97.1997.01.21.MF, DR.IS-A\
+    \ [17]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/21-1997-581623
+  date: '1997-01-21'
+- type: amended_by
+  target: pt:dre:581628:por
+  label: "Alterados os art.s 46º (na redacção da Lei 30-C/92, de 28-Dez, e Lei 39-B/94, de 27-Dez) e 47º do Código, pelo DEC\
+    \ LEI.18/97.1997.01.21.MF\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/18-1997-581628
+  date: '1997-01-21'
+- type: amended_by
+  target: pt:dre:581222:por
+  label: "Alterados os art.s 54º e 91º do Código, ambos os artigos na redacção da Lei 7/96, de 07-Fev, pelo Dec Lei 23/97.1997.01.23.MF,\
+    \ DR.IS-A [19].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1997-581222
+  date: '1997-01-23'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: "Alterados os art.s 23º (na redacção do Dec Lei 420/93, de 28-Dez, e Lei 39-B/94, de 27-Dez), 39º (na redacção do\
+    \ Dec Lei 65/93, de 10-Mar) e 40º (na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, Lei 2/92, de 09-Mar,\
+    \ Dec Lei 65/93, de 10-Mar, Lei 10-B/96, de 23-Mar, e Lei 52-C/96, de 27-Dez) do Código, pela LEI.127-B/97.1997.12.20.AR\
+    \ DR.IS-A [293]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:229284:por
+  label: "Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, Lei 39-B/94, de 27-Dez, e Dec Lei 37/95, de 14-Fev),\
+    \ 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 27-Set, Dec Lei 123/92, de 02-Jul,\
+    \ e Lei 39-B/94, de 27-Dez), 75º (na redacção do Dec Lei 123/92, de 02-Jul, Dec Lei 263/92, de 24-Nov, Lei 39-B/94, de\
+    \ 27-Dez, e Dec Lei 37/95, de 14-Fev) e 76º (na redacção do Dec Lei 192/90, de 09-Jun) do Código, pelo DEC LEI.25/98.1998.02.10.MF,\
+    \ DR.IS-A [34]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1998-229284
+  date: '1998-02-10'
+- type: amended_by
+  target: pt:dre:218483:por
+  label: "Alterados os art.s 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 27-Set, Dec\
+    \ Lei 123/92, de 02-Jul, Lei 39-B/94, de 27-Dez, e Dec Lei 25/98, de 10-Fev), 71º (na redacção do Dec Lei 251-A/91, de\
+    \ 16-Jul, Dec Lei 138/92, de 17-Jul, Dec Lei 263/92, de 24-Nov, Dec Lei 121/95 de 31-Maio, e Dec Lei 7/96, de 07-Fev),\
+    \ 80º (na redacção da Lei 30-C/92, de 28-Dez, e Dec Lei 7/96, de 07-Fev), 83º (na redacção do Dec Lei 251-A/91, de 16-Jul)\
+    \ e 111º (na redacção Dec Lei 138/92, de 17-Jun, e Dec Lei 7/96, de 07-Fev) e aditados os os art.s 74º-A e 83º-A ao Código,\
+    \ pelo DEC LEI.44/98.1998.03.03.MF, DR.IS-A [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1998-218483
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:218484:por
+  label: "Alterados os art.s 82º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, e Dec Lei 7/96, de\
+    \ 07-Fev), 84º (na redacção do Dec Lei 251-A/91, de 16-Jul, e Dec Lei 7/96, de 07-Fev), 85º (na redacção do Dec Lei 138/92,\
+    \ de 17-Jun, e Dec Lei 7/96, de 07-Fev), 86º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, e\
+    \ Dec Lei 7/96, de 07-Fev) e 96º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 123/92,\
+    \ de 02-Jul, e Lei 39-B/94, de 27-Dez) do Código, pelo DEC LEI.45/98.1998.03.03.MF, DR.IS-A [52]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1998-218484
+  date: '1998-03-03'
+- type: amended_by
+  target: pt:dre:478431:por
+  label: "Alterado o art. 8º do Código, na redacção do Dec Lei 215/89, de 01-Jul, e Dec Lei 138/92, de 17-Jun, pelo DEC LEI.159/98.1998.06.24.MF\
+    \ DR.IS-A [143]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-1998-478431
+  date: '1998-06-24'
+- type: amended_by
+  target: pt:dre:217935:por
+  label: "Alterados os art.s 38º (na redacção da Lei 34/91, de 27-Jul, Lei 39-B/94, de 27-Dez, e Lei 10-B/96, de 23-Mar),\
+    \ 57º-A, 57º-B (os dois na redacção do Dec Lei 37/95, de 14-Fev), 62º (na redacção do Dec Lei 123/92, de 02-Jul, Lei 30-C/92,\
+    \ de 28-Dez, e Lei 75/93, de 20-Dez), 64º-A (na redacção do Dec Lei 6/93, de 09-Jan), 75º (na redacção do Dec Lei 123/92,\
+    \ de 02-Jul, Dec Lei 263/92, de 24-Nov, Lei 39-B/94, de 24-Dez, Dec Lei 37/95, de 14-Fev, e Dec Lei 25/98, de 10-Fev)\
+    \ e 103º e revogado o nº 9 do art. 62º-A do Código, pelo DEC LEI.366/98.1998.11.23.MF \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/366-1998-217935
+  date: '1998-11-23'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: "Alterados os art.s 8º (na redacção do Dec Lei 215/89, de 01-Jul, Dec Lei 138/92, de 17-Jun, e Dec Lei 159/98, de\
+    \ 24-Jun), 11º (na redacção da Lei 75/93, de 20-Dez, Lei 39-B/94, de 27-Dez, e Lei 52-C/96, de 27-Dez), 24º (na redacção\
+    \ da Lei 30-C/92, de 28-Dez, e Dec Lei 3/97, de 08-Jan), 41º (na redacção do Dec Lei 95/90, de 20-Mar, Dec Lei 251-A/91,\
+    \ de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 67/93, de 10-Mar, Lei 39-B/94, de 27-Dez, e Lei 10-B/96, de 23-Mar), 59º\
+    \ (na redacção do Dec Lei 251-A/91, de 16-Jul, Lei 71/93, de 26-Nov, e Lei 52-C/96, de 27-Dez), 62º (na redacção do Dec\
+    \ Lei 123/92, de 02-Jul, Lei 30-C/92, de 28-Dez, Lei 75/93, de 20-Dez, e Dec Lei 366/98, de 23-Nov), 73º (na redacção\
+    \ da Lei 75/93, de 20-Dez), 80º (na redacção da Lei 30-C/92, de 28-Dez, Dec Lei 7/96, de 07-Fev, e Dec Lei 44/98, de 03-Mar),\
+    \ 94º (na redacção da Lei 39-B/94, de 27-Dez, Dec Lei 7/96, de 07-Fev, e Lei 52-C/96, de 27-Dez) e 114º do Código, pela\
+    \ LEI.87-B/98.1998.12.31.AR DR.IS-A [301] 5ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:693811:por
+  label: "Alterado o art. 38º do Código, na redacção da Lei 34/91, de 27-Jul, da Lei 39-B/94, de 27-Dez, da Lei 10-B/96, de\
+    \ 23-Mar, e do Dec Lei 366/98, de 23-Nov, pelo DEC LEI.454/99.1999.11.05.MF, DR.IS-A [258]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/454-1999-693811
+  date: '1999-11-05'
+- type: amended_by
+  target: pt:dre:682986:por
+  label: "Alterados os art.s 1º, 15º, 16º, 46º (o último na redacção da Lei 30-C/92, de 28-Dez, Lei 39-B/94, de 27-Dez, e\
+    \ Dec Lei 18/97, de 21-Jan), 51º, 52º, 53º, 54º (o último na redacção do Dec Lei 7/96, de 07-Fev, e Dec Lei 23/97, de\
+    \ 23-Jan), 56º, 77º, 79º, 80º (na redacção da Lei 30-C/92, de 28-Dez, Dec Lei 7/96, de 07-Fev, Dec Lei 44/98, de 03-Mar,\
+    \ e Lei 87-B/98, de 31-Dez), 81º (o último na redacção do Dec Lei 7/96, de 07-Fev), 82º (na redacção do Dec Lei 251-A/91,\
+    \ de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 7/96, de 07-Fev, e Dec Lei 45/98, de 03-Mar), 86º (na redacção do Dec\
+    \ Lei 251-A/91, de 16-Jul, e Dec Lei 138/92, de 17-Jun, Dec Lei 7/96, de 07-Fev, e Dec Lei 45/98, de 03-Mar), 89º, 91º\
+    \ (o último na redacção do Dec Lei 7/96, de 07-Fev, e Dec Lei 23/97, de 23-Jan), 108º e 111º (o último na redacção do\
+    \ Dec Lei 138/92, de 17-Jun, Dec Lei 7/96, de 07-Fev, e Dec Lei 44/98, de 03-Mar) bem como a designação da secção V do\
+    \ capítulo III e revogado o art. 55º do Código, pelo DEC LEI.472/99.1999.11.08.MF, DR.IS-A [260]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:679669:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC - PARTE 1 - Alterados os art.s 24º (na redacção da Lei 30-C/92, de 28-Dez,\
+    \ Dec Lei 3/97, de 08-Jan, e Lei 87-B/98, de 31-Dez), 33º (na redacção da Lei 71/93, de 26-Nov, e Dec Lei 21/97, de 31-Jan),\
+    \ 38º (na redacção da Lei 34/91, de 27-Jul, Lei 39-B/94, de 27-Dez, Lei 10-B/96, de 23-Mar, Dec Lei 366/98, de 23-Nov,\
+    \ e Dec Lei 454/99, de 05-Nov), 62º (na redacção do Dec Lei 123/92, de 02-Jul, Lei 30-C/91, de 28-Dez, Lei 75/93, de 20-Dez,\
+    \ Dec Lei 366/98, de 23-Nov, e Lei 87-B/98, de 31-Dez) do Código, pela LEI.3-B/2000.2000.04.04.AR,DR.IS-A [80]2º Supl\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2000-679669
+  date: '2000-04-04'
+- type: amended_by
+  target: pt:dre:530000:por
+  label: "Alterados os art.s 44º (na redacção da Lei 71/93, de 26-Nov, Lei 39-B/94, de 27-Dez, Lei 52-C/96, de 27-Dez, e Dec\
+    \ Lei 21/97, de 21-Jan) 57º-B (na redacção do Dec Lei 37/95, de 14-Fev, e Dec Lei 366/98, de 23-Nov), 62º (na redacção\
+    \ do Dec Lei 123/92, de 02-Jul, Lei 30-C/92, de 28-Dez, Lei 75/93, de 20-Dez, Dec Lei 366/98, de 23-Nov, Lei 87-B/98,\
+    \ de 31-Dez, e Lei 3-B/2000, de 04-Abr), 62º-A (na redacção do Dec Lei 123/92, de 02-Jul), 64º-A (na redacção do Dec Lei\
+    \ 6/93, de 09-Jan, e Dec Lei 366/98, de 23-Nov), 68º-B (na redacção do Dec Lei 257-B/96, de 31-Dez), 94º (na redacção\
+    \ da Lei 39-B/94, de 27-Dez, Dec Lei 7/96, de 07-Fev, Lei 52-C/96, de 27-Dez, e Lei 87-B/98, de 31-Dez), 96º (na redacção\
+    \ do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jul, Dec Lei 123/92, de 02-Jul, Lei 39-B/94, de 27-Dez, e Dec\
+    \ Lei 45/98, de 03-Mar), 102º (na redacção do Dec Lei 192/90, de 09-Jun, e Dec Lei 166/94, de 09-Jun) e 104º (na redacção\
+    \ do Dec Lei 166/94, de 09-Jun) e aditado um art. 96º-A ao Código, pelo DEC LEI.55/2000.2000.04.14.MF,DR.IS-A [89]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2000-530000
+  date: '2000-04-14'
+- type: amended_by
+  target: pt:dre:212015:por
+  label: "MODIFICAÇÕES SOFRIDAS NO IRC- PARTE 1 - Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, Lei 39-B/94,\
+    \ de 27-Dez, Dec Lei 37/95, de 14-Fev, e Dec Lei 25/98, de 10-Fev), 5º, 8º (o último na redacção do Dec Lei 215/89, de\
+    \ 01-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 159/98, de 24-Jun, e Lei 87-B/98, de 31-Dez), 9º (na redacção do dec Lei\
+    \ 192/90, de 09-Jun, Lei 39-B/94, e Lei 10-B/96, de 23-Mar), 14º, 32º (o último na redacção do Dec Lei 138/92, de 17-Jun,\
+    \ Lei 71/93, de 26-Nov, e Lei 10-B/96, de 23-Mar), 33º (na redacção da Lei 71/93, de 26-Nov, Dec Lei 21/97, de 31-Jan,\
+    \ e Lei 3-B/2000, de 04-Abr), 38º (na redacção da Lei 34/91, de 27-Jul, Lei 39-B/94, de 27-Dez, Lei 10-B/96, de 23-Mar,\
+    \ Dec Lei 366/98, de 23-Nov, Dec Lei 454/99, de 05-Nov, e Lei 3-B/2000, de 04-Abr), 41º ( na redacção do Dec Lei 95/90,\
+    \ de 20-Mar, Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 67/93, de 10-Mar, Lei 39-B/94, de 27-Dez,\
+    \ Lei 10-B/96, de 23-Mar, e Lei 87-B/98, de 31-Dez), 42º (na redacção do Dec Lei 263/92, de 24-Nov, Lei 71/93, de 26-Nov,\
+    \ e Dec Lei 420/93, de 28-Dez), 44º (na redacção da Lei 71/93, de 26-Nov, Lei 39-B/94, de 27-Dez, Lei 52-C/96, de 27-Dez,\
+    \ Dec Lei 21/97, de 21-Jan, e Dec Lei 55/2000, de 14-Abr), 45º (na redacção do Dec Lei 377/90, de 30-Nov, Dec Lei 251-A/91,\
+    \ de 16-Jul, e Dec Lei 123/92, de 02-Jul), 46º (na redacção da Lei 30-C/92, de 28-Dez, Lei 39-B/94, de 27-Dez, Dec Lei\
+    \ 18/97, de 21-Jan, e Dec Lei 472/99, de 08-Nov), 51º, 52º (os dois na redacção do Dec Lei 472/99, de 08-Nov), 57º, 57º-A\
+    \ (o último na redacção do Dec Lei 37/95, de 14-Fev, e Dec Lei 366/98, de 23-Nov), 57º-B (na redacção do Dec Lei 37/95,\
+    \ de 14-Fev, Dec Lei 366/98, de 23-Nov, e Dec Lei 55/2000, de 14-Abr), 57º-C (na redacção do Dec Lei 5/96, de 29-Jan,\
+    \ e Lei 10-B/96, de 23-Mar), 59º (na redacção do Dec Lei 251-A/91, de 16-Jul, Lei 71/93, de 26-Nov, Lei 52-C/96, de 27-Dez,\
+    \ e Lei 87-B/98, de 31-Dez), 59º-A (na redacção da Lei 71/93, de 26-Nov), 60º (na redacção do Dec Lei 251-A/91, de 16-Jul,\
+    \ Lei 71/93, de 26-Nov, e 52-C/96, de 27-Dez), 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei\
+    \ 360/91, de 28-Set, Dec Lei 123/92, de 02-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Mar,\
+    \ e Lei 3-B/2000, de 04-Abr), 71º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jul, Dec Lei 263/92,\
+    \ de 24-Nov, Dec Lei 121/95, de 31-Maio, Dec Lei 7/96, de 07-Fev, e Dec Lei 44/98, de 03-Mar), 74º-A (na redacção do Dec\
+    \ Lei 44/98, de 03-Mar), 75º (na redacção do Dec Lei 123/92, de 02-Jul, Dec Lei 263/92, de 24-Nov, Lei 39-B/94, de 24-Dez,\
+    \ Dec Lei 37/95, de 14-Fev, Dec Lei 25/98, de 10-Fev, e Dec Lei 366/98, de 23-Nov), 76º (na redacção do Dec Lei 192/90,\
+    \ de 09-Jun, e Dec Lei 25/98, de 10-Fev) do Código, pela LEI.30-G/2000.2000.12.29.AR DR.IS-A [299]3º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-g-2000-212015
+  date: '2000-12-29'
+- type: amended_by
+  target: pt:dre:322110:por
+  label: "Alterado o art. 97º do Código, na redacção do Dec Lei 251-A/91, de 16-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 7/96,\
+    \ de 07-Fev, e Lei 52-C/96, de 27-Dez, pela LEI.15/2001.2001.06.05.AR DR.IS-A [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/15-2001-322110
+  date: '2001-06-05'
+- type: amended_by
+  target: pt:dre:347542:por
+  label: "Aprovada a revisão e republicado o Código, pelo DEC LEI.198/2001.2001.07.03.MF, DR.IS-A [152]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/198-2001-347542
+  date: '2001-07-03'
+- type: amended_by
+  target: pt:dre:522865:por
+  label: "Alterado o art. 42º do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, na redacção do Dec Lei 263/92,\
+    \ de 24-Nov, Lei 71/93, de 26-Nov, Dec Lei 420/93, de 28-Dez, e Lei 30-G/2000, de 29-Dez, pela LEI.85/2001.2001.08.04.AR,\
+    \ DR.IS-A [180]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/85-2001-522865
+  date: '2001-08-04'
+- type: amended_by
+  target: pt:dre:521272:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC - PARTE 1 - Alterado o art. 18.º-A ( na redacção do Dec Lei 360/91, de 28-Set,\
+    \ Dec Lei 138/92, de 17-Jun, e Dec Lei 6/93, de 09-Jan) do diploma preambular bem como os art.s 43º (na redacção do Dec\
+    \ Lei 377/90, de 30-Nov, Dec Lei 360/91, de 28-Set, e Dec Lei 6/93, de 09-Jan), 67º (na redacção da Lei 52-C/96, de 27-Dez),\
+    \ 68º, 69º (o último na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 28-Set, Dec Lei 123/92,\
+    \ de 02-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Maio, Lei 3-B/2000, de 04-Abr, e Lei\
+    \ 30-G/2000, de 29-Dez) 70º (na redacção do Dec Lei 121/95, de 31-Maio, e Dec Lei 7/96, de 07-Fev), do Código, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.221/2001.2001.08.07.MF DR.IS-A [182]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/221-2001-521272
+  date: '2001-08-07'
+- type: amended_by
+  target: pt:dre:229157:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC – PARTE 1 -Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, Lei\
+    \ 39-B/94, de 27-Dez, Dec Lei 37/95, de 14-Fev, Dec Lei 25/98, de 10-Fev, Lei 30-G/2000, de 29-Dez), 6º, 12º, 14º (o último\
+    \ na redacção da Lei 30-G/2000, de 29-Dez), 40º (na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, Lei 2/92,\
+    \ de 09-Mar, Dec Lei 65/93, de 10-Mar, Lei 10-B/96, de 23-Mar, Lei 52-C/96, de 27-Dez, Lei 127-B/97, de 20-Dez, e Dec\
+    \ Lei 74/99, de 16-Mar), 42º (na redacção do Dec Lei 263/92, de 24-Nov, Lei 71/93, de 26-Nov, Dec Lei 420/93, de 28-Dez,\
+    \ Lei 30-G/2000, de 29-Dez, e Lei 85/2001, de 04-Ago), 45º (na redacção do Dec Lei 377/90, de 30-Nov, Dec Lei 251-A/91,\
+    \ de 16-Jul, Dec Lei 123/92, de 02-Jul, e Lei 30-G/2000, de 29-Dez), 46º (na redacção da Lei 30-C/92, de 28-Dez, Lei 39-B/94,\
+    \ de 27-Dez, Dec Lei 18/97, de 21-Jan, Dec Lei 472/99, de 08-Nov, e Lei 30-G/2000, de 29-Dez), 48º, 51º (o último na redacção\
+    \ do Dec Lei 472/99, de 08-Nov, e Lei 30-G/2000, de 29-Dez), 53º (na redacção do Dec Lei 472/99, de 08-Nov), 62º (na redacção\
+    \ do Dec Lei 123/92, de 02-Jul, Lei 30-C/92, de 28-Dez, Lei 75/93, de 20-Dez, Dec Lei 366/98, de 23-Nov, Lei 87-B/98,\
+    \ de 31-Dez, Lei 3-B/2000, de 04-Abr, e Dec Lei 55/2000, de 14-Abr), do Código, revisto e republicado pelo Dec Lei 198/2001,\
+    \ de 03-Jul, pela LEI.109-B/2001.2001.12.27.AR DR.IS-A[298]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/109-b-2001-229157
+  date: '2001-12-27'
+- type: amended_by
+  target: pt:dre:533809:por
+  label: "Alterado o nº 2 do art. 42º do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, na redacção do Dec\
+    \ Lei 263/92, de 24-Nov, Lei 71/93, de 26-Nov, Dec Lei 420/93, de 28-Dez, Lei 30-G/2000, de 29-Dez, Lei 85/2001, de 04-Ago,\
+    \ e Lei 109-B/2001, de 27-Dez, pela LEI.16-A/2002.2002.05.31.AR, DR.IS-A [125]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/16-a-2002-533809
+  date: '2002-05-31'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: "MODIFICAÇÕES SOFRIDAS BO CÓDIGO DO IRC – PARTE 1 - Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, Lei\
+    \ 39-B/94, de 27-Dez, Dec Lei 37/95, de 14-Fev, Dec Lei 25/98, de 10-Fev, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de\
+    \ 27-Dez), 8º (o último na redacção do Dec Lei 215/89, de 01-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 159/98, de 24-Jun,\
+    \ Lei 87-B/98, de 31-Dez, Lei 30-G/2000, de 29-Dez), 14º (na redacção da Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de\
+    \ 27-Dez), 23º (na redacção do Dec Lei 420/93, de 28-Dez, Lei 39-B/94, de 27-Dez, Lei 127-B/97, de 20-Dez), 42º (na redacção\
+    \ do Dec Lei 263/92, de 24-Nov, Lei 71/93, de 26-Nov, Dec Lei 420/93, de 28-Dez, Lei 30-G/2000, de 29-Dez, Lei 85/2001,\
+    \ de 04-Ago, Lei 109-B/2001, de 27-Dez, Lei 16-A/2002, de 31-Maio), 45º (na redacção do Dec Lei 377/90, de 30-Nov, Dec\
+    \ Lei 251-A/91, de 16-Jul, Dec Lei 123/92, de 02-Jul, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez), 46º (na redacção\
+    \ da Lei 30-C/92, de 28-Dez, Lei 39-B/94, de 27-Dez, Dec Lei 18/97, de 21-Jan, Dec Lei 472/99, de 08-Nov, Lei 30-G/2000,\
+    \ de 29-Dez, Lei 109-B/2001, de 27-Dez) do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.32-B/2002.2002.12.30.AR\
+    \ DR.IS-A [301]2ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:239796:por
+  label: "Alterados os art.s 16º ( na redacção do Dec Lei 472/99, de 08-Nov), 88º (na redacção do Dec Lei 192/90, de 09-Jun,\
+    \ Lei 39-B/94, de 27-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez), 90º (na redacção da Lei 109-B/2001, de\
+    \ 27-Dez, Lei 32-B/2002, de 30-Dez), e 91º (na redacção do Dec Lei 7/96, de 07-Fev, Dec Lei 23/97, de 23-Jan, Dec Lei\
+    \ 472/99, de 08-Nov) e revogado o art. 79º-B do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC\
+    \ LEI.80/2003.2003.04.23.MF DR.IS-A [95]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-2003-239796
+  date: '2003-04-23'
+- type: amended_by
+  target: pt:dre:447325:por
+  label: "Alterados os art.s 3º, 4º (na redacção da Lei 2/92, de 09-Mar, Lei 39-B/94, de 27-Dez, Dec Lei 37/95, de 14-Fev,\
+    \ Dec Lei 25/98, de 10-Fev, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez , Lei 32-B/2002, de 30-Dez), 8º (na redacção\
+    \ do Dec Lei 215/89, de 01-Jul, do Dec Lei 138/92, de 17-Jun, do Dec Lei 159/98, de 24-Jun, da Lei 87-B/98, de 31-Dez,\
+    \ da Lei 30-G/2000, de 29-Dez e da Lei 32-B/2002, de 30-Dez), 15º (na redacção do Dec Lei 472/99, de 08-Nov), 21º (na\
+    \ redacção do Dec Lei 3/97, de 08-Jan), 48º (na redacção da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez), 49º,\
+    \ 51º (o último na redacção do Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez), 53º (na\
+    \ redacção do Dec Lei 472/99, de 08-Nov, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez) e 112º (na redacção do Dec\
+    \ Lei 7/96, de 07-Fev, Lei 109-B/2001, de 27-Dez) e aditados os art.s 58º-A e 129º do Código, revisto e republicado pelo\
+    \ Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.287/2003.12.11.2003.MF, DR.IS-A [262] de 12.11.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-2003-447325
+  date: '2003-11-12'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: "Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, Lei 39-B/94, de 27-Dez, Dec Lei 37/95, de 14-Fev, Dec\
+    \ Lei 25/98, de 10-Fev, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 287/2003,\
+    \ de 12-Nov), 23º (na redacção do Dec Lei 420/93, de 28-Dez, Lei 39-B/94, de 27-Dez, Lei 127-B/97, de 20-Dez, Lei 32-B/2002,\
+    \ de 30-Dez), 58º (na redacção da Lei 75/93, de 20-Dez), 80º (na redacção da Lei 30-C/92, de 28-Dez, Dec Lei 7/96, de\
+    \ 07-Fev, Dec Lei 44/98, de 03-Mar, Lei 87-B/98, de 31-Dez, Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001,\
+    \ de 27-Dez), 81º (na redacção do Dec Lei 7/96, de 07-Fev, Dec Lei 472/99, de 08-Nov, Lei 3-B/2000, de 04-Abr) e 98º (na\
+    \ redacção do Dec Lei 32-B/2002, de 30-Dez) do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.107-B/2003.31.12.2003.AR,\
+    \ DR.IS-A [301-2ºSupl] de 31.12.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC - PARTE 1 - Alterados os art.s 8º (na redacção do Dec Lei 215/89, de 01-Jul,\
+    \ Dec Lei 138/92, de 17-Jun, Dec Lei 159/98, de 24-Jun, Lei 87-B/98, de 31-Dez, Lei 30-G/2000, de 29-Dez, Lei 32-B/2002,\
+    \ de 30-Dez, Dec Lei 287/2003, de 12-Nov), 14º (na redacção da Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei\
+    \ 32-B/2002, de 30-Dez), 40º (na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, Lei 2/92, de 09-Mar, Dec\
+    \ Lei 65/93, de 10-Mar, Lei 10-B/96, de 23-Mar, Lei 52-C/96, de 27-Dez, Lei 127-B/97, de 20-Dez, Dec Lei 74/99, de 16-Mar,\
+    \ Lei 109-B/2001, de 27-Dez), 42º (na redacção do Dec Lei 263/92, de 24-Nov, Lei 71/93, de 26-Nov, Dec Lei 420/93, de\
+    \ 28-Dez, Lei 30-G/2000, de 29-Dez, Lei 85/2001, de 04-Ago, Lei 109-B/2001, de 27-Dez, Lei 16-A/2002, de 31-Maio, Lei\
+    \ 32-B/2002, de 30-Dez), 46º (na redacção da Lei 30-C/92, de 28-Dez, Lei 39-B/94, de 27-Dez, Dec Lei 18/97, de 21-Jan,\
+    \ Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez), do Código,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.55-B/2004.30.12.2004.AR, DR.IS-A [304-2ºSupl] de 30.12.2004\0\
+    4\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:605329:por
+  label: "Alterados os art.s 80º (na redacção da Lei 30-C/92, de 28-Dez, Dec Lei 7/96, de 07-Fev, Dec Lei 44/98, de 03-Mar,\
+    \ Lei 87-B/98, de 31-Dez, Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 107-B/2003,\
+    \ de 31-Dez, Lei 55-B/2004, de 30-Dez), 90º (na redacção da Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei\
+    \ 80/2003, de 23-Abr) e aditado um art. 89º-A ao Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo\
+    \ DEC LEI.34/2005.17.02.2005.MFAP, DR.IS-A [34] de 17.02.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-2005-605329
+  date: '2005-02-17'
+- type: amended_by
+  target: pt:dre:235906:por
+  label: "Alterados os nºs 1 e 3 do art. 110º e nº 1 do art. 111º (o último artigo na redacção do Dec Lei 138/92, de 17-Jun,\
+    \ Dec Lei 7/96, de 07-Fev, Dec Lei 44/98, de 03-Mar, Dec Lei 472/99, de 08-Nov) do Código, revisto e republicado pelo\
+    \ Dec Lei 198/2001 de 03-Jul, pelo DEC LEI.111/2005.08.07.2005.MJ, DR.IS-A [130] de 08.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2005-235906
+  date: '2005-07-08'
+- type: amended_by
+  target: pt:dre:483459:por
+  label: "Alterados os art.s 47º (na redacção do Dec Lei 18/97, de 21-Jan) 85º (na redacção do Dec Lei 138/92, de 17-Jun,\
+    \ Dec Lei 7/96, de 07-Fev, Dec Lei 45/98, de 03-Mar, Lei 30-G/2000, de 29-Dez) do Código, revisto e republicado pelo Dec\
+    \ Lei 198/2001, de 03-Jul, pela LEI.39-A/2005.29.07.2005.AR, DR.IS-A [145]Supl de 29.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/39-a-2005-483459
+  date: '2005-07-29'
+- type: amended_by
+  target: pt:dre:245332:por
+  label: "Alterados os art.s 4º (na redacção da Lei 2/92, de 09-Mar, Lei 39-B/94, de 27-Dez, Dec Lei 37/95, de 14-Fev, Dec\
+    \ Lei 25/98, de 10-Fev, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 287/2003,\
+    \ de 12-Nov, Lei 107-B/2003, de 31-Dez), 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91,\
+    \ de 28-Set, Dec Lei 123/92, de 02-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Mar, Lei\
+    \ 3-B/2000, de 04-Abr, Lei 30-G/2000, de 29-Dez, Dec Lei 221/2001, de 07-Ago, Lei 32-B/2002, de 30-Dez) e 125º do Código,\
+    \ revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.50/2005.30.08.2005.AR, DR.IS-A [166] de 30.08.2005\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/50-2005-245332
+  date: '2005-08-30'
+- type: amended_by
+  target: pt:dre:583434:por
+  label: "Alterados os art.s 80º (na redacção da Lei 30-C/92, de 28-Dez, Dec Lei 7/96, de 07-Fev, Dec Lei 44/98, de 03-Mar,\
+    \ Lei 87-B/98, de 31-Dez, Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 107-B/2003,\
+    \ de 31-Dez, Lei 55-B/2004, de 30-Dez, Dec Lei 34/2005, de 17-Fev), 81º (na redacção do Dec Lei 7/96, de 07-Fev, Dec Lei\
+    \ 472/99, de 08-Nov, Lei 3-B/2000, de 04-Fev, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de\
+    \ 31-Dez, Lei 55-B/2004, de 30-Dez), 90º (na redacção do Dec Lei 7/96, de 07-Fev, Dec Lei 23/97, de 23-Jan, Dec Lei 472/99,\
+    \ de 08-Nov, Dec Lei 80/2003, de 23-Abr), 112º (na redacção do Dec Lei 7/96, de 07-Fev, Lei 109-B/2001, de 27-Dez, Dec\
+    \ Lei 287/2003, de 12-Nov) todos do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul. pelo DEC LEI.192/2005.07.11.2005.MFAP,\
+    \ DR.IS-A [213] de 07.11.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/192-2005-583434
+  date: '2005-11-07'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: "Alterados os art.s 8º (na redacção do Dec Lei 215/89, de 01-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 159/98, de 24-Jun,\
+    \ Lei 87-B/98, de 31-Dez, Lei 30-G/2000, de 29-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 287/2003, de 12-Nov, Lei 55-B/2004,\
+    \ de 30-Dez), 47º (na redacção do Dec Lei 18/97, de 21-Jan, Lei 39-A/2005, de 29-Jul), 61º, 69º (o último na redacção\
+    \ da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 28-Set, Dec Lei 123/92, de 02-Jul, Lei 39-B/94, de\
+    \ 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Mar, Lei 3-B/2000, de 04-Abr, Lei 30-G/2000, de 29-Dez, Dec Lei\
+    \ 221/2001, de 07-Ago, Lei 32-B/2002, de 30-Dez, Lei 50/2005, de 30-Ago), 99º e 109º (o último na redacção da Lei 3-B/2000,\
+    \ de 04-Abr) e aditado um art. 90º-A ao Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo DEC LEI.211/2005.07.12.2005.MFAP,\
+    \ DR.IS-A [234] de 07.12.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:376234:por
+  label: "Alterados os art.s 10º (na redacção da Lei 10-B/96, de 23-Mar), 15º (na redacção do Dec Lei 472/99, de 08-Nov, Dec\
+    \ Lei 287/2003, de 12-Nov), 42º (na redacção do Dec Lei 263/92, de 24-Nov, Lei 71/93, de 26-Nov, Dec Lei 420/93, de 28-Dez,\
+    \ Lei 30-G/2000, de 29-Dez, Lei 85/2001, de 04-Ago, Lei 109-B/2001, de 27-Dez, Lei 16-A/2002, de 31-Maio, Lei 32-B/2002,\
+    \ de 30-Dez, Lei 55-B/2004, de 30-Dez), 53º (na redacção do Dec Lei 472/99, de 08-Nov, Lei 109-B/2001, de 27-Dez, Lei\
+    \ 32-B/2002, de 30-Dez, Dec Lei 287/2003, de 12-Nov), 58º (na redacção da Lei 75/93, de 20-Dez, Lei 107-B/2003, de 31-Dez),\
+    \ 61º (na redacção do Dec Lei 211/2005, de 07-Dez), 83º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 44/98, de\
+    \ 03-Mar, Lei 3-B/2000, de 04-Abr, Lei 109-B/2001, de 27-Dez), 86º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei\
+    \ 138/92, de 17-Jun, Dec Lei 7/96, de 07-Fev, Dec Lei 45/98, de 03-Mar, Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez,\
+    \ Lei 109-B/2001, de 27-Dez, Lei 55-B/2004, de 30-Dez) e 98º (na redacção do Dec Lei 32-B/2002, de 30-Dez, Lei 107-B/2003,\
+    \ de 31-Dez) e aditada, à secção VI do cap. III, uma subseccção V-A - constituída pelos art.s 76º-A, 76º-B e 76º-C - ao\
+    \ Código, pela LEI.60-A/2005.30.12.2005.AR, DR.IS-A [250-Supl] de 30.12.2005\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/60-a-2005-376234
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: "Alterados os art.s 99º (na redacção do Dec Lei 211/2005, de 07-Dez), 112º (na redacção do Dec Lei 7/96, de 07-Fev,\
+    \ Lei 109-B/2001, de 27-Dez, Dec Lei 287/2003, de 12-Nov, Dec Lei 192/2005, de 07-Nov), 113º, 114º (o último na redacção\
+    \ da Lei 87-B/98, de 31-Dez, Lei 32-B/2002, de 30-Dez), 115º (na redacção da Lei 55-B/2004, de 30-Dez) e 116º e revogados\
+    \ o nº 5 do art. 113º e o nº 2 do art. 115º todos do Código, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pelo\
+    \ DEC LEI.238/2006.20.12.2006.MFAP, DR.IS [243] de 20.12.2006\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:197511:por
+  label: "Alterados os art.s 14º (na redacção da Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez,\
+    \ Lei 55-B/2004, de 30-Dez), 34º, 40º (o último na redacção do Dec Lei 192/90, de 09-Jun, Lei 34/91, de 27-Jul, Lei 2/92,\
+    \ de 09-Mar, Dec Lei 65/93, de 10-Mar, Lei 10-B/96, de 23-Mar, Lei 52-C/96, de 27-Dez, Lei 127-B/97, de 20-Dez, Dec Lei\
+    \ 74/99, de 16-Mar, Lei 109-B/2001, de 27-Dez, Lei 55-B/2004, de 30-Dez), 46º (na redacção da Lei 30-C/92, de 28-Dez,\
+    \ Lei 39-B/94, de 27-Dez, Dec Lei 18/97, de 21-Jan, Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001,\
+    \ de 27-Dez, Lei 32-B/2002, de 30-Dez, Lei 55-B/2004, de 30-Dez), 49º (na redacção do Dec Lei 287/2003, de 12-Nov), 63º\
+    \ (na redacção do Dec Lei 123/92, de 02-Jul, Lei 109-B/2001, de 27-Dez), 67º (na redacção da Lei 52-C/96, de 27-Dez, Dec\
+    \ Lei 221/2001, de 07-Ago, Lei 32-B/2002, de 30-Dez), 68º (na redacção do Dec Lei 221/2001, de 07-Ago, Lei 109-B/2001,\
+    \ de 27-Dez), 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 28-Set, Dec Lei 123/92,\
+    \ de 02-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Mar, Lei 3-B/2000, de 04-Abr, Lei\
+    \ 30-G/2000, de 29-Dez, Dec Lei 221/2001, de 07-Ago, Lei 32-B/2002, de 30-Dez, Lei 50/2005, de 30-Ago, Dec Lei 211/2005,\
+    \ de 07-Dez), 70º (na redacção do Dec Lei 121/95, de 31-Maio, Dec Lei 7/96, de 07-Fev, Dec Lei 221/2001, de 07-Ago), 73º\
+    \ (na redacção da Lei 87-B/98, de 31-Dez, Lei 75/93, de 20-Dez), 76º-A (na redacção da Lei 60-A/2005, de 30-Dez), 86º\
+    \ (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 7/96, de 07-Fev, Dec Lei 45/98, de 03-Mar,\
+    \ Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 109-B/2001, de 27-Dez, Lei 55-B/2004, de 30-Dez, Dec Lei 60-A/2005,\
+    \ de 30-Dez), 89º (na redacção do Dec Lei 472/99, de 08-Nov, Lei 55-B/2004, de 30-Dez), 90º (na redacção da Lei 109-B/2001,\
+    \ de 27-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 80/2003, de 23-Abr, Dec Lei 34/2005, de 17-Fev, Dec Lei 192/2005, de 07-Nov),\
+    \ 98º (na redacção do Dec Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de 31-Dez, Dec Lei 60-A/2005, de 30-Dez), 110º (na\
+    \ redacção do Dec Lei 111/2005, de 08-Jul) e 129º (na redacção da Lei 109-B/2001, de 27-Dez), aditado um art 35º-A e revogados\
+    \ o nº 10 do art. 46º, os nºs. 10 e 11 do art. 63º, e o nº 2 do art. 89º , todos do Código, revisto e republicado pelo\
+    \ Dec Lei 198/2001, de 03-Jul, pela LEI.53-A/2006.29.12.2006.AR, DR.IS [249-Supl] de 29.12.2006\006\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/53-a-2006-197511
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC (PARTE 1) Alterado o art 14º (na redacção das Leis 30-G/2000 de 29-Dez, 109-B/2001\
+    \ de 27-Dez, 32-B/2002 de 30-Dez, 55-B/2004 de 30-Dez e 53-A/2006 de 29-Dez), art. 40º (na redacção do Dec Lei 192/90\
+    \ de 09-Jun, Leis 34/91 de 27-Jul e 2/92 de 09-Mar, Dec Lei 65/93 de 10-Mar, Leis 10-B/96 de 23-Mar, 52-C/96 de 27-Dez,\
+    \ e 127-B/97 de 20-Dez, Dec Lei 74/99 de 16-Mar, Leis 109-B/2001 de 27-Dez, 55-B/2004 de 30-Dez e 53-A/2006 de 29-Dez),\
+    \ art 42º (na redacção da Lei 71/93 de 25-Nov, Dec Lei 263/92 de 24-Nov, Dec Lei 420/93 de 28-Dez, Leis 30-G/2000 de 29-Dez,\
+    \ 85/2001 de 04-Ago, 109-B/2001 de 27-Dez, 16-A/2002 de 31-Mai, 32-B/2002 de 30-Dez, 55-B/2004 de 30-Dez e 60-A/2005 de\
+    \ 30-Dez), art. 53º (na redacção do Dec Lei 472/99 de 08-Nov, Leis 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, Dec Lei\
+    \ 287/2003 de 12-Nov e Lei 60-A/2005 de 30-Dez), art. 75º (na redacção dos Dec Lei 123/92 de 02-Jul e 263/92 de 24-Nov,\
+    \ Lei 39-B/94 de 27-Dez, Dec Leis 37/95 de 14-Fev, 25/98 de 10-Fev e 366/98 de 23-Nov, Leis 30-G/2000 de 29-Dez e 109-B/2001\
+    \ de 27-Dez), art. 81º ( na redacção dos Dec Leis 7/96 de 07-Fev, 472/99 de 08-Nov, Leis 3-B/2000 de 04-Abr, 109-B/2001\
+    \ de 21-Dez, 32-B/2002 de 30-Deze 107-B/2003 de 31-Dez e Dec Lei 192/2005 de 07-Nov), art. 89º (na redacção do Dec Lei\
+    \ 472/99 de 08.-Nov, Leis 55-B/2004 de 30-Dez e 53-A/2006 de 29-Dez), todos do Código do IRC aprovado pelo presente diploma,\
+    \ revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.67-A/2007.31.12.2007.AR, DR.IS [251-Supl] de 31.12.2007\0\
+    007\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:440498:por
+  label: "Alterados os art.s 81º (na redacção do Dec Lei 7/96 de 07-Fev, Dec Lei 472/99 de 08-Nov, Lei 3-B/2000, de 04-Abr,\
+    \ Lei 109-B/2001, de 21-Dez, Lei 32-B/2002, de 30-Dez, Lei 107-B/2003 de 31-Dez, Lei 55-B/2004, de 30-Dez, Dec Lei 192/2005,\
+    \ de 07-Nov, e Lei 67-A/2007, de 31-Dez) e 96.º (na redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 123/92, de 02-Jul,\
+    \ Dec Lei 138/92, de 17-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 45/98, de 03-Mar, Dec Lei 55/2000, de 14-Mar, e Lei 30-G/2000,\
+    \ de 29-Dez) do Código do IRC, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, pela LEI.64/2008.05.12.2008.AR,\
+    \ DR.IS [236] de 05.12.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2008-440498
+  date: '2008-12-05'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: "MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC - PARTE 1 - Alterados os arts. 9.º (na redacção do Dec Lei 192/90 de 09-Jun,\
+    \ Leis 39-B/94 de 27-Dez, 10-B/96 de 23-Mar e 30-G/2000 de 29-Dez), 34.º (na redacção da Lei 53-A/2006 de 29-Dez), 38.º\
+    \ (na redacção das Leis 34/91 de 27-Jul, 39-B/94 de 27-Dez, 10-B/96 de 23-Mar, Dec Lei 366/98 de 23-Nov, DEc Lei 454/99\
+    \ de 05-Nov e Leis 3-B/2000 de 04-Abr e 30-G/2000 de 29-Dez), 40.º (na redacção dos Dec Lei 65/93 de 10-Mar, Dec Lei 192/90\
+    \ de 09-Jun, Leis 34/91 de 27-Jul, 2/92 de 09-Mar, 10-B/96 de 23-Mar, 52-C/96 de 27-Dez, 127-B/97 de 20-Dez, Dec Lei 74/99\
+    \ de 16-Mar, Leis 109-B/2001 de 27-Dez, 55-B/2004 de 30-Dez, 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez), 80.º (na redacção\
+    \ da Lei 30-C/92, de 28-Dez, Dec Lei 7/96 de 27-Fev, Dec Lei 44/98, de 03-Mar, Lei 87-B/98, de 31-Dez, Dec Lei 472/99\
+    \ de 08-Nov, Leis 30-G/2000 de 29-Dez, 109-B/2001, de 27-Dez, 107-B/2003, de 31-Dez, 55-B/2004, de 30-Dez e Dec Lei 34/2005\
+    \ de 17-Fev e 192/2005 de 07-Nov), do Código do IRC, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei\
+    \ 198/2001 de 03-Jul, pela LEI.64-A/2008.31.12.2008.AR, DR.IS [252-Supl] de 31.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:604822:por
+  label: "Alterado o art. 98º do Código, na redacção da Lei 32-B/2002, de 30-Dez, Lei 107-B/2003, de 31-Dez, Lei 60-A/2005,\
+    \ de 30-Dez, Lei 53-A/2006, de 29-Dez, e Lei 64-A/2008, de 31-Dez., pela LEI.10/2009.10.03.2009.AR, DR.IS [48] de 10.03.2009\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/10-2009-604822
+  date: '2009-03-10'
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterado, a partir de 01.10.2009, o art. 110º do Código aprovado pelo presente diploma, na redacção do Dec Lei 111/2005,\
+    \ de 08-Jul, e Lei 53-A/2006, de 29-Dez, pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
+- type: amended_by
+  target: pt:dre:492429:por
+  label: "Alterados, a partir de 18.07.2009, os arts. 18.º (na redacção do Dec Lei 192/90, de 09-Jun e da Lei 75/93, de 20-Dez),\
+    \ 19.º (na redacção do Dec Lei 138/92, de 17-Jun), 20.º (na redacção do Dec Lei 3/97, de 08-Jan), 21.º (na redacção do\
+    \ Dec Lei 3/97, de 08-Jan e do Dec Lei 287/2003, de 12-Nov), 22.º (na redacção do Dec Lei 251-A/91, de 16-Jul), 23.º (na\
+    \ redacção do Dec Lei 420/93, de 28-Dez, da Lei 39-B/94, de 27-Dez, da Lei 127-B/97, de 20-Dez, da Lei 32-B/2002, de 30-Dez\
+    \ e da Lei 107-B/2003, de 31-Dez), 24.º (na redacção da Lei 30-C/92, de 28-Dez, do Dec Lei 3/97, de 08-Jan, da Lei 87-B/98,\
+    \ de 31-Dez e da Lei 3-B/2000, de 04-Abr), 25.º, 26.º, 28.º (este último na redacção do Dec Lei 192/90, de 09-Jan), 29.º,\
+    \ 31.º (este último na redacção da Lei 10-B/96, de 23-Mar), 32.º (na redacção do Dec Lei 138/92, de 17-Jun, da Lei 71/93,\
+    \ de 26-Nov, do Dec Lei 420/93, de 28-Dez, da Lei 10-B/96, de 23-Mar e da Lei 30-G/2000, de 29-Dez), 33.º (na redacção\
+    \ da Lei 71/93, de 26-Nov, do Dec Lei 21/97, de 21-Jan, da Lei 3-B/2000, de 04-Abr e da Lei 30-G/2000, de 29-Dez), 34.º\
+    \ (na redacção da Lei 53-A/2006, de 29-Dez e da Lei 64-A/2008, de 31-Dez), 35.º-A (aditado pela Lei 53-A/2006, de 29-Dez),\
+    \ 36.º (na redacção da Lei 75/93, de 20-Dez), 39.º (na redacção do Dec Lei 65/93, de 10-Mar, da Lei 127-B/97, de 20-Dez\
+    \ e do Dec Lei 74/99, de 16-Mar), 40.º (na redacção do Dec Lei 192/90, de 09-Jun, da Lei 34/91, de 27-Jul, da Lei 2/92,\
+    \ de 09-Mar, do Dec Lei 65/93, de 10-Mar, da Lei 10-B/96, de 23-Mar, da Lei 52-C/96, de 27-Dez, da Lei 127-B/97, de 20-Dez,\
+    \ do Dec Lei 74/99, de 16-Mar, da Lei 109-B/2001, de 27-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 53-A/2006, 29-Dez, da\
+    \ Lei 67-A/2007 e da Lei 64-A/2008, de 31-Dez), 42.º (na redacção do Dec Lei 263/92, de 24-Nov, da Lei 71/93, de 26-Nov,\
+    \ do Dec Lei420/93, de 28-Dez, da Lei 30-G/2000, de 29-Dez, da Lei 85/2001, de 04-Ago, da Lei 109-B/2001, de 27-Dez, da\
+    \ Lei 16-A/2002, de 31-Mar, da Lei 32-B/2002, de 30-Dez, da Lei 55-B/2004, de 30-Dez, da Lei 60-A/2005, de 30-Dez e da\
+    \ Lei 67-A/2007, de 31-Dez), 43.º (na redacção do Dec Lei 377/90, de 30-Nov,do Dec Lei 360/91, de 28-Set, do Dec Lei 6/93,\
+    \ de 09-Jan e do Dec Lei 221/2001, de 07-Ago), 44.º (na redacção da Lei 71/93, de 26-Nov, da Lei 39-B/94, de 27-Dez, da\
+    \ Lei 52-C/96, de 27-Dez, do Dec Lei 21/97, de 21-Jan, do Dec Lei 55/2000, de 14-Abr e da Lei 30-G/2000, de 29-Dez), 45.º\
+    \ (na redacção do Dec Lei 377/90, de 30-Nov, do Dec Lei 251-A/91, de 16-Jul, do Dec Lei 123/92, de 02-Jul, do Dec Lei\
+    \ 3/97, de 08-Jan, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e da Lei 32-B/2002, de 30-Dez), 58.º-A (aditado\
+    \ pelo Dec Lei 287/2003, de 12-Nov), 68.º (na redacção do Dec Lei 221/2001, de 07-Ago, da Lei 109-B/2001, de 27-Dez e\
+    \ da Lei 53-A/2006, de 29-Dez), 70.º (na redacção do Dec Lei 121/95, de 31-Mar, do Dec Lei 7/96, de 07-Fev, do Dec Lei\
+    \ 221/2001, de 07-Ago e da Lei 53-A/2006, de 29-Dez), 71.º (na redacção do Dec Lei 251-A/91, de 16-Jul, do Dec Lei 138/92,\
+    \ de 17-Jun, do Dec Lei 263/92, de 24-Nov, do Dec Lei 121/95, de 31-Mar, do Dec Lei 7/96, de 07-Fev, do Dec Lei 44/98,\
+    \ de 03-Mar, da Lei 30-G/2000, de 29-Dez e do Dec Lei 221/2001, de 07-Ago), 72.º (na redacção do Dec Lei 251-A/91, de\
+    \ 16-Jul, da Lei 30-C/92, de 28-Dez, da Lei 39-B/94, de 27-Dez, do Dec Lei 121/95, de 31-Mar, do Dec Lei 3/97, de 08-Jan,\
+    \ do Dec Lei 221/2001, de 07-Ago e da Lei 109-B/2001, de 27-Dez) e 113.º (na redacção do Dec Lei 238/2006, de 20-Dez e\
+    \ da Lei 67-A/2007, de 31-Dez), a subsecção ii da secção ii do cap. iii passa a ter a epígrafe «Inventários» e a subsecção\
+    \ iv da secção ii do cap. iii passa a ter a epígrafe «Imparidades e provisões, aditados os arts. 27.º-A, 35.º-B, 39.º-A,\
+    \ 45.º-A e 45.º-B, bem como aditada a subsecção vi-A, com a epígrafe «Instrumentos financeiros derivados», constituída\
+    \ pelo art. 45.º-A e a subsecção vi-B, com a epígrafe «Empresas de seguros», constituída pelo art. 45.º-B, adaptada a\
+    \ terminologia fiscal à contabilística [passando as «existências» a designar-se «inventários» ou «activos biológicos»,\
+    \ o «imobilizado incorpóreo» a designar-se «activo intangível», o «imobilizado corpóreo» a designar-se «activo fixo tangível»,\
+    \ as «provisões (activo)» a designar-se «ajustamentos», substituindo a terminologia «reintegração e amortização» pela\
+    \ terminologia «depreciação e amortização», o conceito «custos e perdas» pelo conceito «gastos», o conceito «proveitos\
+    \ e ganhos» pelo conceito «rendimentos», a terminologia «reposições de provisões (activo)» pela terminologia «reversões\
+    \ de ajustamentos»] revogados os n.ºs 4, 5 e 6 do art. 19.º, os n.ºs 3 e 4 e a al. c) do n.º 5 do art. 23.º, os n.ºs 2,\
+    \ 3, 4 e 5 do art. 24.º, o art. 37.º, o n.º 4 do art. 71.º e os arts. 78.º e 79.º e renumerados, de acordo com a tabela\
+    \ de correspondência anexa constante do anexo I, os arts. do Código do IRC, revisto e republicado pelo Dec Lei 198/2001,\
+    \ de 03-Jul, e republicado na íntegra, pelo DEC LEI.159/2009.13.07.2009.MFAP, DR.IS [133] de 13.07.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/159-2009-492429
+  date: '2009-07-13'
+- type: amended_by
+  target: pt:dre:489219:por
+  label: "Alterado o art. 81º (com a redacção do Dec Lei 7/96 de 07-Fev, do Dec Lei 472/99 de 08-Nov, da Lei 3-B/2000 de 04-Abr,\
+    \ da Lei 109-B/200 de 21-Dez, da Lei 32-B/2002 de 30-Dez, da Lei 107-B/2003 de 31-Dez, da Lei 55-B/2004 de 30-Dez, do\
+    \ Dec Lei 192/2005 de 07-Nov, da Lei 67-A/2007, de 31-Dez e da Lei 64-A/2008 de 31-Dez) do Código do IRC aprovado pelo\
+    \ presente diploma, revisto e republicado pelo Dec Lei 198/2001 de 03-Jul, pela LEI.100/2009.07.09.2009.AR, DR.IS [173]\
+    \ de 07.09.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2009-489219
+  date: '2009-09-07'
+- type: amended_by
+  target: pt:dre:491734:por
+  label: "Alterado, a partir de 01.01.2010, o art. 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei\
+    \ 360/91, de 28-Set, Dec Lei 123/92, de 02-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Mar,\
+    \ Lei 3-B/2000, de 04-Abr, Lei 30-G/2000, de 29-Dez, Dec Lei 221/2001, de 07-Ago, Lei 32-B/2002, de 30-Dez, Lei 50/2005,\
+    \ de 30-Ago, Dec Lei 211/2005, de 07-Dez e Lei 53-A/2006 de 29-Dez), 104º (na redacção do Dec Lei 166/94, de 09-Jun, e\
+    \ Dec Lei 55/2000, de 14-Abr e Lei 30-G/2000 de 29-Dez), 107.º, 108.º (este último na redacção do Dec Lei 138/92 de 17-Jun),\
+    \ 117.º, 120.º, 121.º (este último na redacção do Dec Lei 221/2001 de 07-Ago) e 141.º, todos do Código do IRC aprovado\
+    \ pelo presente diploma, republicado pelo Dec Lei 198/2001 de 03-Jul, posteriormente republicado pelo Dec Lei 159/2009\
+    \ de 13-Jul, pelo DEC LEI.292/2009.13.10.2009.MFAP, DR.IS [198] de 13.10.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/292-2009-491734
+  date: '2009-10-13'
+- type: amended_by
+  target: pt:dre:483151:por
+  label: "Declarada a inconstitucionalidade, com força obrigatória geral, da norma contida no nº 9 do art. 98º (na parte em\
+    \ que impõe que efectuem o pagamento especial por conta entidades que, no exercício a que o pagamento respeita, apenas\
+    \ aufiram rendimentos isentos de IRC) do Código do Imposto sobre do Rendimento das Pessoas Colectivas, aprovado no presente\
+    \ diploma, pelo AC.494/2009.23.10.2009.TCS, DR.IS [206] de 23.10.2009, que ressalvou os efeitos produzidos pela citada\
+    \ norma até à publicação daquele acórdão. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao-tribunal-constitucional/494-2009-483151
+  date: '2009-10-23'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: "Alterado o art 14º (na redacção das Leis 30-G/2000 de 29-Dez, 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, 55-B/2004\
+    \ de 30-Dez e 53-A/2006 de 29-Dez e e 67-A/2007 de 31-Dez), 34.º (na redacção das Leis 53-A/2006, de 29-Dez, 64-A/2008,\
+    \ de 31-Dez, Dec Lei 159/2009 de 13 de Julho e rectificado pela Decl), 48º (na redacção das Leis 109-B/2001, de 27-Dez,\
+    \ 32-B/2002, de 30-Dez, Dec Lei 287/2003, de 12-Nov e Lei 55-B/2004 de 30-Dez), 51º (na redacção do Dec Lei 472/99, de\
+    \ 08-Nov, das Leis 30-G/2000, de 29-Dez, 109-B/2001, de 27-Dez e Dec Lei 287/2003 de 12-Nov), 52º (na redacção do Dec\
+    \ Lei 472/99, de 08-Nov e Lei 30-G/2000 de 29-Dez), 59º (na redacção do Dec Lei 251-A/91, de 16-Jul, e Leis 71/93, de\
+    \ 26-Nov, 52-C/96, de 27-Dez, 87-B/98, de 31-Dez e 30-G/2000 de 29-Dez - a alteração deste artigo que se reporte ao regime\
+    \ simplificado, produz efeitos a partir de 1 de Janeiro de 2011), 73º (na redacção das Leis 87-B/98, de 31-Dez, 75/93,\
+    \ de 20-Dez e 53-A/2006 de 29-Dez - a alteração à alínea a) do n.º 7 deste artigo que se reporte ao regime simplificado,\
+    \ produz efeitos a partir de 1 de Janeiro de 2011), 88.º (na redacção do Dec Lei 192/90 de 09-Jun, Leis 39-B/94 de 27-Dez,\
+    \ 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, Dec Lei 80/2003 de 23-Abr e Lei 64-A/2008 de 31-Dez), 90º ( na redacção das\
+    \ Leis 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, Dec Lei 80/2003 de 23-Abr, Decl Rect 7-A/2003 de 14-Mai, Dec Leis 34/2005\
+    \ de 17-Fev, 192/2005 de 07-Nov e Leis 53-A/2006 de 29-Dez e 67-A/2007 de 31-Dez - a alteração à alínea b) do n.º 1 deste\
+    \ artigo, que se reporte ao regime simplificado, produz efeitos a partir de 1 de Janeiro de 2011), 92.º (na redacção da\
+    \ Lei 30-G/2000 de 29-Dez - a alteração deste artigo, que se reporte ao regime simplificado, produz efeitos a partir de\
+    \ 1 de Janeiro de 2011), 93.º, 95.º (este último na redacção do Dec Lei 192/90, de 09-Jun, Leis 39-B/94, de 27-Dez e 3-B/2000\
+    \ de 04-Abr), 98º (na redacção das Leis 32-B/2002, de 30-Dez, 107-B/2003, de 31-Dez, 60-A/2005, de 30-Dez, 53-A/2006,\
+    \ de 29-Dez, 64-A/2008, de 31-Dez e 10/2009 de 10-Mar), e 106.º, revoga o o n.º 3 do art 52.º, o art 58.º, o n.º 3 do\
+    \ art 87.º, o nº 10 do art 88.º, o nº 3 do art 90.º e o nº 9 do art 106.º, - [A revogação do n.º 3 do artigo 52.º, do\
+    \ artigo 58.º e dos n.os 3 do artigo 87.º, 10 do artigo 88.º e 3 do artigo 90.º produzem efeitos a partir de 1 de Janeiro\
+    \ de 2011], todos do Código do IRC, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de03-Jul\
+    \ e republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.3-B/2010.28.04.2010.AR, DR.IS [82-Supl] de 28.04.2010\010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:292110:por
+  label: "Aditados os arts. 87.º-A, 104.º-A e 105.º-A, do Código do IRC, pela LEI.12-A/2010.30.06.2010.AR, DR.IS [125-Supl]\
+    \ de 30.06.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-a-2010-292110
+  date: '2010-06-30'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: "Alterados os arts. 14º (na redacção das Leis 30-G/2000 de 29-Dez, 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, 55-B/2004\
+    \ de 30-Dez e 53-A/2006 de 29-Dez, 67-A/2007 de 31-Dez e 3-B/2010, de 28-Abr), 36.º (na redacção da Lei 75/93, de 20-Dez\
+    \ e 159/2009, de 13-Jul ), 41º ( na redacção do Dec Lei 95/90, de 20-Mar, Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92,\
+    \ de 17-Jun, Dec Lei 67/93, de 10-Mar, Lei 39-B/94, de 27-Dez, Lei 10-B/96, de 23-Mar e das Leis 87-B/98, de 31-Dez e\
+    \ 30-G/2000, de 29-Dez), 45º( renumerado, na redacção do Dec Lei 377/90, de 30-Nov, do Dec Lei 251-A/91, de 16-Jul, do\
+    \ Dec Lei 123/92, de 02-Jul, do Dec Lei 3/97, de 08-Jan, da Lei 30-G/2000, de 29-Dez, da Lei 109-B/2001, de 27-Dez e da\
+    \ Lei 32-B/2002, de 30-Dez e do Dec Lei 159/2009, de 13-Jul ), 48º (na redacção das Leis 109-B/2001, de 27-Dez, 32-B/2002,\
+    \ de 30-Dez, Dec Lei 287/2003, de 12-Nov e das Leis 55-B/2004 de 30-Dez e 3-B/2010, de 28-Abr), 51º (na redacção do Dec\
+    \ Lei 472/99, de 08-Nov, das Leis 30-G/2000, de 29-Dez, 109-B/2001, de 27-Dez, do Dec Lei 287/2003 de 12-Nov e da Lei\
+    \ 3-B/2010, de 28-Abr), 52º (na redacção do Dec Lei 472/99, de 08-Nov e das Leis 30-G/2000 de 29-Dez e 3-B/2010, de 28-Abr\
+    \ ), 53º (na redacção do Dec Lei 472/99 de 08-Nov, das Leis 109-B/2001 de 27-Dez, 32-B/2002 de 30-Dez, Dec Lei 287/2003\
+    \ de 12-Nov, Lei 60-A/2005 de 30-Dez e 67-A/2007, de 31-Dez), 76º (na redacção do Dec Lei 192/90, de 09-Jun, e Dec Lei\
+    \ 25/98, de 10-Fev e 30-G/2002, de 30-Dez), 87º (na redacção dos Dec Leis 251-A/91, de 16-Jul, 139/92, de 17-Jun, 7/96,\
+    \ de 07-Fev e 32-B/2002, de 30-Dez ), 88.º (na redacção do Dec Lei 192/90 de 09-Jun, das Leis 39-B/94 de 27-Dez, 109-B/2001\
+    \ de 27-Dez, 32-B/2002 de 30-Dez, do Dec Lei 80/2003 de 23-Abr e das Leis 64-A/2008 de 31-Dez e 3-B/2010, de 28-Abr),\
+    \ 92.º (na redacção das Leis 30-G/2000 de 29-Dez e 3-B/2010, de 28-Abr), 94º (na redacção da Lei 39-B/94, de 27-Dez, do\
+    \ Dec Lei 7/96, de 07-Fev e das Leis 52-C/96, de 27-Dez, 87-B/98, de 31-Dez e 30-G/2000, de 29-Dez ), 95.º (na redacção\
+    \ do Dec Lei 192/90, de 09-Jun e das Leis 39-B/94, de 27-Dez e 3-B/2000 de 04-Abr), 106º ( na redacção da Lei 3-B/2010,\
+    \ 28-Abr) e 123º ( renumerado ) e revogados o nº 8 do art. 51º e o nº 2 do art. 70º, todos do Código do Imposto sobre\
+    \ o Rendimento das Pessoas Colectivas, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001 de\
+    \ 03-Jul e republicado pelo Dec Lei 159/2009 de 13-Jul, pela LEI.55-A/2010.31.12.2010.AR, DR.IS [253-Supl] de 31.12.2010\0\
+    .2010\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: "Altera dosos art.s 8º (na redacção do Dec Lei 215/89, de 01-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 159/98, de 24-Jun,\
+    \ Lei 87-B/98, de 31-Dez, Lei 30-G/2000, de 29-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 287/2003, de 12-Nov, Lei 55-B/2004,\
+    \ de 30-Dez, e Dec Lei 211/2005, de 12-Jul), 10º (na redacção da Lei 10-B/96, de 23-Mar, e Lei 60-A/2005, de 30-Dez),\
+    \ 29º (rectificado pela Decl DD3816, de 28-Fev de 1989, e na redacção do Dec Lei 159/2009, de 13-Jul), 52º (na redacção\
+    \ do Dec Lei 472/99, de 08-Nov, Lei 30-G/2000, de 29-Dez, Lei 3-B/2010, de 28-Abr, e Lei 55-A/2010, de 31-Dez), 53º (na\
+    \ redacção do Dec Lei 472/99, de 08-Nov, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 287/2003, de 12-Nov,\
+    \ Lei 60-A/2005, de 30-Dez, Lei 67-A/2007, de 31-Dez, e Lei 55-A/2010, de 31-Dez), 65º, 66º (ambos na redacção da Lei\
+    \ 109-B/2001, de 27-Dez), 69º (na redacção da Lei 101/89, de 29-Dez, Lei 65/90, de 28-Dez, Dec Lei 360/91, de 28-Set,\
+    \ Dec Lei 123/92, de 02-Jul, Lei 39-B/94, de 27-Dez, Dec Lei 25/98, de 10-Fev, Dec Lei 44/98, de 03-Mar, Lei 3-B/2000,\
+    \ de 04-Abr, Lei 30-G/2000, de 29-Dez, Dec Lei 221/2001, de 07-Ago, Lei 32-B/2002, de 30-Dez, Lei 50/2005, de 30-Ago,\
+    \ Dec Lei 211/2005, de 07-Dez, Lei 53-A/2006, de 29-Dez, e Lei 292/2009, de 13-Out), 71º (na redacção do Dec Lei 251-A/91,\
+    \ de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 263/92, de 24-Nov, Dec Lei 121/95, de 31-Maio, Dec Lei 7/96, de 07-Fev,\
+    \ Dec Lei 44/98, de 03-Mar, Lei 30-G/2000, de 29-Dez, Lei 221/2001, de 07-Ago, e Dec Lei 159/2009, de 13-Jul), 87º (na\
+    \ redacção do Dec Lei 251-A/91, de 16-Jul, Dec Lei 138/92, de 17-Jun, Dec Lei 7/96, de 07-Fev, Lei 32-B/2002, de 30-Dez,\
+    \ e Lei 55-A/2010, de 31-Dez), 87º-A (na redacção da Lei 12-A/2010, de 30-Jun), 88º (na redacção da Lei 192/90, de 09-Jun,\
+    \ Lei 39-B/94, de 27-Dez, Lei 109-B/2001, de 27-Dez, Lei 32-B/2002, de 30-Dez, Dec Lei 80/2003, de 23-Abr, Lei 64-A/2008,\
+    \ de 31-Dez, e Lei 3-B/2010, de 28-Abr), 92º (na redacção da Lei 30-G/2000, de 29-Dez, Lei 3-B/2010, de 28-Abr, e Lei\
+    \ 55-A/2010, de 31-Dez), 105º-A (na redacção da Lei 12-A/2010, de 30-Jun), 123º Lei 55-A/2010, de 31-Dez), 124º, 126º,\
+    \ 127º e 130º e revogados o nº 11 do art. 52º, nº 2, al. c) do nº 4 e nº 7 todos do art. 87º e nº 4 do art. 124º do Código\
+    \ do IRC, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul, e renumerado (com tabela de correspondência) e republicado\
+    \ pelo Dec Lei 159/2009, de 13-Jul, pela LEI.64-B/2011.30.12.2011.AR, DR.IS [250-Supl] de 30.12.2011 (ver no art. 114º\
+    \ os termos da revogação do nº 11 do art. 52º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: "Alterado o art. 117º (na redação dos Dec Lei 221/2001, de 07-ago e 292/2009, de 13-out) do Código do IRC, aprovado\
+    \ pelo presente diploma, pela LEI.20/2012.14.05.2012.AR, DR.IS [93] de 14.05.2012, republicado pelo Dec Lei 198/2001,\
+    \ de 03-jul e posteriormente republicado pelo Dec 159/2009, de 13-jul\0ul\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: "Alterado, a partir de 01.01.2013, o art. 132º - anterior art. 123º, renumerado [com tabela de correspondência] e\
+    \ republicado pela Lei 159/2009, de 13-jul - do Código do IRC, na redação da Lei 55-A/2010, de 31-dez, e Lei 64-B/2011,\
+    \ de 30-dez, pelo DEC LEI.197/2012.24.08.2012.MF, DR.IS [164] de 24.08.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:146237:por
+  label: "Alterados, a partir de 30.10.2012, os arts. 87º (na redação do Dec Lei 251-A/91, de 16-jul, Dec Lei 138/92, de 17-jun,\
+    \ Dec Lei 7/96, de 07-fev, Lei 32-B/2002, de 30-dez,, Lei 55-A/2010, de 31-dez e Lei 64-B/2011, de 30-dez), e 94º (na\
+    \ redação da Lei 39-B/94, de 27-dez, Dec Lei 7/96, de 07-fev, Lei 52-C/96, de 27-dez, Lei 87-B/98, de 31-dez, Lei 30-G/2000,\
+    \ de 29-dez, Lei 55-A/2010, de 31-dez e Lei 64-B/2011, de 30-dez ) do Código do IRC, aprovado pelo presente diploma, revisto\
+    \ e republicado pelo Dec Lei 198/2001, de 03-jul, e renumerado (com tabela de correspondência) e republicado pelo Dec\
+    \ Lei 159/2009, de 13-jul, pela LEI.55-A/2012.29.10.2012.AR, DR.IS [209-Supl] de 29.10.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-a-2012-146237
+  date: '2012-10-29'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: "Dada nova redação aos arts. 14º (alterado pelas Leis 30-G/2000 de 29-dez, 109-B/2001 de 27-dez, 32-B/2002 de 30-dez,\
+    \ 55-B/2004 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007 de 31-dez, 3-B/2010 de 28-abr e 55-A/2010 de 31-dez), 51º (alterado\
+    \ pelo Dec Lei 472/99 de 08-nov, pelas Leis 109-B/2001 de 27-dez, 3-B/2010 de 28-abr e 55-A/2010 de 31-dez), 67º (alterado\
+    \ pela Lei 52-C/96 de 27-dez, pelo Dec Lei 221/2001 de 08-ago e pelas Lei 32-B/2002 de 30-dez, 53-A/2006 de 29-dez), 87º\
+    \ (alterado pelos Dec Lei 251-A/91 de 16-jul, 138/92 de 17-jun, 7/96 de 07-fev e pelas Lei 32-B/2002 de 30-dez, 55-A/2010\
+    \ de 31-dez, 64-B/2011 de 30-dez e 55-A/2012 de 29-out), 87º-A (aditado pela Lei 12-A/2010 de 30-jun e alterado pela Lei\
+    \ 64-B/2011 de 30-dez) – a nova redação com aplicação apenas aos lucros tributáveis referentes ao período de tributação\
+    \ que se inicie após 01.01.2013, 105º (alterado pelo Dec Lei 121/95 de 31-mai), 105º-A (aditado pela Lei 12-A/2010 de\
+    \ 30-jun e alterado pela Lei 64-B/2011 de 30-dez) - a nova redação com aplicação apenas aos lucros tributáveis referentes\
+    \ ao período de tributação que se inicie após 01.01.2013 -, 106º, 107º (alterado pelo Dec Lei 292/2009 de 13-out) e 118º;\
+    \ e revogadas a as als. a), b), e) e f) do nº 4 do art. 87º do Código do IRC, aprovado pelo presente diploma, revisto\
+    \ pelo Dec Lei 198/2001 de 03-jul, e alterado, renumerado e republicado pelo Dec Lei 159/2009 de 20-out, pela LEI.66-B/2012.31.12.2012.AR,\
+    \ DR.IS [252-Supl] de 31.12.2012\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:256471:por
+  label: "Consideradas reportadas ao diretor da Unidade dos Grandes Contribuintes da Autoridade Tributária e Aduaneira, relativamente\
+    \ aos grandes contribuintes, as competências remetidas, expressa ou implicitamente, para os diretores de finanças e para\
+    \ o diretor dos Serviços de Inspeção Tributária, constantes do Código do Imposto sobre o Rendimento das Pessoas Coletivas\
+    \ (IRC), pelo DEC LEI.6/2013.17.01.2013.MF, DR.IS [12] de 17.01.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/6-2013-256471
+  date: '2013-01-17'
+- type: amended_by
+  target: pt:dre:496766:por
+  label: "Dada nova redação ao art. 92º (alterado pelas Leis 30-G/2000 de 29-dez, 3-B/2010 de 28-abr, e 55-A/2010, de 31-dez)\
+    \ do Código do IRC, aprovado pelo presente diploma, revisto pelo Dec Lei 198/2001 de 03-jul, e alterado, renumerado e\
+    \ republicado pelo Dec Lei 159/2009 de 20-out, pelo DEC LEI.82/2013.17.06.2013.MF, DR.IS [114] de 17.06.2013\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-2013-496766
+  date: '2013-06-17'
+- type: amended_by
+  target: pt:dre:499180:por
+  label: "Alterados os arts. 14.º (na redação das Leis 30-G/2000 de 29-dez, 109-B/2001 de 27-dez, 32-B/2002 de 30-dez,, 53-A/2006\
+    \ de 29-dez, 67-A/2007 de 31-dez, 3-B/2010 de 28-abr, 55-A/2010 de 31-dez e 66-B/2012, de 31-dez), 87.º (na redação dos\
+    \ Decs Lei 251-A/91 de 16-jul, 138/92 de 17-jun, 7/96 de 07-fev e das Leis 32-B/2002 de 30-dez, 55-A/2010 de 31-dez, 64-B/2011\
+    \ de 30-dez, 55-A/2012 de 29-out e 66-B/2012, de 31-dez), 96.º (na redacção dos Dec Lei 251-A/91, de 16-jul, Dec Lei 123/92,\
+    \ de 02-jul, Dec Lei 138/92, de 17-jul, da Lei 39-B/94, de 27-dez, do Dec Lei 45/98, de 03-mar, do Dec Lei 55/2000, de\
+    \ 14-mar e das Leis 30-G/2000, de 29-dez e 64/2008, de 05-dez) e 98.º (na redacção das Leis 32-B/2002, de 30-dez, 107-B/2003,\
+    \ de 31-dez, 60-A/2005, de 30-dez, 53-A/2006, de 29-dez, 64-A/2008, de 31-dez, 10/2009 de 10-mar e 3-B/2010, de 28-abr)\
+    \ e revogados a al. g) do n.º 4, o n.º 6 do art. 87.º e os n.os 1 e 2 do art. 96.º do Código do IRC, aprovado pelo presente\
+    \ diploma, renumerado e republicado pelo Dec Lei 159/2009 de 13-jul, pela LEI.55/2013.08.08.2013.AR, DR.IS [152] de 08.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/55-2013-499180
+  date: '2013-08-08'
+- type: amended_by
+  target: pt:dre:571007:por
+  label: 'MODIFICAÇÕES SOFRIDAS NO CÓDIGO DO IRC –PARTE 1: Dada nova redação: aos arts. 6.º, 8.º (alterado pelo Dec Lei 215/89
+    de 01-jul, pelo Dec Lei 138/92 de 17-jun, pelo Dec Lei 159/98 de 24-jun, pela Lei 87-B/98 de 31-dez, pela Lei 32-B/2002
+    de 20-dez, pelo Dec Lei 287/2003 de 12-nov, pela Lei 55-B/2004 de 30-dez, pelo Dec Lei 211/2005 de 02-dez e pela Lei 64-B/2011
+    de 30-dez), 14.º (alterado pela Lei 30-G/2000 de 29-dez, pela Lei 109-B/2001 de 27-dez, pela Lei 32-B/2002 de 20-dez,
+    pela Lei 55-B/2004 de 30-dez, pela Lei 53-A/2006 de 29-dez, pela Lei 67-A/2007 de 31-dez, pela Lei 3-B/2010 de 28-abr,
+    pela Lei 55-A/2010 de 31-dez, pela Lei 66-B/2012 de 31-dez e pela Lei 55/2013 de 08-ago), 15.º (alterado pelo Dec Lei
+    472/99 de 08-nov, pelo Dec Lei 287/2003 de 12-nov e pela Lei 60-A/2005 de 30-dez), 16.º alterado pelo Dec Lei 472/99 de
+    08-nov e pelo Dec Lei 80/2003 de 23-abr), 18.º (alterado pelo Dec Lei 192/90 de 09-jun, pelo Dec Lei 159/2009 de 13-jul
+    – retificado pela Decl-Rect 67-A/2009 de 11-set), 19.º (retificado pela Decl DD3816 de 28-fev 1989, pelo Dec Lei 138/92
+    de 17-jun e pelo Dec Lei 159/2009 de 13-jul), 20.º (retificado pela Decl DD3816 de 28-fev 1989, alterado pelo Dec Lei
+    3/97 de 08-jan e pelo Dec Lei 159/2009 de 13-jul), 21.º (alterado pelo Dec Lei 3/97 de 08-jan, pelo Dec Lei 287/2003 de
+    12-nov e pelo Dec Lei 159/2009 de 13-jul), 22.º (alterado pelo Dec Lei 251-A/91 de 16-jul e pelo Dec Lei 159/2009 de 13-jul),
+    23.º (alterado pelo Dec Lei 420/93 de 28-dez, pela Lei 39-B/94 de 27-dez – retificada pela Rect 2/95 de 31-mai, pela Lei
+    127-B/97 de 20-dez, pela Lei 32-B/2002 de 20-dez, pela Lei 107-B/2003 de 31-dez e pelo Dec Lei 159/2009 de 13-jul – retificado
+    pela Decl-Rect 67-A/2009 de 11-set), 24.º (alterado pela Lei 30-C/92 de 28-dez, pelo Dec Lei 3/97 de 08-jan, pela Lei
+    87-B/98 de 31-dez, pela Lei 3-B/2000 de 04-abr e pelo Dec Lei 159/2009 de 13-jul), 26.º (alterado pelo Dec Lei 159/2009
+    de 13-jul), 27.º, 28.º (alterado pelo Dec Lei 192/90 de 09-jun e pelo Dec Lei 159/2009 de 13-jul), 29.º (alterado pelo
+    Dec Lei 159/2009 de 13-jul e pela Lei 64-B/2011 de 30-dez), 30.º (retificado pela Decl DD3816 de 28-fev 1989), 31.º (alterado
+    pela Lei 10-B/96 de 23-mar e pelo Dec Lei 159/2009 de 13-jul), 32.º (alterado pelo Dec Lei 138/92 de 17-jun, pela Lei
+    71/93 de 26-nov, pela Lei 10-B/96 de 23-mar, pela Lei 30-G/2000 de 29-dez e pelo Dec Lei 159/2009 de 13-jul), 33.º (retificado
+    pela Decl DD3816 de 28-fev 1989, pela Lei 71/93 de 26-nov, pelo Dec Lei 21/97 de 21-jan, pela Lei 3-B/2000 de 04-abr,
+    pela Lei 30-G/2000 de 29-dez e pelo Dec Lei 159/2009 de 13-jul), 34.º (alterado pela Lei 53-A/2006 de 29-dez, pelo Dec
+    Lei 159/2009 de 13-jul – retificado pela Decl-Rect 67-A/2009 de 11-set e pela Lei 3-B/2010 de 28-abr), 40.º (alterado
+    pelo Dec Lei 192/90 de 09-jun, pela Lei 34/91 de 27-jul – retificada pela Rect 17/91 de 31-ago, pela Lei 2/92 de 09-mar,
+    pelo Dec Lei 65/93 de 10-mar, pela Lei 10-B/96 de 23-mar, pela Lei 52-C/96 de 27-dez, pela Lei 127-B/97 de 20-dez, pelo
+    Dec Lei 74/99 de 16-mar, pela Lei 109-B/2001 de 27-dez, pela Lei 55-B/2004 de 30-dez, pela Lei 53-A/2006 de 29-dez, pela
+    Lei 67-A/2007 de 31-dez, pela Lei 64-A/2008 de 31-dez e pelo Dec Lei 159/2009 de 13-jul), 41.º (alterado pelo Dec Lei
+    95/90 de 20-mar, pelo Dec Lei 138/92 de 17-jun, pelo Dec Lei 29/93 de 12-fev, pelo Dec Lei 67/93 de 10-mar, pela Lei 39-B/94
+    de 27-dez - retificada pela Rect 2/95 de 31-mai, pela Lei 10-B/96 de 23-mar, pela Lei 87-B/98 de 31-dez, pela Lei 30-G/2000
+    de 29-dez e pela Lei 55-A/2010 de 31-dez), 43.º (alterado pelo Dec Lei 377/90 de 30-nov, pelo Dec Lei 360/91 de 28-set,
+    pelo Dec Lei 6/93 de 09-jan, pelo Dec Lei 221/2001 de 07-ago e pelo Dec Lei 159/2009 de 13-jul), 46.º (alterado pela Lei
+    30-C/92 de 28-dez, pela Lei 39-B/94 de 27-dez, pelo Dec Lei 18/97 de 21-jan, pelo Dec Lei 472/99 de 08-nov, pela Lei 30-G/2000
+    de 29-dez, pela Lei 109-B/2001 de 27-dez, pela Lei 32-B/2002 de 20-dez, pela Lei 55-B/2004 de 30-dez e pela Lei 53-A/2006
+    de 29-dez) e 48.º (alterado pela Lei 109-B/2001 de 27-dez, pela Lei 32-B/2002 de 20-dez, pelo Dec Lei 287/2003 de 12-nov,
+    pela Lei 3-B/2010 de 28-abr e pela Lei 55-A/2010 de 31-dez), todos do Código do IRC, aprovado pelo presente diploma (revisto
+    pelo Dec Lei 198/2001 de 03-jul - retificado pela Decl-Rect 14-C/2001 de 31-jul, e alterado, renumerado e republicado
+    pelo Dec Lei 159/2009 de 13-jul - retificado pela Decl-Rect 67-A/2009 de 09-nov) pela LEI.2/2014.16.01.2014.AR, DR.IS
+    [11] de 16.01.2014, que procedeu à sua republicação em anexo com a redação atual e demais correções materiais, onde se
+    deve ler «membro do Governo responsável pela área das finanças» e «Autoridade Tributária e Aduaneira» em vez de, respetivamente,
+    «Ministro das Finanças» e «Direção-Geral dos Impostos».'
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2014-571007
+  date: '2014-01-16'
+- type: amended_by
+  target: pt:dre:58683382:por
+  label: Alterado o art. 92.º (na redação das Leis 30-G/2000 de 29-dez, 3-B/2010 de 28-abr, 55-A/2010 de 31-dez e 64-B/2011
+    de 30-dez, do Dec Lei 82/2013 de 17-jun e da Lei 2/2014 de 16 de jan) do Código do Imposto sobre o Rendimento das Pessoas
+    Coletivas aprovado pelo presente diploma, pelo(a) Decreto-Lei n.º 162/2014 - Diário da República n.º 211/2014, Série I
+    de 2014-10-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/162-2014-58683382
+  date: '2014-10-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art. 87.º (na redação do Dec Lei 251-A/91 de 16-jul, do Dec Lei 138/92 de 17-jun, do Dec Lei 7/96 de 07-fev,
+    da Lei 32-B/2002 de 20-dez, da Lei 55-A/2012 de 29-out, da Lei 66-B/2012 de 31-dez e da Lei 55/2013 de 08-ago), do Código
+    do IRC, aprovado pelo presente diploma, revisto e publicado pelo Dec Lei 198/2001 de 3-jul- retificado pela Decl-Rect
+    14-C/2001 de 31-jul, alterado, renumerado e republicado pelo Dec Lei 159/2009 de 13-jul-retificado pela Decl-Rect 67-A/2009
+    de 09-nov, e alterado e republicado pela Lei 2/2014 de 16-jan- retificada pela Decl Ret 18/2014 de 13-mar, pelo(a) Lei
+    n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022083:por
+  label: Alterados, a partir de 05.01.2015, os arts. 6.º (na redação das Leis 109-B/2001 de 27-dez, e 2/2014 de 16-jan), 14.º
+    (na redação das Leis 109-B/2001 de 27-dez, 32-B/2002 de 30-dez, 55-B/2004 de 30-dez, 53-A/2006 de 29-dez, 67-A/2007 de
+    31-dez, 3-B/2010 de 28-abr, 55-A/2010 de 31-dez, 66-B/2012 de 31-dez, 55/2013 de 08-ago, e 2/2014 de 16-jan), 23.º (na
+    redação das Leis 32-B/2002 de 30-dez, e 107-B/2003 de 31-dez, do Dec. Lei 159/2009 de 13-jul, e da Lei 2/2014 de 16-jan),
+    28.º-A, 28.º-C (os dois últimos aditados pela Lei 2/2014 de 16-jan), 41.º (anterior art. 39.º, renumerado pelo Dec Lei
+    159/2009 de 13-jul e na redação das Leis 55-A/2010 de 31-dez, e 2/2014 de 16-jan), 46.º (anterior art. 43.º, renumerado
+    pelo Dec Lei 159/2009 de 13-jul e na redação da Lei 2/2014 de 16-jan), 47.º-A (aditado pela Lei 2/2014 de 16-jan), 51.º
+    (anterior art. 46.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação das Leis 3-B/2010 de 28-abr, 55-A/2010 de
+    31-dez, 66-B/2012 de 31-dez, e 2/2014 de 16-jan), 51.º-C, 51.º-D (os dois últimos aditados pela Lei 2/2014 de 16-jan),
+    52.º (anterior art. 47.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação das Leis 3-B/2010 de 28-abr, 55-A/2010
+    de 31-dez, 64-B/2011 de 30-dez, e 2/2014 de 16-jan), 53.º (anterior art. 48.º, renumerado pelo Dec Lei 159/2009 de 13-jul
+    e na redação das Leis 55-A/2010 de 31-dez, 64-B/2011 de 30-dez, e 2/2014 de 16-jan), 54.º-A (aditado pela Lei 2/2014 de
+    16-jan), 67.º (anterior art. 61.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação das Leis 66-B/2012 de 31-dez,
+    e 2/2014 de 16-jan), 69.º (anterior art. 63.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação do Dec. Lei 292/2009
+    de 13-out, e das Leis 64-B/2011 de 30-dez, e 2/2014 de 16-jan), 75.º (anterior art. 69.º, renumerado pelo Dec Lei 159/2009
+    de 13-jul e na redação da Lei 2/2014 de 16-Jan), 86.º-B (aditado pela Lei 2/2014 de 16-jan), 88.º (anterior art. 81.º,
+    renumerado pelo Dec Lei 159/2009 de 13-jul e na redação das Leis 3-B/2010 de 28-abr, 55-A/2010 de 31-dez, 64-B/2011 de
+    30-dez, e 2/2014 de 16-jan), 97.º (anterior art. 90.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação da Lei
+    2/2014 de 16-jan), 105.º (anterior art. 97.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação das Leis 66-B/2012
+    de 31-dez, e 2/2014 de 16-jan), 117.º (anterior art. 109.º, renumerado pelo Dec Lei 159/2009 de 13-jul e na redação do
+    Dec Lei 292/2009 de 13-out, e da Lei 20/2012 de 14-mai) e 118.º (anterior art. 110.º, renumerado pelo Dec Lei 159/2009
+    de 13-jul e na redação das Leis 66-B/2012 de 31-dez, e 2/2014 de 16-jan), aditado o art. 69.º-A, e revogados o n.º 4 do
+    art. 28.º-C, a al. d) do n.º 3 do art. 75.º e o n.º 7 do art. 90.º, todos do Código do Imposto sobre o Rendimento das
+    Pessoas Coletivas (CIRC), aprovado pelo presente diploma, revisto e publicado pelo Dec. Lei 198/2001 de 3-jul, alterado,
+    renumerado e republicado pelo Dec Lei 159/2009 de 13-jul, e alterado e republicado pela Lei 2/2014 de 16-jan (retificada
+    pela Decl Ret 18/2014 de 13-mar), pelo(a) Lei n.º 82-C/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I
+    de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-c-2014-66022083
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:66022084:por
+  label: Dada nova redação aos arts. 39.º - anterior art. 36.º, renumerado de acordo à tabela de correspondência anexa ao
+    Dec Lei 159/2009 de 13-jul - (alterado pela Lei 71/93 de 26-nov e pelo citado Dec Lei 159/2009) e 88.º - anterior art.
+    81.º, renumerado de acordo à tabela de correspondência anexa ao Dec Lei 159/2009 – (retificado pela Decl de 28-fev 1989,
+    alterado pelo Dec Lei 7/96 de 07-fev, pelo Dec Lei 472/99 de 08-nov – retificado pela Rect 4-C/2000 de 31-jan, alterado
+    pela Lei 3-B/2000 de 04-abr, pela Lei 109-B/2001 de 27-dez, pela Lei 32-B/2002 de 30-dez, pela Lei 107-B/2003 de 31-dez,
+    pela Lei 55-B/2004 de 30-dez, pelo Dec Lei 192/2005 de 07-nov, pela Lei 67-A/2007 de 31-dez, pela Lei 64/2008 de 05-dez,
+    pelo Dec Lei 159/2009 de 13-jul, pela Lei 3-B/2010 de 28-abr, pela Lei 55-A/2010 de 31-dez e pela Lei 64-B/2011 de 30-dez,
+    pela Lei 2/2014 de 16-jan e pela Lei 82-C/2014 de 31-dez) ambos do Código do Imposto sobre o Rendimento das Pessoas Coletivas
+    (CIRC), aprovado pelo presente diploma, revisto pelo Dec Lei 198/2001 de 03-jul, renumerado e republicado pelo citado
+    Dec Lei 159/2009 de 13-jul, e alterado e republicado pela citada Lei 2/2014 de 16-jan, pelo(a) Lei n.º 82-D/2014 - Diário
+    da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-d-2014-66022084
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:73740378:por
+  label: Alterados os arts 14.º e 51.º (ambos na redação resultante da alteração e republicação do Código do IRC constante
+    do anexo à Lei 2/2014 de 16-jan, retificada pela Decl Ret 18/2014 de 13-mar e na redação da Lei 82-C/2014 de 31-dez),
+    do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC), aprovado pelo presente diploma, pelo(a) Lei n.º
+    5/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/5-2016-73740378
+  date: '2016-02-29'
+- type: amended_by
+  target: pt:dre:73958532:por
+  label: Alterados os arts. 9.º, 14.º (na redação das Leis 82-C/2014 de 31-dez e 5/2016 de 29-fev), 51.º (na redação das Leis
+    82-C/2014 de 31-dez e 5/2016 de 29-fev), 51.º-A, 51.º-C, 52.º, 53.º (os três últimos na redação da Lei 82-C/2014 de 31-dez),
+    54.º-A, 69.º (os dois últimos na redação da Lei 82-C/2014 de 31-dez), 83.º, 84.º, 87.º (na redação da Lei 82-B/2014 de
+    31-dez), 88.º (na redação das Leis 82-C/2014 de 31-dez e 82-D/2014 de 31-dez), 91.º-A, 95.º, 97.º, 117.º (os dois últimos
+    na redação da Lei 82-C/2014 de 31-dez), 123.º e 130.º e aditado o art. 121.º-A ao Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas (Código do IRC) aprovado pelo presente diploma, na versão republicada do Código pela Lei 2/2014
+    de 16-jan retificada pela Decl-Ret. 18/2014 de 13-mar, pelo(a) Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º
+    Suplemento, Série I de 2016-03-30 nos termos dos seus arts. 135.º e 136.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/7-a-2016-73958532
+  date: '2016-03-30'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Alterados os arts. 106.º (na redação da Lei 2/2014, de 16-jan) e 122.º do Código aprovado pelo presente diploma e
+    republicado pelo Lei 2/2014, de 16-jan pelo(a) Decreto-Lei n.º 41/2016 - Diário da República n.º 146/2016, Série I de
+    2016-08-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:75177812:por
+  label: Alterado o art. 50.º-A e revogada a al. a) do n.º 3 do mesmo art. 50.º-A (aditado pela Lei 2/2014, de 16-jan) do
+    Código do IRC aprovado pelo presente diploma e republicado pela Lei 2/2014, de 16-jan pelo(a) Decreto-Lei n.º 47/2016
+    - Diário da República n.º 160/2016, Série I de 2016-08-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2016-75177812
+  date: '2016-08-22'
+- type: amended_by
+  target: pt:dre:105637672:por
+  label: Alterados os arts. 8.º, 10.º, 23.º-A, 24.º, 48.º, 51.º-C (na redação das Leis 82-C/2014, de 31-dez e 7-A/2016, de
+    30-mar), 86.º-B (na redação da Lei 82-C/2014, de 31-dez), 88.º (na redação das Leis 82-D/2014, de 31-dez, 82-C/2014, de
+    31-dez e 7-A/2016, de 30-mar), 106.º (na redação do Dec Lei 41/2016, de 01-ago) e 123.º (na redação da Lei 7-A/2016, de
+    30-mar) e revogados o n.º 15 do art. 52.º e o n.º 6 do art. 71.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas
+    (CIRC) aprovado pelo presente diploma, na versão republicada pela Lei 2/2014, de 16-jan (retificada pela Decl Ret 18/2014,
+    de 13-mar) pelo(a) Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/42-2016-105637672
+  date: '2016-12-28'
+- type: amended_by
+  target: pt:dre:106509196:por
+  label: Alterado o art. 92.º (com a redação dada pelo Dec Lei 162/2014 de 31-out) do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas (Código do IRC), aprovado pelo presente diploma, na versão republicada pela Lei 2/2014 de 16-jan
+    (retificada pela Decl-Ret 18/2014 de 13-mar) pelo(a) Decreto-Lei n.º 22/2017 - Diário da República n.º 38/2017, Série
+    I de 2017-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/22-2017-106509196
+  date: '2017-02-22'
+- type: amended_by
+  target: pt:dre:108028571:por
+  label: Alterado o art. 14.º (na redação das Leis 82-C/2014 de 31-dez, 5/2016 de 29-fev e 7-A/2016 de 30-mar) do Código do
+    Imposto sobre o Rendimento das Pessoas Coletivas aprovado pelo presente diploma, na versão republicada do Código pela
+    Lei 2/2014 de 16-jan retificada pela Decl-Ret 18/2014 de 13-mar, pelo(a) Lei n.º 89/2017 - Diário da República n.º 160/2017,
+    Série I de 2017-08-21 nos termos do seu art. 25.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/89-2017-108028571
+  date: '2017-08-21'
+- type: amended_by
+  target: pt:dre:108051987:por
+  label: Alterados, com efeitos a 01.01.2017, os arts. 117.º (na redação das Leis 82-C/2014 de 31-dez e 7-A/2016 de 30-mar),
+    121.º-A (aditado pela Lei 7-A/2016 de 30-mar) e 138.º, aditado o art. 121.º-B e revogados a al. f) do n.º 5 e os n.ºs
+    6 e 7 do art. 121.º-A do Código do Imposto sobre o Rendimento das Pessoas Coletivas aprovado pelo presente diploma, na
+    versão republicada do Código pela Lei 2/2014 de 16-jan retificada pela Decl-Ret 18/2014 de 13-mar, pelo(a) Lei n.º 98/2017
+    - Diário da República n.º 163/2017, Série I de 2017-08-24 nos termos dos seus arts. 13.º e 14.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2017-108051987
+  date: '2017-08-24'
+- type: amended_by
+  target: pt:dre:114394830:por
+  label: Prorrogado, para o envio da declaração financeira e fiscal por país referente ao período de tributação de 2016, o
+    prazo previsto no n.º 3 do art. 121.º-A do Código do Imposto sobre o Rendimento das Pessoas Coletivas aprovado pelo presente
+    diploma, pelo(a) Portaria n.º 383-A/2017 - Diário da República n.º 244/2017, 2º Suplemento, Série I de 2017-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/383-a-2017-114394830
+  date: '2017-12-21'
+- type: amended_by
+  target: pt:dre:114425586:por
+  label: Alterados os arts. 4.º, 17.º, 23.º-A (com a redação dada pela Lei 42/2016 de 28-dez), 41.º (com a redação dada pela
+    Lei 82-C/2014 de 31-dez), 54.º-A (com a redação dada pela Lei 82-C/2014 de 31-dez e pela Lei 7-A/2016 de 30-mar), 67.º
+    (com a redação dada pela Lei 82-C/2014 de 31-dez) 87.º-A, 88.º (com a redação dada pela Lei 82-C/2014 de 31-dez, pela
+    Lei 82-D/2014 de 31-dez, pela Lei 7-A/2016 de 30-mar e pela Lei 42/2016 de 28-dez, sendo que a redação ora conferida ao
+    n.º 21 deste art. tem natureza interpretativa, nos termos do disposto no art. 233.º da Lei 114/2017 de 29-dez), 90.º,
+    92.º (com a redação dada pelo Dec lei 162/2014 de 31-out e pelo Dec Lei 22/2017 de 22-fev), 105.º -A, 117.º (com a redação
+    dada pela Lei 82-C/2014 de 31-dez, pela Lei 7-A/2016 de 30-mar e pela Lei 98/2017 de 24-ago), 120.º e 123.º (com a redação
+    dada pela Lei 7-A/2016 de 30-mar e pela Lei 42/2016 de 28-dez), e revogada a al. c) do n.º 1 do art. 90.º, todos do Código
+    do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC), aprovado pelo presente diploma, na versão republicada pela
+    Lei 2/2014 de 16-jan, retificada pela Decl Ret 18/2014 de 13-mar, pelo(a) Lei n.º 114/2017 - Diário da República n.º 249/2017,
+    Série I de 2017-12-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/114-2017-114425586
+  date: '2017-12-29'
+- type: amended_by
+  target: pt:dre:114796179:por
+  label: Alterado o art. 41.º (na redação das Leis 82-C/2014 de 31-dez e 114/2017 de 29-dez) e revogada a al. d) do n.º 1
+    do art. 41.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas aprovado pelo presente diploma, na versão
+    republicada do Código pela Lei 2/2014 de 16-jan (retificada pela Decl Ret 18/2014 de 13-mar), pelo(a) Lei n.º 8/2018 -
+    Diário da República n.º 44/2018, Série I de 2018-03-02 nos termos do n.º 4 do seu art. 35.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/8-2018-114796179
+  date: '2018-03-02'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Alterados os arts. 28.º-B, 40.º, 45.º-A, 106.º (na redação do Dec Lei 41/2016 de 01-ago e da Lei 42/2016 de 28-dez)
+    e 120.º (na redação da Lei 114/2017 de 29-dez) e revogado o n.º 2 do art. 86.º-B do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas aprovado pelo presente diploma, na versão republicada do Código pela Lei 2/2014 de 16-jan retificada
+    pela Decl-Ret 18/2014 de 13-mar, pelo(a) Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:119622094:por
+  label: Alterados, a partir de 16.02.2019, e nos termos do disposto no art. 45.º, os arts. 123.º ( na redação dada pela Lei
+    7-A/2016 de 30-mar, pela Lei 42/2016 de 28-dez e pela Lei 114/2017, 29-dez), 124.º (na redação da Lei 64-B/2011, de 30-dez)
+    e 125-º (na redação da Lei 50/2005, de 30-ago) e revogados os n.ºs. 4 a 7 e 9 do art. 123.º e o n.º 2 do artigo 125.º
+    do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo presente diploma, na versão republicada do
+    Código pela Lei 2/2014 de 16-jan, retificada pela Decl-Ret 18/2014 de 13-mar pelo(a) Decreto-Lei n.º 28/2019 - Diário
+    da República n.º 33/2019, Série I de 2019-02-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/28-2019-119622094
+  date: '2019-02-15'
+- type: amended_by
+  target: pt:dre:122217198:por
+  label: Alterados os arts. 46.º (na redação da Lei 82-C/2014 de 31-dez), 54.º-A (na redação das Leis 82-C/2014 de 31-dez,
+    7-A/2016 de 30-mar e 114/2017 de 29-dez), 66.º, 67.º (o último na redação da Lei 82-C/2014 de 31-dez), 83.º e 84.º (ambos
+    na redação da Lei 7-A/2016 de 30-mar), e revogados os n.º 7 do art. 54.º-A, os n.ºs 2 e 10 do art. 66.º, a al. b) do n.º
+    2 e os n.ºs 5 e 6 do art. 83.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo presente diploma,
+    na versão republicada do Código pela Lei 2/2014 de 16-jan retificada pela Decl-Ret 18/2014 de 13-mar, pelo(a) Lei n.º
+    32/2019 - Diário da República n.º 85/2019, Série I de 2019-05-03 nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/32-2019-122217198
+  date: '2019-05-03'
+- type: amended_by
+  target: pt:dre:124417111:por
+  label: Alterados os arts. 28.º-A e 28.º-C (com a redação dada pela Lei 82-C/2014 de 31-dez) do Código do Imposto sobre o
+    Rendimento das Pessoas Coletivas (CIRC), aprovado pelo presente diploma, na versão republicada do Código pela Lei 2/2014
+    de 16-jan, retificada pela Decl-Ret 18/2014 de 13-mar, pelo(a) Lei n.º 98/2019 - Diário da República n.º 169/2019, Série
+    I de 2019-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/98-2019-124417111
+  date: '2019-09-04'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Alterados, a partir de 01.10.2019, os arts 20.º, 24.º (este ultimo na redação da Lei n.º 42/2016 de 28-dez) 63.º,
+    98.º, 130.º (este ultimo na redação da Lei n.º 7-A/2016, de 30-mar) 138.º, aditado o art. 143.º e revogados os n.ºs 4
+    e 5 do art 106.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (CIRC), aprovado pelo presente Diploma,
+    na versão republicada do Código pela Lei 2/2014 de 16-jan, retificada pela Decl-Ret 18/2014 de 13-mar, pelo(a) Lei n.º
+    119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/119-2019-124793094
+  date: '2019-09-18'
+- type: amended_by
+  target: pt:dre:125692190:por
+  label: Alterado, a partir de 01.01.2020, o art. 9.º (com a redação dada pela Lei 7-A/2016, de 30-mar)do Código do Imposto
+    sobre o Rendimento das Pessoas Coletivas (CIRC), aprovado pelo presente diploma, na versão republicada do Código pela
+    Lei 2/2014 de 16-jan, retificada pela Decl-Ret 18/2014 de 13-mar, pelo(a) Decreto-Lei n.º 163/2019 - Diário da República
+    n.º 206/2019, Série I de 2019-10-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-2019-125692190
+  date: '2019-10-25'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Alterados os arts. 43.º, 50.º-A, 86.º-B, 87.º e 88.º e redenominada para 'Rendimentos de direitos de autor e de direitos
+    de propriedade industrial' a subsec VIII-A da sec II do cap. III do Código do Imposto sobre o Rendimento das Pessoas Coletivas
+    (Código do IRC), aprovado pelo presente diploma pelo(a) Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:137261493:por
+  label: Alterado o art. 67.º e aditados os arts. 68.º-A, 68.º-B, 68.º-C e 68.º-D e a subsecção i-A à secção vi do capítulo
+    iii ao Código do IRC, aprovado pelo presente diploma pelo(a) Lei n.º 24/2020 - Diário da República n.º 129/2020, Série
+    I de 2020-07-06 nos termos do seu art. 5.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-2020-137261493
+  date: '2020-07-06'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Alterados os arts. 3.º, 5.º, 88.º e 126.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas (Código do
+    IRC), aprovado pelo presente diploma, pelo(a) Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série
+    I de 2020-12-31;Lei que introduziu nos termos do seu art. 374.º, uma disposição relativa à suspensão dos pagamentos por
+    conta e nos termos do seu art. 375.º uma disposição transitória, relativa à aplicação do n.º 14 do artigo 88.º do Código
+    do IRC
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:161766414:por
+  label: Suspensa, com efeitos a 01.01.2020, durante o período de tributação de 2020 e durante o período de tributação seguinte,
+    a contagem do prazo de reinvestimento previsto na al. a) do n.º 1 do art. 48.º do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas (CIRC) pelo(a) Lei n.º 21/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/21-2021-161766414
+  date: '2021-04-20'
+- type: amended_by
+  target: pt:dre:165036155:por
+  label: Alterado a partir de 01.07.2021 o art. 10.º e revogada na mesma data a al. a) do n.º 1 do art. 10.º do Código pelo(a)
+    Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2021-165036155
+  date: '2021-06-14'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Alterados os arts. 23.º-A, 50.º-A e 90.º e revogados a subal. 1) da al. b) do n.º 1 e a al. d) do n.º 2 do referido
+    art. 90.º, o art. 93.º, o n.º 2 e as als. b) e c) do n.º 3 do art. 102.º e o art. 106.º do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas (Código), aprovado pelo presente diploma, na versão republicada do Código pela Lei 2/2014 de 16-jan,
+    bem como previstas disposições transitórias quanto ao imposto sobre o rendimento das pessoas coletivas no âmbito da pandemia
+    da doença COVID-19, pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27 nos termos do n.º
+    2 do art. 329.º e do art. 284.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:202455960:por
+  label: Determinado, que a partir de 22.10.2022, com efeitos entre 01.2023 e 31.12.2023, para efeitos de imposto sobre o
+    rendimento das pessoas coletivas (IRC), a determinação dos rendimentos tributáveis de rendas, aos quais se aplicam as
+    taxas previstas no art. 87.º do CIRC, obtém-se através da aplicação do coeficiente de 0,87, aprovado em anexo ao presente
+    diploma, pelo(a) Lei n.º 19/2022 - Diário da República n.º 204/2022, Série I de 2022-10-21, nos termos do n.º 3 do seu
+    art. 3.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/19-2022-202455960
+  date: '2022-10-21'
+- type: amended_by
+  target: pt:dre:205557192:por
+  label: Alterados os arts. 43.º, 52.º, 53.º, 54.º-A, 67.º, 69.º, 71.º, 72.º, 75.º, 86.º, 86.º-B, 87.º, 88.º, 92.º e 97.º
+    e revogados os n.os 6, 10 e 12 a 14 do art. 52.º, o n.º 2 do art. 60.º e o n.º 19 do art. 88.º do Código do Imposto sobre
+    o Rendimento das Pessoas Coletivas (Código do IRC), aprovado pelo presente diploma, na versão republicada do Código pela
+    Lei 2/2014 de 16-jan pelo(a) Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30,
+    que estabelece, nos termos dos arts. 228.º a 233.º, disposições transitórias e regimes excecionais e extraordinários no
+    âmbito do mesmo imposto
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/24-d-2022-205557192
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:213132930:por
+  label: Alterado, com efeitos a 01.07.2023, o art. 50.º-A (este artigo produz efeitos desde a data de entrada em vigor da
+    Lei n.º 12/2022, de 27 de junho(28.06.2022)), o art. 92.º do Código do IRC e revoga a al. f) do n.º 2 do art. 92.º do
+    Código do IRC, pelo(a) Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17, nos termos do seu art.
+    14.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/20-2023-213132930
+  date: '2023-05-17'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Alterados, a partir de 1 de janeiro de 2024, os artigos 9.º, 45.º-A, 87.º e 88.º do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas pelo(a) Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29, nos termos do
+    n.º 1 do artigo 238.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-2023-835864042
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:835959021:por
+  label: Alterados, a partir de 30 de dezembro de 2024, com efeitos a 1 de janeiro de 2023, os artigos 39.º, 50.º, 51.º e
+    143.º e revogados a alínea c) do n.º 1 e o n.º 6 do artigo 39.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas
+    pelo(a) Lei n.º 82-A/2023 - Diário da República n.º 250/2023, 2º Suplemento, Série I de 2023-12-29 nos termos do artigo
+    4.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-a-2023-835959021
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:901667918:por
+  label: Alterados, a partir de 1 de janeiro de 2025, os artigos 43.º, 87.º e 88.º do Código do Imposto sobre o Rendimento
+    das Pessoas Coletivas pelo(a) Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31
+    nos termos dos n.ºs 3 e 4 do artigo 116.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/45-a-2024-901667918
+  date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:912653926:por
+  label: Alterados, a partir de 1 de julho de 2025, os artigos 23.º, 31.º-B, 54.º-A e 97.º e revogado o artigo 136.º do Código
+    pelo(a) Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2025-912653926
+  date: '2025-03-27'
+- type: amended_by
+  target: pt:dre:944874408:por
+  label: Alterado, a partir de 12 de novembro de 2025, o artigo 87.º do Código pelo(a) Lei n.º 64/2025 - Diário da República
+    n.º 216/2025, Série I de 2025-11-07nos termos do artigo 3.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/64-2025-944874408
+  date: '2025-11-07'
+- type: amended_by
+  target: pt:dre:993270096:por
+  label: Alterado, a partir de 1 de janeiro de 2026, os artigos 43.º e 88.º do presente diploma, Lei n.º 73-A/2025 - Diário
+    da República n.º 250/2025, Suplemento, Série I de 2025-12-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/73-a-2025-993270096
+  date: '2025-12-30'
+- type: cites
+  target: pt:dre:165993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304721:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382393:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419811:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579117:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661163:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666684:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:244911:por
+  label: "Rectificados os art.s 6º, 9º e nº 4 do art. 13º do diploma preambular bem como a al. a) do nº 3 do art. 4º, nº 6\
+    \ do art. 19º, al. a) do nº 1 do art. 20º, nº 7 do art. 29º, al. a) do nº 2 do art. 30º, nº 2 do art. 33º, nº 1 do art.\
+    \ 57º, nº 1 do art. 81º, nº 1 do art. 95º e nº 5 do art. 112º, pela DECL.DD3816.28.02.1989.PCM, DR.IS [49-Supl] de 28.02.1989\0\
+    9"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1989-244911
+  date: '1989-02-28'
+- type: corrected_by
+  target: pt:dre:644091:por
+  label: Rectificado o art. 2º do Dec Lei 192/90 de 09-Jun, na parte que altera os art.s 76º e 102º do Código do IRC aprovado
+    pelo presente diploma, pela DECL.DD3213.31.07.1990.PCM, DR.IS [175-Supl] de 31.07.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-644091
+  date: '1990-07-31'
+- type: corrected_by
+  target: pt:dre:302771:por
+  label: "Rectificado o proémio do art. 1.º da Lei 34/91, de 27-Jul, bem como este mesmo art. na parte em que altera o art.\
+    \ 40.º do Código do IRC, pela RECT.17/91.31.08.1991.AR, DR.IS-A [200] de 31.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/17-1991-302771
+  date: '1991-08-31'
+- type: corrected_by
+  target: pt:dre:230113:por
+  label: "Rectificado o art. 27º da Lei 39-B/94, de 27-Dez, na parte que altera a al. d) do nº 1 do art. 23º, a al. j) do\
+    \ art. 41º e o nº 5 do art. 94º do Código do IRC aprovado pelo presente diploma, pela RECT.2/95.15.04.1995.AR, DR.IS-A\
+    \ [89] de 15.04.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/2-1995-230113
+  date: '1995-04-15'
+- type: corrected_by
+  target: pt:dre:259769:por
+  label: "Rectificado o art. 9º do Dec Lei 121/95, de 31-Maio, na parte que altera o art. 72º - acrescentando um nº 3 - e\
+    \ na parte que altera o art. 105º - rectificando a epígrafe - todos do Código do IRC aprovado pelo presente diploma, pela\
+    \ DECL-RECT.95/95.31.07.1995.PCM, DR.IS-A [175-2ºSupl] de 31.07.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/95-1995-259769
+  date: '1995-07-31'
+- type: corrected_by
+  target: pt:dre:181026:por
+  label: "Rectificado o art. 2.º do Dec Lei 280/95, de 26-Out, na parte em que adita o art. 68.º-A ao Código do IRC, pela\
+    \ DECL-RECT.156/95.30.12.1995.PCM, DR.IS-A [300-Supl] de 30.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/156-1995-181026
+  date: '1995-12-30'
+- type: corrected_by
+  target: pt:dre:389020:por
+  label: "Rectificado o art. 3.º do Dec Lei 7/96, de 07-Fev, na parte em que altera o n.º 1 do art. 85.º do Código do IRC,\
+    \ pela DECL-RECT.7-A/96.30.04.1996.PCM, DR.IS-A [101-Supl] de 30.04.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-1996-389020
+  date: '1996-04-30'
+- type: corrected_by
+  target: pt:dre:276180:por
+  label: "Rectificados os nºs 1 e 2 do art. 1º do Dec Lei 44/98, de 03-Mar,na parte que adita um art. 83º-A - alterando o\
+    \ seu nº 1 - e na parte que dá nova redacção ao art. 80º - alterando a al. b) do seu nº 3 -, respectivamente, do Código\
+    \ do IRC aprovado pelo presente diploma, pela DECL-RECT.7-G/98.31.03.1998.PCM, DR.IS-A [76-3ºSupl] de 31.03.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-g-1998-276180
+  date: '1998-03-31'
+- type: corrected_by
+  target: pt:dre:596725:por
+  label: "Rectificado o art. 2º do Dec Lei 472/99, de 08-Nov, na parte que altera o nº 2 do art. 51º, nº 1 do art. 80º e nº\
+    \ 2 do art. 81º do Código do IRC aprovado pelo presente diploma, pela DECL-RECT.4-C/2000.31.01.2000.PCM, DR.IS-A [25-Supl]\
+    \ de 31.01.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/4-c-2000-596725
+  date: '2000-01-31'
+- type: corrected_by
+  target: pt:dre:168629:por
+  label: "Rectificado o Dec Lei 198/2001, de 03-Jul, que revê e republica o presente diploma, pela DECL-RECT.14-C/2001.31.07.2001.PCM,\
+    \ DR.IS-A [176-3ºSupl] de 31.07.2001\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/14-c-2001-168629
+  date: '2001-07-31'
+- type: corrected_by
+  target: pt:dre:214528:por
+  label: "Rectificado o art. 27º da Lei 32-B/2002, de 30-Dez, que altera o presente diploma, pela DECL-RECT.2/2003.15.03.2003.AR,\
+    \ DR.IS-A [63] de 15.03.2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/2-2003-214528
+  date: '2003-03-15'
+- type: corrected_by
+  target: pt:dre:210392:por
+  label: "Rectificado o art. 2º do Dec Lei 80/2003, de 23-Abr, na parte que altera o nº 5 do art. 90º do Código do IRC aprovado\
+    \ pelo presente diploma, pela DECL-RECT.7-A/2003.31.05.2003.PCM, DR.IS-A [126-2ºSupl] de 31.05.2003\03\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/7-a-2003-210392
+  date: '2003-05-31'
+- type: corrected_by
+  target: pt:dre:239468:por
+  label: "Rectificado o 14.º parágrafo do preâmbulo e o art. 2.º [na parte em que confere nova redacção ao n.º 12 do art.\
+    \ 18.º, ao n.º 7 do art. 23.º e ao n.º 2 do art. 34.º do Código do IRC, aprovado pelo presente diploma, revisto e republicado\
+    \ pelo Dec Lei 198/2001, de 03-Jul], o art. 3.º [na parte em que adita o n.º 4 do art. 34.º, o n.º 2 do art. 35.º-B, o\
+    \ n.º 3 do art. 35.º-B, a al. b) do n.º 3 do art. 35.º-B, o n.º 4 do art. 35.º-B, o n.º 4 do art. 45.º-A e o n.º 1 do\
+    \ art. 45.º-B ao Código do IRC, aprovado pelo presente diploma, revisto e republicado pelo Dec Lei 198/2001, de 03-Jul],\
+    \ a epígrafe do art. 4.º, o n.º 1 do art. 8.º e a tabela de correspondência (anexo I) do Dec Lei 159/2009, de 13-Jul,\
+    \ bem como rectificada a al. b) do n.º 1 do art. 22.º, o n.º 3 do art. 28.º, o n.º 4 do art. 30.º, o n.º 2 do art. 35.º,\
+    \ o n.º 4 do art. 35.º, o n.º 2 do art. 38.º, o n.º 3 do art. 38.º, a al. b) do n.º 3 do art. 38.º, o n.º 4 do art. 38.º,\
+    \ a al. a) do n.º 1 do art. 39.º, a al. b) do n.º 1 do art. 39.º, o n.º 1 do art. 50.º, o n.º 9 do art. 51.º, a al. g)\
+    \ do n.º 4 do art. 69.º, o n.º 1 do art. 121.º e o n.º 4 do art. 121.º do Código do IRC republicado no anexo II do citado\
+    \ diploma, pela DECL-RECT.67-A/2009.11.09.2009.PCM, DR.IS [177-Supl] de 11.09.2009\009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/67-a-2009-239468
+  date: '2009-09-11'
+- type: corrected_by
+  target: pt:dre:259248:por
+  label: Retificado o art. 192º [que se refere à disposição transitória no âmbito do Código do IRC, aprovado pelo presente
+    diploma] da Lei 66-B/2012, de 31-dez, pela DECL-RECT.11/2013.28.02.2013.AR, DR.IS [42] de 28.02.2013�
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/11-2013-259248
+  date: '2013-02-28'
+- type: corrected_by
+  target: pt:dre:571890:por
+  label: "Retificados o art. 2.º e a republicação anexa [na parte que altera as als. c) e d) do n.º 3 do art. 14.º, a al.\
+    \ a) do n.º 9 do art. 18.º, as als. f) e g) do n.º 1 do art. 20.º, a al. b) do n.º 1 do art. 29.º, o corpo e a al. a)\
+    \ do n.º 1 do art. 48.º, o n.º 2 do art. 55.º, a al. a) do n.º 5 do art. 67.º, o n.º 6 do art. 69.º, o n.º 5 do art. 71.º\
+    \ e o n.º 3 do art. 87.º, todos do Código do IRC aprovado pelo presente diploma], o art. 3.º e a republicação anexa [na\
+    \ parte que altera as als. a) e c) do n.º 3 do art. 31.º-B, a al. c) do n.º 1 do art. 86.º-A e a al. a) do n.º 3 do art.\
+    \ 91.º-A, do citado Código], o n.º 3 do art. 9.º e o texto da republicação anexa [na parte que republica a al. a) do n.º\
+    \ 1 do art. 46.º, a al. g) do n.º 4 do art. 69.º e o n.º 2 do art. 72.º, do citado Código], todos da Lei 2/2014 de 16-jan\
+    \ DR.IS [11], pela DECL-RECT.18/2014.13.03.2014.AR, DR.IS [51] de 13.03.2014\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/18-2014-571890
+  date: '2014-03-13'
+- type: repealed_by
+  target: pt:dre:219165:por
+  label: "Revogado, a partir de 01.01.1999, o art. 11º do Código, na parte respeitante a cooperativas, pela LEI.85/98.16.12.1998.AR,\
+    \ DR.IS-A [289] de 16.12.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/85-1998-219165
+  date: '1998-12-16'
+- type: repealed_by
+  target: pt:dre:144987:por
+  label: "Revogados os art.s 39º, 39º-A e 40º do Código, pelo DEC LEI.74/99.1999.03.16.MF, DR.IS-A [63]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/74-1999-144987
+  date: '1999-03-16'
+- type: repealed_by
+  target: pt:dre:444199:por
+  label: "Revogado o art. 79.º-A (aditado pela Lei 109-B/2001 de 27-Dez) do Código, revisto e republicado pelo Dec Lei 198/2001,\
+    \ de 03-Jul, pelo DEC LEI.237/2008.15.12.2008.MFAP, DR.IS [241] de 15.12.2008\008\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-2008-444199
+  date: '2008-12-15'
+- type: repealed_by
+  target: pt:dre:115536002:por
+  label: Revogada a al. h) do n.º 2 do art. 92.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas pelo(a) Decreto-Lei
+    n.º 45/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-2018-115536002
+  date: '2018-06-19'
 article_structure:
   article_count: 139
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:21Z'
   warnings: []
   errors: []
 ---
@@ -262,15 +1721,15 @@ As modificações que de futuro se fizerem sobre matéria contida no Código do 
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 30 de Novembro de 1988.**
+Promulgado em 30 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 CÓDIGO DO IMPOSTO SOBRE O RENDIMENTO DAS PESSOAS COLECTIVAS
 

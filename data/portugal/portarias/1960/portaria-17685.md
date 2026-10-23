@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17685-1960-281612
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-04-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 678d4e45d213f2b967b5bdc7c1435ca0b0a4a9e670fa61139a40b5823cfd297b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2561c5b90a296b30eabdcc1a6927a8a50c77b1ee849382043a23aaa311c35312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:52Z'
   warnings: []
   errors: []
 ---
@@ -548,7 +548,7 @@ Deve registar-se a hora do começo da cheia, assim como do máximo da enchente, 
 
 1. Nestes postos o registo dos níveis de água é feito em aparelhos auto-registadores ou limnígrafos, cujo tipo é o de cilindro horizontal accionado por meio de maquinismo de relojoaria e de estilete (ou pena) movido por intermédio de um parafuso sem fim.
 
-Este parafuso, possuindo duas ranhuras helicoidais, tem um dispositivo que permite inverter o movimento, de modo que se registam todas as alturas de água, por maiores que sejam. As escalas de alturas dos gráficos são de 1:10 e 1:20 e a rotação completa do cilindro pode fazer-se em 24 horas (16 mm [([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf))](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf) 1 hora), em 48 horas (18 mm [([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf))](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf) 1 hora) e em 7 dias (2 mm [([ver documento original](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf))](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf) 1 hora). Aos observadores dos limnígrafos compete:
+Este parafuso, possuindo duas ranhuras helicoidais, tem um dispositivo que permite inverter o movimento, de modo que se registam todas as alturas de água, por maiores que sejam. As escalas de alturas dos gráficos são de 1:10 e 1:20 e a rotação completa do cilindro pode fazer-se em 24 horas (16 mm [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf) 1 hora), em 48 horas (18 mm [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf) 1 hora) e em 7 dias (2 mm [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/04/09100/09250931.pdf) 1 hora). Aos observadores dos limnígrafos compete:
 
 2. Mudar o gráfico dos aparelhos no fim do período de rotação do cilindro.
 

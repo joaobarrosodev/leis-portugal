@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17650-1960-282350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 325743370a7b54d5e491c9e56405f5811de4c21394c8b9ef33bbce65cfd56b0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e608e4ae7af1c5e42fe3676427dc8c0c71e5d24715a60608d6f69e76454bb10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:351945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594350:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:12Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +103,7 @@ Alteração ao plano de uniformes da Polícia de Viação e Trânsito
 
 ### CAPÍTULO I — Distintivos dos postos e das classes
 
-###### Artigo 1.º O uso de distintivos para a Polícia de Viação e Trânsito passa a ser regulado pelas disposições seguintes:
+Artigo 1.º O uso de distintivos para a Polícia de Viação e Trânsito passa a ser regulado pelas disposições seguintes:
 
 a) Comissários-chefes. Os mesmos distintivos que usam actualmente, com mais um galão;
 
@@ -103,8 +115,8 @@ d) Guardas. A estrela é substituída pelo escudo nacional, conforme modelo cons
 
 ### CAPÍTULO II — Artigos de uniforme
 
-###### Art. 2.º O uniforme da Polícia de Viação e Trânsito mantém-se conforme o estabelecido na [Portaria n.º 15372](https://diariodarepublica.pt/dr/detalhe/portaria/15372-1955-235512), de 9 de Maio de 1955, sendo facultativo aos comissários-chefes o uso de gabardina da cor do uniforme de lã, do modelo constante da figura n.º 79 do [Decreto n.º 41798](https://diariodarepublica.pt/dr/detalhe/decreto/41798-1958-351945), de 8 de Agosto de 1958.
+Art. 2.º O uniforme da Polícia de Viação e Trânsito mantém-se conforme o estabelecido na [Portaria n.º 15372](https://diariodarepublica.pt/dr/detalhe/portaria/15372-1955-235512), de 9 de Maio de 1955, sendo facultativo aos comissários-chefes o uso de gabardina da cor do uniforme de lã, do modelo constante da figura n.º 79 do [Decreto n.º 41798](https://diariodarepublica.pt/dr/detalhe/decreto/41798-1958-351945), de 8 de Agosto de 1958.
 
-###### Art. 3.º As luvas de canhão dos agentes motociclistas serão de cabedal castanho para o uniforme de serviço e de camurça ou pelica brancas para o serviço de escoltas.
+Art. 3.º As luvas de canhão dos agentes motociclistas serão de cabedal castanho para o uniforme de serviço e de camurça ou pelica brancas para o serviço de escoltas.
 
 Ministério das Comunicações, 29 de Março de 1960. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17572-1960-279226
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-03T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a031ee979260140af0acac75d34c7962f169ae765a0b6e58498b5c7633b564f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97caa4bc3b5e6ee68974194f281d3abae7abd385e1f2c4706e6c7cfd40e59bca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:32Z'
   warnings: []
   errors: []
 ---
@@ -94,16 +94,16 @@ Ministério da Educação Nacional, 3 de Fevereiro de 1960. - O Ministro da Educ
 
 REGULAMENTO DO PRÉMIO MÁRIO DA CUNHA BRITO
 
-###### Artigo 1.º O Prémio Mário da Cunha Brito é constituído pelo rendimento anual da importância de 250.000$00, para esse fim oferecida pelo benemérito Adolfo Vieira de Brito, casado, proprietário e industrial, morador em Lisboa, que vai ser convertida em certificado de renda perpétua assentado à Direcção do Distrito Escolar de Lisboa, e destina-se a estimular nos alunos das escolas de Belas, concelho de Oeiras, a regularidade de frequência, o comportamento e o aproveitamento escolar.
+Artigo 1.º O Prémio Mário da Cunha Brito é constituído pelo rendimento anual da importância de 250.000$00, para esse fim oferecida pelo benemérito Adolfo Vieira de Brito, casado, proprietário e industrial, morador em Lisboa, que vai ser convertida em certificado de renda perpétua assentado à Direcção do Distrito Escolar de Lisboa, e destina-se a estimular nos alunos das escolas de Belas, concelho de Oeiras, a regularidade de frequência, o comportamento e o aproveitamento escolar.
 
-###### Art. 2.º Será distribuída anualmente a importância de 1.000$00 a cada um dos cinco alunos de cada sexo aprovados no exame da 4.ª classe das referidas escolas que se houverem distinguido pela assiduidade às aulas, comportamento e aproveitamento.
+Art. 2.º Será distribuída anualmente a importância de 1.000$00 a cada um dos cinco alunos de cada sexo aprovados no exame da 4.ª classe das referidas escolas que se houverem distinguido pela assiduidade às aulas, comportamento e aproveitamento.
 
-###### Art. 3.º - 1. Até ao dia 10 de Agosto de cada ano o director da escola masculina e a directora da escola feminina de Belas enviarão ao director do Distrito Escolar de Lisboa a proposta dos cinco alunos aprovados no exame da 4.ª classe que mais se houverem distinguido na assiduidade às aulas, comportamento moral e aproveitamento escolar, acompanhada do curriculum escolar de cada um.
+Art. 3.º - 1. Até ao dia 10 de Agosto de cada ano o director da escola masculina e a directora da escola feminina de Belas enviarão ao director do Distrito Escolar de Lisboa a proposta dos cinco alunos aprovados no exame da 4.ª classe que mais se houverem distinguido na assiduidade às aulas, comportamento moral e aproveitamento escolar, acompanhada do curriculum escolar de cada um.
 
 2. No caso de a proposta não lhe merecer aprovação, o director do Distrito Escolar promoverá a substituição dos alunos propostos por outros que lhe pareçam mais dignos da concessão dos prémios.
 
-###### Art. 4.º Das substituições feitas pelo director do Distrito Escolar cabe aos directores das escolas o direito de recurso, no prazo de oito dias, para o director-geral do Ensino Primário, que julgará em última instância, mediante o exame do processo que lhe será enviado no prazo de cinco dias.
+Art. 4.º Das substituições feitas pelo director do Distrito Escolar cabe aos directores das escolas o direito de recurso, no prazo de oito dias, para o director-geral do Ensino Primário, que julgará em última instância, mediante o exame do processo que lhe será enviado no prazo de cinco dias.
 
-###### Art. 5.º A distribuição dos prémios far-se-á em sessão solene realizada numa sala de aula de um dos edifícios escolares locais, dentro dos primeiros quinze dias do mês de Outubro do ano civil em que os alunos hajam prestado as provas de exame, e será presidida pelo director do Distrito Escolar de Lisboa ou pelo seu representante.
+Art. 5.º A distribuição dos prémios far-se-á em sessão solene realizada numa sala de aula de um dos edifícios escolares locais, dentro dos primeiros quinze dias do mês de Outubro do ano civil em que os alunos hajam prestado as provas de exame, e será presidida pelo director do Distrito Escolar de Lisboa ou pelo seu representante.
 
 Direcção-Geral do Ensino Primário, 3 de Fevereiro de 1960. - O Director-Geral, interino, Joaquim José Gomes Belo.

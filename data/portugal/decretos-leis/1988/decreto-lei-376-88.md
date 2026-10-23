@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1988-354087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-10-21T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74ba4401efae71cad53767ba6c642a657489a61e2d49fc0e79e6cb54dff92c45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20b6298c26c9bc77d80931708e914a3b881cb73e348a6ae7c4165d814f0cea61
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Empresa de Silos Portuários
+- EPAC
+- Estatuto
+relationships:
+- type: cites
+  target: pt:dre:420029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587622:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
+  article_count: 20
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:51Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +113,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A SILOPOR - Empresa de Silos Portuários, S. A., criada pelo [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro, ratificado pela [Lei n.º 32/87](https://diariodarepublica.pt/dr/detalhe/lei/32-1987-420029), de 10 de Julho, é uma sociedade de capitais maioritariamente públicos que se rege pelos diplomas legais citados, pelo presente decreto-lei, pelos seus estatutos e pela legislação aplicável às sociedades anónimas.
+Artigo 1.º A SILOPOR - Empresa de Silos Portuários, S. A., criada pelo [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro, ratificado pela [Lei n.º 32/87](https://diariodarepublica.pt/dr/detalhe/lei/32-1987-420029), de 10 de Julho, é uma sociedade de capitais maioritariamente públicos que se rege pelos diplomas legais citados, pelo presente decreto-lei, pelos seus estatutos e pela legislação aplicável às sociedades anónimas.
 
-###### Art. 2.º Os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro, com a redacção da [Lei n.º 32/87](https://diariodarepublica.pt/dr/detalhe/lei/32-1987-420029), de 10 de Julho, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro, com a redacção da [Lei n.º 32/87](https://diariodarepublica.pt/dr/detalhe/lei/32-1987-420029), de 10 de Julho, passam a ter a seguinte redacção:
 
-###### Art. 2.º - 1 - Do património imobiliário da EPAC é destacado o acervo de bens a seguir indicados, que passará a constituir património da nova sociedade:
+Art. 2.º - 1 - Do património imobiliário da EPAC é destacado o acervo de bens a seguir indicados, que passará a constituir património da nova sociedade:
 
 a) O terminal portuário da Trafaria;
 
@@ -132,11 +143,11 @@ d) As instalações mecânicas situadas no cais do Seixalinho.
 
 9 - Uma comissão composta por três elementos, sendo um escolhido pela EPAC, outro pela SILOPOR e um terceiro, que presidirá, pelo Ministro das Finanças, elaborará, até 31 de Outubro de 1988, um relatório onde esteja determinado o valor real da dívida referida no n.º 6 anterior e se proponha a metodologia a adaptar para a respectiva liquidação.
 
-###### Art. 3.º - 1 - A SILOPOR terá inicialmente um capital social de 3500000 contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC.
+Art. 3.º - 1 - A SILOPOR terá inicialmente um capital social de 3500000 contos, integralmente subscrito e realizado pelo Estado, obtido mediante destaque do capital social da EPAC.
 
 2 - ...
 
-###### Art. 4.º - 1 - O capital social deve ser, em qualquer momento, representado por acções de tipo A e de tipo B, com as seguintes características:
+Art. 4.º - 1 - O capital social deve ser, em qualquer momento, representado por acções de tipo A e de tipo B, com as seguintes características:
 
 a) As acções de tipo A são nominativas e só podem pertencer ou ser subscritas pelo Estado, pessoas colectivas de direito público, empresas públicas e sociedades que, por determinação legal, pertençam ao sector público;
 
@@ -152,9 +163,9 @@ b) As acções de tipo B são nominativas ou ao portador, podendo pertencer ou s
 
 6 - A designação dos titulares dos órgãos sociais cabe sempre à maioria dos votos expressos em assembleia geral, sendo, no entanto, permitidas cláusulas estatutárias que reservem a designação de uma minoria desses titulares aos possuidores de acções de tipo B.
 
-###### Art. 3.º São alterados os estatutos da SILOPOR, que passam a ser os constantes do anexo a este diploma.
+Art. 3.º São alterados os estatutos da SILOPOR, que passam a ser os constantes do anexo a este diploma.
 
-###### Art. 4.º - 1 - A actividade da sociedade SILOPOR inicia-se no dia da publicação do [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro.
+Art. 4.º - 1 - A actividade da sociedade SILOPOR inicia-se no dia da publicação do [Decreto-Lei n.º 293-A/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-a-1986-587622), de 12 de Setembro.
 
 2 - Desde o dia da sua criação até ao dia da publicação da Resolução n.º 27/86, de 4 de Novembro, da Assembleia da República, que suspendeu a vigência do diploma referido no número anterior, as receitas, despesas e saldos decorrentes do funcionamento da SILOPOR inscrevem-se na contabilidade da EPAC.
 
@@ -164,15 +175,15 @@ b) As acções de tipo B são nominativas ou ao portador, podendo pertencer ou s
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 10 de Outubro de 1988.**
+Promulgado em 10 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 12 de Outubro de 1988.**
+Referendado em 12 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ESTATUTOS DA SILOPOR - EMPRESA DE SILOS PORTUÁRIOS, S. A.
 

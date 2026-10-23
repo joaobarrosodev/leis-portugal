@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17690-1960-281601
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cac8dc3efd17269193033fb56959213d2a37019838e44e1b34e4126815e7df3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dae3258c94f2e2a24e354617e5c3d1101c0bbcb8e65735ba2e85f5b654709d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,24 @@ relationships:
   target: pt:dre:171098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253829:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435245:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:02Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Convindo actualizar as condições especiais de promoção dos oficiais da class
 
 Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo da faculdade que lhe é conferida pelo artigo 185.º do Estatuto dos Oficiais da Armada ([Decreto n.º 28211](https://diariodarepublica.pt/dr/detalhe/decreto/28211-1937-435245), de 23 de Novembro de 1937), que os artigos 91.º e 92.º do referido estatuto passem a ter as seguintes redacções:
 
-###### Art. 91.º As condições especiais de promoção na classe de administração naval são:
+Art. 91.º As condições especiais de promoção na classe de administração naval são:
 
 a) Para a promoção a segundo-tenente de administração naval:
 
@@ -134,6 +142,6 @@ f) Para a promoção a comodoro de administração naval:
 
 § 2.º São dispensados de satisfazer à sua 3.ª condição especial de promoção os primeiros-tenentes que, à data da publicação do presente diploma, pertençam à primeira metade da respectiva escala de antiguidade, bem como os primeiros-tenentes que, embora ainda colocados na segunda metade daquela escala, tenham já concluído o tirocínio em terra a que eram obrigados pela legislação agora vigente.
 
-###### Art. 92.º Nenhum oficial de administração naval que desempenhe as funções de secretário-tesoureiro de conselho administrativo poderá ser promovido sem que, a pedido da Superintendência dos Serviços da Armada, a Inspecção de Marinha preste a informação de estar de posse de todos os elementos que o respectivo conselho administrativo lhe é obrigado a remeter de acordo com o Regulamento de Administração da Fazenda Naval e que são necessários para o apuramento das competentes responsabilidades pecuniárias.
+Art. 92.º Nenhum oficial de administração naval que desempenhe as funções de secretário-tesoureiro de conselho administrativo poderá ser promovido sem que, a pedido da Superintendência dos Serviços da Armada, a Inspecção de Marinha preste a informação de estar de posse de todos os elementos que o respectivo conselho administrativo lhe é obrigado a remeter de acordo com o Regulamento de Administração da Fazenda Naval e que são necessários para o apuramento das competentes responsabilidades pecuniárias.
 
 Ministério da Marinha, 21 de Abril de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

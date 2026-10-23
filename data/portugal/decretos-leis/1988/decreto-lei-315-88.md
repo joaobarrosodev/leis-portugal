@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1988-370256
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-08T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb02e484f32d398e5599934904cb45470eb1d7f29670d5ff11f19fccc49a28ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d550441996549d9409f3aac8cef311d2b82f72d73f68aa5b16485910b65aabe9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Geral de Aposentações
+- Desalojado
+- Funcionário Ultramarino
+- Tempo de Serviço
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:152364:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:15Z'
   warnings: []
   errors: []
 ---
@@ -93,22 +102,22 @@ Considerando, por outro lado, que esta medida se insere na preocupação de desb
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O tempo de serviço prestado por funcionários e agentes da ex-administração ultramarina bem como do ex-Ministério do Ultramar e organismos dele dependentes, poderá ser contado pela Caixa Geral de Aposentações, exclusivamente para efeitos de aposentação, com base em elementos de informação, que considere suficientes.
+Artigo 1.º - 1 - O tempo de serviço prestado por funcionários e agentes da ex-administração ultramarina bem como do ex-Ministério do Ultramar e organismos dele dependentes, poderá ser contado pela Caixa Geral de Aposentações, exclusivamente para efeitos de aposentação, com base em elementos de informação, que considere suficientes.
 
 2 - Para efeitos do número anterior, cabe aos interessados a apresentação dos elementos necessários, documentalmente comprovados, designadamente dos despachos de nomeação, transferências e exonerações, de guias de marcha e de vencimentos, de dados biográficos referentes ao tempo de serviço, constantes de registos de listas de antiguidade, ou de outros documentos emanados de serviços oficiais, pelos quais se provem as condições e os limites de tempo de serviço efectivamente prestado.
 
 3 - A Caixa Geral de Aposentações poderá solicitar à Direcção-Geral do Tesouro ou a qualquer outro serviço ou organismo público os elementos de informação que considere necessários para comprovação do tempo de serviço e instrução do subsequente processo de aposentação.
 
-###### Art. 2.º É revogado o [Decreto-Lei n.º 143/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1985-152364), de 8 de Maio, e demais legislação complementar.
+Art. 2.º É revogado o [Decreto-Lei n.º 143/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1985-152364), de 8 de Maio, e demais legislação complementar.
 
 Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 24 de Agosto de 1988.**
+Promulgado em 24 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 26 de Agosto de 1988.**
+Referendado em 26 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.

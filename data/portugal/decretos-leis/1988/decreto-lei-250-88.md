@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16300/28872889.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1988-372652
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-07-26T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5630ccfbc0939bb1ab6519baa81ad1ebc34fa1d5a0865d9fac986ae5b0754131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab0e9db44a0a17990485e32364b8086d79f5db32f29ce724f2a49ffe25f763dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aproximação das Legislações
+- CEE
+- Decisão CE
+- Direcção Geral da Pecuária
+- Direcção Regional de Agricultura
+- Ifadap
+- Iroma
+- Política Agrícola Comum
+- Saúde Animal
+- Suinicultura
 relationships:
 - type: amended_by
   target: pt:dre:484986:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:484986:por
+  label: "Revogado pelo DEC LEI.179/95.1995.07.26.MA DR.IS-A [171]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/179-1995-484986
+  date: '1995-07-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:40Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +117,11 @@ Encontrando-se estabelecido que é o Instituto Financeiro de Apoio ao Desenvolvi
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma destina-se a estabelecer, no território do continente, a disciplina de execução material e financeira dos planos de erradicação da peste suína africana e da peste suína clássica.
+Artigo 1.º - 1 - O presente diploma destina-se a estabelecer, no território do continente, a disciplina de execução material e financeira dos planos de erradicação da peste suína africana e da peste suína clássica.
 
 2 - Os planos referidos no número anterior correspondem à aplicação das medidas previstas, no âmbito da comparticipação da Comunidade Económica Europeia, através da Directiva n.º [80/1095/CEE](http://data.europa.eu/eli/dir/1980/1095/oj?locale=pt), de 11 de Novembro, e das Decisões n.os [80/1096/CEE](http://data.europa.eu/eli/dir/1980/1096/oj?locale=pt), de 11 de Novembro, e [87/230/CEE](http://data.europa.eu/eli/dir/1987/230/oj?locale=pt), de 7 de Abril.
 
-###### Art. 2.º A aplicação da directiva e decisões referidas no artigo anterior é atribuída às seguintes entidades:
+Art. 2.º A aplicação da directiva e decisões referidas no artigo anterior é atribuída às seguintes entidades:
 
 a) Direcção-Geral da Pecuária, adiante designada por DGP;
 
@@ -116,7 +131,7 @@ c) Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adi
 
 d) Instituto Regulador e Orientador dos Mercados Agrícolas, adiante designado por IROMA.
 
-###### Art. 3.º Para efeitos do disposto no artigo anterior, compete à DGP:
+Art. 3.º Para efeitos do disposto no artigo anterior, compete à DGP:
 
 a) Promover e assegurar, em colaboração com as DRAs, a elaboração dos planos de erradicação específica, bem como o necessário apoio técnico aos serviços envolvidos;
 
@@ -130,7 +145,7 @@ e) Elaborar os relatórios anuais de execução para a sua apresentação à Com
 
 f) Enviar ao IFADAP, no prazo máximo de 30 dias após o acto de occisão, a relação dos suinicultores com direito a indemnização, nos termos do artigo 8.º do Decreto-Lei n.º 39209, de 14 de Maio de 1953, por força do artigo único do Decreto-Lei n.º 41178, de 8 de Julho de 1957.
 
-###### Art. 4.º Para efeitos do disposto no artigo 2.º, compete às DRAs:
+Art. 4.º Para efeitos do disposto no artigo 2.º, compete às DRAs:
 
 a) Executar, ao nível sua área de influência, as orientações da DGP no âmbito da alínea a) do artigo anterior;
 
@@ -138,7 +153,7 @@ b) Colaborar com a DGP, na respectiva área de influência, para a elaboração 
 
 c) Executar e promover, na respectiva área de influência, cada plano de erradicação no âmbito do estabelecido nas alíneas c) e d) do artigo 3.º
 
-###### Art. 5.º Para efeitos do disposto no artigo 2.º, compete ao IFADAP:
+Art. 5.º Para efeitos do disposto no artigo 2.º, compete ao IFADAP:
 
 a) Centralizar, como interlocutor do Fundo Europeu de Orientação e Garantia Agrícola, Secção Orientação, a documentação necessária à obtenção do reembolso das despesas efectuadas ao abrigo das referidas directiva e decisões;
 
@@ -152,9 +167,9 @@ e) Prestar todas as informações que lhe forem solicitadas pelo coordenador nac
 
 f) Proceder, no prazo máximo de vinte dias contados da recepção da relação referida na alínea f) do artigo 3.º, ao pagamento da indemnização devida, por transferência para a conta bancária do beneficiário, comunicando tal acto à DGP.
 
-###### Art. 6.º As receitas e despesas relativas à luta contra a peste suína africana, e que eram de responsabilidade do INGA até 31 de Dezembro de 1987, são transferidas, a partir daquela data, para o IFADAP.
+Art. 6.º As receitas e despesas relativas à luta contra a peste suína africana, e que eram de responsabilidade do INGA até 31 de Dezembro de 1987, são transferidas, a partir daquela data, para o IFADAP.
 
-###### Art. 7.º Para efeitos do disposto no artigo 2.º, compete ao IROMA:
+Art. 7.º Para efeitos do disposto no artigo 2.º, compete ao IROMA:
 
 a) Efectuar a cobrança da taxa criada pelo Decreto-Lei n.º 44158, de 17 de Janeiro de 1962;
 
@@ -168,11 +183,11 @@ c) Enviar mensalmente à DGP e ao IFADAP o mapa das cobranças efectuadas e por 
 
 d) Cobrar aos destinatários as respectivas taxas, ao lançar no mercado as carnes provenientes dessas operações.
 
-###### Art. 8.º - 1 - No caso de importação de carne de porco, os agentes económicos importadores são obrigados a liquidar ao IROMA as taxas devidas respeitantes à importação efectivada.
+Art. 8.º - 1 - No caso de importação de carne de porco, os agentes económicos importadores são obrigados a liquidar ao IROMA as taxas devidas respeitantes à importação efectivada.
 
 2 - Decorridos 30 dias sem se efectivar o pagamento voluntário da taxa referida na alínea a) do artigo anterior, proceder-se-á à sua cobrança coerciva.
 
-###### Art. 9.º - 1 - O Ministro da Agricultura, Pescas e Alimentação nomeará o coordenador nacional de cada plano específico de erradicação, após proposta do director-geral da Pecuária.
+Art. 9.º - 1 - O Ministro da Agricultura, Pescas e Alimentação nomeará o coordenador nacional de cada plano específico de erradicação, após proposta do director-geral da Pecuária.
 
 2 - Os responsáveis regionais pela gestão das acções compreendidas em cada plano de erradicação, adiante designados por gestor, serão propostos pelo respectivo director regional de agricultura ao Ministro da Agricultura, Pescas e Alimentação.
 
@@ -180,7 +195,7 @@ d) Cobrar aos destinatários as respectivas taxas, ao lançar no mercado as carn
 
 4 - Ao coordenador nacional e aos gestores é aplicável o disposto nos n.os 4 e 5 do artigo 12.º do Decreto-Lei n.º 96/87, de 4 de Março, com as devidas adaptações.
 
-###### Art. 10.º Compete ao coordenador nacional de cada plano específico de erradicação:
+Art. 10.º Compete ao coordenador nacional de cada plano específico de erradicação:
 
 a) Coordenar a elaboração e aprovar o plano anual, bem como o respectivo orçamento;
 
@@ -190,7 +205,7 @@ c) Promover e acompanhar a execução do plano de erradicação e coordenar a el
 
 d) Emitir pareceres sobre as comunicações previstas na alínea m) do artigo 11.º e enviá-los anualmente ao Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 11.º - 1 - Compete ao gestor:
+Art. 11.º - 1 - Compete ao gestor:
 
 a) Analisar e aprovar os projectos de investimento no âmbito dos planos;
 
@@ -218,7 +233,7 @@ m) Comunicar ao coordenador e ao IFADAP as medidas, acções e investimentos no 
 
 2 - Em situações que o justifiquem, um gestor pode ser responsável por mais um plano.
 
-###### Art. 12.º - 1 - O custo de cada plano específico envolve as verbas:
+Art. 12.º - 1 - O custo de cada plano específico envolve as verbas:
 
 a) Anualmente consignadas no PIDDAC;
 
@@ -228,11 +243,11 @@ b) Provenientes da cobrança da taxa prevista no Decreto-Lei n.º 44158, de 17 d
 
 3 - As verbas referidas na alínea b) são depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do IFADAP, e destinam-se à cobertura dos encargos com a luta contra as pestes suínas africana e clássica, incluindo as despesas com a liquidação e cobrança da taxa, pagamento das indemnizações devidas pelo abate e destruição dos animais, atacados ou suspeitos, bem como a suportar os encargos financeiros derivados do eventual desfasamento entre as receitas geradas e as despesas efectuadas.
 
-###### Art. 13.º - 1 - Dos pagamentos efectuados pelo IFADAP directamente aos destinatários será dado conhecimento ao respectivo gestor.
+Art. 13.º - 1 - Dos pagamentos efectuados pelo IFADAP directamente aos destinatários será dado conhecimento ao respectivo gestor.
 
 2 - O IFADAP poderá cobrar uma comissão pelos serviços prestados, em termos a fixar por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 14.º - 1 - No caso de incumprimento, o gestor do programa notificará o beneficiário para, no prazo de 30 dias, restituir os montantes já recebidos a título de ajudas, acrescidos de juros de mora à taxa legal, contados da data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
+Art. 14.º - 1 - No caso de incumprimento, o gestor do programa notificará o beneficiário para, no prazo de 30 dias, restituir os montantes já recebidos a título de ajudas, acrescidos de juros de mora à taxa legal, contados da data em que tais importâncias foram colocadas à sua disposição, sem prejuízo da aplicação de outras sanções previstas na lei.
 
 2 - Se a restituição não for feita no prazo indicado, passarão a incidir sobre as importâncias em dívida juros moratórios à taxa legalmente estabelecida, contados desde o termo do referido prazo até ao efectivo reembolso, constituindo-se ainda o beneficiário na obrigação de pagar cumulativamente os encargos resultantes do acompanhamento da execução do processo e as despesas extrajudiciais para cobrança dos montantes devidos, fixados em 10% do valor total das quantias recebidas pelos beneficiários.
 
@@ -242,26 +257,26 @@ b) Provenientes da cobrança da taxa prevista no Decreto-Lei n.º 44158, de 17 d
 
 5 - As execuções instauradas ao abrigo deste artigo seguem o processo das execuções fiscais.
 
-###### Art. 15.º Qualquer beneficiário poderá, por comunicação escrita ao gestor do plano de erradicação, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias que haja recebido, acrescidas de juros calculados à taxa máxima legal desde a data em que aquelas importâncias foram colocadas à sua disposição.
+Art. 15.º Qualquer beneficiário poderá, por comunicação escrita ao gestor do plano de erradicação, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias que haja recebido, acrescidas de juros calculados à taxa máxima legal desde a data em que aquelas importâncias foram colocadas à sua disposição.
 
-###### Art. 16.º É revogado o Decreto-Lei n.º 354/78, de 23 de Novembro.
+Art. 16.º É revogado o Decreto-Lei n.º 354/78, de 23 de Novembro.
 
-###### Art. 17.º É aditado um § 3.º ao artigo único do Decreto-Lei n.º 41178, de 8 de Julho de 1957, com a seguinte redacção:
+Art. 17.º É aditado um § 3.º ao artigo único do Decreto-Lei n.º 41178, de 8 de Julho de 1957, com a seguinte redacção:
 
 § 3.º O disposto no parágrafo anterior abrange igualmente os abates efectuados para combate à epizootia de peste suína clássica.
 
-###### Art. 18.º Os planos de erradicação da peste suína africana e da peste suína clássica serão regulamentados, no prazo de 30 dias após a entrada em vigor do presente diploma, mediante portaria do Ministro da Agricultura, Pescas e Alimentação.
+Art. 18.º Os planos de erradicação da peste suína africana e da peste suína clássica serão regulamentados, no prazo de 30 dias após a entrada em vigor do presente diploma, mediante portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-###### Art. 19.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 19.º Este diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 26 de Maio de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 29 de Junho de 1988.**
+Promulgado em 29 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Julho de 1988.**
+Referendado em 4 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

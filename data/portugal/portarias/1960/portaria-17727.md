@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17727-1960-505218
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b21fc615de776aca9cf5a38c1cabc83f3a718406fc5fcb8c80417ea72c1fd9f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31805b7c9123e9ac00d23bd20d3832e0d615adc0428f2c88926fa881ea23f9e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:52Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +87,7 @@ Convindo actualizar a lotação dos navios hidrográficos em serviço no ultrama
 
 Manda o Governo da República Portuguesa, pelos Ministros da Marinha e do Ultramar, fixar para os navios hidrográficos Almirante Lacerda, Carvalho Araújo, Comandante Almeida Carvalho e Pedro Nunes a lotação normal constante da coluna correspondente do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/11200/10701071.pdf))](https://files.diariodarepublica.pt/1s/1960/05/11200/10701071.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/11200/10701071.pdf)
 
 Observações
 

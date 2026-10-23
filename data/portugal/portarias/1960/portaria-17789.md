@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17789-1960-502414
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-30T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71f6c41eca839e0298d80c715414f12d4e204e80460b53ac41448684e6ce2123
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd6488720c719429fedb4ac2b73e91543faa1b3bea12c65d325606fdd39cefac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,62 @@ relationships:
   target: pt:dre:451627:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138806:por
+  label: Alterados os n.ºs II, V, VI, XI, XII, XIII, XXIII e XXV e revogados os n.ºs XIV e XX pelo(a) Portaria n.º 426-A/75
+    - Diário do Governo n.º 158/1975, 1º Suplemento, Série I de 1975-07-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/426-a-1975-138806
+  date: '1975-07-11'
+- type: amended_by
+  target: pt:dre:307604:por
+  label: Alterado o n.º XI da presente portaria, na redação dada pela Port 426-A/75, de 11 de julho, pelo(a) Portaria n.º
+    541/75 - Diário do Governo n.º 204/1975, Série I de 1975-09-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/541-1975-307604
+  date: '1975-09-04'
+- type: amended_by
+  target: pt:dre:451627:por
+  label: Alterados os n.os XI-1, XI-2, XII, XIII e XXIII, pelo(a) Portaria n.º 548-A/76 - Diário da República n.º 203/1976,
+    1º Suplemento, Série I de 1976-08-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-a-1976-451627
+  date: '1976-08-30'
+- type: cites
+  target: pt:dre:212411:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296649:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433874:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:08Z'
   warnings: []
   errors: []
 ---

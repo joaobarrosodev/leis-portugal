@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/09/22400/39373944.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1988-355517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-18T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c4a42451ed582a6a3295273c0cc7b9f9e3bb0398c43b74456e3c2740b3bcec5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 907695b0c246865dce9b26feac1bd68f4837f614b9e42b315b7b4a90c6485496
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Departamento para os Assuntos do Fundo Social Europeu
+- FSE
+- Ministério do Emprego e da Segurança Social
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:498334:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:609826:por
+  label: Fixada, nos termos do art. único, a entrada em vigor do regime de autonomia administrativa do Departamento para os
+    Assuntos do Fundo Social Europeu, criado pelo presente diploma pelo DEC LEI.189/89.03.06.1989.MESS, DR.IS [127] de 03.06.1989
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/189-1989-609826
+  date: '1989-06-03'
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:441764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:583800:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:498334:por
+  label: "Revogado pelo DEC LEI.37/91.18.01.1991.MESS, DR.IS-A [[15]] de 18.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1991-498334
+  date: '1991-01-18'
 article_structure:
   article_count: 21
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:50Z'
   warnings: []
   errors: []
 ---
@@ -325,7 +364,9 @@ c) Secção de Expediente Geral e Arquivo, que exercerá as competências previs
 
 3 - Adstrita à Repartição de Contabilidade e Aprovisionamento funciona uma tesouraria, dirigida por um tesoureiro.
 
-###### Artigo 11.º — Divisão de Estatística e Documentação
+###### Artigo 11.º
+
+##### Divisão de Estatística e Documentação
 
 À Divisão de Estatística e Documentação compete:
 
@@ -477,19 +518,19 @@ Quando se verifique mudança de carreira, nos termos da alínea b) do n.º 1 do 
 
 Visto e aprovado em Conselho de Ministros de 30 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 
-**Promulgado em 9 de Setembro de 1988.**
+Promulgado em 9 de Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 13 de Setembro de 1988.**
+Referendado em 13 de Setembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ## ANEXO I — Quadro de pessoal a que se refere o artigo 14.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/09/22400/39373944.pdf))](https://files.diariodarepublica.pt/1s/1988/09/22400/39373944.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/09/22400/39373944.pdf)
 
 ## ANEXO II — Conteúdos funcionais
 

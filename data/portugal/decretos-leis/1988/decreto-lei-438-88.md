@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27600/47164737.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,96 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1988-357279
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-03-14T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ddc1c113bf35ad293d0d59cc7cd87c460cb1499bee5597c0148001772b463582
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76dc0a67bfe9304be60fa0336debfaacce5ed20ba57e867e9d989646a5738cb4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Passaporte
 relationships:
 - type: amended_by
   target: pt:dre:114857711:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:619173:por
+  label: "Alterados os artigos 14.º, 15.º, 34.º, 35.º e 51.º, pelo DEC LEI.267/89.18.08.1989.MAI, DR.IS [189] de 18.08.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-1989-619173
+  date: '1989-08-18'
+- type: cites
+  target: pt:dre:164589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375856:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406122:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:623237:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275430:por
+  label: "Revogado pelo DEC LEI.83/2000.2000.05.11.MAI,DR.IS-A [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/83-2000-275430
+  date: '2000-05-11'
 article_structure:
   article_count: 54
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:11Z'
   warnings: []
   errors: []
 ---
@@ -484,7 +540,9 @@ O certificado é válido para uma única utilização de ida e regresso e pelo p
 
 4 - As coimas aplicadas constituem receita do Estado.
 
-### CAPÍTULO VII — Título individual de viagem única
+### CAPÍTULO VII
+
+## Título individual de viagem única
 
 ###### Artigo 43.º — Titulares
 
@@ -534,7 +592,7 @@ Os títulos individuais de viagem única emitidos são comunicados aos serviços
 
 ###### Artigo 50.º — Tipificação de requerimento
 
-**O Ministro da Administração Interna regulamentará, mediante portaria, a adopção em território português de modelos de requerimentos e declarações para obter passaporte comum, de utilização obrigatória, e que passarão a constituir exclusivo da Imprensa Nacional-Casa da Moeda, E. P.**
+O Ministro da Administração Interna regulamentará, mediante portaria, a adopção em território português de modelos de requerimentos e declarações para obter passaporte comum, de utilização obrigatória, e que passarão a constituir exclusivo da Imprensa Nacional-Casa da Moeda, E. P.
 
 ###### Artigo 51.º — Custos de emissão
 
@@ -598,14 +656,14 @@ O presente diploma entra em vigor em 1 de Janeiro de 1989.
 
 Visto e aprovado em Conselho de Ministros de 28 de Julho de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho - José Manuel Cardoso Borges Soeiro - João de Deus Rogado Salvador Pinheiro - António Fernando Couto dos Santos.
 
-**Promulgado em 25 de Outubro de 1988.**
+Promulgado em 25 de Outubro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 27 de Outubro de 1988.**
+Referendado em 27 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1988/11/27600/47164737.pdf))](https://files.diariodarepublica.pt/1s/1988/11/27600/47164737.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/11/27600/47164737.pdf)

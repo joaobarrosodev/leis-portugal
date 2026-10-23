@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17639-1960-282541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-03-19T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa28c54522dd881ab1ee36401e60c94e687a3de8ba24258ca7dbb54faa09f4e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e616f849ab514a236f76c3f98e42a5c8c6e87677c6ee7df0436ade9c5f091516
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:57Z'
   warnings: []
   errors: []
 ---
@@ -128,7 +128,7 @@ O inspector de Construção Naval, representando o Ministério da Marinha;
 
 O director do Serviço de Material da Força Aérea, representando o Subsecretariado de Estado da Aeronáutica;
 
-**O chefe da 3.ª Repartição do Secretariado-Geral da Defesa Nacional.**
+O chefe da 3.ª Repartição do Secretariado-Geral da Defesa Nacional.
 
 c) Secretário:
 

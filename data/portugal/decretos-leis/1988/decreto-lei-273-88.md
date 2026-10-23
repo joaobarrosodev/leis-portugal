@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1988-378088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fc703abe70b03bbc4469bfa64fda7fecdefec6dae9ea4da60e08c6887662536
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b9566def3285a5b4f3ec49f6fa30897354051c7529c9ee36547e73e7153f6c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Imposto do SELO
+- Isenção Fiscal
+- Mercado de Capitais
+- Valores Mobiliários
 relationships:
 - type: amended_by
   target: pt:dre:659563:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:371425:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADA ALINEA C) DO ARTIGO 1 PELO DECRETO LEI NUMERO 223/91, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE-A, NUMERO\
+    \ 137, DE 18/6/91.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-06-18'
+- type: repealed_by
+  target: pt:dre:659281:por
+  label: "Revogada a al. c) do art. 1º, pelo DEC LEI.223/91.18.06.1991.MF, DR.IS-A [137] de 18.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1991-659281
+  date: '1991-06-18'
+- type: repealed_by
+  target: pt:dre:659563:por
+  label: "Revogado pelo nº 5 do art. 43º da LEI.127-B/97.1997.12.20.AR DR.IS-A [293]2ºSupl (OE 1998), sem prejuízo da aplicabilidade\
+    \ do art. 2º aos processos pendentes em 01-Jan 1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/127-b-1997-659563
+  date: '1997-12-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +120,7 @@ Assim:
 
 No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 75/88](https://diariodarepublica.pt/dr/detalhe/lei/75-1988-371425), de 21 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º Ficam isentas do imposto do selo a que se referem os artigos 120-A e 141 da respectiva Tabela Geral:
+Artigo 1.º Ficam isentas do imposto do selo a que se referem os artigos 120-A e 141 da respectiva Tabela Geral:
 
 a) As operações sobre valores mobiliários efectuadas em sessões da bolsa;
 
@@ -106,7 +132,7 @@ c) As operações de reporte que consistam na compra de títulos de crédito e r
 
 2) O vendedor-recomprador seja uma instituição de crédito ou parabancária.
 
-###### Art. 2.º - 1 - O disposto no artigo anterior aplica-se às operações efectuadas desde 1 de Janeiro de 1988.
+Art. 2.º - 1 - O disposto no artigo anterior aplica-se às operações efectuadas desde 1 de Janeiro de 1988.
 
 2 - O Ministro das Finanças, ouvida a Direcção-Geral das Contribuições e Impostos, poderá autorizar, a requerimento dos sujeitos passivos, a restituição do imposto do selo a que se refere o artigo 1.º entregue nos cofres do Estado desde 1 de Janeiro de 1988 até à data da publicação do presente diploma, desde que os respectivos pedidos sejam apresentados no prazo de 90 dias a contar desta data.
 
@@ -114,12 +140,12 @@ c) As operações de reporte que consistam na compra de títulos de crédito e r
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
 
-**Promulgado em 18 de Julho de 1988.**
+Promulgado em 18 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 20 de Julho de 1988.**
+Referendado em 20 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

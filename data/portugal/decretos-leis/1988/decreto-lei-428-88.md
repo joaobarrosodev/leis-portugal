@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 268/1988, 1º Suplemento, Série I de 1988-11-19
   number: '268'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4654-(3) a 4654-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1988/11/26801/00030005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/428-1988-267177
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-10-29T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2812e6333f3a58b95c3f5075000090168754d130cbd971e530a88601b625441f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76114a3da1bfb862a8807237a8701aed7bdd81cd804a7a352d5f38dca855ab8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concorrência
+- Fusão de Empresas
 relationships:
 - type: amended_by
   target: pt:dre:664319:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:442950:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:664319:por
+  label: Revogado pelo(a) Decreto-Lei n.º 371/93 - Diário da República n.º 254/1993, Série I-A de 1993-10-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1993-664319
+  date: '1993-10-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:01Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +111,7 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º - 1 - O presente diploma aplica-se às concentrações de empresas em que se verifique uma das seguintes condições:
+Artigo 1.º - 1 - O presente diploma aplica-se às concentrações de empresas em que se verifique uma das seguintes condições:
 
 a) O volume anual de vendas resultante da concentração ser igual ou superior a 5000000000$00;
 
@@ -114,7 +125,7 @@ a) À sociedade cujo objecto for o comércio bancário ou a indústria de seguro
 
 b) À reorganização de sociedades que já se encontrem entre si em relação de domínio ou de grupo, nos termos do Código das Sociedades Comerciais.
 
-###### Art. 2.º - 1 - Entende-se haver concentração de empresas:
+Art. 2.º - 1 - Entende-se haver concentração de empresas:
 
 a) No caso de fusão ou cisão-fusão de duas ou mais sociedades;
 
@@ -130,11 +141,11 @@ c) Uma pessoa singular ou uma sociedade adquira a outra sociedade participação
 
 3 - Para efeitos dos números anteriores, é relevante a influência exercida através de sociedades dependentes ou em relação de grupo, nos termos do Código das Sociedades Comerciais.
 
-###### Art. 3.º - 1 - Nos casos de concentrações previstas no n.º 1 do artigo 1.º é obrigatório notificar ao Ministro do Comércio e Turismo, adiante designado por Ministro, a intenção de aquisição.
+Art. 3.º - 1 - Nos casos de concentrações previstas no n.º 1 do artigo 1.º é obrigatório notificar ao Ministro do Comércio e Turismo, adiante designado por Ministro, a intenção de aquisição.
 
 2 - A notificação deve ser instruída com os necessários elementos identificativos da entidade promotora da concentração, bem como de todos os que nela intervêm, devendo o objectivo desta e a modalidade por que se efectua ser claramente discriminados.
 
-###### Art. 4.º - 1 - O Ministro, com base nos elementos constantes do processo, pode decidir:
+Art. 4.º - 1 - O Ministro, com base nos elementos constantes do processo, pode decidir:
 
 a) Não manifestar qualquer posição, caso entenda não haver indícios de qualquer risco potencial de distorção da concorrência;
 
@@ -170,7 +181,7 @@ c) Contributo para o avanço da pesquisa tecnológica, desenvolvimento, formaç�
 
 6 - O Ministro deve ter igualmente em conta a possibilidade de efeitos adversos no ambiente, na segurança e saúde públicas e na prudente utilização de recursos naturais.
 
-###### Art. 5.º - 1 - Sempre que o Ministro solicite parecer do Conselho da Concorrência, nos termos previstos no presente diploma, deve definir o âmbito das questões concretas que suscitarem dúvidas.
+Art. 5.º - 1 - Sempre que o Ministro solicite parecer do Conselho da Concorrência, nos termos previstos no presente diploma, deve definir o âmbito das questões concretas que suscitarem dúvidas.
 
 2 - O Conselho pronunciar-se-á no prazo de 30 dias úteis, podendo, no entanto, tal prazo ser excedido no caso de terem sido solicitados elementos adicionais de que razoavelmente o Conselho necessite para poder pronunciar-se.
 
@@ -182,7 +193,7 @@ c) Contributo para o avanço da pesquisa tecnológica, desenvolvimento, formaç�
 
 6 - A decisão de oposição nos casos previstos no número anterior e na alínea c) do n.º 1 do artigo 4.º revestirá a forma de despacho conjunto do Ministro e do ministro competente em razão da actividade desenvolvida pelas empresas.
 
-###### Art. 6.º - 1 - O despacho ministerial de oposição relativo às concentrações de empresas previstas no n.º 1 do artigo 1.º acarreta a nulidade dos negócios jurídicos que tenham tais concentrações por objecto.
+Art. 6.º - 1 - O despacho ministerial de oposição relativo às concentrações de empresas previstas no n.º 1 do artigo 1.º acarreta a nulidade dos negócios jurídicos que tenham tais concentrações por objecto.
 
 2 - Do despacho referido no número anterior cabe recurso contencioso para o Supremo Tribunal Administrativo, nos termos gerais.
 
@@ -192,18 +203,18 @@ c) Contributo para o avanço da pesquisa tecnológica, desenvolvimento, formaç�
 
 5 - O processo previsto no presente diploma é gratuito.
 
-###### Art. 7.º Os serviços e organismos públicos que tiverem conhecimento de quaisquer concentrações abrangidas pela previsão do presente diploma, bem como os revisores oficiais de contas que integrem conselhos fiscais de empresas portuguesas envolvidas, ficam obrigados a dar delas conhecimento imediato ao Gabinete do Ministro, no caso de não ter sido efectuada a notificação prevista no n.º 1 do artigo 3.º
+Art. 7.º Os serviços e organismos públicos que tiverem conhecimento de quaisquer concentrações abrangidas pela previsão do presente diploma, bem como os revisores oficiais de contas que integrem conselhos fiscais de empresas portuguesas envolvidas, ficam obrigados a dar delas conhecimento imediato ao Gabinete do Ministro, no caso de não ter sido efectuada a notificação prevista no n.º 1 do artigo 3.º
 
-###### Art. 8.º A falta da notificação obrigatória prevista no n.º 1 do artigo 3.º acarreta a nulidade dos negócios jurídicos celebrados com o intuito de realizar as concentrações de empresas previstas no n.º 1 do artigo 1.º
+Art. 8.º A falta da notificação obrigatória prevista no n.º 1 do artigo 3.º acarreta a nulidade dos negócios jurídicos celebrados com o intuito de realizar as concentrações de empresas previstas no n.º 1 do artigo 1.º
 
 Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 16 de Novembro de 1988.**
+Promulgado em 16 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 18 de Novembro de 1988.**
+Referendado em 18 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

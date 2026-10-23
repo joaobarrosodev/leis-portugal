@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1988-376843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2021-09-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a7b1b6bbf026769a545771255f86005f51437c0d095ead5b0ce3b021281a40b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 81bec12f30262109f07cb2177063b6c108e4ba48326ee307774171c541a4c48a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apostas Mútuas Desportivas
+- Totobola
+- Totoloto
 relationships:
 - type: amended_by
   target: pt:dre:170794638:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:564811:por
+  label: Alterados o art. 17.º-A do Dec Lei 84/85 de 28-Mar, na redacção do presente diploma, pelo(a) Decreto-Lei n.º 371/90
+    - Diário da República n.º 274/1990, Série I de 1990-11-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/371-1990-564811
+  date: '1990-11-27'
+- type: cites
+  target: pt:dre:220896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:546379:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:283301:por
+  label: "Revogado, a partir de 1 de Janeiro de 1993, o artº 13º-A pelo DEC LEI.174/92.1992.08.13.MAI DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/174-1992-283301
+  date: '1992-08-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:30Z'
   warnings: []
   errors: []
 ---
@@ -99,23 +121,23 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º O artigo 13.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 13.º do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, passa a ter a seguinte redacção:
 
-###### Art. 13.º - 1 - O direito aos prémios caduca no prazo de 90 dias a contar da realização do concurso, sendo os respectivos montantes distribuídos pelas entidades e nas percentagens previstas no artigo 16.º
+Art. 13.º - 1 - O direito aos prémios caduca no prazo de 90 dias a contar da realização do concurso, sendo os respectivos montantes distribuídos pelas entidades e nas percentagens previstas no artigo 16.º
 
 2 - ...
 
-###### Art. 2.º Ao [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, é aditado o artigo 13.º-A, com a seguinte redacção:
+Art. 2.º Ao [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, é aditado o artigo 13.º-A, com a seguinte redacção:
 
-###### Art. 13.º-A - 1 - Os montantes destinados à Santa Casa da Misericórdia de Lisboa e ao Instituto de Gestão Financeira da Segurança Social que sejam provenientes de prémios não reclamados, e cujo direito de reclamação tenha caducado, serão entregues ao Instituto de Gestão Financeira da Segurança Social, a quem incumbe a respectiva gestão.
+Art. 13.º-A - 1 - Os montantes destinados à Santa Casa da Misericórdia de Lisboa e ao Instituto de Gestão Financeira da Segurança Social que sejam provenientes de prémios não reclamados, e cujo direito de reclamação tenha caducado, serão entregues ao Instituto de Gestão Financeira da Segurança Social, a quem incumbe a respectiva gestão.
 
 2 - Mediante protocolo a estabelecer com o Ministério da Educação, o Instituto de Gestão Financeira da Segurança Social afectará os montantes previstos no número anterior à criação de infra-estruturas desportivas nos estabelecimentos de ensino.
 
 3 - Os protocolos celebrados serão sempre homologados por despacho do Ministro do Emprego e da Segurança Social.
 
-###### Art. 3.º O artigo 17.º-A do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, introduzido neste diploma pelo artigo 5.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, passa a ter a seguinte redacção:
+Art. 3.º O artigo 17.º-A do [Decreto-Lei n.º 84/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1985-546379), de 28 de Março, introduzido neste diploma pelo artigo 5.º do [Decreto-Lei n.º 387/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1986-220896), de 17 de Novembro, passa a ter a seguinte redacção:
 
-###### Art. 17.º-A - 1 - O montante previsto na alínea a) do n.º 3 do artigo 16.º será entregue à Federação Portuguesa de Futebol, a quem compete efectuar a sua ulterior repartição pelos clubes, de acordo com as regras constantes dos números seguintes.
+Art. 17.º-A - 1 - O montante previsto na alínea a) do n.º 3 do artigo 16.º será entregue à Federação Portuguesa de Futebol, a quem compete efectuar a sua ulterior repartição pelos clubes, de acordo com as regras constantes dos números seguintes.
 
 2 - Da verba referida no número anterior 25% constituem receitas próprias da Federação Portuguesa de Futebol, 25% são afectos aos clubes de futebol da I Divisão, 25% são afectos aos clubes de futebol da II Divisão e os restantes 25% são afectos aos clubes de futebol da III Divisão.
 
@@ -127,16 +149,16 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 6 - Para os efeitos do disposto neste artigo, a Inspecção-Geral de Jogos fornecerá à Federação Portuguesa de Futebol informação anual sobre os montantes de receitas líquidas apuradas por cada clube de futebol concessionário do bingo.
 
-###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
+Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988.
 
 Visto e aprovado em Conselho de Ministros de 7 de Julho de 1988. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
 
-**Promulgado em 27 de Julho de 1988.**
+Promulgado em 27 de Julho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 29 de Julho de 1988.**
+Referendado em 29 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

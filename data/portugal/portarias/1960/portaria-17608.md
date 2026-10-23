@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17608-1960-282121
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-02-22T00:00:00Z'
+  retrieved_at: '2026-10-23T00:41:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 888944a1a3f088844cb005abe43f9d83fc9b09040e2a52fa8a03edfed5eba76e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 018b7388194790fd5deffed41ab9694eeb815d21ec81ba5bdfdb9b9507770ab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:41:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:351945:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586432:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648751:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649523:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:41:17Z'
   warnings: []
   errors: []
 ---
@@ -87,16 +103,16 @@ Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, nos 
 
 Plano de uniformes para os destacamentos da Polícia de Segurança Pública em serviço nos aeroportos
 
-###### Artigo 1.º O pessoal da Polícia de Segurança Pública destacado para serviço nos aeroportos usará os uniformes do plano de uniformes da Polícia de Segurança Pública, aprovado pelo [Decreto n.º 41798](https://diariodarepublica.pt/dr/detalhe/decreto/41798-1958-351945), de 8 de Agosto de 1958, com as alterações introduzidas pela [Portaria n.º 17078](https://diariodarepublica.pt/dr/detalhe/portaria/17078-1959-586432), de 21 de Março de 1959.
+Artigo 1.º O pessoal da Polícia de Segurança Pública destacado para serviço nos aeroportos usará os uniformes do plano de uniformes da Polícia de Segurança Pública, aprovado pelo [Decreto n.º 41798](https://diariodarepublica.pt/dr/detalhe/decreto/41798-1958-351945), de 8 de Agosto de 1958, com as alterações introduzidas pela [Portaria n.º 17078](https://diariodarepublica.pt/dr/detalhe/portaria/17078-1959-586432), de 21 de Março de 1959.
 
 § 1.º Em substituição do emblema da Polícia de Segurança Pública, será aplicado nos bonés, à frente e na parte inferior, e nas golas dos dólmanes o emblema, de metal branco prateado, da Direcção-Geral da Aeronáutica Civil.
 
 § 2.º No distintivo da fig. 14 dos modelos publicados no Diário do Governo n.º 194, 1.ª série, de 10 de Setembro de 1958, inscrever-se-á ùnicamente a palavra «Aeroporto».
 
-###### Art. 2.º O tipo de uniforme a usar em serviço será determinado pelos directores dos aeroportos, conforme as condições climáticas das quadras do ano e as conveniências impostas pelo serviço.
+Art. 2.º O tipo de uniforme a usar em serviço será determinado pelos directores dos aeroportos, conforme as condições climáticas das quadras do ano e as conveniências impostas pelo serviço.
 
 § único. Nos dias de feriado nacional é obrigatório o uso de cordões e luvas brancas com o uniforme confeccionado em fazenda azul-ferrete.
 
-###### Art. 3.º Fica revogada a [Portaria n.º 14632](https://diariodarepublica.pt/dr/detalhe/portaria/14632-1953-648751), de 26 de Novembro de 1953.
+Art. 3.º Fica revogada a [Portaria n.º 14632](https://diariodarepublica.pt/dr/detalhe/portaria/14632-1953-648751), de 26 de Novembro de 1953.
 
 Ministério das Comunicações, 22 de Fevereiro de 1960. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

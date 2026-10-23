@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-1988-370434
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-09-02T00:00:00Z'
+  retrieved_at: '2026-10-23T00:42:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39ef4b5370b13cdd68e0a177d8361d16ea92eba047141813c96bb1c34cb468e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4370fd3e392a5ab266599e8fae9b56a24156e1b86b3d4a7b4305ac8bac4eba5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Doutoramento
+- Gestão Escolar
+- Investigador
+- Pessoal Docente
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287589:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:427378:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:42:00Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +118,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. É aplicável aos assistentes de investigação que prestem ou tenham prestado serviço docente o regime previsto nos artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 444/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1976-427378), de 4 de Junho.
+Artigo único. É aplicável aos assistentes de investigação que prestem ou tenham prestado serviço docente o regime previsto nos artigos 2.º, 3.º e 4.º do [Decreto-Lei n.º 444/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1976-427378), de 4 de Junho.
 
 Visto e aprovado em Conselho de Ministros de 4 de Agosto de 1988. - Aníbal António Cavaco Silva - Roberto Artur da Luz Carneiro.
 
-**Promulgado em 19 de Agosto de 1988.**
+Promulgado em 19 de Agosto de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 23 de Agosto de 1988.**
+Referendado em 23 de Agosto de 1988.
 
 Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Vice-Primeiro-Ministro.

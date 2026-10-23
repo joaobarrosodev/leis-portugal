@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1988-283163
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2013-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dab912ed54afdc1c416cd0309294407637574fba671f3b2f9972ef8010f7c002
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65e8eba0ba47dd5b2c24f2b09270842ab9e23af3451508ba92e41d4d62f1b424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- FLAD
+- Fundação
+- Utilidade Pública
 relationships:
 - type: amended_by
   target: pt:dre:498680:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:680628:por
+  label: "Dada nova redação ao art. 8.º dos Estatutos da Fundação Luso-Americana, aprovados e publicados em anexo ao Dec Lei\
+    \ 168/85 de 20-mai, alterados pelo presente diploma, pelo DEC LEI.288/91.10.08.1991.PCM, DR.IS-A [183] de 10.08.1991\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1991-680628
+  date: '1991-08-10'
+- type: amended_by
+  target: pt:dre:253856:por
+  label: "Alterados os arts. 8.º, 9º e 12º do Estatutos da Fundação Luso-Americana para o Desenvolvimento, aprovados pelo\
+    \ Dec Lei 168/85 de 20-Mai, com a redacção constante do presente diploma, pelo DEC LEI.90/94.1994.04.07.PCM, DR.IS-A [81]\0\
+    ]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1994-253856
+  date: '1994-04-07'
+- type: amended_by
+  target: pt:dre:498680:por
+  label: "Dada nova redação aos arts. 8.º, 9.º, 11.º, e 12.º dos Estatutos da Fundação Luso-Americana para o Desenvolvimento,\
+    \ aprovados e publicados em anexo ao Dec Lei 168/85 de 20-mai, alterados pelo presente diploma, pelo DEC LEI.107/2013.31.07.2013.PCM,\
+    \ DR.IS [146] de 31.07.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/107-2013-498680
+  date: '2013-07-31'
+- type: cites
+  target: pt:dre:151525:por
+  label: null
+  source: null
 article_structure:
-  article_count: 6
+  article_count: 5
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:41Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +129,7 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os artigos 3.º, 8.º, 9.º, 11.º e 12.º dos Estatutos da Fundação Luso-Americana para o Desenvolvimento, publicados em anexo ao [Decreto-Lei n.º 168/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1985-151525), de 20 de Maio, passam a ter a seguinte redacção:
+Artigo 1.º - 1 - Os artigos 3.º, 8.º, 9.º, 11.º e 12.º dos Estatutos da Fundação Luso-Americana para o Desenvolvimento, publicados em anexo ao [Decreto-Lei n.º 168/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-1985-151525), de 20 de Maio, passam a ter a seguinte redacção:
 
 ###### Artigo 3.º — Fins
 
@@ -180,7 +209,7 @@ c) Pela assinatura de um mandatário legalmente constituído pelo conselho execu
 
 3 - As funções dos membros do conselho consultivo não são remuneradas, podendo, porém, ser-lhes atribuídas subvenções de presença e ajudas de custo.
 
-###### Art. 2.º - 1 - Para efeitos do n.º 5 do artigo 8.º dos Estatutos, na redacção conferida pelo presente diploma, o mandato dos actuais membros do conselho directivo conta-se a partir do início das suas funções.
+Art. 2.º - 1 - Para efeitos do n.º 5 do artigo 8.º dos Estatutos, na redacção conferida pelo presente diploma, o mandato dos actuais membros do conselho directivo conta-se a partir do início das suas funções.
 
 2 - A primeira eleição do presidente do conselho directivo, nos termos do n.º 4 do artigo 8.º dos Estatutos, ocorrerá quando haja, pelo menos, seis membros daquele conselho.
 
@@ -192,12 +221,12 @@ c) Pela assinatura de um mandatário legalmente constituído pelo conselho execu
 
 Visto e aprovado em Conselho de Ministros de 10 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 
-**Promulgado em 1 de Fevereiro de 1988.**
+Promulgado em 1 de Fevereiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 4 de Fevereiro de 1988.**
+Referendado em 4 de Fevereiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

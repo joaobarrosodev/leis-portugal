@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1988-283088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-02-06T00:00:00Z'
+  retrieved_at: '2026-10-23T00:44:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9317cc31d9b26ad8dc432dab7fed4b35b3dbb371d4d12298d9cfc0ac9e70dc6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 826ece15b3dd619435886f7a28fa67b05f23550fa79bd81ed2aca77aa1fa47fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:44:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Etiquetagem
+- Informação do Consumidor
+- Língua Portuguesa
+- Proteção do Consumidor
+relationships:
+- type: cites
+  target: pt:dre:218768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:44:46Z'
   warnings: []
   errors: []
 ---
@@ -92,20 +100,20 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 238/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1986-218768), de 19 de Agosto, passa a ter a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto-Lei n.º 238/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1986-218768), de 19 de Agosto, passa a ter a seguinte redacção:
 
-###### Art. 4.º - 1 - As obrigações previstas no presente diploma impedem, no mercado interno, sobre o fabricante, embalador, prestador de serviços e todos os outros agentes que desenvolvam actividades de comércio por grosso ou a retalho.
+Art. 4.º - 1 - As obrigações previstas no presente diploma impedem, no mercado interno, sobre o fabricante, embalador, prestador de serviços e todos os outros agentes que desenvolvam actividades de comércio por grosso ou a retalho.
 
 2 - A fiscalização do cumprimento da obrigação de informar em língua portuguesa será efectuada quando o bem ou serviço é colocado ao alcance do consumidor sem prejuízo da responsabilidade dos restantes agentes económicos referidos no número anterior.
 
 Visto e aprovado em Conselho de Ministros de 14 de Janeiro de 1988. - Aníbal António Cavaco Silva - Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 27 de Janeiro de 1988.**
+Promulgado em 27 de Janeiro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 28 de Janeiro de 1988.**
+Referendado em 28 de Janeiro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

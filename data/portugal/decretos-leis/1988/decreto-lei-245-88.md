@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/07/16000/28562856.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1988-372424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-16T00:00:00Z'
+  retrieved_at: '2026-10-23T00:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b55f9c76c7c0c69753475c20460deeaa45704daec1284c0397ec65b5f4d6b10d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc3ad162b8d8399ba9bd5bf18de231ff38665e3ff457a47e9c735296d00ee419
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional de Turismo
+- Orgânica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:534586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:419074:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:239381:por
+  label: Rectificado pela DECL.DD4143.1988.08.19.PCM DR.IS [201] SUPL DE 31/AGO/1988
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1988-239381
+  date: '1988-08-19'
+- type: repealed_by
+  target: pt:dre:534586:por
+  label: "Revogado pelo DEC LEI.293/94.1994.11.16.MCT, DR.IS-A [265]\05]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1994-534586
+  date: '1994-11-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:40:35Z'
   warnings: []
   errors: []
 ---
@@ -100,16 +117,16 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo único. São vogais do Conselho Nacional de Turismo, para além dos indicados no n.º 1 do artigo 4.º do [Decreto-Lei n.º 234/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1987-419074), de 12 de Junho, um representante das comissões de coordenação regional e um representante da Associação dos Directores Técnicos das Agências de Viagens.
+Artigo único. São vogais do Conselho Nacional de Turismo, para além dos indicados no n.º 1 do artigo 4.º do [Decreto-Lei n.º 234/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1987-419074), de 12 de Junho, um representante das comissões de coordenação regional e um representante da Associação dos Directores Técnicos das Agências de Viagens.
 
 Visto e aprovado em Conselho de Ministros de 23 de Junho de 1988. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral.
 
-**Promulgado em 29 de Junho de 1988.**
+Promulgado em 29 de Junho de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 1 de Julho de 1988.**
+Referendado em 1 de Julho de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

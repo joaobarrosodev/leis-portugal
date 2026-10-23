@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1988-356697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-09T00:00:00Z'
+  retrieved_at: '2026-10-23T00:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d7971fc78505fd8287a4f671c5b3ecb4cde71f64f3c1b4ee4765a36779a162f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14287e94b26517459cbcafc915b3e95ae3b2b434614260544160b9ceabe04cc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Direcção Geral das Florestas
+- Exploração Florestal
+- Ifadap
+- Incêndio
+- Política Agrícola Comum
+- Proteção do Ambiente
+- Regulamento CE
 relationships:
 - type: amended_by
   target: pt:dre:693446:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:693446:por
+  label: "Alterados os art.s 1º, 3º, 6º e 7º pelo DEC LEI.13/91.09.01.1991.MAPA, DR.IS-A [7] de 09.01.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/13-1991-693446
+  date: '1991-01-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:45:51Z'
   warnings: []
   errors: []
 ---
@@ -102,11 +115,11 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º A acção comunitária instituída pelo Regulamento (CEE) n.º [3529/86](http://data.europa.eu/eli/reg/1986/3529/oj?locale=pt) do Conselho, de 17 de Novembro, relativo à protecção das florestas contra os incêndios, é aplicada em Portugal nos termos daquele regulamento e deste diploma.
+Artigo 1.º A acção comunitária instituída pelo Regulamento (CEE) n.º [3529/86](http://data.europa.eu/eli/reg/1986/3529/oj?locale=pt) do Conselho, de 17 de Novembro, relativo à protecção das florestas contra os incêndios, é aplicada em Portugal nos termos daquele regulamento e deste diploma.
 
-###### Art. 2.º Cabe à Direcção-Geral das Florestas, adiante designada por DGF, e ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, a execução da presente acção comunitária, nos termos previstos nos artigos seguintes.
+Art. 2.º Cabe à Direcção-Geral das Florestas, adiante designada por DGF, e ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, a execução da presente acção comunitária, nos termos previstos nos artigos seguintes.
 
-###### Art. 3.º Para o efeito previsto no artigo anterior, compete à DGF:
+Art. 3.º Para o efeito previsto no artigo anterior, compete à DGF:
 
 a) Promover e garantir a execução das medidas de prevenção previstas no artigo 2.º do Regulamento (CEE) n.º [3529/86](http://data.europa.eu/eli/reg/1986/3529/oj?locale=pt) do Conselho, de 17 de Novembro;
 
@@ -132,7 +145,7 @@ l) Exigir dos beneficiários a restituição dos montantes por estes recebidos, 
 
 m) Informar o IFADAP dos projectos cuja execução se encontre concluída e prestar-lhe as informações e esclarecimentos que forem por este solicitados para o bom desempenho das funções que lhe são cometidas pelo presente diploma.
 
-###### Art. 4.º - 1 - Para o efeito previsto no artigo 2.º compete ao IFADAP:
+Art. 4.º - 1 - Para o efeito previsto no artigo 2.º compete ao IFADAP:
 
 a) Elaborar e enviar à Comissão a relação dos documentos comprovativos exigidos no n.º 1 do artigo 1.º do Regulamento (CEE) n.º [1698/87](http://data.europa.eu/eli/reg/1987/1698/oj?locale=pt) da Comissão, de 10 de Junho;
 
@@ -146,19 +159,19 @@ e) Dar conhecimento à DGF dos pagamentos efectuados aos beneficiários.
 
 2 - No âmbito das suas atribuições, o IFADAP tem a faculdade de proceder a quaisquer acções de fiscalização da regularidade da aplicação dos financiamentos, devendo comunicar, prontamente, à DGF qualquer incumprimento detectado.
 
-###### Art. 5.º - 1 - Podem apresentar projectos ao abrigo deste diploma os serviços e organismos da administração central, regional e local, bem como entidades dos sectores privado, cooperativo ou público.
+Art. 5.º - 1 - Podem apresentar projectos ao abrigo deste diploma os serviços e organismos da administração central, regional e local, bem como entidades dos sectores privado, cooperativo ou público.
 
 2 - A elaboração dos projectos é da responsabilidade dos candidatos aos financiamentos.
 
 3 - Na medida das suas disponibilidades e a solicitação dos candidatos, os serviços da DGF poderão prestar apoio na elaboração dos projectos.
 
-###### Art. 6.º - 1 - A participação comunitária nas medidas que a acção comum comporta é, no máximo, de 30%.
+Art. 6.º - 1 - A participação comunitária nas medidas que a acção comum comporta é, no máximo, de 30%.
 
 2 - Sempre que a execução da acção prevista no artigo 1.º deste diploma seja da responsabilidade da administração central, o montante da contribuição nacional cobrirá o remanescente do respectivo valor global.
 
 3 - Quando a execução da acção prevista no artigo 1.º deste diploma for da responsabilidade de outras entidades que não as previstas no número anterior, poderá haver uma contribuição nacional até 45% das despesas orçamentadas, em termos a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 7.º - 1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF, até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.
+Art. 7.º - 1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF, até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.
 
 2 - Após aprovação dos projectos pelas instâncias comunitárias competentes, serão celebrados contratos donde constem as obrigações de ambas as partes.
 
@@ -168,9 +181,9 @@ e) Dar conhecimento à DGF dos pagamentos efectuados aos beneficiários.
 
 5 - O IFADAP transferirá para as entidades beneficiárias as importâncias correspondentes à comparticipação comunitária nos quinze dias subsequentes à respectiva recepção.
 
-###### Art. 8.º Qualquer beneficiário poderá, por comunicação escrita à DGF, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias recebidas, acrescidas dos juros calculados à taxa legal, desde a data em que aquelas importâncias foram colocadas à sua disposição.
+Art. 8.º Qualquer beneficiário poderá, por comunicação escrita à DGF, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias recebidas, acrescidas dos juros calculados à taxa legal, desde a data em que aquelas importâncias foram colocadas à sua disposição.
 
-###### Art. 9.º - 1 - No caso de incumprimento dos contratos referidos no n.º 2 do artigo 7.º, a DGF notificará os beneficiários para, no prazo de 30 dias, procederem à restituição ao IFADAP das quantias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição.
+Art. 9.º - 1 - No caso de incumprimento dos contratos referidos no n.º 2 do artigo 7.º, a DGF notificará os beneficiários para, no prazo de 30 dias, procederem à restituição ao IFADAP das quantias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição.
 
 2 - Se a restituição não for feita no prazo indicado constituir-se-á ainda o beneficiário na obrigação de pagar os encargos resultantes do acompanhamento do processo e as despesas extrajudiciais para cobrança dos montantes devidos, para este efeito fixados em 10% do valor total das quantias recebidas pelos beneficiários.
 
@@ -182,7 +195,7 @@ e) Dar conhecimento à DGF dos pagamentos efectuados aos beneficiários.
 
 6 - As importâncias recebidas nos termos dos números anteriores serão reafectadas à execução das acções previstas neste diploma.
 
-###### Art. 10.º - 1 - A execução da acção prevista neste diploma envolve, anualmente, para o Estado, verbas consignadas em orçamento de funcionamento do organismo responsável pela coordenação e verbas destinadas à contribuição nacional consignadas no PIDDAC.
+Art. 10.º - 1 - A execução da acção prevista neste diploma envolve, anualmente, para o Estado, verbas consignadas em orçamento de funcionamento do organismo responsável pela coordenação e verbas destinadas à contribuição nacional consignadas no PIDDAC.
 
 2 - As verbas previstas no n.º 2 do artigo 6.º serão inscritas no orçamento dos ministérios a que pertencem os organismos executores da acção ou por quem são tutelados.
 
@@ -190,9 +203,9 @@ e) Dar conhecimento à DGF dos pagamentos efectuados aos beneficiários.
 
 4 - As verbas inscritas no PIDDAC são transferidas para o IFADAP, que as administra de acordo com as condições gerais estabelecidas no presente diploma.
 
-###### Art. 11.º Pelos serviços prestados o IFADAP poderá receber uma comissão, em termos a definir por portaria dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+Art. 11.º Pelos serviços prestados o IFADAP poderá receber uma comissão, em termos a definir por portaria dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-###### Art. 12.º - 1 - Os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira definirão, mediante diploma regional, as entidades que, nestas regiões, exercerão as competências conferidas pelo presente diploma à DGF.
+Art. 12.º - 1 - Os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira definirão, mediante diploma regional, as entidades que, nestas regiões, exercerão as competências conferidas pelo presente diploma à DGF.
 
 2 - As acções e projectos apresentados aos órgãos competentes das regiões autónomas serão enviados à DGF até 30 de Setembro de cada ano.
 
@@ -200,12 +213,12 @@ e) Dar conhecimento à DGF dos pagamentos efectuados aos beneficiários.
 
 Visto e aprovado em Conselho de Ministros de 20 de Outubro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 28 de Novembro de 1988.**
+Promulgado em 28 de Novembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 30 de Novembro de 1988.**
+Referendado em 30 de Novembro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

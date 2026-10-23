@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1988/10/23900/42154217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1988-354961
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-01T00:00:00Z'
+  retrieved_at: '2026-10-23T00:43:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 460e3444be1b9b6818f1182322bb9293056852f5bfba0b19566b340bdeffa1a1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 65c5847c1e41452fdd599fbba0ece0e97386f8520f9a70bbb0c2454178329202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:43:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Produto Alimentar
+- Produto Químico
+- Proteção do Consumidor
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:509661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:387302:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394719:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499531:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:509661:por
+  label: "Revogado, a partir de 01.02.1991, pelo DEC LEI.62/91.01.02.1991.MAPA, DR.IS-A [27] de 01.02.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/62-1991-509661
+  date: '1991-02-01'
 article_structure:
   article_count: 12
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T00:43:31Z'
   warnings: []
   errors: []
 ---
@@ -199,12 +220,12 @@ O presente diploma entra em vigor 180 dias após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Agosto de 1988. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - José Macário Correia - Álvaro Roque de Pinho Bissaia Barreto - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Licínio Alberto de Almeida Cunha.
 
-**Promulgado em 29 Setembro de 1988.**
+Promulgado em 29 Setembro de 1988.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, MÁRIO SOARES.**
+O Presidente da República, MÁRIO SOARES.
 
-**Referendado em 3 de Outubro de 1988.**
+Referendado em 3 de Outubro de 1988.
 
-**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
