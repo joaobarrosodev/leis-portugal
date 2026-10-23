@@ -46,36 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/109-1982-394679
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-07-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f60e2d2c1e93289d70c2022172d22d11b4527f31b515e2847f81492fd9bd0d22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6760173bbe5c5447cc176088020caba2109a84db41a07a28d389a66ae91b1c1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Atribuição de Verba
+- Aumento de Capital
+- Ministro das Finanças e Plano
+- Pisee
+- Projeto de Investimento
+relationships:
+- type: corrected_by
+  target: pt:dre:375816:por
+  label: Rectificada pela DECL.DD6049.01.09.1982.PCM, DR.IS [215] de 16.09.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375816
+  date: '1982-09-01'
+- type: corrected_by
+  target: pt:dre:376448:por
+  label: Rectificada pela DECL.DD5985.23.09.1982.PCM, DR.IS [231] de 06.10.1982
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-376448
+  date: '1982-09-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:37Z'
   warnings: []
   errors: []
 ---
@@ -104,4 +119,4 @@ Presidência do Conselho de Ministros, 25 de Maio de 1982. - O Ministro de Estad
 
 Mapa anexo à resolução do Conselho de Ministros
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/07/15600/20412042.pdf))](https://files.diariodarepublica.pt/1s/1982/07/15600/20412042.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15600/20412042.pdf)

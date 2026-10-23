@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 64/1991, 2º Suplemento, Série I-B de 1991-03-18
   number: '64'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1410-(4) a 1410-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/064b02/00040005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219-a/1991/03/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-05-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 087c09987e0e2da313a312601403db9dd81d2ba141a7bc1dda39c633ce8bbe73
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 37acca58e6082c3fed8c3d91340a43642c0cc863d55c3b7a3d2b7efaf79aa5a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,20 +74,63 @@ relationships:
   target: pt:dre:316162:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403295:por
+  label: "Determinada a não aplicação, na época venatória de 1997-1998, do disposto nos nºs 1 e 7 do presente diploma, pela\
+    \ PORT.428-A/97.1997.06.30.MADRP, DR.IS-B [148]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-a-1997-403295
+  date: '1997-06-30'
+- type: amended_by
+  target: pt:dre:484818:por
+  label: "Suspenso durante a época venatória de 1998-1999 o disposto no nº 1 do nº 1 e nº 1 do nº 7 pela PORT.401/98.1998.07.11.MADRP,\
+    \ DR.IS-B [158]I\0I\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/401-1998-484818
+  date: '1998-07-11'
+- type: amended_by
+  target: pt:dre:368448:por
+  label: "Suspendido, durante a época venatória de 1999-2000, o disposto nos n.ºs 1, n.º 1 e 7, n.º 1, pela PORT.502/99.1999.07.13.MADRP\
+    \ DR.IS-B [161]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/502-1999-368448
+  date: '1999-07-13'
+- type: amended_by
+  target: pt:dre:321305:por
+  label: "Suspensa, durante a época venatória de 2000-2001, a aplicação do disposto nos nº 1 do nº 1º e nº 1 do nº 7º deste\
+    \ diploma, pela PORT.462/2000.2000.07.21.MADRP DR.IS-B [167]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/462-2000-321305
+  date: '2000-07-21'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/60/1991/01/30/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/60/1991/01/30/p/dre
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508980:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477091:por
+  label: "Rectificados os n.ºs 4 e 5 do n.º 2.º e n.º 2 do n.º 8.º pela DECL-RECT.59/91.30.03.1991.PCM, DR.IS-B [74]2ºSupl\
+    \ de 30.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/59-1991-477091
+  date: '1991-03-30'
+- type: repealed_by
+  target: pt:dre:316162:por
+  label: "Revogada pela PORT.467/2001.2001.05.08.MADRP,DR.IS-B [106]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/467-2001-316162
+  date: '2001-05-08'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:43Z'
   warnings: []
   errors: []
 ---
@@ -142,6 +185,6 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 18 de Março de 1991.**
+Assinada em 18 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

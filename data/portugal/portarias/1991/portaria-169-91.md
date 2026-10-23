@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/169/1991/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/169-1991-463192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-07-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b5209db3ba7969be58c5ead8ac69d72d64ac9c4b053335ebd8e48c100ad308e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a4693e640ab866d9f00b02492a427f2af8f86bb61735afc7d0bc5ce68dea4ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,56 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- CAÇA
 - Beja
+- CAÇA
 relationships:
 - type: amended_by
   target: pt:dre:667113:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241466:por
+  label: "Suspendido por 180 dias a exploração da zona de caça concedida pelo presente diploma, pela a PORT.444/96.07.09.1996.MADRP,\
+    \ DR.IS-B [208] de 07.09.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/444-1996-241466
+  date: '1996-09-07'
+- type: amended_by
+  target: pt:dre:492459:por
+  label: "Renovada a concessaõ da zona de caça pela Port.346-B/97.1997.05.22.MECO e MADRP DR.IS-B [118]-Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/346-b-1997-492459
+  date: '1997-05-22'
+- type: amended_by
+  target: pt:dre:667113:por
+  label: "Renovada a concessão da zona de caça turística concessionada pelo presente diploma, na redacção da Port 346-B/97,\
+    \ de 22-Mai e da Port 906/2000, de 29-Set, pela PORT.516/2003.2003.07.02.MECO DR.IS-B [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/516-2003-667113
+  date: '2003-07-02'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:27Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +148,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Fevereiro de 1991.**
+Assinada em 19 de Fevereiro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/050b00/10611062.pdf))](https://files.diariodarepublica.pt/1s/1991/03/050b00/10611062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/050b00/10611062.pdf)

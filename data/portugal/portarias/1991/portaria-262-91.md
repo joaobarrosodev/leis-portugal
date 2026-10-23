@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/077b00/16461653.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/262/1991/04/03/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/262-1991-621967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 021a8b73b4ced64679a80c07bdef86ffdc68c84c70cd55fef5cf8b8130e2a845
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9246dbe1a4d687bf540cc4ce02ea8c8fe2b1dbbd8848ea98ef3c731e9c630a44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,69 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- GADO
 - Carne
 - Circulação de GADO
+- GADO
 - Impresso
 relationships:
 - type: amended_by
   target: pt:dre:433825:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:525850:por
+  label: "Suspensa por sessenta dias a entrada em vigor do n.º 1 do presente diploma, e determinada a aplicação até àquela\
+    \ entrada em vigor dos modelos de guias n.ºs 212-D. S. S. A., 213-D. S. S. A., 214-D. S. S. A., 215-D. S. S. A., 4/D.\
+    \ S. V. F. e 106/D. S. H. P. V., publicados em anexo, com as devidas adaptações, e sem prejuízo do disposto no Dec Lei\
+    \ 290/90 de 20-set, pela PORT.1223-D/91.1991.12.30.MJ, DR.IS-B [300]2ºSupl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1223-d-1991-525850
+  date: '1991-12-30'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "Mantida em vigor pelo DEC LEI.245/96.1996.12.20.MADRP DR.IS-A [294], até à data da entrada em vigor da portaria\
+    \ correspondente, prevista no art 26º. do mesmo diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1996-12-20'
+- type: cites
+  target: pt:dre:228590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:557468:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:611519:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:613058:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459467:por
+  label: "Rectificada pela DECL-RECT.97/91.1991.04.18.SG-PCM, DR.IS-B [99]2ºSupl de 30/Abr/1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/97-1991-459467
+  date: '1991-04-18'
+- type: repealed_by
+  target: pt:dre:433825:por
+  label: "Revogada pelo DEC LEI.338/99.1999.08.24.MADRP DR.IS-A [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/338-1999-433825
+  date: '1999-08-24'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:43Z'
   warnings: []
   errors: []
 ---
@@ -177,8 +221,8 @@ e) No livro de fabrico, a utilizar nos estabelecimentos de transformação, na c
 
 Ministérios da Justiça e da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Março de 1991.**
+Assinada em 19 de Março de 1991.
 
-**O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/077b00/16461653.pdf))](https://files.diariodarepublica.pt/1s/1991/04/077b00/16461653.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/077b00/16461653.pdf)

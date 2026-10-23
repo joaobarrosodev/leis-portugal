@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resol/10/1994/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-1994-510378
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-17T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1296734f5e74c0b08c6a642fd2d3b692131d2bec3fbccadf6b3e4082a5782070
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9bedddfcaaed943b12337e538cd66eb06b645951e86447c935f6ab750fc09a2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,27 @@ reuse:
 subjects:
 - Conta Geral do Estado
 - Instituições de Segurança Social
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1552134:por
+  label: "Revogadas e substituídas as instruções constantes da presente Resolução pelas INSTRUÇÕES.2/00(2ªSecção).20.12.2000.TC,\
+    \ DR.IIS [292] de 20.12.2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/instrucoes/2-2000-1552134
+  date: '2000-12-20'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:29Z'
   warnings: []
   errors: []
 ---
@@ -169,10 +179,10 @@ MODELO 1
 
 RELAÇÃO DOS TÍTULOS A QUE SE REFEREM AS ALÍNEAS A) E B) DO N.º 3 DA RESOLUÇÃO N.º 10/93-2ªS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf))](https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf)
 
 MODELO 2
 
 RELAÇÃO DOS CRÉDITOS A QUE SE REFERE A ALÍNEA C) DO N.º 3 RA RESOLUÇÃO N.º 10/93-2ªS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf))](https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/01/013b00/02060208.pdf)

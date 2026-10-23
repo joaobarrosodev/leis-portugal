@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/405/1991/05/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/405-1991-641422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a51a4c8fdb4f6ae1c78856964e320fbaaab6bea4397c4ae34f044fb7cbc1d337
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d06f10b0f08bc4c117559b69ec7b98729e2d15e3ffae1de956abc892256a00cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,32 +66,43 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
 - Escola Superior de Educação
 - Escola Superior de Tecnologia
 - Instituto Politécnico
 - Pessoal Administrativo
 - Pessoal Auxiliar
 - Pessoal de Informática
+- Pessoal Dirigente
 - Pessoal não Docente
 - Pessoal Técnico Profissional
-- Setúbal
 - Quadro de Pessoal
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:358303:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADO O QUADRO DE PESSOAL CONSTANTE DO ANEXO III, PELA PORTARIA 509/93, PUBLICADA NO DR.IS-B, 111, DE 930513.\
+    \ SUBSTITUIDO OS QUADROS PROVISORIOS DO PESSOAL NAO DOCENTE, PELA PORTARIA 722/93, DE 7 DE AGOSTO, PUBLICADA NO DR.IS-B,\
+    \ 184, DE 930807, NA PARTE RELATIVA AS AREAS FUNCIONAIS DE BIBLIOTECA E DOCUMENTACAO E ARQUIVO.E\0IVO.E\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-08-07'
+- type: cites
+  target: pt:dre:227045:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:25Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +121,7 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 18 de Abril de 1991.**
+Assinada em 18 de Abril de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
@@ -118,7 +129,7 @@ Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de E
 
 Serviços centrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf))](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf)
 
 Conteúdo funcional
 
@@ -152,7 +163,7 @@ Apoio aos órgãos de gestão, assegurando a respectiva correspondência, marca�
 
 Escola Superior de Educação
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf))](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf)
 
 Conteúdo funcional
 
@@ -204,7 +215,7 @@ Tarefas inerentes às operações exigidas pela cadeia documental.
 
 Escola Superior de Tecnologia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf))](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/111b00/25812586.pdf)
 
 Conteúdo funcional
 

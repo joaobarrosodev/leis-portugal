@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/412/1991/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-1991-642182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-09-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4e99db1445b1bca410b1a942b19f269b52e9b3f5a494303e17d8434668b9f588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7bb2efab3d6bd57a44d7990076dd2247bd3551e75edbd3c2047eb8dbfe7251ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,11 +67,11 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Alfândega
-- Modernização Administrativa
-- Desalfândegamento
-- Regulamentação de Atos Legislativos
-- Direcção Geral das Alfândegas
 - Circulação de Mercadorias
+- Desalfândegamento
+- Direcção Geral das Alfândegas
+- Modernização Administrativa
+- Regulamentação de Atos Legislativos
 relationships:
 - type: amended_by
   target: pt:dre:682199:por
@@ -89,16 +89,22 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/16/1991/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/16/1991/01/10/p/dre
+- type: corrected_by
+  target: pt:dre:682199:por
+  label: Retificados a al. b) n.º 13 e o n.º 20 pelo(a) Declaração de Rectificação n.º 211/91 - Diário da República n.º 225/1991,
+    2º Suplemento, Série I-B de 1991-09-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/211-1991-682199
+  date: '1991-09-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:35Z'
   warnings: []
   errors: []
 ---
@@ -283,6 +289,6 @@ c) O número e a data de entrega das declarações complementares previstas na a
 
 Ministério das Finanças.
 
-**Assinada em 18 de Abril de 1991.**
+Assinada em 18 de Abril de 1991.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.

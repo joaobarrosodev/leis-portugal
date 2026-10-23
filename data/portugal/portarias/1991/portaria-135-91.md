@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/135/1991/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/135-1991-485972
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31e75bc7a6ef5597ba643a4968ea4278ca3552a4dcc1639ccf0fd1421f5c3d28
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d58e938f8064122ff7aaf6eef5d11624e7cc4de792e0d1ede56481a01bc9166
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
 subjects:
 - Cartão de Identificação
 - GNR
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:221284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298050:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:37Z'
   warnings: []
   errors: []
 ---
@@ -96,6 +104,6 @@ Manda o Governo, pelos Ministros da Administração Interna e da Justiça, que s
 
 Ministérios da Administração Interna e da Justiça.
 
-**Assinada em 23 de Janeiro de 1991.**
+Assinada em 23 de Janeiro de 1991.
 
-**O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.**
+O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.

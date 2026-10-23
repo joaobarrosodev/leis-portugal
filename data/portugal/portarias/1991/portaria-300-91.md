@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/081b00/18621863.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/300/1991/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/300-1991-613444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-07-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e8807f7ebd6dc8e0e0ed9a6d0eb1b958e2e63d6451661d3efe711069b0cf13a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6b0f419b00d3bba1ce8b53f794d8d6079f0b9024de5950bc1055e1ce17f2d4e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,43 @@ relationships:
   target: pt:dre:617679:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459580:por
+  label: Rectificado o sumário do presente diploma pelo(a) Declaração de Rectificação n.º 90/91 - Diário da República n.º
+    99/1991, 2º Suplemento, Série I-B de 1991-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/90-1991-459580
+  date: '1991-04-30'
+- type: repealed_by
+  target: pt:dre:617679:por
+  label: Revogada pelo(a) Portaria n.º 722-I8/92 - Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/722-i8-1992-617679
+  date: '1992-07-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:38Z'
   warnings: []
   errors: []
 ---
@@ -117,8 +144,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/081b00/18621863.pdf))](https://files.diariodarepublica.pt/1s/1991/04/081b00/18621863.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/081b00/18621863.pdf)

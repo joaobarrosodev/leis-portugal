@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 301/1982, 10º Suplemento, Série I de 1982-12-31
   number: '301'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 4326-(201) a 4326-(204)
   pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30110/02010204.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/228-1982-642705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-12-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bafd76ff48e2fbbdb5d8db02a1cd534dfa6f6d160c33dd9753877e6cf0ee66ed
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35fda3055e69696d8e070d2b6d4d85fd0cd904c5b9c677a1515281655d36dc4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia da República
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:632220:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:54Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +94,7 @@ A Assembleia da República resolveu, nos termos do n.º 4 do artigo 169.º da Co
 
 Aprovada em 21 de Dezembro de 1982.
 
-**O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.**
+O Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.
 
 2.º orçamento suplementar da Assembleia da República para 1982
 
@@ -130,4 +136,4 @@ De capital ... 56108710$00
 
 ... 972712500$00
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30110/02010204.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30110/02010204.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/30110/02010204.pdf)

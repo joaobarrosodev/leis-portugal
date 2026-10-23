@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/183/1991/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/183-1991-466848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 91429f1a0f47446745f30afad2fd61f01dc9fae64b33e6872dcdbceb02cefeef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 372657d716241f5aa009f0e997642a5700ccda9552d3cb645decdd856a485f64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,28 +66,42 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Turismo
+- Alemanha
+- Áustria
 - Centro de Turismo de Portugal no Estrangeiro
 - Criação de Serviços
 - Extinção de Serviços
-- Áustria
 - Transferência de Verbas
-- Alemanha
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:459578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551256:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459578:por
+  label: Retificada pelo(a) Declaração de Rectificação n.º 86/91 - Diário da República n.º 99/1991, 2º Suplemento, Série I-B
+    de 1991-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/86-1991-459578
+  date: '1991-04-30'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:47Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +128,6 @@ Manda o Governo, pelos Ministros das Finanças, dos Negócios Estrangeiros e do 
 
 Ministérios das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo.
 
-**Assinada em 18 de Fevereiro de 1991.**
+Assinada em 18 de Fevereiro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1982/10/24700/35123513.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/189-1982-376407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-02T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a071bbfa26320464c7455580a43fe8c988791a81ba9023bf09c66b461eb00f1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 27c32f335fc185a5a60c846f4ceec9897546ea63dadabc918078f0f7474e90e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão de Gestão
+- Docapesca-sociedade Concessionária da DOCA de Pesca
+- Nomeação
+- Serviço de Lotas e Vendagem
 relationships:
 - type: amended_by
   target: pt:dre:2785048:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1981067:por
+  label: "Exonerado Alexandre Ferreira Borrego pela .RES.DD643.1985.01.24.PCM, DR.IIS [20]Supl \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1985-1981067
+  date: '1985-01-24'
+- type: amended_by
+  target: pt:dre:2869124:por
+  label: "Exonerado Alexandre Ferreira Borrego nomeado pela RES.DD644.1985.04.02.PCM DR.IIS [78]Supl de 03/Abr/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1985-2869124
+  date: '1985-04-02'
+- type: amended_by
+  target: pt:dre:865288:por
+  label: "Exonerados os membros da comissão de gestão pela RES.DD869.1985.07.02.PCM, DR.IIS [149]Supl\0l\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/1985-865288
+  date: '1985-07-02'
+- type: amended_by
+  target: pt:dre:2785048:por
+  label: "Exonerado Alexandre Ferreira Borrego pela RES.58/98(2ªSÉRIE).1998.04.02.PCM, DR.IIS [94] de 22/Abr/1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/58-1998-2785048
+  date: '1998-04-02'
+- type: cites
+  target: pt:dre:253238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430463:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:469207:por
+  label: Rectificada pela DECL.DD2684.1983.01.26.PCM DR.IS [25]Supl de 31/Jan/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469207
+  date: '1983-01-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:33Z'
   warnings: []
   errors: []
 ---

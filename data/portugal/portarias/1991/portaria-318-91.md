@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/318/1991/04/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/318-1991-616255
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04df0272565630bd2eb3b134393e6dfd35a1cf29e7d55c4b2dc68910cf4bc888
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a26488b59a245fda2e5032f4854745f922a69ef4c87b91941109634c846cf4c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,57 @@ relationships:
   target: pt:dre:343439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:403279:por
+  label: "Suspensa por 180 dias a exploração cinegética da zona de caça atribuída pelo presente diploma, pela PORT.428-C/97.1997.06.30.MADRP\
+    \ DR.IS-B [148]2.ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/428-c-1997-403279
+  date: '1997-06-30'
+- type: amended_by
+  target: pt:dre:644516:por
+  label: "Renovada por um período de seis anos a concessão da zona de caça, atribuída pelo presente diploma, pela PORT.884/97.1997.09.10.MADRP\
+    \ DR.IS-B [209]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/884-1997-644516
+  date: '1997-09-10'
+- type: amended_by
+  target: pt:dre:542989:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pelo presente diploma, na redacção da port 884/97,\
+    \ de 10-Set, pela PORT.448/2003.2003.05.31.MADRP, DR.IS-B [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-2003-542989
+  date: '2003-05-31'
+- type: amended_by
+  target: pt:dre:343439:por
+  label: "Extinta a zona de caça associativa da Herdade das Areias e do Cebolinho, e concessionada a zona de caça turística\
+    \ das Areias e Cebolinhos, por um período de 12 anos, pela PORT.766/2010.20.08.2010.MADRP, DR.IS [162] de 20.08.2010\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/766-2010-343439
+  date: '2010-08-20'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:08Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +156,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/083b00/19401941.pdf))](https://files.diariodarepublica.pt/1s/1991/04/083b00/19401941.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/083b00/19401941.pdf)

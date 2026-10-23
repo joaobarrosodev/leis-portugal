@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/106b00/25122512.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/393/1991/05/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1991-609664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 030b15c0f4ef3b69212296618ec97f4e9febf061ae6ea3bad1c32c77c935a641
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c7a27d216e1dd2ffa3295d9e48389f45db7685e756988c143aac921bdf2a2967
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -77,16 +77,47 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:490954:por
+  label: "Revogado, a partir de 06.10.2009, o presente diploma, extinta a zona de caça turística de Finca Rodilhas, e concessionada,\
+    \ pelo período de 12 anos, a zona de caça turística Herdade de Finca Rodilhas, pela PORT.1133/2009.01.10.2009.MADRP, DR.IS\
+    \ [191] de 01.10.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-2009-490954
+  date: '2009-10-01'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:08Z'
   warnings: []
   errors: []
 ---
@@ -119,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Abril de 1991.**
+Assinada em 14 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/106b00/25122512.pdf))](https://files.diariodarepublica.pt/1s/1991/05/106b00/25122512.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/106b00/25122512.pdf)

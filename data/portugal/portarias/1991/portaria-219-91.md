@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/219/1991/03/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/219-1991-476091
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2004-03-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c440b5d543631487cf47504abf194e4db4a87f20fded6ca22be80523fd0f0e24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: becaab017f630cb4bf947c4bf6808f80c2c1e5ac1e068ce780fb9daeb41d6e59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,45 +66,70 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Medicina
-- Médico
+- Centro de Saúde
+- Coimbra
+- Cooperação Científica
 - Ensino Médico
+- Ensino Superior
+- Estabelecimento Hospitalar
 - Faculdade de Medicina
-- Lisboa
 - Hospital da Universidade de Coimbra
 - Hospital de EGAS Moniz
 - Hospital de Pulido Valente
 - Hospital de Santa Maria
 - Hospital de São Francisco Xavier
 - Hospital de São João
+- Lisboa
+- Medicina
+- Médico
+- Pessoal Docente
+- Porto
 - Universidade de Lisboa
 - Universidade do Porto
-- Centro de Saúde
-- Cooperação Científica
-- Coimbra
-- Pessoal Docente
-- Estabelecimento Hospitalar
-- Ensino Superior
-- Porto
 relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADO PELA DECLARACAO-RECTIFICACAO 94/91, DE 18 DE ABRIL, PUBLICADA NO DR.IS-B, 99, 2 SUPL, DE 910430. ALTERADA\
+    \ PELA PORTARIA 972/93, DE 2 DE OUTUBRO, PUBLICADA NO DR.IS-B, 232, DE 931002.\0, DE 931002.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
 - type: amended_by
   target: pt:dre:209618:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:456851:por
+  label: "Alterada a al. b) pela PORT.342/98.1998.06.03.ME, DR.IS-B [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/342-1998-456851
+  date: '1998-06-03'
+- type: amended_by
+  target: pt:dre:229877:por
+  label: "Alterada a al. a) pela PORT.976/98.1998.11.16.ME, DR.IS-B [265] \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/976-1998-229877
+  date: '1998-11-16'
+- type: amended_by
+  target: pt:dre:209618:por
+  label: "Aditada uma al. i) à presente portaria, rectificada pela Decl-Rect 94/91, de 30-Abr, e alterada pela Ports 972/93,\
+    \ de 02-Out, 342/98, de 03-Jun e 976/98, de 16-Nov, pela PORT.312/2004.23.03.2004.MCES, DR.IS-B [70] de 23.03.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-2004-209618
+  date: '2004-03-23'
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/94/1991/02/26/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/94/1991/02/26/p/dre
+- type: cites
+  target: pt:dre:484416:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:42Z'
   warnings: []
   errors: []
 ---
@@ -133,6 +158,6 @@ g) Faculdades de Medicina das Universidades de Lisboa, Coimbra e Porto, Faculdad
 
 Ministérios da Educação e da Saúde.
 
-**Assinada em 8 de Março de 1991.**
+Assinada em 8 de Março de 1991.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro. - O Ministro da Saúde, Arlindo Gomes de Carvalho.

@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/413/1991/05/16/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/413-1991-642185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-01-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8cdd7a92f19f2d2c72357bd3a3dbeede7f2030ae8e416863d29bb7c8ccc1866d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6caf97131da8070d9483228aee170b7bd4a5ed589778745a12b3955f4cc164e9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,25 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Abrantes
-- Vila Franca de Xira
 - Aveiro
 - Barcelos
 - Barreiro
-- Médico
+- Beja
 - Braga
+- Bragança
 - Caldas da Rainha
 - Carreira Médica
+- Cascais
+- Castelo Branco
 - Centro Hospitalar do Vale do Sousa
 - Chaves
+- Coimbra
 - Covilhã
+- Estabelecimento Hospitalar
+- Évora
 - Faro
-- Maternidade Alfredo da Costa
+- Figueira da Foz
+- Guarda
 - Guimarães
 - Hospital de Crianças Maria Pia
 - Hospital de EGAS Moniz
@@ -87,55 +93,165 @@ subjects:
 - Hospital de Santa Cruz
 - Hospital de Santa Maria
 - Hospital de São Francisco Xavier
+- Hospital de São João
 - Hospital de São Marcos
 - Hospital Distrital
-- Hospital de São João
+- Hospital Geral de Santo António
 - Hospital Ortopédico do Dr José de Almeida
 - Hospital Ortopédico do Outão
 - Instituto de Oftalmologia do DR GAMA Pinto
 - Lamego
 - Leiria
 - Macedo de Cavaleiros
+- Maternidade Alfredo da Costa
 - Matosinhos
+- Médico
 - Mirandela
-- Setúbal
-- Beja
-- Castelo Branco
-- Vila Real
-- Figueira da Foz
-- Coimbra
 - Portalegre
 - Portimão
 - Quadro de Pessoal
-- Estabelecimento Hospitalar
-- Hospital Geral de Santo António
 - Santarém
-- Bragança
-- Évora
-- Cascais
+- Setúbal
 - Tomar
 - Torres Novas
 - Torres Vedras
-- Guarda
 - VALE do Sousa
 - Viana do Castelo
+- Vila Franca de Xira
 - VILA NOVA de Famalicão
+- Vila Real
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:541007:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDOS OS QUADROS DE PESSOAL PELA PORT 422/92 DE 22-MAI DR.IS-B [118]D
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1992-05-22'
+- type: amended_by
+  target: pt:dre:647681:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE TORRES VEDRAS PELA PORT 134/93 DE 06-FEV DR.IS-B [31] NA
+    PARTE REFERENTE AS CARREIRAS DE TECNICO SUPERIOR DE SERVICO SOCIAL E TECNICO SUPERIOR DE SAUDE
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/134-1993-647681
+  date: '1993-02-06'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE VILA NOVA DE FAMALICAO PELA PORT 290/93 DE 13-MAR DR.IS-B
+    [61]A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-03-13'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDAS AS ALTERACOES RELATIVAS AO QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE LEIRIA PELA PORT 403/93 DE 15-ABR
+    DR.IS-B [88]H
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: AUMENTADO O QUADRO DE PESSOAL PELA PORT 458/93 DE 30-ABR DR.IS-B [101]M
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-04-30'
+- type: amended_by
+  target: pt:dre:330472:por
+  label: ALTERADO O QUADRO DE PESSOAL MEDICO DO HOSPITAL DE PULIDO VALENTE PELA PORTARIA 739/93 DE 14-AGO DR.IS-B [190]P
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-1993-330472
+  date: '1993-08-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL ORTOPEDICO DO OUTAO PELO CONSTANTE EM ANEXO A PORT 990/93 DE 08-OUT DR.IS-B
+    [236]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-10-08'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE AVEIRO PELO PUBLICADO EM ANEXO A PORT 1020/94 DE 22-NOV
+    DR.IS-B [270]19941014 - SUBSTITUIDO O QUADRO DE PESSOAL DO CENTRO HOSPITALAR DO VALE DO SOUSA (COM NOVA DESIGNACAO HOSPITAL
+    DE PADRE AMERICO) PELA PORT 918/94 DE 14-OUT DR.IS-B [238]H
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-11-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DISTRITAL DE MACEDO DE CAVALEIROS, PELA PORT 907/95 DE 18-JUL DR.IS-B
+    [164]A
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DE PULIDO VALENTE PELA PORT 1277/95 DE 27-OUT DR.IS-B [249]P
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DE SAO BERNARDO PELA PORT 1348/95 DE 14-NOV DR.IS.B [263]I
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-14'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUIDO O QUADRO DE PESSOAL DO HOSPITAL DE SANTA MARIA, PELA PORT 1376/95 DE 22-NOV DR.IS-B [270]S\0RT 1376/95\
+    \ DE 22-NOV DR.IS-B [270]S"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-22'
+- type: amended_by
+  target: pt:dre:226006:por
+  label: "Substituido o quadro do pessoal do Hospital Distrital de Santarém, aprovado pela Port 700/87, de 17-Ago DR. IS [187],\
+    \ alterado pela Port 100/89, de 09-Fev, 755/89, de 01-Set, 113/90, de 12-Fev, pelo presente diploma, pla Port 458/93,\
+    \ de 30-Abr e 510/93, de 13-Maio, pela PORT.599/96.21.10.1996.PCM, DR.IS-B [244] de 21.10.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/599-1996-226006
+  date: '1996-10-21'
+- type: amended_by
+  target: pt:dre:168796:por
+  label: "Alterado o quadro de pessoal do Hospital de São Pedro - Vila Real (Hospital Distrital), pela PORT.676/96.1996.11.19.PCM,\
+    \ DR.IS-B [268] de 19/Nov\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/676-1996-168796
+  date: '1996-11-19'
+- type: amended_by
+  target: pt:dre:382602:por
+  label: "Substituído o quadro de pessoal da Maternidade Alfredo da Costa aprovado pela Port 636/80 de 16-Set, com as alterações\
+    \ constantes do presente diploma, pela PORT.296/97.06.05.1997.PCM, DR.IS-B [104] de 06.05.1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/296-1997-382602
+  date: '1997-05-06'
+- type: amended_by
+  target: pt:dre:193414:por
+  label: "Alterado quadro de pessoal do Hospital Espírito Santo - Évora aprovado pela Port 87/91 de 30-Jun, na redacção dada\
+    \ pelo presente diploma, pela PORT.728/97.1997.08.25.PCM, DR.IS-B [195]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/728-1997-193414
+  date: '1997-08-25'
+- type: amended_by
+  target: pt:dre:580984:por
+  label: "Alterado o Quadro de Pessoal do ex-Hospital de São Pedro – Vila Real, aprovado pela Port 796/80, de 07-Out, mantido\
+    \ em vigor pela Port 1199/2000, de 20-Dez, na redacção do presente diploma, pela PORT.137/2004.11.02.2004.MF, DR.IS-B\
+    \ [35] de 11.02.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/137-2004-580984
+  date: '2004-02-11'
+- type: cites
+  target: pt:dre:287167:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:38Z'
   warnings: []
   errors: []
 ---
@@ -172,8 +288,8 @@ Manda o Governo, pelos Ministros das Finanças e da Saúde, que os quadros de pe
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 22 de Março de 1991.**
+Assinada em 22 de Março de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro da Saúde, Arlindo Gomes de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/112b00/25992619.pdf))](https://files.diariodarepublica.pt/1s/1991/05/112b00/25992619.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/112b00/25992619.pdf)

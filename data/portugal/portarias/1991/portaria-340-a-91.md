@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 87/1991, 1º Suplemento, Série I-B de 1991-04-15
   number: '87'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2088-(2) a 2088-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/087b01/00020004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/340-a/1991/04/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/340-a-1991-290673
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9a4f729e420692da372cc3721df4908823724925e060a477006a50c5465fd0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34f1a2988dfcc0d3708c504374a1095c98b09238d6edc1b17166d0a4a10322bf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,48 @@ subjects:
 - Ajuda Comunitária
 - Direcção Geral das Florestas
 - PAF
-- Programa de Acção
 - Pedap
 - Política Florestal
+- Programa de Acção
 relationships:
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
+- type: cites
+  target: pt:dre:234372:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662487:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:39Z'
   warnings: []
   errors: []
 ---
@@ -242,6 +266,6 @@ b) Até ao fim do 3.º ano após o início das operações, nos projectos de ben
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 10 de Abril de 1991.**
+Assinada em 10 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

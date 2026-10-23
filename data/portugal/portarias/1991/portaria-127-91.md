@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/127/1991/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/127-1991-478051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef40ba2ea4d9e091982addee5bf7be34bc577370ef16bb3913aedfbc7c365187
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb624cdc5669c6fde8f39faa84762b29606249f5f9ff28ba58fa006c85e2dfba
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,20 +68,32 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Código do IRS
+- Direcção Geral das Contribuições e Impostos
 - Impresso
 - IRS
-- Direcção Geral das Contribuições e Impostos
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:22Z'
   warnings: []
   errors: []
 ---
@@ -130,8 +142,8 @@ Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do 
 
 Ministério das Finanças.
 
-**Assinada em 4 de Janeiro de 1991.**
+Assinada em 4 de Janeiro de 1991.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/036b00/06720688.pdf))](https://files.diariodarepublica.pt/1s/1991/02/036b00/06720688.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/036b00/06720688.pdf)

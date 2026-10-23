@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/014b00/02580259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/38/1991/01/17/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-1991-495328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-01-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7d23767ab6b16dc944b9749b09b714822baeb36e23357da3ca97489349749a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eb8e00c92dc325e5991353cc7cfb18fd1d23a4593219ce63b4361d800f53640
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,27 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Força Aérea
-- Serviço Militar
-- Recrutamento de Pessoal
 - Contratação de Pessoal
-- Prazo
+- Força Aérea
 - Militar
+- Prazo
+- Recrutamento de Pessoal
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:602503:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616653:por
+  label: Alterado o n.º 1.º pelo(a) Portaria n.º 379/91 - Diário da República n.º 101/1991, Série I-B de 1991-05-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/379-1991-616653
+  date: '1991-05-03'
+- type: cites
+  target: pt:dre:626423:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:602503:por
+  label: Revogada, a partir de 30.01.1993,pelo(a) Portaria n.º 83/93 - Diário da República n.º 20/1993, Série I-B de 1993-01-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/83-1993-602503
+  date: '1993-01-25'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:48Z'
   warnings: []
   errors: []
 ---
@@ -125,6 +139,6 @@ b) Períodos iguais aos fixados no n.º 1.º, se se destinar à frequência de c
 
 Ministério da Defesa Nacional.
 
-**Assinada em 26 de Dezembro de 1990.**
+Assinada em 26 de Dezembro de 1990.
 
-**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.**
+O Ministro da Defesa Nacional, Joaquim Fernando Nogueira.

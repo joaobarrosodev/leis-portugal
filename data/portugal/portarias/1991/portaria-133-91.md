@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/133/1991/02/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/133-1991-477803
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54e76a6d14c008b938edcf071bebcc45fd0cbea981268796b95e7a3e5df11758
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a61853ae94a8ab875f9a059e613f8e18c6244f4c45298e753e15118e58d7807
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,24 +68,51 @@ reuse:
 subjects:
 - Carreira Médica
 - Concurso
-- Quadro de Pessoal
 - Ministério da Saúde
+- Quadro de Pessoal
 - Regulamento dos Concursos de Habilitação e de Provimento da Carreira Médica de Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:404135:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:629777:por
+  label: "Alterado o artigo 24.º do Regulamento pela PORT.503/91.05.06.1991.MS, DR.IS-B [128] de 05.06.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/503-1991-629777
+  date: '1991-06-05'
+- type: cites
+  target: pt:dre:332425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612382:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:477100:por
+  label: "Rectificada pela DECL-RECT.55/91.26.03.1991.SG-PCM, DR.IS-B [74]2ºSupl de 30.03.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/55-1991-477100
+  date: '1991-03-26'
+- type: repealed_by
+  target: pt:dre:404135:por
+  label: "Revogada pela PORT.880/91.27.08.1991.MS, DR.IS-B [196] de 27.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/880-1991-404135
+  date: '1991-08-27'
 article_structure:
   article_count: 50
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:32Z'
   warnings: []
   errors: []
 ---
@@ -108,9 +135,9 @@ Manda o Governo, pelo Ministro da Saúde, o seguinte:
 
 Ministério da Saúde.
 
-**Assinada em 17 de Janeiro de 1991.**
+Assinada em 17 de Janeiro de 1991.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho.
 
 REGULAMENTO DOS CONCURSOS DE HABILITAÇÃO E DE PROVIMENTO DA CARREIRA MÉDICA DE SAÚDE PÚBLICA
 
@@ -682,10 +709,10 @@ Modelo anexo a que se refere o n.º 2 do artigo 1.º do Regulamento
 
 Grau de especialista da carreira médica de saúde pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf))](https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf)
 
 Modelo anexo a que se refere o n.º 2 do artigo 1.º do Regulamento
 
 Grau de consultor da carreira médica de saúde pública
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf))](https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/038b00/07530760.pdf)

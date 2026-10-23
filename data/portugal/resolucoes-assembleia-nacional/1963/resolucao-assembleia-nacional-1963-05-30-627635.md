@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1963-627635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-05-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80adfd7b94e036203e51c3055e75ca6b0add3d64aef8c5126853ad881fefd0c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b691fb3f63619bfcc2f6b9cbaf2e2e785eb25742da2656bb59c43af7cafabef4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:49Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +88,6 @@ Em nome da Nação, a Assembleia Nacional decreta e eu promulgo a resolução se
 
 A Assembleia Nacional, tendo examinado os pareceres sobre as Contas Gerais do Estado respeitantes ao exercício de 1961, tanto da metrópole como das províncias ultramarinas, e concordando com as conclusões da Comissão das Contas Públicas, resolve dar a essas contas a sua aprovação.
 
-**Publique-se e cumpra-se como nela se contém.**
+Publique-se e cumpra-se como nela se contém.
 
 Paços do Governo da República, 30 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

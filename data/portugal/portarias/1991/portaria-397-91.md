@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/397/1991/05/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/397-1991-612459
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db50417c2ba258c8604d70d6d54343b914bc2383ae1a7bdd747918dc0d8fdf3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0da1359d15eb5287e6ace817c8b49f3807fa9c1ec17e9fdda90c91d40629f03
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,20 +72,66 @@ relationships:
   target: pt:dre:306442:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515981:por
+  label: "Alterado o preâmbulo pela PORT.631/95.1995.06.20.MA DR.IS-B [140]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/631-1995-515981
+  date: '1995-06-20'
+- type: amended_by
+  target: pt:dre:331017:por
+  label: "Suspenso o exercício da caça na zona de caça turística pela PORT.562/2001.2001.06.02.MECO DR.IS-B [128]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/562-2001-331017
+  date: '2001-06-02'
+- type: amended_by
+  target: pt:dre:615600:por
+  label: "Renovada a concessão da zona de caça turística pela PORT.1168-B/2001.2001.10.06.MECO, DR.IS-B [232]2ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1168-b-2001-615600
+  date: '2001-10-06'
+- type: amended_by
+  target: pt:dre:306442:por
+  label: "Anexados vários prédios rústicos e renovada, por um período de dez anos, a zona de caça concessionada pelo presente\
+    \ diploma, alterada pela Port 631/95, de 20-Jun e pela Port 1168-B/2001, de 06-Out, pela PORT.1296/2010.20.12.2010.MADRP,\
+    \ DR.IS [244] de 20.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1296-2010-306442
+  date: '2010-12-20'
 - type: cites
   target: eli:http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
   label: null
   source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:13Z'
   warnings: []
   errors: []
 ---
@@ -118,8 +164,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Abril de 1991.**
+Assinada em 14 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/107b00/25442545.pdf))](https://files.diariodarepublica.pt/1s/1991/05/107b00/25442545.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/107b00/25442545.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/314/1991/04/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/314-1991-614311
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d555bb8f3393fcd80fab397438f9a34f4e060ffd03475ed287f57b0a1fc3ce25
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 880c49c2759e920316ad444a0adb13ffb4b7dc9d332949e231f2557a2192766a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,21 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Estudos Superiores Especializados em Engenharia de Manutenção e Controle de Sistemas
 - Escola Náutica Infante Dom Henrique
 - Licenciatura
-relationships: []
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:01Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +124,6 @@ A classificação do grau de licenciado é a resultante do cálculo da expressã
 
 Ministérios da Educação e das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 28 de Fevereiro de 1991.**
+Assinada em 28 de Fevereiro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 11/1994, 2º Suplemento, Série I-B de 1994-01-14
   number: '11'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 176-(5) a 176-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/011b02/00050006.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resol/2-d/1994/01/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-d-1994-321518
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ebf181889e53218e340d220384dc8a8af07aaad70b787ea8884097ca9faf950
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e328ee484d97914a4ba8fa4ccdc7c156e83f78a76c9337bc014fc3f9de6d6081
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,33 @@ subjects:
 - Emissão de Títulos
 - Fundo de Regularização da Dívida Pública
 - Obrigações do Tesouro
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:332051:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479931:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479932:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:34Z'
   warnings: []
   errors: []
 ---

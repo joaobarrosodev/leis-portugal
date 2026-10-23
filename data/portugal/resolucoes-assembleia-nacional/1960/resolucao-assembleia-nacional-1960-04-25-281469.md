@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1960-281469
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3bad97fa8396c63fef27b7a3d6205711ecf4e1e673b0d59b8d799a1810bb8682
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e02ae9dc52b946914e763fb11b7ffb80a8efc98ec274af7abe29b082d17584f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Convenção
+- EFTA
+- Estocolmo
 relationships:
 - type: amended_by
   target: pt:dre:261969:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:171537:por
+  label: "Tornadas públicas as emendas à Convenção que institui a EFTA, aprovada pelo presente diploma, pelo AV.DD3404.24.06.1961.MNE,\
+    \ DG.IS [145] de 24.06.1961\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1961-171537
+  date: '1961-06-24'
+- type: amended_by
+  target: pt:dre:261969:por
+  label: "Transferida para 01.01.1973, a data de 01.01.1970, relativamente a produtos abrangidos por determinados arts. pautais,\
+    \ fixada no § 4º do nº 1 do Anexo G á Convenção de Estocolmo, aprovada para ratificação pelo presente diploma, pelo DEC\
+    \ LEI.48760.12.12.1968.MF, DG.IS [292] de 12.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48760-1968-261969
+  date: '1968-12-12'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:40Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +109,6 @@ Em nome da Nação, a Assembleia Nacional decreta e ou promulgo a resolução se
 
 A Assembleia Nacional, depois de tomar conhecimento dos textos da Convenção que institui a Associação Europeia do Comércio Livre e do Protocolo relativo à aplicação da mesma Convenção ao Principado de Listenstaina, assinados em Estocolmo a 4 de Janeiro de 1960, resolve, nos termos da alínea b) do § único do artigo 99.º, com referência ao n.º 7.º do artigo 91.º, da Constituição, aprovar, para ratificação, os referidos instrumentos diplomáticos.
 
-**Publique-se e cumpra-se como nela se contém.**
+Publique-se e cumpra-se como nela se contém.
 
 Paços do Governo da República, 25 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

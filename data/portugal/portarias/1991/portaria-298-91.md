@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/298/1991/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/298-1991-613436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-09-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5199af4954610faf206ab477b98d273a58c72899a325baeea3ebaa99827a586b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ad5c9888adc2f1f087ed14b667894e799b92b3bc96dfb18c15857628cc759e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,44 @@ relationships:
   target: pt:dre:642035:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214722:por
+  label: "Renovada, por doze anos, a concessão da zona de caça turística pela PORT.219/2003.2003.03.12.MECO DR.IS-B [60]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/219-2003-214722
+  date: '2003-03-12'
+- type: amended_by
+  target: pt:dre:642035:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, renovada pela Port 219/2003\
+    \ de 12-Mar, pela PORT.1245/2007.25.09.2007.MADRP, DR.IS [185] de 25.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1245-2007-642035
+  date: '2007-09-25'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:33Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +144,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/081b00/18611861.pdf))](https://files.diariodarepublica.pt/1s/1991/04/081b00/18611861.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/081b00/18611861.pdf)

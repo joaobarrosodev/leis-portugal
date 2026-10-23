@@ -49,40 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2015-02-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5bf4b9a5234f890b5c89b28e01f830f29619f78c039d716a52cdd3f3061725d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9c147cd39d0d1f3d1cd01c36edb05b4e9ced85c11d6e8eb24e7a37c80a24c06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Assembleia Regional
+- Eleição Regional
+- Inconstitucionalidade
 relationships:
 - type: amended_by
   target: pt:dre:66487455:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:178786:por
+  label: "Alterado o art. 13º do Dec Lei 267/80, de 08-ago, na redação do presente diploma, pela LEI ORG.2/2012.14.06.2012.AR,\
+    \ DR.IS [114] de 14.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2012-178786
+  date: '2012-06-14'
+- type: amended_by
+  target: pt:dre:66487455:por
+  label: Alterado o art. 13.º do Dec. Lei 267/80 de 08-ago, na redação da presente Resolução, pelo(a) Lei Orgânica n.º 3/2015
+    - Diário da República n.º 30/2015, Série I de 2015-02-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/3-2015-66487455
+  date: '2015-02-12'
+- type: cites
+  target: pt:dre:470458:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:08Z'
   warnings: []
   errors: []
 ---
@@ -99,4 +119,4 @@ c) Declarar, com força obrigatória geral, a inconstitucionalidade do n.º 2 do
 
 Aprovada em Conselho da Revolução em 7 de Abril de 1982.
 
-**O Presidente do Conselho da Revolução, António Ramalho Eanes.**
+O Presidente do Conselho da Revolução, António Ramalho Eanes.

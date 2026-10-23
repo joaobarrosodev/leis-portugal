@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resol/1/1992/09/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-1992-240833
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-09-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b7af277cb0fbb53cf1aaad654fd299eec213361b058501367ab73665cee082e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 736c406ecd514b84a720f3a46e0c64c17175e5f2376a52b6c091a44047ab8935
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Autarquia Local
+- Contabilidade Pública
 - Impresso
 - Serviço Público
-- Contabilidade Pública
-- Autarquia Local
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:24Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ a) Aos municípios e às regiões de turismo aplicar-se-á a parte A das mesmas;
 
 b) Às assembleias distritais, áreas metropolitanas, associações de municípios, federações de municípios, freguesias e outros organismos ou serviços no âmbito destas instruções aplicar-se-á a parte A ou a parte B, consoante o respectivo montante de receitas ou despesas ultrapasse ou não o limite definido no n.º 2 do artigo 17.º da [Lei n.º 86/89](https://diariodarepublica.pt/dr/detalhe/lei/86-1989-547238), de 8 de Setembro.
 
-# PARTE A
+## PARTE A
 
 1.ª As contas serão instruídas com os documentos a seguir enumerados:
 
@@ -241,7 +245,7 @@ II) As contas e respectivos modelos e os documentos poderão ser apresentados in
 
 III) Toda a documentação respeitante às contas remetidas ao Tribunal de Contas e não mencionada na guia de remessa ficará à disposição deste e do seu Presidente, devidamente acondicionada nos arquivos dos correspondentes organismos ou serviços.
 
-# PARTE B
+## PARTE B
 
 1.ª As entidades abrangidas por esta parte elaborarão as suas contas de gerência de acordo com o mod. 4/TC, devendo estas ser enviadas ao Tribunal de Contas apenas a solicitação expressa deste ou do seu Presidente, sem prejuízo do disposto na Resolução n.º 2/TC-I/90, publicada no Diário da República, 1.ª série, n.º 21, de 25 de Janeiro de 1990.
 
@@ -263,4 +267,4 @@ Para os documentos mencionados ter-se-ão em atenção as notas técnicas consta
 
 Tribunal de Contas, 24 de Agosto de 1992. - O Conselheiro Presidente, António Luciano Pacheco de Sousa Franco.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1992/09/204b00/42244231.pdf))](https://files.diariodarepublica.pt/1s/1992/09/204b00/42244231.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/09/204b00/42244231.pdf)

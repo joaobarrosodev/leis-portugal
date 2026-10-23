@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/147/1991/02/18/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/147-1991-485965
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-04-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 050786c4a16c3a39d0f5ffce47dd8e41829a1f0532637770a73c6df8f8e99587
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83a7a760c6788851ac2616ce59611128a4605d6836eaf288a9fbc86b8373a19a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,23 +69,42 @@ subjects:
 - Criação de Serviços
 - Descentralização
 - Instituições de Segurança Social
-- Setúbal
 - Serviço Local de Segurança Social
+- Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:156854:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:179173253:por
+  label: Determinada a passagem, a partir de 12.02.2022, do património da Casa do Povo de Santiago do Cacém, serviço local
+    criado pelo presente diploma, para a titularidade do Instituto da Segurança Social, I. P. pelo(a) Portaria n.º 97/2022
+    - Diário da República n.º 33/2022, Série I de 2022-02-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/97-2022-179173253
+  date: '2022-02-16'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:573109:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:57Z'
   warnings: []
   errors: []
 ---
@@ -112,6 +131,6 @@ Manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 25 de Janeiro de 1991.**
+Assinada em 25 de Janeiro de 1991.
 
-**O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Campos Vieira de Castro.

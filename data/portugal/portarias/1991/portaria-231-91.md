@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/067b00/15121518.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/231/1991/03/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/231-1991-471276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8d26b3be9c7b3c2d5d447e92fd1adcf1791e969de39d47d3b9ef9a852813f29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ad1db1d7eeb0df415362a87ec6cba7858f091f68def6b6198ab76eb95d570180
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,11 +66,11 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Produção Animal
 - Controlo Sanitário
 - Gado Bovino
-- Países Terceiros
 - Material Biológico
+- Países Terceiros
+- Produção Animal
 - Troca Intracomunitária
 relationships:
 - type: cites
@@ -87,14 +87,14 @@ relationships:
   source: http://data.europa.eu/eli/dir/1990/120/oj
 article_structure:
   article_count: 0
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:02Z'
   warnings: []
   errors: []
 ---
@@ -295,11 +295,13 @@ b) Até a entrada em vigor das decisões aprovadas em aplicação dos n.os 8.º,
 
 Ministérios da Agricultura, Pescas e Alimentação e do Comércio e Turismo.
 
-**Assinada em 4 de Março de 1991.**
+Assinada em 4 de Março de 1991.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - Pelo Ministro do Comércio e Turismo, José António Leite de Araújo, Secretário de Estado do Comércio Interno.
 
-## ANEXO A — CAPÍTULO I
+## ANEXO A
+
+### CAPÍTULO I
 
 Condições de autorização dos centros de colheita de sémen
 
@@ -361,7 +363,9 @@ l) Que o agente criogénico utilizado não tenha servido anteriormente para outr
 
 m) Que cada dose individual de sémen tenha uma marca visível que permita verificar facilmente a data de colheita, bem como a raça e a identificação do animal dador e o nome do centro, se necessário em código, sendo as características e o modelo dessa marca estabelecidos por portaria do Ministro da Agricultura, Pescas e Alimentação.
 
-## ANEXO B — CAPÍTULO I
+## ANEXO B
+
+### CAPÍTULO I
 
 Condições aplicáveis à admissão dos animais nos centros autorizados de colheita de sémen
 

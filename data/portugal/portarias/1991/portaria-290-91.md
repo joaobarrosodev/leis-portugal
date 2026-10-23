@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/290/1991/04/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/290-1991-613441
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-06-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb898815a61f90d2ad378cc62e597e7da503468a2e9e1ea2dfa589afe4b7dce6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b21edac081643a1dbddaf2c6cc3cd5684da0044b00d2d5a2c94ec8350f52b16f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,50 @@ relationships:
   target: pt:dre:346115:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:145981:por
+  label: "Suspensa a actividade cinegética na zona de caça turística concessionada pelo presente diploma, pela PORT.597/2002.2002.06.06.MADRP\
+    \ DR.IS-B [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/597-2002-145981
+  date: '2002-06-06'
+- type: amended_by
+  target: pt:dre:651750:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, pela PORT.656/2003.2003.07.30.MECO, DR.IS-B [174]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/656-2003-651750
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:346115:por
+  label: "Transferida para a HERCAZA - Caça e Turismo, Unipessoal, Ldª., a zona de caça concessionada pelo presente diploma,\
+    \ pela PORT.527/2006.08.06.2006.MAOTDR, DR.IS-B [111] de 08.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/527-2006-346115
+  date: '2006-06-08'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:23Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +150,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/081b00/18551855.pdf))](https://files.diariodarepublica.pt/1s/1991/04/081b00/18551855.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/081b00/18551855.pdf)

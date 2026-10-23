@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/374/1991/05/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/374-1991-616395
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-01-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50e8c37b0f91ccbd8bd446dfe36da28f9ccb3379a91dd2121b5c9af98ad1610f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fb6cc572d3124b00b77089e0a6e8a5259bdaab899ca3a19c82caeac723fe314
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -80,16 +80,24 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: pt:dre:670073:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693840:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:39Z'
   warnings: []
   errors: []
 ---
@@ -102,6 +110,6 @@ Manda o Governo, pelos Ministros das Finanças e da Justiça, em conformidade co
 
 Ministérios das Finanças e da Justiça.
 
-**Assinada em 28 de Fevereiro de 1991.**
+Assinada em 28 de Fevereiro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Justiça, José Manuel Cardoso Borges Soeiro, Secretário de Estado Adjunto do Ministro da Justiça.

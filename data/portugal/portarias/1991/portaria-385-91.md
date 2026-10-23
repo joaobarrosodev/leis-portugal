@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/385/1991/05/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/385-1991-616854
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-01-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45e452e6d6cd6812fbf2a6e972cb8d24b6b32214c010ad14f675c47794b2a592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5237a9f170a668fabe03cdd431937d965a60574c48c9ce5f1d9d1d96f0f7799
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,36 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Instituto Superior de Psicologia Aplicada
 - Mestrado em Comportamento Organizacional
 - Mestrado em Psicologia Educacional
 - Mestrado em Psicopatologia e Psicologia Clínica
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:197156:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:197156:por
+  label: "Alterado o Plano de estudos do curso de especialização de Psicopatologia e Psicologia Clínica pela PORT.29/99.1999.01.20.ME\
+    \ DR.S-B [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/29-1999-197156
+  date: '1999-01-20'
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:55Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +142,7 @@ c) Comportamento Organizacional, dois anos.
 
 Ministério da Educação.
 
-**Assinada em 4 de Abril de 1991.**
+Assinada em 4 de Abril de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -140,16 +150,16 @@ Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de E
 
 Mestrado em Psicopatologia e Psicologia Clínica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf))](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf)
 
 ## ANEXO II — Instituto Superior de Psicologia Aplicada
 
 Mestrado em Psicologia Educacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf))](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf)
 
 ## ANEXO III — Instituto Superior de Psicologia Aplicada
 
 Mestrado em Comportamento Organizacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf))](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/103b00/24322433.pdf)

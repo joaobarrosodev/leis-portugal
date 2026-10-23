@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/251/1991/03/26/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/251-1991-621676
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-12-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8e345997db583e01481d771a3ec872a517ad99b3d3fb380eca05bd65431494fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f4555dee3ab63866995a9cc1167af487d6e1e58303664482fd3263f40e2ae79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,43 @@ relationships:
   target: pt:dre:306966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:316889:por
+  label: Alterado o n.º 1.º pelo(a) Portaria n.º 1173/91 - Diário da República n.º 265/1991, Série I-B de 1991-11-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1173-1991-316889
+  date: '1991-11-18'
+- type: amended_by
+  target: pt:dre:306966:por
+  label: "Renovada, por um período de doze anos, a zona de caça concessionada pelo presente diploma, alterada pela Port 1173/91,\
+    \ de 18-Nov, pela PORT.1267/2010.15.12.2010.MADRP, DR.IS [241] de 15.12.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1267-2010-306966
+  date: '2010-12-15'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:28Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +143,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 8 de Março de 1991.**
+Assinada em 8 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/071b00/15711571.pdf))](https://files.diariodarepublica.pt/1s/1991/03/071b00/15711571.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/071b00/15711571.pdf)

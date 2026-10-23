@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/351/1991/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/351-1991-593516
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-10-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d02b7e5e89c832cd2d39196ba77b361a4c395af2d3235d19998c9a1eb7d5f662
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 859904c274e85d4b1b73fdfdb1dee1bda0aa3bbaf2cf347e094a7f65d90f48a1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,26 +67,40 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Centro Nacional de Registo de Variedades Protegidas
+- Instituto Nacional de Investigação Agrária
 - Produção Vegetal
 - Regulamento
 - Regulamento sobre Protecção das Obtenções Vegetais
-- Instituto Nacional de Investigação Agrária
 - Vegetais
 relationships:
 - type: amended_by
   target: pt:dre:212802:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:212802:por
+  label: "Alterada a redacção do art. 7.º do Regulamento sobre a Protecção das Obtenções Vegetais, aprovado pela Port 940/90,\
+    \ de 04-Out, na redacção do presente diploma, pela PORT.527/96.01.10.1996.MADRP, DR.IS-B [228] de 01.10.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/527-1996-212802
+  date: '1996-10-01'
+- type: cites
+  target: pt:dre:555797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575477:por
+  label: null
+  source: null
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:54Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +143,6 @@ j) Crisântemo.
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 2 de Abril de 1991.**
+Assinada em 2 de Abril de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

@@ -49,18 +49,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resol/1/1994/02/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-1994-517221
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-02-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ff6e44ef0afb0af43f24af3f78b45ec0a7c6be58bf3b88183df5fc87e37b171
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aee65ca896bdd9babf3506f30fc1fb1024f5e5b9ac28087c1ce789e3b77e2e47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,30 @@ reuse:
 subjects:
 - Madeira.região Autónoma
 - Secção Regional do Tribunal de Contas
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:324967:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:281800:por
+  label: Rectificada pelo(a) Despacho - Diário da República n.º 74/1994, Série I-B de 1994-03-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/1994-281800
+  date: '1994-03-29'
 article_structure:
   article_count: 0
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:29Z'
   warnings: []
   errors: []
 ---
@@ -97,4 +110,4 @@ A Secção Regional da Madeira do Tribunal de Contas deliberou, em sessão de 2 
 
 4 - Proceder à sua divulgação pelos serviços da Assembleia Legislativa Regional, pelos serviços da administração regional autónoma e por todas as autarquias da Região.
 
-#### Secção Regional da Madeira do Tribunal de Contas, 2 de Fevereiro de 1994. - O Juiz Conselheiro, Ernesto Luís Rosa Laurentino da Cunha.
+Secção Regional da Madeira do Tribunal de Contas, 2 de Fevereiro de 1994. - O Juiz Conselheiro, Ernesto Luís Rosa Laurentino da Cunha.

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/357/1991/04/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/357-1991-593512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f72248d9745ab4f6dfde5424e10cf85d5105eb5f9e06514c2539114ccf502ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 26064451362864f0939429456b35cb0c11c9a72024db5dec3cbc2914998224c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,42 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia de Electrónica e Computadores
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:423207:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:665725:por
+  label: "ALTERADO O PLANO DE ESTUDOS DO CURSO DE BACHARELATO EM ENGENHARIA DE ELECTRÓNICA E COMPUTADORES, PELA PORTARIA 1134/93,\
+    \ DE 4 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 258, DE 931104.\0 DE 931104.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1134-1993-665725
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:423207:por
+  label: "Revogada, findo o Processo de Transição fixado no art. 31.º da Port 413-A/98 de 17-Jul, a Port 357/91 de 20-Abr\
+    \ pela PORT.650/99.1999.08.13.ME DR.IS-B [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/650-1999-423207
+  date: '1999-08-13'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:03Z'
   warnings: []
   errors: []
 ---
@@ -168,7 +183,7 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1989-1990, 
 
 Ministério da Educação.
 
-**Assinada em 26 de Março de 1991.**
+Assinada em 26 de Março de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -182,4 +197,4 @@ Grau: bacharel
 
 Do QUADRO N.º 1 ao QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/092b00/22692272.pdf))](https://files.diariodarepublica.pt/1s/1991/04/092b00/22692272.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/092b00/22692272.pdf)

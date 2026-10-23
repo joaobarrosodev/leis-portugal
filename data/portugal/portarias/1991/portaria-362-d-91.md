@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 95/1991, 2º Suplemento, Série I-B de 1991-04-24
   number: '95'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2342-(4) a 2342-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/095b02/00040004.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/362-d/1991/04/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/362-d-1991-242026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-24T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1616d0f45c051ff84736373b5511aaf84e7263c8016f3392cd2d02637f4c3f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d00d8f68da1e305a6d5b02b8b81c11c35b7bc8fd7870a20bb123a4773a7b018c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,22 +65,34 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Instituto do Emprego e Formação Profissional
 - Formação Profissional
+- Instituto do Emprego e Formação Profissional
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:495076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665766:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:18Z'
   warnings: []
   errors: []
 ---
@@ -103,10 +115,10 @@ Manda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Soci
 
 Ministérios das Finanças e do Emprego e da Segurança Social.
 
-**Assinada em 24 de Abril de 1991.**
+Assinada em 24 de Abril de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, António José de Castro Bagão Félix, Secretário de Estado do Emprego e Formação Profissional.
 
 MAPA
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/095b02/00040004.pdf))](https://files.diariodarepublica.pt/1s/1991/04/095b02/00040004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/095b02/00040004.pdf)

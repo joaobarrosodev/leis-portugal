@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/061b00/13181320.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/209/1991/03/14/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-1991-475748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-07-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8624b5abea81ce40ea6e05ed3b17d753583d9977c8cedbfc1d35edf8f079903f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b2f63e753f411496238f787caea509c50b50efdb8a337755127f60ec8182b82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,32 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Orgânica
 - Jnict
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:513421:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:354088:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:513421:por
+  label: "Revogada pelo DEC LEI.201/94.1994.07.22.MPLAT, DR.IS-A [168]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1994-513421
+  date: '1994-07-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:28Z'
   warnings: []
   errors: []
 ---
@@ -115,7 +124,7 @@ d) Promover o estudo regular dos programas internacionais de C&T, nomeadamente d
 
 a) Proceder ao tratamento da informação relativa aos principais programas de investigação e desenvolvimento (I&D) em curso no País e sua articulação com os programas europeus;
 
-b) Promover a identificação das tendências de evolução e de estrangulamentos do aparelho produtivo nacional com vista à identificação de necessidades em matéria de I&D;
+b) Promover a identificação das tendências de evolução e de estrangulamentos do aparelho produtivo nacional com vista à identificação de necessidades em matéria de I&D
 
 c) Promover a identificação de áreas tecnológicas com especial relevância para a modernização e diversificação do aparelho produtivo nacional e proceder à avaliação das suas perspectivas;
 
@@ -161,7 +170,7 @@ a) Conceber e promover a realização de inquéritos ao potencial científico e 
 
 b) Organizar a recolha, tratamento, análise e divulgação da informação estatística obtida através dos inquéritos;
 
-c) Promover a edição de publicações periódicas e de estudos referentes a indicadores estatísticos de C&T;
+c) Promover a edição de publicações periódicas e de estudos referentes a indicadores estatísticos de C&T
 
 d) Promover as acções necessárias a assegurar a satisfação das obrigações da JNICT enquanto órgão delegado no Instituto Nacional de Estatística;
 
@@ -179,7 +188,7 @@ c) Detectar as carências nacionais e regionais em matéria das grandes infra-es
 
 4.1 - Ao Núcleo de Documentação cabe:
 
-a) Identificar e seleccionar fontes de informação no domínio da gestão e política de C&T;
+a) Identificar e seleccionar fontes de informação no domínio da gestão e política de C&T
 
 b) Recolher, tratar e difundir a informação científica e técnica necessária ao apoio documental de todos os serviços da JNICT;
 
@@ -195,7 +204,7 @@ f) Colaborar em catálogos colectivos nacionais, estrangeiros e de organizaçõe
 
 a) Assegurar a ligação às fontes mundiais de informação científica e técnica, através do acesso em linha a bases e bancos de dados nacionais e estrangeiros;
 
-b) Analisar, classificar, indexar e sintetizar a documentação que deve alimentar a base de dados sobre políticas de C&T e a legislação nacional de C&T;
+b) Analisar, classificar, indexar e sintetizar a documentação que deve alimentar a base de dados sobre políticas de C&T e a legislação nacional de C&T
 
 c) Promover e apoiar o desenvolvimento e a modernização das estruturas e serviços nacionais de informação científica e técnica;
 
@@ -209,7 +218,7 @@ f) Contribuir para a promoção da língua portuguesa como língua de cultura ci
 
 5.1 - Ao Núcleo de Cooperação Multilateral cabe:
 
-a) Colaborar na definição de políticas de cooperação e relações internacionais multilaterais em matéria de C&T;
+a) Colaborar na definição de políticas de cooperação e relações internacionais multilaterais em matéria de C&T
 
 b) Assegurar a ligação entre as organizações internacionais multilaterais com actividades de C&T de que Portugal seja membro e a comunidade científica nacional;
 
@@ -223,9 +232,9 @@ e) Organizar e apoiar encontros, reuniões e seminários no quadro da participa�
 
 a) Preparar as bases de propostas a submeter ao Governo sobre as orientações, condições e modalidades de participação nacional nas actividades comunitárias;
 
-b) Informar a comunidade científica e o sector empresarial sobre as actividades comunitárias de I&D;
+b) Informar a comunidade científica e o sector empresarial sobre as actividades comunitárias de I&D
 
-c) Acompanhar e apoiar técnica e administrativamente a participação das delegações nacionais nos órgãos comunitários competentes no domínio de I&D;
+c) Acompanhar e apoiar técnica e administrativamente a participação das delegações nacionais nos órgãos comunitários competentes no domínio de I&D
 
 d) Organizar a recolha e tratamento da informação relativa aos programas e projectos comunitários e à participação de instituições portuguesas nesses programas e projectos;
 
@@ -247,6 +256,6 @@ d) Colaborar na negociação de Portugal em organizações multilaterais com act
 
 Ministérios das Finanças e do Planeamento e da Administração do Território.
 
-**Assinada em 22 de Fevereiro de 1991.**
+Assinada em 22 de Fevereiro de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro do Planeamento e da Administração do Território, José Pedro Sucena Paiva, Secretário de Estado da Ciência e Tecnologia.

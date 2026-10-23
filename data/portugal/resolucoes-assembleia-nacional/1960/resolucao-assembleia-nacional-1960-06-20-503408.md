@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1960-503408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-06-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1607c3c752f3464aaf0f98242635c0ecd76385e38e8f7d77f1eebd6476be0725
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d63e123f8054f7a5be68b9ea07aa479971a2bf0b3a10be564c6d1a9681e0f89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:39Z'
   warnings: []
   errors: []
 ---
@@ -100,6 +100,6 @@ E, quanto ao ultramar, considerando o parecer da Comissão de Contas Públicas:
 
 Resolve dar a sua aprovação à Conta Geral do Estado e às contas das províncias ultramarinas referentes ao ano de 1958.
 
-**Publique-se e cumpra-se como nela se contém.**
+Publique-se e cumpra-se como nela se contém.
 
 Paços do Governo da República, 20 de Junho de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

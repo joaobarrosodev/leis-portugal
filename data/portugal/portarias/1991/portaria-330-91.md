@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/330/1991/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-1991-616423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa5e568135e2961f5a44cfeb9f10662517df1eae0df1022c130d7568602fa8ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d1b1941b5eb18afeaaebd02a4fdbcc0aa029d42537d269fbf87674dcae284fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,51 @@ relationships:
   target: pt:dre:683043:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:373628:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610900:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650730:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:669571:por
+  label: "Rectificado o n.º 3 do artigo 3.º, o n.º 2 do artigo 7.º, as referências 54 e 58 da tabela III e a referência 132\
+    \ da tabela VII do Regulamento, pela DECL-RECT.121/91.31.05.1991.PCM, DR.IS-B [124]2ºSupl de 31.05.1991\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/121-1991-669571
+  date: '1991-05-31'
+- type: repealed_by
+  target: pt:dre:683043:por
+  label: "Revogada pela PORT.1003/99.1999.11.10.MJ,DR.IS-B [262]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1003-1999-683043
+  date: '1999-11-10'
 article_structure:
   article_count: 9
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:24Z'
   warnings: []
   errors: []
 ---
@@ -111,9 +146,9 @@ Os tribunais judiciais observarão, no que se refere à conservação e elimina�
 
 Presidência do Conselho de Ministros e Ministérios da Justiça e da Educação.
 
-**Assinada em 25 de Março de 1991.**
+Assinada em 25 de Março de 1991.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 Regulamento de Conservação e Eliminação de Documentos em Arquivo nos Tribunais Judiciais
 
@@ -187,40 +222,40 @@ TABELA I
 
 Documentação geral das secretarias
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
 
 TABELA II
 
 Documentação dos tribunais criminais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
 
 TABELA III
 
 Documentação dos tribunais cíveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
 
 TABELA IV
 
 Documentação dos tribunais de execução de penas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
 
 TABELA V
 
 Documentação dos tribunais de família
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
 
 TABELA VI
 
 Documentação dos tribunais de menores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
 
 TABELA VII
 
 Documentação dos tribunais do trabalho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19501954.pdf)

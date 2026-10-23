@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/398/1991/05/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/398-1991-614102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16f1f6e28019ca4b7ab7893d2b353200c474ba1aa706bf8b1554ed1a06448579
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18637425ac29a11f35840e38ef60c2da39a668e5ab6270f53bb7aae86a711f44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
 subjects:
 - Associação Juvenil
 - Regulamento para a Inscrição no Registo Nacional das Associações Juvenis
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251984:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312837:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:14Z'
   warnings: []
   errors: []
 ---
@@ -129,6 +137,6 @@ f) Os respectivos estatutos fixem um limite etário à admissão e manutenção 
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 19 de Abril de 1991.**
+Assinada em 19 de Abril de 1991.
 
-**O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.**
+O Secretário de Estado da Juventude, Miguel Bento Martins da Costa de Macedo e Silva.

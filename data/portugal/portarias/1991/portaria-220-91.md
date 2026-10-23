@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/065b00/14561457.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/220/1991/03/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/220-1991-476505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40e7a14aa19c7e233637562c607d8b7122bd4d63786fcb06e4cc50cc50c7779b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89efbdc66aa37fb016110b58b4a14711d178e50d3faf5273cd3beaf879b3510a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,33 @@ relationships:
   target: pt:dre:168420:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502409:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:168420:por
+  label: "Revogada pela PORT.140/92.1992.03.04.SESS-MESS, DR.IS-B [53]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/140-1992-168420
+  date: '1992-03-04'
 article_structure:
   article_count: 2
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:43Z'
   warnings: []
   errors: []
 ---
@@ -131,6 +148,6 @@ e) ...
 
 Ministério do Emprego e da Segurança Social.
 
-**Assinada em 27 de Fevereiro de 1991.**
+Assinada em 27 de Fevereiro de 1991.
 
-**O Secretário de Estado da Segurança Social, José Luís Vieira de Castro.**
+O Secretário de Estado da Segurança Social, José Luís Vieira de Castro.

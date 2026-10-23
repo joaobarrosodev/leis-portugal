@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/173/1991/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/173-1991-463203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-12-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50621e51830b503c21dcfce56a08622a606684b6bc253ef2d46bf9ffd07ee77e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9836042f3be913da0a670b21a7ea6254aff875f7eb347093ffb2d691c4471cc8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,49 @@ relationships:
   target: pt:dre:481917:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469247:por
+  label: "Alterado o num 1 pela Port.693-H/96.1996.11.27.MADRP, DR.IS-B [275]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/693-h-1996-469247
+  date: '1996-11-27'
+- type: amended_by
+  target: pt:dre:542986:por
+  label: "Renovada a concessão da zona de caça associativa concessionada pela presente portaria, na redacção da Port 693-H/96,\
+    \ de 27-Nov, pela PORT.445/2003.2003.05.31.MADRP, DR.IS-B[126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/445-2003-542986
+  date: '2003-05-31'
+- type: amended_by
+  target: pt:dre:481917:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pela 693-H/96, de\
+    \ 27-Nov e renovada pela 445/2003, de 31-Maio, pela PORT.1441/2009.23.12.2009.MADRP, DR.IS [247] de 23.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1441-2009-481917
+  date: '2009-12-23'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:32Z'
   warnings: []
   errors: []
 ---
@@ -114,8 +147,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Fevereiro de 1991.**
+Assinada em 19 de Fevereiro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/050b00/10641065.pdf))](https://files.diariodarepublica.pt/1s/1991/03/050b00/10641065.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/050b00/10641065.pdf)

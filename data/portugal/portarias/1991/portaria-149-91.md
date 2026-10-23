@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/149/1991/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-1991-487168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12f1282c74d4c5b0f5ae82607f1daf69fee48dc94daee6b463d7fe402e2d8b3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dd39a14163da753f9c3b38f3f711a54c1400f011b223e1a2727240a9542453ed
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,16 +76,20 @@ relationships:
   target: eli:http://data.dre.pt/eli/port/21/1991/01/10/p/dre
   label: null
   source: http://data.dre.pt/eli/port/21/1991/01/10/p/dre
+- type: cites
+  target: pt:dre:694063:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:57Z'
   warnings: []
   errors: []
 ---
@@ -114,6 +118,6 @@ Esta portaria entra em vigor na data da sua publicação.
 
 Ministério da Educação.
 
-**Assinada em 23 de Janeiro de 1991.**
+Assinada em 23 de Janeiro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.

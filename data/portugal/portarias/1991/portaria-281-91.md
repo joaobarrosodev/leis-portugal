@@ -50,18 +50,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/281/1991/04/06/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/281-1991-615790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2010-08-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 936ff47991d23b377e4ca5723ffe94409d9475ee8fe50eca4624f992e2085885
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4049b18598bb2f2b8ff50209199f929075663cc45a19d4ea8b61e0734c88c98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -75,16 +75,69 @@ relationships:
   target: pt:dre:343150:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:344959:por
+  label: "Renovada, por um período de 12 anos, a concessão atribuída pelo presente diploma, pela PORT.594/99.1999.08.02.MADRP\
+    \ DR.IS-B [178]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/594-1999-344959
+  date: '1999-08-02'
+- type: amended_by
+  target: pt:dre:174096:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa criada pelo presente diploma, na redacção da Port 594/99\
+    \ de 02-Ago, pela PORT.1178/2002.2002.08.29.MADRP, DR.IS-B [199]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1178-2002-174096
+  date: '2002-08-29'
+- type: amended_by
+  target: pt:dre:284172:por
+  label: "Anexados um prédio rústico à zona de caça associativa atribuída pelo presente diploma, com a redacção das Ports\
+    \ 594/99, de 02-Ago e 1178/2002, de 29-Ago, pela Port.1033-EX/2004.10.08.2004.MAPF, DR.IS-B [187-2ºSupl] de 10.08.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-ex-2004-284172
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:641137:por
+  label: "Anexado um prédio rústico à zona de caça criada pelo presente diploma, alterada pela Portaria 594/99, de 02 de Agosto,\
+    \ Portaria 1178/2002, de 29 de Agosto e pela Portaria 1033-EX/2004, de 10 de Agosto, pela PORT.1041/2007.31.08.2007.MADRP,\
+    \ DR.IS [168] de 31.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1041-2007-641137
+  date: '2007-08-31'
+- type: amended_by
+  target: pt:dre:343150:por
+  label: "Desanexados vários prédios rústicos da zona de caça atribuída pelo presente diploma, alterada pela Port 594/99,\
+    \ de 02-Ago, pela Port 1178/2002, de 29-Ago, pela Port 1033-EX/2004, de 10-Ago e pela Port 1041/2007, de 31-Ago, pela\
+    \ PORT.699/2010.16.08.2010.MADRP, DR.IS [158] de 16.08.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/699-2010-343150
+  date: '2010-08-16'
+- type: cites
+  target: pt:dre:181264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:13Z'
   warnings: []
   errors: []
 ---
@@ -123,8 +176,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/080b00/18451846.pdf))](https://files.diariodarepublica.pt/1s/1991/04/080b00/18451846.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/080b00/18451846.pdf)

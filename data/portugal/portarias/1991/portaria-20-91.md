@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/20/1991/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-1991-694065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a67f7664dd18e769b46cdf9457840d379ca3fea6f6599c083d487607be8d6455
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7af0332cc33c3f720ecab076b7e3126e273c38394e576928acc705c756edaa44
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,16 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Desenvolvimento Rural
 - Comissão de Coordenação das Actividades de Desenvolvimento Experimental e de Demonstração
+- Desenvolvimento Rural
 - Direcção Regional de Agricultura
-- Programa de Estruturas de Investigação e Desenvolvimento Experimental e de Demonstração
 - Instituto Nacional de Investigação Agrária
+- Programa de Estruturas de Investigação e Desenvolvimento Experimental e de Demonstração
 relationships:
 - type: amended_by
   target: pt:dre:621966:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:621966:por
+  label: "Acrescentadas as alíneas c) e d) ao n.º 8.º, pela PORT.264/91.03.04.1991.MAPA, DR.IS-B [77] de 03.04.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/264-1991-621966
+  date: '1991-04-03'
 - type: cites
   target: celex:31985R3828
   label: null
@@ -83,13 +88,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:12Z'
   warnings: []
   errors: []
 ---
@@ -272,6 +277,6 @@ e) Compromisso de correcta execução técnica desde o início até à conclusã
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 13 de Dezembro de 1990.**
+Assinada em 13 de Dezembro de 1990.
 
-**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**
+O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.

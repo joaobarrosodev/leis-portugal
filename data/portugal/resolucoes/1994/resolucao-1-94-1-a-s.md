@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1994/01/019b00/03480352.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/resol/1/1994/01/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-1994-512654
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-06-26T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788052584bd398ea6f44f8a5ce980ec20217b50014d388a8c7bebd44980c2fef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4cdce2d3404105f3983f3b4f90af76994b15ea6c27040aa3f9ec9a1f3a62e50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,13 +68,13 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Função Pública
-- Tribunal de Contas
+- Administração Local
 - Contratação de Pessoal
+- Função Pública
+- Funcionário Público
 - Nomeação
 - Prestação de Serviços
-- Administração Local
-- Funcionário Público
+- Tribunal de Contas
 - Visto do Tribunal de Contas
 relationships:
 - type: amended_by
@@ -85,16 +85,59 @@ relationships:
   target: eli:http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
   label: null
   source: http://data.dre.pt/eli/dec-lei/247/1992/11/07/p/dre
+- type: cites
+  target: pt:dre:177394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216106:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419013:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654566:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506417:por
+  label: "Revogados os nºs 1 e 2 da norma XIII e o nº 2 da norma XXII pela Res 2/97.1997.01.21.TC, DR.IS-B [49] de 27/Fev/1997\
+    \ (1ª Secção)\0)\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/2-1997-506417
+  date: '1997-01-21'
+- type: repealed_by
+  target: pt:dre:2967800:por
+  label: "Revogada, a partir de 01.07.1998, pela RES.7/98/MAI.19-1ªS/PL.26.06.1998.TC, DR.IIS [145] de 26.06.1998\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/7-1998-2967800
+  date: '1998-06-26'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:24Z'
   warnings: []
   errors: []
 ---

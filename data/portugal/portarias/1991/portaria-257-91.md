@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/257/1991/03/30/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/257-1991-621758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-30T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6683057c67abfbc95a6c0ac337fe083465425548cbd058069ce3fab4d8ac8ae5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b444d24672defa9a778233c303126323916cb14780e3ff80d40e2f104406e7df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
 subjects:
 - Eleição
 - Recenseamento Eleitoral
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327591:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:38Z'
   warnings: []
   errors: []
 ---
@@ -182,6 +190,6 @@ Bangui (República Centro-Africana), dependente da CR de Kinshasa.
 
 Ministério dos Negócios Estrangeiros.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro dos Negócios Estrangeiros, Manuel Filipe Correia de Jesus, Secretário de Estado das Comunidades Portuguesas.

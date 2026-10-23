@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/429/1991/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/429-1991-644363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-07-31T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2d1c0a697d9c18e336300476113ecb4eae1352d459556a316f7d7425d5ec656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3cb342c60414588035e622f7cd63ff6842668c2a9bd33f2256c725b0369726b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,30 @@ relationships:
   target: pt:dre:521470:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574695:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:521470:por
+  label: "Rectificadas as alínea a) e b) do n.º 4 do artigo 27.º pela DECL-RECT.167/91.31.07.1991.PCM, DR.IS-B [174]3ºSupl\
+    \ de 31.07.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/167-1991-521470
+  date: '1991-07-31'
 article_structure:
   article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:59Z'
   warnings: []
   errors: []
 ---
@@ -137,6 +151,6 @@ As indicadas na alínea a), 1.º, 2.º, 4.º e 6.º, e na alínea b), 1.º, 2.º
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 15 de Maio de 1991.**
+Assinada em 15 de Maio de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

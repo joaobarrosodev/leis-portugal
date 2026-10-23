@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/33/1991/01/12/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/33-1991-494828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73f86a8099863d2d182e767ad14df8417b546818be660cccc796f2cba0731d1a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75cb808897ed6fbe740e607ce8bc1c5e9fe10092b744090e860fa0f506c16c4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,25 +65,60 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Bragança
 - CAÇA
 - Direcção Geral das Florestas
 - Prédio Rústico
-- Bragança
 relationships:
 - type: amended_by
   target: pt:dre:438412:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:241833:por
+  label: "Suspendida por 180 dias a exploração cinegética da zona de caça associativa concessionada pelo presente diploma,\
+    \ pela PORT.469/96.09.09.1996.MADRP, DR.IS-B [209] de 09.09.1996\096\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/469-1996-241833
+  date: '1996-09-09'
+- type: amended_by
+  target: pt:dre:391456:por
+  label: "Renovada, por um período de 12 anos, a concessão da zona de caça, mantendo integralmente os direitos e obrigações\
+    \ decorrentes da lei e constantes do presente diploma, pela PORT.544-R/96.1996.10.04.MADRP, DR.IS-B [231]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/544-r-1996-391456
+  date: '1996-10-04'
+- type: amended_by
+  target: pt:dre:438412:por
+  label: "Renovada, por um período de 12 anos, a concessão e anexados vários prédios rústicos à zona de caça concessionada\
+    \ pela Port 33/91, de 12-Jan, renovada pela Port 544-R/96, de 04-Out, pela PORT.1177/2008.16.10.2008.MAOTDR, DR.IS [201]\
+    \ de 16.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1177-2008-438412
+  date: '2008-10-16'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:23Z'
   warnings: []
   errors: []
 ---
@@ -118,8 +153,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Dezembro de 1990.**
+Assinada em 14 de Dezembro de 1990.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/010b00/02010201.pdf))](https://files.diariodarepublica.pt/1s/1991/01/010b00/02010201.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/010b00/02010201.pdf)

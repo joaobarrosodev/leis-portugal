@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/420/1991/05/21/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/420-1991-640087
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-21T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0a04f8e867eb4f971193131ae74a040cf10456c2b9bdd63c4418e300ccbf064
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eeab5b1a7e44b5f132ed8f03655a63cc646b2455efbe86fd8541934a070aaef1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,20 +66,28 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Direcção Geral das Alfândegas
-- Pessoal Operário
 - Pessoal Administrativo
+- Pessoal Operário
 - Quadro de Pessoal
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:282698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306028:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:49Z'
   warnings: []
   errors: []
 ---
@@ -96,10 +104,10 @@ Manda o Governo, pelos Secretários de Estado dos Assuntos Fiscais e do Orçamen
 
 Ministério das Finanças.
 
-**Assinada em 18 de Abril de 1991.**
+Assinada em 18 de Abril de 1991.
 
-**O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.**
+O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.
 
 Quadro anexo à Portaria n.º 420/91
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/116b00/27262727.pdf))](https://files.diariodarepublica.pt/1s/1991/05/116b00/27262727.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/116b00/27262727.pdf)

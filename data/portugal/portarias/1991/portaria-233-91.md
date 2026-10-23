@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/068b00/15301532.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/233/1991/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/233-1991-471952
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-09-27T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d08c7a7b242bc1c10392bcbe00b8fd6a008c3211642d4eb2881e89713ca47891
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1f10cdc416579465ef2eaa7bfce648c002b8db1499870509f37199edea5adc4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,9 +67,9 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Brucelose
-- Gado Caprino
 - Controlo Sanitário
 - Exploração Pecuária
+- Gado Caprino
 - Gado Ovino
 - Troca Intracomunitária
 relationships:
@@ -77,16 +77,30 @@ relationships:
   target: pt:dre:561379:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364737:por
+  label: "Substituído o anexo referido no presente diploma, pela PORT.3/95.1995.01.03.MA DR.IS-B [2]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/3-1995-364737
+  date: '1995-01-03'
+- type: cites
+  target: pt:dre:643502:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:561379:por
+  label: "Revogada pelo DEC LEI.244/2000.2000.09.27.MADRP DR.IS-A [224]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-2000-561379
+  date: '2000-09-27'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:03Z'
   warnings: []
   errors: []
 ---
@@ -131,11 +145,11 @@ e) Unidade epidemiológica: um grupo ou mais de animais (ovinos ou caprinos) per
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 1 de Março de 1991.**
+Assinada em 1 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-## Anexo a que se refere o n.º 3.º
+Anexo a que se refere o n.º 3.º
 
 I - Normas para classificação sanitária de efectivos ovinos e caprinos
 

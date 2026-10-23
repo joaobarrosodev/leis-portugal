@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/001b00/00190020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/3/1991/01/02/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-1991-662878
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-10-16T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e60d6ed697c213a6b6479bb499fec04d9af94797de0d61263cbc1cd08d311ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e9c1f4bd0b6673b934aada9712ea1f2d9c01d2d9b26af7b48169776c0bf5cbb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,41 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Aveiro
-- Recursos Hídricos
 - Proteção do Ambiente
+- Recursos Hídricos
 - Recursos Naturais
 relationships:
 - type: amended_by
   target: pt:dre:2775931:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:333156:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333160:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376260:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:2775931:por
+  label: "Revogada pela PORT.840/2008.16.10.2008.MAOTDR, DR.IIS [201] de 16.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/840-2008-2775931
+  date: '2008-10-16'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:38Z'
   warnings: []
   errors: []
 ---
@@ -124,10 +141,10 @@ A sul e oeste - caminho que liga o entroncamento da estrada Fontão-Sosa ao cruz
 
 Ministérios do Planeamento e da Administração do Território, da Indústria e Energia e do Ambiente e Recursos Naturais.
 
-**Assinada em 11 de Dezembro de 1990.**
+Assinada em 11 de Dezembro de 1990.
 
-**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - Pelo Ministro da Indústria e Energia, Nuno Manuel Franco Ribeiro da Silva, Secretário de Estado da Energia. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
 PLANTA DE DELIMITAÇÃO DA ÁREA DE PROTECÇÃO DAS CAPTAÇÕES DE VALE DAS MAIAS
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/001b00/00190020.pdf))](https://files.diariodarepublica.pt/1s/1991/01/001b00/00190020.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/001b00/00190020.pdf)

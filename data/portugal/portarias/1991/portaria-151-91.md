@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/151/1991/02/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/151-1991-487172
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 654e1efcddeb91901bd942dd0230a5d96128e86fe5ef0e9b210747b03789551b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e128cf0c0d92a91c50e218173de30f7a7632dac0584045da619eba6f9e6c820
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,45 @@ subjects:
 - Faro
 - Instituto Politécnico
 - Licenciatura
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:196876:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:498083:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547192:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:549004:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571419:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:02Z'
   warnings: []
   errors: []
 ---
@@ -110,7 +138,7 @@ O modelo de carta de curso do grau de licenciado em Ensino conferido pelo Instit
 
 Ministério da Educação.
 
-**Assinada em 23 de Janeiro de 1991.**
+Assinada em 23 de Janeiro de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -124,7 +152,7 @@ R (ver nota a) P
 
 Instituto Politécnico de Faro, ... (ver nota h).
 
-**O Presidente da Comissão Instaladora do Instituto Politécnico de Faro, ... (ver nota i).**
+O Presidente da Comissão Instaladora do Instituto Politécnico de Faro, ... (ver nota i).
 
 O Administrador do Instituto Politécnico de Faro ... (ver nota j).
 

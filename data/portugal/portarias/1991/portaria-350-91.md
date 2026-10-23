@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/091b00/22572259.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/350/1991/04/19/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/350-1991-592755
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-08-23T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28e42c19ef1421bbe1f51e9ac10f1f96abdc1ae53ea73d6526a251312bd0d4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a122aca65db31c6f784f1cbdf659b5d1cbe3e9479d5f65de82b055cb1dd33b3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,27 +67,43 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia de Produção Mecânica
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Setúbal
 relationships:
 - type: amended_by
   target: pt:dre:433403:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:686403:por
+  label: "Alterado o plano de estudos do curso constante do presente diploma, pela PORT.1170/93.09.11.1993.ME, DR.IS-B [262]\
+    \ de 09.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1170-1993-686403
+  date: '1993-11-09'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:433403:por
+  label: "Revogada, findo o processo de transição fixado nos termos do art. 31º do Regulamento aprovado pela Port 413-A/98\
+    \ de 17-Jul, pela PORT.683/99.1999.08.23.ME,DR.IS-B [196].\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/683-1999-433403
+  date: '1999-08-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:54Z'
   warnings: []
   errors: []
 ---
@@ -168,10 +184,10 @@ O disposto na presente portaria aplica-se a partir do ano lectivo de 1989-1990, 
 
 Ministério da Educação.
 
-**Assinada em 26 de Março de 1991.**
+Assinada em 26 de Março de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO I — Do QUADRO N.º 1 ao QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/091b00/22572259.pdf))](https://files.diariodarepublica.pt/1s/1991/04/091b00/22572259.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/091b00/22572259.pdf)

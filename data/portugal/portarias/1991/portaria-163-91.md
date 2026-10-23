@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/163/1991/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/163-1991-463196
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-01T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 788bfa3bf5e3480e5d560ab0c855d6440bea1a7a66b3df4c0433d0866f01f305
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c74d8600e9ee83a9ac6caccc3f72125ec0c0647eece022d56bff17a3aaa48128
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,21 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Academia das Ciências de Lisboa
 - Investigação Científica e Tecnológica
 - Prémio Professor Doutor Armando Gonçalves Pereira
-- Academia das Ciências de Lisboa
 - Regulamento
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:575493:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:17Z'
   warnings: []
   errors: []
 ---
@@ -96,25 +104,25 @@ Ouvido o Instituto Português do Património Cultural e ao abrigo dos artigos 1.
 
 Presidência do Conselho de Ministros.
 
-**Assinada em 30 de Janeiro de 1991.**
+Assinada em 30 de Janeiro de 1991.
 
-**O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.**
+O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes.
 
 ## ANEXO — Regulamento do Prémio Prof. Doutor Armando Gonçalves Pereira
 
-###### Artigo 1.º - 1 - O Prémio Prof. Doutor Armando Gonçalves Pereira, instituído no âmbito da Academia das Ciências de Lisboa, destina-se a estimular, em Portugal, os estudos das ciências económicas, especialmente no domínio da economia do mar.
+Artigo 1.º - 1 - O Prémio Prof. Doutor Armando Gonçalves Pereira, instituído no âmbito da Academia das Ciências de Lisboa, destina-se a estimular, em Portugal, os estudos das ciências económicas, especialmente no domínio da economia do mar.
 
 2 - O referido Prémio é atribuído anualmente e tem o valor de 500000$00.
 
-###### Art. 2.º - 1 - A atribuição do Prémio faz-se, mediante concurso realizado nos termos do presente Regulamento, a um trabalho de autor português que verse um tema fundamental das ciências económicas, com preferência dos relativos à economia do mar.
+Art. 2.º - 1 - A atribuição do Prémio faz-se, mediante concurso realizado nos termos do presente Regulamento, a um trabalho de autor português que verse um tema fundamental das ciências económicas, com preferência dos relativos à economia do mar.
 
 2 - Apenas se admitem ao concurso obras redigidas em língua portuguesa.
 
-###### Art. 3.º - 1 - A primeira edição do concurso será aberta logo após a publicação deste Regulamento no Diário da República, dando-se do facto conhecimento a academias e outras instituições ligadas ao tema.
+Art. 3.º - 1 - A primeira edição do concurso será aberta logo após a publicação deste Regulamento no Diário da República, dando-se do facto conhecimento a academias e outras instituições ligadas ao tema.
 
 2 - O prazo para a entrega das obras submetidas ao concurso é de seis meses contados da data da publicação do edital respectivo no Diário da República e em jornais diários de Lisboa, Porto e Coimbra.
 
-###### Art. 4.º Os candidatos devem enviar à secretaria da Academia das Ciências de Lisboa, dentro do prazo do concurso:
+Art. 4.º Os candidatos devem enviar à secretaria da Academia das Ciências de Lisboa, dentro do prazo do concurso:
 
 a) Uma carta dirigida ao presidente da Academia, contendo os elementos de identificação do concorrente e da obra submetida ao concurso, assim como a declaração de acatamento da decisão do júri sobre a atribuição do Prémio;
 
@@ -122,13 +130,13 @@ b) 50 exemplares da obra apresentada ao concurso;
 
 c) A declaração de que o candidato se compromete a não submeter a obra a outro concurso, caso a mesma seja premiada.
 
-###### Art. 5.º - 1 - Podem apresentar-se ao concurso obras inéditas não impressas, devendo, porém, os respectivos exemplares ser dactilografados e assinados pelo autor, exigindo-se que um deles tenha todas as páginas rubricadas.
+Art. 5.º - 1 - Podem apresentar-se ao concurso obras inéditas não impressas, devendo, porém, os respectivos exemplares ser dactilografados e assinados pelo autor, exigindo-se que um deles tenha todas as páginas rubricadas.
 
 2 - Quanto às obras impressas, deve o concorrente fazer prova de que foram escritas expressamente para o concurso ou publicadas no ano anterior ao que o prémio respeita.
 
 3 - Não podem ser admitidas ao concurso obras já premiadas em qualquer outro.
 
-###### Art. 6.º - 1 - O júri para atribuição do Prémio é constituído por três sócios efectivos da Secção de Economia da Classe das Letras, designados pelo presidente da Academia das Ciências de Lisboa.
+Art. 6.º - 1 - O júri para atribuição do Prémio é constituído por três sócios efectivos da Secção de Economia da Classe das Letras, designados pelo presidente da Academia das Ciências de Lisboa.
 
 2 - Na falta de sócios efectivos, o presidente da Academia deve designar sócios correspondentes da mesma Secção.
 
@@ -136,12 +144,12 @@ c) A declaração de que o candidato se compromete a não submeter a obra a outr
 
 4 - O júri é presidido pelo seu membro mais antigo como sócio efectivo, que, em caso de empate, tem voto de qualidade.
 
-###### Art. 7.º - 1 - O presente Prémio é atribuído durante 10 anos sucessivos, pelo rendimento do capital de 5000000$00 entregue à Academia das Ciências de Lisboa.
+Art. 7.º - 1 - O presente Prémio é atribuído durante 10 anos sucessivos, pelo rendimento do capital de 5000000$00 entregue à Academia das Ciências de Lisboa.
 
 2 - Não alarga o decénio previsto no número anterior o facto de o Prémio deixar de ser atribuído algum ano, por ausência de concorrentes ou deliberação do júri fundada na falta de mérito das obras submetidas ao concurso.
 
-###### Art. 8.º - 1 - Decorridos os 10 anos estabelecidos no artigo anterior, o Prémio só se mantém desde que o seu quantitativo beneficie de uma actualização adequada, através do reforço do capital correspondente pelos herdeiros do Prof. Doutor Armando Gonçalves Pereira.
+Art. 8.º - 1 - Decorridos os 10 anos estabelecidos no artigo anterior, o Prémio só se mantém desde que o seu quantitativo beneficie de uma actualização adequada, através do reforço do capital correspondente pelos herdeiros do Prof. Doutor Armando Gonçalves Pereira.
 
 2 - Caso o Prémio se extinga, o capital remanescente é aplicado pela Academia na realização de um ou mais seminários sobre a economia do mar.
 
-###### Art. 9.º Em tudo o que não se encontre previsto expressamente nos artigos anteriores, observa-se o disposto no Regulamento Geral dos Prémios da Academia das Ciências de Lisboa.
+Art. 9.º Em tudo o que não se encontre previsto expressamente nos artigos anteriores, observa-se o disposto no Regulamento Geral dos Prémios da Academia das Ciências de Lisboa.

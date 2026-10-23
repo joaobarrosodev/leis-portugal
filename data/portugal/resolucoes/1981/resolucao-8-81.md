@@ -48,36 +48,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/8-1981-389985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-01-29T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0b144b4adb4cec423305383fbe38566ca6b6ae30717787317819329b02909fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 230924f18d9622ff81b4d781b4cb0bd6bc8bfeb7065840930b53acd8759148d2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código Penal e Disciplinar da Marinha Mercante
+- Direitos Cívicos
+- Inconstitucionalidade
+- Interpretação do Direito
+- Marinha Mercante
+- Pessoal do MAR
+relationships:
+- type: cites
+  target: pt:dre:253806:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:47Z'
   warnings: []
   errors: []
 ---
@@ -88,4 +98,4 @@ Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.�
 
 Aprovada em Conselho da Revolução em 16 de Janeiro de 1981.
 
-**O Presidente do Conselho da Revolução, ANTÓNIO RAMALHO EANES.**
+O Presidente do Conselho da Revolução, ANTÓNIO RAMALHO EANES.

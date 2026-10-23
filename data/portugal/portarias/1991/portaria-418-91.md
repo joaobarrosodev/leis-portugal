@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/418/1991/05/20/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/418-1991-639890
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-20T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d94844355dc7dd05f56922550fa04d6da72f7dd9d7e5195befe29fa6ebff332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ca108b36e7b8d76c182044363a1c324eaa0bc1f09c2bb558afe9b304c092839
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,19 +66,47 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Regulamento
 - Ensino Superior
-relationships: []
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:335245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576541:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625602:por
+  label: null
+  source: null
 article_structure:
   article_count: 49
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:45Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +129,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 30 de Abril de 1991.**
+Assinada em 30 de Abril de 1991.
 
-**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+O Ministro da Educação, Roberto Artur da Luz Carneiro.
 
 Regulamento do concurso nacional da acesso ao ensino superior para a matrícula e inscrição no ano lectivo de 1991-1992.
 
@@ -749,7 +777,7 @@ A Direcção-Geral do Ensino Superior, a Direcção dos Ensinos Básico e Secund
 
 ## ANEXO I — Equivalência das disciplinas do ano propedêutico às disciplinas do 12.º ano de escolaridade (ver nota a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/115b00/26912699.pdf))](https://files.diariodarepublica.pt/1s/1991/05/115b00/26912699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/115b00/26912699.pdf)
 
 (nota a) Reprodução do mapa II anexo à [Portaria n.º 648/81](https://diariodarepublica.pt/dr/detalhe/portaria/648-1981-579361), de 11 de Agosto.
 
@@ -779,7 +807,7 @@ Pedem deferimento.
 
 ## ANEXO III — Prazos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/115b00/26912699.pdf))](https://files.diariodarepublica.pt/1s/1991/05/115b00/26912699.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/115b00/26912699.pdf)
 
 ## ANEXO IV — Contingente especial para portadores de deficiência física ou sensorial - regras de admissão
 

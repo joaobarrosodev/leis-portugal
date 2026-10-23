@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/35/1991/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/35-1991-495902
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-10T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d42f1fc33e2db7403c8ec8fc84272fc0e87c5dd83978856c2da938dff48c9d29
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 17daf8fef4c7f8928499ad2fc4d9f5a72423898b36188aaa918b53a56837b39c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,19 +70,43 @@ subjects:
 - Taxa
 relationships:
 - type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADA PELA PORTARIA 239/91, PUBLICADA NO DR.IS-B, 69, DE 920323.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: amended_by
   target: pt:dre:585060:por
   label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:282155:por
+  label: "Aditada a tarifa n.º 5 - Serviços de radiocomunicações, A.2 - Taxas de utilização, I - Instalações radiotelefónicas(*),\
+    \ pela PORT.798/92.17.08.1992.MOPTC, DR.IS-B [188] de 17.08.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/798-1992-282155
+  date: '1992-08-17'
+- type: amended_by
+  target: pt:dre:585060:por
+  label: Alteradas as taxas dos serviços de radiocomunicações pelo(a) Portaria n.º 1053/92 - Diário da República n.º 260/1992,
+    Série I-B de 1992-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1053-1992-585060
+  date: '1992-11-10'
+- type: cites
+  target: pt:dre:204813:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:496757:por
+  label: null
   source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:53Z'
   warnings: []
   errors: []
 ---
@@ -99,10 +123,10 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 20 de Dezembro de 1990.**
+Assinada em 20 de Dezembro de 1990.
 
-**O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.
 
 TARIFA N.º 5 - SERVIÇOS DE RADIOCOMUNICAÇÕES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/012b00/02220224.pdf))](https://files.diariodarepublica.pt/1s/1991/01/012b00/02220224.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/012b00/02220224.pdf)

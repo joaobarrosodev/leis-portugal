@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/093b00/22762279.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/358/1991/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/358-1991-594079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-11-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39d54031d4fd604f94117ec1b2acb7f936096c06a42afd279c91240cb8297185
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 10d5207c534e428c43d3aee24cceebf9b23a0d47b69a8c51b9f9df2270e518a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,28 +68,48 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Bacharelato
-- Plano de Estudos
 - Curso de Engenharia da Produção e da Manutenção Industrial
 - Curso de Tecnologia da Produção e Manutenção Industrial
 - Ensino Superior Politécnico
 - Escola Superior de Tecnologia
 - Instituto Politécnico
+- Plano de Estudos
 - Viseu
 relationships:
 - type: amended_by
   target: pt:dre:622312:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:515235:por
+  label: "Alterada a designação do curso, aprovado pela Portaria n.º 362/90, de 11 de Maio, na redacção conferida pelo presente\
+    \ diploma, para curso de Engenharia Mecânica e Gestão Industrial, pela PORT.380/95.29.04.1995.ME, DR.IS-B [100] de 29.04.1995\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/380-1995-515235
+  date: '1995-04-29'
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:571273:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:622312:por
+  label: "Revogada pela PORT.1076/2000.2000.11.07.ME DR.IS-B [257]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1076-2000-622312
+  date: '2000-11-07'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:04Z'
   warnings: []
   errors: []
 ---
@@ -190,7 +210,7 @@ Sem prejuízo do período de transição a que se refere o n.º 9.º, é revogad
 
 Ministério da Educação.
 
-**Assinada em 26 de Março de 1991.**
+Assinada em 26 de Março de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -204,4 +224,4 @@ Grau: bacharel
 
 Do QUADRO N.º 1 ao QUADRO N.º 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/093b00/22762279.pdf))](https://files.diariodarepublica.pt/1s/1991/04/093b00/22762279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/093b00/22762279.pdf)

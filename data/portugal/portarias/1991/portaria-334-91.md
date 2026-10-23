@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/334/1991/04/11/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/334-1991-616421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-08-08T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee572b9853762439366986fd3dd38a015a5573df7c5a9b20af0f9d83f42ba346
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2edc29ab93bc676b50ef65b4cabcf7330c4bc5f0ca265c69508c52703e95343
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Cartaxo
 - CAÇA
+- Cartaxo
 relationships:
 - type: amended_by
   target: pt:dre:455142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:484111:por
+  label: "Renovada por dez anos a concessão da zona de caça pela PORT.1137/2003.02.10.2003.MECO, DR.IS-B [228] de 02.10.2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1137-2003-484111
+  date: '1991-04-11'
+- type: amended_by
+  target: pt:dre:651154:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e das\
+    \ actividades de carácter venatório, pela PORT.639/2003.2003.07.29.MADRP, DR.IS-B [173]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/639-2003-651154
+  date: '2003-07-29'
+- type: amended_by
+  target: pt:dre:455142:por
+  label: "Anexado um prédio rústico à zona de caça concessionada pelo presente diploma, alterada pela Port 1137/2003, de 02-Out,\
+    \ pela PORT.826/2008.08.08.2008.MADRP, DR.IS [153] de 08.08.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/826-2008-455142
+  date: '2008-08-08'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:29Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +149,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 14 de Março de 1991.**
+Assinada em 14 de Março de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/084b00/19611961.pdf))](https://files.diariodarepublica.pt/1s/1991/04/084b00/19611961.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/084b00/19611961.pdf)

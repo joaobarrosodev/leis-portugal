@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-nacional/1961-170932
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-05-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04abad5a1826d84be9beceb63cc631351a3068a830952ad9a7e37cb0f2bb67b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64dd9d06c567b2c2ecae43ba0065e190e040489a94738fcd254dbaa6858a0212
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:44Z'
   warnings: []
   errors: []
 ---
@@ -88,6 +88,6 @@ Em nome da Nação, a Assembleia Nacional decreta e eu promulgo a resolução se
 
 A Assembleia Nacional, depois de tomar conhecimento do parecer da Comissão das Contas Públicas, resolve dar a sua aprovação às contas da Junta do Crédito Público referentes ao ano de 1959.
 
-**Publique-se e cumpra-se como nela se contém.**
+Publique-se e cumpra-se como nela se contém.
 
 Paços do Governo da República, 22 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

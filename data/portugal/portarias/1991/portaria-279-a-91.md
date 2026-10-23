@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 79/1991, 2º Suplemento, Série I-B de 1991-04-05
   number: '79'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1818-(6) a 1818-(7)
   pdf_url: https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/279-a/1991/04/05/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/279-a-1991-432825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-08-12T00:00:00Z'
+  retrieved_at: '2026-10-23T10:45:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac163e0c772eff718907baca9d407cc2e4823ef992c9a71b87bce5db41da8d40
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 782dfac438d7b7f27a4a274f7005384c14ddbe6f94a3d9fb0c8fb6b72581c37f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:45:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,35 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Administração Central
-- Divisa
-- Administração Pública
-- Orçamento Cambial do Sector Público
 - Administração Local
+- Administração Pública
 - Administração Regional
+- Divisa
+- Orçamento Cambial do Sector Público
 relationships:
 - type: amended_by
   target: pt:dre:675246:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:675246:por
+  label: Alterado o n.º 2.º pelo(a) Portaria n.º 797/91 - Diário da República n.º 184/1991, Série I-B de 1991-08-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/797-1991-675246
+  date: '1991-08-12'
+- type: cites
+  target: pt:dre:662173:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:45:08Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +107,11 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 1.º Nos termos do n.º 1 do artigo 2.º, do n.º 2 do artigo 9.º e do n.º 2 do artigo 10.º do [Decreto-Lei n.º 136/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1987-662173), de 19 de Março, é aprovado o regime cambial das administrações central, local e regional para 1991, com o seguinte perfil, excluindo os fluxos inerentes à dívida do Estado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf)
 
 2.º Relativamente à administração central, nos termos dos n.os 3 e 4 do artigo 2.º do [Decreto-Lei n.º 136/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1987-662173), são fixados os seguintes limites máximos do montante de despesa em moeda estrangeira a realizar em 1991:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf))](https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/079b02/00060007.pdf)
 
 3.º Os limites fixados nos números anteriores não poderão ser alterados, salvo em casos excepcionais devidamente justificados, mediante despacho do Ministro das Finanças, que terá a faculdade de delegar no Secretário de Estado do Tesouro.
 
@@ -114,6 +123,6 @@ Manda o Governo, pelo Ministro das Finanças, o seguinte:
 
 Ministério das Finanças.
 
-**Assinada em 4 de Abril de 1991.**
+Assinada em 4 de Abril de 1991.
 
-**O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.**
+O Ministro das Finanças, Luís Miguel Couceiro Pizarro Beleza.

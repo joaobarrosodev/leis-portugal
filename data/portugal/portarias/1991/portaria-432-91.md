@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/05/119b00/28702871.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/432/1991/05/24/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/432-1991-644365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-14T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f2eb648ed0181152c82764389471fd97656ec9051bbf793d61c60b800721e38
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bed0d402acadd53bd2cbbd0e57343e269298e41dc2e3611fcc5e332fa1002ae3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,16 +73,29 @@ relationships:
   target: pt:dre:636938:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:358361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:451801:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:636938:por
+  label: "Revogada, a partir de 01.01.2008, pela LEI.37/2007.14.08.2007.AR, DR.IS [156] de 14.08.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/37-2007-636938
+  date: '2007-08-14'
 article_structure:
   article_count: 14
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:04Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +112,9 @@ Manda o Governo, pelos Ministros da Saúde e do Ambiente e Recursos Naturais, o 
 
 Ministérios da Saúde e do Ambiente e Recursos Naturais.
 
-**Assinada em 23 de Abril de 1991.**
+Assinada em 23 de Abril de 1991.
 
-**O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.
 
 Regulamento do Conselho de Prevenção do Tabagismo
 

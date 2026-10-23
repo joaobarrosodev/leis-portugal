@@ -49,36 +49,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-1983-308166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:49:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 18ad7b2a927762a5ea657c1c8c0b861c2075439d0cd30551061571d8a817dcf5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d9445b6e9b627a04ac29b09c70d5b4881a4f9418d9766770c5ced5b8c2dd4f2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:49:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissão Administrativa
+- Conselho de Administração
+- Definição de Competências
+- IPE
+- Sociedade Geral de Comércio Indústria e Transportes
+- Sogefi-sociedade de Gestão e Financiamento
+- Transferência de Competências
+relationships:
+- type: cites
+  target: pt:dre:276629:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397495:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:401351:por
+  label: Rectificada pela DECL.DD2944.1983.02.23.PCM DR.IS [48]Supl de 28/Fev/1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-401351
+  date: '1983-02-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:49:09Z'
   warnings: []
   errors: []
 ---

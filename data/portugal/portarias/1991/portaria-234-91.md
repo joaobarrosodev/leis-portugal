@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/03/068b00/15321534.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/234/1991/03/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1991-471955
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1998-04-09T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2261bc7ca54ac3205912f293ef62fdd95981d7d3960b811dad5995db62e41d0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b6659d5bf917fd1e3e06f479d0db34c01467a868bbf817db9640df02038e080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,24 +66,54 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Formação Profissional
 - Ensino de Condução
+- Formação Profissional
 - Instrutor de Condução
 relationships:
 - type: amended_by
   target: pt:dre:167382:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:301618:por
+  label: Aditados os n.ºs 35.º a 39.º pelo(a) Portaria n.º 972/91 - Diário da República n.º 217/1991, Série I-B de 1991-09-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/972-1991-301618
+  date: '1991-09-20'
+- type: amended_by
+  target: pt:dre:217123:por
+  label: Alterada a al. a) do n.º 8.º e revogados os n.ºs 10.º e 31.º pelo(a) Portaria n.º 365/92 - Diário da República n.º
+    98/1992, Série I-B de 1992-04-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-1992-217123
+  date: '1992-04-28'
+- type: cites
+  target: pt:dre:452520:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553008:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:459471:por
+  label: Retificados os n.ºs 22.º , 23.º e 25.º pelo(a) Declaração de Rectificação n.º 92/91 - Diário da República n.º 99/1991,
+    2º Suplemento, Série I-B de 1991-04-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/92-1991-459471
+  date: '1991-04-30'
+- type: repealed_by
+  target: pt:dre:167382:por
+  label: "Revogada pelo DR.5/98.1998.04.09.MAI, DR.IS-B [84]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-1998-167382
+  date: '1998-04-09'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:07Z'
   warnings: []
   errors: []
 ---
@@ -244,6 +274,6 @@ b) Face à aprovação no exame teórico a que se refere o n.º 26.º da mesma p
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 6 de Março de 1991.**
+Assinada em 6 de Março de 1991.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

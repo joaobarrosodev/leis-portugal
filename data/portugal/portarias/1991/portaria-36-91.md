@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/36/1991/01/15/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-1991-495899
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-01-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2efff1f03763e1d4f9b74dda10b26a9c88930b9ff71c89b4ff5533f71530471
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 56585449d73538d9d85d81154b9c1ab74dc935800e8f85e0e87ba4c7e3f2731c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
+- Navegação Marítima
 - Pilotagem
 - Regulamento dos Serviços e Taxas de Pilotagem
 - TAXA de Pilotagem
-- Navegação Marítima
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:610011:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:08Z'
   warnings: []
   errors: []
 ---
@@ -105,6 +109,6 @@ Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações
 
 Ministério das Obras Públicas, Transportes e Comunicações.
 
-**Assinada em 18 de Dezembro de 1990.**
+Assinada em 18 de Dezembro de 1990.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Álvaro Severiano da Silva Magalhães, Secretário de Estado das Obras Públicas.

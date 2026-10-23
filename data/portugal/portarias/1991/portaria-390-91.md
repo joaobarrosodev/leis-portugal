@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/390/1991/05/08/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/390-1991-610760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-07-19T00:00:00Z'
+  retrieved_at: '2026-10-23T10:48:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ea61283b6cea8080f9de20b722f8c5092c4c9eb40f015dce41f8633f949e49b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9a5c03ec86329da4b682f2027359ef9df24b51eca1747b228ef67345bdc420e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:48:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,26 +66,47 @@ reuse:
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
 - Carreira Profissional
+- Ensino Básico
+- Estabelecimento de Ensino
+- Gestão de Recursos Humanos
 - Gestão Escolar
 - Pessoal não Docente
-- Estabelecimento de Ensino
-- Ensino Básico
-- Gestão de Recursos Humanos
 relationships:
 - type: amended_by
   target: pt:dre:237586:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:237586:por
+  label: "Aprovada a revisão dos quadros distritais de vinculação de pessoal não docente, relativa às carreiras e categorias\
+    \ de assistente de administração escolar, de auxiliar de acção educativa e de cozinheiro, para os funcionários com nomeação\
+    \ definitiva dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, criados pelo Dec\
+    \ Lei 223/87 de 30-Mai e cujos anexos II a IX foram alterados pelo presente diploma, pela PORT.601/2005.19.07.2005.ME,\
+    \ DR.IS-B [137] de 19.07.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/601-2005-237586
+  date: '2005-07-19'
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620320:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:48:03Z'
   warnings: []
   errors: []
 ---
@@ -114,10 +135,10 @@ Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
 
 Ministérios das Finanças e da Educação.
 
-**Assinada em 15 de Abril de 1991.**
+Assinada em 15 de Abril de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Educação, José Augusto Perestrello de Alarcão Troni, Secretário de Estado Adjunto do Ministro da Educação.
 
 DO ANEXO II ao ANEXO XIX
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/105b00/24542484.pdf))](https://files.diariodarepublica.pt/1s/1991/05/105b00/24542484.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/05/105b00/24542484.pdf)

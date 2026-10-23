@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/272/1991/04/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/272-1991-622139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-11-13T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2116b4879b71be4d357b2bdfc9ebe7d6394644afff5beeacecd42ee6bbb2488
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4c798a349b58ad1d9cc1320499df9f9c3bee63771f1efbfcb7f577df8793e81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,25 +66,50 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
-- Instituto Superior de Línguas e Administração
 - Curso de Secretariado
 - Curso de Tradutores e Intérpretes
+- Instituto Superior de Línguas e Administração
+- Plano de Estudos
 relationships:
 - type: amended_by
   target: pt:dre:1243578:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:372379:por
+  label: "Alterado o Plano de Estudos do curso de licenciatura em Tradução, em anexo ao DESP 127/MEC/86 de 21-Jun DR.IIS [146]2ºSUPL\
+    \ de 28-Jun, na redacção do presente diploma, do Dec Lei 429/88 de 19-Nov e da Port 55/93 de 13-Jan, pela PORT.146/2001.2001.03.02.ME,\
+    \ DR.IS-B [52]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/146-2001-372379
+  date: '2001-03-02'
+- type: amended_by
+  target: pt:dre:1243579:por
+  label: "ALTERADO O QUADRO DE PESSOAL PELA PORT.1672/2002(2ªSÉRIE).2002.10.16.MF,MCOTA, DR.IIS [262] DE 13/NOV/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1672-2002-1243579
+  date: '2002-10-16'
+- type: amended_by
+  target: pt:dre:1243578:por
+  label: "Alterado o quadro de pessoal pela PORT.1671/2002(2ªSérie).13.11.2002.MF, DR.IIS [262] de 13.11.2002. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1671-2002-1243578
+  date: '2002-11-13'
+- type: cites
+  target: pt:dre:357754:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618546:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:58Z'
   warnings: []
   errors: []
 ---
@@ -107,10 +132,10 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 Ministério da Educação.
 
-**Assinada em 5 de Março de 1991.**
+Assinada em 5 de Março de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
 ## ANEXO — Instituto Superior de Línguas e Administração
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/078b00/17331734.pdf))](https://files.diariodarepublica.pt/1s/1991/04/078b00/17331734.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/078b00/17331734.pdf)

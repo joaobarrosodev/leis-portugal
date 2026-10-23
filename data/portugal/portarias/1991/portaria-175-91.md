@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/175/1991/03/01/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/175-1991-463194
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 408828251523dd0abb95873ffd06b19dafcc3eb8b0339be8dd1fa7623ac3abff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d03b3f2f0112ca97c3f678300b860ee2f08252884b4405df940f785ad74552ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -74,16 +74,59 @@ relationships:
   target: pt:dre:492236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:673251:por
+  label: "Anexados vários prédios rústicos à zona de caça turística criada pelo presente diploma pela PORT.902/99.1999.10.12.MECO,DR.IS-B\
+    \ [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/902-1999-673251
+  date: '1999-10-12'
+- type: amended_by
+  target: pt:dre:651753:por
+  label: "Suspenso, até à publicação da portaria de renovação, pelo prazo máximo de nove meses, o exercício da caça e das\
+    \ actividades de carácter venatório na zona de caça, alterada pela Port 902/99, de 12-Out, pela PORT.664/2003.2003.07.30.MADRP,\
+    \ DR.IS-B [174]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-2003-651753
+  date: '2003-07-30'
+- type: amended_by
+  target: pt:dre:541832:por
+  label: "Renovada por seis anos e transferida para José de Mira Nunes Mexia Herdeiros a concessão de zona de caça atribuída\
+    \ pelo presente diploma, alterado pela Port 902/99, de 12-Out, pela PORT.291/2004.20.03.2004.MECO, DR.IS-B [68] de 20.03.2004\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/291-2004-541832
+  date: '2004-03-20'
+- type: amended_by
+  target: pt:dre:492236:por
+  label: "Renovada por um período de seis anos a concessão da zona de caça atribuída pelo presente diploma, alterada pela\
+    \ Port 902/99, de 12-Out, renovada e transferida pela Port 291/2004, de 20-Mar, pela PORT.709/2009.07.07.2009.MADRP, DR.IS\
+    \ [129] de 07.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/709-2009-492236
+  date: '2009-07-07'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:37Z'
   warnings: []
   errors: []
 ---
@@ -116,8 +159,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 19 de Fevereiro de 1991.**
+Assinada em 19 de Fevereiro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/050b00/10661066.pdf))](https://files.diariodarepublica.pt/1s/1991/03/050b00/10661066.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/050b00/10661066.pdf)

@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/244/1991/03/25/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/244-1991-621572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-25T00:00:00Z'
+  retrieved_at: '2026-10-23T10:44:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bae665429570867a489464e01bbb008742d39a2be1f2e6256f4ec43d3278302
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01e6072ca3a9d95e58b0b2b05afff9d8884b7a2bd489644a15569835974d66fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:44:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,30 @@ subjects:
 - Centro de Turismo de Portugal no Estrangeiro
 - Criação de Serviços
 - Extinção de Serviços
-relationships: []
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "RECTIFICADA PELA DECL-RECT NUMERO 89/91, DE 15/4/9 PUBLICADO NO DIÁRIO DA REPÚBLICA, PRIMEIRA SÉRIE B, NUMERO 99,\
+    \ SEGUNDO SUPLEMENT O, DE 30/4/91.\030/4/91.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+- type: cites
+  target: pt:dre:221515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551256:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:44:18Z'
   warnings: []
   errors: []
 ---
@@ -108,6 +121,6 @@ Manda o Governo, pelos Ministros das Finanças, dos Negócios Estrangeiros e do 
 
 Ministérios das Finanças, dos Negócios Estrangeiros e do Comércio e Turismo.
 
-**Assinada em 5 de Março de 1991.**
+Assinada em 5 de Março de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro. - O Ministro do Comércio e Turismo, Fernando Manuel Barbosa Faria de Oliveira.

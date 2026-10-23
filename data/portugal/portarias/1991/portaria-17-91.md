@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/17/1991/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-1991-693430
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-05T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46ce3756168b497c0f292d75ce253084134576f16d9e6c6083edda38facc8fac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5d66833da73e536b924f90bca93cb71c42eb1dcd09f7dc63d6774b259accb1a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,10 +66,10 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metrologia
-- Entidade Certificadora
 - Aparelho de Medição
 - Controlo Metrológico
+- Entidade Certificadora
+- Metrologia
 relationships:
 - type: amended_by
   target: pt:dre:262332:por
@@ -91,16 +91,27 @@ relationships:
   target: celex:31982L0625
   label: null
   source: http://data.europa.eu/eli/dir/1982/625/oj
+- type: corrected_by
+  target: pt:dre:292495:por
+  label: Retificado o n.º 5.2 do Regulamento pelo(a) Declaração de Rectificação n.º 28-R/91 - Diário da República n.º 49/1991,
+    2º Suplemento, Série I-B de 1991-02-28
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/28-r-1991-292495
+  date: '1991-02-28'
+- type: repealed_by
+  target: pt:dre:262332:por
+  label: "Revogada, nos termos do artigo 9.º, pela PORT.19/2007.05.01.2007.MEI, DR.IS [4] de 05.01.2007\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/19-2007-262332
+  date: '2007-01-05'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:27Z'
   warnings: []
   errors: []
 ---
@@ -125,9 +136,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, o seguinte:
 
 Ministério da Indústria e Energia.
 
-**Assinada em 17 de Dezembro de 1990.**
+Assinada em 17 de Dezembro de 1990.
 
-**O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.
 
 REGULAMENTO DO CONTROLO METROLÓGICO DOS CONTADORES E CONJUNTOS DE MEDIÇÃO DE LÍQUIDOS COM EXCLUSÃO DA ÁGUA.
 
@@ -193,7 +204,7 @@ a) Conjuntos de medição e bombas de gasolina:
 
 QUADRO I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/007b00/01150117.pdf))](https://files.diariodarepublica.pt/1s/1991/01/007b00/01150117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/007b00/01150117.pdf)
 
 b) Fornecimento mínimo - os erros máximos admissíveis são duplos dos valores indicados no quadro I e, qualquer que seja a quantidade medida, os erros não deverão ser, em qualquer caso, inferiores aos admissíveis para o fornecimento mínimo;
 
@@ -211,7 +222,7 @@ d) Contadores - os erros máximos admissíveis são metade dos valores indicados
 
 QUADRO II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/01/007b00/01150117.pdf))](https://files.diariodarepublica.pt/1s/1991/01/007b00/01150117.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/01/007b00/01150117.pdf)
 
 7.3 - A verificação periódica será anual.
 

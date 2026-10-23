@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/339/1991/04/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/339-1991-616195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-03T00:00:00Z'
+  retrieved_at: '2026-10-23T10:46:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b9630227cb134d539acec356866d07dc4c2e517a8cf5183677834f28675a8c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2eb5d1ef182975c939a14ed1f12e50be91c60e463936501381d8e2dc2bc8756a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:46:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,13 +65,13 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Pessoal Dirigente
+- Capelão
 - Hospital Distrital
 - Mirandela
 - Pessoal Administrativo
 - Pessoal Auxiliar
-- Capelão
 - Pessoal de Enfermagem
+- Pessoal Dirigente
 - Pessoal Técnico
 - Pessoal Técnico Profissional
 - Pessoal Técnico Superior
@@ -81,16 +81,77 @@ relationships:
   target: pt:dre:241252:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:599709:por
+  label: "Substituído o quadro de pessoal, na parte referente às carreiras de técnico superior de saúde, de técnico superior\
+    \ de serviço social e de técnico auxiliar de biblioteca, documentação e arquivo, pela PORT.1098/92.28.11.1992.MF, DR.IS-B\
+    \ [276] de 28.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1098-1992-599709
+  date: '1992-11-28'
+- type: amended_by
+  target: pt:dre:241252:por
+  label: "Substituído o quadro de pessoal, aprovado pelo presente diploma, pela PORT.436/96.03.09.1996.PCM, DR.IS-B [204]\
+    \ de 03.09.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/436-1996-241252
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:274640:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:287166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386029:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419191:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499572:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567016:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:46:38Z'
   warnings: []
   errors: []
 ---
@@ -113,20 +174,20 @@ Repartição de Pessoal e Admissão de Doentes, que engloba:
 
 #### Secção de Pessoal;
 
-#### Secção de Admissão de Doentes;
+Secção de Admissão de Doentes;
 
 Repartição de Contabilidade e Aprovisionamento, que engloba:
 
-#### Secção de Contabilidade;
+Secção de Contabilidade;
 
-#### Secção de Aprovisionamento.
+Secção de Aprovisionamento.
 
 Ministérios das Finanças e da Saúde.
 
-**Assinada em 4 de Março de 1991.**
+Assinada em 4 de Março de 1991.
 
 Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
 
 Quadro de pessoal do Hospital Distrital de Mirandela
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/086b00/20292031.pdf))](https://files.diariodarepublica.pt/1s/1991/04/086b00/20292031.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/086b00/20292031.pdf)

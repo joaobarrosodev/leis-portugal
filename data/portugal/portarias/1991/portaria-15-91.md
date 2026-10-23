@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/007b00/01140114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/15/1991/01/09/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-1991-693433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2023-11-15T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fb6659e97e74eb13fd38057d3fea0ac57600fd9a4588ed16519ff9719010e3f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b34391e4b42073fbfc0fb38c72b97531c0e856c857b8df23fcd3ef0e300f79d9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,9 +65,9 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Metrologia
 - Aparelho de Medição
 - Embalagem
+- Metrologia
 - Regulamento do Controlo Metrológico das Garrafas Utilizadas como Recipientes de Medida
 relationships:
 - type: amended_by
@@ -86,16 +86,22 @@ relationships:
   target: celex:31980L0181
   label: null
   source: http://data.europa.eu/eli/dir/1980/181/oj
+- type: repealed_by
+  target: pt:dre:224268559:por
+  label: Revogada, a partir de 16.11.2023, pelo(a) Portaria n.º 365/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15
+    nos termos do art. 2.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/365-2023-224268559
+  date: '2023-11-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:02Z'
   warnings: []
   errors: []
 ---
@@ -116,9 +122,9 @@ Manda o Governo, pelo Ministro da Indústria e Energia, que seja aprovado o Regu
 
 Ministério da Indústria e Energia.
 
-**Assinada em 14 de Dezembro de 1990.**
+Assinada em 14 de Dezembro de 1990.
 
-**O Ministro da Indústria e Energia, Luís Mira Amaral.**
+O Ministro da Indústria e Energia, Luís Mira Amaral.
 
 REGULAMENTO DO CONTROLO METROLÓGICO DAS GARRAFAS UTILIZADAS COMO RECIPIENTES DE MEDIDA
 

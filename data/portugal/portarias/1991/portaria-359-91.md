@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/359/1991/04/22/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-1991-594081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-04-22T00:00:00Z'
+  retrieved_at: '2026-10-23T10:47:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f7fde273f07e27fab1c1fb83bedafc0124bf617e83280250f9d4059a7654dab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 074033eb547ed14d5d0e370225393641b4a7a285ce0304241256663eb104078a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:47:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,21 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Plano de Estudos
 - Curso de Produção Agrícola
 - Instituto Politécnico
+- Plano de Estudos
 - Santarém
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:358290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470779:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:47:04Z'
   warnings: []
   errors: []
 ---
@@ -111,7 +123,7 @@ A alteração aprovada pela presente portaria entrará em funcionamento nos term
 
 Ministério da Educação.
 
-**Assinada em 26 de Março de 1991.**
+Assinada em 26 de Março de 1991.
 
 Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
 
@@ -127,4 +139,4 @@ Grau: Bacharel
 
 3.º ANO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/093b00/22792280.pdf))](https://files.diariodarepublica.pt/1s/1991/04/093b00/22792280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/04/093b00/22792280.pdf)

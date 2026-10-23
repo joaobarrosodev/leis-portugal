@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/128/1991/02/13/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-1991-478058
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-08-07T00:00:00Z'
+  retrieved_at: '2026-10-23T10:41:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 270d854eeeaedb75a2d7d29645ed067f0987572fe5d517b88453dfff1cf4139c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fc6ee9165adcad4a5d18742e308f2d9c8d7ae06f9ad3be89fba1f4a739a6c9c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:41:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,23 +66,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Chamusca
 - CAÇA
+- Chamusca
 relationships:
 - type: amended_by
   target: pt:dre:637386:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:418382:por
+  label: "Renovada a concessão de zona de caça pela PORT.355-C/97.1997.05.30.MADRP DR.IS-B [124]3ºSupl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/355-c-1997-418382
+  date: '1997-05-30'
+- type: amended_by
+  target: pt:dre:572107:por
+  label: "Anexados vários prédios rústicos à zona de caça associativa pela PORT.773/2000.2000.09.13.MADRP, DR.IS-B [212] de\
+    \ 13/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/773-2000-572107
+  date: '2000-09-13'
+- type: amended_by
+  target: pt:dre:637386:por
+  label: "Renovada a concessão de caça atribuída pelo presente diploma, renovada pela Portaria 355-C/97, de 30 de Maio, e\
+    \ alterada pela Portaria 773/2000, de 13 de Setembro, pela PORT.836/2007.07.08.2007.MADRP, DR.IS [151] de 07.08.2007\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/836-2007-637386
+  date: '2007-08-07'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:41:22Z'
   warnings: []
   errors: []
 ---
@@ -115,8 +149,8 @@ Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguint
 
 Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 29 de Janeiro de 1991.**
+Assinada em 29 de Janeiro de 1991.
 
 Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/036b00/06890689.pdf))](https://files.diariodarepublica.pt/1s/1991/02/036b00/06890689.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/02/036b00/06890689.pdf)

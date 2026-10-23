@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1991/01/008b00/01460149.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/23/1991/01/10/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23-1991-694067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-09-18T00:00:00Z'
+  retrieved_at: '2026-10-23T10:43:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4906e619a36e6263c1118bfbade8d94345efdf9924eb77db15f9df483df2d372
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50ad09606a191f8da8caf3c9ffc281f612193320537273e02d85eac92aedc448
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:43:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,26 +65,44 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Titulo de Transporte
-- Transporte Rodoviário
 - Direcção Geral dos Transportes Terrestres
 - Preço
+- Titulo de Transporte
 - Transporte Público
+- Transporte Rodoviário
 relationships:
 - type: amended_by
   target: pt:dre:124793102:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:327646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:575141:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621940:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124793102:por
+  label: Revogada, a partir de 19.09.2019, pelo(a) Decreto-Lei n.º 140/2019 - Diário da República n.º 179/2019, Série I de
+    2019-09-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/140-2019-124793102
+  date: '2019-09-18'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:43:57Z'
   warnings: []
   errors: []
 ---
@@ -241,6 +259,6 @@ f) O lugar a que correspondem, salvo se o embarque tiver lugar em paragem interm
 
 Ministérios das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
 
-**Assinada em 18 de Dezembro de 1990.**
+Assinada em 18 de Dezembro de 1990.
 
 Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes. - Pelo Ministro do Comércio e Turismo, Alfredo César Torres, Secretário de Estado do Turismo.

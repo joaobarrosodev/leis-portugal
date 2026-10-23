@@ -47,18 +47,18 @@ source:
   metadata_url: https://data.dre.pt/eli/port/179/1991/03/04/p/dre/pt/html
   content_url: https://diariodarepublica.pt/dr/detalhe/portaria/179-1991-466849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-03-04T00:00:00Z'
+  retrieved_at: '2026-10-23T10:42:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d22f3f80ae975dee12e72e14f651cd432cac0f2f2f63ec3e605a5f8bafe36172
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8536afbefdb465f5006376c87ac7f21df0f5bdb958178bddc1e56c2a2cd87a6e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:42:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,17 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects:
-- Financiamento
+- Açores
+- Agricultura
 - CEE
-- Jovem Agricultor
 - Exploração Agrícola
-- Política Agrícola Comum
+- Financiamento
+- Jovem Agricultor
 - Madeira.região Autónoma
 - Política Agrícola
+- Política Agrícola Comum
 - Regulamento CE
-- Agricultura
 - Rendimento de Referência
-- Açores
 relationships:
 - type: cites
   target: celex:31985R0797
@@ -89,13 +89,13 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-23T10:42:42Z'
   warnings: []
   errors: []
 ---
@@ -118,6 +118,6 @@ Manda o Governo, pelos Ministros da República para a Região Autónoma dos Aço
 
 Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e Ministério da Agricultura, Pescas e Alimentação.
 
-**Assinada em 11 de Fevereiro de 1991.**
+Assinada em 11 de Fevereiro de 1991.
 
-**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.**
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira. - O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
