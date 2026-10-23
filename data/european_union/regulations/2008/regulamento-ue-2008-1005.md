@@ -210,6 +210,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:207939915:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:225283629:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:334969:por
   label: null
   source: null

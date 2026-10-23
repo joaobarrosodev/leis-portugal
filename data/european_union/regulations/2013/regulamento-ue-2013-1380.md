@@ -268,6 +268,10 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6b390c35-d623-4785-86a0-1fb492a32cab
   date: '2012-11-23'
 - type: cited_by
+  target: pt:dre:1046261724:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:105711870:por
   label: null
   source: null
@@ -277,6 +281,14 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:1070724089:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1088871373:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1153999475:por
   label: null
   source: null
 - type: cited_by
@@ -304,7 +316,35 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:152809285:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:160768630:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:160772325:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:171871496:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:180720346:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:181527912:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:185452457:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:187413413:por
   label: null
   source: null
 - type: cited_by
@@ -313,6 +353,18 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:204882845:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:205382695:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:205382710:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:211241848:por
   label: null
   source: null
 - type: cited_by
@@ -325,6 +377,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:223573620:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:261867131:por
   label: null
   source: null
 - type: cited_by
@@ -344,6 +400,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:884692090:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:891107797:por
   label: null
   source: null
@@ -352,7 +412,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:908254142:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:924672851:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:940313839:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:993782297:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:993783789:por
   label: null
   source: null
 - type: cites

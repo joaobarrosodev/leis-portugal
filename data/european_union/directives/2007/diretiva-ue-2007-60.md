@@ -93,6 +93,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:138223850:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:160068300:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:207942911:por
   label: null
   source: null
@@ -138,6 +146,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:911488699:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:919524241:por
   label: null
   source: null
 - type: cited_by

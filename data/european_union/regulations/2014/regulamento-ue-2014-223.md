@@ -205,11 +205,19 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:169418547:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:177847670:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:180657816:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:185897949:por
   label: null
   source: null
 - type: cited_by

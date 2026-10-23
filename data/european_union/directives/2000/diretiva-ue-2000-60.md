@@ -152,7 +152,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1184835235:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:118717738:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:138223850:por
   label: null
   source: null
 - type: cited_by
@@ -697,6 +705,10 @@ relationships:
   label: null
   source: null
 - type: transposed_by
+  target: pt:dre:144131392:por
+  label: null
+  source: null
+- type: transposed_by
   target: pt:dre:169418565:por
   label: null
   source: null
@@ -774,6 +786,10 @@ relationships:
   source: null
 - type: transposed_by
   target: pt:dre:906044202:por
+  label: null
+  source: null
+- type: transposed_by
+  target: pt:dre:927196900:por
   label: null
   source: null
 article_structure:

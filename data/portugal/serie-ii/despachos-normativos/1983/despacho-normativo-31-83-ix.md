@@ -1,0 +1,92 @@
+---
+schema_version: '1.0'
+id: pt:dre:1732912:por
+title: Despacho Normativo n.º 31/83-IX
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 31/83-IX
+official_date: null
+publication_date: '1983-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/1983, Série II de 1983-10-28
+  number: '249'
+  series: II
+  supplement: null
+  pages: null
+  pdf_url: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- 'Fonte sem texto: o DRE não tem texto eletrónico nem PDF deste diploma; o registo tem só os metadados (verificado em 2026-10-23).'
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1732912'
+  dre_path: /dr/detalhe/despacho-normativo/31-1983-1732912
+  internal: pt:dre:1732912:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1983-1732912
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/31-1983-1732912
+  consolidated_url: null
+  retrieved_at: '2026-10-23T19:09:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4ea11e7ca4fe3d6a87c0e72100504c843d4c1a1b895c916819509d452aa9ed33
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T19:09:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Benefícios Fiscais
+- Delegação de Competências
+- Governo IX
+- Ministro das Finanças e Plano
+- Secretário de Estado do Orçamento
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: 'Sem texto na fonte: o SHA-256 identifica a resposta de metadados do DRE (JSON, chaves ordenadas).'
+validation:
+  status: validated
+  checked_at: '2026-10-23T19:09:38Z'
+  warnings:
+  - Sem texto e sem PDF no DRE; registo só com os metadados.
+  errors: []
+---
+
+# Despacho Normativo n.º 31/83-IX
+
+> O DRE não tem o texto deste diploma nem o PDF; este registo tem só os metadados.

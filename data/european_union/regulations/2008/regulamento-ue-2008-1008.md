@@ -136,7 +136,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:1129390750:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1138714123:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1143925782:por
   label: null
   source: null
 - type: cited_by
@@ -172,7 +180,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:144131403:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:157567893:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:164589985:por
   label: null
   source: null
 - type: cited_by

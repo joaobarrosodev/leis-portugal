@@ -838,6 +838,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:159765190:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:165228634:por
   label: null
   source: null
@@ -862,7 +866,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:200634447:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:200731781:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:204782003:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:211340865:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:211711493:por
   label: null
   source: null
 - type: cited_by

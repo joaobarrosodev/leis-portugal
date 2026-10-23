@@ -118,6 +118,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6e4be70e-772a-4cb0-9637-f7d90313c64c
   date: '2016-06-09'
 - type: cited_by
+  target: pt:dre:1140341434:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1164578875:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1174143475:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:1175177140:por
   label: null
   source: null

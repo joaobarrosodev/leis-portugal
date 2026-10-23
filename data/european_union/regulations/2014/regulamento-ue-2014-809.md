@@ -472,11 +472,23 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:129125602:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:147900077:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:152015943:por
   label: null
   source: null
 - type: cited_by
   target: pt:dre:156397445:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:158954619:por
   label: null
   source: null
 - type: cited_by

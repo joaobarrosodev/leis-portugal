@@ -123,6 +123,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:871222988:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:891107797:por
   label: null
   source: null

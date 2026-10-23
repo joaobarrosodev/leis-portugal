@@ -873,6 +873,14 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:884692090:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:887804446:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:891867286:por
   label: null
   source: null

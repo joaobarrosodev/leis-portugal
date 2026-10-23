@@ -172,6 +172,18 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/aa4e3ad0-a27e-402d-8483-ac66554f8f49
   date: '2008-06-06'
 - type: cited_by
+  target: pt:dre:137143667:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:137352180:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:144715626:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:276847:por
   label: null
   source: null

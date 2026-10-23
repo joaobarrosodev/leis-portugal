@@ -495,6 +495,10 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:129125602:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:136804683:por
   label: null
   source: null
@@ -507,7 +511,15 @@ relationships:
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:158954619:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:162025489:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:164706395:por
   label: null
   source: null
 - type: cited_by

@@ -344,6 +344,10 @@ relationships:
   target: pt:dre:836117872:por
   label: null
   source: null
+- type: cited_by
+  target: pt:dre:887804446:por
+  label: null
+  source: null
 - type: transposed_by
   target: pt:dre:906249927:por
   label: null

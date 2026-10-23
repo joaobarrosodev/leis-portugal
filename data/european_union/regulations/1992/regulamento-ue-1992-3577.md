@@ -128,11 +128,55 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/e1da8614-4bbc-4bbb-810b-25f4ca287ce0
   date: '1957-03-25'
 - type: cited_by
+  target: pt:dre:1088732654:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1127528313:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1149051875:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:1154977875:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:151864007:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:154945780:por
   label: null
   source: null
 - type: cited_by
+  target: pt:dre:169418541:por
+  label: null
+  source: null
+- type: cited_by
   target: pt:dre:203443:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:207863056:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:213242231:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:214172263:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:214722215:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:215585769:por
   label: null
   source: null
 - type: cited_by
@@ -153,6 +197,10 @@ relationships:
   source: null
 - type: cited_by
   target: pt:dre:69905667:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:865058738:por
   label: null
   source: null
 - type: cited_by
